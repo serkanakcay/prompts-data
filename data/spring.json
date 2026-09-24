@@ -1,0 +1,183 @@
+{
+  "category": "Spring",
+  "slug": "spring",
+  "total_prompts": 5,
+  "updated_at": "2026-09-24T13:12:24Z",
+  "prompts": [
+    {
+      "id": "6a89fb504bbdbe2cf5f28500",
+      "title": "Trendy Pink & White Men's Look",
+      "slug": "mens-spring-fashion-photography",
+      "category": "Spring",
+      "category_slug": "spring",
+      "prompt": "Use the uploaded reference photo of the person as the **main identity reference**. Create a highly realistic, premium-quality full-body fashion portrait while preserving the person’s **exact facial identity, natural skin tone, hairstyle, facial structure, and overall appearance** from the reference image.\n\n**Pose & Composition:**\nThe person is standing casually against a clean white wall, with the **back lightly resting against the wall**. Keep the **same relaxed fashion pose**: head slightly turned toward the right side, looking away from the camera, shoulders relaxed, one hand naturally placed inside the trouser pocket, the other arm hanging comfortably down. One leg is slightly crossed in front of the other, with the ankles naturally overlapping. Maintain the **same body posture, proportions, camera angle, framing, and full-body composition** as the reference.\n\n**Outfit:**\nDress the person in a premium minimalist summer outfit: a **plain soft-pink crew-neck T-shirt**, worn underneath an **open white lightweight button-down shirt with long sleeves casually rolled/folded to the forearms**, paired with **clean white straight-fit trousers** and **minimal white low-top sneakers**. Add a **simple dark wristwatch** on the wrist. Include **black stylish sunglasses** with a subtle premium frame. Keep the outfit elegant, clean, youthful, and naturally fitted.\n\n**Background:**\nRecreate the same bright, minimal aesthetic: a **smooth off-white/white plaster wall** occupying most of the background. On the **left side of the frame**, include a beautiful flowering branch/tree with abundant **soft pink blossoms**, extending naturally into the upper-left and left edge of the image. The sunlight should cast **delicate, realistic floral and branch shadows** across the white wall. Keep the right side mostly clean and uncluttered. Add a subtle light-colored floor at the bottom with a few naturally fallen pink petals.\n\n**Lighting & Mood:**\nSoft natural daylight, bright airy atmosphere, gentle warm sunlight, subtle highlights, realistic soft shadows, pastel pink and white color palette, luxury fashion editorial mood, clean Japanese/Korean-inspired minimalist aesthetic.\n\n**Photography:**\nFull-body portrait, vertical **4:5 composition**, eye-level camera perspective, natural proportions, slightly shallow depth of field, realistic lens compression, crisp subject separation, detailed fabric texture, realistic skin pores, natural hair strands, accurate sunglasses reflections, authentic shadows, premium professional fashion photography.\n\n**Quality:**\nUltra-photorealistic, extremely detailed, high dynamic range, natural skin texture, realistic anatomy, sharp facial details, realistic clothing folds, physically accurate lighting, sophisticated color grading, premium editorial photography, 8K-quality detail, clean image, no artificial-looking skin, no excessive retouching.\n\n**Important:** Keep the **same pose, same body positioning, same camera framing, same white-wall setting, same pink-flower placement, and same overall visual composition** as the reference image. Only replace the original person with the person from the uploaded reference photo while maintaining their recognizable identity.\n\n**Negative Prompt:**\ncartoon, anime, illustration, CGI, 3D render, plastic skin, over-smoothed face, distorted face, changed identity, different hairstyle, extra fingers, missing fingers, malformed hands, bad anatomy, deformed legs, duplicate body parts, unnatural pose, oversized head, blurry face, low resolution, noisy image, harsh shadows, oversaturated colors, excessive HDR, messy background, extra people, text, watermark, logo, cropped feet, cropped head, inaccurate clothing, unnatural sunglasses, artificial skin.\n\n---- Aspect ratio 4:5",
+      "description": "Use this spring fashion photography prompt to create a realistic portrait of a man in a pink and white outfit leaning on a wall with cherry blossom shadows.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 1655,
+      "copy_count": 2277,
+      "is_premium": false,
+      "published_at": "2026-08-24T04:40:50.423Z",
+      "images": [
+        {
+          "filename": "93cffcf0-c9bf-44a0-a4ac-da3b9b13ca9a.webp",
+          "local_path": "images/spring/93cffcf0-c9bf-44a0-a4ac-da3b9b13ca9a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93cffcf0-c9bf-44a0-a4ac-da3b9b13ca9a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/93cffcf0-c9bf-44a0-a4ac-da3b9b13ca9a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/93cffcf0-c9bf-44a0-a4ac-da3b9b13ca9a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Men's Spring Fashion Stucco Portrait AI Photo Editing Prompt. AI generated portrait of a young man in a pink and white casual outfit leaning against a textured wall with cherry blossom shadows."
+        },
+        {
+          "filename": "13469952-42f9-4d07-bdf3-5de22d147141.webp",
+          "local_path": "images/spring/13469952-42f9-4d07-bdf3-5de22d147141.webp",
+          "original_url": "https://img.promptplum.com/promptImages/13469952-42f9-4d07-bdf3-5de22d147141.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/13469952-42f9-4d07-bdf3-5de22d147141.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/13469952-42f9-4d07-bdf3-5de22d147141.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Men's Spring Fashion Cherry Blossom AI Photo Editing Prompt. AI generated portrait of a young man in a white shirt, pink t-shirt, and white pants, leaning against a wall with cherry blossom shadows."
+        }
+      ]
+    },
+    {
+      "id": "6a70cbd74bbdbe2cf5985226",
+      "title": "Aesthetic Woman with Floral Basket & Vintage Bike",
+      "slug": "aesthetic-woman-vintage-bicycle-flowers-portrait",
+      "category": "Spring",
+      "category_slug": "spring",
+      "prompt": "Create a ultra-realistic cinematic editorial photography with a soft, poetic Pinterest aesthetic. Natural storytelling, authentic textures, subtle analog film grain, soft color grading, shallow depth of field, elegant composition, timeless atmosphere.\nA young woman sits gracefully on a vintage pastel-blue Dutch bicycle in front of a large weathered blue wooden door made of vertical panels. The paint is gently faded, revealing aged wood beneath. The door features large antique brass handles with a soft green patina. Beside it stands a tall arched glass window with matching blue wooden frames and vertical panels. Both the door and window are closed. The surrounding wall is aged white plaster with delicate cracks and climbing ivy vines growing naturally around the arch.\nThe woman wears a light blue cotton button-up shirt with sleeves casually rolled up and high-waisted blue flared jeans. She rests one foot on the cobblestone ground and the other lightly on the pedal. Her body faces slightly toward the camera while her gaze looks gently downward to the left, creating a quiet, contemplative mood. Her hair moves softly in a gentle breeze.\nThe bicycle features cream-colored tires and a white wicker basket overflowing with fresh flowers in shades of blue, white, green, and a few deep burgundy-red accents, including blue hydrangeas, delphiniums, baby's breath, eucalyptus, and dark red roses. A small cream-colored handwritten letter peeks naturally from among the flowers.\nA white cat sleeps peacefully on the stone step beside the blue door, adding warmth and a sense of everyday life to the scene.\nBlue flower petals are scattered naturally across the cobblestone pavement. Soft blurred blue flowers frame the foreground, creating dreamy foreground bokeh and cinematic depth. The upper portion of the composition contains generous negative space, allowing the magnificent blue door to dominate the frame.\nSoft overcast afternoon light illuminates the scene evenly, producing gentle shadows and smooth skin tones. The color palette is dominated by dusty blue, ivory white, sage green, warm brass, soft cream, muted stone gray, and subtle burgundy accents. The overall feeling is quiet, nostalgic, romantic, elegant, and timeless.\nCaptured with a full-frame mirrorless camera, 85mm lens, f/1.8, shallow depth of field, ultra-photorealistic, highly detailed skin texture, realistic fabric folds, natural colors, cinematic composition, 8k UHD, editorial magazine quality, no yellow color cast.\n\nAspect ratio 4:5\n\nQuality tags: Cinematic Editorial, Poetic Aesthetic, Vintage Bicycle\n\nNegative Prompt: cartoon, CGI, illustration, painting, anime, low resolution, oversaturated colors, yellow tint, plastic skin, unrealistic anatomy, extra limbs, duplicate objects, blurry face, face mismatch, watermark, logo, text, oversharpening, excessive HDR.",
+      "description": "Cinematic Editorial Photography Prompt: Use this prompt to create a soft, poetic Pinterest-aesthetic image of a young woman riding a vintage blue bicycle with a flower basket.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 1569,
+      "copy_count": 1241,
+      "is_premium": false,
+      "published_at": "2026-08-03T17:11:51.978Z",
+      "images": [
+        {
+          "filename": "e7c14c56-ed8c-4b89-99b0-7ebbedecd83a.webp",
+          "local_path": "images/spring/e7c14c56-ed8c-4b89-99b0-7ebbedecd83a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e7c14c56-ed8c-4b89-99b0-7ebbedecd83a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/e7c14c56-ed8c-4b89-99b0-7ebbedecd83a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/e7c14c56-ed8c-4b89-99b0-7ebbedecd83a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Soft Poetic Pinterest Aesthetic AI Photo Editing Prompt. AI generated realistic portrait of a young woman on a pastel blue vintage bike with a full flower basket, standing near rustic blue doors with a sleeping white cat."
+        },
+        {
+          "filename": "a0f349d9-ed4e-456d-b26f-640b80e9839b.webp",
+          "local_path": "images/spring/a0f349d9-ed4e-456d-b26f-640b80e9839b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a0f349d9-ed4e-456d-b26f-640b80e9839b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/a0f349d9-ed4e-456d-b26f-640b80e9839b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/a0f349d9-ed4e-456d-b26f-640b80e9839b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Pinterest Aesthetic AI Photo Prompt. AI generated portrait of a woman on a vintage blue bicycle with a flower basket, posing near pastel blue doors and a sleeping white cat."
+        },
+        {
+          "filename": "7f85c22e-b10a-4d60-9b58-a36bdcf46037.webp",
+          "local_path": "images/spring/7f85c22e-b10a-4d60-9b58-a36bdcf46037.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7f85c22e-b10a-4d60-9b58-a36bdcf46037.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/7f85c22e-b10a-4d60-9b58-a36bdcf46037.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/7f85c22e-b10a-4d60-9b58-a36bdcf46037.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cinematic Lifestyle Photography AI Photo Editing Prompt. AI generated outdoor portrait with soft lighting of a woman on a vintage blue bicycle with a flower basket."
+        }
+      ]
+    },
+    {
+      "id": "6a53c0637877e7a4d7a53365",
+      "title": "Man with Roses in a Sakura Garden",
+      "slug": "man-holding-flower-bouquet-aesthetic",
+      "category": "Spring",
+      "category_slug": "spring",
+      "prompt": "Create a photorealistic, high-fashion portrait of a stylish man (face match). He has a well-groomed appearance. He is wearing vintage round sunglasses with thin gold frames and dark tinted lenses. His outfit features a short-sleeved, light blue button-down shirt adorned with a large, realistic floral pattern of pink roses and white peonies, tucked into tailored, light blue pleated trousers secured with a braided beige belt. His left hand is casually tucked into his trouser pocket, while his right hand holding at chest level, a small, elegant bouquet of pink, blue and white roses. His expression is confident, relaxed, and subtly charismatic. The background is a lush, vibrant spring garden filled with heavily blooming cherry blossom trees, featuring a subtle natural vignette. The lighting is soft, diffused natural daylight, creating an even, flattering glow on the subject. Shot straight-on at eye level, medium-full body crop. Photographed on an 85mm portrait lens, f/1.8 aperture for a shallow depth of field, resulting in beautiful, creamy floral bokeh in the background. Ultra-detailed, 8k resolution, cinematic color grading with a pastel spring aesthetic.\nAspect ratio 4:5.",
+      "description": "Spring Portrait Photography Prompt: Copy & paste this prompt to create a realistic photo of a stylish man in a blue floral shirt holding roses among cherry blossoms.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 456,
+      "copy_count": 698,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
+          "local_path": "images/spring/831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Floral Shirt and Sunglasses Portrait AI Photo Editing Prompt. AI generated portrait of a man in a blue floral shirt and sunglasses holding a rose bouquet in a cherry blossom garden."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670317",
+      "title": "Mint Condition",
+      "slug": "mint-condition",
+      "category": "Spring",
+      "category_slug": "spring",
+      "prompt": "Using the uploaded reference image of the same young man (100% exact facial match required — do not alter face shape, skin tone, facial structure, hairstyle, beard density, or identity in any way)\nCreate a high-quality, ultra-realistic lifestyle fashion portrait of a young man in his early twenties, captured mid-movement while descending a modern outdoor staircase.\nSubject & Pose (IMPORTANT )\nThe subject appears to be walking down the stairs, not standing still. His body weight is slightly shifted forward, suggesting natural downward motion.\n\nHis right hand is raised to lightly adjust his round sunglasses, while his left hand is casually placed inside the pocket of his trousers.\n\nThe posture feels effortless, confident, and candid—like a luxury lifestyle photoshoot captured mid-stride.\nAppearance & Facial Details\nThick, dark natural hair, naturally textured\nCalm, serious, composed expression\nEyes directed toward the camera through dark round sunglasses with thin metal frames\nAccessories\nThin silver chain necklace, subtly visible at the neckline\nSmartwatch with rectangular face and white silicone strap on the left wrist\nOutfit & Styling\nPastel mint green / sage quarter-zip knit sweater\nSoft knit texture clearly visible\nZipper partially open\nRibbed cuffs and hem\nCrisp white cargo trousers\nUtility pocket with flap visible on the left thigh\nClean tailoring with a premium finish\nOverall styling reflects a modern old-money / smart-casual luxury aesthetic — minimal, clean, refined.\nEnvironment & Background (Enhanced Details)\nForeground features a modern metal staircase with sleek silver railings and horizontal bars\nThe staircase angles diagonally through the frame, reinforcing the sense of downward movement\nBackground is lush greenery (slightly yellow greenery) with dense foliage\nBright red flowers scattered throughout the greenery add contrast and visual depth\nBackground is softly blurred with a natural bokeh effect, keeping full focus on the subject\nLighting & Color Tone (VERY IMPORTANT)\nNatural daylight, soft and evenly diffused\nNo harsh shadows or overexposed highlights\nSkin tones appear natural and balanced\nOverall color grading is fresh, soft, soft yellow and premium\nGreens feel rich, reds pop subtly, whites stay clean and neutral\nThe mood is calm, elegant, and upscale—like a luxury resort or private villa setting\n\nAtmosphere: soft upper front lighting ensures the subject's face and physique are clearly visible.\n\nCamera & Composition\nPortrait orientation (4:5 aspect ratio)\nMedium-full framing (upper body to mid-thigh visible)\nShallow depth of field\nSubject centered slightly off-axis for editorial balance\nUltra-realistic, fashion-editorial photography style\nshot with a 50mm f/1.4 lens for smooth creamy blur\nOverall Mood\nModern luxury • relaxed confidence • effortless elegance • premium lifestyle • motion-captured realism",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 120,
+      "view_count": 8599,
+      "copy_count": 15948,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_yp565yp565yp565y.jpg",
+          "local_path": "images/spring/Gemini_Generated_Image_yp565yp565yp565y.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_yp565yp565yp565y.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/Gemini_Generated_Image_yp565yp565yp565y.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/Gemini_Generated_Image_yp565yp565yp565y.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A medium shot of a stylish young man with wavy brown hair standing on a metal staircase outdoors. He is wearing a mint green quarter-zip sweater, white cargo pants, a white smartwatch, and dark round sunglasses, which he is adjusting with his right hand while his left hand rests in his pocket. The background is softly blurred, featuring lush green foliage and vibrant red flowers."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670309",
+      "title": "Petals in the Breeze",
+      "slug": "petals-in-the-breeze",
+      "category": "Spring",
+      "category_slug": "spring",
+      "prompt": "Create an ultra-realistic vertical, medium-shot portrait using the provided reference image strictly for exact face matching.\nDo not modify, beautify, stylize, exaggerate, or reinterpret the face in any way.\nPreserve the exact facial structure, proportions, head size, jawline, cheekbones, eye shape and spacing, nose shape, lips, forehead, skin tone, and natural expression from the reference image.\nMaintain a realistic head-to-body ratio. No facial symmetry changes.\n\nThe subject is positioned among pink cherry blossom (sakura) branches, with the face remaining unchanged from the reference and only the environment, clothing, pose, and lighting being generated.\n\nThe woman is shown in a three-quarter profile, gazing upward and slightly to the left with a calm, serene, contemplative expression identical to the reference. Her right hand rests gently on her left shoulder/collarbone, fingers relaxed and natural.\n\nShe wears a cream or oatmeal-colored chunky knit sweater with a visible vertical ribbed texture, long sleeves, and a relaxed fit. The lower frame shows blue denim jeans.\n\nThe scene is surrounded by dense pink cherry blossoms, creating a natural floral frame. Use a shallow depth of field, with soft foreground and background blur, keeping the face as the sharpest focal point.\n\nLighting is soft, diffused, and even, similar to an overcast spring day, with no harsh shadows and natural skin texture visible.\nColor tones are balanced and realistic, dominated by soft pinks and magentas, complemented by warm skin tones and neutral clothing.\n\nUltra-realistic photography, natural textures, no artistic filters, no face alteration.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 49,
+      "view_count": 1341,
+      "copy_count": 3012,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ijh2gbijh2gbijh2-1.png",
+          "local_path": "images/spring/Gemini_Generated_Image_ijh2gbijh2gbijh2-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ijh2gbijh2gbijh2-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/Gemini_Generated_Image_ijh2gbijh2gbijh2-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/Gemini_Generated_Image_ijh2gbijh2gbijh2-1.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Gemini AI Generated Image: A young woman with long, dark hair poses thoughtfully amidst blooming pink cherry blossoms. She is wearing a cream-colored, oversized ribbed knit sweater and blue jeans. Her profile is captured as she gazes slightly upward and to the side, with one hand gently resting near her shoulder. The soft pink flowers create a lush, blurred background that frames her."
+        }
+      ]
+    }
+  ]
+}
