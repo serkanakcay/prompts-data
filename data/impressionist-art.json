@@ -1,0 +1,37 @@
+{
+  "category": "Impressionist Art",
+  "slug": "impressionist-art",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:57:24Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca15267038d",
+      "title": "Digital Oil Painting",
+      "slug": "rainy-night-cafe-impressionist-painting-ai-prompt",
+      "category": "Impressionist Art",
+      "category_slug": "impressionist-art",
+      "prompt": "Use the uploaded image as the primary visual reference for facial structure, proportions, hairstyle, age, and overall appearance.\n\nPreserve the same face shape, jawline, eye spacing, nose, lips, skin tone, expression, hair volume, curl pattern, and natural texture.\n\nKeep the subject’s age, hairstyle, and identity consistent with the reference.\n\nDo not beautify, reshape, or stylize the face.\nCreate a lush, evocative digital painting that blends Impressionist oil textures with a cinematic, moody atmosphere, capturing a quiet, reflective moment inside a café during a rainy city night.\nSubject & Composition\nA young woman with natural voluminous curly hair sits at a small bistro table, shown in side profile, gazing out through a large window.\n\nHer chin rests on her hand, posture relaxed and still, expressing gentle nostalgia and introspection.\nUse a frame-within-a-frame composition:\n\nWarm café interior on the right\nCool, rain-soaked street on the left\nSubject positioned on the right third of the frame\nOutfit (Preserve Exactly)\nCream / off-white silk blouse\nSoft sheen, slightly loose fit\nOpen V-neck collar\nLong sleeves with natural fabric folds\nSubtle warm highlights from the lamp reflecting on the silk texture\nTable Details (Foreground)\nOn the round brass-rimmed table:\n\nA vintage black-and-silver rangefinder camera\nA small brass lamp with a pleated shade casting golden light\nA slender glass vase with two white orchids\nA white ceramic plate with a half-eaten cinnamon roll\nLighting & Color\nInterior (Warm):\n\nOchre, honey gold, soft amber highlights on the blouse and face.\nExterior (Cool):\n\nDeep blues, purples, and magenta reflections.\n\nRain-blurred lights and car headlights appear as glowing bokeh orbs.\nArtistic Style\nThick impasto oil-paint brush strokes\nCanvas grain texture\nSoft cinematic glow\nLost-and-found edges: face sharp, background softly blended\nHigh dynamic range, ultra-detailed, painterly realism\nGemini Negative Prompt\ndistorted face, identity change, different hairstyle, wrong age, different clothing, cartoon style, plastic skin, flat lighting, blur, extra limbs, low resolution, oversmoothing",
+      "description": "Generate a stunning impressionist oil painting of a woman in a rainy city cafe with this high-quality AI prompt. This prompt creates cozy, cinematic scenes featuring thick brushstrokes, warm lamp lighting, and nostalgic details like a vintage camera, white orchids, and a cinnamon roll against a moody urban backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 40,
+      "view_count": 920,
+      "copy_count": 1135,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "impressionist-oil-painting-of-a-woman-in-a-rainy-city-cafe-ai-prompt.jpg",
+          "local_path": "images/impressionist-art/impressionist-oil-painting-of-a-woman-in-a-rainy-city-cafe-ai-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/impressionist-oil-painting-of-a-woman-in-a-rainy-city-cafe-ai-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/impressionist-art/impressionist-oil-painting-of-a-woman-in-a-rainy-city-cafe-ai-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/impressionist-art/impressionist-oil-painting-of-a-woman-in-a-rainy-city-cafe-ai-prompt.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Impressionist oil painting of a woman with curly hair in a rainy city cafe with a vintage camera and pastry."
+        }
+      ]
+    }
+  ]
+}

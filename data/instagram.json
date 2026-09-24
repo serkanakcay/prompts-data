@@ -1,0 +1,915 @@
+{
+  "category": "Instagram",
+  "slug": "instagram",
+  "total_prompts": 13,
+  "updated_at": "2026-09-24T12:57:26Z",
+  "prompts": [
+    {
+      "id": "6ab454ac1ec91346532b2ba1",
+      "title": "Cinematic Silhouette Profile Picture AI Prompt",
+      "slug": "cinematic-silhouette-profile-picture",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Use the uploaded image only as the facial identity and hairstyle reference. Preserve the person’s recognizable identity, natural facial proportions, age, skin tone, hair texture, and distinctive features.\n\nCreate a cinematic minimalist profile-picture portrait designed specifically for a social-media DP. Show the person in a clean side-profile silhouette, upper torso and head visible, body angled sideways with the head gently lowered and chin tilted toward the chest, creating a quiet, introspective mood. Keep the facial features mostly hidden in deep shadow while preserving a clearly recognizable profile outline of the forehead, nose, lips, chin, jawline, neck, and hair.\n\nPlace the subject against a dramatic glowing cyan/teal-blue background filled with subtle atmospheric fog and soft smoky texture. Position the brightest cyan glow directly behind and around the head to create a strong backlit halo and thin rim light, especially illuminating individual strands around the outer edges of the hair. The subject and clothing should remain almost completely black, with only extremely subtle cool highlights along the shoulders, neck, and hair.\n\nUse high contrast, deep blacks, luminous turquoise/cyan light, soft volumetric haze, cinematic studio backlighting, realistic hair strands, smooth tonal gradients, subtle filmic texture, and premium photographic quality. No visible front light, no brightly illuminated face, no distracting objects, no text.\n\nCompose the portrait inside a large perfect circular crop centered on a clean white/off-white square canvas, with comfortable spacing around the head and shoulders. Keep the subject large enough to remain visually striking when displayed as a small profile picture.\n\nStyle: dark cinematic silhouette photography, moody minimalism, mysterious introspective atmosphere, modern premium DP aesthetic, realistic photography, crisp profile contour, polished high-end finish.\n\nAspect ratio: 1:1.",
+      "description": "Use this ChatGPT prompt to generate a cinematic silhouette portrait with a glowing cyan backlight, perfectly cropped for a moody social media DP.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 18,
+      "view_count": 741,
+      "copy_count": 461,
+      "is_premium": false,
+      "published_at": "2026-09-23T22:37:32.017Z",
+      "images": [
+        {
+          "filename": "c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "local_path": "images/instagram/c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "AI Photo Editing Prompt: Cinematic profile picture showing the silhouette of a boy with messy hair against soft teal volumetric smoke."
+        },
+        {
+          "filename": "e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "local_path": "images/instagram/e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT AI Prompt: Cinematic cyan backlit silhouette of a young woman with long wavy hair in a circular profile picture format."
+        },
+        {
+          "filename": "e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "local_path": "images/instagram/e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "AI Image Prompt: Dark cinematic profile picture of a young man with a beard and textured hair against a glowing blue haze."
+        },
+        {
+          "filename": "bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "local_path": "images/instagram/bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT Image Prompt: Elegant silhouette portrait of a woman with long flowing hair illuminated by a strong cyan rim light."
+        },
+        {
+          "filename": "c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "local_path": "images/instagram/c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "AI Photo Prompt: Moody side-profile silhouette portrait of a man with messy curly hair against a glowing teal fog background."
+        },
+        {
+          "filename": "b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "local_path": "images/instagram/b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT AI Prompt: Atmospheric silhouette of a woman wearing traditional earrings, backlit by cyan smoke in a circular crop."
+        },
+        {
+          "filename": "c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "local_path": "images/instagram/c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT AI Generated Minimalist side-profile silhouette of a man with wavy hair, perfectly framed for a social media DP."
+        },
+        {
+          "filename": "393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "local_path": "images/instagram/393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "AI Generated Introspective side-profile silhouette of a young woman against a dramatic glowing turquoise background."
+        },
+        {
+          "filename": "7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "local_path": "images/instagram/7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT AI Prompt: Moody backlit silhouette of a young man with a sharp jawline and stylish hair in a circular DP layout."
+        }
+      ]
+    },
+    {
+      "id": "6ab2fe2642ae1b78aca0fa15",
+      "title": "Y2K Ghostface Bedroom Trend AI Prompt",
+      "slug": "y2k-ghostface-bedroom-trend",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Using the uploaded photo as facial identity only; ignore its original pose, clothing, hairstyle, framing and background. Recreate the person as a young woman in the viral Y2K Ghostface bedroom trend. Keep the face recognizable and natural. Show her lying comfortably on a glossy pink satin bed, holding a cream-colored vintage corded phone to her ear, with a dreamy expression and soft feminine Y2K styling. Place her in a cozy pink-toned nostalgic bedroom with wall photos, a warm bedside lamp, and subtle early-2000s decor. In the dark doorway behind her, show a mysterious Ghostface figure standing quietly in the background. Use soft flash lighting, moody ambient shadows, subtle film grain, and a retro horror-movie photo feel. Keep the composition vertical, intimate, and visually close to the viral trend aesthetic. Avoid modern objects, modern phone devices, or unrelated cinematic scenes.",
+      "description": "Use this prompt to generate a retro Y2K horror portrait of a young woman on a pink bed talking on a vintage phone with Ghostface in the dark doorway.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 3,
+      "view_count": 225,
+      "copy_count": 114,
+      "is_premium": false,
+      "published_at": "2026-09-22T22:16:06.566Z",
+      "images": [
+        {
+          "filename": "a321883c-8f7f-47af-9e2b-37385cc98ed1.webp",
+          "local_path": "images/instagram/a321883c-8f7f-47af-9e2b-37385cc98ed1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a321883c-8f7f-47af-9e2b-37385cc98ed1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/a321883c-8f7f-47af-9e2b-37385cc98ed1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/a321883c-8f7f-47af-9e2b-37385cc98ed1.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "AI Photo Editing Prompt: Retro Y2K style photo of a young woman lying on a pink satin bed holding a vintage cream phone, with a Ghostface figure lurking in the doorway behind her."
+        },
+        {
+          "filename": "dc92d7f2-2e78-4f4a-a812-d5338927e4b3.webp",
+          "local_path": "images/instagram/dc92d7f2-2e78-4f4a-a812-d5338927e4b3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/dc92d7f2-2e78-4f4a-a812-d5338927e4b3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/dc92d7f2-2e78-4f4a-a812-d5338927e4b3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/dc92d7f2-2e78-4f4a-a812-d5338927e4b3.webp",
+          "width": 1536,
+          "height": 2752,
+          "alt": "Gemini AI Photo Prompt: Nostalgic Y2K bedroom scene showing a smiling girl in a blue top on a pink bed with a corded phone, while Ghostface stands in the dark background."
+        },
+        {
+          "filename": "18298a62-5ade-44c3-8096-5141070d3a6c.webp",
+          "local_path": "images/instagram/18298a62-5ade-44c3-8096-5141070d3a6c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/18298a62-5ade-44c3-8096-5141070d3a6c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/18298a62-5ade-44c3-8096-5141070d3a6c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/18298a62-5ade-44c3-8096-5141070d3a6c.webp",
+          "width": 1536,
+          "height": 2752,
+          "alt": "Gemini AI Gnerated Vintage-style horror portrait of a young woman in a pink sweater on a pink satin bed talking on a retro phone, stalked by a mysterious Ghostface in the doorway."
+        }
+      ]
+    },
+    {
+      "id": "6ab06f6742ae1b78ac71821c",
+      "title": "Fashion Editorial Scrapbook Collage AI Prompt",
+      "slug": "kids-fashion-scrapbook-collage",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Use the uploaded photo only as the facial identity reference. Preserve the subject’s recognizable facial features, face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle/hair texture, age, gender, and overall likeness. Ignore the original pose, clothing, background, framing, and lighting.\n\nCreate a premium fashion scrapbook / editorial collage portrait in a vertical 2:3 composition, featuring the same subject repeated throughout the design.\n\nThe main subject appears as a large full-body color cutout in the foreground, positioned slightly left of center and extending from near the upper-middle area to the bottom of the frame. The subject stands naturally facing the camera with a relaxed confident expression, one arm resting naturally beside the body and the other lightly holding the shoulder-bag strap. Keep realistic body proportions and a polished fashion-catalog pose.\n\nDress the subject in a stylish coral-red puff-sleeve peplum top, high-waisted light blue relaxed wide-leg jeans, and chunky cream/off-white open-toe sandals. Add a small cream crossbody/shoulder bag with a long strap, decorated with a cute embroidered red flower and subtle botanical details. Keep the wardrobe realistic, neat, youthful, and coordinated.\n\nGive the foreground cutout a thick clean white sticker-style outline, followed by a very subtle soft shadow so it appears layered above the background collage.\n\nBACKGROUND COLLAGE\n\nCreate four large horizontal rounded-rectangle photo panels, stacked vertically with equal spacing on a clean white background. Each panel should have softly rounded corners and contain a different black-and-white studio portrait of the exact same subject.\n\nKeep all four background portraits monochrome with a smooth light-gray studio backdrop, subtle gradient lighting, soft shadows, and elegant fashion-editorial photography.\n\nUse these poses:\n\nTop panel: chest-up portrait wearing round dark sunglasses, one hand gently touching/adjusting the sunglasses, composed expression.\nSecond panel: upper-body portrait wearing the same sunglasses, head slightly tilted, lips slightly parted, relaxed fashion pose.\nThird panel: upper-body portrait wearing sunglasses, one hand gently resting against the cheek, calm thoughtful expression.\nBottom panel: upper-body portrait wearing sunglasses, relaxed front-facing pose with a very subtle soft smile.\n\nKeep the hairstyle consistent across all five appearances of the subject. The sunglasses should be classic small-to-medium round dark-lens fashion sunglasses, not oversized or futuristic.\n\nCOMPOSITION\n\nThe colorful full-body subject must overlap portions of the second, third, and fourth monochrome panels, creating strong foreground depth. Keep enough of every black-and-white portrait visible so the collage remains recognizable. Maintain clean white gaps between each rounded panel.\n\nUse a bright pure-white outer background, minimal clutter, subtle realistic shadows, polished magazine-layout spacing.\n\nIMAGE QUALITY\n\nUltra-clean premium fashion editorial, realistic skin texture, natural hands and fingers, accurate anatomy, sharp facial details, detailed fabric texture, realistic denim folds, realistic embroidered bag, clean cutout edges, soft professional studio lighting, high-resolution photography, sophisticated Pinterest-style aesthetic.\n\nImportant: every portrait and the foreground figure must clearly depict the same person with consistent identity. Do not create different faces, duplicate limbs, distorted hands, extra accessories, text, logos, or additional people. Do not change the subject’s age or gender.",
+      "description": "Unlock this premium ChatGPT prompt to generate aesthetic fashion scrapbook collages. Create colorful cutouts of women and girls over B&W studio portraits.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 20,
+      "view_count": 1643,
+      "copy_count": 1074,
+      "is_premium": false,
+      "published_at": "2026-09-20T23:42:31.276Z",
+      "images": [
+        {
+          "filename": "b60f68a2-b756-4ef7-8255-a58da261b1d2.webp",
+          "local_path": "images/instagram/b60f68a2-b756-4ef7-8255-a58da261b1d2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b60f68a2-b756-4ef7-8255-a58da261b1d2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/b60f68a2-b756-4ef7-8255-a58da261b1d2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/b60f68a2-b756-4ef7-8255-a58da261b1d2.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "AI Photo Editing Prompt: Fashion scrapbook collage featuring a young girl with bangs in a coral-red top and wide-leg jeans, overlapping four monochrome portraits of her wearing sunglasses."
+        },
+        {
+          "filename": "f2f9ffbe-5f09-4445-a0b9-67b519c7d89c.webp",
+          "local_path": "images/instagram/f2f9ffbe-5f09-4445-a0b9-67b519c7d89c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f2f9ffbe-5f09-4445-a0b9-67b519c7d89c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/f2f9ffbe-5f09-4445-a0b9-67b519c7d89c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/f2f9ffbe-5f09-4445-a0b9-67b519c7d89c.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "AI Photo Prompt: Sophisticated fashion scrapbook design featuring an elegant woman in a red puff-sleeve top layered above four black-and-white editorial portraits"
+        },
+        {
+          "filename": "c7ebccfe-a73e-4819-9c65-641f46b8a7c3.webp",
+          "local_path": "images/instagram/c7ebccfe-a73e-4819-9c65-641f46b8a7c3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c7ebccfe-a73e-4819-9c65-641f46b8a7c3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/c7ebccfe-a73e-4819-9c65-641f46b8a7c3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/c7ebccfe-a73e-4819-9c65-641f46b8a7c3.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "AI Prompt: Creative scrapbook layout of a little girl with braided pigtails in a red peplum top and an embroidered bag, layered over monochrome portraits."
+        },
+        {
+          "filename": "9487f812-f0b2-4472-aec3-8e06b36d7741.webp",
+          "local_path": "images/instagram/9487f812-f0b2-4472-aec3-8e06b36d7741.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9487f812-f0b2-4472-aec3-8e06b36d7741.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/9487f812-f0b2-4472-aec3-8e06b36d7741.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/9487f812-f0b2-4472-aec3-8e06b36d7741.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "AI Photo Prompt: Fashion catalog collage of a young girl with long dark hair, featuring a sticker-style color cutout overlapping rounded monochrome photo panels."
+        },
+        {
+          "filename": "a907cf65-6ad4-457f-9431-f2770aac4c58.webp",
+          "local_path": "images/instagram/a907cf65-6ad4-457f-9431-f2770aac4c58.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a907cf65-6ad4-457f-9431-f2770aac4c58.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/a907cf65-6ad4-457f-9431-f2770aac4c58.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/a907cf65-6ad4-457f-9431-f2770aac4c58.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "ChatGPT AI Prompt: Premium editorial collage showing a young woman in a coral top and jeans, combined with four greyscale portraits of her wearing round sunglasses."
+        },
+        {
+          "filename": "849f935c-1b14-4218-8f2a-9d18c37f5456.webp",
+          "local_path": "images/instagram/849f935c-1b14-4218-8f2a-9d18c37f5456.webp",
+          "original_url": "https://img.promptplum.com/promptImages/849f935c-1b14-4218-8f2a-9d18c37f5456.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/849f935c-1b14-4218-8f2a-9d18c37f5456.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/849f935c-1b14-4218-8f2a-9d18c37f5456.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "ChatGPT AI generated Editorial collage portrait of a young Asian woman with long wavy hair, showcasing a colorful full-body cutout against four black-and-white studio panels"
+        }
+      ]
+    },
+    {
+      "id": "6aa328b946d4207dc21a781c",
+      "title": "80s Vintage Couple Portrait",
+      "slug": "80s-vintage-couple-portrait",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Using the uploaded photo as the identity reference for both people, recreate us as a stylish couple in the 1980s. Keep both faces recognizable, give us authentic 80s hair and fashion, and make it look like a real vintage couple photo with warm analog colors, subtle film grain, and a nostalgic 1980s feel.",
+      "description": "Turn your modern picture into a classic 80s masterpiece! Copy this AI prompt to create a stunning vintage couple portrait featuring retro denim and film grain.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 46,
+      "view_count": 12079,
+      "copy_count": 7373,
+      "is_premium": false,
+      "published_at": "2026-09-10T22:01:29.183Z",
+      "images": [
+        {
+          "filename": "2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "local_path": "images/instagram/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_01_18 AM"
+        },
+        {
+          "filename": "ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "local_path": "images/instagram/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "width": 1128,
+          "height": 1394,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_10_19 AM"
+        },
+        {
+          "filename": "5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "local_path": "images/instagram/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_12_37 AM"
+        },
+        {
+          "filename": "8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "local_path": "images/instagram/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_05_25 AM"
+        }
+      ]
+    },
+    {
+      "id": "6aa2c1b646d4207dc208cc78",
+      "title": "80s Women's Red Blazer Portrait",
+      "slug": "80s-womens-red-blazer-portrait",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Use the uploaded image as the face reference. Create an ultra-realistic 1980s vintage portrait of the same woman with voluminous feathered hair, bold gold hoop earrings, soft winged eyeliner and muted berry lipstick. She wears a deep pink/red oversized padded-shoulder blazer over a black top with a vintage pendant necklace, posing in a confident three-quarter profile while looking to the side. Warm cinematic lighting, 35mm analog film, soft focus, faded colors, subtle grain, dust and scratches, authentic nostalgic 1980s photography.",
+      "description": "Join the viral Instagram trend! Use this ChatGPT prompt to turn your photo into an authentic 1980s portrait featuring a classic red padded blazer and feathered hair.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 20,
+      "view_count": 3507,
+      "copy_count": 2262,
+      "is_premium": false,
+      "published_at": "2026-09-10T14:41:58.704Z",
+      "images": [
+        {
+          "filename": "c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "local_path": "images/instagram/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "width": 1086,
+          "height": 1448,
+          "alt": "80s retro women's portrait in red padded blazer ai prompt"
+        },
+        {
+          "filename": "8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "local_path": "images/instagram/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 10, 2026, 07_46_56 PM"
+        },
+        {
+          "filename": "7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "local_path": "images/instagram/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 10, 2026, 07_29_10 PM"
+        }
+      ]
+    },
+    {
+      "id": "6aa1deab46d4207dc2e614e1",
+      "title": "80s Men's Vintage Car Portrait",
+      "slug": "80s-mens-vintage-car-portrait",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Using the uploaded photo as facial identity only; ignore its original pose, clothing, hairstyle and background. Recreate the person as a stylish young man in a genuine 1980s photograph. Vertical 4:5 near-full-body portrait, casually leaning his hip against the front corner of a vintage black European luxury sedan with dual round headlights, one hand flat on the hood, the other in his pocket, legs loosely crossed, looking off to the left. Thick curly 80s mullet hair. Oversized colorful geometric-print shirt, partly unbuttoned with rolled sleeves, tucked into very high-waisted, slightly pleated, light-blue acid-wash jeans with a wide through the thighs, finished with a brown leather belt. Add white retro sneakers, metal wristwatch and small pendant necklace. Warm cream-stucco residential villa behind him with a dark wooden doorway, wall lantern, bougainvillea and softly blurred greenery. Warm late-afternoon daylight, faded analog colors, soft contrast, fine 35mm grain, slight haze and softness, aged scanned-print texture with worn scratched edges. Authentic 1980s snapshot, not a modern retro-filtered photo.",
+      "description": "Want a classic 1980s look? Use this viral ChatGPT AI prompt to transform your photo into a retro men's portrait featuring a vintage luxury car and 80s fashion.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 140,
+      "view_count": 29060,
+      "copy_count": 14465,
+      "is_premium": false,
+      "published_at": "2026-09-09T22:33:15.594Z",
+      "images": [
+        {
+          "filename": "b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "local_path": "images/instagram/b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "80s retro men's portrait leaning on vintage luxury car ai prompt"
+        }
+      ]
+    },
+    {
+      "id": "6aa170e446d4207dc2d51339",
+      "title": "1980s AI Photo Trend Girl & Woman",
+      "slug": "1980s-ai-photo-trend-girl-woman",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance.  Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text.",
+      "description": "Want a 1980s photo of yourself? Try these ChatGPT prompts for Instagram’s latest AI trend. Transform your photos into stylish retro portraits.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 61,
+      "view_count": 13337,
+      "copy_count": 6898,
+      "is_premium": false,
+      "published_at": "2026-09-09T14:44:52.725Z",
+      "images": [
+        {
+          "filename": "54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "local_path": "images/instagram/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "original_url": "https://img.promptplum.com/promptImages/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "width": 1086,
+          "height": 1448,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_38_14 PM"
+        },
+        {
+          "filename": "54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "local_path": "images/instagram/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_29_14 PM"
+        },
+        {
+          "filename": "d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "local_path": "images/instagram/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "width": 1121,
+          "height": 1403,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_48_01 PM"
+        },
+        {
+          "filename": "0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "local_path": "images/instagram/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_47_55 PM"
+        },
+        {
+          "filename": "93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "local_path": "images/instagram/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "width": 1086,
+          "height": 1449,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_45_14 PM"
+        }
+      ]
+    },
+    {
+      "id": "6aa092f646d4207dc2bcfbe3",
+      "title": "Nostalgic 1980s Bedroom Portrait Prompt",
+      "slug": "instagrams-80s-trend",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Using the uploaded photo as the identity reference, recreate the person as they might have looked in the 1980s. Keep the facial identity recognizable and realistic. Give them an authentic voluminous 80s hairstyle and era-appropriate casual fashion. Place them in a cozy retro 1980s room with vintage posters, a boombox/cassette player, warm lamp lighting and subtle period details. Use warm analog colors, soft flash, fine film grain, slightly faded tones and a worn vintage photo-print texture. The result should look like a genuine candid 1980s photograph, not a modern image with a retro filter.",
+      "description": "Use this ChatGPT prompt to turn your photo into a classic 1980s retro portrait and recreate the viral “What would I look like in the 80's?” Instagram AI trend.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 119,
+      "view_count": 27902,
+      "copy_count": 13717,
+      "is_premium": false,
+      "published_at": "2026-09-08T22:57:58.747Z",
+      "images": [
+        {
+          "filename": "15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "local_path": "images/instagram/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "original_url": "https://img.promptplum.com/promptImages/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 04_09_37 AM"
+        },
+        {
+          "filename": "e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "local_path": "images/instagram/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "width": 1145,
+          "height": 1374,
+          "alt": "ChatGPT Image Sep 9, 2026, 04_08_27 AM"
+        },
+        {
+          "filename": "d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "local_path": "images/instagram/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 06_07_25 AM"
+        }
+      ]
+    },
+    {
+      "id": "6a9c698146d4207dc2660317",
+      "title": "Modern Editorial Collage Poster Design",
+      "slug": "modern-editorial-collage-poster-design",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Create an ultra-realistic luxury fashion editorial collage in a vertical 2:3 composition.\nA beautiful young woman stands confidently on the left side against a warm beige minimalist wall. Show her nearly full body with comfortable headroom and natural proportions. She wears an oversized soft-pink sweater, baggy distressed light-wash jeans, and pink sneakers. Her hair has a smooth center part and falls naturally over one shoulder. Minimal natural makeup, realistic radiant skin, soft pink lips, defined brows, and a gentle warm smile.\nPose: both hands casually inside her jean pockets, with one leg naturally crossed in front of the other. Relaxed, graceful, confident fashion-editorial body language.\nBehind her, place a premium matte-taupe 3D cursive wall sign reading exactly “Alice”, with a thin horizontal underline ending in a small heart. The lettering should be clean, elegant, clearly readable, and physically mounted on the wall.\nOn the right side, create three evenly sized monochrome close-up portrait panels, stacked vertically with some space between them, each surrounded by a thin, soft-pink border. All three panels must show the same woman as the main portrait, wearing stylish black sunglasses:\nTop: looking confidently toward the camera.\nMiddle: looking downward while gently touching her hair.\nBottom: adjusting her sunglasses while gazing into the distance.\nKeep the three panels precisely aligned with equal spacing and consistent scale.\nSoft warm golden-hour sunlight enters from one side, creating elegant diagonal foliage shadows across the beige wall. Place a large matte stone planter with a delicate cherry blossom tree in the lower-left corner without obstructing the woman.\nColor palette: warm beige, cream, ivory, matte taupe, and soft pink. Clean Scandinavian minimalism combined with premium lifestyle fashion-editorial styling.\nPhotorealistic skin texture, natural pores, individually detailed hair strands, realistic fabric folds and denim texture, accurate anatomy, soft dimensional shadows, controlled highlights, subtle depth of field, crisp facial detail, natural color grading, premium editorial photography.\nMain portrait photographed with an elegant full-body fashion perspective; side panels resemble refined 85mm portrait close-ups. Clean balanced composition, realistic natural lighting, high-end magazine campaign quality, ultra-photorealistic, high detail.\nAspect ratio: 2:3.",
+      "description": "Use this prompt to create a trendy multi-panel fashion collage of a woman in a pink sweater with 3D name typography and black-and-white sunglasses portraits.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 3137,
+      "copy_count": 2112,
+      "is_premium": false,
+      "published_at": "2026-09-05T19:12:01.706Z",
+      "images": [
+        {
+          "filename": "85a0bb92-9d0d-4d33-9f3f-2c4019c4d25c.webp",
+          "local_path": "images/instagram/85a0bb92-9d0d-4d33-9f3f-2c4019c4d25c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/85a0bb92-9d0d-4d33-9f3f-2c4019c4d25c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/85a0bb92-9d0d-4d33-9f3f-2c4019c4d25c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/85a0bb92-9d0d-4d33-9f3f-2c4019c4d25c.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Trendy Fashion Collage AI Photo Editing Prompt. AI generated multi-panel digital photo collage of a woman in a pink sweater and jeans, with black and white sunglasses portraits and 3D typography."
+        },
+        {
+          "filename": "098ac93f-f63b-4afd-a021-85df430ecaa1.webp",
+          "local_path": "images/instagram/098ac93f-f63b-4afd-a021-85df430ecaa1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/098ac93f-f63b-4afd-a021-85df430ecaa1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/098ac93f-f63b-4afd-a021-85df430ecaa1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/098ac93f-f63b-4afd-a021-85df430ecaa1.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Pink Sweater Name Plate Sunglasses Collage Portrait AI Prompt"
+        },
+        {
+          "filename": "6a03487e-fad3-4eb4-a4d4-dacaccbbcdf9.webp",
+          "local_path": "images/instagram/6a03487e-fad3-4eb4-a4d4-dacaccbbcdf9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6a03487e-fad3-4eb4-a4d4-dacaccbbcdf9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/6a03487e-fad3-4eb4-a4d4-dacaccbbcdf9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/6a03487e-fad3-4eb4-a4d4-dacaccbbcdf9.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "pink-sweater-name-plate-sunglasses-collage-portrait-ai-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "39e97939-0fdf-47ad-a915-438ced434733.webp",
+          "local_path": "images/instagram/39e97939-0fdf-47ad-a915-438ced434733.webp",
+          "original_url": "https://img.promptplum.com/promptImages/39e97939-0fdf-47ad-a915-438ced434733.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/39e97939-0fdf-47ad-a915-438ced434733.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/39e97939-0fdf-47ad-a915-438ced434733.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "pink-sweater-name-plate-sunglasses-collage-portrait-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "8aefbdcb-3fec-48a4-98d1-8cb4db486656.webp",
+          "local_path": "images/instagram/8aefbdcb-3fec-48a4-98d1-8cb4db486656.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8aefbdcb-3fec-48a4-98d1-8cb4db486656.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/8aefbdcb-3fec-48a4-98d1-8cb4db486656.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/8aefbdcb-3fec-48a4-98d1-8cb4db486656.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "pink-sweater-name-plate-sunglasses-collage-portrait-ai-prompt-by-promptplum-1"
+        }
+      ]
+    },
+    {
+      "id": "6a7a742b4bbdbe2cf57b4b76",
+      "title": "Couple Photo Editing ChatGPT Prompt",
+      "slug": "viral-instagram-couple-photo",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Use the uploaded male and female images as identity references only. Preserve both faces, hairstyles, skin tone, and facial features accurately. Create an ultra-realistic vertical close-up indoor portrait where the male stands in the foreground on the left, wearing a light white/pink textured linen shirt. Only part of his face is visible in a cinematic crop. The female stands closely behind him, playfully peeking over his shoulder with only one expressive eye and part of her forehead visible. Bright minimal room, large window, soft natural daylight, creamy skin tones, shallow depth of field, 85mm lens, f/1.8, DSLR-quality, realistic fabric texture, cinematic color grading, Instagram aesthetic, HDR, 8K, photorealistic, clean background. Negative: blurry, distorted anatomy, duplicate people, watermark, text, logo, CGI, cartoon.",
+      "description": "Simply open ChatGPT, upload your photo with your partner's, and paste this viral Instagram prompt to create a candid couple photo peeking behind the shoulder.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 112,
+      "view_count": 10987,
+      "copy_count": 12425,
+      "is_premium": false,
+      "published_at": "2026-08-11T01:00:27.827Z",
+      "images": [
+        {
+          "filename": "ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "local_path": "images/instagram/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "width": 1023,
+          "height": 1537,
+          "alt": "viral-instagram-couple-editing-ai-prompt-1"
+        },
+        {
+          "filename": "8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "local_path": "images/instagram/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "width": 1023,
+          "height": 1537,
+          "alt": "viral-instagram-couple-editing-ai-prompt-6"
+        },
+        {
+          "filename": "ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "local_path": "images/instagram/ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "viral-instagram-couple-editing-ai-prompt-4"
+        },
+        {
+          "filename": "cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "local_path": "images/instagram/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "width": 1023,
+          "height": 1537,
+          "alt": "viral-instagram-couple-editing-ai-prompt-3"
+        },
+        {
+          "filename": "e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "local_path": "images/instagram/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Candid couple photography AI photo editing prompt. AI generated portrait of a boyfriend in a white shirt with his girlfriend playfully peeking behind his collar."
+        },
+        {
+          "filename": "e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "local_path": "images/instagram/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "width": 1049,
+          "height": 1500,
+          "alt": "Candid couple photography AI photo editing prompt. AI generated close-up selfie of a boyfriend in a pink shirt with his girlfriend peeking behind his shoulder.\""
+        }
+      ]
+    },
+    {
+      "id": "6a6b7f6d4bbdbe2cf50d7c83",
+      "title": "Striding Forward Against a Faded Smiling Backdrop",
+      "slug": "double-exposure-portrait-photography",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Create a hyper-realistic, highly detailed studio composite portrait of the uploaded person, preserving their exact facial features, hairstyle, skin tone, and identity with high accuracy. featuring a double-exposure movie-poster style composition. In the foreground, a sharp, full-body shot of the uploaded person walking confidently toward the camera. Subject is wearing a blue and black plaid hooded flannel shirt worn open over a plain white crew-neck t-shirt, dark charcoal grey cargo pants with distinct side pockets, bright red slip-on shoes with tiny yellow details, a thin silver chain necklace, and oversized, thick white-framed rectangular sunglasses with dark lenses. Subject is mid-stride with his one foot planted and his another foot lifted, arms relaxed at his sides with a confident swagger. Expression is joyful, with a natural smile. Behind the subject, dominating the upper half of the composition, is a massive, semi-transparent portrait of the exact same person from the mid-chest up, wearing the identical outfit and sunglasses, with the same expression, looking slightly off camera. The edges of this giant background portrait fade seamlessly into the background using a soft, artistic brush-stroke effect. The background is a solid medium-grey seamless studio backdrop. The floor beneath the foreground person is highly polished, showing a faint, clean reflection of his red shoes. The lighting is soft, diffused professional studio lighting, creating crisp textures on the clothing in the foreground while giving the background face a softer, ethereal glow. The camera angle for the foreground person is a subtle low-angle shot to emphasize his confident stance, shot in 8k resolution, photorealistic, sharp focus on face, highly detailed, aspect ratio 3:4.\n\n**Negative Prompt:**\nlow quality, blurry, cartoon, anime, painting, CGI, overexposed, underexposed, distorted face, bad anatomy, extra fingers, duplicate body parts, watermark, logo, text errors, low resolution, noise, oversaturated colors, unrealistic skin, cropped face, out of frame, artifacts, deformed hands, poor lighting, inaccurate face match of walking subject.",
+      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a creative studio photograph of a person in a blue plaid shirt walking against a faded smiling background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 4431,
+      "copy_count": 4464,
+      "is_premium": false,
+      "published_at": "2026-07-30T16:44:29.360Z",
+      "images": [
+        {
+          "filename": "92efbc08-3ad8-4fc5-92e5-3dbc918a889b.webp",
+          "local_path": "images/instagram/92efbc08-3ad8-4fc5-92e5-3dbc918a889b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/92efbc08-3ad8-4fc5-92e5-3dbc918a889b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/92efbc08-3ad8-4fc5-92e5-3dbc918a889b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/92efbc08-3ad8-4fc5-92e5-3dbc918a889b.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "walking-boy-in-blue-plaid-outfit-ai-photo-editing-ai-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "086f3043-aace-43aa-8cc8-c67e0df24406.webp",
+          "local_path": "images/instagram/086f3043-aace-43aa-8cc8-c67e0df24406.webp",
+          "original_url": "https://img.promptplum.com/promptImages/086f3043-aace-43aa-8cc8-c67e0df24406.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/086f3043-aace-43aa-8cc8-c67e0df24406.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/086f3043-aace-43aa-8cc8-c67e0df24406.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Walking Woman in Blue Plaid Outfit AI Photo Editing Prompt. AI generated studio portrait of a young woman wearing a blue flannel shirt, grey cargo pants, and white rectangular sunglasses walking against a larger smiling face overlay."
+        },
+        {
+          "filename": "5d67d35f-25e6-417a-8333-a0041066e13d.webp",
+          "local_path": "images/instagram/5d67d35f-25e6-417a-8333-a0041066e13d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5d67d35f-25e6-417a-8333-a0041066e13d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/5d67d35f-25e6-417a-8333-a0041066e13d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/5d67d35f-25e6-417a-8333-a0041066e13d.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Walking Man in Blue Plaid Outfit AI Photo Editing Prompt. AI generated studio portrait of a young man wearing a blue flannel shirt, grey cargo pants, and white rectangular sunglasses walking against a larger smiling face overlay."
+        },
+        {
+          "filename": "1b6698db-d0a4-4770-ae01-a3e7a31137f2.webp",
+          "local_path": "images/instagram/1b6698db-d0a4-4770-ae01-a3e7a31137f2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1b6698db-d0a4-4770-ae01-a3e7a31137f2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/1b6698db-d0a4-4770-ae01-a3e7a31137f2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/1b6698db-d0a4-4770-ae01-a3e7a31137f2.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "walking-girl-in-blue-plaid-outfit-ai-photo-editing-ai-prompt-by-promptplum-4"
+        }
+      ]
+    },
+    {
+      "id": "6a65248d9d499d9af98afe47",
+      "title": "Colorful Scribble Art Family Portrait",
+      "slug": "colorful-scribble-art-family-portrait",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Create an ultra-detailed hand-drawn scribble-art portrait using the uploaded family photo only as the reference for each person’s facial identity, age, gender, skin tone, hairstyle, and family members. Include exactly the same 3 or 4 people—do not add, remove, replace, or merge anyone. Do not copy the original pose, composition, background, or exact clothing.\nCreate a fresh, professionally arranged family pose. Place the entire family prominently in the center of a vertical composition, close together with warm, natural interaction. Position the parents behind or beside the children, gently leaning inward. For one child, place them centrally between or slightly in front of the parents; an infant or toddler may be held naturally. For two children of any age or gender, arrange both clearly in the center foreground or between the parents with balanced spacing and every face fully visible. Give everyone warm, natural expressions directed toward the viewer.\nRestyle the family in coordinated, elegant outfits suitable for their age, gender, and cultural appearance. If the reference clothing is very simple, enhance it with richer colors, tasteful patterns, refined fabric details, subtle embroidery, layering, or appropriate accessories. The outfits should look stylish and complementary without becoming overly formal. Do not reproduce the exact original clothes.\nRender the portrait using thousands of overlapping, free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red. Preserve recognizable facial features, realistic anatomy, expressive eyes, intricate crosshatching, delicate shading, and accurate proportions.\nUse clean white textured paper as the background. Keep the family sharply detailed and fully defined at the center, while the outer edges of their clothing and surrounding linework gradually dissolve into loose, colorful scribbles and softly fade into the white background on both sides. Maintain balanced negative space around the centered family.\nEye-level medium family portrait, gallery-quality traditional pen-and-ink illustration, vibrant artistic energy, ultra-sharp detail, vertical composition. Aspect ratio 4:5.",
+      "description": "Scribble Art Portrait Prompt: Use this prompt to create a colorful ballpoint pen sketch of a smiling family posing on textured white paper.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 3342,
+      "copy_count": 2437,
+      "is_premium": false,
+      "published_at": "2026-07-25T21:03:09.299Z",
+      "images": [
+        {
+          "filename": "7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "local_path": "images/instagram/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Intricate Ballpoint Sketch Family Portrait AI Photo Editing Prompt. AI generated digital illustration art of a smiling woman and bearded man holding their baby against a white background."
+        },
+        {
+          "filename": "25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "local_path": "images/instagram/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling mother and father holding their baby, drawn with colorful scribble lines."
+        },
+        {
+          "filename": "5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "local_path": "images/instagram/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated illustrative sketch art of a smiling Indian family with parents and baby in colorful traditional attire against a white background."
+        },
+        {
+          "filename": "011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "local_path": "images/instagram/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling young family: father in a blue blazer, mother in a purple patterned dress, and baby in a fox sweater."
+        },
+        {
+          "filename": "34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "local_path": "images/instagram/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling husband and wife holding their baby girl in a vibrant ballpoint pen sketch style."
+        },
+        {
+          "filename": "eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "local_path": "images/instagram/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "original_url": "https://img.promptplum.com/promptImages/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Portrait Sketch Art AI Photo Editing Prompt. AI generated portrait illustration of a smiling Asian family of four, rendered in a textured, colorful scribble sketch art style."
+        },
+        {
+          "filename": "06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "local_path": "images/instagram/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "local_path": "images/instagram/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "local_path": "images/instagram/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "original_url": "https://img.promptplum.com/promptImages/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Art Family Portrait"
+        },
+        {
+          "filename": "725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "local_path": "images/instagram/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "local_path": "images/instagram/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-11"
+        },
+        {
+          "filename": "c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "local_path": "images/instagram/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "local_path": "images/instagram/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "original_url": "https://img.promptplum.com/promptImages/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-9"
+        }
+      ]
+    },
+    {
+      "id": "6a63db48b99e3a48ae90cc4b",
+      "title": "Man Double Exposure Studio Portrait",
+      "slug": "man-double-exposure-studio-portrait",
+      "category": "Instagram",
+      "category_slug": "instagram",
+      "prompt": "Create a hyper-realistic cinematic studio portrait of the uploaded stylish male subject, preserving his natural facial features and identity. Do not alter face and identity.\nHe is seated gracefully on the floor against a clean, seamless gray studio background. Behind him, include a large, translucent monochrome close-up portrait of his face looking slightly off camera, softly blended into the background as an elegant double-exposure effect.\nDress him in a red plaid shirt with rolled-up sleeves, layered over a plain white T-shirt, paired with white denim jeans and clean white low-top sneakers. Give him a natural seated pose with a stylish, relaxed posture. He looks slightly toward the camera with a subtle smile and a confident, natural expression.\nUse soft, even studio lighting that clearly highlights his face, clothing textures, and natural skin detail. Shot with an 85mm lens at f/1.8, shallow depth of field, photorealistic detail, polished editorial quality. 3:4 aspect ratio.",
+      "description": "Double Exposure Photography Prompt: Use this prompt to create a studio portrait of a smiling man in a red plaid shirt with a faded, face overlay against gray background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 70,
+      "view_count": 4970,
+      "copy_count": 5753,
+      "is_premium": false,
+      "published_at": "2026-07-24T21:38:16.388Z",
+      "images": [
+        {
+          "filename": "66b3b737-e5ff-4f51-a253-3603209ffb9c.webp",
+          "local_path": "images/instagram/66b3b737-e5ff-4f51-a253-3603209ffb9c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/66b3b737-e5ff-4f51-a253-3603209ffb9c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/66b3b737-e5ff-4f51-a253-3603209ffb9c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/66b3b737-e5ff-4f51-a253-3603209ffb9c.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Double Exposure Photography AI Photo Editing Prompt. AI generated studio portrait of a smiling boy in a red plaid shirt sitting against a grey background with a large faded face behind him."
+        },
+        {
+          "filename": "92abd398-4740-46d2-b0af-adcb86422c44.webp",
+          "local_path": "images/instagram/92abd398-4740-46d2-b0af-adcb86422c44.webp",
+          "original_url": "https://img.promptplum.com/promptImages/92abd398-4740-46d2-b0af-adcb86422c44.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/92abd398-4740-46d2-b0af-adcb86422c44.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/92abd398-4740-46d2-b0af-adcb86422c44.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "AI generated conceptual portrait of a young man in a red plaid shirt sitting on the floor with a large, faded close-up image of his own face in the background."
+        },
+        {
+          "filename": "2e4b4778-2834-43b3-b514-e00a4b487f20.webp",
+          "local_path": "images/instagram/2e4b4778-2834-43b3-b514-e00a4b487f20.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2e4b4778-2834-43b3-b514-e00a4b487f20.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/2e4b4778-2834-43b3-b514-e00a4b487f20.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/2e4b4778-2834-43b3-b514-e00a4b487f20.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Man Double Exposure Studio Portrait AI Photo Editing Prompt. AI generated photorealistic double exposure portrait of a man in a red flannel shirt sitting in front of a monochrome face against a grey studio backdrop."
+        },
+        {
+          "filename": "ddc02617-ed02-4635-9bdb-c20c47502f47.webp",
+          "local_path": "images/instagram/ddc02617-ed02-4635-9bdb-c20c47502f47.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ddc02617-ed02-4635-9bdb-c20c47502f47.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/instagram/ddc02617-ed02-4635-9bdb-c20c47502f47.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/instagram/ddc02617-ed02-4635-9bdb-c20c47502f47.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "smiling-boy-red-plaid-double-exposure-portrait-prompt-by-promptplum-1"
+        }
+      ]
+    }
+  ]
+}

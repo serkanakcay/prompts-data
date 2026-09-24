@@ -1,0 +1,156 @@
+{
+  "category": "Image Filters",
+  "slug": "image-filters",
+  "total_prompts": 2,
+  "updated_at": "2026-09-24T12:57:24Z",
+  "prompts": [
+    {
+      "id": "6a3ad8cbbf79ee5252c372db",
+      "title": "Cinematic Night Glow Restyle",
+      "slug": "cinematic-night-glow-restyle",
+      "category": "Image Filters",
+      "category_slug": "image-filters",
+      "prompt": "Use the uploaded image as the main base image and preserve the subject’s original pose, framing, composition, camera angle, crop, body position, hand placement, facial identity, hairstyle, clothing, accessories, and overall subject details. Keep the aspect ratio the same as the original image. Do not change the pose or expression. Only transform the lighting, background mood, and atmosphere.\nConvert the scene into a dark, moody nighttime portrait with a deep muted background fading into near-black shadows. Replace the original background with a soft, out-of-focus night environment featuring faint silhouettes, subtle bokeh lights, and cinematic dusk-to-night tones. Add a strong backlight directly behind the subject to create a bright white rim light around the hair, shoulders, arms, hands, clothing edges, and full body outline. Add a soft luminous bloom aura around the subject, especially around the outer edges, to create a dreamy glowing silhouette effect. The glow should feel natural, atmospheric, and cinematic, not overly artificial or neon.\nKeep the subject clearly visible while allowing the background to remain dark and subdued. Maintain realistic skin texture, realistic clothing texture, and natural facial features. The final image should feel like an ultra-realistic editorial night portrait shot with an 85mm DSLR lens using soft flash diffusion, with shallow depth of field, subtle halation, bloom glow, gentle flash-lit contrast, and a dreamy low-light atmosphere.\nStyle keywords: cinematic rim light, glowing body aura, halation effect, bloom glow, dreamy silhouette glow, moody night portrait, soft flash diffusion, dusk bokeh background, CCD camera aesthetic, disposable flash mood, Instagram lofi night tones, shallow depth of field, photorealistic, ultra-detailed, 4K.",
+      "description": "AI Portrait Restyle Prompt: Use this viral Instagram filter prompt to retouch and restyle any of your own images into a glowing nighttime portrait.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 63,
+      "view_count": 3639,
+      "copy_count": 6286,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "local_path": "images/image-filters/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "width": 2258,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-1"
+        },
+        {
+          "filename": "8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "local_path": "images/image-filters/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "width": 2051,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-2"
+        },
+        {
+          "filename": "2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "local_path": "images/image-filters/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "width": 1703,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-5"
+        },
+        {
+          "filename": "59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "local_path": "images/image-filters/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "original_url": "https://img.promptplum.com/promptImages/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "width": 1921,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-4"
+        },
+        {
+          "filename": "71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "local_path": "images/image-filters/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "original_url": "https://img.promptplum.com/promptImages/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "width": 1792,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-3"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704ff",
+      "title": "Instagram Flash Restyle",
+      "slug": "instagram-flash-restyle",
+      "category": "Image Filters",
+      "category_slug": "image-filters",
+      "prompt": "Apply only an Instagram Flash filter-style effect to the uploaded image. Do not regenerate, redesign, crop, reframe, beautify, retouch, or change any content. Preserve the exact same person, face, expression, pose, outfit, hairstyle, objects, background, framing, and composition. Change only the filter treatment: night conversion, direct flash behavior, color grading, visible noise, and film grain.\nConvert the image into a darker night-like / low-light version of the same scene. Make the environment cooler, moodier, and richer, with a strong green-cyan / teal ambience and deeper night density, while keeping the original scene recognizable. The background should become darker and cooler than the subject, but not muddy or fully black.\nThe subject treatment is critical: light the subject with a strong direct on-camera frontal flash that is clearly visible in the result. The flash must dominate the subject more than the ambient light. The face, skin, hair, and clothing facing the camera should look brighter, flatter, more directly flash-lit, and slightly lifted in exposure. The subject should appear more illuminated and more separated from the surroundings, like a real camera-flash snapshot, not a softly relit portrait. Keep the skin warm, bright, glowing, and flash-washed, while the surroundings stay cooler and darker.\nIf reflective, glossy, metallic, leather, glass, polished, or shiny surfaces are present, show realistic small flash reflections / specular pops where appropriate. If the scene geometry naturally allows it, include a believable subtle hard-edged flash shadow behind the subject or nearby objects, but only where it would occur naturally.\nMatch the overall look of a rich Instagram Flash-style photo: stronger night mood, cooler green-cyan ambience, brighter flash-lit subject, slightly punchier contrast, and a more obvious filtered look. Add visible digital noise and fine 35mm color-negative film grain across the whole image. Keep the noise and grain clearly visible, especially in darker areas, smooth surfaces, and the background. If the original image already contains noise or compression texture, do not clean it up — blend it naturally into the overall grain structure.\nThe final result should look like the same original photo captured at night with a strong direct camera flash, featuring richer green-cyan ambience, a much more obviously flash-lit subject, visible film grain, visible noise, and a filtered Instagram Flash look.\nAvoid: soft studio lighting, weak flash on the subject, polished portrait lighting, over-clean denoising, overly neutral colors, dull flat skin, muddy blacks, or changing the image content.",
+      "description": "Instagram Flash Restyle Prompt: Copy & Paste this prompt to convert photos into a retro Instagram flash filter style.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 2220,
+      "copy_count": 2331,
+      "is_premium": false,
+      "published_at": "2026-09-23T23:57:10.904Z",
+      "images": [
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-5.webp",
+          "local_path": "images/image-filters/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "width": 1728,
+          "height": 2468,
+          "alt": "Flash Filter AI Photo Editing Prompt. AI generated portrait of a young woman in a silk camisole adjusting her pearl necklace, styled with a retro Instagram flash effect."
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-2.webp",
+          "local_path": "images/image-filters/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-4.webp",
+          "local_path": "images/image-filters/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "width": 1842,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-6.webp",
+          "local_path": "images/image-filters/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "width": 1240,
+          "height": 1618,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-1.webp",
+          "local_path": "images/image-filters/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-3.webp",
+          "local_path": "images/image-filters/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/image-filters/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/image-filters/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "width": 1792,
+          "height": 2390,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "category": "Hairstyles",
+  "slug": "hairstyles",
+  "total_prompts": 2,
+  "updated_at": "2026-09-24T12:57:12Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca1526703c4",
+      "title": "Classic Wolf Cut Hairstyle",
+      "slug": "classic-wolf-cut-hairstyle",
+      "category": "Hairstyles",
+      "category_slug": "hairstyles",
+      "prompt": "A photorealistic 2x2 grid arranged in a 1:1 square format studio photograph of the man from image_0.png, wearing a denim jacket and a classic wolf cut hairstyle, photographed against a clean white cyclorama background.\n\nThe hairstyle is a classic men’s wolf cut featuring softly layered volume at the crown with visible separation between shorter crown layers and slightly longer layers toward the nape. The haircut includes naturally blended choppy layers through the sides and slightly longer tapered length at the back, creating a balanced and wearable silhouette with natural texture and movement, avoiding extreme mullet length or aggressive styling. The front includes soft, face-framing layers with a relaxed, slightly tousled finish. The sides are not tightly faded, preserving a natural layered flow.\n\nThe four panels show distinctly different angles:\n\nTop-Left Panel: A direct front headshot, looking straight at the camera, clearly showing the soft layered fringe and crown volume.\n\nTop-Right Panel: A profile view facing strictly toward the right edge of the frame, highlighting the natural layering and gradual length transition toward the back.\n\nBottom-Left Panel: A profile view facing strictly toward the left edge of the frame, showing the balanced texture and classic wolf cut shape.\n\nBottom-Right Panel: A rear view headshot showing the back of the head, neck, and the softly layered tapered length characteristic of a classic wolf cut.\n\nNatural soft studio lighting, realistic hair texture, clean professional studio photography style.",
+      "description": "Master the Classic Wolf Cut hairstyle for men with this detailed AI image prompt. Generate photorealistic, high-quality images featuring shaggy layers, textured volume, and 360-degree views from every angle—front, side, and back.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 13,
+      "view_count": 1970,
+      "copy_count": 615,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "classic-wolf-cut-hairstyle-for-men-ai-image-prompt.webp",
+          "local_path": "images/hairstyles/classic-wolf-cut-hairstyle-for-men-ai-image-prompt.webp",
+          "original_url": "https://img.promptplum.com/promptImages/classic-wolf-cut-hairstyle-for-men-ai-image-prompt.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/hairstyles/classic-wolf-cut-hairstyle-for-men-ai-image-prompt.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/hairstyles/classic-wolf-cut-hairstyle-for-men-ai-image-prompt.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "A 4-panel grid displaying a man’s messy brown wolf cut from front, side, and back angles. He’s wearing a blue denim jacket against a stark white background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703bb",
+      "title": "Modern Fade Hairstyle",
+      "slug": "modern-fade-hairstyle-gemini",
+      "category": "Hairstyles",
+      "category_slug": "hairstyles",
+      "prompt": "A photorealistic 2x2 grid arranged in a 1:1 square format studio photograph of the man from image_0.png, wearing a denim jacket and a modern fade haircut against a white cyclorama background. The four panels show distinctly different angles:Top-Left Panel: A direct front headshot, looking straight at the camera.Top-Right Panel: A profile view where the man is turned, facing strictly towards the right edge of the frame, showing only the right side of his face.Bottom-Left Panel: A profile view where the man is turned in the opposite direction, facing strictly towards the left edge of the frame, showing only the left side of his face.Bottom-Right Panel: A rear view headshot, showing the back of his head, neck, and the details of the fade haircut. Natural studio lighting.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 680,
+      "copy_count": 490,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_behgebehgebehgeb.webp",
+          "local_path": "images/hairstyles/Gemini_Generated_Image_behgebehgebehgeb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_behgebehgebehgeb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/hairstyles/Gemini_Generated_Image_behgebehgebehgeb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/hairstyles/Gemini_Generated_Image_behgebehgebehgeb.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Collage showing a man's modern fade haircut from four angles: front, side profiles, and back. He wears a denim jacket against a plain white background."
+        }
+      ]
+    }
+  ]
+}

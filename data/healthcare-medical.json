@@ -1,0 +1,86 @@
+{
+  "category": "Healthcare & Medical",
+  "slug": "healthcare-medical",
+  "total_prompts": 2,
+  "updated_at": "2026-09-24T12:57:13Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670410",
+      "title": "Medical Composure",
+      "slug": "medical-professional-bw-portrait",
+      "category": "Healthcare & Medical",
+      "category_slug": "healthcare-medical",
+      "prompt": "Create a 4K ultra-detailed cinematic black-and-white low-key studio portrait of a professional nurse (male or female). The subject conveys calm authority, discipline, and quiet confidence. Lips are gently closed—relaxed yet firm—and the eyes maintain steady, direct contact with the viewer.\nFace & Hair Accuracy\n\nMaintain strong resemblance to the provided reference image, preserving accurate facial structure, proportions, and natural features. The hairstyle should closely reflect the reference in texture, length, volume, density, and styling direction, remaining natural and realistic.\nClothing & Details\n\nThe subject wears dark medical scrubs with a clean, structured V-neck design and tailored fit. The fabric appears matte with minimal wrinkles. A stethoscope rests naturally around the neck in a slightly asymmetrical position. The tubing has a smooth matte finish, while the metallic chest piece catches subtle studio highlights.\nPose\n\nThe subject stands with arms crossed across the torso in a grounded, confident stance. Forearms rest horizontally with hands tucked beneath the upper arms. Shoulders are squared, posture upright, and chin slightly elevated, conveying professionalism and composure.\nComposition\n\nWaist-up portrait in a vertical 4:5 aspect ratio. The composition is centered and balanced. The head sits slightly above the middle of the frame. Crossed arms create a strong horizontal base, and the face remains the primary focal point. Background is a seamless dark grey studio gradient.\nLighting (Black & White Studio)\n\nSoft key light from the front-left, slightly above eye level, creates gentle highlights on one side of the face with smooth shadow transitions on the opposite side. Medium contrast with refined tonal balance, controlled blacks, preserved highlights, and a subtle vignette for depth.\nTechnical Look\n\nPortrait lens aesthetic (similar to 85mm), sharp focus on the eyes, detailed skin texture, visible hair strands, realistic fabric detail, clean tonal range, and ultra-high-resolution 4K output suitable for editorial publication.",
+      "description": "AI Portrait Editing Prompt: Use this prompt to generate high-quality black and white professional portraits of healthcare workers. It features a confident male or female medical professional in scrubs with a stethoscope, captured in a clean studio setting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 9,
+      "view_count": 357,
+      "copy_count": 264,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "bw-medical-professional-portrait-by-promptplum-2.webp",
+          "local_path": "images/healthcare-medical/bw-medical-professional-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bw-medical-professional-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/healthcare-medical/bw-medical-professional-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/healthcare-medical/bw-medical-professional-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Female Medical Professional AI Photo Editing Prompt. AI generated studio portrait of a woman in medical scrubs with a stethoscope around her neck and her arms crossed."
+        },
+        {
+          "filename": "bw-medical-professional-portrait-by-promptplum-1.webp",
+          "local_path": "images/healthcare-medical/bw-medical-professional-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bw-medical-professional-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/healthcare-medical/bw-medical-professional-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/healthcare-medical/bw-medical-professional-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Medical Professional in Scrubs AI Photo Editing Prompt. AI generated black and white studio portrait of a Black male medical professional wearing scrubs and a stethoscope with his arms crossed."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703dd",
+      "title": "Medical Authority",
+      "slug": "male-doctor-portrait-hospital-setting",
+      "category": "Healthcare & Medical",
+      "category_slug": "healthcare-medical",
+      "prompt": "Create a 4K ultra-realistic HDR portrait (aspect ratio 4:5) of the same man from the uploaded reference image, using accurate face matching and strict identity preservation. The facial features must remain identical, including face shape, hairstyle, skin tone, eye color, grooming details, and neutral-serious expression. The image should look like the same person photographed in a hospital environment, not a modified or stylized version.\nThe man stands front-facing in a hospital corridor with arms crossed, maintaining natural body proportions, confident posture, and realistic hand placement.\nOutfit: white doctor’s coat with realistic folds, light-blue scrubs underneath, blue lanyard with ID card, and a stethoscope around the neck with natural positioning and metallic reflections.\nSetting: bright modern hospital hallway with large windows on the left, soft blue walls, white ceiling panels, blurred medical staff in the background, and a medical cart on the right. Use cinematic depth of field to keep the subject sharp and the background softly blurred.\nLighting: soft natural daylight mixed with cool hospital lighting, producing smooth shadows, realistic skin texture, and a cool blue-white color palette.\nQuality: 4K hyper-realistic, sharp focus, accurate perspective, HDR depth, and lifelike textures.",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a realistic clinical portrait of a male doctor in a white lab coat and blue scrubs within a modern hospital setting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 585,
+      "copy_count": 494,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "male-doctor-portrait-by-promptplum-1.webp",
+          "local_path": "images/healthcare-medical/male-doctor-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-doctor-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/healthcare-medical/male-doctor-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/healthcare-medical/male-doctor-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Male Doctor in Hospital Corridor AI Photo Editing Prompt. AI generated photorealistic portrait of a bearded man in a white lab coat and blue scrubs standing with arms crossed in a medical facility."
+        },
+        {
+          "filename": "male-doctor-portrait-by-promptplum-2.webp",
+          "local_path": "images/healthcare-medical/male-doctor-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-doctor-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/healthcare-medical/male-doctor-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/healthcare-medical/male-doctor-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Male Doctor in Hospital Hallway AI Photo Editing Prompt. AI generated photorealistic portrait of a bearded male doctor in a white lab coat and blue scrubs standing with arms crossed in a hospital corridor."
+        }
+      ]
+    }
+  ]
+}

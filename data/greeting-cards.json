@@ -1,0 +1,292 @@
+{
+  "category": "Greeting Cards",
+  "slug": "greeting-cards",
+  "total_prompts": 6,
+  "updated_at": "2026-09-24T12:57:12Z",
+  "prompts": [
+    {
+      "id": "6a33d08d61276f872ad52c97",
+      "title": "Watercolor Family Portrait",
+      "slug": "watercolor-family-portrait",
+      "category": "Greeting Cards",
+      "category_slug": "greeting-cards",
+      "prompt": "Convert the reference family into a heartwarming mixed-media family portrait in a vertical 4:5 aspect ratio, blending photorealistic facial detail with elegant watercolor painting on textured off-white watercolor paper.\nThe portrait is captured at eye level with a slightly close-up perspective, showing a loving family of three in a close, intimate embrace. The child is centered between both parents, held securely and comfortably, smiling with joyful, open-mouthed laughter. The child wears light blue pajamas with small cartoon panda patterns.\nThe mother stands on the left, wearing a soft light-blue button-down shirt, with a gentle affectionate smile. The father stands on the right, wearing a dark black shirt and a golden wristwatch, smiling naturally with warmth and happiness. Both parents stay close to the child, with their heads gently near each other, creating a soft family-centered composition. Their arms naturally wrap around the child, showing love, protection, and emotional connection.\nRender the faces, eyes, skin texture, hair, and clothing folds with high-definition realism. Keep the facial details photorealistic, while the outer edges of the figures softly dissolve into expressive watercolor washes, ink splashes, paint drips, and painterly brush textures.\nUse muted earthy watercolor tones such as deep navy blue, soft slate blue, warm sepia brown, beige, and subtle olive green. The watercolor textures should bloom outward behind the family, creating an elegant artistic halo effect.\nThe background should be clean textured off-white watercolor paper with visible paper grain. Add delicate hand-drawn decorative details, including small sketch-style heart doodles and a subtle botanical leaf branch in the upper-right area. In the upper-left corner, add elegant handwritten calligraphy text: “Together is our favorite place to be.”\nLighting should be soft, diffused, and natural, with no harsh shadows. Maintain a warm, emotional, sentimental mood suitable for a premium family keepsake illustration or greeting card artwork.\nStyle: photorealistic watercolor portrait, mixed-media illustration, realistic faces, painterly edges, watercolor splash art, textured paper canvas, emotional family portrait, soft natural lighting, premium fine-art keepsake, high-detail digital painting.",
+      "description": "Watercolor Family Portrait Prompt: Copy & paste this prompt to create a beautiful watercolor painting of a happy couple holding a smiling baby in a panda onesie.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 80,
+      "view_count": 5399,
+      "copy_count": 6702,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "local_path": "images/greeting-cards/2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Watercolour Portrait AI Photo Editing Prompt. AI-generated digital illustration portrait of a family of three, surrounded by watercolour splotches and script text."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670455",
+      "title": "The Watercolor Bond",
+      "slug": "happy-family-watercolor-illustration",
+      "category": "Greeting Cards",
+      "category_slug": "greeting-cards",
+      "prompt": "Use the uploaded image(s) only for strict identity references. Each subject must match their respective face, proportions, skin tone, hairstyle, and facial features exactly. No identity drift or beautification.\nMain Concept\nCreate a high-detail mixed-media watercolor family portrait capturing a warm, joyful “huddle” moment.\nComposition & Framing\nDo not detect the subject's pose details from the provided reference image.\nAspect ratio: 1:1 or 4:5\nTight, intimate group composition\nSubjects arranged naturally in a close cluster (slight overlap)\nHead-and-shoulders framing\nEye-level camera\nSubjects (Dynamic / Flexible)\nNumber of people: based on input images (2–6 subjects supported)\nArrange subjects in a balanced triangular or clustered composition\nAdults slightly behind or framing the group, children naturally in front (if present)\nNatural arm placement: light embrace, shoulders touching, subtle interaction\nExpressions & Emotion\nGenuine smiles (natural, not forced)\nWarm, candid, emotionally connected\nBright eyes with realistic catchlights\nArt Style & Rendering\nMixed-media watercolor + photorealistic facial detail\nFaces: sharp, detailed (skin texture, eyes, teeth)\nEdges: dissolve into soft watercolor washes and splashes\nMinimal fine linework, mostly soft gradients\nColor System (Flexible)\nClothing: soft coordinated tones (pastels / neutrals / family palette), no short clothing\nSkin tones: natural with warm undertones\nBackground: white paper texture with abstract watercolor splashes\n\n(soft yellow, green, blue — adjustable)\nLighting\nHigh-key soft studio lighting\nEven illumination, minimal harsh shadows\nSoft gradients on face contours\nDetailing\nFine hair strands blending into brush strokes\nSubtle skin texture (not overly smooth)\nWatercolor bleed and splatter effects\nQuality Tags\nUltra-detailed, 8K, professional digital painting, watercolor illustration, clean composition",
+      "description": "Watercolor Family Portrait Prompt: Use this prompt to generate a heartwarming watercolor illustration of a happy hugging family, a soft, artistic style with vibrant watercolor splashes and realistic details.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 138,
+      "view_count": 3820,
+      "copy_count": 9470,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "local_path": "images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family Watercolor Portrait AI Photo Editing Prompt. AI generated digital watercolor illustration of a smiling family of four, featuring a mother, father, daughter, and son, in a warm embrace."
+        },
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "local_path": "images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family Watercolor Portrait Prompt. AI generated watercolor illustration of a happy family with three young children smiling and hugging together in a soft artistic style."
+        },
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "local_path": "images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Watercolor Portrait Google Gemini AI Prompt. AI generated watercolor digital illustration of a smiling multi-generational family including grandparents, parents, and two children hugging together."
+        },
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "local_path": "images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Watercolor Portrait Art Prompt. AI generated watercolor illustration of a smiling father, mother, and two young children hugging amidst soft artistic paint splashes."
+        },
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "local_path": "images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family Portrait AI Photo Editing Prompt. AI generated digital watercolor illustration of a multi-generational family of six hugging joyfully in a vibrant artistic style."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267043a",
+      "title": "Framed in Love",
+      "slug": "happy-family-heart-frame-3d-illustration",
+      "category": "Greeting Cards",
+      "category_slug": "greeting-cards",
+      "prompt": "Create a high-quality 3D stylized cartoon illustration based on submitted references of family members, all peeking out from behind a matte heart-shaped opening. Only their heads, hands (where applicable), and upper torsos should be visible, looking playful and hiding.\nSubjects must be arranged in descending age order.\nThe composition should feature a soft, textured beige. The entire outer background is a beige gradient; the heart-shaped opening borders are the same colour but slightly darker; the inner background is a dark violet gradient, creating a contrast that highlights the brightness of the characters. The style must have a soft Pixar/Disney animation look, with large expressive eyes, smooth skin, and slightly enlarged head proportions for cinematic charm, while retaining the recognizable facial features, hairstyles, and age from the reference photos.\nEveryone is gently holding the edges with small hands/paws and leaning slightly forward with curious, playful expressions. The lighting should be soft studio light with warm, gentle highlights and no harsh shadows.\nThe image must be a 1:1 aspect ratio portrait with centralized framing and shallow depth of field. The final render should be ultra-sharp 4K, in an Octane/Unreal/Disney rendering style.",
+      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to generate a heartwarming 3D animated portrait of a happy family smiling through a heart-shaped cutout.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 81,
+      "view_count": 1310,
+      "copy_count": 2843,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Family Heart Frame AI Photo Editing Prompt. AI generated 3D Digital Illustration of a smiling family and their Golden Retriever peering through a heart-shaped frame aperture."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling family with three children and a golden retriever puppy peeking through a heart-shaped cutout."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling East Asian family of five peeking through a large heart-shaped cutout against a dark background."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "local_path": "images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Multi-Generational Family Peeking through Heart-Shaped Frame AI Photo Editing Prompt. AI generated stylized 3D digital illustration in a Pixar-esque art style. A diverse and smiling group of six people—mother, father, grandmother, and three children—peers out joyfully from a large heart-shaped opening in a wall, set against a deep purple background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670437",
+      "title": "Eternal Silhouette",
+      "slug": "endless-love-silhouette-couple",
+      "category": "Greeting Cards",
+      "category_slug": "greeting-cards",
+      "prompt": "Use the provided reference images to match the identity, age, and facial features of both subjects. Preserve their natural facial structure, proportions, hairline, and overall likeness. Do not beautify, stylize, or alter their identities in any way. Ensure the silhouettes still reflect the correct face shape and recognizable profile of each subject.\nCreate a dramatic black-and-white high-contrast silhouette portrait of a couple standing extremely close to each other in an almost-kiss pose.\nComposition & Framing\nVertical composition, 4:5 aspect ratio.\nClose-up framing from the chest or shoulders upward. The couple is centered in the frame, facing each other in profile.\nMan (left side): Facing right. He has short, neatly styled hair and light stubble, wearing a formal blazer with a collared shirt. His head is slightly tilted downward toward the woman.\nWoman (right side): Facing left. She has naturally long, wavy hair with a floral hairpiece positioned on the upper side of her head, small earrings, and an elegant outfit with subtle decorative details. Her head is slightly tilted upward toward the man.\nTheir noses are almost touching and their foreheads nearly meet. They maintain direct eye contact with each other, creating a romantic and intimate moment.\nLighting & Style\nThe couple appears as deep black silhouettes against a pure bright white backlit background. Strong rim lighting clearly defines the contours of their faces, hair, and bodies, creating a sharp separation between the subjects and the background.\nThe image should resemble professional cinematic studio silhouette photography with crisp edges, smooth gradients, and strong contrast. Render the image in high-contrast monochrome with high-key lighting and absolutely no color.\nTypography\nPlace the text centered at the top of the image with clear spacing from the edge.\nTitle: “ENDLESS LOVE” in a large, elegant serif font.\nSubtitle below the title:\n“Loved you yesterday, love you still, always have, always will.”\nUse a thin, spaced grey font for the subtitle.",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a professional monochrome silhouette of a romantic couple featuring elegant \"Endless Love\" typography and a minimalist white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 73,
+      "view_count": 3598,
+      "copy_count": 4959,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
+          "local_path": "images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Couple Silhouette Portrait AI Photo Editing Prompt. AI generated studio portrait of a man and woman in a romantic silhouette profile against a white background with \"Endless Love\" text."
+        },
+        {
+          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
+          "local_path": "images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Couple Silhouette Endless Love AI Photo Editing Prompt. AI generated minimalist studio portrait of a man and woman in profile facing each other against a white background with romantic \"Endless Love\" typography."
+        },
+        {
+          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
+          "local_path": "images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Couple Silhouette AI Photo Editing Prompt. AI generated studio portrait of a man and woman in silhouette profile facing each other against a bright white background featuring romantic typography."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703d6",
+      "title": "Birthday Queen Celebration",
+      "slug": "3d-animated-birthday-girl-celebration",
+      "category": "Greeting Cards",
+      "category_slug": "greeting-cards",
+      "prompt": "Create a whimsical, high-quality 3D animated portrait using the uploaded reference image for face matching. The character should preserve the same facial identity, hairstyle, glasses, proportions, and expression as the reference image, rendered in a Pixar-inspired stylized 3D illustration style.\nA cheerful woman with fair skin, natural dark-brown hair, and round gold-rimmed glasses, winking and smiling playfully.\nShe wears:\n\na small gold crown with a red heart jewel\na cream ribbed turtleneck sweater\na beige pleated skirt\na white sash with gold trim reading “Queen for a Day” in red cursive text\nPose and props:\n\nStanding upright facing forward\nHolding a thin white sketch-style rectangular frame (transparent center) in front of her face with one hand, as if posing inside a photo booth frame\nThe rectangular frame should look hand-drawn, slightly glowing, and floating in front of the face\nHolding a bouquet of sunflowers and white daisies\nForeground hands presenting a birthday cake with white frosting, rainbow sprinkles, strawberries, and five lit candles\nBackground:\n\nLight pink backdrop\nWhite doodle graphics (stars, sparkles, motion lines)\nFalling Pink confetti\nLighting and rendering:\n\nSoft high-key studio lighting\nBright diffused front-facing key light\nSubtle soft rim lighting separating subject from background\nVery gentle shadows with even illumination\nClay-style 3D render\nSmooth shading\nDetailed fabric textures\nClean composition\nCinematic depth of field\nVibrant colors\nUltra-detailed 3D illustration\nComposition:\n\nEye-level camera\nMedium portrait framing\nCentered subject\nAspect ratio: 4:5",
+      "description": "Create stunning 3D Pixar-style birthday images with this high-quality AI prompt. Generate a cute girl character wearing a 'Queen for a Day' sash, a golden crown, and holding sunflowers. Perfect for personalized birthday designs and vibrant 3D character art.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 1842,
+      "copy_count": 2555,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "local_path": "images/greeting-cards/3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D animated girl winking, wearing a crown and \"Queen for a Day\" sash. She holds sunflowers and a frame by a birthday cake. Festive pink background with confetti."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703ac",
+      "title": "Rose Day Romance",
+      "slug": "happy-rose-day-couple-greeting-red-heart",
+      "category": "Greeting Cards",
+      "category_slug": "greeting-cards",
+      "prompt": "Create a semi-realistic, high-quality digital illustration designed as a romantic Rose Day greeting.\n\nThe artwork should combine a soft painterly romantic aesthetic with clean, modern digital rendering, feeling warm, intimate, and celebratory—suitable for a premium Valentine’s greeting card or social media post.\nREFERENCE & FACE MATCH (STRICT)\nUse the uploaded reference images as age and strict identity locks for both subjects.\nPreserve exactly:\n\nFacial structure and bone anatomy\nNatural skin tone and texture\nEye shape, spacing, and gaze direction\nNose, lips, jawline, and cheek proportions\nHairline, hairstyle, and natural hair density\n❌ No beautification\n\n❌ No facial stylization\n\n❌ No age change\n\n❌ No identity drift\nFaces must remain realistic, highly recognizable, and consistent while rendered in a painterly illustration style.\nSUBJECT & COMPOSITION\nA cute couple stands closely together in an intimate pose.\nMale (left): Slightly angled toward the woman, dark styled hair, neatly groomed beard (if present). He wears a dark charcoal blazer over a deep burgundy turtleneck sweater.\nFemale (right): Facing the man, natural straight hair with subtle highlights. She wears a beige/tan trench coat over a black turtleneck. A simple silver or white-gold ring is visible on her ring finger.\nTheir foreheads gently touch, both smiling softly, expressing warmth, trust, and emotional closeness.\nEach person holds one long-stem red rose, positioned symmetrically in the lower center of the frame. The roses are fully bloomed with rich red petals and natural green leaves.\nBehind the couple is a large stylized red heart, centered and softly painted, acting as a visual halo and compositional anchor.\nCOLOR PALETTE & LIGHTING\nPrimary colors: Deep red, burgundy, beige, charcoal, and warm natural skin tones\nBackground: Off-white / light cream with a subtle cold-press paper texture, resembling a premium printed greeting card\nLighting: Soft directional light from the upper right, creating gentle highlights on faces and hair, with smooth, natural shadows\nMood: Warm, romantic, calm, emotionally inviting\nART STYLE & RENDERING\nSemi-realistic digital painting with traditional media influence\nThe red heart shows visible brushstrokes and soft, painterly edges (watercolor/acrylic feel)\nFaces rendered with high detail (skin transitions, hair strands)\nClothing rendered slightly smoother for balance\nClean, modern finish suitable for social sharing\n4K resolution, semi-realistic style\nTYPOGRAPHY & GRAPHIC ELEMENTS\nAt the top center, include the text:\n“Happy Rose Day”\nElegant script font\nDeep red / dark mahogany color\nFluid handwritten style with decorative flourishes on capital letters\nInclude a small watermark:\n“@PromptPlum.com” with 50% opacity\nPositioned subtly on the left side of the heart\nSYMBOLIC & EMOTIONAL DIRECTION\nEmphasize:\n\nLove, affection, and emotional intimacy\nRomance expressed through connection, not dramatic posing\nA gentle, universal Valentine’s atmosphere\nAspect Ratio: 4:5",
+      "description": "Create stunning AI art with this Happy Rose Day AI prompt. Generate romantic images of couples of all ages holding red roses against a vibrant red heart background. Perfect for high-quality, personalized Rose Day greetings and artistic social media posts.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 18,
+      "view_count": 618,
+      "copy_count": 781,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-2.webp",
+          "local_path": "images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Romantic illustration of a couple holding red roses against a large red heart background with \"Happy Rose Day\" text."
+        },
+        {
+          "filename": "happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-1.webp",
+          "local_path": "images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-3.webp",
+          "local_path": "images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/greeting-cards/happy-rose-day-greeting-featuring-a-couple-and-red-heart-ai-prompt-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

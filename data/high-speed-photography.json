@@ -1,0 +1,77 @@
+{
+  "category": "High-Speed Photography",
+  "slug": "high-speed-photography",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:57:16Z",
+  "prompts": [
+    {
+      "id": "6aad95cb46d4207dc215955a",
+      "title": "High-Speed Powder Explosion Portrait",
+      "slug": "premium-powder-explosion",
+      "category": "High-Speed Photography",
+      "category_slug": "high-speed-photography",
+      "prompt": "Ultra-realistic high-speed medium close-up portrait of [replace with uploaded face] as vibrant orange powder explodes across the face from right side, eyes closed naturally at impact. Purple and magenta pigments surround subject, frozen particles with cinematic lighting warm key light right, cool purple rim left, dark studio background, sharp powder detail, shallow depth, 85mm lens, photorealistic, HDR, dramatic contrast. 4:5 aspect ratio.",
+      "description": "Unlock this premium AI prompt to generate ultra-realistic, high-speed portraits featuring a dramatic orange powder explosion and cinematic purple lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 1,
+      "view_count": 504,
+      "copy_count": 6,
+      "is_premium": true,
+      "published_at": "2026-09-18T19:49:31.869Z",
+      "images": [
+        {
+          "filename": "8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "local_path": "images/high-speed-photography/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-speed-photography/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-speed-photography/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "width": 1844,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_m3thjm3thjm3thjm"
+        },
+        {
+          "filename": "11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "local_path": "images/high-speed-photography/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "original_url": "https://img.promptplum.com/promptImages/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-speed-photography/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-speed-photography/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_t6hjb6t6hjb6t6hj"
+        },
+        {
+          "filename": "8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "local_path": "images/high-speed-photography/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-speed-photography/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-speed-photography/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_oqn115oqn115oqn1"
+        },
+        {
+          "filename": "465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "local_path": "images/high-speed-photography/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-speed-photography/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-speed-photography/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "width": 1848,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_l6wpqbl6wpqbl6wp"
+        },
+        {
+          "filename": "654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "local_path": "images/high-speed-photography/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-speed-photography/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-speed-photography/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_81mrr81mrr81mrr8"
+        }
+      ]
+    }
+  ]
+}
