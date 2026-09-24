@@ -1,0 +1,95 @@
+{
+  "category": "Theme",
+  "slug": "theme",
+  "total_prompts": 3,
+  "updated_at": "2026-09-24T13:13:03Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670269",
+      "title": "Ready to Fight",
+      "slug": "ready-to-fight",
+      "category": "Theme",
+      "category_slug": "theme",
+      "prompt": "Ultra-realistic cinematic portrait of a young man using the uploaded reference image for the face — preserve 100% facial structure, proportions, skin texture, and identity exactly as in the reference (no face alteration). The subject is styled as a professional boxer in a fighting stance, fists raised close to the face in a guarded pose, conveying intense focus and determination.\n\nHe is wearing a fitted dark navy or black athletic compression t-shirt, slightly glossy with visible fabric tension over the chest and shoulders. Both hands are wrapped in white boxing hand wraps, textured and slightly worn, tightly wrapped around knuckles and wrists. Arms are muscular and well-defined, veins subtly visible, skin lightly glistening with sweat.\n\nExpression & Pose:\nSharp, serious expression with strong eye contact toward the camera. Jaw slightly tense, brows relaxed but focused. Upper body angled slightly forward, shoulders squared, boxer-ready posture.\n\nLighting & Mood:\nDramatic cinematic lighting with a strong key light from the front-side, creating crisp highlights on the face, arms, and shoulders. Deep shadows sculpt the cheekbones, jawline, and muscle definition. High contrast, moody atmosphere, professional studio look.\n\nBackground:\nBold abstract red and black geometric background, soft gradient transitions, no distractions. Background remains slightly out of focus to keep full attention on the subject.\n\nImage Style & Quality:\nHyper-realistic, ultra-detailed, cinematic sports portrait\nPhotorealistic skin texture, visible pores and sweat\nShallow depth of field\nSharp focus on face and fists\nHigh dynamic range\nStudio photography quality\n4K–8K clarity\nNo motion blur\nNo stylization of facial features\n\nStrict Rules:\n– Use uploaded image face only\n– Do NOT change face shape, age, expression, or identity\n– No beauty modification or face enhancement\n– Body styling allowed, face must remain untouched",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 1377,
+      "copy_count": 2599,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251205_140904.jpg",
+          "local_path": "images/theme/IMG_20251205_140904.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_140904.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/theme/IMG_20251205_140904.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/theme/IMG_20251205_140904.jpg",
+          "width": 1792,
+          "height": 2366,
+          "alt": "Ai Generated Image: A fit young man with sweat on his brow, wearing a dark shirt and white hand wraps, poses in a boxing stance against a red and black background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ec",
+      "title": "Ultra Violet",
+      "slug": "ultra-violet",
+      "category": "Theme",
+      "category_slug": "theme",
+      "prompt": "Hyper-realistic cinematic fashion photoshoot of the uploaded person, preserving the exact facial structure and identity without altering facial features.\nThe subject is seated confidently on a deep purple bean bag, legs spread naturally with knees bent forward, feet firmly planted on the floor. His torso leans slightly back, shoulders relaxed, hands resting casually between the thighs, creating a bold, relaxed editorial pose.\nHe wears a purple oversized trench-style jacket with a deep neckline, paired with clean wide-leg white trousers. On his feet are chunky fashion sneakers in white with deep purple accents, thick soles, sporty luxury design. A silver metal wristwatch adds a premium detail.\nThe background is a deep royal purple gradient studio backdrop, perfectly matched to the bean bag and outfit, creating a monochrome fashion aesthetic.\nLighting: A soft sunlight-style spotlight enters from the side, forming a soft and medium size circular light halo on the background behind him. The light creates gentle shadows, soft highlights on the face, and a cinematic contrast—natural yet dramatic, like a luxury fashion campaign.\nCamera angle: Slightly low-angle shot, centered composition, full-body visible, enhancing confidence and power. Sharp focus, no motion blur.\nStyle & mood: High-end streetwear fashion editorial, Adidas-style campaign energy, modern, confident, minimal, premium drip vibes.\nColor tone: Rich purple dominance, balanced whites, natural skin tones, clean contrast, studio-grade color accuracy.\nAspect ratio: Vertical 4:5, Instagram/editorial ready, ultra-detailed, 8K quality, photorealistic textures.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 742,
+      "copy_count": 1104,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "local_path": "images/theme/Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/theme/Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/theme/Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A young man sitting on a purple beanbag chair, wearing a purple jacket over a white t-shirt, white trousers, and matching purple and white sneakers, posed against a purple studio background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670273",
+      "title": "Snow-Capped Views",
+      "slug": "snow-capped-views",
+      "category": "Theme",
+      "category_slug": "theme",
+      "prompt": "Ultra-realistic cinematic winter photo of a young man (use this face) standing on a snowy mountain viewing platform surrounded by dramatic Alpine peaks. He's wearing a black puffer jacket layered over a dark hoodie, with light beige pants. His short dark hair is neatly styled, his skin tone is fair, and his lips are slightly pink from the cold. He stands confidently near a metallic safety railing, one hand lightly touching his jacket while the other rests relaxed by his side. Behind him stretches a breathtaking panoramic view of towering snow-covered mountains and pine forests, illuminated by bright winter daylight under a clear blue sky streaked with thin white clouds. Lighting is natural, crisp, and cool -with sharp reflections on the snow and soft facial shadows, giving a fresh and elevated feeling. The overall atmosphere is modern, calm, and cinematic, like a lifestyle portrait captured in the Swiss Alps. Style: Ultra-realistic, bright natural daylight-medium. Create only a half-body portrait. The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 996,
+      "copy_count": 1271,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "local_path": "images/theme/Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/theme/Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/theme/Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "width": 1116,
+          "height": 1394,
+          "alt": "Gemeni Generated Image of A young man in a black puffer jacket and gray pants is standing outdoors, looking at the camera. He is on a snowy mountain viewing platform, with a dramatic background of snow-covered peaks, a forested slope, and a bright blue sky."
+        }
+      ]
+    }
+  ]
+}

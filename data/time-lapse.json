@@ -1,0 +1,47 @@
+{
+  "category": "Time Lapse",
+  "slug": "time-lapse",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T13:13:04Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670463",
+      "title": "The Stages of Life",
+      "slug": "aging-process-man-life-stages-progression",
+      "category": "Time Lapse",
+      "category_slug": "time-lapse",
+      "prompt": "Create an ultra photorealistic, cinematic 8K portrait (1:1 Square) showing a single male identity evolving across five life stages in a precise diagonal panel composition.\nCore Composition & Crucial Alignment:\n\nDivide the image into five clean, parallel diagonal panels (lines slanting upwards from bottom-left to top-right: / / / / /).\nAscending \"Staircase\" Placement (CRITICAL): The subjects' heads must NOT be on the same horizontal line. They must be vertically staggered in an ascending order. The child in the first panel (far left) must be placed lowest in the frame. Moving left to right, each subsequent older stage must be positioned progressively higher in the frame, ending with the elderly man in the final panel (far right) positioned the highest.\nUse sharp, crisp edges (no blur or gradient transitions) for the panel dividers. The layout must feel geometrically precise with consistent spacing and angles.\nUse the uploaded image as the ONLY reference. Maintain identical facial structure, proportions, and features across all ages. Only natural ageing changes (skin texture, wrinkles, hair) are allowed. No identity drift.\nLife Stages (Left to Right, Lowest to Highest positioning):\n\nChild (6–8): soft smile, pastel t-shirt, short tousled hair, smooth skin (Positioned lowest in the frame)\nTeen (14–17): confident, hoodie (muted tones), thicker hair, youthful texture (Positioned slightly higher)\nYoung Adult (22–28): composed, blazer + plain shirt, well-groomed hair (Positioned in the middle)\nMiddle Age (38–45): calm, formal shirt, slight hair recession, light wrinkles (Positioned higher)\nElderly (70+): gentle smile, knit/formal wear, grey hair, detailed wrinkles (Positioned highest in the frame)\nEnvironment & Lighting:\n\nDark charcoal studio background with subtle vignette.\nCinematic lighting: soft frontal key light, strong rim light for separation, minimal fill. Lighting direction must stay consistent across all panels.\nCamera & Quality:\n\nEye-level shot, 85mm lens, shallow depth of field, eyes in sharp focus.\nExtreme photorealism with visible pores, natural imperfections, detailed hair strands, and realistic fabric textures.\nPost & Constraints:\n\nCinematic color grading (warm highlights, cool shadows), minimal retouching.\nNo stylization, no distortion, no identity drift, no background clutter — clean studio only.",
+      "description": "Creative Portrait Prompt: Use this prompt to generate a professional vertical collage showcasing a man’s aging process from childhood to seniority in a realistic studio style.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 63,
+      "view_count": 1047,
+      "copy_count": 2249,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "stages-of-aging-man-portrait-by-promptplum-2-1.webp",
+          "local_path": "images/time-lapse/stages-of-aging-man-portrait-by-promptplum-2-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/stages-of-aging-man-portrait-by-promptplum-2-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/time-lapse/stages-of-aging-man-portrait-by-promptplum-2-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/time-lapse/stages-of-aging-man-portrait-by-promptplum-2-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Aging Stages of a Man AI Photo Editing Prompt. AI generated studio portrait showing five vertical slices of a male's life progression from a young child to an elderly man."
+        },
+        {
+          "filename": "stages-of-aging-man-portrait-by-promptplum-1.webp",
+          "local_path": "images/time-lapse/stages-of-aging-man-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/stages-of-aging-man-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/time-lapse/stages-of-aging-man-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/time-lapse/stages-of-aging-man-portrait-by-promptplum-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Stages of Aging Man Portrait AI Photo Editing Prompt. AI generated studio portrait featuring five vertical panels that depict the aging process of a man from childhood to old age."
+        }
+      ]
+    }
+  ]
+}

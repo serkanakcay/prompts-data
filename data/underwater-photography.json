@@ -1,0 +1,47 @@
+{
+  "category": "Underwater Photography",
+  "slug": "underwater-photography",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T13:13:06Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670486",
+      "title": "Liquid Sunbeam",
+      "slug": "man-underwater-sunlight-portrait",
+      "category": "Underwater Photography",
+      "category_slug": "underwater-photography",
+      "prompt": "Create a cinematic underwater portrait captured from a low-angle perspective looking upward. A man with wet, natural hair, his head gently tilted back, and eyes softly closed, expressing a serene, ethereal calm.\nCharacter Identity (VERY IMPORTANT):\nUse the provided image as the ONLY facial reference. Preserve 100% exact facial structure, proportions, skin tone and overall recognizable identity. Do NOT beautify, distort, or replace identity—maintain accurate likeness while applying stylized caricature exaggeration.\nPose & Composition:\nTight medium close-up (head and shoulders), slightly off-center. Body and face angled to the right, chin lifted toward the water surface. Shot from a low underwater worm’s-eye view for depth. Water surface visible at the top with subtle reflections. Subject fills ~65–75% of the frame, with bubbles and light rays adding cinematic negative space.\nNo clothing or outfit visible — bare shoulders and upper chest only.\nHe is submerged just below the surface, with the waterline visible above, strongly backlit. Dramatic golden sunlight pierces through the rippling surface, creating intense volumetric god rays that cascade downward. Bright caustic light patterns shimmer and dance across his face, neck, and shoulders, enhancing the contours of his features.\nThousands of tiny, sparkling air bubbles rise around him, adding motion and depth. Subtle rainbow-colored light refractions and delicate lens flares enhance the dreamy, magical atmosphere. The water tones blend rich turquoise and deep emerald green hues with warm golden highlights, creating a visually immersive color harmony.\nHyper-realistic skin texture with natural pores and authentic underwater light interaction. Wet hair strands are finely detailed, flowing organically with the water movement.\nShot with a 50mm lens, f/1.8, shallow depth of field, maintaining sharp subject focus with a softly blurred aquatic background. Cinematic volumetric lighting, high dynamic range, and ultra-detailed rendering.\nStyle inspired by National Geographic underwater photography fused with high-end fine art fashion editorial aesthetics.\nUltra-detailed, photorealistic, 8K resolution, masterpiece quality.\nAspect ratio 4:5.",
+      "description": "Underwater Cinematic Photography Prompt: Use this to generate a serene portrait of a man submerged in turquoise water, featuring shimmering sunlight rays, golden caustics, and ethereal bubbles.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 60,
+      "view_count": 899,
+      "copy_count": 2085,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-1.webp",
+          "local_path": "images/underwater-photography/man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/underwater-photography/man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/underwater-photography/man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Submerged in Sunlit Water AI Photo Editing Prompt. AI generated cinematic underwater portrait of a young man with sunlight and shimmering ripples reflecting on his face in teal water."
+        },
+        {
+          "filename": "man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-2.webp",
+          "local_path": "images/underwater-photography/man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/underwater-photography/man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/underwater-photography/man-underwater-eyes-closed-sunlight-ripples-portrait-image-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}
