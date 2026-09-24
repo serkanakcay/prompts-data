@@ -1,0 +1,1389 @@
+{
+  "category": "Neon Lighting / Noir",
+  "slug": "neon-lighting-noir",
+  "total_prompts": 32,
+  "updated_at": "2026-09-24T13:10:23Z",
+  "prompts": [
+    {
+      "id": "6ab1656542ae1b78ac8407f9",
+      "title": "Golden Neon Ring Cinematic Portrait AI Prompt",
+      "slug": "golden-neon-ring-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Generate a vertical 4:5 cinematic fashion-editorial portrait of a person (reference), framed chest-up with a slightly low camera angle; subject in a strong 3/4 pose turned slightly to the right while keeping the gaze toward camera, chin subtly lifted, composed confident expression. Styling: luxury modern fashion with a sharply tailored black structured blazer featuring clean sculpted shoulders and a bold raised collar, layered over a fitted black high-neck inner top; refined tonal textures, polished premium finish, elegant editorial silhouette; clear or lightly tinted statement eyeglasses with thick frames; no logos. Background: deep near-black warm brown studio void (#0E0705) with large concentric neon light arcs sweeping behind the subject, forming bright golden rings and curved streaks; neon color #FFD15A with smooth bloom/halation. Lighting: primary motivated light from the neon arcs behind and slightly camera-left creating strong warm rim light on face, shoulders, and jacket; soft warm fill from front-right at low intensity to keep facial detail; emphasize specular highlights and glossy reflections on jacket panels and crisp catchlights/reflections in eyeglass lenses; high-contrast low-key exposure, warm color temperature ~2800–3200K, cinematic glow, subtle haze to enhance neon bloom. Lens/DOF: full-frame 85mm look, f/1.8–2.2 shallow depth of field; subject tack-sharp with micro-contrast on fabric stitching and skin texture, neon arcs softly blurred into creamy bokeh; clean vignette, minimal grain, premium editorial retouching. Mood: modern urban, sleek, futuristic-luxury, dramatic and intimate. Editorial, modern, high-detail, cinematic composition, ultra-realistic textures, professional fashion photography style.",
+      "description": "Unlock this versatile AI prompt to generate premium cinematic fashion portraits of men and women. Features glowing golden neon rings and clear glasses.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 9,
+      "view_count": 950,
+      "copy_count": 690,
+      "is_premium": false,
+      "published_at": "2026-09-21T17:12:05.099Z",
+      "images": [
+        {
+          "filename": "b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "local_path": "images/neon-lighting-noir/b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Photo Editing Prompt: Handsome man with dark wavy hair and a mustache wearing thick clear-framed glasses and a black blazer, framed by glowing golden neon circles."
+        },
+        {
+          "filename": "29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "local_path": "images/neon-lighting-noir/29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Photo Prompt: Cinematic fashion portrait of a young woman with short brown hair wearing clear thick-frame glasses and a black blazer, standing in front of glowing golden neon rings."
+        },
+        {
+          "filename": "443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "local_path": "images/neon-lighting-noir/443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Images Generation Prompt: Dramatic low-key portrait of a bald man with a full beard wearing clear eyeglasses and a black suit jacket, standing in front of a warm golden neon ring light."
+        },
+        {
+          "filename": "d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "local_path": "images/neon-lighting-noir/d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Prompt For Woman: High-end fashion portrait of a woman with dark hair in a top knot, wearing clear glasses and a black blazer, illuminated by warm neon ring lighting."
+        },
+        {
+          "filename": "146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "local_path": "images/neon-lighting-noir/146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "original_url": "https://img.promptplum.com/promptImages/146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Generated Cinematic editorial portrait of a man with dark hair and a short beard, wearing clear glasses and a black blazer, lit by vibrant golden neon circles."
+        },
+        {
+          "filename": "ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "local_path": "images/neon-lighting-noir/ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini AI Generated High-contrast portrait of a young woman with brown hair and clear eyeglasses, wearing a black tailored blazer with bright golden neon arcs behind her."
+        },
+        {
+          "filename": "c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "local_path": "images/neon-lighting-noir/c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Image Prompt: Modern urban fashion portrait of a young man with short wavy hair, wearing clear glasses and a black jacket, highlighted by bright circular neon lights."
+        },
+        {
+          "filename": "c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "local_path": "images/neon-lighting-noir/c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Prompt: Premium portrait of a young woman with long wavy hair, wearing clear glasses and a black blazer, illuminated by a smooth glowing golden neon arc."
+        },
+        {
+          "filename": "002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "local_path": "images/neon-lighting-noir/002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Generated Editorial portrait of a man with a mustache and clear glasses wearing a structured black jacket against a dark background with bright golden neon arcs."
+        },
+        {
+          "filename": "11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "local_path": "images/neon-lighting-noir/11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "original_url": "https://img.promptplum.com/promptImages/11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Prompt: Elegant woman with sleek dark hair pulled back, wearing thick clear glasses and a black structured blazer against a dramatic background of warm neon rings."
+        }
+      ]
+    },
+    {
+      "id": "6aad7d5346d4207dc213110c",
+      "title": "Moody Neon Studio Photography of a Man",
+      "slug": "seated-man-neon-studio-photography",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a photorealistic, high-end cinematic portrait of a man seated casually on a tall black bar stool in a modern studio, using the uploaded image strictly as the face and\nPose & Composition:\nFull-body vertical portrait, subject seated comfortably on the stool with a relaxed posture. His body faces slightly toward the camera, both hands resting loosely between his thighs. His right leg extends naturally forward with his foot resting on the floor, while his other leg is slightly bent and rests lightly on the lower support of the stool, creating a stylish editorial pose. A calm, confident expression while looking directly at the camera. The subject is positioned centrally with balanced negative space surrounding him.\nOutfit:\nA lightweight, crisp white textured button-down shirt, casually worn with the sleeves rolled up to the forearms and several upper buttons naturally open. A simple thin metallic chain around the neck. Relaxed-fit light-wash blue jeans with natural fabric folds and texture. Clean minimalist white sneakers. A classic metallic wristwatch on left wrist.\nLighting & Background:\nProfessional studio setup with a dramatic blue and magenta neon lighting theme. Deep electric-blue light illumination from the left side and vibrant pink/magenta light from the right, creating colorful rim lighting around the subject. Two vertical glowing tube lights are positioned behind him in the background—cool cyan/blue on the left and bright pink/magenta on the right. Dark atmospheric studio background with subtle haze and cinematic depth.\nFloor & Atmosphere:\nDark, subtly glossy reflective studio floor with beautiful blue and magenta reflections from the neon lights. Subtle atmospheric haze, soft light bloom, realistic shadows, and sophisticated music-video/editorial-studio ambience.\nCamera & Quality:\nShot at approximately eye level, slightly wide full-body framing, professional portrait photography, realistic perspective, shallow depth of field, crisp subject separation, cinematic bokeh, realistic skin texture, natural clothing details, soft highlights, high dynamic range, professional color grading, ultra-detailed, photorealistic, 8K quality, aspect ratio 4:5.\nNo identity change, no blurry details, no plastic skin, no anatomical errors, no extra lighting, no visible light stands and no lighting inconsistencies.",
+      "description": "Neon Studio Photography Prompt: Copy & Paste this prompt to create a modern studio portrait of a stylish seated man illuminated by vibrant cyan and magenta neon tube lights.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 9,
+      "view_count": 345,
+      "copy_count": 247,
+      "is_premium": false,
+      "published_at": "2026-09-18T18:05:07.793Z",
+      "images": [
+        {
+          "filename": "a4f65324-bdae-4863-8fe9-87abe94535c0.jpeg",
+          "local_path": "images/neon-lighting-noir/a4f65324-bdae-4863-8fe9-87abe94535c0.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/a4f65324-bdae-4863-8fe9-87abe94535c0.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/a4f65324-bdae-4863-8fe9-87abe94535c0.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/a4f65324-bdae-4863-8fe9-87abe94535c0.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Seated Man in Neon Lighting Portrait AI Photo Editing Prompt. AI generated studio portrait of a stylish young man in a white shirt and jeans sitting on a stool between cyan and magenta neon lights.   "
+        },
+        {
+          "filename": "6f7a8505-6488-4443-b4ea-e77c2e1d6fa8.jpeg",
+          "local_path": "images/neon-lighting-noir/6f7a8505-6488-4443-b4ea-e77c2e1d6fa8.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/6f7a8505-6488-4443-b4ea-e77c2e1d6fa8.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/6f7a8505-6488-4443-b4ea-e77c2e1d6fa8.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/6f7a8505-6488-4443-b4ea-e77c2e1d6fa8.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Seated Asian Man in Neon Lighting Portrait AI Photo Editing Prompt. AI generated studio portrait of a stylish young man in a white shirt and jeans sitting on a stool between cyan and magenta neon lights.   "
+        }
+      ]
+    },
+    {
+      "id": "6a9be64246d4207dc257e860",
+      "title": "Urban Red Neon Boy Portrait",
+      "slug": "urban-red-neon-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Hyper-realistic digital chest-up portrait of a young man with a naturally styled slightly messy hair, wearing sunglasses on his head, an unbuttoned black shirt over a white t-shirt, and a circular silver pendant necklace. Intense cinematic lighting with strong red neon backlighting creating rim light on his hair and shoulders. Dark, gritty cyberpunk background with blurred vertical red neon signage. low angle, hero perspective.",
+      "description": "Generate a cinematic urban portrait of a stylish boy with intense red neon rim lighting using this AI prompt. Perfect for dark street aesthetics.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 12,
+      "view_count": 2265,
+      "copy_count": 2231,
+      "is_premium": false,
+      "published_at": "2026-09-05T09:52:02.573Z",
+      "images": [
+        {
+          "filename": "6436b078-406e-4313-a756-950eb4ffecdd.webp",
+          "local_path": "images/neon-lighting-noir/6436b078-406e-4313-a756-950eb4ffecdd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6436b078-406e-4313-a756-950eb4ffecdd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/6436b078-406e-4313-a756-950eb4ffecdd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/6436b078-406e-4313-a756-950eb4ffecdd.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "AI-generated portrait of a stylish young man wearing a black overshirt and silver pendant, illuminated by bright red neon rim lighting against a dark cyberpunk city background."
+        }
+      ]
+    },
+    {
+      "id": "6a8db1d446d4207dc21e147b",
+      "title": "Dark Aesthetic Birthday Portrait",
+      "slug": "dark-theme-birthday-poster-prompt",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded reference image strictly as the facial identity reference only. Ignore the original pose, clothing, framing, lighting, expression, and background. Create a premium, ultra-realistic professional birthday studio portrait matching the composition and atmosphere described below.\n\nIDENTITY LOCK\nThe subject must remain clearly recognizable as the person in the uploaded reference.\nPreserve accurately:\nfacial structure, jawline, cheekbones, chin\neye shape, spacing, eyebrows, nose, lips\nnatural skin tone and realistic skin texture\nhairline and natural hairstyle characteristics\nbeard/moustache only if present in the reference\nglasses only if present in the reference\nDo not beautify, reshape, stylize, age, or alter the face. Avoid an exaggerated smile that could change facial identity. Use a subtle, relaxed, confident expression with lips naturally closed or a very slight soft smile.\n\nSUBJECT & POSE\nShow the subject seated comfortably and confidently in a large luxurious black velvet armchair with deep cushioning, broad upholstered arms, subtle channel detailing, and an elegant brushed-gold metal frame.\nPose:\nseated naturally in the center-right portion of the composition\ntorso facing mostly toward the camera\nrelaxed upright posture, slightly leaning back into the chair\nshoulders open and natural\nboth forearms resting comfortably on the armrests\nhands relaxed with realistic finger anatomy\nlegs naturally separated\nfeet firmly positioned on the floor\ncalm direct eye contact with the camera\nThe pose should look like a professionally directed birthday portrait, not a corporate headshot or stiff catalogue pose.\n\nCLOTHING\nDress the subject in an elegant all-black monochromatic outfit:\npremium black button-up shirt\nsoft natural fabric with realistic folds\ncollar casually open by one or two buttons\nsleeves neatly rolled to approximately the forearms\ntailored black trousers\nblack socks\npolished black leather lace-up dress shoes\nThe clothing should feel sophisticated, modern, luxurious, and appropriate for an upscale birthday celebration.\n\nBIRTHDAY STUDIO SET\nCreate a dark luxury photography studio with a sophisticated black-and-champagne-gold birthday theme.\nBackground:\nmatte charcoal-black / deep black paneled wall\nelegant decorative wall moulding\nsubtle architectural depth\nno distracting furniture or unrelated decorations\nBehind the subject, prominently display a warm glowing birthday sign.\nThe text must read exactly:\nHappy\nBirthday\nNAME\nin a large elegant handwritten cursive neon-style script, glowing in warm champagne-gold light.\nKeep it centered beneath “Happy Birthday,” similar in prominence to a professionally designed birthday backdrop.\n\nBALLOONS & DECORATION\nArrange sophisticated balloons around both sides of the scene:\nglossy black balloons\npearl/champagne balloons\ndifferent natural sizes and heights\nthin elegant gold balloon strings\ncurled metallic champagne-gold ribbons\nKeep the balloons mostly around the outer edges so they frame the subject without covering the face, chair, birthday lettering, or cake.\nAdd a few tasteful curled ribbons and small pieces of metallic gold-and-black confetti on the floor. Decoration should feel intentional and premium, not crowded or childish.\n\nBIRTHDAY CAKE\nPlace a small elegant round side table on the lower-left side of the subject, positioned beside the chair.\nTable:\nslim black frame\nrefined circular champagne-gold tabletop or gold trim\nluxury minimalist styling\nOn the table place a compact premium birthday cake:\ncylindrical black cake\nsmooth professional finish\nelegant champagne-gold drip decoration\nsubtle fine gold detailing near the base\nseveral slim lit birthday candles arranged neatly across the top\nThe candle flames should create tiny warm highlights while remaining realistic.\n\nCOMPOSITION\nVertical 4:5 portrait orientation.\nUse a polished full-body editorial composition:\nsubject fully visible from head to shoes\nchair fully readable\nshoes not cropped\ncomfortable headroom\nbirthday lettering clearly visible above and slightly behind the subject\ncake clearly visible at lower left\nballoons framing both sides\nbalanced amount of negative space\nno elements awkwardly cut by the image borders\nPlace the subject slightly right of center so the cake and decorations balance the left side of the frame.\nCamera approximately at seated chest/eye level, with a natural professional portrait perspective.\n\nLIGHTING\nUse realistic high-end studio photography lighting rather than artificial CGI illumination.\nLighting setup:\nlarge soft key light from front-left at approximately 45°\ngentle fill from camera-right\nsubtle warm rim/separation light around the hair and shoulders\nwarm glow from the birthday sign\nsoft candlelight accents\ncontrolled highlights on balloons and gold metal\nnatural shadow falloff beneath the chair and subject\ndeep blacks while retaining fabric texture and shadow detail\nSkin must retain realistic pores, fine texture, natural tonal variation, and believable highlights.\n\nCAMERA & IMAGE QUALITY\nPhotographed as if using a professional full-frame camera with an 85mm portrait lens around f/2.8–f/4, ISO 100, high dynamic range, accurate focus and realistic depth of field.\nThe face and eyes must be extremely sharp, while the background receives only subtle natural depth separation.\nPremium professional birthday photography, realistic lens rendering, finely resolved hair strands, detailed fabric, realistic hands, natural skin, physically believable balloons, accurate reflections, premium materials, subtle cinematic contrast, clean highlight roll-off, and extremely high facial detail.\nThe final image should resemble a real luxury birthday studio photoshoot produced by an experienced portrait photographer and professional set designer, not an AI-generated birthday poster.\n\nAvoid: plastic skin, over-smoothing, excessive facial symmetry, identity drift, exaggerated smile, distorted hands, extra fingers, waxy balloons, floating decorations, fake-looking neon, oversaturated gold, crushed black clothing, CGI textures, unrealistic reflections, artificial bokeh, excessive glow, cartoonish cake, cluttered composition, cheap party decorations, cropped shoes, warped chair geometry, misspelled text, duplicate balloons, or modern corporate-office aesthetics.",
+      "description": "Use this AI prompt to generate an elegant black and gold themed birthday portrait featuring a custom glowing neon name sign, celebratory balloons, and a cake.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 2719,
+      "copy_count": 2192,
+      "is_premium": false,
+      "published_at": "2026-08-25T15:16:36.709Z",
+      "images": [
+        {
+          "filename": "afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "local_path": "images/neon-lighting-noir/afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_9bs29i9bs29i9bs2"
+        },
+        {
+          "filename": "e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "local_path": "images/neon-lighting-noir/e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_herws4herws4herw"
+        }
+      ]
+    },
+    {
+      "id": "6a8b176e4bbdbe2cf50a677e",
+      "title": "Boy Neon Ring Light Profile",
+      "slug": "boy-neon-ring-light-profile-picture",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "\"Studio portrait of a young man, wearing [round reflective sunglasses] and a [navy-and-black raglan graphic sweatshirt with bold 'BREAK THE RULES' streetwear print and blue paint-splatter design], plus a [black smartwatch]. Subject posed at a slight angle, arms crossed casually, head tilted upward with a confident smile, looking off-camera.\nLighting & background: pitch-black studio backdrop with a large glowing white circular LED ring light positioned directly behind the subject's head like a halo, creating soft rim lighting on hair and shoulders. Clean, moody, high-contrast look.\nCamera & style: shot on [85mm lens, f/2.8], sharp focus on face, professional fashion/streetwear editorial style, vertical 4:5 crop, rich blacks, subtle warm skin tones, crisp fabric detail, Instagram-ready aesthetic.\"",
+      "description": "Use this Neon Ring Light Studio Portrait prompt to generate a stylish photo of a smiling man in round sunglasses and a graphic sweatshirt, arms crossed against a glowing ring light.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 2507,
+      "copy_count": 3771,
+      "is_premium": false,
+      "published_at": "2026-08-23T15:53:18.632Z",
+      "images": [
+        {
+          "filename": "92a356b2-e973-4298-9586-cebf22cbde12.webp",
+          "local_path": "images/neon-lighting-noir/92a356b2-e973-4298-9586-cebf22cbde12.webp",
+          "original_url": "https://img.promptplum.com/promptImages/92a356b2-e973-4298-9586-cebf22cbde12.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/92a356b2-e973-4298-9586-cebf22cbde12.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/92a356b2-e973-4298-9586-cebf22cbde12.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Ring Light Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling young man in round sunglasses and a \"BREAK THE RULES\" sweatshirt posing with crossed arms."
+        },
+        {
+          "filename": "9ed4a2a2-f920-46ae-9a3e-b3d0ffe251b6.webp",
+          "local_path": "images/neon-lighting-noir/9ed4a2a2-f920-46ae-9a3e-b3d0ffe251b6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9ed4a2a2-f920-46ae-9a3e-b3d0ffe251b6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/9ed4a2a2-f920-46ae-9a3e-b3d0ffe251b6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/9ed4a2a2-f920-46ae-9a3e-b3d0ffe251b6.webp",
+          "width": 1716,
+          "height": 2088,
+          "alt": "Man in Sunglasses Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling young man in round sunglasses and a \"Break the Rules\" sweatshirt, arms crossed against a glowing neon ring light backdrop."
+        },
+        {
+          "filename": "dcd2c196-be8b-4f38-9c87-b056c6a6c767.webp",
+          "local_path": "images/neon-lighting-noir/dcd2c196-be8b-4f38-9c87-b056c6a6c767.webp",
+          "original_url": "https://img.promptplum.com/promptImages/dcd2c196-be8b-4f38-9c87-b056c6a6c767.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/dcd2c196-be8b-4f38-9c87-b056c6a6c767.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/dcd2c196-be8b-4f38-9c87-b056c6a6c767.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Neon Ring Light DP Portrait AI Photo Editing Prompt. AI generated portrait of a smiling man in round sunglasses and \"Break The Rules\" sweatshirt against neon ring light."
+        },
+        {
+          "filename": "877180f3-addc-4f01-8a7c-a83512f12fcf.webp",
+          "local_path": "images/neon-lighting-noir/877180f3-addc-4f01-8a7c-a83512f12fcf.webp",
+          "original_url": "https://img.promptplum.com/promptImages/877180f3-addc-4f01-8a7c-a83512f12fcf.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/877180f3-addc-4f01-8a7c-a83512f12fcf.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/877180f3-addc-4f01-8a7c-a83512f12fcf.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Ring Light DP AI Photo Editing Prompt. AI generated profile picture of a smiling man in sunglasses and printed tee against a ring light."
+        },
+        {
+          "filename": "24f6e843-e65f-4cb9-bfe4-6db20fd17524.webp",
+          "local_path": "images/neon-lighting-noir/24f6e843-e65f-4cb9-bfe4-6db20fd17524.webp",
+          "original_url": "https://img.promptplum.com/promptImages/24f6e843-e65f-4cb9-bfe4-6db20fd17524.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/24f6e843-e65f-4cb9-bfe4-6db20fd17524.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/24f6e843-e65f-4cb9-bfe4-6db20fd17524.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Smiling young man in round Ray-Ban style mirrored sunglasses and a \"Break The Rules\" sweatshirt, arms crossed, standing before a glowing white neon ring light on a black background — AI generated portrait photo editing prompt by Promptplum."
+        }
+      ]
+    },
+    {
+      "id": "6a85c7174bbdbe2cf58d8ed8",
+      "title": "Editorial Style Male Portrait with Glasses",
+      "slug": "neon-backdrop-studio-portrait-prompt",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a highly detailed, photorealistic cinematic portrait of a stylish man wearing premium round, thin-metal framed clear glasses and a black collared polo shirt. His hair is neatly styled and subtle texture. He is captured in a tight chest-up composition, positioned centered, with his body turned approximately three-quarters to the right side while his face is tilted upward, gazing naturally off-camera with a calm, serious, confident expression.\nDramatic cinematic lighting illuminates his face with warm highlights and deep shadows, creating strong facial definition and realistic skin texture. A vivid pink-to-magenta-to-purple gradient background creates a bold, vibrant atmosphere, transitioning from bright pink and magenta at the top to rich purple in the middle, gradually fading into deep navy blue toward the bottom. High contrast, rich blacks, detailed hair strands, natural skin texture, crisp glasses light reflections, soft cinematic falloff, shallow depth of field, premium editorial photography aesthetic, 85mm portrait lens, eye-level camera angle, ultra-realistic, sharp focus, premium color grading, 4:5 vertical composition.\nNo text, no logos, no watermark, no anatomy errors, no distorted facial features.",
+      "description": "Studio Portrait Photography Prompt: Copy & paste this prompt to create a professional studio portrait of a stylish young man wearing round glasses and a black polo shirt against a vivid pink-to-blue gradient background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 24,
+      "view_count": 478,
+      "copy_count": 489,
+      "is_premium": false,
+      "published_at": "2026-08-19T15:09:11.799Z",
+      "images": [
+        {
+          "filename": "cd66d2dd-a7a1-4e18-bddf-4c44806a96b9.jpeg",
+          "local_path": "images/neon-lighting-noir/cd66d2dd-a7a1-4e18-bddf-4c44806a96b9.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/cd66d2dd-a7a1-4e18-bddf-4c44806a96b9.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cd66d2dd-a7a1-4e18-bddf-4c44806a96b9.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cd66d2dd-a7a1-4e18-bddf-4c44806a96b9.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Glasses Neon Gradient Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a young man wearing round glasses and a black polo shirt against a vivid pink-to-blue gradient background."
+        }
+      ]
+    },
+    {
+      "id": "6a7bc9034bbdbe2cf59ab483",
+      "title": "Cinematic Dual-Tone Lighting Portrait",
+      "slug": "cinematic-dual-tone-lighting-male-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Edit the attached photo of this person into a hyper-realistic luxury editorial studio portrait. This is the same individual from the uploaded image — keep their real facial structure, proportions, skin tone, natural skin texture, age, and gender exactly as photographed. Only change expression, pose, outfit, lighting, and background as described below. Do not beautify, reshape, or alter their face — this should look like them, styled and lit differently, not a different person.\n\nPOSE & EXPRESSION: Chest-up portrait. Shoulders rotated around 30° to one side, head turned the opposite way, gaze confidently off-camera. Relaxed, elegant posture. Expression is calm, composed, serious, and powerful — quiet-luxury confidence, not smiling. Keep their existing hairstyle, groomed to a polished, premium finish.\n\nSTYLING: Monochrome luxury fashion — a matte black tailored blazer over a plain fitted black crew-neck t-shirt, high-quality matte fabric with subtle texture, deep black and dark charcoal tones only. Add a thin gold chain necklace with a small circular pendant if it suits the subject. Minimal round sunglasses with a thin gold metal frame and dark black lenses.\n\nCAMERA: Vertical portrait framing, eye-level angle, shot like an 85mm lens at f/1.8 — face and eyes tack-sharp, background thrown into strong smooth bokeh, ultra-detailed DSLR-level realism.\n\nLIGHTING: Premium cinematic studio lighting. Soft neutral-white key light from the front-left, medium intensity. Strong warm golden-orange rim light glowing along the hair and one shoulder. A medium electric-blue rim light along the opposite edge. Very soft, low fill light that preserves dramatic contrast. High overall cinematic contrast.\n\nBACKGROUND: Deep black studio backdrop fading into dark charcoal with a smooth gradient. Soft blue smoke drifting on one side, warm golden glow blooming behind the opposite shoulder. Clean, atmospheric, no clutter or distracting shapes.\n\nCOLOR GRADE: Black, gold, and blue palette. High contrast, rich but controlled saturation, warm golden highlights, deep black shadows. Bold, premium, cinematic overall mood.\n\nQUALITY: Authentic photograph quality, not illustration, painting, CGI, or 3D render. Natural skin with real visible texture and pores — avoid smoothed, plastic, or airbrushed skin. Avoid noise, banding, warped anatomy, extra/missing fingers, duplicated jewelry, text, logos, or watermarks. Should look like a real luxury magazine studio shoot. FORMAT: Generate as a 4:5 vertical portrait (1080x1350).",
+      "description": "Use this cinematic studio photography prompt to create a hyper-realistic portrait of a man in a black suit, and gold sunglasses under dual-tone smoke lighting.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 112,
+      "view_count": 12231,
+      "copy_count": 17283,
+      "is_premium": false,
+      "published_at": "2026-08-12T01:14:43.217Z",
+      "images": [
+        {
+          "filename": "bad4d645-5165-40fc-9e3e-4b4da353b478.webp",
+          "local_path": "images/neon-lighting-noir/bad4d645-5165-40fc-9e3e-4b4da353b478.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bad4d645-5165-40fc-9e3e-4b4da353b478.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/bad4d645-5165-40fc-9e3e-4b4da353b478.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/bad4d645-5165-40fc-9e3e-4b4da353b478.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT AI generated cinematic portrait of a bearded man with wavy hair looking sideways, wearing gold-framed sunglasses and a black suit under smoky dual-tone lighting."
+        },
+        {
+          "filename": "06bcf125-771f-4853-ae2d-2dc824983a36.webp",
+          "local_path": "images/neon-lighting-noir/06bcf125-771f-4853-ae2d-2dc824983a36.webp",
+          "original_url": "https://img.promptplum.com/promptImages/06bcf125-771f-4853-ae2d-2dc824983a36.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/06bcf125-771f-4853-ae2d-2dc824983a36.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/06bcf125-771f-4853-ae2d-2dc824983a36.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT AI generated dramatic studio portrait of a man with slicked-back hair and a mustache, wearing gold sunglasses and a black blazer under dual-tone smoke lighting."
+        },
+        {
+          "filename": "0ea9d489-ebaa-421d-b3f7-0b7bb6d239aa.webp",
+          "local_path": "images/neon-lighting-noir/0ea9d489-ebaa-421d-b3f7-0b7bb6d239aa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0ea9d489-ebaa-421d-b3f7-0b7bb6d239aa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/0ea9d489-ebaa-421d-b3f7-0b7bb6d239aa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/0ea9d489-ebaa-421d-b3f7-0b7bb6d239aa.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "Editorial Smoke Portrait ChatGPT AI Photo Prompt. AI generated portrait of a young man with tousled hair and a light mustache, wearing gold sunglasses and a black suit under blue-orange studio lighting."
+        },
+        {
+          "filename": "98e09999-299a-49cc-ad29-12b1745bc9c9.webp",
+          "local_path": "images/neon-lighting-noir/98e09999-299a-49cc-ad29-12b1745bc9c9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/98e09999-299a-49cc-ad29-12b1745bc9c9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/98e09999-299a-49cc-ad29-12b1745bc9c9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/98e09999-299a-49cc-ad29-12b1745bc9c9.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "Rugged Mature Male Portrait AI Photo Editing Prompt. ChatGPT AI generated studio portrait of a grey-bearded man with a buzz cut wearing round gold sunglasses and a black blazer against a smoky backdrop."
+        },
+        {
+          "filename": "355c9b90-1b89-4965-be99-ef00cf18a4a3.webp",
+          "local_path": "images/neon-lighting-noir/355c9b90-1b89-4965-be99-ef00cf18a4a3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/355c9b90-1b89-4965-be99-ef00cf18a4a3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/355c9b90-1b89-4965-be99-ef00cf18a4a3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/355c9b90-1b89-4965-be99-ef00cf18a4a3.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT AI generated cinematic studio portrait of a bearded man wearing round gold sunglasses, a black blazer, and a necklace, looking left against a dark, smoky background with blue and orange lighting."
+        },
+        {
+          "filename": "3cc28ef6-b35c-4cd8-86f9-106783207667.webp",
+          "local_path": "images/neon-lighting-noir/3cc28ef6-b35c-4cd8-86f9-106783207667.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3cc28ef6-b35c-4cd8-86f9-106783207667.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/3cc28ef6-b35c-4cd8-86f9-106783207667.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/3cc28ef6-b35c-4cd8-86f9-106783207667.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "cinematic-dual-tone-lighting-male-portrait-ai-prompt-by-promptplum-5"
+        }
+      ]
+    },
+    {
+      "id": "6a6cd3a44bbdbe2cf530973c",
+      "title": "Cinematic Blue and Amber Portrait",
+      "slug": "cinematic-portrait-dual-lighting",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a highly detailed, photorealistic cinematic portrait of a confident man. He is wearing thin round silver metal-frame eyeglasses, a faded blue denim jacket layered over a black crew-neck T-shirt, and a delicate silver chain necklace.\nThe subject is captured in a chest-up composition with an eye-level camera. He is posed at a 3/4 right angle with a subtle upward chin tilt, creating a confident, modern editorial look. His expression is composed, self-assured, and effortlessly stylish while looking directly into the camera\nThe lighting features a dramatic cinematic dual-color setup: a bright vibrant blue light illuminating the left side of his face and jacket, while a bright warm amber/orange rim light softly highlights the right side of his face, neck, and shoulder. The lighting creates strong depth, contrast, and dimensionality and avoiding harsh shadows on the face.\nThe background is a smooth, dark navy-blue seamless studio backdrop with a subtle gradient, keeping all attention on the subject. Soft falloff, clean separation from the background, and gentle atmospheric contrast enhance the cinematic mood.\nCamera Settings: 85mm portrait lens, f/2.0 aperture, shallow depth of field, DSLR-quality, tack-sharp focus on the eyes, creamy background blur, high dynamic range, natural skin pores, realistic reflections on the eyeglasses, ultra-detailed fabric textures, and crisp facial hair details (if present).\nStyle: Premium fashion editorial, ultra-photorealistic, cinematic color grading, moody studio lighting, realistic skin texture, natural tones, 8K ultra-detailed, professional magazine-quality portrait, high contrast with soft highlight roll-off, no plastic skin, no over-processing, no beauty filters. Aspect ratio 4:5.",
+      "description": "Cinematic Portrait Photography Prompt: Copy & Paste this prompt to generate a realistic studio photo of a mustached man in a denim jacket with dual lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 62,
+      "view_count": 2450,
+      "copy_count": 1744,
+      "is_premium": false,
+      "published_at": "2026-07-31T16:56:04.288Z",
+      "images": [
+        {
+          "filename": "ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "local_path": "images/neon-lighting-noir/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "local_path": "images/neon-lighting-noir/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "local_path": "images/neon-lighting-noir/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-7"
+        },
+        {
+          "filename": "af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "local_path": "images/neon-lighting-noir/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "64592769-b3cf-4049-9008-469198461f65.webp",
+          "local_path": "images/neon-lighting-noir/64592769-b3cf-4049-9008-469198461f65.webp",
+          "original_url": "https://img.promptplum.com/promptImages/64592769-b3cf-4049-9008-469198461f65.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/64592769-b3cf-4049-9008-469198461f65.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/64592769-b3cf-4049-9008-469198461f65.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "local_path": "images/neon-lighting-noir/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "local_path": "images/neon-lighting-noir/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "width": 1468,
+          "height": 1600,
+          "alt": "Mustached Man in Denim Jacket Studio Portrait AI Photo Editing Prompt. AI generated digital portrait illustration of a serious man with round wire glasses and a prominent mustache, wearing a denim jacket and silver chain, against a dark background with blue and amber dual lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a5024227877e7a4d773daec",
+      "title": "Neon Halo Portrait",
+      "slug": "neon-ring-light-man-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded image only for the person’s face and identity reference. Preserve the same facial features, skin tone, age, gender, hairstyle, hair length, and facial hair with high accuracy. Do not add beard, glasses, accessories, or change the hairstyle unless they already exist in the reference.\n\nCreate a cinematic low-key studio portrait of the person centered in frame, facing the camera with a calm confident expression and relaxed direct eye contact. The person is wearing a plain matte-black oversized hoodie with no logo, no design, and no visible text. Pose them with arms crossed naturally across the chest, shoulders relaxed, upper body visible from head to crossed forearms.\n\nPlace the person against a pure solid black seamless studio background. Directly behind the person’s head, add one large perfectly circular thick orange-red glowing ring light, like a sunset halo lamp. The ring must be centered behind the head, symmetrical, clearly visible, larger than the head and shoulders, with the face framed inside the dark center of the circle. The orange-red glow should create strong warm rim light along the hair edges, ears, hoodie shoulders, and outer arms, while the front face remains softly lit and realistic.\n\nKeep the composition exactly like a premium portrait: subject large in frame, head near the upper center, very little empty space above the glowing circle, arms visible at the bottom, clean black background, no props, no extra lights, no text, no watermark. Ultra-realistic professional photography, sharp facial focus, natural skin texture, soft shadow contrast, moody cinematic lighting, shallow depth of field, 85mm portrait lens look, high-detail editorial studio quality, vertical 4:5 aspect ratio.",
+      "description": "Neon Studio Photography Prompt: Use this prompt to create a dramatic portrait of a confident man in a black hoodie posing in front of a glowing orange neon ring.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 49,
+      "view_count": 3677,
+      "copy_count": 4793,
+      "is_premium": false,
+      "published_at": "2026-08-09T23:31:55.878Z",
+      "images": [
+        {
+          "filename": "b4e72775-fdb7-4a72-b68e-8a314e7115da.webp",
+          "local_path": "images/neon-lighting-noir/b4e72775-fdb7-4a72-b68e-8a314e7115da.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b4e72775-fdb7-4a72-b68e-8a314e7115da.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/b4e72775-fdb7-4a72-b68e-8a314e7115da.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/b4e72775-fdb7-4a72-b68e-8a314e7115da.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Neon Ring Light Portrait AI Photo Editing Prompt. AI generated studio portrait of a young man in a black hoodie with his arms crossed, standing in front of a glowing orange neon ring light against a black background."
+        }
+      ]
+    },
+    {
+      "id": "6a3310ca61276f872acaf173",
+      "title": "Split-Light Portrait",
+      "slug": "neon-lighting-woman-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a cinematic, ultra-realistic studio upper-body portrait of any woman, preserving her natural hairstyle, eyewear, or accessories, if present in the reference, and overall facial appearance without changing her natural look. Frame the subject from the upper chest to the head, with the black crew-neck sweatshirt clearly visible. The female should face the camera naturally with his chin slightly raised and eyes looking forward, wearing a soft, calm, confident expression with a very subtle relaxed smile, not overly joyful and not serious.\n\nUse a deep solid black studio background with no distractions. Lighting should be dramatic but controlled: add vibrant magenta/purple accent light from one side, mainly touching the hair, cheek edge, beard edge, neck, and shoulder, and cool cyan/teal accent light from the opposite side, mainly creating a soft rim and side highlight. Keep the center of the face naturally lit with realistic skin tones; do not make the entire face look painted, neon, or harshly split into two colors. The dual-tone effect should feel like professional studio gel lighting, not a cyberpunk color mask.\n\nMaintain smooth but natural skin texture, sharp facial details, realistic beard texture if present, bright clear eyes, and crisp focus on the face. Professional editorial photography style, shallow depth of field, soft rim light, high dynamic range, 85mm lens look, f/1.8 aperture, photorealistic studio quality, high-resolution detail, modern cinematic aesthetic. Vertical 4:5 aspect ratio.",
+      "description": "Cinematic Studio Photography Prompt: Copy & paste this prompt to create a realistic portrait of a woman with dual-tone lighting against a dark background.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 25,
+      "view_count": 1198,
+      "copy_count": 1811,
+      "is_premium": false,
+      "published_at": "2026-08-10T16:22:33.977Z",
+      "images": [
+        {
+          "filename": "875b0190-da80-41d5-b4bc-6f92161f2da9.webp",
+          "local_path": "images/neon-lighting-noir/875b0190-da80-41d5-b4bc-6f92161f2da9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/875b0190-da80-41d5-b4bc-6f92161f2da9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/875b0190-da80-41d5-b4bc-6f92161f2da9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/875b0190-da80-41d5-b4bc-6f92161f2da9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Neon Portrait AI Photo Editing Prompt. AI generated studio portrait of a blonde woman in a black sweatshirt, illuminated by pink and cyan neon rim lighting against a black background."
+        },
+        {
+          "filename": "0ab040ec-c94d-4c7d-9ec3-4981148a7162.webp",
+          "local_path": "images/neon-lighting-noir/0ab040ec-c94d-4c7d-9ec3-4981148a7162.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0ab040ec-c94d-4c7d-9ec3-4981148a7162.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/0ab040ec-c94d-4c7d-9ec3-4981148a7162.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/0ab040ec-c94d-4c7d-9ec3-4981148a7162.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Neon Lighting Woman Portrait AI Photo Editing Prompt. AI generated portrait of a young woman with a short bob and glasses, illuminated by contrasting magenta and cyan neon lights against a black background."
+        },
+        {
+          "filename": "d9dabf49-afb5-4bcc-a3db-12a652298e60.webp",
+          "local_path": "images/neon-lighting-noir/d9dabf49-afb5-4bcc-a3db-12a652298e60.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d9dabf49-afb5-4bcc-a3db-12a652298e60.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/d9dabf49-afb5-4bcc-a3db-12a652298e60.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/d9dabf49-afb5-4bcc-a3db-12a652298e60.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a young woman with glasses illuminated by purple and cyan lights on a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a2f00ad61276f872a87309d",
+      "title": "Neon City Reflections",
+      "slug": "cyberpunk-neon-portrait-sunglasses",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a bold cyber-noir close-up portrait of a man in a 4:5 vertical frame. Use the uploaded image strictly as the primary face and identity reference. Preserve the subject’s facial structure, skin texture, face shape, jawline, nose, lips, facial hair, and overall likeness as accurately as possible.\nThe portrait is tightly cropped from upper chest to head, shot from a dramatic low-angle upward perspective. The subject is centered, with the head slightly angled toward his right side, about 15–20 degrees, chin lifted, and head subtly tilted back. He looks upward with a calm, confident, contemplative expression. Keep the full head and hairstyle visible with clear headroom; do not crop the hair or top of the head.\nHe has naturally styled hair. He wears a minimalist black ribbed high-neck turtleneck sweater with matte fabric texture, blending cleanly into the dark background.\nAdd large glossy black sunglasses with reflective lenses. The lenses show a vibrant neon cyberpunk cityscape reflection with glowing signs, futuristic street lights, and deep visual depth.\nLighting is dramatic cyberpunk studio lighting: electric blue ambient light on the subject’s left side, intense hot pink key light from the subject’s right side, slightly under-lit from below to emphasize the low-angle perspective. Create sculpted shadows, strong neon contrast, smooth posterized color gradients on the skin, and a semi-synthetic glossy editorial finish.\nBackground is pure black, ultra-minimal, with balanced negative space around the head. Style: futuristic cyber-noir fashion portrait, cinematic neon aesthetic, high-contrast editorial photography, ultra-sharp focus on face and sunglasses, shallow depth of field, 85mm portrait lens, f/2.0, studio-quality lighting, 8K detail.\n\nNegative prompt:\n\nDo not crop the hair or head, do not change facial identity, do not exaggerate expression, do not make the face cartoonish, do not add extra accessories, do not use a busy background, do not blur the face, do not distort sunglasses, do not make the portrait full-body.",
+      "description": "Cyberpunk Neon Portrait Prompt: Copy & Paste this prompt to create a cinematic, neon-lit photograph of a stylish man with glowing city reflections in his sunglasses.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 24,
+      "view_count": 915,
+      "copy_count": 1594,
+      "is_premium": false,
+      "published_at": "2026-08-10T16:29:26.546Z",
+      "images": [
+        {
+          "filename": "7c69155d-ef82-46bf-a3bc-a6d72fc66ace.webp",
+          "local_path": "images/neon-lighting-noir/7c69155d-ef82-46bf-a3bc-a6d72fc66ace.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c69155d-ef82-46bf-a3bc-a6d72fc66ace.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/7c69155d-ef82-46bf-a3bc-a6d72fc66ace.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/7c69155d-ef82-46bf-a3bc-a6d72fc66ace.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Neon Cyberpunk Man Portrait AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a black turtleneck illuminated by blue and pink neon lights, with a glowing futuristic cityscape reflecting in his sunglasses."
+        }
+      ]
+    },
+    {
+      "id": "6a2d773761276f872a68ea59",
+      "title": "Blue-Themed Birthday Celebration",
+      "slug": "woman-birthday-blue-theme-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded image only for face and identity reference. Preserve the subject’s real facial identity, face shape, skin tone, hairstyle, natural smile, and overall likeness accurately.\n\nCreate an ultra-realistic 4:5 vertical birthday celebration portrait of a reference female subject standing indoors in front of a luxury birthday decoration setup. She is centered in the frame, shown from head to full dress, smiling naturally while holding a round blue birthday cake with white and blue cream flowers on top.\n\nThe subject wears an elegant royal-blue sleeveless party gown with a glittery fitted bodice and a flowing satin skirt. Add realistic fabric shine, soft folds, premium stitching, and a graceful party look. She has long, softly curled hair styled over one shoulder, elegant earrings, and a very subtle glam makeup.\n\nBackground: dark charcoal wall decorated with warm fairy lights hanging vertically, surrounded by a large balloon arch made of metallic silver, deep blue, and light blue balloons. Behind the subject, place a glowing neon sign that clearly reads “Happy Birthday To You” in bright soft blue-white light. Keep the sign slightly behind her head but readable.\n\nLighting should be soft cinematic party lighting with a gentle glow from the neon sign and fairy lights, realistic skin texture, natural shadows, shallow depth of field, polished DSLR photography look, high detail, clean composition, premium birthday photoshoot mood.\n\nAvoid distorted hands, extra fingers, unreadable text, plastic skin, cartoon look, over-smoothing, messy balloons, wrong cake shape, extra people, harsh shadows, or AI-generated artefacts.",
+      "description": "Birthday Photography Prompt: Copy & Paste this Prompt to create a vibrant studio portrait of a smiling woman in a blue dress holding a cake against a festive neon background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 63,
+      "view_count": 5524,
+      "copy_count": 5032,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "local_path": "images/neon-lighting-noir/28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Blue Theme Birthday Celebration AI Photo Editing Prompt. AI generated studio portrait of a smiling blonde woman in a blue dress holding a blue floral cake against a neon sign and balloon backdrop."
+        },
+        {
+          "filename": "cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "local_path": "images/neon-lighting-noir/cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Birthday Celebration AI Photo Editing Prompt. AI generated portrait of a woman in a blue dress holding a birthday cake against a backdrop of blue and silver balloons and a glowing neon sign."
+        },
+        {
+          "filename": "35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "local_path": "images/neon-lighting-noir/35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "original_url": "https://img.promptplum.com/promptImages/35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a smiling young woman in a blue dress holding a floral cake, standing in front of a blue and silver balloon arch and a neon Happy Birthday sign."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670507",
+      "title": "The Bi-Color Glow",
+      "slug": "dual-tone-neon-lighting-male-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a cinematic, ultra-realistic studio upper-body portrait of any man, preserving his natural hairstyle, grooming details, eyewear or accessories if present in the reference, and overall facial appearance without changing his natural look. Frame the subject from the upper chest to the head, with the black crew-neck sweatshirt clearly visible. The man should face the camera naturally with his chin slightly raised and eyes looking slightly upward, wearing a soft, calm, confident expression with a very subtle relaxed smile, not overly joyful and not serious.\n\nUse a deep solid black studio background with no distractions. Lighting should be dramatic but controlled: add vibrant magenta/purple accent light from one side, mainly touching the hair, cheek edge, beard edge, neck, and shoulder, and cool cyan/teal accent light from the opposite side, mainly creating a soft rim and side highlight. Keep the center of the face naturally lit with realistic skin tones; do not make the entire face look painted, neon, or harshly split into two colors. The dual-tone effect should feel like professional studio gel lighting, not a cyberpunk color mask.\n\nMaintain smooth but natural skin texture, sharp facial details, realistic beard texture if present, bright clear eyes, and crisp focus on the face. Professional editorial photography style, shallow depth of field, soft rim light, high dynamic range, 85mm lens look, f/1.8 aperture, photorealistic studio quality, high-resolution detail, modern cinematic aesthetic. Vertical 4:5 aspect ratio.",
+      "description": "Cinematic Neon Portrait Prompt: Use this prompt to generate a striking studio photograph of a man illuminated by vibrant purple and teal rim lighting against a dark background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 80,
+      "view_count": 2150,
+      "copy_count": 5162,
+      "is_premium": true,
+      "published_at": "2026-08-27T19:05:52.405Z",
+      "images": [
+        {
+          "filename": "man-neon-lighting-portrait-by-promptplum-4.webp",
+          "local_path": "images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-neon-lighting-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Neon Lit Man AI Photo Editing Prompt. AI generated studio portrait of a bearded man illuminated by pink and cyan rim lighting against a dark background."
+        },
+        {
+          "filename": "man-neon-lighting-portrait-by-promptplum-5.webp",
+          "local_path": "images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-neon-lighting-portrait-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Neon Lighting AI Photo Editing Prompt. AI generated studio portrait of a bearded man wearing glasses illuminated by dramatic magenta and teal rim lights against a dark background."
+        },
+        {
+          "filename": "man-neon-lighting-portrait-by-promptplum-6.webp",
+          "local_path": "images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-neon-lighting-portrait-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/man-neon-lighting-portrait-by-promptplum-6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a young man in a black sweatshirt, illuminated by vibrant pink and teal neon lights against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704fc",
+      "title": "Quiet Intensity",
+      "slug": "serious-man-neon-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a photorealistic 4:5 vertical cinematic portrait of the uploaded male subject, framed from the mid-chest upward in a refined, premium editorial style.\n\nComposition & Pose\nShow the subject in a chest-up / upper-torso portrait.\nThe pose must be a clear three-quarter side pose, not front-facing. His torso should be noticeably angled to one side, while his face is turned downward in the same direction. The subject should feel naturally turned, not squared toward the camera.\nThe shoulders must not appear flat or perfectly level. Keep a natural asymmetry in the shoulders, with the body softly slanted so the pose feels elegant and realistic. Avoid a straight, centered, passport-like posture.\n\nExpression — Very Important\nThe subject should have a quiet, introspective, deeply focused expression — calm lips, relaxed facial muscles, slightly lowered eyelids, and a subtle sense of concentration or reflection. He should look serious and emotionally present, not sad, not smiling, not blank, and not overly dramatic.\n\nStyling\nDress him in a black high-neck turtleneck layered under a dark brown blazer with clean structure and soft premium fabric texture. Add black rectangular eyeglasses with a polished frame, sitting naturally on the face.\n\nLighting & Neon Halo\nBehind the subject’s head, place a large glowing circular neon ring light in a vivid orange-red tone, positioned like a luminous halo and clearly visible around the head and shoulders.\nUse this neon ring as the key visual element:\nStrong warm orange rim light along the hair edges, ear, cheek contour, jawline, neck, and blazer shoulder\nSoft warm reflections on the eyeglass frame and lens edges\nControlled highlights on the skin without overexposure\nDeep, rich shadows on the front and lower parts of the outfit for a dramatic cinematic contrast\nFace, Skin & Detail Quality\nRender the subject with crisp realistic facial detail, natural skin texture, subtle pores, fine facial hair detail where present, clean eyebrow definition, realistic hair strands, and sharp optical clarity around the eyes, glasses, and nose bridge. The image should feel like a high-end studio portrait, not smooth, plastic, or AI-stylized.\n\nBackground\nUse a dark moody studio background in deep black and charcoal tones, with a soft atmospheric falloff around the glowing neon ring. Keep the background minimal and uncluttered so the neon circle and subject remain dominant. Do not add smoke, haze, fog, texture buildup, or extra atmospheric effects.\n\nVisual Style\nPremium cinematic portrait photography, dramatic low-key lighting, neon editorial aesthetic, ultra-detailed, sharp focus on face and glasses, realistic depth of field, polished high-end color grading, rich contrast, sophisticated masculine mood.",
+      "description": "Cinematic Photography Prompt: Copy & Paste this prompt to create a dramatic studio portrait of a serious man with glasses against a glowing orange neon circle.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 469,
+      "copy_count": 965,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "local_path": "images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Neon Halo AI Photo Editing Prompt. AI generated cinematic portrait of a serious man with glasses and a brown blazer, backlit by a glowing orange neon circle."
+        },
+        {
+          "filename": "serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "local_path": "images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Neon Halo AI Photo Editing Prompt. AI generated studio portrait of a serious young man in glasses, a black turtleneck, and a grey blazer in front of a glowing orange neon circle."
+        },
+        {
+          "filename": "serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "local_path": "images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a serious young man in a brown blazer and turtleneck, illuminated by a glowing orange neon ring against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704cb",
+      "title": "Amber Orbit",
+      "slug": "girl-profile-circle-halo-lighting",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded image ONLY for face and identity reference.\nA cinematic, high-fashion editorial portrait of the person wearing a dark textured wool overcoat with a structured collar, styled in a minimal quiet-luxury aesthetic.\nPose & Face Direction:\nThe subject is shown in a clean right-facing profile pose, but with the face turned slightly toward the camera (5–10°) and the eyes directed off-camera, creating a subtle near-three-quarter profile while preserving a strong side-profile silhouette.\nExpression:\nCalm and composed natural expression. The expression should feel relaxed, introspective, and slightly warm while maintaining a serious editorial tone.\nComposition & Framing (STRICT):\nVertical 4:5 aspect ratio.\nChest-up to above-head framing.\nSubject positioned slightly left of center, occupying ~60% of the frame.\nPerfect circular neon ring centered directly behind the head, forming a halo effect.\nNo cropping of hair, face, or chin. Maintain clean headroom and balanced negative space.\nLighting (CRITICAL):\nSingle dominant warm neon ring light behind the subject (golden-orange glow).\nStrong rim/edge lighting outlining hair, jawline, and shoulders.\nFace is not fully illuminated — keep it partially in shadow with soft, controlled low-key lighting.\nSubtle bounce light reveals facial features without flattening contrast.\nMaintain realistic light falloff and depth — no overexposure.\nBackground:\nDark, seamless studio background with a soft gradient in deep brown/black tones.\nWarm orange glow from the neon ring subtly bleeding into the background.\nNo distractions, no objects, no text.\nMood & Style:\nMinimalist, cinematic, dramatic, and introspective.\nStrong contrast between light and shadow (chiaroscuro-inspired).\nPremium editorial look, clean and powerful.\nCamera & Technical:\nShot on a high-end mirrorless camera (Sony A7R IV / Canon EOS R5).\n85mm prime lens, f/1.8 aperture.\nShallow depth of field, crisp focus on eye and facial plane.\nHigh dynamic range, ultra-realistic textures, no artificial smoothing, no noise artifacts.\nOutput Constraints:\nNo extra people, no props, no logos, no watermark.\nNo color shifts away from warm golden-orange palette.\nMaintain sharp detail and natural realism.",
+      "description": "Cinematic Studio Photography Prompt: Copy and paste this prompt to generate a professional profile portrait of a young woman, elegantly framed by a warm glowing neon ring against a dark backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 707,
+      "copy_count": 1434,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "girl-profile-circle-halo-lighting-portrait-by-promptplum.webp",
+          "local_path": "images/neon-lighting-noir/girl-profile-circle-halo-lighting-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-profile-circle-halo-lighting-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/girl-profile-circle-halo-lighting-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/girl-profile-circle-halo-lighting-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman with Glowing Halo Ring AI Photo Editing Prompt. AI generated cinematic studio portrait of a young woman in profile wearing a dark coat with a bright orange ring light background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704c7",
+      "title": "Illuminated Profile",
+      "slug": "cinematic-man-neon-ring-profile",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded image as the ONLY identity reference.\nA cinematic, high-fashion editorial portrait of the person wearing a dark textured wool overcoat with a structured collar, styled in a minimal quiet-luxury aesthetic.\nPose & Face Direction:\nThe subject is shown in a clean right-facing profile pose, but with the face turned slightly toward the camera (5–10°) and the eyes directed off-camera, creating a subtle near-three-quarter profile while preserving a strong side-profile silhouette.\nExpression:\nCalm and composed with a subtle closed-lip smile — very minimal and natural. The expression should feel relaxed, introspective, and slightly warm while maintaining a serious editorial tone.\nComposition & Framing (STRICT):\nVertical 4:5 aspect ratio.\nChest-up to above-head framing.\nSubject positioned slightly left of center, occupying ~60% of the frame.\nPerfect circular neon ring centered directly behind the head, forming a halo effect.\nNo cropping of hair, face, or chin. Maintain clean headroom and balanced negative space.\nLighting (CRITICAL):\nSingle dominant warm neon ring light behind the subject (golden-orange glow).\nStrong rim/edge lighting outlining hair, jawline, and shoulders.\nFace is not fully illuminated — keep it partially in shadow with soft, controlled low-key lighting.\nSubtle bounce light reveals facial features without flattening contrast.\nMaintain realistic light falloff and depth — no overexposure.\nBackground:\nDark, seamless studio background with a soft gradient in deep brown/black tones.\nWarm orange glow from the neon ring subtly bleeding into the background.\nNo distractions, no objects, no text.\nMood & Style:\nMinimalist, cinematic, dramatic, and introspective.\nStrong contrast between light and shadow (chiaroscuro-inspired).\nPremium editorial look, clean and powerful.\nCamera & Technical:\nShot on a high-end mirrorless camera (Sony A7R IV / Canon EOS R5).\n85mm prime lens, f/1.8 aperture.\nShallow depth of field, crisp focus on eye and facial plane.\nHigh dynamic range, ultra-realistic textures, no artificial smoothing, no noise artifacts.\nOutput Constraints:\nNo extra people, no props, no logos, no watermark.\nNo color shifts away from warm golden-orange palette.\nMaintain sharp detail and natural realism.",
+      "description": "Cinematic Studio Portrait Prompt: Copy and paste this prompt to generate striking profile images of men featuring a glowing neon ring background and dramatic studio lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 637,
+      "copy_count": 1237,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-neon-ring-portrait-by-promptplum-3.webp",
+          "local_path": "images/neon-lighting-noir/man-neon-ring-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-neon-ring-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/man-neon-ring-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/man-neon-ring-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Neon Ring AI Photo Editing Prompt. AI generated cinematic portrait of a bearded man in a dark coat featuring a glowing amber circular halo light."
+        },
+        {
+          "filename": "man-neon-ring-portrait-by-promptplum-4.webp",
+          "local_path": "images/neon-lighting-noir/man-neon-ring-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-neon-ring-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/man-neon-ring-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/man-neon-ring-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Neon Ring Halo AI Photo Editing Prompt. AI generated cinematic studio portrait of a young man in a dark high-collar coat featuring a glowing golden neon circle background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704c3",
+      "title": "Core Red",
+      "slug": "cyberpunk-techwear-boy-avatar",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a striking, high-contrast, semi-realistic digital painting portrait blending techwear aesthetics with a cinematic, anime-influenced visual tone. The result must feel like a powerful “main character” reveal with strong visual impact, similar to a high-end AAA game cinematic character rendered in semi realistic digital painting.\n\nASPECT RATIO\n4:5 vertical\n\nFRAME & COMPOSITION (LOCK)\nCentered tight medium close-up (lower chest to head).\nSubject fills approximately ~65–85% of the frame.\nPerfect vertical symmetry.\nSubject positioned directly in front of a large circular element behind the head and upper torso.\n🔒 The head must sit slightly above the centre of the red circle, so the circle appears slightly dominant.\n🔒 Framing must feel tight, controlled, and portrait-focused (not wide, not loose).\n\nCAMERA & ANGLE (LOCK)\nLow-angle camera (subtle upward perspective).\nCamera positioned below eye level, looking upward toward the subject.\n🔒 Head slightly tilted upward (very subtle), chin slightly raised\nCreates a strong, dominant “hero” presence\nNo left or right tilt, no dutch angle\nNatural lens feel (50mm–85mm equivalent)\nNo perspective distortion\n\nPOSE (LOCK)\nBody fully facing forward, perfectly centered.\nNeck straight, posture upright and grounded.\n🔒 Shoulders relaxed but slightly pulled back\n🔒 No dynamic pose — completely still and controlled\nPose must feel like a calm power stance, not a fashion pose.\n\nSUBJECT & FACE (ADAPTIVE IDENTITY LOCK — FIXED)\nUse the reference image as the base identity.\nPreserve overall facial structure and proportions (jawline, cheekbones, nose, lips, face width).\nMaintain recognizable identity and likeness.\n🔒 Identity must remain consistent, but adapt naturally to the cinematic style of the scene.\nFace should be interpreted through the scene’s lighting, mood, and rendering style, not copied rigidly.\n🔒 Do NOT redesign or change identity\n🔒 Do NOT beautify or alter core facial structure\n🔒 Do NOT introduce new facial features\n✔ Allow slight stylistic adaptation in:\nskin shading\nsurface detail level\nlighting interaction\nFace must feel like the same person, rendered in this scene — not a pasted reference, not a hyper-real photo.\n\nEXPRESSION (CRITICAL FIX)\nConfident expression with slight intensity.\n🔒 Lips gently closed (no smile, no tension)\n🔒 Gaze must feel direct and dominant (even behind sunglasses)\n🔒 No emotional exaggeration\nExpression must feel:\ncool, confident, slightly intense\nNOT soft, NOT friendly, NOT stylized\n\nHAIR (NATURAL + IDENTITY-BASED)\nHair must be derived from the reference image, not redesigned.\nMaintain the same hairline, direction, and natural growth pattern\nPreserve real-world randomness and slight imperfections\nKeep natural density and texture\n🔒 Do NOT create a new hairstyle\n🔒 Do NOT over-style or make it too clean\n🔒 Do NOT simplify into flat or graphic shapes\nHair must feel natural and realistic, not artificially styled.\n\nEYEWEAR\nPerfectly round dark sunglasses with thin silver frames highlighted.\nSubtle reflections, not overly glossy, not fully opaque.\n\nOUTFIT (TECHWEAR STYLE\nOuter: Black tactical jacket with rugged, distressed/frayed edges on shoulders, lapels and other parts\nVisible hardware: subtle zipper, minimal metallic details\nInner: neck gaiter covering the neck\nFabric contrast:\nouter layer structured\ninner layer soft and draped\n\nACCESSORIES\nHighlight a thin silver chain with a vertical rectangular pendant.\nClean metallic reflections, subtle and realistic.\n\nBACKGROUND (CRITICAL RED ORB FIX)\nMassive glowing red circular orb behind the subject’s head and upper torso (perfect circle).\n🔒 Edges softly diffused (not sharp, not graphic)\n🔒 Inner flat red (No gradient)\n🔒 Clean minimal look (no texture like moon surface)\nOutside the circle: deep charcoal/dark grey background with soft smoky texture.\nNo additional elements.\n\nLIGHTING (HERO DEPTH + RED CONTROL)\nStrong, sharp red rim lighting from the circular orb:\nCrisp red highlights on edges of hair, ears, jawline, shoulders, jacket threads\nClear separation from background\n🔒 Red light affects edges only, not the full face\nFront lighting:\nsoft but directional\nsubtle cheekbone shadows\ndefined shadow under nose and lower lip\nslight eye socket depth\nLighting must sculpt the face, not flatten it.\n\nCOLOR PALETTE (STRICT)\nDeep black (subject)\nCharcoal grey (background)\nVivid saturated red (orb + rim light)\nNo additional dominant colors.\n\nSTYLE & RENDERING (HARD LOCK)\nHigh-detail cinematic digital painting with semi-realistic rendering.\n🔒 NOT flat illustration\n🔒 NOT vector art\n🔒 NOT clean anime shading\nAvoid:\ncel-shading\ncartoon outlines\nplastic skin\ncontrolled semi-realistic skin shading (no hyper-real pores, no photographic skin detail)\noverly smooth surfaces\nShading must be dimensional with realistic light falloff.\nMaterials must feel real (fabric, metal, glass).\n\nRESOLUTION\n4k-8k resolution with high details\n\nSTYLE PRIORITY (CONTROL)\nCinematic realism and lighting take priority over anime influence.\nAnime influence must remain subtle and only affect structure—not shading.\n\nMOOD / VIBE\nDark, cinematic, cyberpunk, mysterious.\nStrong “main character energy”.\nFeels like a premium movie poster or AAA game character reveal — not a flat illustration.",
+      "description": "Stylized Digital Illustration Prompt: Use this prompt to generate a high-contrast portrait of a cool man or woman in a black leather jacket and sunglasses against a glowing red circular backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 532,
+      "copy_count": 1265,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "local_path": "images/neon-lighting-noir/Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Black Tactical Jacket and Red Halo AI Photo Editing Prompt. AI generated digital illustration of a man with round sunglasses and a black distressed jacket standing against a glowing red neon circle."
+        },
+        {
+          "filename": "woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "local_path": "images/neon-lighting-noir/woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "local_path": "images/neon-lighting-noir/man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704b9",
+      "title": "The Red Exit",
+      "slug": "blood-splatter-stylized-illustration-poster",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a high-detail, textured graphic-novel portrait (not vector, not clean illustration).\n\nFRAME (LOCK):\nChest-up shot. Subject fills ~75-80% frame. Positioned slightly right.\nLower left side must have some clear empty space. Do not zoom in or crop tight.\n\nPOSE (HARD LOCK):\nBody facing left (back visible) side in the frame.\nLeft shoulder closer to camera.\nHead turned back over left shoulder, looking directly at viewer.\nFace angle ~30–40° (not front-facing).\nMaintain strong shoulder depth. Do NOT flatten body.\n\nEXPRESSION:\nIntense, serious, slightly intimidating.\nTight jaw. Focused eyes. Brow compressed.\n\nLIGHTING (FORCE THIS):\nSingle hard light from upper-left.\n– bright highlight on: left forehead, cheekbone, nose bridge\n– light strip on front suit (lapel area)\n– right side of face = deep shadow (near black)\n– sharp shadow edge across face (clear light/shadow split)\nNo soft light. No even lighting. No ambient fill.\n\nSTYLE (ANTI-VECTOR):\nTextured ink rendering, not clean digital art.\nSubject must be rendered entirely in black and white (grayscale only), using pure black, white, and grey tones. No skin color or natural color tones allowed.\n– slightly rough edges\n– visible grain/noise\n– layered linework (thick + thin + micro)\n– hair = individual strands, messy flow\nAvoid smooth, clean, vector-like finish.\n\nSHADING:\nHalftone only in shadow zones + subtle grain overlay\nNo gradients. No flat fills.\nSUIT:\nBlack tailored suit\n– visible folds and tension lines\n– sharp shoulder crease\n– highlight edge on front\n– no flat black areas\nSHIRT:\nWhite shirt\n\nBACKGROUND (IMPORTANT):\nNo straight split. No centered division.\n– left: very light grey (flat, clean, minimal texture)\n– right: rich saturated red\nThe transition must feel like red paint has burst into the grey:\n– irregular, broken, organic boundary (not a straight line)\n– uneven paint edges with slight bleed into grey\n– grey area mostly clean with minor invasion near boundary\nSPLASH (DETAIL):\nHigh-density layered splatter:\n– large & medium irregular splashes (explosive shapes, not circular)\n– medium scattered drops\n– very fine micro particles (dust-like spray, clearly visible)\n– directional spray patterns (not uniform)\n– higher density on red side, gradually reducing toward grey\n– mix of red and black splatter\n– subtle splatter interaction on subject’s back/shoulder edge\n– avoid symmetry, avoid pattern repetition\n\nAVOID:\nfront pose, soft lighting, smooth gradients, vector style, flat shading, skin color, centered subject, clean vertical split.\nAspect ratio 4:5",
+      "description": "High-Contrast Graphic Illustration Prompt: Copy and paste this prompt to generate a striking, action-themed portrait of an iconic hitman featuring bold linework and vibrant red paint splatters.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 1214,
+      "copy_count": 2974,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "local_path": "images/neon-lighting-noir/red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Male Stylized Noir AI Photo Editing Prompt. AI generated digital illustration of a high-contrast black and white portrait of male character in a suit featuring dramatic red ink splatters."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267041f",
+      "title": "Midnight Gaze",
+      "slug": "man-black-and-white-urban-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create an 8K ultra-realistic cinematic portrait of a man.\nUse the attached reference image for exact facial structure and likeness accuracy. Preserve identical facial proportions, bone structure, jawline geometry, eye shape, brow structure, and hairstyle. Maintain strong likeness, fidelity, and accurate facial proportions.\nSubject Description\nA ruggedly handsome man standing on the roadside of a city street at night.\nNatural hair with subtle wind movement and realistic texture\nDeep-set, intense eyes with defined brows\nSerious, brooding, confident expression\nmaintaining eye contact\nEditorial luxury energy\nHe wears a tailored black wool overcoat with structured shoulders and notch lapels over a dark button-down shirt with a slightly open collar.\nThe matte wool texture subtly contrasts with the faint sheen of the shirt fabric.\nPose & Composition\nSubject occupies 60-70% of the frame \nMedium Close-Up (MCU) – framed from chest/shoulders upward\nThree-quarter body angle facing the right side of the frame.\nHead turned back over left shoulder\nPiercing direct eye contact with camera\nEye-level camera position\nShallow depth of field\nCreamy background separation\nLighting (Cinematic Film Noir)\nHigh-contrast chiaroscuro lighting inspired by classic film noir.\nSoft directional key light coming from the right side of the frame, illuminating the half side of the face.\nSculpted cheekbone highlights\nDefined nose bridge\nSubtle rim light on hair\nRight side fading into deep dramatic shadow\nRich blacks, luminous highlights\nCinematic dynamic range\nEnvironment\nNight urban city street with many lighting objects.\nGlowing vertical neon signs (not overexposed)\nBlurred car silhouettes and lights on the road\nCircular streetlight bokeh\nWet pavement reflections\nExtremely shallow depth of field\nTechnical Specifications\n8K ultra-detailed resolution\nHyper-realistic skin texture\nVisible pores and natural micro-texture\nIndividual hair strand detail\nRazor-sharp focus on face\n85mm lens\nf/1.4 aperture\nHDR tonal depth\nProfessional editorial photography\nSoft cinematic film grain\nBlack and white color grading\nDeep contrast\nPhotorealistic lighting physics\nParameters\nAspect Ratio: 4:5\nResolution: 8K\nStyle: Cinematic realism\nNegative Prompt (Important)\nOverexposed background, blown highlights, clipped whites, neon overload, excessive bloom, HDR halo effect, artificial light spill, washed-out lighting, oversaturated highlights, high exposure, white rectangular artifacts, unrealistic glow.",
+      "description": "AI Photo Editing Prompt: Use this prompt to create a cinematic black and white photograph of a stylish man standing against a bokeh-lit urban city street at night.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 888,
+      "copy_count": 2252,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-portrait-city-night-by-promptplum.webp",
+          "local_path": "images/neon-lighting-noir/man-portrait-city-night-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-portrait-city-night-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/man-portrait-city-night-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/man-portrait-city-night-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man on City Street AI Photo Editing Prompt. AI generated cinematic portrait of a bearded man with curly hair wearing a dark coat against a blurred urban night background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703fe",
+      "title": "The Glass Halo",
+      "slug": "man-shattered-glass-red-background",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a 4K high-end cinematic portrait of a man featuring a shattered glass foreground. The subject must remain exactly the same person as in the reference image — preserve identical facial structure, skin tone, hairstyle, and overall identity. Do not modify, alter, or invent any facial features or elements.\nThe subject is dressed exclusively in black clothing, styled in a bold, high-fashion editorial manner, maintaining a dark and elegant aesthetic.\nThe composition is a mid close-up shot captured from an overhead shot angle, framed closely around the subject’s face and shoulders. Directly looking into the camera. The background should be clean and minimal, preferably a deep solid red tone that strongly contrasts with the black clothing and natural skin tones, without any distractions.\nRealistic shattered glass fragments are suspended strictly around the outer borders of the frame only. The central facial area must remain completely unobstructed and crystal clear — no glass shards, reflections, or distortions should cover or overlap the subject’s eyes, nose, mouth, or any primary facial features. Each glass shard must accurately reflect and refract portions of the original reference image — including fragments of the subject’s face, eyes, skin, clothing, and lighting — creating multiple distorted yet optically correct reflections of the same subject. Reflections must demonstrate realistic refraction, mirrored angles, light bending, depth variation, sharp glass edges, and accurate optical distortion.\nThe subject behind the glass remains sharp, powerful, and emotionally intense, with the face fully visible and unobstructed, while the reflections in the shards echo the same identity from different angles.\nLighting is cinematic and dramatic, with controlled highlights on the glass, soft sculpted shadows on the subject, and professional film-grade color grading. Maintain ultra-realistic skin texture with visible pores and natural imperfections, along with realistic fabric detail.\nStyle: cinematic movie poster, psychological drama, premium photography, hyperrealism, ultra-detailed, professional lighting, sharp focus, 4K resolution, no distortion.\nAspect Ratio: 4:5 (vertical portrait).\nImage Quality: ultra-high resolution, photorealistic, editorial finish.\nNegative Prompt:\nFace cropped, eye-level front shot, low angle shot, low quality, smiling expression, open mouth.",
+      "description": "AI Photo Editing Prompt: Create a dramatic cinematic photo of a man surrounded by shattered glass shards that reflect his face from multiple angles against a bold red background for a fragmented, high-fashion look.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 497,
+      "copy_count": 630,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "local_path": "images/neon-lighting-noir/cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Broken Glass Reflections AI Photo Editing Prompt. AI generated cinematic studio portrait of a man in black attire surrounded by shattered mirror fragments on a deep red backdrop."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703df",
+      "title": "Digital Drifter",
+      "slug": "cyberpunk-futuristic-motorcycle-neon-city",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a photorealistic 4K cinematic portrait of a man sitting on an advanced futuristic custom motorcycle in a high-tech urban night environment. Use the uploaded reference image for accurate face matching and identity consistency.\nVery low-angle front three-quarter camera view, camera positioned close to ground level looking upward, making the motorcycle visually dominant and powerful in the frame. Full motorcycle visible, with properly exaggerated scale and presence compared to the rider. 85mm lens, shallow depth of field.\nThe rider wears aviator sunglasses, a black fitted hoodie, black cargo pants, and white sneakers. He sits upright on the motorcycle with a relaxed but confident posture, both hands resting on a matte black helmet placed on the tank. Expression calm and composed, looking toward the camera.\nThe motorcycle is a heavily customized futuristic concept machine with oversized proportions and advanced industrial design. Matte-black armored panels with sharp aerodynamic geometry, exposed mechanical elements mixed with futuristic components, illuminated seams, integrated red LED rim lighting, thin horizontal LED headlight strip, subtle glowing accents along body contours, extremely wide tires, massive rear wheel, and a sculpted, aggressive silhouette. The bike feels experimental and next-generation rather than modern-day.\nLighting: cinematic futuristic night lighting with neon and LED sources from the environment. Soft frontal key lighting ensures the subject and motorcycle remain clearly visible. Strong rim lighting from surrounding neon signage and vehicle lights creates separation and highlights edges of the bike and rider. Natural skin tones preserved with controlled reflections on sunglasses.\nEnvironment: futuristic urban industrial street at night with neon signage, holographic reflections, illuminated architectural elements, distant traffic light streaks, soft atmospheric haze, and wet pavement reflecting colored light sources. Background remains slightly out of focus to maintain subject dominance.\nHDR lighting, global illumination, ray-traced reflections, photorealistic materials, volumetric lighting, ultra-detailed cinematic realism.\nAspect ratio 4:5 or 1:1.",
+      "description": "Google Gemini AI Cinematic Photo Editing Prompt: Use this prompt to create a futuristic neon-noir visual of a stylish man posing with a matte black superbike against a glowing cyberpunk city background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 641,
+      "copy_count": 599,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "local_path": "images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cyberpunk Biker in Neon City AI Photo Editing Prompt. AI generated digital illustration of a man in a black hoodie and sunglasses posing with a futuristic motorcycle on a neon-lit urban street at night."
+        },
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "local_path": "images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "local_path": "images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cyberpunk Biker on Futuristic Motorcycle AI Photo Editing Prompt. AI generated cinematic digital illustration of a young man in a black hoodie and sunglasses posing on a matte black motorcycle with neon-glowing wheels in a rainy, futuristic city."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703dc",
+      "title": "Timeless Gaze",
+      "slug": "old-man-neon-halo-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "[USE THE UPLOADED IMAGE AS STRICT REFERENCE FOR SUBJECT & POSE]\nTask: Create a high-contrast, cinematic portrait of the specific male subject from the uploaded photo in a futuristic, cyberpunk/synthwave style.Composition: Vertical composition, 4:5 aspect ratio, framed from middle chest upward.Outfit: Wearing a black crew-neck t-shirt.\nSubject Identity & Pose (Strict Match):\nStrictly analyze the provided reference image to preserve the subject’s exact facial identity, bald head shape, and natural white beard structure. Recreate the exact pose: head turned slightly to the left, with a calm, intense, contemplative gaze directed off-camera to the left.\nGlasses / Eyewear:\nThe specific thick-framed black glasses with warm amber-tinted lenses seen in the reference. Neon lighting creates subtle reflections along the frame edges and lens surface without hiding the eyes.\nLighting & Color Behavior:\n\nLighting Style: Cinematic Triple-Light Setup. A vibrant neon circular halo behind the head (Primary), and a subtle, cool-toned overhead key light (Third Light) to define the crown of the head and forehead.\nColor Palette: High-contrast complementary scheme; intense Cyan-Teal from the left and fiery Amber-Orange from the right.\nLight Interaction: The cyan light creates a sharp 'edge-light' on the left silhouette. The amber light on the right is softer, kissing the edges of the shoulder and beard. The overhead light provides soft highlights on the bridge of the glasses, forehead, and cheekbones, revealing skin pores and micro-textures within the shadows.\nAtmosphere & Shadows:\nDeep Chiaroscuro effect; the center of the face remains in dramatic shadow with subtle subsurface scattering. Volumetric glow around the neon ring to add atmospheric haze and depth.\nTechnical Details:\nShallow depth of field. Eyes, glasses, and beard in sharp focus. Solid matte black background, clean and distraction-free. 8k resolution, photorealistic, highly detailed.",
+      "description": "Google Gemini AI Photo Editing Prompt: Create a cinematic digital portrait of an elderly man with a white beard and glasses, featuring a vibrant teal and orange neon halo against a dark, high-contrast background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 884,
+      "copy_count": 1338,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "neon-halo-old-man-portrait-by-promptplum-2.webp",
+          "local_path": "images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Neon Halo Old Man Portrait AI Photo Editing Prompt. AI generated digital portrait of an elderly man with a white beard and glasses featuring a glowing cyan and orange neon halo."
+        },
+        {
+          "filename": "neon-halo-old-man-portrait-by-promptplum-1.webp",
+          "local_path": "images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "neon-halo-old-man-portrait-by-promptplum-3.webp",
+          "local_path": "images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/neon-halo-old-man-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703a0",
+      "title": "The Amber Square",
+      "slug": "side-profile-glowing-orange-frame",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded image as a strict facial identity reference.\n\nThe subject’s face shape, bone structure, skin tone, hairstyle, hairline, nose, jawline, eye placement, and sharp profile silhouette must remain extremely close to the reference.\n\nNo beautification, no stylization, no face reshaping, no identity drift.\n\nPreserve natural skin texture and realistic proportions, with slightly enhanced cinematic skin glow (not plastic, not smooth).\nMAIN CONCEPT\nCreate a striking cinematic side-profile portrait with a modern editorial / cyberpunk mood.\n\nThe scene balances intense neon rim glow with deep, controlled darkness.\n\nThe image must feel moody, premium, dramatic, and minimal.\nSUBJECT & COMPOSITION\nPose:\n\n• Sharp side profile\n\n• Facing right\n\n• Head straight, not tilted\nExpression:\n\n• Calm\n\n• Serious\n\n• Focused\n\n• Emotionally controlled\nEye Direction:\n\n• Looking forward (off-frame)\n\n• No eye contact with the camera\nFRAMING & ALIGNMENT\n• Subject occupies about 65% of the frame height\n\n• Head and shoulders visible\n\n• Upper chest slightly visible\n\n• Body angled left, face in right profile\nPositioning:\n\n• Subject placed slightly left of center\n\n• A glowing orange neon square is centered directly behind the head and shoulders\n\n• The head sits slightly above the vertical center of the square\nBACKGROUND\n• Completely dark\n\n• Flat and smooth\n\n• No visible texture\n\n• No noise, no grain\n\n• Only neon glow softly bleeding onto the wall\n\n• No visible details except light falloff\nWARDROBE\n• Dark matte blazer\n\n• Black turtleneck\n\n• No logos\n\n• No shine\n\n• No patterns\n\n• Fabric blends into shadows\nLIGHTING & GLOW\nPrimary Rim Light (Neon Backlight):\n\n• Very bright orange neon square\n\n• Strong glow\n\n• Creates a glowing outline on:\n\n– Hair edges\n\n– Forehead\n\n– Nose bridge\n\n– Lips\n\n– Chin\n\n– Jacket shoulder line\n\n• Light intensity: high but controlled (not blown)\nGlow Strength:\n\n• Bright neon\n\n• Soft bloom\n\n• Light halo around edges\n\n• No harsh clipping\nSecondary Fill Light (Very Subtle):\n\n• From front-right\n\n• Extremely soft\n\n• Just enough to show:\n\n– Skin texture\n\n– Eye contour\n\n– Nose shape\n\n• Face remains mostly in shadow\nShadow & Contrast:\n\n• Deep blacks\n\n• High contrast\n\n• Chiaroscuro style\n\n• Most of the body is in darkness\nSKIN & DETAIL\n• Skin tone: natural with slight warm enhancement\n\n• Visible pores and texture\n\n• No blur\n\n• No plastic smoothing\nCOLOR & TONE\n• Dominant: fiery neon orange\n\n• Shadows: deep charcoal black\n\n• Highlights: warm orange glow\n\n• Overall tone: dark, cinematic, high contrast\nCAMERA & TECHNICAL\n• Lens: 85mm portrait\n\n• Depth of Field: shallow\n\n• Subject: razor sharp\n\n• Background: soft and out of focus\n\n• Bloom: subtle glow around neon\n\n• Quality: hyper-realistic\n\n• Filmic cinematic look\nASPECT RATIO\n4:5 vertical\nNEGATIVE PROMPT\nFace distortion, identity mismatch, beauty filters, cartoon skin, flat lighting, low contrast, washed colors, overexposed neon, harsh clipping, noisy background, texture on wall, blur, watermark, text, artifacts, extra limbs, duplicate face.",
+      "description": "Get this 'Cinematic Side Profile' AI prompt. Generate photorealistic portraits with a glowing orange neon square, rim lighting, and a moody dark studio aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 18,
+      "view_count": 660,
+      "copy_count": 733,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+          "local_path": "images/neon-lighting-noir/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Cinematic side profile of a young man in a black suit, framed by a glowing orange neon square against a dark background."
+        },
+        {
+          "filename": "cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+          "local_path": "images/neon-lighting-noir/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+          "width": 864,
+          "height": 1184,
+          "alt": "Cinematic profile of a woman framed by a glowing orange neon square, featuring dramatic warm rim lighting against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670399",
+      "title": "Neon Graffiti Edition",
+      "slug": "urban-techwear-portrait-neon-graffiti-background",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded image as a strict visual identity reference.\nThe subject’s facial structure, proportions, skin tone, hairstyle, skin texture, and natural facial details must remain photorealistic and human-accurate, extremely close to the reference.\nAbsolutely no cartoon, anime, 3D, CGI, illustration, game character, or plastic-skin look.\n\nNo stylization, no face drift, no reshaping.\n\nPreserve real human skin pores, micro-texture, natural shadows, and real camera depth.\nMain Concept\nCreate a dynamic, hyper-realistic, high-energy cyberpunk street-style poster of the same man, shot from a slightly low angle at street level, giving him a powerful, heroic presence.\n\nHe appears confident and serious, with one hand in his pocket, standing firmly with a relaxed but dominant stance.\nSubject & Wardrobe\nA stylish adult man with a sharp, modern look.\nOutfit (futuristic streetwear):\n\nBlack tech jacket with purple neon accents and piping\nHigh-neck black sweatshirt underneath\nModular black cargo pants with:\nUtility straps\nBuckles\nMetal rings\nTactical pockets\nRugged cyber-inspired sneakers with purple glowing highlights\nAccessories:\n\nNo jewelry\nNo hats\nExpression & Pose\nCalm, serious, and confident expression\nEyes forward, slightly intense\nUpright posture\nOne hand in pocket, the other relaxed\nLegs slightly apart for a grounded stance\n\nFull-body standing pose\n\nDominant, hero-style framing\n\nPositioned in front of the text\nBackground & Typography\nDark base background\n\nExplosive paint-splash textures in:\nPurple\nTeal\nEmerald green\nAbstract grunge patterns with high contrast\nText:\n\nLarge white cyberpunk graffiti-style name: “PROMPT PLUM”\n\nThick outline, glossy highlights, sharp edges\n\nPlaced behind the central full-body figure\nLighting & Mood\nNeon purple rim lighting around the subject\n\nSoft frontal fill light\n\nSubtle glow on shoes and jacket edges\n\nHigh contrast, poster-style cinematic lighting\nFinal Look\nUltra-sharp\n\nHyper-detailed\n\nPoster-quality\n\nCyberpunk street sports aesthetic\n\nHigh saturation, clean edges, dramatic contrast\nAspect Ratio: Vertical 4:5\nQuality: Realistic, ultra-high detail, real-human cinematic poster style",
+      "description": "Generate stunning urban night portraits with this exclusive AI prompt. Create high-impact visuals featuring techwear fashion, neon graffiti backgrounds, and cinematic lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 566,
+      "copy_count": 588,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "local_path": "images/neon-lighting-noir/urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "A man in neon-lit techwear on a wet street. High-contrast purple and teal graffiti background featuring \"PROMPT PLUM\" in bold white text. Cinematic, futuristic urban vibe."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267038a",
+      "title": "Glitch Visionary",
+      "slug": "cyberpunk-man-digital-portrait-neon-lighting",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded image as the primary facial reference for structure, proportions, skin tone, hairline, and overall identity.\n\nPreserve natural facial likeness and expression. ❌ No beautification, no reshaping, no identity drift.\nCreate a semi-realistic, high-detail, cinematic cyberpunk portrait of a young man in a soft side-profile pose (not extreme), facing slightly to the right side of the frame.\nThe face remains clearly visible with realistic skin texture and subtle cyberpunk lighting reflections.\n\nExpression is calm, introspective, and quietly determined.\n\nHead slightly raised, chin gently lifted, eyes looking upward and off-frame — conveying future-focused confidence.\nAppearance & Styling (Cyberpunk)\nMatte black techwear hoodie with subtle neon piping and futuristic fabric texture\nTransparent cyber-glass eyewear with soft holographic reflections and HUD glow\nHair naturally styled with soft volume, lightly rim-lit by neon\nSubtle micro light accents along jawline and collar (not robotic, still human)\nRelaxed shoulders, balanced posture, composed stance\nBackground & Environment\nDeep, dark futuristic city void\nNeon moon hologram directly behind the head (cyan + magenta glow)\nMoon appears semi-digital with faint glitch texture, grid patterns, and glowing edges\nLight mist and floating digital particles in the air\nSubtle neon light trails fading into darkness\nSoft vignette with cyberpunk haze\nLighting\nDual rim lighting:\nCyan neon rim light from one side\nMagenta neon rim light from the opposite edge\nHolographic moon glow creates a soft halo behind the head\nVery soft ambient fill on the face\nFar side falls into controlled shadow with faint neon reflections\nGlasses reflect neon city lights subtly\nSmooth cinematic shadow transitions\nColor & Mood\nElectric cyan & magenta highlights\nDeep blue-black shadows\nSubtle purple undertones\nMuted blacks with neon edge glow\nFuturistic cinematic color grading\nHigh contrast, soft transitions\nArt Style\nHyper-detailed cyberpunk digital painting\nSemi-realistic with luxury sci-fi poster finish\nSoft glow + crisp edges\nClean, modern, emotionally powerful\nNo grain, no blur, no distortion\nAspect Ratio: 4:5",
+      "description": "Generate futuristic Cyberpunk Digital Portraits with this AI prompt. Create detailed characters with neon HUD glasses, techwear, and glowing holographic moons.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 511,
+      "copy_count": 406,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "local_path": "images/neon-lighting-noir/cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Cyberpunk portrait of a man in neon glasses and a hoodie, haloed by a glowing glitchy moon. Vibrant cyan and magenta lighting fills the misty, futuristic atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670383",
+      "title": "Glow",
+      "slug": "glow",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create an ultra-realistic, hyper-detailed 8K cinematic portrait using the uploaded reference image for strict face matching and hairstyle accuracy.\n\nReference & Identity Preservation (Strict)\nUse the uploaded image as an exact identity reference\nPreserve facial structure, proportions, eye shape, nose, lips, skin texture, and expression with zero deviation\nMaintain the same curly hairstyle, hair density, and natural volume\n❌ No face beautification, no reshaping, no identity drift\nSubject Description\nA young, stylish, naturally curvaceous woman wearing simple, modern black clothing.\n\nShe rests her head gently on her folded arms placed on a glossy black reflective surface, creating a perfect mirror reflection beneath her.\nHer expression is soft, calm, and emotionally serene, with a direct yet gentle gaze toward the camera. The pose feels intimate, composed, and elegant rather than exaggerated.\n\nPose & Composition\nUpper-body portrait, framed closely\nHead tilted slightly sideways, resting on crossed arms\nOne arm subtly extended forward across the reflective surface\nNatural, relaxed posture with graceful hand positioning\nReflection clearly visible, sharp, and symmetrical\nFacial & Skin Details\nNatural skin texture with realistic pores\nSoft cinematic highlights on cheekbones and nose\nBalanced contrast without over-smoothing\nEyes sharp and expressive with subtle catchlights\nProps & Foreground Elements\nDelicate white and soft blue orchids placed near the subject’s arms\nFlowers appear fresh, detailed, and softly lit\nOrchids partially reflected on the glossy surface for added depth\nLighting & Color\nCinematic neon lighting with contrasting red and blue light sources\nRed light softly rim-lighting one side of the face and hair\nBlue light illuminating the opposite side for depth and mood\nSmooth color transitions with no harsh clipping\nRomantic, ethereal, modern studio atmosphere\nBackground\nDark studio environment\nOut-of-focus neon light elements in red and blue\nMinimal distractions to keep focus on the subject\nWatermark\nSmall, legible handwritten sign text 'PromptPlum.com' floating above subject's shoulder, clear text, high detail.\n\nCamera & Quality\nUltra-sharp focus on face and eyes\nShallow depth of field with creamy bokeh\nProfessional studio photography realism\nHigh dynamic range, rich blacks, clean highlights\nOutput Settings\nAspect Ratio: 1:1\nResolution: 8K\nPhotorealistic, cinematic, premium editorial quality",
+      "description": "Create stunning AI art with this synthwave neon-noir prompt. Generate a cinematic portrait of a woman featuring photorealistic orchids, vibrant neon lights, and a mirror-like reflective surface.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 62,
+      "view_count": 1755,
+      "copy_count": 4706,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_xhj3xqxhj3xqxhj3.jpg",
+          "local_path": "images/neon-lighting-noir/Gemini_Generated_Image_xhj3xqxhj3xqxhj3.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_xhj3xqxhj3xqxhj3.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/Gemini_Generated_Image_xhj3xqxhj3xqxhj3.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/Gemini_Generated_Image_xhj3xqxhj3xqxhj3.jpg",
+          "width": 1433,
+          "height": 1433,
+          "alt": "Gemini AI Generated Image: A blonde woman rests her head on her hands, reflected in a dark surface with orchids. Soft red and blue neon lighting creates a moody, cinematic, and ethereal atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267037c",
+      "title": "Neon Curls",
+      "slug": "neon-curls",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a striking Synthwave / neon-noir digital portrait with a graphic-novel, vector-adjacent painterly style, blending realistic anatomy with bold stylization.\nIdentity Preservation (Strict Face Match):\n\nUse the uploaded image as a strict identity reference.\n\nPreserve the subject’s exact facial structure, proportions, skin tone, bone density, eye shape, nose, lips, and expression with 100% accuracy.\n\n❌ No beautification, no face morphing, no age change, no identity drift.\nSubject & Composition:\n\nA young woman with dark, textured afro-style hair, gazing upward and slightly to the right of the frame, conveying quiet strength, aspiration, and calm confidence.\n\nShot from a low-angle (worm’s-eye) perspective, creating a sense of grace and empowerment.\nMedium close-up framing, capturing the head, shoulders, and upper chest.\nColor Palette & Lighting (Neon-Noir / Synthwave):\n\nUse a triadic color scheme dominated by magenta, cyan, and deep indigo.\nKey Light (Magenta / Pink): From the upper right, forming a strong rim light along the hairline, bridge of the nose, left cheekbone, jawline, collarbone, and neckline.\nFill / Ambient Light (Cyan / Teal): Illuminates the shadow side of the face (viewer’s left), producing a cool, electric contrast against the magenta.\nDeep Shadows (Indigo / Dark Blue): Concentrated under the chin, within hair curls, eye sockets, and pupils to add sculptural depth and drama.\nSecondary Accent: Thin gold-rimmed circular glasses provide the only warm color break, naturally drawing focus to the eyes.\nFacial Features & Expression:\n\nHighly detailed eyes with crisp white catch-lights suggesting multiple light sources, creating a thoughtful, alive expression.\n\nNatural skin texture with smooth gradients and sharp light-to-shadow transitions (near cel-shading) to emphasize facial structure.\nHair Rendering:\n\nDense mass of tight, coiled curls, rendered with thick, curved painterly strokes.\n\nMagenta and cyan highlights define individual loops, creating volume, glow, and dimensional depth.\nClothing:\n\nSimple, clean-lined t-shirt.\n\nMagenta rim lighting follows the fabric folds and neckline, integrating the subject seamlessly into the neon lighting environment.\nBackground & Atmosphere:\n\nSoft gradient background transitioning from cyan to magenta, featuring subtle, ghosted palm frond silhouettes.\n\nStrong Retrowave / Miami 80s synthwave aesthetic, atmospheric but non-distracting.\nRendering Style & Quality:\n\nUltra-clean digital painting with a vector-adjacent yet painterly finish.\n\nHard and soft edge control, high contrast, cinematic lighting.\n\nNo noise, no blur, no flat shading.\n\n4K High resolution, ultra-sharp details, premium editorial illustration quality.\nAspect ratio 4:5.\nNegative Prompts:\n\ncartoon, anime, flat illustration, over-smooth skin, plastic texture, muddy colors, low contrast, blurry, washed-out lighting, incorrect face, altered identity, extra accessories, background clutter",
+      "description": "Use this Gemini AI prompt to generate vibrant dual-tone illustrations with high-contrast synthwave vibes. Perfect for stunning digital portraits!",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 698,
+      "copy_count": 891,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ntdl4fntdl4fntdl.jpg",
+          "local_path": "images/neon-lighting-noir/Gemini_Generated_Image_ntdl4fntdl4fntdl.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ntdl4fntdl4fntdl.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/Gemini_Generated_Image_ntdl4fntdl4fntdl.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/Gemini_Generated_Image_ntdl4fntdl4fntdl.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Vibrant synthwave portrait of a woman with curly hair and gold glasses in bold pink and teal neon tones."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670362",
+      "title": "Neon Rain",
+      "slug": "neon-rain",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Subject & Pose\nReference: [Use Uploaded Face Reference]\nAction: Standing with one hand casually in a pocket.\nPose: Body slightly turned to the left, face looking slightly upward and to the right.\nFeatures: Natural hair.\n\nApparel & Accessories\nEyewear: Round, dark-lensed sunglasses with thin metal frames.\nJewellery: Silver chain necklace.\nClothing: Oversized plain Gray crew-neck sweatshirt, dark trousers.\nSetting & Atmosphere\n\nLocation: Narrow, wet urban alleyway at night.\nWeather: Heavy rain falling with visible streaks, individual raindrops catching the light.\nLighting: Dramatic, volumetric cinematic lighting. Primary sources are vibrant neon signs (blue and red hues).\nReflections: Intense neon reflections on wet asphalt.\n\nPhotography & Tech Specs\nStyle: Hyper-realistic, 8K, Cinematic Portrait.\nCamera: 35mm lens, vertical orientation.\nDepth of Field: Heavily blurred bokeh background (distant urban lights, faint outlines of buildings/vehicles).\nDetails: Highly detailed textures on wet surfaces and fabric.\nAspect ratio 4:5.",
+      "description": "Create stunning, photorealistic urban portraits with this AI image prompt. This prompt generates high-quality images of stylish characters in grey sweatshirts and sunglasses, standing in a moody, rainy alleyway illuminated by cinematic neon city lights. Perfect for cyberpunk and streetwear aesthetics.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 909,
+      "copy_count": 1660,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ldn2idldn2idldn2.jpg",
+          "local_path": "images/neon-lighting-noir/Gemini_Generated_Image_ldn2idldn2idldn2.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ldn2idldn2idldn2.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/Gemini_Generated_Image_ldn2idldn2idldn2.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/Gemini_Generated_Image_ldn2idldn2idldn2.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image of a Bearded man in sunglasses and a grey sweatshirt standing on a rainy, neon-lit city street."
+        },
+        {
+          "filename": "Gemini_Generated_Image_yzwnkdyzwnkdyzwn.jpg",
+          "local_path": "images/neon-lighting-noir/Gemini_Generated_Image_yzwnkdyzwnkdyzwn.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_yzwnkdyzwnkdyzwn.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/Gemini_Generated_Image_yzwnkdyzwnkdyzwn.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/Gemini_Generated_Image_yzwnkdyzwnkdyzwn.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670340",
+      "title": "Birthday Frames",
+      "slug": "birthday-frames",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create a stylish, vertically oriented (3:4) premium birthday digital collage using the uploaded reference photo, with STRICT facial identity preservation.\n\n🔒 Face-Match Enforcement (Very Important)\nThe generated face must be 100% identical to the reference image\nUse the reference image as the only facial source\nDo not alter facial structure, proportions, skin tone, or hairline\nPreserve natural skin texture, pores, and real facial details\nNo beautification, no face morphing, no stylization of facial features\nFace must remain fully visible and unobstructed\n\nGlasses must match natural proportions and sit realistically on the face\n\n🧍 Central Subject (Main Portrait)\nYoung man sitting on the floor in a relaxed, confident pose\nBody angled slightly to the right, face turned directly toward the camera\nLeft knee raised, left hand resting on it, clearly showing a silver watch with a dark dial\nRight leg folded flat on the ground\n\nExpression: bright, confident, joyful smile (birthday vibe)\n\nAppearance\n\nNatural Skin\nNaturally styled hair\nWell-groomed short beard (If available in reference image)\nThin wire-rim aviator-style glasses\n\nOutfit\nOversized dark grey knit sweater with ribbed crew neck and cuffs\nDark trousers with vertical ribbed texture (corduroy-like), black or deep charcoal\nBlack leather Chelsea boots\n\n🖼️ Background & Collage Inserts\n\nBackground: solid dark purple matte texture, deep violet tones\nSubtle purple rim-light / haze on the subject’s left side (viewer’s left)\nSoft floating dust / particle overlays for depth\nFour Smaller Portrait Inserts (Floating Cluster – NOT a grid)\n\nPositioned above and to the right of the main subject:\nTop Right – smiling headshot, looking upward, framed with a torn paper edge\n\nMiddle Right – serious direct-gaze headshot, framed like a classic film negative\n\nMiddle Left (slightly tilted) – profile shot looking downward/sideways, framed inside a film strip\n\nBottom Right (of cluster) – smiling headshot with a glowing purple neon frame\n\nEach insert must clearly depict the same person with perfect face match.\n\n✨ Typography\n\nTop left corner text: “Happy Birthday”\n\nStyle: neon-light typography, glowing purple with white highlights\n\nLooks like a real neon sign mounted on a dark wall\n\nClean, modern, premium — not cartoonish\n\nOverall mood: trendy, urban, sophisticated, premium birthday aesthetic\n\nHigh clarity, cinematic lighting, professional poster-quality output\n\n🚫 Negative Prompt (Highly Recommended)\n\nblurry face, face distortion, incorrect facial features, different person, beautified skin, plastic skin, over-smooth skin, exaggerated beard, wrong glasses shape, cartoon style, anime, painterly style, low resolution, washed colors, messy collage, grid layout, duplicated faces, extra limbs, warped body, incorrect pose, text artifacts, misspelled text, watermark, logo",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 232,
+      "view_count": 17760,
+      "copy_count": 26684,
+      "is_premium": false,
+      "published_at": "2026-09-20T23:49:14.144Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_xkgy4axkgy4axkgy.jpg",
+          "local_path": "images/neon-lighting-noir/Gemini_Generated_Image_xkgy4axkgy4axkgy.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_xkgy4axkgy4axkgy.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/Gemini_Generated_Image_xkgy4axkgy4axkgy.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/Gemini_Generated_Image_xkgy4axkgy4axkgy.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: A premium-style birthday portrait features a young man seated on the floor against a deep, matte purple background accented with subtle floating particles. The central subject, who has styled brown hair, a short beard, and thin wire-rimmed glasses, sits in a relaxed pose with his left knee raised and hands clasped, displaying a silver watch. He wears a dark grey ribbed knit sweater, dark textured trousers, and black leather Chelsea boots, offering a warm, confident smile to the camera. In the upper left corner, \"Happy Birthday\" is written in a bright, glowing purple neon script. To the upper right, a creative collage of four smaller headshots displays the same man in various expressions—including a profile view and a direct gaze—framed by artistic elements like torn paper edges, film strips, and a neon border."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670319",
+      "title": "Stepping into 2026",
+      "slug": "stepping-into-2026",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Use the uploaded image as visual reference.\nCreate a cinematic, ultra-realistic digital artwork of a confident young man walking forward toward the camera, set in a dramatic New Year 2026 environment dominated by deep red tones.\nSubject & Pose\n\nA young man with a well styled hair\nWarm, confident smile, looking directly at the camera\nCaptured mid-stride, one leg stepping forward naturally\nArms extended wide at shoulder height, palms open in a welcoming, powerful gesture\nUpright posture, calm confidence, commanding presence\nOutfit\n\nTailored two-piece suit in rich crimson red\nUnbuttoned red blazer with clean notch lapels\nCrisp white dress shirt underneath, top buttons open, no tie\nMatching red trousers with natural movement creases around knees and thighs\nPolished black leather dress shoes with subtle reflections\nSmoke & Atmospheric Effects (VERY IMPORTANT)\nThick, voluminous red smoke clouds fill the lower half of the scene\nSmoke appears dense, layered, and cinematic, not flat or fog-like\nThe smoke has visible texture and depth, with soft billows, curls, and rolling edges\nClouds of smoke swirl around the subject’s legs and feet, partially obscuring the ground\nSmoke density increases toward the bottom of the frame and gradually thins upward\nSubtle motion in the smoke, as if slowly drifting or expanding outward\nColor variation inside the smoke: deep crimson, dark maroon shadows, and glowing red highlights\nLight from the neon “2026” softly diffuses through the smoke, creating glowing edges and soft halos\nThe smoke enhances depth separation between foreground (subject), mid-ground (legs), and background\nOverall effect feels dramatic, stage-like, powerful, and cinematic, similar to high-end movie posters\nBackground & Lighting\nMassive glowing neon numerals “2026” behind the subject\nWhite neon outline, rounded sans-serif style, resembling illuminated tubing\nThe subject partially blocks the center of the numbers, adding realism and depth\nStrong backlight from the neon creates a soft rim-light around shoulders and arms\nSoft frontal lighting keeps face, suit texture, and expression clearly visible\nDark gradient background transitioning from black to deep red\nColor Tone & Mood\nDominant palette: crimson red, deep black shadows, glowing white highlights\nHigh contrast, glossy, cinematic color grading\nMood is bold, celebratory, powerful, and optimistic\nSymbolizes confidence and stepping into the future (New Year 2026 energy)\nComposition & Quality\nFull-body, centered composition\nVertical portrait orientation\nUltra-sharp focus on subject, slightly diffused background\nPremium digital art style, cinematic realism\nHigh detail, professional finish\nAspect Ratio: 2:3 (vertical)",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 40,
+      "view_count": 1340,
+      "copy_count": 2147,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_m4hmr2m4hmr2m4hm.jpg",
+          "local_path": "images/neon-lighting-noir/Gemini_Generated_Image_m4hmr2m4hmr2m4hm.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_m4hmr2m4hmr2m4hm.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/Gemini_Generated_Image_m4hmr2m4hmr2m4hm.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/Gemini_Generated_Image_m4hmr2m4hmr2m4hm.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: A photorealistic studio portrait of a smiling young man in a stylish deep red suit and white shirt, walking forward with arms spread wide in a welcoming gesture. Behind him, large, glowing white neon numbers display '2026' amidst swirling dark red smoke, creating a dramatic and celebratory New Year atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ae",
+      "title": "Glow-Up Night",
+      "slug": "glow-up-night",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Create an image with my face, preserving my features, in the style of a portrait of a woman that evokes the synthwave or neon aesthetic, characterised by the dramatic use of bright lights against a dark background.\nPosition and Attitude\nPosition: The woman is in a medium close-up shot, mainly showing her head, shoulders, and upper torso. She is oriented in a 3/4 profile, looking at the camera head-on.\nAttitude: Her expression is serene and mysterious, giving a sense of depth or introspection.\nOutfit\nShe is wearing what appears to be a high-necked garment (like a turtleneck or mock neck shirt) in a dark colour, probably black or a very dark shade of blue/purple, which blends into the background.\nThe material has a slight sheen that could be attributed to leather or vinyl, consistent with the cyberpunk or synthwave aesthetic.\nMakeup and Accessories\nThe makeup and accessories are strongly accentuated by the neon lighting:\nLips: They have an intense colour, visibly a bright magenta/pink or a saturated red, which catches the neon light.\nHair: Her hair is long, jet black, with layered waves that fall on her shoulders. The pink/magenta neon light enhances the outline of her hair on the left side.\nKey Accessories:\nSunglasses: She is wearing thick-framed, square or rectangular sunglasses. The lenses and frame reflect the neon light, creating a very striking effect.\nEarrings: A hoop or earring is visible on her right ear (the one that is most illuminated), which seems to emit or reflect the pink neon light.\nBackground and Style\nBackground: It is completely black (or a very dark shade), allowing the neon lighting to highlight the figure dramatically.\nLighting/Style: The image features a saturated neon colour palette, primarily consisting of intense pink/magenta and electric blue/cyan. This strong, contrasting lighting is the defining characteristic of the style, creating a bright and dramatic outline around the subject.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 44,
+      "view_count": 1246,
+      "copy_count": 2010,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_614yzo614yzo614y.jpg",
+          "local_path": "images/neon-lighting-noir/Gemini_Generated_Image_614yzo614yzo614y.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_614yzo614yzo614y.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/Gemini_Generated_Image_614yzo614yzo614y.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/Gemini_Generated_Image_614yzo614yzo614y.jpg",
+          "width": 1321,
+          "height": 1590,
+          "alt": "Gemini Generated Image: A woman wearing sunglasses and a black leather top is shown in a close-up portrait. She has long, dark, wavy hair. The image is lit with neon lighting, primarily pink/magenta and cyan/blue, creating a vibrant, edgy aesthetic against a dark background. She is wearing bright pink lipstick and a glowing neon pink hoop earring on one ear."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526701f8",
+      "title": "Moody Teal Orange Gradient Man Portrait",
+      "slug": "cinematic-orange-teal-portrait",
+      "category": "Neon Lighting / Noir",
+      "category_slug": "neon-lighting-noir",
+      "prompt": "Hyper-realistic cinematic studio portrait of a well-groomed man wearing a plain matte-black crewneck sweatshirt. Tight chest-up composition, centered, with the face occupying about half the frame. Shoulders slightly angled; head turned only 15–20° to one side while the face remains mostly visible, eyes looking off-camera in the same direction. Calm, serious, self-assured expression.\n\nNaturally styled hair with natural texture and individual defined strands, well groomed appearance.\n\nLighting: soft warm-neutral key light from slightly above and front to preserve natural skin tones and sculpt the face; strong golden-orange rim/kicker from behind on camera-left, outlining the hair, ear, cheek and shoulder; subtle deep teal-green rim light from behind on camera-right, visible mainly along the hair, temple, jaw and neck. Do not wash the entire face in orange or green — colored light should remain mostly on the edges.\n\nPure seamless black background with deep blacks and strong subject separation. Natural skin pores, fine hair detail, sharp eyes, controlled highlights, deep dimensional shadows, cinematic contrast, no beauty smoothing or artificial HDR look. 85mm portrait lens, eye-level, shallow depth of field, professional editorial studio photography. Vertical 4:5.",
+      "description": "Unlock perfect dual-color lighting! Get the exact cinematic AI prompt to generate striking male portraits with dramatic orange and green rim effects.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 121,
+      "view_count": 9815,
+      "copy_count": 15849,
+      "is_premium": false,
+      "published_at": "2026-08-10T18:10:29.269Z",
+      "images": [
+        {
+          "filename": "a56d77e9-1dad-444f-9691-20331bbe4781.webp",
+          "local_path": "images/neon-lighting-noir/a56d77e9-1dad-444f-9691-20331bbe4781.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a56d77e9-1dad-444f-9691-20331bbe4781.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/a56d77e9-1dad-444f-9691-20331bbe4781.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/a56d77e9-1dad-444f-9691-20331bbe4781.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 5, 2026, 04_32_27 PM"
+        },
+        {
+          "filename": "7d2086e7-5c86-4700-b060-f116093dd8df.webp",
+          "local_path": "images/neon-lighting-noir/7d2086e7-5c86-4700-b060-f116093dd8df.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7d2086e7-5c86-4700-b060-f116093dd8df.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/7d2086e7-5c86-4700-b060-f116093dd8df.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/7d2086e7-5c86-4700-b060-f116093dd8df.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "Cinematic Dual-Tone Portrait AI Photo Editing Prompt. AI generated studio portrait of a young man in a black sweater, lit with warm orange and cool teal split lighting against a black background."
+        },
+        {
+          "filename": "9361c6ee-6351-4697-a52f-a8cb2ba7238b.webp",
+          "local_path": "images/neon-lighting-noir/9361c6ee-6351-4697-a52f-a8cb2ba7238b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9361c6ee-6351-4697-a52f-a8cb2ba7238b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/neon-lighting-noir/9361c6ee-6351-4697-a52f-a8cb2ba7238b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/neon-lighting-noir/9361c6ee-6351-4697-a52f-a8cb2ba7238b.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 5, 2026, 04_16_20 PM"
+        }
+      ]
+    }
+  ]
+}

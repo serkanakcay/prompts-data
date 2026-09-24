@@ -1,0 +1,167 @@
+{
+  "category": "Outfit Transfer",
+  "slug": "outfit-transfer",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T13:10:29Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca15267043c",
+      "title": "Try on any Outfit",
+      "slug": "ai-outfit-transfer-prompt",
+      "category": "Outfit Transfer",
+      "category_slug": "outfit-transfer",
+      "prompt": "Use two uploaded reference images.\n\nOne Image — Person Image\nUse this image only for the subject’s identity and facial details.\n\nAnother Image — Outfit Image\nUse this image only for clothing design and outfit details.\n\nIdentity Lock (Highest Priority)\nStrictly maintain high-fidelity facial structure and exact likeness from the person's reference image. Integrate the face naturally with the scene's lighting. Ensure realistic skin texture with visible pores and minor imperfections; absolutely avoid overly smooth AI skin or a pasted face-swap look.\n\nFacial expression:\ncalm, confident, or warm smile with direct eye contact toward the camera.\n\nBody Proportions\n\nMaintain realistic human proportions based on the person's reference image.\n\nPreserve:\n\nbody shape\n\nshoulder width\n\nnatural posture\n\nDo not exaggerate body shape.\n\nOutfit Recreation\n\nThe subject must wear the exact outfit from the outfit reference image.\n\nRecreate clothing accurately including:\n\ncolors\n\nfabric type\n\npatterns and prints\n\ngarment structure\n\nfolds and stitching\n\nclothing layers\n\nThe outfit should appear naturally worn and properly fitted to the subject.\n\nPose Logic (Important)\n\nDo not copy the pose from any reference image.\n\nInstead, determine the pose based on the style of the outfit.\n\nExamples:\n\nModern / streetwear outfits → relaxed modern fashion pose\nFormal outfits → confident professional standing pose\nCasual outfits → natural relaxed pose\n\nThe pose should look like a professional fashion studio photoshoot.\n\nComposition\n\nProfessional studio fashion portrait.\n\nFull body framing from head to toe (very important).\n\nAspect ratio 2:3 vertical.\n\nSubject positioned naturally in the center of the frame.\n\nBackground\n\nCreate a clean professional studio sweep background.\n\nBackground characteristics:\n\nsmooth light grey seamless backdrop\n\nbackdrop curves smoothly into the floor\n\ndarker grey studio floor\n\nsubtle gradient lighting on the background\n\nNo objects or props.\n\nLighting\n\nProfessional studio lighting:\n\nsoft front key light\n\nbalanced fill light\n\nsubtle rim light for separation\n\nevenly illuminated background\n\nLighting must look natural and professional.\n\nImage Style\n\nUltra-realistic studio photography.\n\nRequirements:\n\nphotorealistic skin texture\n\ndetailed fabric rendering\n\nsharp focus\n\nnatural shadows\n\nprofessional fashion photography look\n\nRestrictions\n\nNo extra people\nNo text\nNo logos\nNo props\nNo background objects\nNo half-body portrait\nSubject must be fully visible from head to toe",
+      "description": "Create realistic AI studio portraits with outfit transfer. This prompt preserves identity, matches clothing from reference images, and generates full-body 4:5 fashion photos.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 51,
+      "view_count": 1050,
+      "copy_count": 1330,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-11.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-11.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-11.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-11.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-11.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-2.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-2.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-13.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-13.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-13.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-13.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-13.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-3.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-3.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-12.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-12.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-12.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-12.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-12.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-7.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-7.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-9.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-9.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-10.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-10.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-10.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-10.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-10.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-6.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-6.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-14.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-14.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-14.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-14.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-14.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-8.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-8.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-1.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-1.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-5.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-5.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-4.webp",
+          "local_path": "images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/outfit-transfer/ai-outfit-transfer-full-body-studio-portrait-image-by-promptplum-4.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

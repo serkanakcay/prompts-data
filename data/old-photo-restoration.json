@@ -1,0 +1,136 @@
+{
+  "category": "Old Photo Restoration",
+  "slug": "old-photo-restoration",
+  "total_prompts": 2,
+  "updated_at": "2026-09-24T13:10:27Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca1526704af",
+      "title": "Blurry to 4K AI Upscale",
+      "slug": "upscale-blurry-images",
+      "category": "Old Photo Restoration",
+      "category_slug": "old-photo-restoration",
+      "prompt": "Enhance the portrait while preserving the subject’s exact identity.\n\nMaintain accurate facial structure, proportions, and natural features. Do not alter face shape, expression, or identity. Only apply subtle cleanup to improve clarity while keeping the person fully recognizable.\nKeep the original background exactly as it is. Do not replace, modify, or add anything. The environment, framing, and composition must remain unchanged.\nRecreate the image with a premium full-frame camera look, similar to a Sony A1 with an 85mm f/1.4 lens. Use shallow depth of field with sharp focus on the face and smooth natural background blur. Maintain realistic lens behavior and natural perspective.\nMatch the original lighting direction and mood, then refine it into a cinematic, subject-focused look. Use soft directional light with gentle contrast, controlled highlights, and clean shadows. Avoid harsh lighting or artificial glow.\nMaintain natural skin texture with fine detail. Avoid over-smoothing or plastic appearance. Use balanced color tones with a subtle cinematic contrast and realistic saturation.\nOutput should feel like a high-end editorial portrait with improved clarity, depth, and tonal range, while keeping the original scene and identity fully intact.\n\nNegative constraints:\nDo not change background.\nDo not alter face or expression.\nNo artificial glow or over-processing.\nNo unrealistic lighting.\nNo skin smoothing or texture loss.",
+      "description": "Transform your low-quality, blurry images into sharp, high-resolution masterpieces. Use this powerful AI prompt to upscale photos, remove noise, and restore lost details instantly.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 52,
+      "view_count": 1886,
+      "copy_count": 1831,
+      "is_premium": false,
+      "published_at": "2026-09-08T22:10:16.963Z",
+      "images": [
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "local_path": "images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "width": 1497,
+          "height": 2560,
+          "alt": "AI-enhanced portrait showing the transformation from a blurry low-resolution image to a sharp high-definition photo."
+        },
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "local_path": "images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "width": 1706,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "local_path": "images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "width": 1866,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "local_path": "images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "width": 2560,
+          "height": 2552,
+          "alt": ""
+        },
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "local_path": "images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670409",
+      "title": "Old Photo Restoration",
+      "slug": "old-photo-restoration",
+      "category": "Old Photo Restoration",
+      "category_slug": "old-photo-restoration",
+      "prompt": "SUBJECT\nIdentity Lock: Absolute preservation of facial geometry and body proportions; Identity Similarity Threshold $\\ge 0.95$.\nEpidermal Fidelity: Execute macro-level epidermal texture synthesis to avoid \"plastic\" smoothing. Restore natural material skin-pore structures, textile weaves, and era-specific surfaces.\nClassification & Damage: Autonomous Origin Detection (Real/Synthetic/Ambiguous). Apply DamageScore (0–100) and RegionConfidence (RC).\nRC $\\ge 70$: Context-guided high-detail reconstruction.\nRC 30–69: Coarse-to-medium structural restoration; zero semantic invention.\nRC $< 30$: Era-consistent silhouette/texture fill only.\nSafe Reconstruction Logic: Area-based constraints: $< 10\\%$ (Guided inpainting), $10\\text{--}40\\%$ (Structural geometry synthesis), $> 40\\%$ (Texture-only pass).\nCOMPOSITION\nFrame Integrity: Strict adherence to original aspect ratio, framing, and semantic positioning. No object injection or removal.\nPerspective & Scale: Enforce rigorous vanishing point alignment and geometric continuity.\nSpatial Physics: Validate structural synthesis against surrounding geometry to ensure physical plausibility. Revert to \"Safe Fill\" if PhysicsCheck fails.\nLIGHTING\nGlobal Illumination: Restore Chiaroscuro-level lighting depth while maintaining consistent shadow direction and luminance gradients.\nMaterial Reflectance: Physically accurate reconstruction of light interaction with surfaces (specular highlights, matte finishes).\nChromatic Consistency: Restore faded tones to era-correct palettes with modern High Dynamic Range (HDR). Maintain vintage warmth/analog character through spectral-aware color fidelity.\nTECHNICAL SPECS\nRestoration Pipeline: Sub-pixel deconvolution, motion-blur neutralization, and chromatic aberration correction.\nSuper-Resolution: Execute Multi-stage 4x+ Super-Resolution with an anti-artifact refinement pass.\nNoise Management: Intelligent separation of sensor noise vs. compression artifacts; preserve original analog grain structure while removing degradational \"noise.\"\nOutput Parameters: Lossless 16-bit PNG/TIFF; Archival and sRGB color space integration; Metadata/EXIF preservation. Zero watermarks/logos/identifying marks altered.",
+      "description": "Old Photo Restoration Prompt. Restore vintage photos with Google Gemini AI. Use our detailed prompt to remove scratches, enhance 4K details, and colorize old photographs authentically.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 1249,
+      "copy_count": 1446,
+      "is_premium": false,
+      "published_at": "2026-09-08T22:09:28.657Z",
+      "images": [
+        {
+          "filename": "old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "local_path": "images/old-photo-restoration/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "local_path": "images/old-photo-restoration/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "local_path": "images/old-photo-restoration/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "local_path": "images/old-photo-restoration/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-photo-restoration/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-photo-restoration/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}
