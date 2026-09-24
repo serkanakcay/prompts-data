@@ -1,0 +1,758 @@
+{
+  "category": "Fan Art",
+  "slug": "fan-art",
+  "total_prompts": 20,
+  "updated_at": "2026-09-24T12:55:51Z",
+  "prompts": [
+    {
+      "id": "6a2a61db61276f872a2e2bc8",
+      "title": "Club Football Splash",
+      "slug": "football-player-poster-splatter-art",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference.\nCreate an ultra-realistic, cinematic 8K sports poster featuring a confident football player representing [TEAM_NAME]. The subject stands in a strong, confident pose, centered in the frame, making direct eye contact with the camera. He wears premium team apparel inspired by [TEAM_NAME], crest, and signature design elements.\nDynamic Theme Adaptation:\nReplace all colors with the official colors of [TEAM_NAME].\nReplace background flag, symbols, paint splashes, and visual effects with elements representing [TEAM_NAME].\nReplace the crest, jersey details, typography accents, and football graphics with [TEAM_NAME] branding.\nStadium lighting, crowd atmosphere, and visual energy should match the identity and spirit of [TEAM_NAME].\nComposition: Mid-thigh-up portrait, centered in the frame. Captured from an eye-level camera angle, with the subject fully visible and no head cropping.\nPose & Expression:\nThe subject stands strong upright posture, shoulders squared. Right arm is bent naturally at the elbow, securing a soccer ball against his hip, while the left arm hangs relaxed by his side. Calm, determined, championship-winning expression. Direct eye contact conveying confidence, pride, and leadership(no smile).\nOutfit:\nPremium [TEAM_NAME] Themed Matching Jersey. Official team crest on the chest, sponsor-free design, realistic fabric textures, embroidered details, and authentic sportswear styling.\nBackground:\nMassive distressed typography displaying \"[TEAM_NAME]\" across the upper background. Behind the subject, a large dynamic flag representing [TEAM_NAME] emerges through explosive paint splashes, smoke effects, energy streaks, and flying particles. A packed stadium with dramatic floodlights fills the lower background.\nEffects:\nHigh-energy sports-poster aesthetic, paint splatter textures, dynamic brush strokes, glowing stadium lights, cinematic smoke, floating particles, dramatic contrast, premium advertising campaign quality.\nTypography:\nLarge distressed \"[TEAM_NAME]\" title at the top.\nLighting:\nDramatic stadium floodlights, cinematic rim lighting, volumetric atmosphere, warm highlights, deep shadows, high contrast sports-advertisement lighting.\nTechnical Details:\nUltra-realistic, hyper-detailed skin texture, sharp facial features, HDR, professional sports campaign photography, 85mm lens, shallow depth of field, cinematic color grading, poster-quality composition, premium FIFA-style promotional artwork, 8K resolution.\nAspect ratio 4:5.",
+      "description": "Cinematic Sports Poster Prompt: Copy & Paste this prompt to create a hyper-realistic poster art of a football player with dynamic splatter art in a stadium.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 38,
+      "view_count": 1662,
+      "copy_count": 1019,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "local_path": "images/fan-art/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Real Madrid Splash Art AI Photo Editing Prompt. AI generated digital portrait of Bellingham holding a ball in a stadium with blue and gold paint splashes."
+        },
+        {
+          "filename": "cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "local_path": "images/fan-art/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Manchester United Player Splash Art AI Photo Editing Prompt. AI generated digital illustration of a clean-shaven man in a red Manchester United jersey holding a football, set against a stadium backdrop with dynamic ink splashes and waving team flags."
+        },
+        {
+          "filename": "e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "local_path": "images/fan-art/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dynamic Football Player Stadium Splash Art AI Photo Editing Prompt. AI generated digital illustration of a player in a blue Paris Saint-Germain kit holding a football, surrounded by dynamic red and white paint splashes against a stadium background."
+        },
+        {
+          "filename": "b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "local_path": "images/fan-art/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI-generated sports portrait of a male soccer player in a Juventus kit holding a football in a crowded stadium with dramatic ink splashes and an Italian flag under a large \"JUVENTUS\" title."
+        },
+        {
+          "filename": "e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "local_path": "images/fan-art/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital illustration of a bearded player in a Bayern Munich kit holding a soccer ball in a packed stadium against a red paint splash background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704bc",
+      "title": "The Stadium Glow",
+      "slug": "professional-footballer-portrait-stadium-background",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a 8k hyper-realistic, cinematic full-body portrait of a professional soccer player standing confidently on a stadium pitch at night, designed to look like a premium social media sports photo.\nCentered, full-body framing with a slightly low camera angle. The body is turned slightly (around 10–20°), creating natural depth, while the face is oriented toward the camera for strong presence.\nThe player stands in a relaxed, confident way with one foot resting casually on a soccer ball. The stance feels effortless, with a subtle weight shift and natural asymmetry. Shoulders are slightly angled, not flat, adding a dynamic look without feeling posed.\nExpression is calm and self-assured with a subtle confident look and direct eye contact — not overly smiling, not intense, just natural confidence.\nWearing a modern professional white soccer kit with logos, realistic fabric texture and clean fit. The outfit should feel sharp and slightly enhanced, with natural folds and light catching on edges.\nA large packed stadium in the background with soft blur and bright stadium lights, creating depth. Add a subtle cinematic glow and gentle contrast so the subject stands out without looking artificial.\nLighting is clean but slightly enhanced — soft highlights on the face and a subtle rim light around the subject to create presence.\nUse natural but slightly boosted colors, clean skin tones, and a polished look while keeping realistic texture.\nShot in 4:5 aspect ratio, high detail, 50mm lens with shallow depth of field. The subject is sharp, background smoothly blurred.\nThe final image should look like a high-end Instagram sports post — realistic, slightly cinematic, confident, and visually striking without any AI artifacts.\nDo not change or alter the face and identity.",
+      "description": "Cinematic Sports Photography Prompt: Use this prompt to generate a realistic stadium portrait of a professional soccer player in a white kit standing with a ball under bright arena lights.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 1149,
+      "copy_count": 2404,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "local_path": "images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Real Madrid Player in Stadium AI Photo Editing Prompt. AI generated cinematic portrait of a man in a white football kit standing with a soccer ball on a pitch under stadium lights."
+        },
+        {
+          "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "local_path": "images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Soccer Player in White Kit AI Photo Editing Prompt. AI generated cinematic portrait of a soccer player in a white jersey standing with a ball in a packed stadium."
+        },
+        {
+          "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "local_path": "images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Soccer Player Cinematic Photography Prompt. AI generated cinematic portrait of a young athlete in a white football kit standing on a stadium pitch at night with a ball under his foot."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670495",
+      "title": "The First Avenger",
+      "slug": "captain-america-kneeling-warzone-portrait",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Use the uploaded image strictly ONLY as the face and identity reference. Preserve exact facial structure, proportions, skin tone, hair, grooming, and natural asymmetry — no identity drift or beautification.\nCreate an ultra-realistic cinematic action movie still of the subject wearing a high-detail patriotic tactical superhero suit inspired by a modern military aesthetic. The suit is deep navy blue with red accents and muted metallic elements, featuring segmented armour panels, reinforced joints, textured fabric, tactical straps, half-finger gloves, and a central star emblem on the chest. Subtle wear, dust, and battle damage should be visible across the suit for realism.\nPose & Action:\n\nThe subject is in a low, grounded combat stance — kneeling on one knee on cracked asphalt. One hand is firmly pressed against the ground for stability, fingers spread. The torso leans forward slightly, conveying motion and readiness. The other arm is bent and raised, holding a circular shield in a defensive position angled slightly toward the camera. The pose should feel dynamic, tense, and battle-ready — not staged.\nShield Details:\n\nA realistic, battle-worn circular metal shield with concentric ring design and a central star emblem. Surface includes scratches, dents, chipped paint, and worn metallic edges from combat use. Slight dirt and burn marks for authenticity.\nExpression:\n\nIntense, focused, and alert. Eyes locked forward toward the camera as if tracking an immediate threat. Subtle facial tension — strong brows, tight jaw — conveying determination and readiness.\nEnvironment & Background:\n\nA destroyed New York urban street scene. Cracked asphalt with debris scattered around. Burnt vehicles and damaged buildings in the background. Small fires burning on both sides, with glowing embers and sparks floating in the air. Background should be slightly blurred with cinematic depth and atmospheric haze.\nLighting (CRITICAL):\n\nNatural cinematic daylight mixed with environmental fire light.\n\nPrimary soft directional light from above/front to define facial structure and suit details.\n\nSecondary warm light from fire sources creating orange highlights on edges of the suit and shield.\n\nSubtle volumetric haze for depth.\n\nBalanced contrast — no harsh overexposure, maintain realistic shadow detail.\nCamera & Composition:\n\nLow-angle shot to emphasize power and heroism.\n\nMedium full framing (knee-up), subject slightly off-center for cinematic balance.\n\nStrong depth of field — subject tack sharp, background softly blurred.\n\nSlight motion particles (dust, sparks) in foreground for immersion.\nTechnical Details:\n\nUltra-photorealistic, live-action film still, 8K quality, high dynamic range, realistic skin texture with visible pores, sharp fabric and metal detailing, cinematic color grading, natural grain.\nAspect Ratio: 4:5\nNegative Prompt:\n\ncartoon, CGI look, plastic skin, over-smooth face, unrealistic lighting, flat lighting, distorted anatomy, low detail, blur, overexposed highlights, washed colors, incorrect proportions, ugly pose",
+      "description": "Cinematic Marvel Superhero Action Prompt: Use this prompt to generate high-detail images of a battle-worn Captain America kneeling in a destroyed city street with a vibranium shield and dramatic fire effects.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 45,
+      "view_count": 946,
+      "copy_count": 1405,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-2.webp",
+          "local_path": "images/fan-art/captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Captain America in Battle AI Photo Editing Prompt. AI generated cinematic digital illustration of Captain America kneeling in a devastated city street with his iconic shield amidst fire and smoke."
+        },
+        {
+          "filename": "captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-1.webp",
+          "local_path": "images/fan-art/captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/captain-america-kneeling-in-warzone-cinematic-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Captain America in Warzone Fanart Prompt. AI generated cinematic digital illustration of a bearded Captain America kneeling on a war-torn city street surrounded by rubble, fire, and smoke while holding his shield."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670490",
+      "title": "The Toon Squad Selfie",
+      "slug": "man-selfie-looney-tunes-characters",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a high-angle, wide-lens POV selfie of a young man, wearing a pale pink t-shirt with a joyful expression. He is surrounded by hyper-realistic 3D Looney Tunes characters in a professional movie studio setting. They are all posing for a selfie. The group includes: Bugs Bunny holding a carrot, Daffy Duck with a comical expression holding a carrot, Porky Pig, a worried Elmer Fudd, Tweety Bird perched on the man's shoulder, a grumpy Yosemite Sam with a large sombrero, and Sylvester the Cat with his tongue out.\n\nArtistic Style: Seamless hybrid of high-fidelity photography and ultra-realistic 3D Octane render. Realistic fur, feathers, skin texture with subsurface scattering, physically accurate materials.\n\nEnvironment: Professional film studio with visible softboxes, C-stands, cables on polished concrete floor, and white cyclorama backdrop, slightly blurred.\n\nLighting: Bright, soft, evenly diffused studio lighting, clean highlights, no harsh shadows, commercial-grade professional look.\n\nTechnical Specs: 14mm ultra-wide lens, strong perspective distortion, shallow depth of field (background softly blurred), sharp focus on all faces, 4:5 aspect ratio, 8K resolution, vibrant colors, ultra-detailed, cinematic yet playful, masterpiece quality.",
+      "description": "Hyper-realistic Looney Tunes Selfie Prompt: Use this prompt to generate a high-quality studio selfie of a young man posing with iconic 3D cartoon characters in a professional lighting setup.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 52,
+      "view_count": 866,
+      "copy_count": 1589,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-selfie-with-looney-tunes-characters-image-by-promptplum2.webp",
+          "local_path": "images/fan-art/man-selfie-with-looney-tunes-characters-image-by-promptplum2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-selfie-with-looney-tunes-characters-image-by-promptplum2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/man-selfie-with-looney-tunes-characters-image-by-promptplum2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/man-selfie-with-looney-tunes-characters-image-by-promptplum2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Looney Tunes Characters AI Photo Editing Prompt. AI generated digital illustration of a smiling young man taking a selfie surrounded by iconic Looney Tunes characters in a professional photo studio."
+        },
+        {
+          "filename": "man-selfie-with-looney-tunes-characters-image-by-promptplum1.webp",
+          "local_path": "images/fan-art/man-selfie-with-looney-tunes-characters-image-by-promptplum1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-selfie-with-looney-tunes-characters-image-by-promptplum1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/man-selfie-with-looney-tunes-characters-image-by-promptplum1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/man-selfie-with-looney-tunes-characters-image-by-promptplum1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Looney Tunes Selfie Prompt. AI generated digital illustration of a smiling young man taking a selfie with 3D Looney Tunes characters in a professional photography studio."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670425",
+      "title": "The Family Unit",
+      "slug": "happy-family-studio-portrait",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a professionally captured fine-art studio family portrait based strictly on the uploaded reference image. The final image should look like a high-end editorial family photograph with a warm, intimate, timeless aesthetic.\nIdentity & Face Matching (Strict)\n\nUse the uploaded reference image to accurately reproduce all four individuals. Maintain exact age and identity fidelity for each subject.\n\nPreserve precisely:\nfacial structure and proportions\n\nbone structure and jawline\n\neye shape, spacing, and gaze direction\n\nnose structure and lip shape\n\ncheekbone definition\n\nskin tone and undertone\n\nhairstyle, hairline, and natural hair colour & texture\n\nfacial hair\nDo not beautify, stylize, alter facial proportions, or invent features.\nEach person must remain clearly recognizable as the same individual from the reference.\nSubjects & Composition (Very strict)\nMother (Center)\n\nPosition the mother centrally as the emotional focal point of the portrait.\nAppearance and clothing:\ncream / ivory chunky-knit ribbed sweater\n\nnatural color hair with soft natural highlights\n\nwarm, genuine smile directed toward the camera\nPose:\nseated slightly forward\n\nher body angled subtly toward the father to create a natural sense of connection\n\nright arm wrapped gently around her daughter\n\nleft hand lightly holding her partner’s hand\nThe mother and father should lean slightly toward each other in a relaxed, natural way, creating a subtle inward curve in the composition.\n\nMother's head should naturally tilt toward the father's head, creating a soft, affectionate family connection.\nThe pose must feel organic and unforced, never stiff or overly posed.\nFather (Right / Slightly Behind)\n\nPosition the father behind and slightly to the right of the mother, leaning forward slightly into the composition.\nAppearance and clothing:\ndark charcoal or deep navy wool overshirt / shirt-jacket\n\ntan or camel knit crewneck sweater underneath\n\nNatural hairstyle\n\nwell-groomed beard (if present)\nPose:\nleaning slightly inward toward the mother and children\n\nhead slightly inclined toward the mother so their heads gently touch\n\nleft hand resting gently on his son’s shoulder\n\nright hand resting behind the mother or out of frame\n\nsoft confident smile toward the camera\nHis posture should communicate protective warmth and relaxed confidence.\nDaughter (Left Foreground)\n\nPosition the daughter seated on the left side of the frame, slightly leaning toward her mother.\nAppearance and clothing:\nsimple long-sleeve linen dress in light beige / oatmeal tone\n\nnatural hairstyle\n\nsoft natural smile directed at camera\nPose:\nseated comfortably\n\nhands resting naturally in her lap\n\nslightly leaning inward to maintain the family connection.\nSon (Right Foreground)\n\nPosition the son seated on the right side in front of the father.\nAppearance and clothing:\ntan T-shirt under a brown corduroy button-down shirt\n\nmatching brown trousers\n\nnatural hairstyle\nExpression:\njoyful smile\n\nbright, energetic presence\nPose:\nseated cross-legged or comfortably on the rug\n\nrelaxed posture.\nComposition\n\nThe family should form a tight triangular composition:\nmother at the central peak\n\nchildren forming the lower corners\n\nfather slightly behind completing the triangle\nThis structure conveys stability, unity, and emotional closeness.\nSubtle physical contact should be visible:\nhands held between parents\n\narms around children\n\ngentle shoulder touches\n\nparents leaning naturally toward one another\nEnvironment\nBackground\n\nDark, textured studio backdrop with painterly gradients.\nCharacteristics:\ndeep charcoal / black tones on one side\n\nwarm bronze / brown tones on the opposite side\n\nsubtle mottled texture\n\nsoft vignette toward edges\nThe background must remain soft and unobtrusive, enhancing the subjects.\nLighting\n\nUse Rembrandt-style studio lighting with subtle cinematic rim separation.\nLighting setup:\nprimary soft key light from the upper left\n\ncreates subtle facial shadow depth\n\nsmall triangle of light visible on the shadow side of faces\nAdd a very soft rim light or edge light from the rear-right side of the scene to create a gentle highlight along the edges of hair and shoulders.\n\nThis rim lighting should be subtle and natural, helping separate the subjects from the darker background without appearing dramatic or artificial.\nLighting qualities:\nsoft diffused light from large softbox\n\ngentle falloff\n\ncinematic portrait depth\n\nsoft catchlights in the eyes\n\nsubtle rim highlights on hair edges and shoulders.\nColor Palette\n\nUse a cohesive earth-tone palette:\ncreams\n\nbeiges\n\ntans\n\nbrowns\n\ncharcoal / deep navy\nClothing should feel coordinated but not identical, creating an elegant timeless style.\nEnvironment Details\n\nThe family is seated on a neutral woven rug placed over a natural wood floor.\nVisible textures:\nribbed knit sweater\n\ncorduroy fabric on the boy’s shirt\n\nsoft woven rug fibers\n\nwood grain floor\n\nsubtle clothing fabric folds.\nCamera & Technical Details\naspect ratio: 4:5 vertical portrait\n\nultra-high resolution studio photography\n\n85mm portrait lens\n\naperture f/1.8 – f/2.8\n\nshallow depth of field\n\nsubjects tack sharp\n\nbackground softly blurred\n\nFine-art color grading with warm tonal balance.\nStyle & Mood\n\nThe portrait should feel:\nwarm\n\nsentimental\n\nelegant\n\ntimeless\nThe result should resemble luxury studio family portrait photography, suitable for framing or editorial family albums.",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a professional studio portrait of a happy family of four wearing coordinated earthy-toned outfits against a dark, textured backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 255,
+      "view_count": 13817,
+      "copy_count": 28847,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum.webp",
+          "local_path": "images/fan-art/happy-family-studio-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/happy-family-studio-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/happy-family-studio-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing coordinated earthy-toned outfits while posing closely against a dark textured background."
+        },
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum-2.webp",
+          "local_path": "images/fan-art/happy-family-studio-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/happy-family-studio-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/happy-family-studio-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Asian family of four wearing coordinated earthy-toned clothing against a textured dark backdrop."
+        },
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum-1.webp",
+          "local_path": "images/fan-art/happy-family-studio-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/happy-family-studio-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/happy-family-studio-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family in Earth Tones AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing coordinated warm-colored outfits against a dark textured background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703f4",
+      "title": "The Animated Icon",
+      "slug": "3d-stylized-character-illustration",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create an exaggerated, stylized 3D caricature portrait based on the person in the attached reference photo. Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form.\nApply strong, intentional deformation, including an elongated neck, an oversized head-to-neck ratio, droopy eyelids, heavy lips, and subtle facial asymmetry. The character should remain human-like while clearly stylized and expressive.\nUse a clean, controlled surface finish with smooth, studio-quality skin. Avoid random textures, blemishes, freckles, dirt, grain, speckling, or noise. Materials should appear polished, premium, and carefully designed, with subtle subsurface scattering and realistic skin shading.\nDress the character in luxury fashion with bold, high-end accessories, creating a weird, fashion-forward, collectible aesthetic that feels character-driven rather than cute or realistic.\nIlluminate the scene with neutral studio lighting, soft diffused shadows, and even illumination with no harsh contrast. Use a plain neutral gray or off-white background.\nRender in ultra-high definition 4K quality with extreme detail, sharp focus, and cinematic clarity. Include micro-surface detail, high-resolution textures, physically based rendering (PBR), global illumination, soft reflections, and refined material definition. The image should appear crisp, clean, and noise-free, with professional studio render quality.\nNo text, logos, or watermarks.\nAspect ratio: 4:5.",
+      "description": "Google Gemini AI 3D Stylized Illustration Prompt: Use this prompt to generate a high-quality 3D elegant stylized character of a man or women against a neutral studio backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 69,
+      "view_count": 1114,
+      "copy_count": 2057,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-stylized-character-by-promptplum-1.webp",
+          "local_path": "images/fan-art/3d-stylized-character-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-stylized-character-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/3d-stylized-character-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/3d-stylized-character-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Stylized Man in Tuxedo AI Illustration Prompt. AI generated 3D digital illustration of a charismatic man wearing a formal black tuxedo and luxury wristwatch with arms crossed against a neutral background."
+        },
+        {
+          "filename": "3d-stylized-character-by-promptplum-2.webp",
+          "local_path": "images/fan-art/3d-stylized-character-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-stylized-character-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/3d-stylized-character-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/3d-stylized-character-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Blonde 3D Stylized Character Digital Illustration Prompt. AI generated 3D digital illustration of a woman with blonde wavy hair wearing a draped purple dress and silver earrings."
+        },
+        {
+          "filename": "Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "local_path": "images/fan-art/Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with in Grey Suit Digital Illustration Prompt. AI generated 3D stylized portrait of a bearded man in a grey suit and black tie with a heart-shaped hairline design."
+        },
+        {
+          "filename": "3d-stylized-character-by-promptplum-6.webp",
+          "local_path": "images/fan-art/3d-stylized-character-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-stylized-character-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/3d-stylized-character-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/3d-stylized-character-by-promptplum-6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Stylized Muscle Man in Green Polo Illustration Prompt. AI generated 3D digital illustration of a bald, muscular man wearing aviator sunglasses, a gold chain, and a green polo shirt."
+        },
+        {
+          "filename": "3d-stylized-character-by-promptplum-4.webp",
+          "local_path": "images/fan-art/3d-stylized-character-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-stylized-character-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/3d-stylized-character-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/3d-stylized-character-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Young Black Man in Blue Tuxedo AI Illustration Prompt. AI generated 3D digital illustration of a stylish man with dreadlocks wearing a blue tuxedo, bow tie, and luxury diamond jewelry."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703de",
+      "title": "The Brazilian Number 10",
+      "slug": "brazilian-footballer-yellow-jersey",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a full-body, ultra-realistic 4K studio portrait of a professional male football player standing centered against a seamless deep royal-blue studio background. The image should have a clean, high-end professional sports advertising aesthetic.\nThe athlete has a well-defined athletic build. His skin tone, hair color, hairstyle, facial structure, and beard (if present) must match the reference image exactly, preserving identity consistency. His expression is serious, focused, and confident, conveying the presence of a professional athlete.\nWardrobe:\n\nThe player is wearing a Brazil home football kit consisting of:\nYellow jersey with green trim and the number 10\nBlue shorts with the number 10\nWhite knee-high socks with green accents\nWhite football cleats\nHe holds a white soccer ball with black geometric patterns tucked naturally under his right arm.\nPose:\n\nThe subject stands in a strong hero stance, feet shoulder-width apart, body upright and symmetrical, facing directly toward the camera. Arms relaxed, posture confident and balanced, conveying strength and professionalism without exaggeration.\nComposition:\n\nFull-body long shot\nSubject centered both vertically and horizontally\nSlight negative space above the head and below the feet\nPoster-style composition\nVertical framing\nClean, distraction-free studio background\nLighting & Style:\n\nProfessional sports advertising photography with soft, controlled studio lighting, subtle rim lighting to separate the subject from the background, sharp focus, ultra-realistic detail, natural skin tones, and vibrant but realistic colors.\nAspect Ratio: 4:5",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a professional studio portrait of a soccer player in the iconic yellow Brazil jersey holding a ball against a solid blue background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 1950,
+      "copy_count": 1816,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-brazil-jersey-image-by-promptplum.webp",
+          "local_path": "images/fan-art/man-in-brazil-jersey-image-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-brazil-jersey-image-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/man-in-brazil-jersey-image-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/man-in-brazil-jersey-image-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Brazil Football Player in Yellow Jersey AI Photo Editing Prompt. AI generated studio portrait of a man wearing a Brazil national football kit and holding a soccer ball against a solid blue background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703d0",
+      "title": "Manchester’s New Standard",
+      "slug": "manchesters-new-standard",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Ultra-realistic cinematic sports portrait of a confident young man walking forward in a stadium, wearing a red Manchester United football jersey with a black collar and Adidas stripes on the shoulders, logo and TeamViewer sponsor visible. He has natural wavy hair, an athletic, muscular build, and is wearing black sunglasses. Strong masculine jawline, serious, intense expression. Dramatic, moody, black-and-white background with multiple faded, transparent side-profile portraits of the same man layered behind him in a smoky, textured atmosphere. Stadium lights glowing faintly in the background, dust and fire particle effects in the air. Dark, gritty, cinematic colour grading, high contrast, sharp focus, ultra-detailed skin texture, realistic fabric wrinkles, 8K resolution, shallow depth of field, professional sports poster style, bold composition, symmetrical layout. 4:5 aspect ratio, photorealistic, hyper-detailed, dramatic lighting, volumetric fog, epic sports magazine cover look. Use the reference image for strictly facial resemblance and general appearance.\nNote: subject is colored, background is black-and-white.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 734,
+      "copy_count": 1101,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_o0mofwo0mofwo0mo.webp",
+          "local_path": "images/fan-art/Gemini_Generated_Image_o0mofwo0mofwo0mo.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_o0mofwo0mofwo0mo.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_o0mofwo0mofwo0mo.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_o0mofwo0mofwo0mo.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_yci2r0yci2r0yci2.webp",
+          "local_path": "images/fan-art/Gemini_Generated_Image_yci2r0yci2r0yci2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_yci2r0yci2r0yci2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_yci2r0yci2r0yci2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_yci2r0yci2r0yci2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703b5",
+      "title": "Unstoppable Force",
+      "slug": "soccer-player-knee-slide-rain-celebration",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Use the uploaded image strictly for face and identity reference.\nSubject & Action: > A hyper-realistic, full-body portrait of a professional soccer player with a muscular build and a sharp jawline, kneeling on a wet grass pitch in a dramatic celebration. He is screaming with intense passion and triumph, eyes squeezed shut, muscles tensed.\nAttire & Details: > He wears a pristine white Real Madrid-style football kit (jersey and shorts) with \"Emirates Fly Better\" across the chest. The fabric is soaked, clinging to his physique, with visible water droplets and mud splatters.\nEnvironment & Atmosphere: > The scene is set in a massive, dark stadium at night under heavy, torrential rain. Bright, cool-toned stadium floodlights create a powerful rim-lighting effect, catching the falling rain and making the water droplets look like frozen crystals. As he slides on his knees, dark water and mud explode upward from the ground in a dynamic splash.\nStyle & Cinematic Quality: > Cinematic photography, shot on a 35mm lens with a low-angle perspective to make the subject look heroic. The color palette is desaturated and moody, dominated by cool blues, greys, and deep blacks, contrasted by the bright white of the kit. High contrast, sharp focus on the player’s skin textures and facial expression, with a slight motion blur in the splashing water. Ultra-HD, 8k resolution, Unreal Engine 5 render style.",
+      "description": "Use our 'Soccer Player Knee Slide Celebration in Heavy Rain' AI prompt to generate hyper-realistic football images. This prompt creates high-intensity scenes with dramatic lighting, mud splashes, and raw emotion, making it ideal for professional AI sports art.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 46,
+      "view_count": 1700,
+      "copy_count": 2795,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "local_path": "images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "width": 1920,
+          "height": 2240,
+          "alt": "Cristiano Ronaldo in a Real Madrid kit, performing a knee-slide celebration in heavy rain. Cinematic stadium lighting with dramatic mud and water splashes."
+        },
+        {
+          "filename": "soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "local_path": "images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "width": 1792,
+          "height": 2368,
+          "alt": "Real Madrid player in an intense knee slide celebration during heavy rain. Splashing water, muddy kit, and glowing stadium lights create a cinematic night scene."
+        },
+        {
+          "filename": "soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "local_path": "images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "width": 1792,
+          "height": 2368,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267034e",
+      "title": "Weekend vibes with Puss in Boots",
+      "slug": "weekend-vibes-with-puss-in-boots",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Use the uploaded image strictly as a face and identity reference for the human subject only. Create a relaxed, premium studio fashion portrait with a natural, confident editorial feel. The real human stands casually in a full-body pose, weight shifted onto one leg, the other leg crossed slightly at the ankle, wearing an oatmeal beige textured knitted sweater, dark indigo high-waisted jeans, and clean white low-top sneakers. The human has a calm, friendly natural smile and relaxed posture, with one arm bent naturally at the elbow and resting gently on the shoulder of a true human-scale photorealistic 3D animated character, Puss in Boots. Other hand in her jeans pocket.\nPuss in Boots stands upright beside the human at realistic height, arms crossed confidently across his chest, leaning subtly toward the human to create natural chemistry. He is rendered as a highly detailed, cinematic 3D character with realistic ginger fur texture, soft volume, and visible strand detail, expressive large green eyes, and a confident, slightly mischievous expression. He wears his signature leather wide-brim hat, belt, and worn boots, all textured with realistic leather grain and subtle aging.\nThe interaction feels casual and authentic, as if the human is comfortably resting an arm on a trusted companion rather than posing stiffly. Composition is a clean 3/4 to full-body framing with both subjects fully visible. The background is a smooth warm taupe or neutral studio backdrop with no distractions. Lighting is soft, professional studio lighting with gentle key light and subtle rim light that enhances facial features, clothing fabric, and fur detail without harsh shadows. High-end fashion editorial aesthetic, natural color grading, sharp focus, realistic proportions, premium portrait quality, cinematic realism.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 41,
+      "view_count": 810,
+      "copy_count": 1449,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_t172yut172yut172.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_t172yut172yut172.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_t172yut172yut172.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_t172yut172yut172.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_t172yut172yut172.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated Image: a charming crossover between a realistic human subject and the iconic animated character, Puss in Boots. Standing on the right is a handsome young man with dark hair, dressed in a casual beige knit sweater, dark denim jeans, and white sneakers. He smiles warmly, posing with a relaxed demeanor, one hand in his pocket and his right elbow resting playfully on the brim of Puss’s hat. Beside him, the famous orange tabby stands tall in his signature cavalier hat, leather belt, and boots. Puss crosses his arms with a confident, spirited expression, staring boldly forward. The background is a seamless neutral beige, enhancing the warm tones and unifying the whimsical mix of live-action and high-quality 3D animation."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670341",
+      "title": "Battle-worn Superman",
+      "slug": "battle-worn-superman",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a hyper-realistic cinematic cosplay of Superman.\n\n🔒 Face-Match Enforcement (Critical)\n\nUse the uploaded reference image as the only facial source\n\nThe face must be 100% identical to the reference\n\nDo not alter facial structure, jawline, eye shape, nose, lips, or head proportions\n\nPreserve natural skin texture, pores, stubble, scars (if present)\n\nNo beautification, smoothing, stylization, or face morphing\n\nFace must be fully visible and unobstructed\n\nNo helmet, mask, shadows, glow, or effects covering facial features\n\nSubject & Pose\n\nSuperman stands squarely facing the camera in a powerful, confrontational stance.\nHis posture is upright and dominant, shoulders squared, fists clenched tightly at his sides, projecting controlled rage and immense strength. His physique is muscular and imposing, filling the frame with heroic presence.\n\nFacial Expression & Eyes\n\nHe wears a stern, stoic expression, calm but intimidating.\nHis dark hair is slicked back and soaked from heavy rain.\nHis eyes glow with an intense incandescent red, indicating active heat vision or suppressed fury. The red glow subtly reflects on the wet skin of his face, enhancing the dramatic realism.\n\nThe Suit\n\nColor & Texture: Deep, desaturated cinematic blue with a chainmail-like mesh texture\n\nEmblem: The House of El “S” crest is centered on the chest in metallic red and muted gold, slightly weathered but still bold and dominant\n\nBelt: Gold accent belt at the waist, clean and solid\n\nBattle Damage:\n\nTorn fabric on both forearms/biceps\n\nA large rip on the left thigh, exposing skin beneath\n\nRed boots and lower shins covered in mud, grime, and battlefield dirt\n\nSuit appears soaked, with rainwater clinging to the surface\n\nCape\n\nA deep crimson red cape, heavy and water-logged.\nThe bottom hem is severely tattered and shredded, dragging close to the muddy ground.\nThe cape hangs heavily from his shoulders, framing his body and emphasizing his silhouette in the storm.\n\nAtmosphere & Weather\n\nThe scene carries a grimdark, cinematic tone.\n\nRain: Torrential rainfall with clearly visible streaks, water droplets glistening on the suit\n\nLighting:\n\nForeground lighting comes from eye glow and reflections on the wet suit\n\nBackground is backlit by burning fires and lightning flashes\n\nSparks & Embers: Floating orange sparks drift through the air, sharply contrasting the cold blue tones and rain\n\nBackground\n\nTerrain: A ruined battlefield with muddy, rocky, uneven ground\n\nDebris: Burning wreckage and twisted metal structures behind him, partially obscured by smoke\n\nSky: Dark, storm-filled grey clouds\n\nLightning: A jagged white lightning strike flashes in the upper left sky, illuminating the rain and chaos\n\nStyle & Quality\n\nUltra-realistic, cinematic realism, dramatic contrast, volumetric lighting, shallow depth of field, high dynamic range, movie-poster quality, photoreal textures, intense atmosphere\n\nAspect Ratio\n\nAspect Ratio: 2:3 (vertical cinematic portrait)\n\nNegative Prompt\n\ncartoon, anime, illustration, low detail, low resolution, blurry, soft focus, plastic skin, over-smooth face, distorted anatomy, altered facial features, wrong likeness, helmet, mask, covered face, extra limbs, bad proportions, fake lighting, oversaturated colors",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 682,
+      "copy_count": 736,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_yw3vi2yw3vi2yw3v.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_yw3vi2yw3vi2yw3v.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_yw3vi2yw3vi2yw3v.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_yw3vi2yw3vi2yw3v.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_yw3vi2yw3vi2yw3v.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: a gritty, cinematic portrayal of a battle-worn Superman standing firm amidst a torrential storm. His textured blue suit is visibly damaged, bearing tears and grime, while his tattered red cape hangs heavily behind him. His eyes glow with an intense, menacing red light, cutting through the gloom. The background reveals a scene of destruction with burning wreckage and jagged lightning strikes illuminating a dark, ominous sky. Rain streaks across the frame, enhancing the dramatic atmosphere and emphasizing the hero's imposing presence in the chaos."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033e",
+      "title": "Green Lantern",
+      "slug": "green-lantern",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a hyper-realistic cinematic image using the uploaded reference photo with STRICT facial identity preservation.\nThe generated face must be 100% identical to the reference photo, with no changes to facial structure, proportions, skin tone, or natural expression.\n🔒 Face-Match Enforcement (Non-Negotiable)\nUse the reference image as the only facial source\nDo not alter jawline, eye shape, nose, lips, head shape, or facial symmetry\nPreserve natural skin texture, pores, scars, stubble (if present)\nNo beautification, no stylization, no face morphing\nFace must be fully visible and unobstructed\nNo helmet, no mask, no glow or energy covering facial features\nPose & Body Position\nHalf-body portrait framed from mid-thigh upward\nSame levitating forward pose as the reference image\nBody upright, slightly advancing toward the camera\nOne arm relaxed downward, ring hand clenched into a fist\nLower body cropped naturally at mid-thigh (no legs or feet visible)\nStrong, calm, dominant stance with controlled power\nExact heroic posture and balance inspired by the reference image\nExpression & Eyes\nSerious, focused, emotionally controlled expression\nEyes glowing emerald green, intense but not exaggerated\nEye glow originates from within the eyes, not spilling over facial features\nCalm authority — no rage, no smile\nOutfit & Suit\nModern Green Lantern suit with deep emerald green and matte black panels\nMuscular but realistic proportions (no exaggeration)\nClean, cinematic armor–fabric hybrid material\nGreen Lantern chest emblem glowing softly, centered, sharp\nSuit contours clearly defined by cinematic lighting\nEnergy Effects\nEmerald green energy aura surrounding the body\nSoft, flame-like energy wisps wrapping around arms, torso, and shoulders\nEnergy remains contained and cinematic, not chaotic\nGreen Lantern ring emitting a strong but controlled glow\nNo oversized constructs, no weapons, no shields\nLighting\nStrong top-down cinematic lighting\nEmerald rim light outlining the body and shoulders\nSubtle frontal fill to preserve facial realism\nHighlights emphasize musculature and suit texture\nDeep shadows preserved with film-grade contrast\nVolumetric glow interacting with surrounding space particles\nFraming & Camera\nVertical half-body framing (mid-thigh to head)\nSlightly low camera angle for heroic dominance\nSubject centered and symmetrical\nShallow depth of field\nPoster-ready, cinematic composition\nEnvironment & Background (Space)\nDeep outer-space background\nDark cosmic void with subtle stars and nebula clouds\nGreen nebula energy subtly echoing the Lantern aura\nNo planets close to the subject\nNo sci-fi clutter, no spacecraft\nClean, cinematic background enhancing subject focus\nStyle & Quality\nUltra-realistic cinematic superhero portrait\nFilm promotional still\nStudio-grade lighting\nHyper-real textures\nHigh contrast, sharp focus\n8K detail\nModern DC realism\nNo comic or illustrated look\n❌ Negative Prompt\ncartoon, anime, illustration, comic style, stylized art, CGI look, 3D render, video game character, plastic skin, wax skin, doll face, face swap, face morphing, altered facial structure, beautified face, helmet, mask, energy covering face, exaggerated muscles, slim body, cheap cosplay, loose suit, melted armor, low detail textures, neon overload, messy energy effects, oversized constructs, weapons, shields, city background, buildings, daylight, cluttered background, motion blur, soft focus, blur, noise, grain, over-sharpening, over-saturation, text, watermark, logo, signature, UI elements",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 585,
+      "copy_count": 513,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_h3vlk6h3vlk6h3vl.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_h3vlk6h3vlk6h3vl.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_h3vlk6h3vlk6h3vl.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_h3vlk6h3vlk6h3vl.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_h3vlk6h3vlk6h3vl.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated: hyper-realistic cinematic portrait features a young man embodying the Green Lantern, standing with a stoic and powerful posture against a backdrop of deep outer space scattered with stars. He wears a highly detailed, textured suit composed of emerald green and matte black armored panels, with the iconic Green Lantern emblem glowing softly on his chest. His expression is intense and focused, enhanced by eyes that emit a piercing green luminescence. A flame-like green energy aura wreathes his torso and arms, matching the glow of the power ring on his raised right fist. The lighting is dramatic and studio-quality, using rim lighting to define his silhouette against the dark cosmic void while highlighting the intricate mesh textures of his uniform."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033c",
+      "title": "The Dark Knight Endures",
+      "slug": "the-dark-knight-endures",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a hyper-realistic, cinematic full-body image of a man.\nSubject & Identity\nA dark, vigilante-inspired armored character with the real face fully visible.\nThe cowl is open-face, removed, or pushed back—integrated around the head without covering any facial features.\nExpression\nStoic, grim, battle-hardened\nEyes focused forward with calm intensity\nNo smile — controlled rage, resilience, and authority\nPose & Body Language\nWalking forward toward the camera (slow, dominant stride)\nShoulders squared, chest forward\nArms relaxed but heavy with strength\nSubtle fatigue from battle, but no weakness\nStrong, grounded presence\nFraming & Camera (FIXED – FULL BODY)\nFull-body shot (head to toe — NO cropping of feet or head)\nSlightly low-angle perspective for dominance\nCentered, symmetrical composition\nPoster-style vertical framing\nEnsure entire body including boots is fully visible\nOutfit & Armor (Battle-Damaged)\nA heavy armored suit in dark graphite and matte black tones\nDamage details:\nScratched and cracked armor plates\nWorn chest emblem with scuffed edges\nMinor dents on shoulders and forearms\nTorn fabric between armor segments\nSubtle scorch marks and impact scratches\nDirt, dust, and weathering buildup\nArmor must feel:\nRealistic\nFunctional\nBattle-worn (not stylized or glossy)\nUtility Belt\nTactical muted gold tone\nScratched metal finish\nWorn pouches\nSlight asymmetry from combat use\nCape\nLong, heavy, dark cape\nTorn and frayed edges\nThick, weathered fabric\nMinimal movement, hangs with weight\nBlends into fog near the ground\nEnvironment & Background\nDark studio-style environment\nDense smoke and fog layers\nFog concentrated around lower body and feet\nBackground fades into deep shadow\n❌ No buildings, no city, no extra elements\nClean, minimal, cinematic backdrop\nLighting & Color Grading\nLow-key cinematic lighting\nCool neutral tones (charcoal gray, steel black)\nSoft top light defining head and shoulders\nSubtle rim light for separation\nHighlights reveal armor texture and damage\nDeep shadows preserved (no crushed blacks)\nFilm-grade realistic contrast\nCamera & Lens\nEye-level to slightly low angle\n50mm–85mm lens look\nShallow depth of field\nBackground softly blurred\nStyle & Quality\nUltra-realistic cinematic superhero portrait\nStudio photography look\nFilm promotional still\nHyper-detailed textures\nSharp focus\nProfessional lighting\n8K resolution\nAspect ratio 4:5\nModern grounded realism\n❌ No comic, cartoon, or illustrated style",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 879,
+      "copy_count": 876,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: a hyper-realistic, cinematic portrait of a rugged male figure standing in a commanding, forward-facing pose, wearing a heavily battle-damaged tactical suit reminiscent of Batman. The subject has short, dark brown hair, a thick beard, and a piercing, stoic expression that conveys grim determination. His armor is rendered in matte charcoal and black tones, featuring a segmented chest plate with a faint bat emblem, all of which is marred by deep scratches, gouges, and exposed under-layers from combat. A dull, weathered gold utility belt sits at his waist, adding a utilitarian contrast to the dark plating. Behind him hangs a heavy, floor-length cape with severely tattered and frayed edges, blending into the thick, swirling grey fog that fills the dark, atmospheric background. The lighting is low-key and dramatic, accentuating the textures of the worn armor and the intensity of the character's presence."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033b",
+      "title": "Wolverine: Battle Ready",
+      "slug": "wolverine-battle-ready",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a hyper-realistic cinematic knee-up portrait of a rugged clawed mutant warrior, featuring a modern armored suit with realistic battle damage while maintaining strong character clarity.\nFraming & Camera\nKnee-up shot (from knees to slightly above head — strictly no head cropping)\nSlightly low-angle perspective for dominance and heroic presence\nCentered, symmetrical composition\nStrong stance: legs apart, shoulders squared, fists clenched\nEnsure both hands and claws are fully visible within the frame\nExpression & Face\nExpression: intense, grim, battle-hardened\nFurrowed brows, tight jaw, focused forward gaze\nSubtle combat details: light dirt, sweat, small cuts, abrasions\nEmotion conveys controlled rage, resilience, and readiness\nBattle-Damaged Armor\nThe character wears a modern armored combat suit that is predominantly yellow with subtle dark blue accents/panels:\nYellow must be the dominant color across chest, torso, and legs\nBlue appears only as secondary detailing (side panels, joints, accents)\nScuffed and scratched armor plates\nChipped paint with exposed metallic edges\nMinor dents and impact marks (chest, shoulders, thighs)\nTorn fabric sections between armor panels\nDamage must feel:\nRealistic and functional\nEarned through combat\nNOT overly destroyed or exaggerated\nClaws & Details\nThree long metallic claws extended from each hand\nSharp, reflective metal with visible scratches and wear\nSlight dark staining and battle residue\nSubtle glow near the base (very controlled, not dominant)\nLighting & Atmosphere\nCinematic studio lighting with a gritty tone\nWarm key light enhancing yellow suit texture and damage\nCool rim lighting outlining muscles, suit edges, and claws\nBalanced contrast — no overexposure\nFloating embers and subtle atmospheric particles for depth\nBackground\nMinimal studio backdrop (dark grey to charcoal gradient)\nLight dust, ash, and spark particles\nNo environmental elements (no city, no battlefield)\nFull focus remains on the subject\nStyle & Quality\nUltra-realistic, high-end cinematic quality\nFilm-grade color grading\nExtremely detailed textures (skin, armor, metal, fabric)\nVisible pores, veins, scratches, and material realism\nSharp focus, 8K resolution, Aspect ratio 4:5\n❌ No text\n❌ No logos",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 681,
+      "copy_count": 426,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "width": 1500,
+          "height": 1388,
+          "alt": "Gemini AI Generated Image: a medium shot of the X-Men character Wolverine, standing boldly against a dark, smoky background filled with rising embers. He has short, unkempt brown hair and a full beard, with an intense gaze. He wears a textured yellow and blue armored suit, which is visibly scuffed, dirty, and marked with numerous cuts and gashes, indicating recent battle. His gloved hands are clenched, and three long, sharp metal claws extend from the backs of each hand, with sparks flying around them. He stands squarely facing the viewer, radiating a sense of rugged strength and determination. The atmosphere is dark and gritty, with smoke and firelight contributing to a sense of danger."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033a",
+      "title": "Son of Odin",
+      "slug": "son-of-odin",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a hyper-realistic cinematic full-body portrait of a powerful mythic storm warrior.\n\nFraming & Camera\nFull-body shot (head to toe, no cropping of feet or head)\n\nSlightly low-angle perspective for dominance and heroism\n\nStrong, grounded stance with legs apart and balanced posture\nBody slightly angled (not fully straight), with a subtle turn toward the viewer’s right for a dynamic, heroic composition\nExpression & Eyes\nExpression: intense, battle-hardened, calm but powerful\n\nEyes emit a controlled electric blue glow\n\nGlow enhances intensity but does NOT obscure facial details\nOutfit & Armor\nRugged ancient warrior armor:\n\nDark leather + worn metal chest plate\n\nVisible scratches, dents, and battle damage\n\nExposed muscular arms with veins and dirt texture\n\nHeavy fur-lined shoulder mantle\n\nDeep red weathered cloak flowing behind\n\nThick leather pant, boots and forearm guards\nOutfit must feel:\n\nPractical, ancient, and battle-used\n\nNOT clean, glossy, or costume-like\nWeapon & Lightning\nHolds in the right hand a large battle axe-like weapon (original design, not branded), gripped firmly with one hand only\n\nWeapon infused with crackling blue lightning energy\nLightning wraps around:\n\nAxe head\n\nHandle\n\nForearm area\nEffects:\n\nSharp, energetic, physically grounded\n\nLight interacts with armor, skin, and environment\n\nMust NOT cover or distort the face\nEnvironment & Atmosphere\nStorm battlefield setting:\n\nDark thunder clouds\n\nLightning strikes in sky\n\nDust, debris, and floating rocks\n\nSubtle levitation of particles due to energy field\n\nNo buildings, no sci-fi elements — purely natural and mythic\nLighting & Color Tone\nHigh-contrast cinematic lighting\n\nCool blue highlights from lightning\n\nNeutral, gritty earth tones overall\n\nStrong rim light outlining silhouette\n\nDeep shadows with preserved detail\n\n🚫 No warm/orange tone\nStyle & Quality\nUltra-realistic, cinematic, mythological realism\n\nFilm-grade color grading\n\nExtreme texture detail (skin, armor, fur, debris)\n\nSharp focus, high dynamic range\n\n8K resolution, vertical 4:5 aspect ratio\n\nNo text, logos, or branding",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 829,
+      "copy_count": 1187,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "width": 1142,
+          "height": 1814,
+          "alt": "Gemini AI Generated Image: A hyper-realistic, cinematic image depicts the superhero Thor in a commanding, full-body stance, radiating raw power. He stands amidst a chaotic environment, his expression intense and battle-hardened, with his eyes glowing a piercing electric blue. He wears a rugged, detailed suit of Asgardian armor composed of dark leather and metal plating, accented by a heavy red cape with a thick fur collar that drapes over his broad shoulders. His muscular arms are exposed, showing realistic skin texture, grime, and veins, while leather gauntlets protect his wrists. In his right hand, he firmly grips the massive axe-hammer, Stormbreaker. The weapon acts as a focal point, crackling with jagged arcs of bright blue lightning that wrap around the handle and blade, illuminating the dark armor. The background reinforces the epic scale of the scene, featuring a moody, overcast sky filled with storm clouds. Floating rocks and debris hover in the air around his legs, seemingly suspended by the static charge, while the cool color palette of greys and blues contrasts with the deep red of his cape."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670339",
+      "title": "Black Widow: Snow Suit Edition",
+      "slug": "black-widow-snow-suit-edition",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a high-end cinematic studio poster–style image inspired by a modern superhero tactical aesthetic, with strong visual realism, symmetry, and premium key-art quality.\nSubject & Pose\nThe subject stands perfectly centered, facing directly toward the camera in a strong, symmetrical, composed stance.\nShoulders squared, posture upright\nArms relaxed at sides with hands naturally clenched\nBody fully aligned and balanced\nExpression calm, serious, emotionally neutral\nNo action pose — pure controlled presence\nOutfit\nThe subject wears a modern white tactical combat suit, sleek, functional, and realistic.\nSuit details include:\nClean panel lines with subtle stitched armor seams\nReinforced joints and high-tech matte fabric texture\nBlack utility belt with a small red accent centerpiece\nDual thigh holsters securely strapped\nCompact wrist gauntlets with subtle tech detailing\nThe suit must look practical, grounded, and premium —\nNOT glossy, NOT exaggerated, NOT stylized, NOT sexualized.\nFace & Hair\nFace fully visible, unobstructed\nNatural skin texture (no smoothing, no plastic look)\nHair styled neatly, falling naturally around shoulders\nExpression: serious, calm, controlled — no smile\nBackground & Composition\nMinimal studio-style background with light concrete / textured white surface\nBehind the subject: a bold red geometric shape (hourglass-inspired / angular form)\nStrong symmetrical alignment with subject centered inside the shape\nBackground is clean, flat, and graphic, not environmental\nLighting\nClean, bright, professional studio lighting\nEven illumination across face and suit\nSoft, controlled shadows\nHigh clarity, no dramatic or moody lighting\nCamera & Framing\nStraight-on camera angle (eye-level)\nMid-to-full body framing (thigh-up)\nPerfectly centered composition\nNo tilt, no distortion, no perspective shift\nStyle & Quality\nUltra-realistic, cinematic studio poster aesthetic\nPremium key-art style (movie poster quality)\nSharp focus, crisp edges\nMinimal depth of field\nProfessional color grading\n8K resolution detail\nClean, high-end finish\nNo text or branding \nAspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 810,
+      "copy_count": 538,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: a hyper-realistic, cinematic studio portrait of a woman standing in a powerful, symmetrical pose, dressed in a white tactical bodysuit inspired by Marvel’s Black Widow. She faces the camera directly with a serious, intense expression, framed by shoulder-length strawberry-blonde hair with subtle braids. The form-fitting white suit is rendered with high-definition textures, featuring grey shoulder accents, a central zipper, and tactical seams. She is equipped with black combat gear, including wrist gauntlets, a utility belt with a red hourglass buckle, and thigh holsters holding handguns. The background is a textured, off-white surface overlaid with a large, bold red hourglass graphic directly behind her, creating a striking, high-contrast visual typical of a movie poster key art."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670338",
+      "title": "The First Avenger",
+      "slug": "the-first-avenger",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a full-body, hyper-realistic cinematic image of a man. The scene captures a powerful super-soldier figure in a battle-worn forest environment with a heroic, commanding presence.\nLocation & Environment\nA rugged forest battlefield with tall pine trees, broken branches, scattered debris, and uneven ground. Light smoke or mist drifts through the scene, creating depth and atmosphere. The environment feels like the aftermath of combat—raw, tense, and immersive. Background softly blurred with cinematic depth.\nNo extra people visible anywhere in the background.\nSubject & Pose\nThe subject stands firmly in a strong, grounded stance at the center of the frame.\nShoulders squared, chest forward, posture upright\nBody slightly angled, subtle turn toward the viewer’s right\nLeft arm holding a circular shield angled outward\nRight arm relaxed at the side with a naturally clenched fist (firm, controlled, not exaggerated), clearly visible\nFacial Features & Expression\nClean, natural skin texture with visible pores (no smoothing)\nNeatly styled hair, subtle natural stubble\nExpression: calm and determined (no smile)\nEyes gazing slightly off-camera, creating a focused cinematic presence\nOutfit & Suit Details\nA high-detail tactical super-soldier suit:\nDeep navy-blue base with textured, reinforced fabric\nCentral white star emblem on chest\nRed and white vertical striping across torso\nArmored gauntlets, structured shoulder panels, utility belt\nRugged combat boots with realistic wear\nSuit must appear functional, battle-ready, and premium (not costume-like)\nShield Details\nA metallic circular shield held in the left hand:\nConcentric rings in red and white\nBlue center with a white star\nSurface shows realistic scratches, dents, and wear\nSolid grip, correctly aligned (no floating or distortion)\nCamera & Composition\nSlightly low-angle shot for heroic dominance\nTrue full-body framing: entire subject visible from head to toe, including both feet fully inside the frame\nNo cropping at knees, thighs, or ankles — explicitly avoid mid-thigh or waist-up framing\nSubject occupies ~65–75% of frame height\nCamera pulled back at an appropriate distance to capture full body clearly\nCentered composition with balanced negative space and adequate headroom\nLighting & Mood\nCinematic directional lighting with cool tones\nSoft front light to preserve facial clarity\nSubtle rim light outlining shoulders and shield edges\nNatural shadows for depth (no harsh clipping)\nSlight fog diffusion for atmosphere\nStrictly no warm color tones or warm lighting — maintain a fully cool-toned cinematic look\nTechnical Details\nUltra-realistic, 8K resolution\nSharp focus on subject, shallow depth of field\nProfessional cinematic color grading\nLens: 50mm, f/2.0–f/2.8\nHigh dynamic range, realistic contrast\nAspect ratio 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 36,
+      "view_count": 1722,
+      "copy_count": 1805,
+      "is_premium": false,
+      "published_at": "2026-09-24T00:09:09.829Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated Image: a hyper-realistic, cinematic portrait of a character dressed as Captain America, standing resolutely in a misty, debris-strewn forest. The subject wears a highly detailed tactical suit in deep navy blue, accented with the iconic red and white midsection stripes and a central white star emblem on the chest. He is equipped with a brown utility belt, combat boots, and fingerless gloves, while his left hand grips the signature circular shield, which shows realistic battle wear with visible scratches and scuffs. The background sets a moody, atmospheric tone with towering pine trees fading into a cool, blue-tinted fog, and the forest floor is cluttered with fallen branches and broken wood, suggesting a rugged battlefield environment. The lighting is dramatic and soft, emphasizing the texture of the armor and the character’s focused, determined expression."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670337",
+      "title": "Black Panther: Deep Jungle",
+      "slug": "black-panther-deep-jungle",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create an ultra-realistic cinematic portrait of a man. The final result should feel like a high-end, film-grade superhero scene set in a dense jungle environment.\nLocation & Environment:\nA deep, lush tropical rainforest filled with dense foliage, large glossy leaves, hanging vines, and layered vegetation. The environment is slightly misty, enhancing depth and atmosphere. Background remains dark and immersive, suggesting nighttime or heavy canopy shade. Soft beams of cool moonlight filter through the trees, creating a mysterious cinematic ambiance with subtle fog diffusion.\nSubject & Pose:\nThe subject stands centered in frame with a strong, grounded, heroic stance.\nUpright posture with squared shoulders\nBody facing forward with a slight turn toward the right\nLeft hand holding a sleek feline-inspired helmet near the hip\nRight arm relaxed but powerful at the side\nPose conveys dominance, calm authority, and readiness\nFacial Features & Expression:\nMaintain exact identity from reference image\nStrong jawline, natural skin texture with visible pores\nShort, neatly styled hair with subtle volume\nLight, realistic stubble\nExpression: serious, intense, focused\nEyes looking directly at camera, conveying leadership and control\nOutfit & Suit Design:\nA futuristic, form-fitting, matte-black tactical suit:\nIntricate micro-texture with fine mesh patterns\nGeometric paneling across chest, arms, and torso\nSleek, athletic silhouette emphasizing muscular structure\nMetallic silver accents forming a sharp, claw-like necklace design\nSubtle silver detailing on forearms, gloves, and seams\nMaterial appears advanced, durable, and high-tech with realistic depth\nHelmet (Handheld):\nFeline-inspired, matte black helmet with smooth contours\nMinimal but sharp silver line detailing\nAngular, stealth-like design with a powerful presence\nAppears solid, heavy, and technologically advanced\nFirm natural grip in left hand (no floating or distortion)\nCamera Angle & Framing:\nSlightly low-angle shot (heroic perspective)\nMedium to three-quarter framing (upper thigh to head)\nCentered composition with balanced negative space\nSubject occupies ~65–70% of frame height\nLighting & Mood:\nLow-key cinematic lighting\nCool blue-green ambient tones from jungle environment\nSoft rim light outlining shoulders and suit edges\nGentle highlights revealing suit texture\nDeep shadows for contrast and drama\nSubtle volumetric light rays through foliage\nNo harsh flash or flat lighting\nColor Grading:\nDark, moody cinematic palette\nDominant tones: deep green, teal, charcoal black\nControlled contrast with rich shadows and crisp highlights\nNo oversaturation or unnatural hues\nTechnical Details:\nUltra-realistic, 8K resolution\nSharp focus on subject, shallow depth of field\nSoft background bokeh with detailed foliage layering\nProfessional cinematic photography style\nLens: 50–85mm, f/1.8–f/2.8\nHigh dynamic range \nAspect ratio 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 950,
+      "copy_count": 1074,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated Image: A hyper-realistic, cinematic portrait features a muscular man standing confidently amidst a dense, moonlit jungle environment. He is wearing a highly detailed, form-fitting black bodysuit reminiscent of the Black Panther superhero costume, characterized by intricate woven textures, geometric patterns, and a distinctive silver claw-tooth necklace. The subject has short, dark hair, a well-groomed beard, and maintains a serious, intense gaze directed forward. In his right hand, he holds a matching matte black helmet with silver accents. The setting is lush with large tropical leaves framing the figure, and the scene is illuminated by cool, atmospheric lighting that highlights the texture of the suit and creates a moody, heroic ambiance."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670323",
+      "title": "Sovereign of the Skies",
+      "slug": "sovereign-of-the-skies",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Ultra-high-resolution cinematic fantasy aerial shot inspired by the world of Pandora (Avatar).\n\nA GIGANTIC, MASSIVE Toruk (Leonopteryx) with an enormous wingspan, clearly MUCH LARGER than the human rider, rendered at movie-accurate epic scale, flying at extreme altitude above a fantastical alien landscape.\nThe ENTIRE CREATURE is fully visible in frame from head to tail, wings completely spread wide, captured in an extra-wide-angle aerial perspective that dramatically exaggerates size, dominance, and power.\nCreature Details\nThe Toruk has a fierce, dragon-like alien anatomy, with rich crimson and burnt-orange skin tones, dark volcanic markings, semi-translucent wing membranes, razor-sharp claws, and intense predatory eyes.\n\nSkin texture is hyper-detailed, organic, and realistic, with subtle veins and leathery surfaces visible under cinematic light.\nRider & Pose (Commanding / Heroic)\nME riding the Toruk in a powerful lean-back command pose:\n\nUpper body slightly leaned back, chest open and confident\nOne hand gripping the reins tightly for control\nThe other hand raised outward in a fearless, dominant gesture\nLegs firmly locked and balanced on the Toruk’s back\nExpression calm, bold, and authoritative\nModern casual outfit (white t-shirt, dark pants, sneakers), realistic fabric movement reacting to wind\nThe rider appears small compared to the Toruk, reinforcing the creature’s colossal scale.\nBackground & Composition\nFloating mountains placed VERY FAR BELOW, positioned near the bottom of the frame, partially shrouded in mist\nVolcanic terrain and glowing lava rivers spreading across the LOWER RIGHT background, emitting warm orange light\nVast open sky and dramatic clouds filling the TOP and LEFT portions of the frame\nStrong atmospheric depth layering with clouds, fog, and distance haze to emphasize altitude and scale\nThe Toruk dominates the center of the frame, unmistakably the focal point\nLighting & Cinematic Style\nEpic cinematic lighting with natural sunlight from above, soft rim light on wings and rider\nSubtle volumetric clouds and aerial haze\nHigh contrast between cool sky blues and warm volcanic oranges\nUltra-realistic shadows, dynamic motion blur on wing tips\nFilm-grade color grading, IMAX-level realism\nTechnical / Quality Tags\nUltra-realistic, hyper-detailed, 8K quality, cinematic fantasy, epic scale, wide-angle aerial shot, dramatic composition, realistic motion, professional VFX, movie still, photoreal CGI, depth of field, global illumination\nAspect Ratio\n3:4 vertical composition",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 680,
+      "copy_count": 621,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "width": 1254,
+          "height": 1680,
+          "alt": "Gemini AI Generated Image: a thrilling fantasy scene featuring a young man riding atop a massive, winged creature that resembles a cross between a dragon and a pterosaur. The beast has a vibrant, patterned hide with rusty red, orange, and black markings similar to tiger stripes, along with a long, crested head and a sharp beak. The rider, dressed casually in a grey t-shirt and dark pants, sits securely on the creature's back, holding a rein with one hand while waving the other enthusiastically, his expression filled with joy and excitement. They are soaring through a cinematic atmosphere populated by misty, floating rock formations, while the dark landscape far below is crisscrossed with glowing rivers of molten lava, creating a dramatic contrast between the airy sky and the volcanic ground."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267020e",
+      "title": "GTA V Artwork",
+      "slug": "gta-v-artwork",
+      "category": "Fan Art",
+      "category_slug": "fan-art",
+      "prompt": "Create a GTA V loading-screen style illustration using the uploaded photo as 100% exact face match (no changes to facial structure/skin/beard/eyes). A young man crouches on a cracked rooftop, one arm resting on his knee, looking directly at the camera. Outfit: black textured sweatshirt, dark jeans, bright red high-top sneakers.\n\nColor tone & graphics: vibrant sunset gradient sky (orange/yellow near horizon → pink/purple → deep blue), warm golden backlight from the left, plus a cool cyan rim light outline around the character. Use bold comic-style outlines, clean cel-shading, sharp highlights, high-contrast poster look, hyper-detailed textures.\n\nBackground: Los Santos–style skyline, palm trees, graffiti wall, urban rooftop details. Add “GTA FIVE” logo at the top-left. Ultra-sharp, HD.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 1484,
+      "copy_count": 1163,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "local_path": "images/fan-art/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "width": 1344,
+          "height": 1545,
+          "alt": "Gemini AI Generated: a stylized digital illustration designed to mimic the iconic art style found on the cover and loading screens of the video game Grand Theft Auto V. It features a young man with dark, swept-back hair and a neatly trimmed beard crouching in the center foreground. He is dressed in casual urban attire, wearing a black crew-neck sweater, dark blue jeans, and bright red high-top sneakers. He is positioned on a cracked concrete rooftop detailed with colorful graffiti tags and scattered debris like crushed cans. Behind him, a vibrant cityscape stretches out, bathed in the warm, gradient hues of a sunset that transitions from orange to purple. The background includes tall skyscrapers and palm trees, evoking a Los Angeles-inspired atmosphere. The official \"gta FIVE\" logo is prominently displayed in the top-left corner, and the artwork utilizes the game’s signature heavy black outlines and high-contrast, cel-shaded coloring technique."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1396 @@
+{
+  "category": "Family",
+  "slug": "family",
+  "total_prompts": 23,
+  "updated_at": "2026-09-24T12:55:50Z",
+  "prompts": [
+    {
+      "id": "6aaf23ad42ae1b78ac5893c2",
+      "title": "3D Animated Family Portrait in Heart Frame",
+      "slug": "3d-animated-family-heart-frame",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a high-quality 3D stylized cartoon illustration based on the submitted reference photos of family members, all playfully peeking out from behind a large heart-shaped frame. Only their heads, hands, and upper torsos should be visible.\nMembers must be arranged in descending age order on the upper left and upper right, with the youngest family member centered slightly lower in the foreground, creating a balanced family composition.\nThe entire outer background is a very dark black; the heart-shaped opening borders are the red-orange gradient; the inner background is a rich dark-red to warm-red gradient, creating a contrast that highlights the brightness of the characters.\nUse a soft, polished 3D animated-film look with large expressive eyes, smooth skin, softly exaggerated facial proportions, and slightly enlarged heads, while preserving the recognizable facial features, hairstyles, age, and overall appearance from each reference photo.\nEach family member should gently hold the edges of the heart frame with their hands and lean slightly forward with cheerful, playful expressions. Use soft studio lighting with warm highlights, subtle facial glow, and no harsh shadows.\nCreate a 1:1 square composition with centralized framing, polished depth and dimensionality, crisp facial details, and an ultra-sharp 4K-quality 3D render with premium cinematic animation rendering.",
+      "description": "Copy this detailed AI prompt to generate a heartwarming, polished 3D animated-film style cartoon illustration of a family playfully peeking through a red heart-shaped frame.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 1026,
+      "copy_count": 476,
+      "is_premium": false,
+      "published_at": "2026-09-20T00:07:09.398Z",
+      "images": [
+        {
+          "filename": "a41dedc1-baa0-44e2-a4f2-76057d06ebfa.webp",
+          "local_path": "images/family/a41dedc1-baa0-44e2-a4f2-76057d06ebfa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a41dedc1-baa0-44e2-a4f2-76057d06ebfa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/a41dedc1-baa0-44e2-a4f2-76057d06ebfa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/a41dedc1-baa0-44e2-a4f2-76057d06ebfa.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Gemini AI Photo Editing Prompt: High-quality 3D cartoon render of a mother, father, and son smiling brightly inside a warm red heart-shaped opening."
+        },
+        {
+          "filename": "631d7d27-0bfe-4eb0-bffc-eb92301f0d01.webp",
+          "local_path": "images/family/631d7d27-0bfe-4eb0-bffc-eb92301f0d01.webp",
+          "original_url": "https://img.promptplum.com/promptImages/631d7d27-0bfe-4eb0-bffc-eb92301f0d01.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/631d7d27-0bfe-4eb0-bffc-eb92301f0d01.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/631d7d27-0bfe-4eb0-bffc-eb92301f0d01.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI Photo Prompt: Polished 3D animated-film look portrait of a cheerful family of four leaning forward from behind a heart-shaped border."
+        },
+        {
+          "filename": "d3fff813-bcce-4987-bfbe-110db7dcff73.webp",
+          "local_path": "images/family/d3fff813-bcce-4987-bfbe-110db7dcff73.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d3fff813-bcce-4987-bfbe-110db7dcff73.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/d3fff813-bcce-4987-bfbe-110db7dcff73.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/d3fff813-bcce-4987-bfbe-110db7dcff73.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI Prompt: 3D stylized cartoon illustration of a multi-generational Asian family playfully peeking out from a red heart-shaped frame."
+        },
+        {
+          "filename": "b37185c8-b800-40a9-a73c-eeccccc39fd0.webp",
+          "local_path": "images/family/b37185c8-b800-40a9-a73c-eeccccc39fd0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b37185c8-b800-40a9-a73c-eeccccc39fd0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/b37185c8-b800-40a9-a73c-eeccccc39fd0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/b37185c8-b800-40a9-a73c-eeccccc39fd0.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI Prompt Prompt: Premium 3D cartoon render of a family of four playfully peeking out of a glowing heart-shaped frame."
+        },
+        {
+          "filename": "f3570e04-47d5-4a8d-a8bb-a4f9e6ddc208.webp",
+          "local_path": "images/family/f3570e04-47d5-4a8d-a8bb-a4f9e6ddc208.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f3570e04-47d5-4a8d-a8bb-a4f9e6ddc208.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/f3570e04-47d5-4a8d-a8bb-a4f9e6ddc208.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/f3570e04-47d5-4a8d-a8bb-a4f9e6ddc208.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Gemini AI Generated 3D stylized illustration of an Asian family smiling and leaning forward from behind a heart-shaped border with soft studio lighting."
+        },
+        {
+          "filename": "b0571c4f-4eed-4b70-bb6a-2b3cb8f7afe3.webp",
+          "local_path": "images/family/b0571c4f-4eed-4b70-bb6a-2b3cb8f7afe3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b0571c4f-4eed-4b70-bb6a-2b3cb8f7afe3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/b0571c4f-4eed-4b70-bb6a-2b3cb8f7afe3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/b0571c4f-4eed-4b70-bb6a-2b3cb8f7afe3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI Prompt: Warmly lit 3D stylized cartoon of a Middle Eastern family gently holding the edges of a large heart-shaped frame."
+        },
+        {
+          "filename": "2ba5c235-84e5-4a53-9c12-37fe50ad168a.webp",
+          "local_path": "images/family/2ba5c235-84e5-4a53-9c12-37fe50ad168a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2ba5c235-84e5-4a53-9c12-37fe50ad168a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/2ba5c235-84e5-4a53-9c12-37fe50ad168a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/2ba5c235-84e5-4a53-9c12-37fe50ad168a.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI Prompt for Detailed 3D cartoon illustration of a multi-generational family in traditional clothing smiling cheerfully from within a heart frame."
+        },
+        {
+          "filename": "2a34709e-e677-498e-87b1-666548bc3e77.webp",
+          "local_path": "images/family/2a34709e-e677-498e-87b1-666548bc3e77.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2a34709e-e677-498e-87b1-666548bc3e77.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/2a34709e-e677-498e-87b1-666548bc3e77.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/2a34709e-e677-498e-87b1-666548bc3e77.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Gemini AI Generated Image: Cinematic 3D animation style illustration of a smiling couple and their daughter peeking through a vibrant heart frame."
+        },
+        {
+          "filename": "ea024e4a-ca99-452e-a46f-3fa93b1de29a.webp",
+          "local_path": "images/family/ea024e4a-ca99-452e-a46f-3fa93b1de29a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ea024e4a-ca99-452e-a46f-3fa93b1de29a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/ea024e4a-ca99-452e-a46f-3fa93b1de29a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/ea024e4a-ca99-452e-a46f-3fa93b1de29a.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI Photo Prompt: Softly lit 3D animated portrait of a family, including a baby, framed by a red-orange heart against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a65248d9d499d9af98afe47",
+      "title": "Colorful Scribble Art Family Portrait",
+      "slug": "colorful-scribble-art-family-portrait",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create an ultra-detailed hand-drawn scribble-art portrait using the uploaded family photo only as the reference for each person’s facial identity, age, gender, skin tone, hairstyle, and family members. Include exactly the same 3 or 4 people—do not add, remove, replace, or merge anyone. Do not copy the original pose, composition, background, or exact clothing.\nCreate a fresh, professionally arranged family pose. Place the entire family prominently in the center of a vertical composition, close together with warm, natural interaction. Position the parents behind or beside the children, gently leaning inward. For one child, place them centrally between or slightly in front of the parents; an infant or toddler may be held naturally. For two children of any age or gender, arrange both clearly in the center foreground or between the parents with balanced spacing and every face fully visible. Give everyone warm, natural expressions directed toward the viewer.\nRestyle the family in coordinated, elegant outfits suitable for their age, gender, and cultural appearance. If the reference clothing is very simple, enhance it with richer colors, tasteful patterns, refined fabric details, subtle embroidery, layering, or appropriate accessories. The outfits should look stylish and complementary without becoming overly formal. Do not reproduce the exact original clothes.\nRender the portrait using thousands of overlapping, free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red. Preserve recognizable facial features, realistic anatomy, expressive eyes, intricate crosshatching, delicate shading, and accurate proportions.\nUse clean white textured paper as the background. Keep the family sharply detailed and fully defined at the center, while the outer edges of their clothing and surrounding linework gradually dissolve into loose, colorful scribbles and softly fade into the white background on both sides. Maintain balanced negative space around the centered family.\nEye-level medium family portrait, gallery-quality traditional pen-and-ink illustration, vibrant artistic energy, ultra-sharp detail, vertical composition. Aspect ratio 4:5.",
+      "description": "Scribble Art Portrait Prompt: Use this prompt to create a colorful ballpoint pen sketch of a smiling family posing on textured white paper.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 3342,
+      "copy_count": 2437,
+      "is_premium": false,
+      "published_at": "2026-07-25T21:03:09.299Z",
+      "images": [
+        {
+          "filename": "7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "local_path": "images/family/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Intricate Ballpoint Sketch Family Portrait AI Photo Editing Prompt. AI generated digital illustration art of a smiling woman and bearded man holding their baby against a white background."
+        },
+        {
+          "filename": "25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "local_path": "images/family/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling mother and father holding their baby, drawn with colorful scribble lines."
+        },
+        {
+          "filename": "5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "local_path": "images/family/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated illustrative sketch art of a smiling Indian family with parents and baby in colorful traditional attire against a white background."
+        },
+        {
+          "filename": "011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "local_path": "images/family/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling young family: father in a blue blazer, mother in a purple patterned dress, and baby in a fox sweater."
+        },
+        {
+          "filename": "34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "local_path": "images/family/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling husband and wife holding their baby girl in a vibrant ballpoint pen sketch style."
+        },
+        {
+          "filename": "eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "local_path": "images/family/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "original_url": "https://img.promptplum.com/promptImages/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Portrait Sketch Art AI Photo Editing Prompt. AI generated portrait illustration of a smiling Asian family of four, rendered in a textured, colorful scribble sketch art style."
+        },
+        {
+          "filename": "06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "local_path": "images/family/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "local_path": "images/family/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "local_path": "images/family/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "original_url": "https://img.promptplum.com/promptImages/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Art Family Portrait"
+        },
+        {
+          "filename": "725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "local_path": "images/family/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "local_path": "images/family/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-11"
+        },
+        {
+          "filename": "c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "local_path": "images/family/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "local_path": "images/family/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "original_url": "https://img.promptplum.com/promptImages/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-9"
+        }
+      ]
+    },
+    {
+      "id": "6a6126794e919e1ec249ca04",
+      "title": "Luxury Crimson Formal Family Photoshoot",
+      "slug": "formal-family-crimson-studio-photoshoot",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a premium, ultra-realistic 3:4 vertical family studio portrait of the uploaded family. Preserve every person recognizable facial features and Identity individually from the reference images, maintaining their natural face shape, facial proportions, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, facial hair, age, and distinctive features with high accuracy. Keep realistic skin texture and natural facial asymmetry; avoid beautified, overly smooth, plastic, generic, or AI-generated-looking faces. The image should feel like a real high-end professional family photograph with a luxurious, elegant, and timeless look.\n\nFamily Composition\nThis prompt should work for either a 3-member family or a 4-member family.\n\nIf the family has 3 members (father, mother, and one child) and the child is a toddler or very young, the child should be carried naturally on the mother lap or father's arm. If the child is younger (not a toddler), place the child in the centre of the composition between the parents. The child should stand naturally and should not be carried in the father’s arms.\n\nIf the family has 4 members (father, mother, and two children), arrange them in a balanced formal composition. If one child is a toddler or very young, that child may be held naturally in one parent’s arms. The other child should stand in the center or slightly forward.\n\nIf the children are older (not toddlers), do not carry them. They should stand naturally beside or between the parents.\n\nMaintain a balanced, connected family arrangement where everyone looks comfortable, affectionate, and naturally posed.\n\nPosing Guidelines\n\nThe mother may be seated gracefully on one side or standing, depending on the family arrangement. If seated, keep her posture upright and elegant, with one hand resting naturally on her lap and the other relaxed.\n\nThe father should stand confidently beside or slightly behind the family, with a calm, protective, and relaxed posture.\n\nThe main child or older child should be placed prominently near the center of the frame for compositional balance.\n\nIf there is a toddler, the toddler can be held naturally by one parent only if the age looks appropriate.\n\nKeep expressions warm, natural, and pleasant, with subtle smiles and a polished family-portrait feel.\n\nClothing and Styling\nUse elegant, coordinated formal clothing with a rich deep red / black / gold color theme.\n\nThe mother wears a luxurious deep-crimson or ruby-red off-shoulder evening gown with a fitted bodice and flowing floor-length skirt, made of satin or silk. Optional subtle slit, refined makeup, and soft hairstyle with elegant accessories.\n\nThe father wears a tailored black formal suit with a crisp white shirt and polished black shoes.\n\nA young boy may wear a black tuxedo with satin lapels, white shirt, black bow tie, matching trousers, polished shoes, and a subtle red pocket square.\n\nA young girl may wear a deep red party dress with a flared skirt and dress shoes.\n\nIf there are two children, coordinate their outfits to match the overall red-black formal styling.\n\nKeep all clothing refined, realistic, and premium-looking.\n\nBackground and Set Design\nCreate a luxury indoor studio setup with a dramatic and elegant backdrop.\n\nUse a dark warm-brown, charcoal, or taupe wall with classic rectangular moulding panels.\n\nAdd a large deep red draped fabric hanging decoratively from the upper side of the frame, flowing in rich folds.\n\nExtend matching red fabric across the floor for a regal studio look.\n\nInclude tasteful props such as:\nantique brass or gold candle stands\nwhite pillar candles\ngold/brass vases\ndeep red flower arrangements or roses\nsmall fabric-covered platforms or decor stands\nThe set should feel luxurious, balanced, and visually rich without looking cluttered.\n\nLighting\nUse soft, warm, cinematic studio lighting.\nMain light should be soft and flattering, illuminating all faces clearly.\nAdd gentle fill light to preserve facial details.\nUse subtle rim or separation lighting to distinguish the family from the background.\nKeep shadows soft and elegant.\nMaintain realistic skin tones, controlled highlights, and polished studio contrast.\n\nCamera and Framing\nUse a full-body family portrait composition in 3:4 aspect ratio.\nCamera angle should be straight or slightly above eye level, suitable for professional family photography.\nUse a 50mm to 85mm portrait lens look.\nKeep all family members fully visible with natural spacing.\nEnsure hands, feet, body proportions, and interactions look realistic.\nKeep the family as the clear focal point while still showing the elegant set around them.\n\nStyle and Quality\nPremium family photography, luxury editorial portrait, ultra-realistic, highly detailed, sharp facial details, photorealistic, cinematic, professional studio quality, refined textures, elegant composition, realistic fabric folds, polished skin tones, natural expressions, high detail, 8K quality.\n\nImportant Rules\n\nPreserve the natural identity and age of each family member with high accuracy.\n\nDo not force a child into someone’s arms unless the child is clearly a toddler or very young.\n\nIf the family has only one child, place that child in the center between the parents.\n\nIf children are older, keep them standing naturally.\n\nAvoid awkward poses, extra fingers, distorted anatomy, merged bodies, stiff expressions, face mismatch, ai-generated portrait look or unnatural spacing.\n\nDo not add text, logos, or watermarks.",
+      "description": "Formal Studio Photography Prompt: Use this prompt to create a luxury family portrait in elegant black tuxedos and red satin gowns against a velvet backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 2090,
+      "copy_count": 1424,
+      "is_premium": false,
+      "published_at": "2026-07-22T20:22:17.442Z",
+      "images": [
+        {
+          "filename": "d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
+          "local_path": "images/family/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Formal Crimson Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a family of four in elegant black tuxedos and red satin dresses posing against a velvet backdrop."
+        },
+        {
+          "filename": "60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
+          "local_path": "images/family/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Formal Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a couple and baby in formal black and crimson attire with red roses."
+        },
+        {
+          "filename": "872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
+          "local_path": "images/family/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
+          "original_url": "https://img.promptplum.com/promptImages/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Formal Family Studio Photoshoot AI Prompt. AI generated studio portrait of a formal family with parents, a son, and a daughter in crimson attire, posing in a decorated studio with velvet drapes and floral arrangements."
+        },
+        {
+          "filename": "f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
+          "local_path": "images/family/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Luxury Formal Family Portrait AI Photo Editing Prompt. AI generated portrait of a family of three in formal attire posing on a red carpet against a dark gray wall with red roses and curtains."
+        },
+        {
+          "filename": "c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
+          "local_path": "images/family/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Elegant Formal Studio Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a woman in a red satin gown, a man in a tuxedo, and a baby in a velvet dress on a gold lounge with candles and roses."
+        }
+      ]
+    },
+    {
+      "id": "6a591ea6a3af6f1220c5ca45",
+      "title": "Joyful Family of Three in Color",
+      "slug": "joyful-family-line-art-illustration",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create an ultra-detailed hand-drawn scribble art portrait of a happy family featuring a smiling father, mother, and baby posing closely together. Composition: medium family portrait in a centered vertical composition, with the baby positioned in the foreground and the parents leaning their heads together behind the child, filling the frame naturally with balanced spacing and a warm, intimate arrangement. The father has a well-groomed appearance, and wears a casual pink T-shirt. The mother has long hair, a small bindi, elegant earrings, and wears a vibrant yellow floral traditional outfit while lovingly holding the baby. The baby wears a light-colored floral sleeveless romper and looks directly at the camera with a curious expression. All three subjects smile warmly toward the viewer. Camera angle: eye-level perspective with a natural portrait framing. Render the artwork using thousands of overlapping free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red, blending into expressive abstract line work. Keep the background as clean white textured paper with subtle colorful scribble accents surrounding the subjects. Emphasize realistic facial features, expressive eyes, extreme line detailing, layered crosshatching, delicate shading, and vibrant artistic energy while preserving accurate anatomy and proportions. High-detail traditional pen-and-ink illustration, gallery-quality, ultra-sharp, 8K resolution, vertical composition. Aspect ratio 4:5.",
+      "description": "Colorful Scribble Art Prompt: Copy & Paste this prompt to create a vibrant digital line illustration of a smiling Indian family with a cute baby.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 3785,
+      "copy_count": 3361,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:14:11.774Z",
+      "images": [
+        {
+          "filename": "76319fe7-a553-42fb-a886-a1bc4c0248a2.jpeg",
+          "local_path": "images/family/76319fe7-a553-42fb-a886-a1bc4c0248a2.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/76319fe7-a553-42fb-a886-a1bc4c0248a2.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/76319fe7-a553-42fb-a886-a1bc4c0248a2.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/76319fe7-a553-42fb-a886-a1bc4c0248a2.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Happy Indian Family Scribble Art AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling father, mother in a yellow kurta, and baby looking forward."
+        }
+      ]
+    },
+    {
+      "id": "6a5503027877e7a4d7b4f566",
+      "title": "Classic Family Portrait in Navy",
+      "slug": "studio-family-photography-navy-outfit",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a premium, photorealistic full-length studio portrait of the uploaded family of three. Use the uploaded image strictly only for the face and identity reference for each individual: preserve the adult woman’s exact recognizable face, facial structure, skin tone, hairstyle, and age; preserve the adult man’s exact recognizable face, facial structure, skin tone, hairstyle, beard or clean-shaven appearance, and age; and preserve the baby’s exact recognizable face, infant features, skin tone, hairstyle, and natural age. Keep all three identities clearly separate and do not blend, exchange, beautify, or reinterpret their facial features.\nPlace the adult woman from the reference image slightly right of center, seated naturally on a tall black geometric metal stool. She holds the same baby from the reference image securely and upright on her lap, supporting the baby naturally with both hands. Place the adult man from the reference image standing closely on the left, leaning slightly toward the woman and baby. Keep their heads positioned close together in a balanced, affectionate family composition.\nUse soft, composed expressions with natural eye contact. Keep the expressions subtle and avoid exaggerated emotions.\nDress the woman in an elegant floor-length deep navy-blue sleeveless gown with softly flowing fabric. Dress the man in a fitted dark navy button-up shirt, light grey tailored trousers, a minimal wristwatch, and dark brown leather loafers. Dress the baby in a crisp white shirt with striped suspenders, beige pinstriped trousers, and small brown shoes.\nUse a seamless charcoal-grey studio backdrop with a subtle textured finish, without visible corners or floor lines. Add soft directional studio lighting from the upper left, with flattering facial highlights, gentle shadows, and clear separation from the background. Keep all three faces equally sharp and detailed, especially the baby’s face. Maintain realistic skin texture, natural infant proportions, accurate hands and fingers, detailed clothing fabric, and polished professional family-photography quality. Full-body vertical composition, minimal headroom, 85mm portrait lens look, high resolution, masterpiece, 3:4 aspect ratio, without text, logos, or watermarks.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 4713,
+      "copy_count": 979,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "local_path": "images/family/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "local_path": "images/family/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "local_path": "images/family/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "original_url": "https://img.promptplum.com/promptImages/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-1"
+        }
+      ]
+    },
+    {
+      "id": "6a53efc47877e7a4d7a82d4b",
+      "title": "Monochrome Family Profile Portrait",
+      "slug": "black-and-white-family-studio-profile",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded family photos as identity references and create an elegant vertical black-and-white family portrait featuring a father, mother, and young child arranged in overlapping side profiles. Place the father slightly behind on the left, the mother in the center, and the child in front on the right, with each face clearly visible and naturally layered without merging or distortion. All three should gaze softly upward toward the same off-camera direction, creating a hopeful and emotional expression.\nShow only their head, neck, and upper shoulders, dressed in simple dark clothing that blends smoothly into a pure black background. Illuminate their faces with soft directional light from the left, creating bright facial highlights, gentle shadows, realistic skin texture, crisp eyes, and a dramatic high-contrast monochrome look. Fade the outer edges of their hair, shoulders, and clothing gradually into the darkness for a seamless cinematic composition.\nKeep generous black negative space around the family. In the lower portion, add the word “FAMILY” in white, using one oversized elegant serif letter “F”, followed by “AMILY” in a thin handwritten uppercase style. Fine-art studio photography, emotional family poster aesthetic, clean composition, realistic facial proportions, sharp facial focus, smooth tonal gradients, vertical 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 58,
+      "view_count": 4842,
+      "copy_count": 3893,
+      "is_premium": false,
+      "published_at": "2026-07-29T21:35:38.567Z",
+      "images": [
+        {
+          "filename": "cddd7822-b986-4e59-8061-0893be067cbb.webp",
+          "local_path": "images/family/cddd7822-b986-4e59-8061-0893be067cbb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cddd7822-b986-4e59-8061-0893be067cbb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/cddd7822-b986-4e59-8061-0893be067cbb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/cddd7822-b986-4e59-8061-0893be067cbb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
+          "local_path": "images/family/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
+          "original_url": "https://img.promptplum.com/promptImages/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
+          "width": 928,
+          "height": 1152,
+          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
+          "local_path": "images/family/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "de3f0334-09c2-4205-afa6-30b37322af2c.webp",
+          "local_path": "images/family/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-4"
+        }
+      ]
+    },
+    {
+      "id": "6a33d08d61276f872ad52c97",
+      "title": "Watercolor Family Portrait",
+      "slug": "watercolor-family-portrait",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Convert the reference family into a heartwarming mixed-media family portrait in a vertical 4:5 aspect ratio, blending photorealistic facial detail with elegant watercolor painting on textured off-white watercolor paper.\nThe portrait is captured at eye level with a slightly close-up perspective, showing a loving family of three in a close, intimate embrace. The child is centered between both parents, held securely and comfortably, smiling with joyful, open-mouthed laughter. The child wears light blue pajamas with small cartoon panda patterns.\nThe mother stands on the left, wearing a soft light-blue button-down shirt, with a gentle affectionate smile. The father stands on the right, wearing a dark black shirt and a golden wristwatch, smiling naturally with warmth and happiness. Both parents stay close to the child, with their heads gently near each other, creating a soft family-centered composition. Their arms naturally wrap around the child, showing love, protection, and emotional connection.\nRender the faces, eyes, skin texture, hair, and clothing folds with high-definition realism. Keep the facial details photorealistic, while the outer edges of the figures softly dissolve into expressive watercolor washes, ink splashes, paint drips, and painterly brush textures.\nUse muted earthy watercolor tones such as deep navy blue, soft slate blue, warm sepia brown, beige, and subtle olive green. The watercolor textures should bloom outward behind the family, creating an elegant artistic halo effect.\nThe background should be clean textured off-white watercolor paper with visible paper grain. Add delicate hand-drawn decorative details, including small sketch-style heart doodles and a subtle botanical leaf branch in the upper-right area. In the upper-left corner, add elegant handwritten calligraphy text: “Together is our favorite place to be.”\nLighting should be soft, diffused, and natural, with no harsh shadows. Maintain a warm, emotional, sentimental mood suitable for a premium family keepsake illustration or greeting card artwork.\nStyle: photorealistic watercolor portrait, mixed-media illustration, realistic faces, painterly edges, watercolor splash art, textured paper canvas, emotional family portrait, soft natural lighting, premium fine-art keepsake, high-detail digital painting.",
+      "description": "Watercolor Family Portrait Prompt: Copy & paste this prompt to create a beautiful watercolor painting of a happy couple holding a smiling baby in a panda onesie.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 80,
+      "view_count": 5399,
+      "copy_count": 6702,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "local_path": "images/family/2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/2c67e055-4dba-4704-b0d3-9f1df935aefb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Watercolour Portrait AI Photo Editing Prompt. AI-generated digital illustration portrait of a family of three, surrounded by watercolour splotches and script text."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670500",
+      "title": "Studio Family Portrait",
+      "slug": "professional-family-studio-portrait",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a high-resolution, photorealistic vertical 4:5 professional studio family portrait using the uploaded/reference family members as the subjects. The uploaded image must be treated as the primary identity reference. Preserve the exact number of people, their family roles, approximate ages, gender presentation, natural facial features, body proportions, skin tone, hair type, hairstyle, face shape, eyes, nose, lips, smile style, jawline, cheek structure, and overall recognizable identity. Do not replace the subjects with generic-looking people.\n\nIdentity Preservation — Highest Priority\nKeep each person’s face clearly recognizable from the reference image. Preserve the natural facial geometry, expression style, age appearance, and unique features of every subject, including the baby/babies. Do not over-beautify, slim, reshape, age up, age down, change skin tone, change hairstyle too much, or create a different-looking face. The studio transformation should improve lighting, pose, background, and clothing polish, but the people must still look like the same family from the uploaded photo.\n\nComposition & Framing\nPlace the family group properly centered in the frame with clean, balanced spacing and enough negative space around the subjects so the portrait feels breathable, premium, and professionally composed. Keep the mother seated slightly angled toward the camera on a simple stool or chair, with the youngest baby placed centrally on her lap as the emotional focal point. The father should stand closely behind or beside the mother in a natural protective family pose. All faces must be clearly visible and turned toward the camera.\n\nFamily Placement Rules\nIf there is one baby, place the baby at the center on the seated mother’s lap. If the baby is a boy, present him clearly as a boy with age-appropriate boy styling. If the baby is a girl, present her clearly as a girl with age-appropriate girl styling. If there are two babies/children, place the younger baby on the mother’s lap and the older/larger baby or toddler standing naturally beside the mother, slightly to one side, while keeping the full family composition centered and balanced.\n\nExpression & Pose\nKeep expressions soft, warm, happy, and natural, with a real family-love feeling. Faces should look toward the camera with relaxed affection and emotional connection. Avoid exaggerated smiles, stiff posing, forced gestures, or over-directed expressions. The pose should feel like a natural professional family photoshoot, not overly dramatic or artificial.\n\nOutfit & Styling\nThe woman should be dressed in a full, elegant, modest outfit, such as a full-length or knee-length dress or a properly covered modern or cultural outfit, with a refined family-portrait look. If the family in the uploaded/reference image is already wearing good modern outfits or cultural/traditional outfits, adopt those same outfit styles as the base reference and enhance them slightly so they look more polished, premium, and studio-appropriate while still staying true to the original style. If the reference outfits are too casual, weak, or not visually suitable, enhance and customize them into more coordinated, tasteful, and premium family-photo outfits while keeping them realistic and natural. Do not change clothing so aggressively that the subjects’ identity, age, body type, or family realism gets lost.\n\nLighting & Background\nUse a dark charcoal-gray studio background with a subtle vignette. Add soft, warm front or front-left studio lighting to create gentle highlights on the faces and natural soft shadows. Add a very delicate rim light around the hair, shoulders, and body edges so the subjects separate clearly from the dark background, but keep the rim light subtle and professional, not harsh or glowing.\n\nCamera & Quality\nUse a premium 85mm portrait lens look with shallow depth of field, soft bokeh, realistic skin texture, rich natural colors, and crisp studio sharpness. Keep the faces in crisp focus, especially the eyes and facial expressions, while maintaining a soft professional background falloff. The image should look high-resolution, clean, detailed, and professionally retouched without losing natural skin texture.\n\nAvoid\nAvoid identity drift, generic faces, changed facial structure, changed age, changed skin tone, different hairstyle, excessive beautification, cartoonish rendering, plastic skin, harsh flash, blurry faces, poor subject separation, cramped framing, unclear baby gender, incorrect number of people, distorted hands, extra fingers, stiff posing, exaggerated smiles, revealing or incomplete clothing on the woman, overly casual mismatched outfits, busy background, or overly strong rim lighting.",
+      "description": "Family Studio Portrait Prompt: Copy & paste this prompt to create a professional, heartwarming photograph of a happy family posing together against a dark background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 114,
+      "view_count": 6588,
+      "copy_count": 12255,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum-3.webp",
+          "local_path": "images/family/happy-family-studio-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-studio-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-studio-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Classic Family of Four AI Photo Editing Prompt. AI generated studio portrait of a smiling father, mother holding a baby, and a young boy posing against a dark background."
+        },
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum-2-1.webp",
+          "local_path": "images/family/happy-family-studio-portrait-by-promptplum-2-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-2-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-studio-portrait-by-promptplum-2-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-studio-portrait-by-promptplum-2-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling father, mother, young boy, and baby posing together against a dark grey background."
+        },
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum-1-1.webp",
+          "local_path": "images/family/happy-family-studio-portrait-by-promptplum-1-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-1-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-studio-portrait-by-promptplum-1-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-studio-portrait-by-promptplum-1-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Happy Family AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing cream-colored outfits against a dark background."
+        },
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum-4.webp",
+          "local_path": "images/family/happy-family-studio-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-studio-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-studio-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a smiling family of four in cozy knitwear against a dark backdrop with soft lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704fe",
+      "title": "Cozy 3D Family Gathering",
+      "slug": "3d-cartoon-family-portrait",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a vertical 4:5 full-body family portrait in a premium high-quality stylized 3D animated illustration style. Use the uploaded family photo as the subject reference and keep each person clearly recognizable through their facial structure, hairstyle, glasses if present, age feel, and natural expression, while converting them into a polished cute 3D animated look. The rendering should feel rich, detailed, soft, and high-end, with natural skin shading, detailed hair strands, realistic fabric texture, and smooth cinematic polish. Avoid any plastic, waxy, toy-like, or cheap CGI appearance.\nCamera Angle & Framing — Strict:\n\nUse a clearly elevated high-angle camera view, as if the camera is positioned above the family and tilted downward toward them, not at eye level. This perspective must create the same playful visual effect as the reference: faces and upper bodies appear slightly larger, the floor and rug are visibly seen beneath them, and the full bodies taper naturally toward the feet. Keep the family large in the frame, filling most of the composition from top to bottom. Show everyone head to toe, but avoid loose framing, excess empty wall, or a front-facing formal portrait look.\nFamily Placement & Pose:\n\nThis prompt should work for any number of family members. Arrange them in a tight, affectionate cluster with a warm, joyful, close-family feel. If children are present, place them toward the center/front of the group, not pushed to the side. Adults should stand slightly behind or around them, with natural affectionate gestures such as arms resting around shoulders, backs, or waists. Everyone should look directly toward the camera with bright, genuine, happy smiles. The pose should feel lively, loving, and candid, not stiff, symmetrical, or studio-formal.\nCharacter Design:\n\nUse a cute premium animated character style with slightly oversized expressive eyes, softly rounded facial forms, fuller charming head proportions, rich voluminous hair, and lively joyful facial emotion. Keep the characters adorable and expressive, but still refined and elegant. Do not make them too realistic, flat, generic, or proportioned like ordinary humans in a simple front-facing poster.\nOutfits:\n\nKeep the outfit vibe connected to the input, but when clothing is too plain, refine it into modern, clean, stylish family-casual fashion similar to the reference image. Use tasteful pieces such as soft cardigans, knit sweaters, neat blouses, denim jackets, striped inner tops, fitted trousers, loafers, simple sneakers, or other contemporary everyday outfits. The clothing should look polished, age-appropriate, and visually coordinated without feeling overstyled.\nBackground & Doodles:\n\nPlace the family in a clean cozy indoor setting with a warm beige wall, light wooden floor, a simple cream rug with brown geometric border patterns, and a small softly blurred potted plant in one corner. Keep the room minimal and uncluttered. Around the family, add playful hand-drawn wall doodles using bold dark-brown linework with a few warm colored accents, including pink or red hearts, yellow stars, sparkle marks, small celebratory doodles, and a tiny sketched family drawing. Add clear handwritten speech bubbles such as “Yay!” and “Family!”, arranged around the subjects without covering any faces or bodies.\nColor & Lighting:\n\nUse rich, warm, cheerful colors like the reference image, not washed-out or dull tones. The scene should feel bright, cozy, inviting, and emotionally warm, with balanced accents of beige, cream, pink, denim blue, warm brown, black, and soft red/yellow doodle highlights. Use soft warm indoor lighting with gentle face highlights, natural shadows under the feet, subtle edge separation, and a polished premium finish.\nStrict Result Goal:\n\nThe final image should closely follow the top-down camera angle, tight frame-filling composition, cute premium 3D proportions, rich warm color palette, playful doodle wall, minimal cozy background, and affectionate family energy, while preserving the uploaded family members’ recognizable identities and arrangement.",
+      "description": "3D Animation Style Prompt: Copy & paste this customizable prompt to create a cute, Pixar-style 3D portrait of any family, complete with cozy outfits and fun floating doodles.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 78,
+      "view_count": 2318,
+      "copy_count": 4678,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "local_path": "images/family/Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy 3D Cartoon Family AI Photo Editing Prompt. AI generated digital illustration of a smiling mother, father, and little girl standing together with cute doodle accents and speech bubbles."
+        },
+        {
+          "filename": "Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "local_path": "images/family/Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Doodle-Adorned 3D Family Portrait AI Photo Editing Prompt. AI generated stylized digital illustration of a smiling four-member family with hand-drawn annotations and text bubbles including 'Yay!' and 'Family!'."
+        },
+        {
+          "filename": "Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "local_path": "images/family/Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Pixar-Style Family AI Photo Editing Prompt. AI generated digital illustration of a smiling mother, father, and young daughter standing together, surrounded by hand-drawn doodles and speech bubbles."
+        },
+        {
+          "filename": "Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "local_path": "images/family/Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy 3D Cartoon Family AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling father, mother, and young daughter standing together, surrounded by playful hand-drawn doodles and speech bubbles."
+        },
+        {
+          "filename": "Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "local_path": "images/family/Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Cartoon Family AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling family of four wearing glasses with cute floating doodles."
+        },
+        {
+          "filename": "Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "local_path": "images/family/Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "local_path": "images/family/Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "local_path": "images/family/Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "local_path": "images/family/Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "local_path": "images/family/Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "local_path": "images/family/Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "local_path": "images/family/Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "local_path": "images/family/Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "local_path": "images/family/Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "local_path": "images/family/Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "local_path": "images/family/Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "local_path": "images/family/Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "local_path": "images/family/Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704a1",
+      "title": "Family Silhouette",
+      "slug": "family-silhouette-art-with-quote",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded image ONLY for face and identity reference of all subjects. Do not alter facial structure, skin tone, age, or likeness. Maintain accurate identity for each person.\nCreate a 4:5 aspect ratio, high-contrast black-and-white cinematic silhouette portrait of a family (mother, father, and child) in an intimate, emotional composition.\n\nComposition & Pose:\nThree subjects in close proximity forming a triangular composition\nChild positioned in the center, facing slightly upward to the mother\nMother on one side and father on the other, both gently leaning toward the child\nParents’ faces angled downward toward the child, creating a soft, loving connection\nCapture only side profiles / semi-profiles (no full frontal face)\n\nLighting (CRITICAL):\nStrong backlight source (bright circular/oval light) directly behind subjects\nSubjects appear as dark silhouettes with soft glowing edge highlights (rim light)\nNo front lighting — faces remain mostly in shadow\nClean separation between subjects and background using light halo\n\nStyle & Mood:\nMinimal, emotional, timeless family moment\nDeep blacks, bright whites, no mid-tone clutter\nSoft gradients around light source, rest pure black\nStudio-like controlled environment\nDetails:\nSubtle visible outlines of hair, nose, lips, and clothing edges\nNatural posture, not stiff or posed\nKeep clothing simple and non-distracting\n\nText (optional, centered bottom):\n“FAMILY” in bold uppercase with wide character spacing\nSubtext: “Where life begins & love never ends”\n\nQuality:\nUltra-realistic, sharp edges, cinematic photography, high contrast, 8K feel\n\nNegative Prompt:\ncolor, flat lighting, front-lit faces, smiling directly at camera, cartoon, illustration, blur, distortion, extra people, shoulder crops, bad anatomy",
+      "description": "Artistic Silhouette Photography Prompt: Use this prompt to generate a minimalist, high-contrast image of a family silhouette against a glowing circular backdrop to capture an intimate moment of eternal love.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 78,
+      "view_count": 2776,
+      "copy_count": 5612,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
+          "local_path": "images/family/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Silhouette Family Portrait AI Photo Editing Prompt. AI generated artistic silhouette portrait of a father, mother, and baby looking at each other against a glowing circular light."
+        },
+        {
+          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
+          "local_path": "images/family/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Silhouette with Quote AI Photo Editing Prompt. AI generated minimalist studio portrait of a mother, father, and child in silhouette looking at each other against a soft circular backlight."
+        },
+        {
+          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
+          "local_path": "images/family/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital silhouette portrait of a father, mother, and young child facing each other against a bright circular glow with a sentimental quote."
+        },
+        {
+          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
+          "local_path": "images/family/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670492",
+      "title": "Dapper Duo",
+      "slug": "stylish-father-son-matching-outfit-fashion",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded image strictly ONLY for face and identity reference for both father and baby. Preserve exact facial structure, proportions, skin tone, and natural imperfections — no alteration.\nCreate an ultra-realistic high-fashion editorial portrait with old money aesthetic and subtle 90s luxury magazine vibe.\n\nComposition & Framing (LOCKED)\nVertical 4:5 aspect ratio (strict)\nSubjects occupy ~70-80% of frame height\nMedium portrait (mid-thigh up)\nCentered but slightly organic framing (not perfectly symmetrical)\n\nPose & Body Language (CRITICAL FIX)\nFather is NOT standing straight —\nBody slightly relaxed with a subtle natural lean (micro-tilt in shoulders and torso)\nWeight shifted more onto one leg (effortless stance, not posed)\nHead subtly tilted (optional)\nRight hand inside trouser pocket\nLeft arm supporting baby across torso\nBaby positioned naturally across arm, legs angled outward, body slightly diagonal (not stiff or upright)\n\nExpression & Attitude\nDirect gaze at camera\nAttitude, serious, slightly intimidating\nQuiet luxury presence — effortless dominance, not posed fashion energy\nStyling & Clothing \n\nFather:\nCrisp white dress shirt, perfectly tailored (Oversized, loose, visible wrinkles)\nClean structure along arms, chest, and waist\nTop 2–3 buttons open, sharp collar\nHigh-waisted pleated black trousers with defined structure\nBaby:\nMini version outfit of father\nSlight natural looseness (baby fit), but still structured\n\nAccessories (LOCKED)\nBoth wearing thin gold metal-frame sunglasses (90s minimal luxury style)\n\nBackground (LOCKED)\nDark vertical wooden slats\nFine texture clearly visible\nSubtle lower panel seam + small hardware detail\nNo blur-heavy background\n\nLighting (90s EDITORIAL FIX)\nSoft diffused frontal light\nSlightly flatter lighting style (less modern HDR contrast)\nGentle shadows, controlled highlights\nSubtle film-like softness (not ultra-digital sharpness)\n\nCamera & Quality (MAJOR FIX)\n85mm lens\nf/2.8\nEye-level shot\nSlight film grain / analog softness\nReduced digital sharpness\nEditorial magazine quality — not ultra-HD modern AI look\n\nColor & Grade (IMPORTANT)\nNeutral tones\nSlightly muted blacks (not crushed)\nSoft whites (not overly crisp)\nVery subtle warm tone\nHint of 90s film color grading\n\nStyle Keywords\nold money aesthetic, 90s editorial fashion, analog film look, quiet luxury, masculine elegance, minimalist luxury portrait",
+      "description": "Father and Son High-End Lifestyle Portrait Prompt: Use this prompt to generate professional studio images of a stylish man and baby wearing matching formal attire and sunglasses against a dark minimalist background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 60,
+      "view_count": 2222,
+      "copy_count": 5048,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "local_path": "images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Father and Son Fashion Photography Prompt. AI generated studio portrait of a man holding a baby, both dressed in white shirts and black trousers with matching sunglasses against a dark ribbed wall."
+        },
+        {
+          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "local_path": "images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Man and Baby in Matching Sunglasses AI Photo Editing Prompt. AI generated fashion portrait of a bearded man holding a baby, both wearing white shirts and gold-rimmed sunglasses against a dark wood-paneled background."
+        },
+        {
+          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "local_path": "images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Man and Baby in Sunglasses AI Photo Editing Prompt. AI generated studio portrait of a stylish man holding a baby, both wearing white shirts and matching shades against a dark wood-slatted background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670479",
+      "title": "Unconditional Joy",
+      "slug": "3d-cartoon-people-with-pets",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded image as the ONLY facial and identity reference for the human subject. The face must remain highly recognizable — preserve facial structure, proportions, hairstyle, and identity. Do not alter or beautify facial features.\n\nCreate a heartwarming Pixar-style 3D animated portrait focused on the emotional bond between the human and their pet.\n\nCharacter Design:\n- Both the human and the pet should have cute mini-body proportions (slightly chibi-inspired but still Pixar-realistic)\n- Slightly larger head, soft rounded facial features, and expressive eyes\n- Maintain identity accuracy while enhancing overall cuteness\n\nPose & Interaction:\n- Both the pet and the human subject are facing each other or directly toward the viewer (front-facing)\n- The pet is being gently held close (in arms or near chest/face)\n- The pet looks very happy, energetic, and joyful (open mouth smile or playful expression)\n- The human has a soft, warm, emotionally engaging smile\n- Strong visible bond — affection, comfort, companionship\n\nPet Handling:\n- If pet image is provided: recreate it accurately (fur texture, color, personality)\n- If not: generate a cute personality-matching pet (small fluffy dog, kitten, bunny, etc.)\n\nStyle & Rendering:\n- High-end Pixar-style 3D rendering\n- Soft skin shading, smooth materials, subtle subsurface scattering\n- Detailed, soft, volumetric fur\n- Clean, polished, cinematic quality (not over-stylized or plastic)\n\nClothing:\n- Inspired by the reference image outfit\n- Slightly enhanced for a premium look (richer colors, soft fabric texture, clean styling)\n\nComposition & Framing:\n- Aspect ratio: 1:1 (perfect square for DP)\n- Medium close-up (chest-up framing)\n- Face and pet both clearly visible and centered\n- Balanced composition with comfortable negative space around the subject\n- Keep slight breathing room on all sides (top, left, right) for a premium DP look\n- Slight depth to avoid flat look\n\nLighting:\n- Soft studio lighting\n- Warm and cozy tone\n- Gentle rim light for separation\n- Soft highlights on face and fur\n\nBackground:\n- Clean studio-style soft, light color gradient background\n- Outer edges slightly darker or softly colored\n- Inner area (around subject) gradually transitions into a lighter tone\n- Subtle center-focused glow behind the subject to naturally draw attention\n- Smooth gradient blend with no harsh transitions or distractions\n\nMood:\nCute, joyful, emotional, and highly engaging — perfect for a profile picture\n\nQuality:\nUltra-high resolution, sharp, clean, no noise, no distortion, no artifacts\n\nEnsure perfect face clarity, no deformation, and clean rendering.\nEnhance emotional connection and cuteness without losing realism.",
+      "description": "3D Animated Portrait Prompt: Use this prompt to generate heartwarming 3D illustrations of diverse people of all ages happily cuddling their cute pets in a vibrant studio style.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 56,
+      "view_count": 1431,
+      "copy_count": 1721,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "local_path": "images/family/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "AI Photo Editing Prompt. AI generated digital illustration of a smiling woman with wavy brown hair hugging a fluffy orange tabby cat."
+        },
+        {
+          "filename": "man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/family/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Man Hugging Puppy AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling man with glasses and a beard hugging a cute, fluffy brown and white puppy."
+        },
+        {
+          "filename": "boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/family/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Boy with Puppy AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling boy with curly hair in a blue cable-knit sweater hugging a fluffy brown puppy."
+        },
+        {
+          "filename": "elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/family/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Elderly Woman with Pet AI Photo Editing Prompt. AI generated digital illustration of a smiling elderly woman in a pink cardigan warmly hugging a joyful golden retriever puppy."
+        },
+        {
+          "filename": "elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "local_path": "images/family/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Elderly Man with Pet AI Photo Editing Prompt. AI generated digital illustration of a smiling elderly man with glasses wearing a blue cardigan and hugging a happy Shih Tzu dog with a blue bandana."
+        },
+        {
+          "filename": "girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "local_path": "images/family/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "3D Animated Girl Hugging Pet AI Photo Editing Prompt. AI generated 3D digital illustration of a young girl with braided hair and colorful clips hugging a fluffy tan Pomeranian dog."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670455",
+      "title": "The Watercolor Bond",
+      "slug": "happy-family-watercolor-illustration",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded image(s) only for strict identity references. Each subject must match their respective face, proportions, skin tone, hairstyle, and facial features exactly. No identity drift or beautification.\nMain Concept\nCreate a high-detail mixed-media watercolor family portrait capturing a warm, joyful “huddle” moment.\nComposition & Framing\nDo not detect the subject's pose details from the provided reference image.\nAspect ratio: 1:1 or 4:5\nTight, intimate group composition\nSubjects arranged naturally in a close cluster (slight overlap)\nHead-and-shoulders framing\nEye-level camera\nSubjects (Dynamic / Flexible)\nNumber of people: based on input images (2–6 subjects supported)\nArrange subjects in a balanced triangular or clustered composition\nAdults slightly behind or framing the group, children naturally in front (if present)\nNatural arm placement: light embrace, shoulders touching, subtle interaction\nExpressions & Emotion\nGenuine smiles (natural, not forced)\nWarm, candid, emotionally connected\nBright eyes with realistic catchlights\nArt Style & Rendering\nMixed-media watercolor + photorealistic facial detail\nFaces: sharp, detailed (skin texture, eyes, teeth)\nEdges: dissolve into soft watercolor washes and splashes\nMinimal fine linework, mostly soft gradients\nColor System (Flexible)\nClothing: soft coordinated tones (pastels / neutrals / family palette), no short clothing\nSkin tones: natural with warm undertones\nBackground: white paper texture with abstract watercolor splashes\n\n(soft yellow, green, blue — adjustable)\nLighting\nHigh-key soft studio lighting\nEven illumination, minimal harsh shadows\nSoft gradients on face contours\nDetailing\nFine hair strands blending into brush strokes\nSubtle skin texture (not overly smooth)\nWatercolor bleed and splatter effects\nQuality Tags\nUltra-detailed, 8K, professional digital painting, watercolor illustration, clean composition",
+      "description": "Watercolor Family Portrait Prompt: Use this prompt to generate a heartwarming watercolor illustration of a happy hugging family, a soft, artistic style with vibrant watercolor splashes and realistic details.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 138,
+      "view_count": 3820,
+      "copy_count": 9470,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "local_path": "images/family/happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family Watercolor Portrait AI Photo Editing Prompt. AI generated digital watercolor illustration of a smiling family of four, featuring a mother, father, daughter, and son, in a warm embrace."
+        },
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "local_path": "images/family/happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family Watercolor Portrait Prompt. AI generated watercolor illustration of a happy family with three young children smiling and hugging together in a soft artistic style."
+        },
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "local_path": "images/family/happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Watercolor Portrait Google Gemini AI Prompt. AI generated watercolor digital illustration of a smiling multi-generational family including grandparents, parents, and two children hugging together."
+        },
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "local_path": "images/family/happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Watercolor Portrait Art Prompt. AI generated watercolor illustration of a smiling father, mother, and two young children hugging amidst soft artistic paint splashes."
+        },
+        {
+          "filename": "happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "local_path": "images/family/happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-hugging-watercolor-portrait-by-promptplum-5.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family Portrait AI Photo Editing Prompt. AI generated digital watercolor illustration of a multi-generational family of six hugging joyfully in a vibrant artistic style."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267043a",
+      "title": "Framed in Love",
+      "slug": "happy-family-heart-frame-3d-illustration",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a high-quality 3D stylized cartoon illustration based on submitted references of family members, all peeking out from behind a matte heart-shaped opening. Only their heads, hands (where applicable), and upper torsos should be visible, looking playful and hiding.\nSubjects must be arranged in descending age order.\nThe composition should feature a soft, textured beige. The entire outer background is a beige gradient; the heart-shaped opening borders are the same colour but slightly darker; the inner background is a dark violet gradient, creating a contrast that highlights the brightness of the characters. The style must have a soft Pixar/Disney animation look, with large expressive eyes, smooth skin, and slightly enlarged head proportions for cinematic charm, while retaining the recognizable facial features, hairstyles, and age from the reference photos.\nEveryone is gently holding the edges with small hands/paws and leaning slightly forward with curious, playful expressions. The lighting should be soft studio light with warm, gentle highlights and no harsh shadows.\nThe image must be a 1:1 aspect ratio portrait with centralized framing and shallow depth of field. The final render should be ultra-sharp 4K, in an Octane/Unreal/Disney rendering style.",
+      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to generate a heartwarming 3D animated portrait of a happy family smiling through a heart-shaped cutout.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 81,
+      "view_count": 1310,
+      "copy_count": 2843,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Family Heart Frame AI Photo Editing Prompt. AI generated 3D Digital Illustration of a smiling family and their Golden Retriever peering through a heart-shaped frame aperture."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling family with three children and a golden retriever puppy peeking through a heart-shaped cutout."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling East Asian family of five peeking through a large heart-shaped cutout against a dark background."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "local_path": "images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Multi-Generational Family Peeking through Heart-Shaped Frame AI Photo Editing Prompt. AI generated stylized 3D digital illustration in a Pixar-esque art style. A diverse and smiling group of six people—mother, father, grandmother, and three children—peers out joyfully from a large heart-shaped opening in a wall, set against a deep purple background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670435",
+      "title": "Stacked Smiles",
+      "slug": "animated-family-peeking-around-wall",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a high-quality 3D stylized cartoon illustration based on submitted references of family members, all peeking out from behind a matte vertical wall on the left side of the frame. Only their heads, hands (where applicable), and upper torsos should be visible, positioned vertically one below the other in an aligned row, looking playful and hiding.\nSubjects must be arranged in descending age order.\nThe composition should feature a soft, textured beige pastel wall in the foreground on the left, and a soft studio gradient in a matching beige tone on the right. The style must have a soft Pixar/Disney animation look, with large expressive eyes, smooth skin, and slightly enlarged head proportions for cinematic charm, while retaining the recognizable facial features, hairstyles, and age from the reference photos.\nEveryone is gently holding the wall with small hands/paws and leaning slightly forward with curious, playful expressions. The lighting should be soft studio light with warm, gentle highlights and no harsh shadows.\nMaterials include a matte, velvety wall texture and soft fabrics. The image must be a vertical portrait with centralized framing and shallow depth of field. The final render should be ultra-sharp 4K, in an Octane/Unreal/Disney rendering style.",
+      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to create a heartwarming Pixar-style animation of a happy family, playfully peeking from behind a wall with cheerful, expressive faces.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 170,
+      "view_count": 3474,
+      "copy_count": 6705,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "local_path": "images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "width": 1429,
+          "height": 2560,
+          "alt": "Family Peeking Behind Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a cheerful family of four peeking from behind a beige wall in a playful vertical stack."
+        },
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "local_path": "images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Family and Golden Retriever Peeking AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling cartoon family and their puppy peeking from behind a beige wall."
+        },
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "local_path": "images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "width": 1429,
+          "height": 2560,
+          "alt": "Happy Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a happy multi-generational family and their golden retriever peeking around a wall."
+        },
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "local_path": "images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "width": 1429,
+          "height": 2560,
+          "alt": "Happy Cartoon Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling three-generation family peeking vertically from behind a beige wall."
+        },
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "local_path": "images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "width": 1429,
+          "height": 2560,
+          "alt": "Happy Indian Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a multi-generational Indian family in vibrant traditional attire peeking playfully from behind a vertical wall with joyful expressions."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670425",
+      "title": "The Family Unit",
+      "slug": "happy-family-studio-portrait",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a professionally captured fine-art studio family portrait based strictly on the uploaded reference image. The final image should look like a high-end editorial family photograph with a warm, intimate, timeless aesthetic.\nIdentity & Face Matching (Strict)\n\nUse the uploaded reference image to accurately reproduce all four individuals. Maintain exact age and identity fidelity for each subject.\n\nPreserve precisely:\nfacial structure and proportions\n\nbone structure and jawline\n\neye shape, spacing, and gaze direction\n\nnose structure and lip shape\n\ncheekbone definition\n\nskin tone and undertone\n\nhairstyle, hairline, and natural hair colour & texture\n\nfacial hair\nDo not beautify, stylize, alter facial proportions, or invent features.\nEach person must remain clearly recognizable as the same individual from the reference.\nSubjects & Composition (Very strict)\nMother (Center)\n\nPosition the mother centrally as the emotional focal point of the portrait.\nAppearance and clothing:\ncream / ivory chunky-knit ribbed sweater\n\nnatural color hair with soft natural highlights\n\nwarm, genuine smile directed toward the camera\nPose:\nseated slightly forward\n\nher body angled subtly toward the father to create a natural sense of connection\n\nright arm wrapped gently around her daughter\n\nleft hand lightly holding her partner’s hand\nThe mother and father should lean slightly toward each other in a relaxed, natural way, creating a subtle inward curve in the composition.\n\nMother's head should naturally tilt toward the father's head, creating a soft, affectionate family connection.\nThe pose must feel organic and unforced, never stiff or overly posed.\nFather (Right / Slightly Behind)\n\nPosition the father behind and slightly to the right of the mother, leaning forward slightly into the composition.\nAppearance and clothing:\ndark charcoal or deep navy wool overshirt / shirt-jacket\n\ntan or camel knit crewneck sweater underneath\n\nNatural hairstyle\n\nwell-groomed beard (if present)\nPose:\nleaning slightly inward toward the mother and children\n\nhead slightly inclined toward the mother so their heads gently touch\n\nleft hand resting gently on his son’s shoulder\n\nright hand resting behind the mother or out of frame\n\nsoft confident smile toward the camera\nHis posture should communicate protective warmth and relaxed confidence.\nDaughter (Left Foreground)\n\nPosition the daughter seated on the left side of the frame, slightly leaning toward her mother.\nAppearance and clothing:\nsimple long-sleeve linen dress in light beige / oatmeal tone\n\nnatural hairstyle\n\nsoft natural smile directed at camera\nPose:\nseated comfortably\n\nhands resting naturally in her lap\n\nslightly leaning inward to maintain the family connection.\nSon (Right Foreground)\n\nPosition the son seated on the right side in front of the father.\nAppearance and clothing:\ntan T-shirt under a brown corduroy button-down shirt\n\nmatching brown trousers\n\nnatural hairstyle\nExpression:\njoyful smile\n\nbright, energetic presence\nPose:\nseated cross-legged or comfortably on the rug\n\nrelaxed posture.\nComposition\n\nThe family should form a tight triangular composition:\nmother at the central peak\n\nchildren forming the lower corners\n\nfather slightly behind completing the triangle\nThis structure conveys stability, unity, and emotional closeness.\nSubtle physical contact should be visible:\nhands held between parents\n\narms around children\n\ngentle shoulder touches\n\nparents leaning naturally toward one another\nEnvironment\nBackground\n\nDark, textured studio backdrop with painterly gradients.\nCharacteristics:\ndeep charcoal / black tones on one side\n\nwarm bronze / brown tones on the opposite side\n\nsubtle mottled texture\n\nsoft vignette toward edges\nThe background must remain soft and unobtrusive, enhancing the subjects.\nLighting\n\nUse Rembrandt-style studio lighting with subtle cinematic rim separation.\nLighting setup:\nprimary soft key light from the upper left\n\ncreates subtle facial shadow depth\n\nsmall triangle of light visible on the shadow side of faces\nAdd a very soft rim light or edge light from the rear-right side of the scene to create a gentle highlight along the edges of hair and shoulders.\n\nThis rim lighting should be subtle and natural, helping separate the subjects from the darker background without appearing dramatic or artificial.\nLighting qualities:\nsoft diffused light from large softbox\n\ngentle falloff\n\ncinematic portrait depth\n\nsoft catchlights in the eyes\n\nsubtle rim highlights on hair edges and shoulders.\nColor Palette\n\nUse a cohesive earth-tone palette:\ncreams\n\nbeiges\n\ntans\n\nbrowns\n\ncharcoal / deep navy\nClothing should feel coordinated but not identical, creating an elegant timeless style.\nEnvironment Details\n\nThe family is seated on a neutral woven rug placed over a natural wood floor.\nVisible textures:\nribbed knit sweater\n\ncorduroy fabric on the boy’s shirt\n\nsoft woven rug fibers\n\nwood grain floor\n\nsubtle clothing fabric folds.\nCamera & Technical Details\naspect ratio: 4:5 vertical portrait\n\nultra-high resolution studio photography\n\n85mm portrait lens\n\naperture f/1.8 – f/2.8\n\nshallow depth of field\n\nsubjects tack sharp\n\nbackground softly blurred\n\nFine-art color grading with warm tonal balance.\nStyle & Mood\n\nThe portrait should feel:\nwarm\n\nsentimental\n\nelegant\n\ntimeless\nThe result should resemble luxury studio family portrait photography, suitable for framing or editorial family albums.",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a professional studio portrait of a happy family of four wearing coordinated earthy-toned outfits against a dark, textured backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 255,
+      "view_count": 13817,
+      "copy_count": 28847,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum.webp",
+          "local_path": "images/family/happy-family-studio-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-studio-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-studio-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing coordinated earthy-toned outfits while posing closely against a dark textured background."
+        },
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum-2.webp",
+          "local_path": "images/family/happy-family-studio-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-studio-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-studio-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Asian family of four wearing coordinated earthy-toned clothing against a textured dark backdrop."
+        },
+        {
+          "filename": "happy-family-studio-portrait-by-promptplum-1.webp",
+          "local_path": "images/family/happy-family-studio-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/happy-family-studio-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/happy-family-studio-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family in Earth Tones AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing coordinated warm-colored outfits against a dark textured background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670404",
+      "title": "Family Sequence",
+      "slug": "black-and-white-family-profile-portrait",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a classic low-key black-and-white studio portrait of a family of four arranged in a staggered side-profile composition, all facing right. Maintain accurate identity and face matching to the provided reference image for all four subjects — preserve exact facial structure, proportions, skin texture, hairlines.\nMid-chest shot (cropped from mid chest upward), tight vertical composition. All four subjects are wearing solid matte black t-shirts with no logos, no reflective elements — blending subtly into shadow while maintaining garment structure.\nDiagonal alignment from front-left (father closest to camera) to back-right (youngest child farthest). Overlapping layered composition.\nCRITICAL — Natural Height-Based Staggered Arrangement:\n\nSubjects must be arranged in realistic descending height order consistent with a natural family hierarchy. The father (foreground) is the tallest, followed slightly behind by the mother, who is slightly shorter. Behind her stands the first child, clearly shorter than the mother, and, in the far background, the second child, the shortest of all. The top of each subject’s head forms a gradual downward diagonal slope from left (tallest father) to right (shortest child). Eye levels must also progressively lower in the same sequence. This height progression must appear anatomically natural and realistic, not artificially aligned or equalized. Maintain accurate proportional scaling and perspective depth consistent with real-world height differences.\nTrue monochrome (black and white), high contrast, deep blacks, smooth midtone transitions. Dramatic chiaroscuro lighting with a single directional key light from camera-right, slightly above eye level, no equipment/object visible in frame. Strong shadow falloff into pure black background. Deep negative space on the left.\nSharp catchlights in all eyes from a small gridded softbox. Crisp highlight definition on nose bridges, cheekbones, lips, and jawlines.\nFather (foreground, sharpest focus): His expression appears steady and confident with a subtle smile. His gaze is fixed forward, conveying strength and leadership. Visible individual hairs, strong skin micro-contrast, wear a black t-shirt fading into shadow.\nMother (second): She has a soft, graceful smile (upper teeth visible). Long voluminous wavy hair, subtle earrings, smooth skin, and wear a black outfit.\nChild (third): Her expression shows youthful curiosity and positivity, with a subtle smile (upper teeth visible), slightly pulled-back natural hair, and a simple black outfit.\nChild (background): He looks calm and thoughtful. His face carries innocence and quiet confidence, as if observing something meaningful ahead.\nLens look: 85mm–135mm telephoto compression, no distortion.\n\nAperture look: f/5.6–f/8 layered depth, foreground sharpest with subtle gradual falloff.\nUltra-detailed skin texture, realistic pores, cinematic tonal grading, professional studio photography, timeless, museum-quality.\n4K resolution detail, ultra-sharp, high micro-contrast, refined tonal range.\n\nAspect ratio 4:5\nNegative prompt:\n\nlow quality, blur, head crop, frame crop, over exposure, visible equipment, equal head height, flat alignment, incorrect height proportions, unrealistic scaling",
+      "description": "Family Photo Editing Prompt: Use this prompt to create a professional black and white studio portrait of a family of four in side profile against a dark, minimalist background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 211,
+      "view_count": 6936,
+      "copy_count": 17648,
+      "is_premium": false,
+      "published_at": "2026-08-08T20:13:38.649Z",
+      "images": [
+        {
+          "filename": "black-white-family-profile-portrait-by-promptplum.webp",
+          "local_path": "images/family/black-white-family-profile-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/black-white-family-profile-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/black-white-family-profile-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/black-white-family-profile-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Profile in Monochrome AI Photo Editing Prompt. AI generated studio portrait of a father, mother, and two children in black t-shirts, arranged by height in a side-profile composition against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703ee",
+      "title": "Dramatic Black and White Family Photo Prompt",
+      "slug": "playful-black-and-white-family-portrait-stacked-pose",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Create a high-contrast black-and-white studio portrait of a three-person family stacked vertically in a perfectly centered totem-pole composition, faces closely matching the reference image identities of all peoples, preserving exact facial structure, proportions, skin tone (converted to grayscale), eye shape, nose shape, lip shape, hairline, and age.\nA man at the top leans forward with both hands gently resting on the crown of the woman’s head below him. The woman mirrors the pose, placing both hands on the head of a small child beneath her. The child rests their cheeks in their hands at the base.\nAll subjects face forward toward the camera with playful kiss/pout expressions.\n\nTop Subject (Man)\nFace must match the reference identity\nLeft eye closed in a wink, right eye open\nNatural grooming details\nWedding golden ring on left hand ring finger\nHands gently cupping the woman’s head\nMiddle Subject (Woman)\nFace must match the reference identity\nRight eye closed in a wink, left eye open\nNaturally styled hair\nJewelries if present\nHands resting on the child’s head\nWedding golden ring on left hand ring finger\nBottom Subject (Child)\nFace must match the reference identity\nAccurate hair details\nBoth eyes wide open with strong catchlights\nCheeks resting in palms\nLighting & Studio Style\nLow-key fine-art portrait lighting\nSingle large softbox or beauty dish, front-center slightly above eye level\nSoft sculpting shadows, dramatic contrast\nSmooth skin highlights with natural texture preserved\nBright clean catchlights in eyes\nNo rim light, no harsh shadows\nBackground: seamless deep black backdrop with subtle vignette fading to pure black edges.\nCamera & Image Quality\nMedium telephoto portrait lens (85mm equivalent)\nEye-level perspective\nPerfect vertical alignment\nAll three faces in sharp focus\nUltra-high-resolution, 4K detail\nHyper-real skin texture (pores visible but clean)\nCrisp eyelashes, detailed lips, natural micro-contrast\nProfessional studio photography look\nWardrobe\nAll subjects wearing plain black long-sleeve tops, minimal texture, no logos, blending into background.\nComposition & Output Settings\nAspect ratio 4:5 vertical\nCentered symmetrical composition\nClean negative space\nNo cropping of heads or hands\nEditorial portrait framing\nQuality Tags\nphotorealistic, ultra-detailed face, 4K portrait, high dynamic range grayscale, fine-art family portrait, sharp focus, studio photography, identity preservation, realistic skin texture, cinematic monochrome\nNegative Prompt\nFrame crop, head crop, cartoon, illustration, color, warm tones, blur, noise, grain, extra fingers, distorted face, asymmetry, wide-angle distortion, harsh lighting, multiple light sources, busy background, text, watermark, low resolution, oversharpening, identity mismatch, face change, identity drifts, unnatural hair details",
+      "description": "Get the exact AI prompt to create this playful black & white vertical stacked family portrait. Generate fun, studio-style family photos easily!",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 156,
+      "view_count": 9533,
+      "copy_count": 14165,
+      "is_premium": false,
+      "published_at": "2026-08-26T20:16:15.491Z",
+      "images": [
+        {
+          "filename": "playful-family-black-white-portrait-by-promptplum.webp",
+          "local_path": "images/family/playful-family-black-white-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/playful-family-black-white-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/playful-family-black-white-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/playful-family-black-white-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Vertical Stack Portrait AI Photo Editing Prompt. AI generated studio portrait of a man, woman, and child stacked vertically with playful winking and pouting expressions against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702da",
+      "title": "Joy to the World",
+      "slug": "joy-to-the-world",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded image strictly as a face and identity reference for each person.\n\nPreserve each person’s exact facial structure, proportions, skin tone, eye shape, nose, lips, jawline, and natural expressions. Do not beautify, stylize, alter age, ethnicity, or facial features. Faces must remain sharp, realistic, and clearly recognizable.\n\nCreate an ultra-realistic vertical Christmas studio family portrait(aspect ratio 4:5), suitable for professional holiday photography, with a warm golden lighting aesthetic.\n\nComposition:\nA family of four posing in an elegant studio arrangement. The adult woman and adult man are seated closely together on a low upholstered chair at the center, relaxed and connected. The girl stands behind them in the center, slightly elevated with a cheerful posture. The boy stands beside the seated adults with a straight yet natural stance. Everyone looks directly at the camera with soft, welcoming smiles.\n\nWardrobe — Match the reference clothing (Main Focus):\n\nWoman: Sleeveless white blouse with delicate lace detailing at the shoulders, paired with a deep green midi skirt; refined and minimal.\n\nMan: Dark green fitted sweater (high-neck/turtleneck style) with dark blue jeans; clean winter elegance.\n\nGirl: Dark green velvet dress with a white Peter Pan collar, plush texture with subtle sheen.\n\nBoy: Blue denim button-up shirt paired with olive or dark green trousers, neat and festive-casual.\n\nMaintain a cohesive palette of deep green, white, denim blue, and warm gold accents. Fabric textures must remain clearly visible.\n\nSetting — Golden Tone Match:\nAn elegant Christmas studio with two snowy(cream white) Christmas trees on both sides, featuring gold-dominant ornaments, champagne baubles, and warm micro-lights that emit a soft golden glow. The frosted branches reflect warm light rather than cool white.\nThe background wall(Classic paneled wall) is a warm beige/cream tone with golden warmth. A large green decorated wreath with pinecones and a gold ribbon is centered on the wall. Gift boxes wrapped in white and metallic gold paper are arranged neatly at the base.\n\nLighting & Atmosphere:\nSoft, professional studio lighting with a golden color temperature, gentle highlights, and subtle glow. Warm reflections on ornaments and fabrics, no harsh shadows. Cozy, elegant, premium Christmas mood.\n\nImage Quality:\nPhotorealistic, high-resolution (8K look), accurate skin tones, sharp facial detail, realistic fabric behavior, refined golden holiday aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 2241,
+      "copy_count": 4166,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
+          "local_path": "images/family/Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated, studio-style family Christmas portrait featuring a mother, father, daughter, and son smiling at the camera. The parents are seated on a bench while the daughter stands behind them and the son stands to the right. They are dressed in color-coordinated outfits involving dark green, white, and denim. The background features a beige wall adorned with a wreath, flanked by two snowy Christmas trees decorated with gold ornaments, with wrapped gifts on the floor."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702d9",
+      "title": "Holding Onto Christmas Magic",
+      "slug": "holding-onto-christmas-magic",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded image strictly as a face and identity reference for each person.\n\nPreserve each person’s exact facial structure, proportions, skin tone, eye shape, nose, lips, jawline, and expressions. Do not beautify, stylize, change age, ethnicity, or facial features. Faces must remain sharp, realistic, and clearly recognizable.\nCreate an ultra-realistic Christmas lifestyle family portrait, vertical composition (4:5 or 2:3), in a warm, cozy, professional holiday photography style.\nComposition:\n\nA playful stacked pose on a soft white rug. The adult man lies comfortably on his stomach, smiling directly at the camera. The adult woman lies on top of him, gently hugging his shoulders from behind. Above them, two children lean forward over the adults, resting their arms naturally and smiling joyfully. Everyone looks toward the camera with happy, natural expressions, conveying closeness and fun.\nWardrobe — Match the reference clothing (Main Focus):\n\nAll family members wear classic red-and-white Santa hats, worn naturally with soft fabric folds.\nMan: Red and dark-green plaid flannel shirt, casual and cozy winter style.\nWoman: Warm cream or off-white knitted sweater with subtle winter texture, festive but soft.\nBoy: Light-colored knit sweater with small red holiday patterns, cozy and playful.\nGirl: Soft neutral-toned sweater or knit top, simple and festive, child-friendly winter style.\nClothing should look comfortable, family-oriented, and festive—no logos or modern graphics. Fabrics must show realistic knit texture, flannel weave, and soft winter thickness.\nSetting:\n\nA decorated living room with a Christmas tree behind them, filled with warm fairy lights, red and silver ornaments, and bows. Wrapped gifts sit near the tree. A white fireplace with garlands and a Christmas wreath completes the background. Color palette focuses on red, white, green, silver, and warm gold light.\nLighting & Mood:\n\nSoft, warm Christmas lighting with gentle glow and natural shadows. Cozy, joyful, and intimate atmosphere emphasizing family togetherness and festive spirit.\nImage Quality:\n\nPhotorealistic, high-resolution (8K look), accurate skin tones, sharp facial details, realistic fabric textures, natural smiles, classic Christmas lifestyle photography.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 12,
+      "view_count": 678,
+      "copy_count": 545,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_66248b66248b6624-1.jpg",
+          "local_path": "images/family/Gemini_Generated_Image_66248b66248b6624-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_66248b66248b6624-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_66248b66248b6624-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_66248b66248b6624-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A cheerful family of four posing in a playful stack on a white rug. The father lies on his stomach wearing a plaid shirt, with the mother on his back, and a young boy and girl piled on top. All four are smiling at the camera and wearing red Santa hats. The background features a cozy living room with a lit Christmas tree, wrapped gifts, and a decorated fireplace."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702d8",
+      "title": "Winter Whites & Holiday Lights",
+      "slug": "winter-whites-holiday-lights",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded family photo strictly as a face and identity reference.\n\nPreserve each person’s exact facial structure, proportions, skin tone, eye shape, nose, lips, jawline, and expressions. Do not beautify, stylize, or change age/ethnicity. Faces must remain sharp and clearly recognizable.\nCreate an ultra-realistic Christmas studio family portrait, vertical (4:5 or 2:3), in a premium Christmas card photography style.\nComposition:\n\nOne adult man standing behind the seated adult woman, hands resting gently on her shoulders. One child girl sitting on the floor slightly forward in a relaxed seated pose. One child boy crouching/kneeling beside her. Everyone looks at the camera with warm, natural smiles.\nWardrobe — Match the reference clothing (Main Focus):\n\nMan: Off-white/cream ribbed knit sweater (clean, minimal, no logo), paired with light gray fitted trousers.\nWoman: Elegant ivory/white long dress with a smooth skirt, and sheer lace/chiffon long sleeves with delicate floral texture; soft, bridal-like winter elegance.\nGirl: Champagne/beige velvet dress, long sleeves, soft plush texture with gentle sheen; cozy and festive.\nBoy: Light blue button-up shirt (soft cotton look) with gray jeans/trousers; neat but relaxed.\nKeep the palette consistent: white, ivory, champagne, beige, silver, soft gray. Fabric texture must be clearly visible (knit ribs, lace pattern, velvet sheen, cotton weave).\nSetting:\n\nBright white studio with two snowy Christmas trees decorated in silver + gold ornaments, warm fairy lights, a white fireplace, and a silver frosted wreath on the wall. Neutral wrapped gifts around the floor.\nLighting:\n\nSoft, warm, professional studio lighting with gentle glow and subtle bokeh sparkles. No harsh shadows.\nQuality:\n\nPhotorealistic, high-resolution (8K look), realistic skin tones, crisp fabric detail, natural folds, premium holiday aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 24,
+      "view_count": 1600,
+      "copy_count": 2713,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_4cq1nh4cq1nh4cq1-1.jpg",
+          "local_path": "images/family/Gemini_Generated_Image_4cq1nh4cq1nh4cq1-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_4cq1nh4cq1nh4cq1-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_4cq1nh4cq1nh4cq1-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_4cq1nh4cq1nh4cq1-1.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: a cheerful family of four posing for a festive holiday portrait. The father stands behind the seated mother, resting his hands on her shoulders, while a young daughter and son sit on the floor in front of them. They are dressed in coordinated outfits featuring shades of white, cream, beige, and light blue. The setting is bright and elegant, flanked by two flocked Christmas trees decorated with silver and gold ornaments, creating a warm, celebratory atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702d7",
+      "title": "A Classic Family Christmas",
+      "slug": "a-classic-family-christmas",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Use the uploaded image strictly as a face and identity reference for each person. Preserve exact facial structure, proportions, skin tone, and natural expressions. Do not change or stylize faces.\nCreate an ultra-realistic Christmas studio family portrait.\nPose & composition:\n\nThe family is seated very close together in an intimate arrangement. The man sits in front holding the young boy gently in his arms. The woman sits slightly behind him, hugging his shoulders with a warm, caring gesture. The young girl leans in from the side, resting her head softly against the mother’s arm. Everyone is close, connected, and relaxed.\nExpressions:\n\nNatural, soft smiles with direct eye contact toward the camera. Warm, joyful, and authentic family emotion—nothing exaggerated or posed.\nOutfits:\n\nCoordinated festive clothing in cream, beige, deep red, and soft green tones, elegant and timeless. Knit textures, subtle shimmer, and winter fabrics suitable for a premium Christmas portrait.\nSetting & background:\n\nA refined indoor studio scene with a Christmas tree decorated with warm golden lights and red ornaments behind the family. Softly blurred wrapped gifts near the base of the tree. Background walls in warm beige with gentle golden illumination.\nLighting:\n\nProfessional studio lighting with a very warm golden glow, soft shadows, smooth highlights on skin, cozy Christmas-card atmosphere. Evening indoor lighting feel.\nStyle & quality:\n\nUltra-realistic 8K photography, aspect ratio 2:3, sharp facial details, natural skin texture, shallow depth of field, premium holiday portrait aesthetic.\n\nClean, elegant, and timeless — suitable for a luxury Christmas family photo.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 1497,
+      "copy_count": 2000,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_k0esqlk0esqlk0es-1.jpg",
+          "local_path": "images/family/Gemini_Generated_Image_k0esqlk0esqlk0es-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_k0esqlk0esqlk0es-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Gemini_Generated_Image_k0esqlk0esqlk0es-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Gemini_Generated_Image_k0esqlk0esqlk0es-1.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: a heartwarming holiday portrait of a smiling family of four. The mother and father are seated with their two young children—a boy sitting on their laps and a girl leaning affectionately on the father's shoulder. They are dressed in festive attire, featuring a red velvet blazer, a green dress, and cozy sweaters. Behind them stands a beautifully decorated Christmas tree with glowing lights and red ornaments, surrounded by wrapped gifts, creating a cozy and celebratory atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702d3",
+      "title": "All I Want for Christmas",
+      "slug": "all-i-want-for-christmas",
+      "category": "Family",
+      "category_slug": "family",
+      "prompt": "Hyper-realistic Christmas scene, warm and cozy lighting coming from a lit fireplace in the background. The couple is positioned exactly: the man sitting on the floor, legs bent and slightly open, wearing a textured beige sweater and light-colored pants. He smiles naturally, with a soft and welcoming expression. The woman is kneeling behind him, hugging him over the shoulders, with her hands crossed over his chest. She wears a white cable-knit sweater and smiles warmly, tilting her face slightly to the side, with long wavy hair falling over one shoulder.\nIn the background, a fireplace with roaring flames creates warm orange reflections. To the left, a snowy Christmas tree richly decorated in white, gold, and champagne, with yellow lights producing soft bokeh. Above the fireplace, a festive arrangement with leaves, baubles, and white and gold elements. To the right, a green garland with gold details. The environment conveys coziness, elegance, and a sophisticated Christmas atmosphere. Vertical composition, 9:16, soft lighting, natural shadows, and extremely sharp real texture of skin and fabrics. Hyper-realistic 8K photography.\nMANDATORY INSTRUCTIONS (DO NOT ALTER FACES):\nReproduce exactly the ORIGINAL faces from the provided photo.\nDO NOT change the shape of eyes, nose, mouth, teeth, eyebrows, or facial proportions.\nDO NOT smooth skin, do not eliminate texture, do not \"harmonize,\" do not rejuvenate.\nMaintain pores, beard, natural lines, real eye shine, hair texture.\nDO NOT create a filter, DO NOT make it look like AI.\nExpressions identical to the photo: his natural smile and her wide smile.\nPrioritize total fidelity to the faces above all else.\nFormat: Hyper-realistic photography, 8K, 9:16 vertical.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 43,
+      "view_count": 2980,
+      "copy_count": 6889,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Screenshot-2025-12-17-at-3.59.36-AM.png",
+          "local_path": "images/family/Screenshot-2025-12-17-at-3.59.36-AM.png",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-17-at-3.59.36-AM.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/family/Screenshot-2025-12-17-at-3.59.36-AM.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/family/Screenshot-2025-12-17-at-3.59.36-AM.png",
+          "width": 778,
+          "height": 1154,
+          "alt": "Gemini AI Generated Image: A couple in cozy knit sweaters smiles for a photo in front of a lit fireplace and a decorated Christmas tree. The blonde woman in white embraces the bearded man in beige from behind as he sits on a rug."
+        }
+      ]
+    }
+  ]
+}

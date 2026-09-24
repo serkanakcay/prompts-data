@@ -1,0 +1,57 @@
+{
+  "category": "Father and Son",
+  "slug": "father-and-son",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:56:06Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670492",
+      "title": "Dapper Duo",
+      "slug": "stylish-father-son-matching-outfit-fashion",
+      "category": "Father and Son",
+      "category_slug": "father-and-son",
+      "prompt": "Use the uploaded image strictly ONLY for face and identity reference for both father and baby. Preserve exact facial structure, proportions, skin tone, and natural imperfections — no alteration.\nCreate an ultra-realistic high-fashion editorial portrait with old money aesthetic and subtle 90s luxury magazine vibe.\n\nComposition & Framing (LOCKED)\nVertical 4:5 aspect ratio (strict)\nSubjects occupy ~70-80% of frame height\nMedium portrait (mid-thigh up)\nCentered but slightly organic framing (not perfectly symmetrical)\n\nPose & Body Language (CRITICAL FIX)\nFather is NOT standing straight —\nBody slightly relaxed with a subtle natural lean (micro-tilt in shoulders and torso)\nWeight shifted more onto one leg (effortless stance, not posed)\nHead subtly tilted (optional)\nRight hand inside trouser pocket\nLeft arm supporting baby across torso\nBaby positioned naturally across arm, legs angled outward, body slightly diagonal (not stiff or upright)\n\nExpression & Attitude\nDirect gaze at camera\nAttitude, serious, slightly intimidating\nQuiet luxury presence — effortless dominance, not posed fashion energy\nStyling & Clothing \n\nFather:\nCrisp white dress shirt, perfectly tailored (Oversized, loose, visible wrinkles)\nClean structure along arms, chest, and waist\nTop 2–3 buttons open, sharp collar\nHigh-waisted pleated black trousers with defined structure\nBaby:\nMini version outfit of father\nSlight natural looseness (baby fit), but still structured\n\nAccessories (LOCKED)\nBoth wearing thin gold metal-frame sunglasses (90s minimal luxury style)\n\nBackground (LOCKED)\nDark vertical wooden slats\nFine texture clearly visible\nSubtle lower panel seam + small hardware detail\nNo blur-heavy background\n\nLighting (90s EDITORIAL FIX)\nSoft diffused frontal light\nSlightly flatter lighting style (less modern HDR contrast)\nGentle shadows, controlled highlights\nSubtle film-like softness (not ultra-digital sharpness)\n\nCamera & Quality (MAJOR FIX)\n85mm lens\nf/2.8\nEye-level shot\nSlight film grain / analog softness\nReduced digital sharpness\nEditorial magazine quality — not ultra-HD modern AI look\n\nColor & Grade (IMPORTANT)\nNeutral tones\nSlightly muted blacks (not crushed)\nSoft whites (not overly crisp)\nVery subtle warm tone\nHint of 90s film color grading\n\nStyle Keywords\nold money aesthetic, 90s editorial fashion, analog film look, quiet luxury, masculine elegance, minimalist luxury portrait",
+      "description": "Father and Son High-End Lifestyle Portrait Prompt: Use this prompt to generate professional studio images of a stylish man and baby wearing matching formal attire and sunglasses against a dark minimalist background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 60,
+      "view_count": 2222,
+      "copy_count": 5048,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "local_path": "images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Father and Son Fashion Photography Prompt. AI generated studio portrait of a man holding a baby, both dressed in white shirts and black trousers with matching sunglasses against a dark ribbed wall."
+        },
+        {
+          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "local_path": "images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Man and Baby in Matching Sunglasses AI Photo Editing Prompt. AI generated fashion portrait of a bearded man holding a baby, both wearing white shirts and gold-rimmed sunglasses against a dark wood-paneled background."
+        },
+        {
+          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "local_path": "images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/father-and-son/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Man and Baby in Sunglasses AI Photo Editing Prompt. AI generated studio portrait of a stylish man holding a baby, both wearing white shirts and matching shades against a dark wood-slatted background."
+        }
+      ]
+    }
+  ]
+}

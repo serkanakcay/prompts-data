@@ -1,0 +1,439 @@
+{
+  "category": "Football / Soccer",
+  "slug": "football-soccer",
+  "total_prompts": 9,
+  "updated_at": "2026-09-24T12:56:10Z",
+  "prompts": [
+    {
+      "id": "6a3c44f5bf79ee5252c41073",
+      "title": "3D Football Player Caricature",
+      "slug": "3d-football-player-caricature",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "Use the uploaded image only for the male subject’s facial identity.\n\nCreate a premium high-end CGI render of the subject as a clearly miniature football character in a vertical 4:5 composition. He must not look like a normal adult footballer. Give him a compact mascot-style body with a slightly oversized head, short athletic limbs, a short torso, and a clearly miniaturized full-body appearance.\n\nDress him in the accurate home kit of [TEAM NAME] [FIFA World Cup 2026], including the correct jersey colors, pattern, shorts, socks, and football boots. Show him in a cool, stylish, confident pose with one foot resting on a FIFA football. Make the football relatively large compared to his body so the miniature scale is obvious.\n\nKeep the expression cool, playful, and confident, with a subtle smirk or relaxed stylish smile.\n\nScene: seamless pure white studio background with a white floor and soft contact shadows. Full body visible, centered, and dominant in frame.\n\nRendering: ultra-premium realistic CGI, sharp and clean, with natural matte skin, realistic eyes, detailed hair strands, refined facial hair, realistic sportswear fabric, visible stitching, natural folds, detailed boots, and high-end studio lighting.\n\nAvoid: normal adult body proportions, bad anatomy, life-size look, plastic toy look, bobblehead, waxy skin, glossy surfaces, cheap cartoon style, low-detail rendering, awkward anatomy, or generic football kit.",
+      "description": "3D Caricature Art Prompt: Use this prompt to create a stylized, miniature portrait of football player in team kits against a clean white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 1246,
+      "copy_count": 916,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "local_path": "images/football-soccer/9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-5"
+        },
+        {
+          "filename": "b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "local_path": "images/football-soccer/b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-8"
+        },
+        {
+          "filename": "bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "local_path": "images/football-soccer/bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-7"
+        },
+        {
+          "filename": "1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "local_path": "images/football-soccer/1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-4"
+        },
+        {
+          "filename": "742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "local_path": "images/football-soccer/742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-3"
+        },
+        {
+          "filename": "b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "local_path": "images/football-soccer/b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-6"
+        },
+        {
+          "filename": "e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "local_path": "images/football-soccer/e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-2"
+        }
+      ]
+    },
+    {
+      "id": "6a36614fbf79ee5252c15ec0",
+      "title": "FIFA Mid-Air Connection",
+      "slug": "brazil-football-player-kicking-ball",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "Create a dynamic, ultra-realistic sports action photograph of an elite football player wearing the Brazil national team kit, captured at the precise moment of striking a football during a professional match. Full-body vertical composition, low-angle perspective, emphasizing athletic power, speed, and explosive movement. The player is positioned centrally in the frame, wearing Brazil’s iconic bright yellow jersey with green trim, green shorts, white knee-high socks with green and yellow accents, and blue football boots. His support leg is firmly planted on the turf while the kicking leg swings through with tremendous force, moments after contact with the ball. His arms are naturally extended for balance, highlighting muscular definition, tension, and athletic form.\nThe football is shown in motion immediately after impact, traveling away from the player. Dirt, grass, turf fragments, and tiny debris erupt from the ground around the planted foot and striking zone, creating a dramatic sense of energy and realism. Subtle motion blur is applied to the kicking leg and ball to enhance speed, while the player’s face remains razor-sharp, displaying intense concentration and determination. His eyes are locked on the ball, and his windswept hair adds to the dynamic movement of the scene.\nBackground: A packed football stadium filled with passionate supporters dressed in Brazil’s national colors. Brazilian flags are visible throughout the crowd. The spectators, banners, and stadium architecture are softly blurred through a shallow depth of field, creating strong subject separation while maintaining the atmosphere of a major international football match.\nLighting: Dramatic golden-hour sunlight streams from the upper-left corner of the frame, producing warm cinematic backlighting and a radiant glow across the scene. Strong rim lighting outlines the player’s hair, shoulders, arms, and jersey edges. Floating dust particles, illuminated grass fragments, and tiny airborne debris catch the sunlight, creating sparkling highlights throughout the image. Rich golden tones, realistic shadows, vibrant color contrast, and natural lens flare enhance the cinematic atmosphere.\nStyle: Hyper-realistic sports photography, FIFA World Cup atmosphere, cinematic action shot, professional sports advertising campaign, ultra-detailed textures, realistic fabric folds, visible jersey stitching, photorealistic skin detail, high dynamic range, sharp focus on the athlete, shallow depth of field, premium editorial sports aesthetic, dramatic and inspiring mood, 8K resolution, masterpiece quality.\nCamera & Composition: Full-body vertical framing, low-angle field-level viewpoint, telephoto sports lens, fast shutter speed, professional sports photography, cinematic depth, realistic perspective, highly detailed grass texture, immersive stadium environment.\nAspect Ratio: 4:5.",
+      "description": "Sports Action Photography Prompt: Copy & Paste this prompt to create a realistic photo of a Brazilian football player striking a powerful mid-air volley.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 13,
+      "view_count": 754,
+      "copy_count": 764,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "0ad7d6c7-f78b-468e-b114-adda2a337b49.webp",
+          "local_path": "images/football-soccer/0ad7d6c7-f78b-468e-b114-adda2a337b49.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0ad7d6c7-f78b-468e-b114-adda2a337b49.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/0ad7d6c7-f78b-468e-b114-adda2a337b49.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/0ad7d6c7-f78b-468e-b114-adda2a337b49.webp",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Brazil Soccer Player Mid-Air Kicking Action Photo AI Photo Editing Prompt. AI generated realistic action-sports photo of a Brazilian football player powerfully kicking a soccer ball mid-volley, surrounded by a packed stadium, national flags, and flying turf in golden hour sunlight."
+        },
+        {
+          "filename": "78d695ad-6644-4e18-8fee-25caba789031.webp",
+          "local_path": "images/football-soccer/78d695ad-6644-4e18-8fee-25caba789031.webp",
+          "original_url": "https://img.promptplum.com/promptImages/78d695ad-6644-4e18-8fee-25caba789031.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/78d695ad-6644-4e18-8fee-25caba789031.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/78d695ad-6644-4e18-8fee-25caba789031.webp",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Brazil Soccer Player Mid-Air Kicking Action Photo AI Photo Editing Prompt. AI generated realistic action-sports photo of a Brazilian football player powerfully kicking a soccer ball mid-volley, surrounded by a packed stadium, national flags, and flying turf in golden hour sunlight."
+        }
+      ]
+    },
+    {
+      "id": "6a31994761276f872ab36114",
+      "title": "The Golden Football Champion",
+      "slug": "2026-football-championship-poster",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "Create a hyper-realistic 3:4 vertical world football championship 2026 promotional poster using the uploaded image only for face and identity reference. Preserve the person’s facial identity, face shape, hairstyle, beard, skin texture, eyes, and natural expression with high accuracy.\n\nThe subject stands confidently in the center, shown from waist to head, facing the camera with a serious, calm, leadership expression. He wears a premium bright yellow football jersey with realistic fabric texture and a black-and-white captain armband on one arm. Both hands hold a glowing metallic golden football at chest level, with realistic fingers, grip, highlights, and reflections.\n\nBehind him, create a large cinematic double-exposure side-profile portrait of the same person, facing toward the right horizon with a determined and ambitious look. Add huge soft-gold “2026” typography in the background, clean dark black-and-gold poster layout, luxury sports branding style, and a small trophy-inspired icon near the top. Add vertical championship text along the right side and a small bottom slogan: “BELIEVE. CONQUER. LEAD.”\n\nUse golden energy particles, sparks, light streaks, lens glow, and dynamic championship atmosphere around the football and subject. Lighting should be dramatic but clean, with sharp focus on the face, realistic skin detail, natural beard texture, detailed hair, premium retouching, and high-end sports magazine poster quality. Keep the design symmetrical, polished, cinematic, and professional, with a dark black-and-gold background and elite athlete advertising style.",
+      "description": "Cinematic Sports Poster Prompt: Copy & paste this prompt to create an epic 2026 championship poster of a soccer captain holding a glowing golden football.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 1129,
+      "copy_count": 1054,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "local_path": "images/football-soccer/075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "original_url": "https://img.promptplum.com/promptImages/075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "width": 896,
+          "height": 1200,
+          "alt": "Soccer Player 2026 Championship Poster AI Photo Editing Prompt. AI generated digital illustration of a soccer captain in a yellow jersey holding a glowing golden ball against a dramatic 2026 background."
+        }
+      ]
+    },
+    {
+      "id": "6a2a61db61276f872a2e2bc8",
+      "title": "Club Football Splash",
+      "slug": "football-player-poster-splatter-art",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference.\nCreate an ultra-realistic, cinematic 8K sports poster featuring a confident football player representing [TEAM_NAME]. The subject stands in a strong, confident pose, centered in the frame, making direct eye contact with the camera. He wears premium team apparel inspired by [TEAM_NAME], crest, and signature design elements.\nDynamic Theme Adaptation:\nReplace all colors with the official colors of [TEAM_NAME].\nReplace background flag, symbols, paint splashes, and visual effects with elements representing [TEAM_NAME].\nReplace the crest, jersey details, typography accents, and football graphics with [TEAM_NAME] branding.\nStadium lighting, crowd atmosphere, and visual energy should match the identity and spirit of [TEAM_NAME].\nComposition: Mid-thigh-up portrait, centered in the frame. Captured from an eye-level camera angle, with the subject fully visible and no head cropping.\nPose & Expression:\nThe subject stands strong upright posture, shoulders squared. Right arm is bent naturally at the elbow, securing a soccer ball against his hip, while the left arm hangs relaxed by his side. Calm, determined, championship-winning expression. Direct eye contact conveying confidence, pride, and leadership(no smile).\nOutfit:\nPremium [TEAM_NAME] Themed Matching Jersey. Official team crest on the chest, sponsor-free design, realistic fabric textures, embroidered details, and authentic sportswear styling.\nBackground:\nMassive distressed typography displaying \"[TEAM_NAME]\" across the upper background. Behind the subject, a large dynamic flag representing [TEAM_NAME] emerges through explosive paint splashes, smoke effects, energy streaks, and flying particles. A packed stadium with dramatic floodlights fills the lower background.\nEffects:\nHigh-energy sports-poster aesthetic, paint splatter textures, dynamic brush strokes, glowing stadium lights, cinematic smoke, floating particles, dramatic contrast, premium advertising campaign quality.\nTypography:\nLarge distressed \"[TEAM_NAME]\" title at the top.\nLighting:\nDramatic stadium floodlights, cinematic rim lighting, volumetric atmosphere, warm highlights, deep shadows, high contrast sports-advertisement lighting.\nTechnical Details:\nUltra-realistic, hyper-detailed skin texture, sharp facial features, HDR, professional sports campaign photography, 85mm lens, shallow depth of field, cinematic color grading, poster-quality composition, premium FIFA-style promotional artwork, 8K resolution.\nAspect ratio 4:5.",
+      "description": "Cinematic Sports Poster Prompt: Copy & Paste this prompt to create a hyper-realistic poster art of a football player with dynamic splatter art in a stadium.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 38,
+      "view_count": 1662,
+      "copy_count": 1019,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "local_path": "images/football-soccer/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Real Madrid Splash Art AI Photo Editing Prompt. AI generated digital portrait of Bellingham holding a ball in a stadium with blue and gold paint splashes."
+        },
+        {
+          "filename": "cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "local_path": "images/football-soccer/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Manchester United Player Splash Art AI Photo Editing Prompt. AI generated digital illustration of a clean-shaven man in a red Manchester United jersey holding a football, set against a stadium backdrop with dynamic ink splashes and waving team flags."
+        },
+        {
+          "filename": "e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "local_path": "images/football-soccer/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dynamic Football Player Stadium Splash Art AI Photo Editing Prompt. AI generated digital illustration of a player in a blue Paris Saint-Germain kit holding a football, surrounded by dynamic red and white paint splashes against a stadium background."
+        },
+        {
+          "filename": "b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "local_path": "images/football-soccer/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI-generated sports portrait of a male soccer player in a Juventus kit holding a football in a crowded stadium with dramatic ink splashes and an Italian flag under a large \"JUVENTUS\" title."
+        },
+        {
+          "filename": "e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "local_path": "images/football-soccer/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital illustration of a bearded player in a Bayern Munich kit holding a soccer ball in a packed stadium against a red paint splash background."
+        }
+      ]
+    },
+    {
+      "id": "6a1f1212a1c11604564335c4",
+      "title": "Aggressive Footballer Celebration Art",
+      "slug": "aggressive-footballer-celebration-art",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference. Preserve exact facial structure, proportions, skin tone, and natural imperfections.\nCreate an ultra-detailed 8K digital illustration in a dynamic watercolor and ink-splatter art style. Depict an athletic male soccer player captured in an explosive celebration moment, mouth wide open in a powerful scream, conveying raw passion, adrenaline, intensity, and victory. His right arm is raised high with a tightly clenched fist in a triumphant pose, while the body twists slightly for a sense of movement and energy. \n\nComposition & Framing:\nMid-shot composition (waist-up), vertical 4:5 aspect ratio. Subject positioned slightly off-center for a more cinematic and energetic balance. The raised arm extends dramatically upward into the frame, creating strong diagonal visual flow. Slightly low-angle camera perspective to emphasize dominance, power, and heroic presence.\n\nOutfit & Details:\nThe player wears a blue-and-crimson striped professional football jersey featuring a gold sponsor emblem, athletic insignia, and detailed crest patches. Fabric should appear dynamic with painted folds, sharp highlights, and stylized brush textures blending into the splatter effects. Jersey edges partially dissolve into expressive paint strokes and dripping watercolor textures.\n\nArt Style & Rendering:\nHighly expressive mixed-media illustration style combining watercolor washes, ink splashes, acrylic streaks, rough brush textures, and paint drips. Bold energetic splatter effects burst outward around the subject in red, blue, black, and metallic gold tones. Use aggressive brush marks, abstract paint explosions, and fluid dripping textures to create movement and emotional intensity.\n\nFacial Expression & Anatomy:\nStrong masculine facial structure with intense emotion, furrowed brows, open shouting mouth, visible teeth, and dramatic tension in the neck muscles. Athletic anatomy should appear powerful and stylized with exaggerated highlights and painterly shadow definition on the arms and shoulders.\n\nLighting & Color:\nBright high-contrast studio lighting with vivid saturated colors. Sharp highlights on skin and jersey combined with dramatic shadow depth. White background remains clean and minimal, allowing the colorful splashes and figure to dominate the frame. Use controlled contrast for a premium sports-poster aesthetic.\n\nBackground & Effects:\nPure white background with no environment or scenery. Surround the player with chaotic abstract splashes, ink streaks, paint drips, scattered droplets, and motion-inspired brush strokes radiating outward from the body. Add subtle flying paint particles and sharp directional streaks for added energy and motion.\n\nTechnical Details:\nHyper-detailed digital painting, ultra-sharp rendering, professional sports illustration aesthetic, crisp edges, dynamic brushwork, cinematic composition, expressive color blending, premium poster quality, masterpiece-level detailing, modern athletic artwork style, ultra-clean rendering, no blur, no muddy textures, no distortion.",
+      "description": "Watercolor Art Prompt: Copy & Paste this prompt to create a dynamic digital painting of an aggressive footballer celebrating amidst colorful paint splatters.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 51,
+      "view_count": 2102,
+      "copy_count": 1881,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "6ac6ea93-84d2-401b-b1ea-8e89e1201f0f.webp",
+          "local_path": "images/football-soccer/6ac6ea93-84d2-401b-b1ea-8e89e1201f0f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6ac6ea93-84d2-401b-b1ea-8e89e1201f0f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/6ac6ea93-84d2-401b-b1ea-8e89e1201f0f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/6ac6ea93-84d2-401b-b1ea-8e89e1201f0f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Triumphant Soccer Player Watercolor Art AI Photo Editing Prompt. AI generated digital illustration of a shouting footballer in a striped jersey raising his fist with vibrant red and blue paint splatters."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704d0",
+      "title": "The Power Strike",
+      "slug": "soccer-player-kicking-ball-action",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "A hyper-realistic, ultra-detailed 8K action sports photography shot of a athletic male soccer player with natural hair , intensely focused with his eyes locked on a classic black-and-white soccer ball. He is in the middle of a powerful, dynamic kick, with his left foot firmly planted on the grass and his right leg swinging forward. His arms are outstretched for balance. He is wearing a clean, vibrant red short-sleeved soccer jersey with white shoulder stripes a clear and stylish “PromptPlum” logo is printed in bold white text, properly aligned and naturally integrated with the fabric (not distorted, following fabric folds realistically, black athletic shorts, knee-high white socks, and silver/gray cleats with red accents. All subjects are fully visible from head to toe. Set on a lush green grass soccer pitch. The background is a beautifully blurred tree line with a faint white soccer goal on the right. Cinematic Golden Hour lighting with a warm sun glowing from the upper left, casting a beautiful rim light on the subject's hair and body, with a subtle natural lens flare. Low-angle hero shot. Recreated as if shot on a Sony A1, using an 85mm f1.4 lens, at f1.6 for a cinematic shallow depth of field and smooth bokeh, ISO 100, 1/2000 shutter speed to completely freeze the fast motion of the athlete. Pristine, elite, and highly detailed. Aspect Ratio: 4:5 (vertical).",
+      "description": "Action Sports Photography Prompt: Copy & Paste this prompt to generate a realistic image of a professional soccer player kicking a ball on a sun-drenched grass field.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 961,
+      "copy_count": 1448,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "soccer-player-kicking-ball-image-by-promptplum-1.webp",
+          "local_path": "images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-kicking-ball-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Soccer Player Kicking Ball AI Photo Editing Prompt. AI generated cinematic action portrait of a man in a red jersey kicking a soccer ball on a sunlit grassy field."
+        },
+        {
+          "filename": "soccer-player-kicking-ball-image-by-promptplum-3.webp",
+          "local_path": "images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-kicking-ball-image-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Soccer Player in Red Jersey AI Photo Editing Prompt. AI generated realistic digital illustration of a bearded man in a red jersey kicking a soccer ball on a grassy field at sunset."
+        },
+        {
+          "filename": "soccer-player-kicking-ball-image-by-promptplum-2.webp",
+          "local_path": "images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-kicking-ball-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-kicking-ball-image-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704bc",
+      "title": "The Stadium Glow",
+      "slug": "professional-footballer-portrait-stadium-background",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "Create a 8k hyper-realistic, cinematic full-body portrait of a professional soccer player standing confidently on a stadium pitch at night, designed to look like a premium social media sports photo.\nCentered, full-body framing with a slightly low camera angle. The body is turned slightly (around 10–20°), creating natural depth, while the face is oriented toward the camera for strong presence.\nThe player stands in a relaxed, confident way with one foot resting casually on a soccer ball. The stance feels effortless, with a subtle weight shift and natural asymmetry. Shoulders are slightly angled, not flat, adding a dynamic look without feeling posed.\nExpression is calm and self-assured with a subtle confident look and direct eye contact — not overly smiling, not intense, just natural confidence.\nWearing a modern professional white soccer kit with logos, realistic fabric texture and clean fit. The outfit should feel sharp and slightly enhanced, with natural folds and light catching on edges.\nA large packed stadium in the background with soft blur and bright stadium lights, creating depth. Add a subtle cinematic glow and gentle contrast so the subject stands out without looking artificial.\nLighting is clean but slightly enhanced — soft highlights on the face and a subtle rim light around the subject to create presence.\nUse natural but slightly boosted colors, clean skin tones, and a polished look while keeping realistic texture.\nShot in 4:5 aspect ratio, high detail, 50mm lens with shallow depth of field. The subject is sharp, background smoothly blurred.\nThe final image should look like a high-end Instagram sports post — realistic, slightly cinematic, confident, and visually striking without any AI artifacts.\nDo not change or alter the face and identity.",
+      "description": "Cinematic Sports Photography Prompt: Use this prompt to generate a realistic stadium portrait of a professional soccer player in a white kit standing with a ball under bright arena lights.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 1149,
+      "copy_count": 2404,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "local_path": "images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Real Madrid Player in Stadium AI Photo Editing Prompt. AI generated cinematic portrait of a man in a white football kit standing with a soccer ball on a pitch under stadium lights."
+        },
+        {
+          "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "local_path": "images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Soccer Player in White Kit AI Photo Editing Prompt. AI generated cinematic portrait of a soccer player in a white jersey standing with a ball in a packed stadium."
+        },
+        {
+          "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "local_path": "images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Soccer Player Cinematic Photography Prompt. AI generated cinematic portrait of a young athlete in a white football kit standing on a stadium pitch at night with a ball under his foot."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703de",
+      "title": "The Brazilian Number 10",
+      "slug": "brazilian-footballer-yellow-jersey",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "Create a full-body, ultra-realistic 4K studio portrait of a professional male football player standing centered against a seamless deep royal-blue studio background. The image should have a clean, high-end professional sports advertising aesthetic.\nThe athlete has a well-defined athletic build. His skin tone, hair color, hairstyle, facial structure, and beard (if present) must match the reference image exactly, preserving identity consistency. His expression is serious, focused, and confident, conveying the presence of a professional athlete.\nWardrobe:\n\nThe player is wearing a Brazil home football kit consisting of:\nYellow jersey with green trim and the number 10\nBlue shorts with the number 10\nWhite knee-high socks with green accents\nWhite football cleats\nHe holds a white soccer ball with black geometric patterns tucked naturally under his right arm.\nPose:\n\nThe subject stands in a strong hero stance, feet shoulder-width apart, body upright and symmetrical, facing directly toward the camera. Arms relaxed, posture confident and balanced, conveying strength and professionalism without exaggeration.\nComposition:\n\nFull-body long shot\nSubject centered both vertically and horizontally\nSlight negative space above the head and below the feet\nPoster-style composition\nVertical framing\nClean, distraction-free studio background\nLighting & Style:\n\nProfessional sports advertising photography with soft, controlled studio lighting, subtle rim lighting to separate the subject from the background, sharp focus, ultra-realistic detail, natural skin tones, and vibrant but realistic colors.\nAspect Ratio: 4:5",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a professional studio portrait of a soccer player in the iconic yellow Brazil jersey holding a ball against a solid blue background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 1950,
+      "copy_count": 1816,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-brazil-jersey-image-by-promptplum.webp",
+          "local_path": "images/football-soccer/man-in-brazil-jersey-image-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-brazil-jersey-image-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/man-in-brazil-jersey-image-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/man-in-brazil-jersey-image-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Brazil Football Player in Yellow Jersey AI Photo Editing Prompt. AI generated studio portrait of a man wearing a Brazil national football kit and holding a soccer ball against a solid blue background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703b5",
+      "title": "Unstoppable Force",
+      "slug": "soccer-player-knee-slide-rain-celebration",
+      "category": "Football / Soccer",
+      "category_slug": "football-soccer",
+      "prompt": "Use the uploaded image strictly for face and identity reference.\nSubject & Action: > A hyper-realistic, full-body portrait of a professional soccer player with a muscular build and a sharp jawline, kneeling on a wet grass pitch in a dramatic celebration. He is screaming with intense passion and triumph, eyes squeezed shut, muscles tensed.\nAttire & Details: > He wears a pristine white Real Madrid-style football kit (jersey and shorts) with \"Emirates Fly Better\" across the chest. The fabric is soaked, clinging to his physique, with visible water droplets and mud splatters.\nEnvironment & Atmosphere: > The scene is set in a massive, dark stadium at night under heavy, torrential rain. Bright, cool-toned stadium floodlights create a powerful rim-lighting effect, catching the falling rain and making the water droplets look like frozen crystals. As he slides on his knees, dark water and mud explode upward from the ground in a dynamic splash.\nStyle & Cinematic Quality: > Cinematic photography, shot on a 35mm lens with a low-angle perspective to make the subject look heroic. The color palette is desaturated and moody, dominated by cool blues, greys, and deep blacks, contrasted by the bright white of the kit. High contrast, sharp focus on the player’s skin textures and facial expression, with a slight motion blur in the splashing water. Ultra-HD, 8k resolution, Unreal Engine 5 render style.",
+      "description": "Use our 'Soccer Player Knee Slide Celebration in Heavy Rain' AI prompt to generate hyper-realistic football images. This prompt creates high-intensity scenes with dramatic lighting, mud splashes, and raw emotion, making it ideal for professional AI sports art.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 46,
+      "view_count": 1700,
+      "copy_count": 2795,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "local_path": "images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-2.webp",
+          "width": 1920,
+          "height": 2240,
+          "alt": "Cristiano Ronaldo in a Real Madrid kit, performing a knee-slide celebration in heavy rain. Cinematic stadium lighting with dramatic mud and water splashes."
+        },
+        {
+          "filename": "soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "local_path": "images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-3.webp",
+          "width": 1792,
+          "height": 2368,
+          "alt": "Real Madrid player in an intense knee slide celebration during heavy rain. Splashing water, muddy kit, and glowing stadium lights create a cinematic night scene."
+        },
+        {
+          "filename": "soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "local_path": "images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/football-soccer/soccer-player-knee-slide-celebration-in-heavy-rain-ai-prompt-1.webp",
+          "width": 1792,
+          "height": 2368,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

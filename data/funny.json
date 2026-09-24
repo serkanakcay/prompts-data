@@ -1,0 +1,67 @@
+{
+  "category": "Funny",
+  "slug": "funny",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:56:12Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670502",
+      "title": "Exaggerated 3D Avatar",
+      "slug": "exaggerated-3d-avatar",
+      "category": "Funny",
+      "category_slug": "funny",
+      "prompt": "Extreme 3D CGI cartoon of [character] extremely exaggerated proportions and oversized features for maximum comic effect. Head and shoulders portrait photo, incredibly styled with bold and dramatic expressions. Ultra soft matte materials. Character perspective. Saturated orange gradient background that creates a strong visual contrast. Soft lighting and ambient shadows for depth.",
+      "description": "Exaggerated 3D Avatar Prompt: Copy & paste this prompt to create expressive 3D character illustrations of characters with highly dramatic facial expressions on a bright orange background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 51,
+      "view_count": 1120,
+      "copy_count": 1881,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "local_path": "images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "width": 1888,
+          "height": 2246,
+          "alt": "Shocked Exaggerated Avatar AI Photo Editing Prompt. AI generated 3D illustration of a bearded man with an extreme surprised expression on an orange background."
+        },
+        {
+          "filename": "hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "local_path": "images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "width": 880,
+          "height": 1205,
+          "alt": "Grinning Exaggerated Avatar AI Photo Editing Prompt. AI generated 3D illustration of a blonde man with a massive, exaggerated smile on an orange background."
+        },
+        {
+          "filename": "hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "local_path": "images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "width": 1792,
+          "height": 2390,
+          "alt": "Startled Exaggerated Avatar AI Photo Editing Prompt. AI generated 3D illustration of a bearded man with a wide-eyed, surprised expression in a purple striped shirt on an orange background."
+        },
+        {
+          "filename": "hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "local_path": "images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/funny/hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "width": 1684,
+          "height": 2528,
+          "alt": "AI generated 3D illustration of a bald older man with glasses and a stressed, gritted-teeth expression on an orange background."
+        }
+      ]
+    }
+  ]
+}

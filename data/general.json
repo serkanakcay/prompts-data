@@ -1,0 +1,126 @@
+{
+  "category": "General",
+  "slug": "general",
+  "total_prompts": 2,
+  "updated_at": "2026-09-24T12:56:21Z",
+  "prompts": [
+    {
+      "id": "6a6cd3a44bbdbe2cf530973c",
+      "title": "Cinematic Blue and Amber Portrait",
+      "slug": "cinematic-portrait-dual-lighting",
+      "category": "General",
+      "category_slug": "general",
+      "prompt": "Create a highly detailed, photorealistic cinematic portrait of a confident man. He is wearing thin round silver metal-frame eyeglasses, a faded blue denim jacket layered over a black crew-neck T-shirt, and a delicate silver chain necklace.\nThe subject is captured in a chest-up composition with an eye-level camera. He is posed at a 3/4 right angle with a subtle upward chin tilt, creating a confident, modern editorial look. His expression is composed, self-assured, and effortlessly stylish while looking directly into the camera\nThe lighting features a dramatic cinematic dual-color setup: a bright vibrant blue light illuminating the left side of his face and jacket, while a bright warm amber/orange rim light softly highlights the right side of his face, neck, and shoulder. The lighting creates strong depth, contrast, and dimensionality and avoiding harsh shadows on the face.\nThe background is a smooth, dark navy-blue seamless studio backdrop with a subtle gradient, keeping all attention on the subject. Soft falloff, clean separation from the background, and gentle atmospheric contrast enhance the cinematic mood.\nCamera Settings: 85mm portrait lens, f/2.0 aperture, shallow depth of field, DSLR-quality, tack-sharp focus on the eyes, creamy background blur, high dynamic range, natural skin pores, realistic reflections on the eyeglasses, ultra-detailed fabric textures, and crisp facial hair details (if present).\nStyle: Premium fashion editorial, ultra-photorealistic, cinematic color grading, moody studio lighting, realistic skin texture, natural tones, 8K ultra-detailed, professional magazine-quality portrait, high contrast with soft highlight roll-off, no plastic skin, no over-processing, no beauty filters. Aspect ratio 4:5.",
+      "description": "Cinematic Portrait Photography Prompt: Copy & Paste this prompt to generate a realistic studio photo of a mustached man in a denim jacket with dual lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 62,
+      "view_count": 2450,
+      "copy_count": 1744,
+      "is_premium": false,
+      "published_at": "2026-07-31T16:56:04.288Z",
+      "images": [
+        {
+          "filename": "ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "local_path": "images/general/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/general/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/general/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "local_path": "images/general/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/general/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/general/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "local_path": "images/general/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/general/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/general/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-7"
+        },
+        {
+          "filename": "af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "local_path": "images/general/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/general/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/general/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "64592769-b3cf-4049-9008-469198461f65.webp",
+          "local_path": "images/general/64592769-b3cf-4049-9008-469198461f65.webp",
+          "original_url": "https://img.promptplum.com/promptImages/64592769-b3cf-4049-9008-469198461f65.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/general/64592769-b3cf-4049-9008-469198461f65.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/general/64592769-b3cf-4049-9008-469198461f65.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "local_path": "images/general/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/general/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/general/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "local_path": "images/general/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/general/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/general/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "width": 1468,
+          "height": 1600,
+          "alt": "Mustached Man in Denim Jacket Studio Portrait AI Photo Editing Prompt. AI generated digital portrait illustration of a serious man with round wire glasses and a prominent mustache, wearing a denim jacket and silver chain, against a dark background with blue and amber dual lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670273",
+      "title": "Snow-Capped Views",
+      "slug": "snow-capped-views",
+      "category": "General",
+      "category_slug": "general",
+      "prompt": "Ultra-realistic cinematic winter photo of a young man (use this face) standing on a snowy mountain viewing platform surrounded by dramatic Alpine peaks. He's wearing a black puffer jacket layered over a dark hoodie, with light beige pants. His short dark hair is neatly styled, his skin tone is fair, and his lips are slightly pink from the cold. He stands confidently near a metallic safety railing, one hand lightly touching his jacket while the other rests relaxed by his side. Behind him stretches a breathtaking panoramic view of towering snow-covered mountains and pine forests, illuminated by bright winter daylight under a clear blue sky streaked with thin white clouds. Lighting is natural, crisp, and cool -with sharp reflections on the snow and soft facial shadows, giving a fresh and elevated feeling. The overall atmosphere is modern, calm, and cinematic, like a lifestyle portrait captured in the Swiss Alps. Style: Ultra-realistic, bright natural daylight-medium. Create only a half-body portrait. The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 996,
+      "copy_count": 1271,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "local_path": "images/general/Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/general/Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/general/Screenshot-2025-12-05-at-11.10.54-PM.png",
+          "width": 1116,
+          "height": 1394,
+          "alt": "Gemeni Generated Image of A young man in a black puffer jacket and gray pants is standing outdoors, looking at the camera. He is on a snowy mountain viewing platform, with a dramatic background of snow-covered peaks, a forested slope, and a bright blue sky."
+        }
+      ]
+    }
+  ]
+}

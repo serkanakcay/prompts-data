@@ -1,0 +1,96 @@
+{
+  "category": "Film & Photography",
+  "slug": "film-photography",
+  "total_prompts": 2,
+  "updated_at": "2026-09-24T12:56:08Z",
+  "prompts": [
+    {
+      "id": "6aa9585446d4207dc2bbe809",
+      "title": "Cinematic Vintage Record Store Portrait",
+      "slug": "vintage-record-store-portrait",
+      "category": "Film & Photography",
+      "category_slug": "film-photography",
+      "prompt": "Create a photorealistic cinematic portrait of a young woman inside a dim, cozy vintage record store. Use a vertical 4:5 composition with a near-full-body view, keeping her entire body and shoes visible. Position her slightly left of center, casually leaning her upper body against a long wooden vinyl-record shelf on the left side of the frame. Her posture is relaxed and natural, with one arm resting loosely against the shelf, her legs extended slightly forward and her ankles casually crossed.\nShe wears an oversized black ribbed knit sweater, loose charcoal-gray trousers, worn off-white Converse-style canvas sneakers, and large black over-ear headphones. One hand hangs naturally beside her body while holding a vinyl record outer cover vertically by its edge.\nHer head is gently tilted slightly upward and back, eyes closed, with a peaceful, introspective expression, as though completely absorbed in the music. Avoid smiling or looking toward the camera.\nSurround her with long wooden record bins filled with vinyl sleeves. Show additional rows of records behind her, aged music posters and album artwork covering the upper walls, and three vintage yellow pendant lamps hanging prominently overhead. The background should remain recognizable while softly out of focus rather than heavily blurred.\nUse warm tungsten illumination from the pendant lamps mixed with a muted olive-green and amber cinematic color grade. Keep the room slightly dark and atmospheric, with gentle highlights on her face and hair, subtle shadows, floating dust particles, aged wood textures, and a nostalgic analog-film character.\nNatural skin texture, realistic fabric folds, authentic worn sneakers, candid body language, subtle 35mm film grain, soft highlight bloom, slightly faded colors, gentle optical softness and restrained contrast. Make it feel like a genuine cinematic still captured inside an old independent record shop, not a modern fashion shoot or digitally polished studio photograph. Approximate 50–70mm photographic perspective, shallow but controlled depth of field.\nFace match naturally with high accuracy.",
+      "description": "Copy this detailed AI prompt to generate a highly realistic, cinematic portrait of a girl in a vintage record store with a nostalgic analog film look.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 0,
+      "view_count": 295,
+      "copy_count": 167,
+      "is_premium": false,
+      "published_at": "2026-09-15T14:38:12.642Z",
+      "images": [
+        {
+          "filename": "60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "local_path": "images/film-photography/60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/film-photography/60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/film-photography/60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini AI Generated Photorealistic cinematic portrait of a young woman listening to music in a vintage record store"
+        }
+      ]
+    },
+    {
+      "id": "6aa7157646d4207dc28b9c61",
+      "title": "Cinematic 3-Frame Film Strip Portrait",
+      "slug": "cinematic-3-frame-film-strip-portrait",
+      "category": "Film & Photography",
+      "category_slug": "film-photography",
+      "prompt": "Using the uploaded photo as facial identity only; ignore its original pose, clothing, hairstyle, framing and background. Recreate the person as a cinematic character shown in a vertical 3-frame film strip. Keep the face recognizable and natural. Show slightly different poses or expressions in each frame with dramatic lighting, subtle film grain, rich contrast, and an authentic analog movie-still look.",
+      "description": "Copy this ChatGPT AI prompt to transform any uploaded photo into an authentic 3-frame cinematic film strip with vintage movie-still aesthetics.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 14,
+      "view_count": 1399,
+      "copy_count": 729,
+      "is_premium": false,
+      "published_at": "2026-09-13T21:28:22.198Z",
+      "images": [
+        {
+          "filename": "4f859c42-c7e0-4b20-bdd3-7b3bd05e545a.webp",
+          "local_path": "images/film-photography/4f859c42-c7e0-4b20-bdd3-7b3bd05e545a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4f859c42-c7e0-4b20-bdd3-7b3bd05e545a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/film-photography/4f859c42-c7e0-4b20-bdd3-7b3bd05e545a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/film-photography/4f859c42-c7e0-4b20-bdd3-7b3bd05e545a.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "ChatGPT AI Prompt for Vertical 3-frame vintage analog film strip portrait with cinematic lighting"
+        },
+        {
+          "filename": "02ea57b9-bb7d-4957-9b70-d01a0e9da115.webp",
+          "local_path": "images/film-photography/02ea57b9-bb7d-4957-9b70-d01a0e9da115.webp",
+          "original_url": "https://img.promptplum.com/promptImages/02ea57b9-bb7d-4957-9b70-d01a0e9da115.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/film-photography/02ea57b9-bb7d-4957-9b70-d01a0e9da115.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/film-photography/02ea57b9-bb7d-4957-9b70-d01a0e9da115.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "ChatGPT Image Sep 14, 2026, 02_20_03 AM"
+        },
+        {
+          "filename": "71751326-c485-4175-870d-e1eac6746a75.webp",
+          "local_path": "images/film-photography/71751326-c485-4175-870d-e1eac6746a75.webp",
+          "original_url": "https://img.promptplum.com/promptImages/71751326-c485-4175-870d-e1eac6746a75.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/film-photography/71751326-c485-4175-870d-e1eac6746a75.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/film-photography/71751326-c485-4175-870d-e1eac6746a75.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "ChatGPT Image Sep 14, 2026, 02_16_01 AM"
+        },
+        {
+          "filename": "56705a8a-a973-4380-bfe0-37183b751c52.webp",
+          "local_path": "images/film-photography/56705a8a-a973-4380-bfe0-37183b751c52.webp",
+          "original_url": "https://img.promptplum.com/promptImages/56705a8a-a973-4380-bfe0-37183b751c52.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/film-photography/56705a8a-a973-4380-bfe0-37183b751c52.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/film-photography/56705a8a-a973-4380-bfe0-37183b751c52.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "ChatGPT Image Sep 14, 2026, 02_31_48 AM"
+        }
+      ]
+    }
+  ]
+}

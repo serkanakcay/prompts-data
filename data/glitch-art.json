@@ -1,0 +1,57 @@
+{
+  "category": "Glitch Art",
+  "slug": "glitch-art",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:56:22Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca1526704ea",
+      "title": "Neural Glitch",
+      "slug": "abstract-glitch-art-male-profile",
+      "category": "Glitch Art",
+      "category_slug": "glitch-art",
+      "prompt": "Subject: A sharp, high-contrast side-profile portrait of a handsome man with intense eyes, sharp facial details, and styled textured dark hair, wearing a black leather jacket.\n\nStyle & Composition: A fusion of realistic photography and abstract digital glitch art. The subject is rendered in stark black and white, set against a clean, minimalist white background.\n\nColor Palette: Strictly monochromatic (deep blacks and bright whites) with aggressive, vibrant splashes of crimson red.\n\nGraphic Elements: > * Glitch Effect: The back of the head and the lower torso dissolve into abstract geometric shards, pixel sorting, and \"glitchy\" red brushstrokes.\n\nTexture: Gritty, ink-wash textures and distressed digital overlays that suggest a modern noir or cyberpunk editorial feel.\n\nLighting & Technicals: > * Lighting: Intense side-lighting (Chiaroscuro) creating deep shadows on the face to highlight bone structure.\n\nDetails: Hyper-realistic skin texture, individual hair strands visible, high-grain film aesthetic.\n\nFraming: Vertical 4:5 aspect ratio, medium close-up, strict side-profile.",
+      "description": "Double Exposure Glitch Art Prompt: Copy & Paste this prompt to generate a dramatic black and white profile of a man featuring sharp red geometric shattering effects against a clean background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 525,
+      "copy_count": 952,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-leather-jacket-red-glitch-art-portrait-by-promptplum-1.webp",
+          "local_path": "images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-leather-jacket-red-glitch-art-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Shattered Glitch Man Profile AI Photo Editing Prompt. AI generated digital glitch portrait of a bearded man in a leather jacket featuring red watercolor splatters and geometric shattering effects."
+        },
+        {
+          "filename": "man-leather-jacket-red-glitch-art-portrait-by-promptplum-2.webp",
+          "local_path": "images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-leather-jacket-red-glitch-art-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Man Leather Jacket Red Glitch Profile Portrait Prompt. AI generated digital illustration portrait of a bearded man in a leather jacket featuring red abstract glitch effects and geometric fragments."
+        },
+        {
+          "filename": "man-leather-jacket-red-glitch-art-portrait-by-promptplum-3.webp",
+          "local_path": "images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-leather-jacket-red-glitch-art-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/glitch-art/man-leather-jacket-red-glitch-art-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital art portrait of a man wearing a leather jacket with high-contrast black and white tones and red digital glitch fragments."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "category": "Futuristic",
+  "slug": "futuristic",
+  "total_prompts": 16,
+  "updated_at": "2026-09-24T12:56:12Z",
+  "prompts": [
+    {
+      "id": "6ab1656542ae1b78ac8407f9",
+      "title": "Golden Neon Ring Cinematic Portrait AI Prompt",
+      "slug": "golden-neon-ring-portrait",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Generate a vertical 4:5 cinematic fashion-editorial portrait of a person (reference), framed chest-up with a slightly low camera angle; subject in a strong 3/4 pose turned slightly to the right while keeping the gaze toward camera, chin subtly lifted, composed confident expression. Styling: luxury modern fashion with a sharply tailored black structured blazer featuring clean sculpted shoulders and a bold raised collar, layered over a fitted black high-neck inner top; refined tonal textures, polished premium finish, elegant editorial silhouette; clear or lightly tinted statement eyeglasses with thick frames; no logos. Background: deep near-black warm brown studio void (#0E0705) with large concentric neon light arcs sweeping behind the subject, forming bright golden rings and curved streaks; neon color #FFD15A with smooth bloom/halation. Lighting: primary motivated light from the neon arcs behind and slightly camera-left creating strong warm rim light on face, shoulders, and jacket; soft warm fill from front-right at low intensity to keep facial detail; emphasize specular highlights and glossy reflections on jacket panels and crisp catchlights/reflections in eyeglass lenses; high-contrast low-key exposure, warm color temperature ~2800–3200K, cinematic glow, subtle haze to enhance neon bloom. Lens/DOF: full-frame 85mm look, f/1.8–2.2 shallow depth of field; subject tack-sharp with micro-contrast on fabric stitching and skin texture, neon arcs softly blurred into creamy bokeh; clean vignette, minimal grain, premium editorial retouching. Mood: modern urban, sleek, futuristic-luxury, dramatic and intimate. Editorial, modern, high-detail, cinematic composition, ultra-realistic textures, professional fashion photography style.",
+      "description": "Unlock this versatile AI prompt to generate premium cinematic fashion portraits of men and women. Features glowing golden neon rings and clear glasses.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 9,
+      "view_count": 947,
+      "copy_count": 688,
+      "is_premium": false,
+      "published_at": "2026-09-21T17:12:05.099Z",
+      "images": [
+        {
+          "filename": "b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "local_path": "images/futuristic/b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/b6e19ec5-ae79-4d1c-8445-47590c50e2bf.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Photo Editing Prompt: Handsome man with dark wavy hair and a mustache wearing thick clear-framed glasses and a black blazer, framed by glowing golden neon circles."
+        },
+        {
+          "filename": "29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "local_path": "images/futuristic/29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/29cd55ac-f9f9-4390-b92f-74cff5eee5c6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Photo Prompt: Cinematic fashion portrait of a young woman with short brown hair wearing clear thick-frame glasses and a black blazer, standing in front of glowing golden neon rings."
+        },
+        {
+          "filename": "443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "local_path": "images/futuristic/443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/443b08e1-8d8e-4fbf-a897-1570e62bc10a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Images Generation Prompt: Dramatic low-key portrait of a bald man with a full beard wearing clear eyeglasses and a black suit jacket, standing in front of a warm golden neon ring light."
+        },
+        {
+          "filename": "d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "local_path": "images/futuristic/d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/d7af0077-c7d5-4dd7-8c3e-4802a0fc58d3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Prompt For Woman: High-end fashion portrait of a woman with dark hair in a top knot, wearing clear glasses and a black blazer, illuminated by warm neon ring lighting."
+        },
+        {
+          "filename": "146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "local_path": "images/futuristic/146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "original_url": "https://img.promptplum.com/promptImages/146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/146e35f5-b8fa-4702-a0f6-eeba008c5694.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Generated Cinematic editorial portrait of a man with dark hair and a short beard, wearing clear glasses and a black blazer, lit by vibrant golden neon circles."
+        },
+        {
+          "filename": "ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "local_path": "images/futuristic/ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/ba1c1460-568c-43cb-839b-236a034b3f9a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini AI Generated High-contrast portrait of a young woman with brown hair and clear eyeglasses, wearing a black tailored blazer with bright golden neon arcs behind her."
+        },
+        {
+          "filename": "c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "local_path": "images/futuristic/c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/c89540c8-57f7-4936-91f5-f36c33813284.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Image Prompt: Modern urban fashion portrait of a young man with short wavy hair, wearing clear glasses and a black jacket, highlighted by bright circular neon lights."
+        },
+        {
+          "filename": "c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "local_path": "images/futuristic/c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/c23064c1-79c5-4ca8-918f-429c8dab1c50.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Prompt: Premium portrait of a young woman with long wavy hair, wearing clear glasses and a black blazer, illuminated by a smooth glowing golden neon arc."
+        },
+        {
+          "filename": "002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "local_path": "images/futuristic/002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/002e6b90-7809-40df-bb70-8a476b9437b9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Generated Editorial portrait of a man with a mustache and clear glasses wearing a structured black jacket against a dark background with bright golden neon arcs."
+        },
+        {
+          "filename": "11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "local_path": "images/futuristic/11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "original_url": "https://img.promptplum.com/promptImages/11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/11e3cdb3-034b-49d4-84f2-706887a8aa63.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Prompt: Elegant woman with sleek dark hair pulled back, wearing thick clear glasses and a black structured blazer against a dramatic background of warm neon rings."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703df",
+      "title": "Digital Drifter",
+      "slug": "cyberpunk-futuristic-motorcycle-neon-city",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Create a photorealistic 4K cinematic portrait of a man sitting on an advanced futuristic custom motorcycle in a high-tech urban night environment. Use the uploaded reference image for accurate face matching and identity consistency.\nVery low-angle front three-quarter camera view, camera positioned close to ground level looking upward, making the motorcycle visually dominant and powerful in the frame. Full motorcycle visible, with properly exaggerated scale and presence compared to the rider. 85mm lens, shallow depth of field.\nThe rider wears aviator sunglasses, a black fitted hoodie, black cargo pants, and white sneakers. He sits upright on the motorcycle with a relaxed but confident posture, both hands resting on a matte black helmet placed on the tank. Expression calm and composed, looking toward the camera.\nThe motorcycle is a heavily customized futuristic concept machine with oversized proportions and advanced industrial design. Matte-black armored panels with sharp aerodynamic geometry, exposed mechanical elements mixed with futuristic components, illuminated seams, integrated red LED rim lighting, thin horizontal LED headlight strip, subtle glowing accents along body contours, extremely wide tires, massive rear wheel, and a sculpted, aggressive silhouette. The bike feels experimental and next-generation rather than modern-day.\nLighting: cinematic futuristic night lighting with neon and LED sources from the environment. Soft frontal key lighting ensures the subject and motorcycle remain clearly visible. Strong rim lighting from surrounding neon signage and vehicle lights creates separation and highlights edges of the bike and rider. Natural skin tones preserved with controlled reflections on sunglasses.\nEnvironment: futuristic urban industrial street at night with neon signage, holographic reflections, illuminated architectural elements, distant traffic light streaks, soft atmospheric haze, and wet pavement reflecting colored light sources. Background remains slightly out of focus to maintain subject dominance.\nHDR lighting, global illumination, ray-traced reflections, photorealistic materials, volumetric lighting, ultra-detailed cinematic realism.\nAspect ratio 4:5 or 1:1.",
+      "description": "Google Gemini AI Cinematic Photo Editing Prompt: Use this prompt to create a futuristic neon-noir visual of a stylish man posing with a matte black superbike against a glowing cyberpunk city background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 641,
+      "copy_count": 599,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "local_path": "images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cyberpunk Biker in Neon City AI Photo Editing Prompt. AI generated digital illustration of a man in a black hoodie and sunglasses posing with a futuristic motorcycle on a neon-lit urban street at night."
+        },
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "local_path": "images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "local_path": "images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cyberpunk Biker on Futuristic Motorcycle AI Photo Editing Prompt. AI generated cinematic digital illustration of a young man in a black hoodie and sunglasses posing on a matte black motorcycle with neon-glowing wheels in a rainy, futuristic city."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670399",
+      "title": "Neon Graffiti Edition",
+      "slug": "urban-techwear-portrait-neon-graffiti-background",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Use the uploaded image as a strict visual identity reference.\nThe subject’s facial structure, proportions, skin tone, hairstyle, skin texture, and natural facial details must remain photorealistic and human-accurate, extremely close to the reference.\nAbsolutely no cartoon, anime, 3D, CGI, illustration, game character, or plastic-skin look.\n\nNo stylization, no face drift, no reshaping.\n\nPreserve real human skin pores, micro-texture, natural shadows, and real camera depth.\nMain Concept\nCreate a dynamic, hyper-realistic, high-energy cyberpunk street-style poster of the same man, shot from a slightly low angle at street level, giving him a powerful, heroic presence.\n\nHe appears confident and serious, with one hand in his pocket, standing firmly with a relaxed but dominant stance.\nSubject & Wardrobe\nA stylish adult man with a sharp, modern look.\nOutfit (futuristic streetwear):\n\nBlack tech jacket with purple neon accents and piping\nHigh-neck black sweatshirt underneath\nModular black cargo pants with:\nUtility straps\nBuckles\nMetal rings\nTactical pockets\nRugged cyber-inspired sneakers with purple glowing highlights\nAccessories:\n\nNo jewelry\nNo hats\nExpression & Pose\nCalm, serious, and confident expression\nEyes forward, slightly intense\nUpright posture\nOne hand in pocket, the other relaxed\nLegs slightly apart for a grounded stance\n\nFull-body standing pose\n\nDominant, hero-style framing\n\nPositioned in front of the text\nBackground & Typography\nDark base background\n\nExplosive paint-splash textures in:\nPurple\nTeal\nEmerald green\nAbstract grunge patterns with high contrast\nText:\n\nLarge white cyberpunk graffiti-style name: “PROMPT PLUM”\n\nThick outline, glossy highlights, sharp edges\n\nPlaced behind the central full-body figure\nLighting & Mood\nNeon purple rim lighting around the subject\n\nSoft frontal fill light\n\nSubtle glow on shoes and jacket edges\n\nHigh contrast, poster-style cinematic lighting\nFinal Look\nUltra-sharp\n\nHyper-detailed\n\nPoster-quality\n\nCyberpunk street sports aesthetic\n\nHigh saturation, clean edges, dramatic contrast\nAspect Ratio: Vertical 4:5\nQuality: Realistic, ultra-high detail, real-human cinematic poster style",
+      "description": "Generate stunning urban night portraits with this exclusive AI prompt. Create high-impact visuals featuring techwear fashion, neon graffiti backgrounds, and cinematic lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 566,
+      "copy_count": 588,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "local_path": "images/futuristic/urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/urban-night-portrait-with-neon-graffiti-background-ai-prompt.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "A man in neon-lit techwear on a wet street. High-contrast purple and teal graffiti background featuring \"PROMPT PLUM\" in bold white text. Cinematic, futuristic urban vibe."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267038a",
+      "title": "Glitch Visionary",
+      "slug": "cyberpunk-man-digital-portrait-neon-lighting",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Use the uploaded image as the primary facial reference for structure, proportions, skin tone, hairline, and overall identity.\n\nPreserve natural facial likeness and expression. ❌ No beautification, no reshaping, no identity drift.\nCreate a semi-realistic, high-detail, cinematic cyberpunk portrait of a young man in a soft side-profile pose (not extreme), facing slightly to the right side of the frame.\nThe face remains clearly visible with realistic skin texture and subtle cyberpunk lighting reflections.\n\nExpression is calm, introspective, and quietly determined.\n\nHead slightly raised, chin gently lifted, eyes looking upward and off-frame — conveying future-focused confidence.\nAppearance & Styling (Cyberpunk)\nMatte black techwear hoodie with subtle neon piping and futuristic fabric texture\nTransparent cyber-glass eyewear with soft holographic reflections and HUD glow\nHair naturally styled with soft volume, lightly rim-lit by neon\nSubtle micro light accents along jawline and collar (not robotic, still human)\nRelaxed shoulders, balanced posture, composed stance\nBackground & Environment\nDeep, dark futuristic city void\nNeon moon hologram directly behind the head (cyan + magenta glow)\nMoon appears semi-digital with faint glitch texture, grid patterns, and glowing edges\nLight mist and floating digital particles in the air\nSubtle neon light trails fading into darkness\nSoft vignette with cyberpunk haze\nLighting\nDual rim lighting:\nCyan neon rim light from one side\nMagenta neon rim light from the opposite edge\nHolographic moon glow creates a soft halo behind the head\nVery soft ambient fill on the face\nFar side falls into controlled shadow with faint neon reflections\nGlasses reflect neon city lights subtly\nSmooth cinematic shadow transitions\nColor & Mood\nElectric cyan & magenta highlights\nDeep blue-black shadows\nSubtle purple undertones\nMuted blacks with neon edge glow\nFuturistic cinematic color grading\nHigh contrast, soft transitions\nArt Style\nHyper-detailed cyberpunk digital painting\nSemi-realistic with luxury sci-fi poster finish\nSoft glow + crisp edges\nClean, modern, emotionally powerful\nNo grain, no blur, no distortion\nAspect Ratio: 4:5",
+      "description": "Generate futuristic Cyberpunk Digital Portraits with this AI prompt. Create detailed characters with neon HUD glasses, techwear, and glowing holographic moons.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 511,
+      "copy_count": 406,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "local_path": "images/futuristic/cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/cyberpunk-digital-portrait-with-neon-lighting-ai-photo-editing-prompt.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Cyberpunk portrait of a man in neon glasses and a hoodie, haloed by a glowing glitchy moon. Vibrant cyan and magenta lighting fills the misty, futuristic atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670333",
+      "title": "Red Grid Protocol",
+      "slug": "red-grid-protocol",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Use the uploaded reference image as the absolute and locked facial identity source.\nSTRICT FACE MATCH — CRITICAL: The subject’s face must match the reference image 100% exactly. Do not alter facial structure, proportions, skin tone, jawline, nose, lips, eyes, or expression. No face beautification, no face swapping, no stylization.\n\nCreate a hyper-realistic, cinematic studio portrait of a young man captured in a vertical 4:5 aspect ratio. The framing is a tight chest-up portrait, centered and eye-level.\n\nHe has natural, styled dark hair, and wears thin rectangular metal-frame glasses. His expression is serious, intense, and focused, looking directly into the camera lens. He is dressed in a plain black crew-neck t-shirt with no text or logos.\n\nLighting:\nDramatic, moody cinematic lighting with strong contrast. A soft key light defines facial structure while deep shadows sculpt the face. A distinct crimson red rim light outlines the side of the face and hair, creating a sharp cinematic edge. Subtle atmospheric haze enhances light separation.\n\nBackground:\nDark futuristic cyberpunk-style environment, predominantly black, featuring faint glowing red geometric outlines, subtle warning triangles, abstract tech-interface graphics, and minimal HUD-style elements. The background remains soft-focused to maintain subject dominance.\n\nForeground Effects:\nOut-of-focus red laser beams or neon light streaks cut diagonally across the frame, adding depth, motion, and cinematic tension without obscuring the face.\n\nColor & Style:\nHigh-contrast palette dominated by deep blacks and intense crimson reds, clean highlights, controlled shadows, premium cinematic color grading.\n\nQuality:\nUltra-detailed 8K photorealistic texture, sharp skin detail, realistic fabric texture, professional studio photography look.\n\nNegative Prompts:\nface swap, altered face, beautified or stylized face, cartoon, anime, CGI, 3D render, plastic or waxy skin, over-smooth skin, distorted or asymmetrical face, wrong jawline or beard, changed skin tone, age or gender change, extra or missing facial features, double face, blurred face, over-retouching, incorrect or warped glasses.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 811,
+      "copy_count": 1252,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_tcvmdatcvmdatcvm.jpg",
+          "local_path": "images/futuristic/Gemini_Generated_Image_tcvmdatcvmdatcvm.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_tcvmdatcvmdatcvm.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Gemini_Generated_Image_tcvmdatcvmdatcvm.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Gemini_Generated_Image_tcvmdatcvmdatcvm.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: a portrait photograph of a young man in a futuristic, cyberpunk-style setting. He has dark, wavy hair and wears wire-rimmed glasses, looking directly at the camera with a serious expression. He is dressed in a black t-shirt. The scene is illuminated by dramatic red light, with multiple bright red laser beams crisscrossing in the foreground. The background is a dark, technological interface with glowing red circuit patterns and digital data displays, enhancing the sci-fi atmosphere. The overall mood is intense and mysterious, with the subject serving as the central focus amidst the technological elements."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267031b",
+      "title": "Strategic Vision",
+      "slug": "strategic-vision",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Using the uploaded reference image of the same young man, preserve 100% exact facial identity. Do not alter face shape, skin tone, facial structure, hairstyle, beard density, or identity in any way.\nCreate a high-contrast, editorial-style portrait poster with a modern, edgy, motivational design.\nSubject & Framing\n\nA young man is centered in the frame, facing straight toward the camera with direct eye contact. Expression is serious, calm, focused, and neutral. The portrait is tightly framed (head and upper shoulders only) for strong visual impact. Facial structure is sharp and well-defined. Hair is thick, dark, naturally textured, styled high on top with a slightly messy but intentional look.\nStyling\n\nHe wears thin, minimal eyeglasses with metallic or semi-transparent frames, slightly rounded at the bottom for a modern, intellectual feel. Outfit includes a black leather (or faux leather) jacket with a visible collar over a dark crew-neck t-shirt. A thin silver chain necklace is subtly visible.\nLighting (Asymmetric Editorial Lighting)\n\nDirectional studio lighting with intentional imbalance: the right side of the face is brighter, softly illuminated with clean highlights, while the left side falls into deeper shadow, creating a dramatic, sculpted editorial look. Subtle shadows appear under the nose and lower lip. Smooth tonal transitions, no harsh spill, magazine-quality lighting.\nColor Treatment\n\nEntire image is monochrome / grayscale. Skin tones transition smoothly from deep shadow to soft highlight. Hair and jacket remain deep charcoal to near-black. Background is neutral gray with subtle texture.\nOnly accent color: bold, saturated red (#FF0000).\nGraphic Overlays (IMPORTANT)\n\nA bold asymmetrical red eye overlay is placed over the subject’s right eye. It is not a full rectangle and has no complete outline—only one strong bold edge on the left side, with other sides open or implied. The red shape partially covers the right eye, allowing facial features and glasses to remain visible beneath a subtle red tint. The effect feels like a cropped, futuristic targeting mark.\n\nA second minimal red geometric element (partial bracket or line segment) floats near the right side of the head, adding balance and tension. Overlays are sharp, minimal, editorial, and intentionally incomplete.\nTypography & Layout\n\nBehind the subject on the left side, vertical background typography runs upward in large, bold, condensed sans-serif letters in dark gray or black, partially hidden by the face. Visible fragments include: “PAUL”, “SOM”, “NDRA”, “AL”.\n\nForeground text in the bottom-right corner reads:\nWORK\nSMART\n\nAll caps, bold condensed sans-serif, stacked layout, colored in the same vibrant red.\nLogo\n\nA small stylized red “S” logo, italicized and blocky, positioned near the subject’s right shoulder (viewer’s left).\nMood & Concept\n\nFocus, intelligence, precision, ambition, and modern thinking. The lighting contrast reinforces duality—calm vs power, logic vs intensity. The red eye overlay symbolizes vision, targeting, and strategy.\nAspect Ratio & Quality\n\nVertical poster format 4:5. Ultra-sharp details, clean edges, professional graphic design finish.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 996,
+      "copy_count": 1706,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "local_path": "images/futuristic/Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: a striking, high-contrast portrait of a young man with messy dark hair, wearing round wire-rimmed glasses and a black leather jacket. The image creates a bold, editorial aesthetic by combining a black-and-white base with vivid red graphical accents. A red rectangular overlay covers his left eye, suggesting a futuristic or cybernetic theme, while large, vertical black typography frames the left side. In the bottom right corner, the motivational phrase \"WORK SMART\" is displayed in bold red letters along with a small logo."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670293",
+      "title": "Neon Flow",
+      "slug": "neon-flow",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Use the uploaded photo to face reference and create A full-body studio shot of a stylish young man in a dynamic, mid-motion dance pose(naturally) and maintain the eye contact with camera. He is wearing a sleek, light grey zip-up bomber jacket over a black t-shirt with glowing text, dark grey fitted trousers, and white sneakers with illuminated cyan blue LED soles. A vibrant, swirling electric cyan neon light trail spirals around his body in a 3D ribbon effect. On the ground, there are glowing neon magenta and cyan rings. The background is a solid dark grey seamless studio backdrop. The lighting is high-end commercial fashion style, sharp focus, hyper-realistic, 8k resolution, cinematic lighting, cyberpunk streetwear aesthetic, light painting photography style.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 665,
+      "copy_count": 814,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_rx7r3wrx7r3wrx7r.jpg",
+          "local_path": "images/futuristic/Gemini_Generated_Image_rx7r3wrx7r3wrx7r.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_rx7r3wrx7r3wrx7r.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Gemini_Generated_Image_rx7r3wrx7r3wrx7r.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Gemini_Generated_Image_rx7r3wrx7r3wrx7r.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini Generated Image: A young man in a light jacket and dark clothes is performing a dynamic dance pose, surrounded by bright, glowing blue neon rings that spiral around him. He is wearing white sneakers with glowing blue soles. The words \"CYBER DANCE\" are visible on his t-shirt in neon blue. Pink and blue neon rings are on the floor around him."
+        },
+        {
+          "filename": "Screenshot-2025-12-09-at-7.37.57-PM.png",
+          "local_path": "images/futuristic/Screenshot-2025-12-09-at-7.37.57-PM.png",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-09-at-7.37.57-PM.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Screenshot-2025-12-09-at-7.37.57-PM.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Screenshot-2025-12-09-at-7.37.57-PM.png",
+          "width": 396,
+          "height": 514,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670286",
+      "title": "Digital Theory",
+      "slug": "digital-theory",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "A hyper-realistic portrait of a man wearing bright yellow neon glasses, his face illuminated with glowing mathematical formulas and physics equations. Warm golden light reflects from his glasses onto his skin. The man has a serious, intelligent expression, short-styled hair, and a trimmed beard. His yellow puffer jacket also glows with floating equations and symbols, giving a futuristic holographic effect. Dark teal bokeh lights in the background create depth and contrast. Ultra-detailed skin texture, cinematic lighting, sharp focus, high-contrast neon glow, sci-fi aesthetic, 8K, volumetric light, depth of field, crisp reflections.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 4,
+      "view_count": 406,
+      "copy_count": 292,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_qhjrebqhjrebqhjr-1.jpg",
+          "local_path": "images/futuristic/Gemini_Generated_Image_qhjrebqhjrebqhjr-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_qhjrebqhjrebqhjr-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Gemini_Generated_Image_qhjrebqhjrebqhjr-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Gemini_Generated_Image_qhjrebqhjrebqhjr-1.jpg",
+          "width": 1299,
+          "height": 1590,
+          "alt": "Gemini Generated Image: A man resembling Tony Stark/Iron Man is shown in a close-up portrait. He wears a bright yellow jacket and glowing yellow glasses. The glasses and the air around him are covered in mathematical equations and formulas glowing in yellow light, suggesting intelligence or a high-tech interface. The background is dark and blurry with turquoise/blue lights."
+        },
+        {
+          "filename": "Which-Marvel-Film-Has-Made-the-Most-Money_-Heres-the-Whole-List.jpeg",
+          "local_path": "images/futuristic/Which-Marvel-Film-Has-Made-the-Most-Money_-Heres-the-Whole-List.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/Which-Marvel-Film-Has-Made-the-Most-Money_-Heres-the-Whole-List.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Which-Marvel-Film-Has-Made-the-Most-Money_-Heres-the-Whole-List.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Which-Marvel-Film-Has-Made-the-Most-Money_-Heres-the-Whole-List.jpeg",
+          "width": 728,
+          "height": 1092,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670285",
+      "title": "The Cybernetic Oracle",
+      "slug": "the-cybernetic-oracle",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Create an ultra-realistic futuristic humanoid portrait in a vertical 4:5 aspect ratio. The composition is a centered, symmetrical head-and-upper torso shot with balanced negative space and no cropping of the head or shoulders. The subject’s eyes are closed, conveying a calm, meditative, and serene expression, with relaxed facial muscles and a perfectly neutral pose.\nThe subject has no outfit, with the upper body bare and cleanly visible (non-explicit), allowing full focus on the glowing bio-energy system across the skin.\nThe skin features hyper-detailed, glowing turquoise bio-energy lines flowing seamlessly across the face, neck, shoulders, and upper torso, designed like advanced neural circuits and energy veins. These luminous patterns should feel anatomically integrated and softly embedded beneath the skin, emitting a subtle, ethereal glow without overpowering natural skin texture. Maintain realistic pores and fine skin detail—no plastic or overly smooth finish.\nHair is sleek, voluminous, and naturally styled, with subtle teal rim highlights reflecting the glow of the energy lines. No exaggerated or artificial strands—keep it grounded in realism with controlled shine.\nBackground is a dark, futuristic sci-fi environment with a soft blur, featuring faint holographic UI elements, abstract data fragments, and distant city-like structures. Ensure the background remains defocused to keep full emphasis on the subject.\nLighting is cinematic and controlled: soft frontal key light for facial clarity, combined with cool cyan/turquoise rim lighting from both sides and behind to enhance the glowing circuitry. Add subtle volumetric haze and atmospheric diffusion to create depth and a holographic aura effect.\nOverall mood is serene, advanced, and slightly surreal—blending human realism with futuristic augmentation. Style should feel like high-end cinematic photography mixed with expert Photoshop compositing (no CGI or cartoon rendering). Ultra-sharp focus, high dynamic range, 8K quality, detailed, moody, and atmospheric.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 3,
+      "view_count": 387,
+      "copy_count": 169,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251207_233747-1.jpg",
+          "local_path": "images/futuristic/IMG_20251207_233747-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251207_233747-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/IMG_20251207_233747-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/IMG_20251207_233747-1.jpg",
+          "width": 1254,
+          "height": 1668,
+          "alt": "Gemini Generated Image: A digital art of a man with his eyes closed, featuring glowing, teal-colored circuit lines across his face, neck, and upper body, set against a dark, futuristic city background. He looks like a cyborg or AI entity."
+        },
+        {
+          "filename": "Gemini_Generated_Image_iivgi3iivgi3iivg.jpg",
+          "local_path": "images/futuristic/Gemini_Generated_Image_iivgi3iivgi3iivg.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_iivgi3iivgi3iivg.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Gemini_Generated_Image_iivgi3iivgi3iivg.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Gemini_Generated_Image_iivgi3iivgi3iivg.jpg",
+          "width": 604,
+          "height": 828,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267026f",
+      "title": "The Digital Octopus",
+      "slug": "the-digital-octopus",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "A cinematic sci-fi shot of a young man with visible mechanical tentacle-like robotic arms emerging from his back, set in an outdoor nighttime scene with a modern background.\nThe man is wearing round sunglasses, a dark turtleneck sweater, a charcoal heavy coat, and a white Apple Watch. His head is tilted slightly backward as one of the metallic tentacles, featuring red eyes and claws, approaches his face.\nThe robotic arms are made of segmented, weathered steel with visible joints, wires, and clamps, giving them a powerful and futuristic appearance.\nDo not alter the facial features; keep them 100% identical to the reference.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 10,
+      "view_count": 438,
+      "copy_count": 339,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764949799386.png",
+          "local_path": "images/futuristic/1764949799386.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764949799386.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/1764949799386.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/1764949799386.png",
+          "width": 960,
+          "height": 1088,
+          "alt": "Gemini Generated image of a stylish man in a black turtleneck and overcoat wearing round sunglasses and a smartwatch, standing on a rainy, futuristic city street at night. He is dramatically framed by several metallic, tentacle-like mechanical arms extending from behind him."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670255",
+      "title": "Heart of the Green Crystal",
+      "slug": "heart-of-the-green-crystal",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Create an image of a person, maintaining the exact facial features from the reference photo provided. A hyperrealistic, cinematic, and intensely detailed portrait of a handsome man in his early 30s with dark, neatly styled hair and a short, well-groomed beard. He wears a dark, futuristic, and highly textured hooded jacket or cloak, adorned with intricate, glowing emerald-green crystalline patterns and a prominent circular energy core emitting a radiant green light on his chest. His gaze is direct and piercing, with his eyes reflecting the green luminescence. Shards of glowing green energy or shattered crystal fragments are exploding and suspended in motion around him, creating a dynamic sense of power and motion. The background is dark and smoky, subtly illuminated by the pervasive green light, enhancing the mysterious and powerful atmosphere. The lighting is dramatic, with strong chiaroscuro effects, highlighting the glowing elements and casting deep shadows, giving the image a dark fantasy or sci-fi superhero aesthetic. Keywords: Hyperrealism, cinematic, glowing emerald green, crystalline armor, sci-fi fantasy, dark hero, exploding energy shards, dramatic lighting, intense gaze, 8K, intricate details.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 18,
+      "view_count": 590,
+      "copy_count": 736,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251203_204341.jpg",
+          "local_path": "images/futuristic/IMG_20251203_204341.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251203_204341.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/IMG_20251203_204341.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/IMG_20251203_204341.jpg",
+          "width": 1792,
+          "height": 2375,
+          "alt": "Gemini Generated Image: A handsome man with a beard and intense green eyes, wearing a dark, hooded outfit adorned with glowing, shattered green crystals."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267024b",
+      "title": "The Frontman's Stare",
+      "slug": "the-frontmans-stare",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "“Use the face from the reference image, same hairstyle, same skin tone, same facial structure.”\n“Create a dramatic cinematic portrait of a young man standing in a dark futuristic room illuminated with red neon lights. He is wearing a sleek black leather tactical suit with sharp seams and a high collar. His expression is intense and confident. Behind him, several masked guards stand in red hooded jumpsuits with black face masks displaying white geometric symbols (circle, triangle, square). The atmosphere is mysterious, tense, and high-contrast like a dystopian survival game. Ultra-detailed skin texture, realistic lighting, sharp focus, glossy leather material, deep shadows, 8K quality, moody sci-fi tone.”",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 549,
+      "copy_count": 583,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251202_220851.jpg",
+          "local_path": "images/futuristic/IMG_20251202_220851.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251202_220851.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/IMG_20251202_220851.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/IMG_20251202_220851.jpg",
+          "width": 1728,
+          "height": 2364,
+          "alt": "Gemini Generated Images: a handsome man in a black leather jacket standing in a dark, red-lit corridor. Behind him, four figures in red hooded jumpsuits and black masks (like those from the show Squid Game), each displaying a circle, triangle, or square shape, are standing out of focus. The overall mood is intense and dramatic."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267022c",
+      "title": "Urban Explorer's Golden Hour",
+      "slug": "urban-explorers-golden-hour",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "edit this image — transform the photo into a high-end street-photography portrait of a traveler/photographer leaning casually on a lamp post in front of a historic tower. Keep the original pose and composition: standing with left leg bent and foot on the lamp base, right leg relaxed, left hand in jacket pocket, right hand holding a camera down by the thigh, shoulders slightly turned to camera, chin up and gaze off-frame. Preserve the camera, beard and textured jacket but enhance and stylize as follows:\n\nWardrobe & accessories: keep the dark parka/jacket but enrich fabric texture (subtle waxed canvas look), change inner hoodie to a soft charcoal knit, keep blue jeans but slightly deepened to rich indigo with natural creasing. Emphasize the high-top sneakers — boost contrast on black-and-white panels and add faint scuff details for realism. Add a small messenger bag strap across the chest and a compact leather wrist strap on the camera.\nLighting & color: cinematic cool-tone grade (soft blue shadows) with warm golden rim light hitting the left side of the face and shoulder (suggest late-afternoon sun). Slightly boost contrast and midtones to create punch without losing skin detail. Add subtle film grain and gentle vignette to focus on the subject.\nCamera & optics: emulate 35mm–50mm prime look, shallow DOF (f/1.8–2.8) so the tower and crowd become painterly bokeh while the subject remains razor-sharp. Slight perspective correction to emphasize the tower peek behind his shoulder. Enhance catchlight/reflection in the eyes (or sunglasses reflection if present) and sharpen camera details.\nBackground & atmosphere: keep the busy pedestrian scene but soften and desaturate it so the subject pops; raise clarity and texture on the stone tower so it reads as a strong architectural anchor. Add a few falling autumn leaves and a faint wet-pavement sheen to suggest recent rain (subtle reflections under shoes).\nFinal touches: natural skin retouching (preserve stubble and pores), boost micro-contrast on jacket and jeans, accentuate lens/glass reflections on the camera. Export as photorealistic, vertical 4K editorial crop with high detail.\nPosition (short): standing, left foot on lamp base, leaning against lamppost, camera in right hand, left hand in pocket, gaze off-frame.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 1711,
+      "copy_count": 3796,
+      "is_premium": false,
+      "published_at": "2026-08-14T23:15:49.658Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_d1nisid1nisid1ni-1.png",
+          "local_path": "images/futuristic/Gemini_Generated_Image_d1nisid1nisid1ni-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_d1nisid1nisid1ni-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Gemini_Generated_Image_d1nisid1nisid1ni-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Gemini_Generated_Image_d1nisid1nisid1ni-1.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Ai Generated: A photorealistic, high-end street-photography portrait features a male traveler with a camera, leaning casually against a lamppost in front of a historic stone tower, captured with shallow depth of field, cinematic lighting, and a cool-toned edit"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267022b",
+      "title": "Turquoise Fashion Editorial Portrait",
+      "slug": "turquoise-fashion-editorial-portrait",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Use the uploaded reference image strictly as the ONLY face reference. Create a hyper-realistic, high-end fashion editorial portrait of the subject in a medium shot, body turned slightly to the right with a subtle head tilt and direct, confident gaze toward the camera, maintaining a calm, neutral yet powerful expression.\nThe subject is wearing a modern, fitted turquoise leather jacket #046b7a, with ultra-realistic texture, fine grain detail, and a soft, natural sheen. Include metallic zippers and buttons with subtle, accurate reflections. Add mirrored teal sunglasses with realistic studio reflections to enhance a premium urban aesthetic.\nThe background must be a seamless studio backdrop in exact color #046b7a, with a soft vignette effect — edges gradually darken in the same hue (no color shift, only luminance variation), creating depth while keeping the center slightly brighter behind the subject. No gradients that change hue, no banding, perfectly smooth infinite backdrop (no visible horizon or edges).\nUse a professional studio lighting setup: soft diffused key light from the front-left (large softbox), balanced fill light from the right to preserve natural skin texture, and a subtle rim light outlining the hair and shoulders for clean separation from the background.\nShot as if on a Sony A7R IV with an 85mm lens at f/1.8, ISO 100, 1/160s, ensuring tack-sharp focus on the face with minimal background blur. Apply a modern editorial cool-tone grade, dominated by #046b7a and natural skin tones, with high contrast and refined sharpness while preserving realistic skin texture (visible pores, no plastic skin).\nFinal image should feel clean, vibrant, cinematic, and premium, suitable for a luxury fashion campaign or magazine cover.\nKeywords: ultra-realistic, 8K, HDR, exact color #046b7a, vignette background, studio lighting, fashion editorial, sharp focus, depth of field, monochrome tone, premium portrait, leather texture, cinematic cool tone, modern luxury.\nAspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 58,
+      "view_count": 1451,
+      "copy_count": 3918,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_gko0gcgko0gcgko0-1.png",
+          "local_path": "images/futuristic/Gemini_Generated_Image_gko0gcgko0gcgko0-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_gko0gcgko0gcgko0-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Gemini_Generated_Image_gko0gcgko0gcgko0-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Gemini_Generated_Image_gko0gcgko0gcgko0-1.png",
+          "width": 896,
+          "height": 1152,
+          "alt": "Gemini Ai generated image of A stylish man with dark hair and a beard, wearing a turquoise leather jacket and mirrored teal sunglasses, gazes confidently at the viewer against a monochromatic turquoise background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267021e",
+      "title": "Confident innovation bright future",
+      "slug": "confident-innovation-bright-future",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Use the uploaded reference image strictly as the ONLY face reference. Preserve exact facial structure, proportions, skin tone, hair texture, and identity.\nA young adult individual is captured mid-action in a modern, minimalist innovation workspace. The subject is standing in a relaxed yet confident stance, body slightly angled, one leg subtly crossing forward. One hand is raised and interacting with a transparent floating holographic interface (futuristic UI panel), fingers gently extended as if navigating data. The other hand rests naturally on a sleek white minimalist table beside them.\nOutfit & Styling:\nWearing a tailored, slightly oversized pastel blue blazer over a clean white crew-neck t-shirt (tucked in), paired with high-waisted dark tailored trousers and minimal white sneakers. Outfit is modern, professional, and effortlessly stylish.\nExpression & Pose:\nExpression is calm, focused, and intellectually engaged with a slight contemplative look. Gaze directed slightly off to the left toward the holographic interface (not looking at camera). Natural posture, confident and composed.\nEnvironment & Background:\nFuturistic innovation lab / high-end co-working space with floor-to-ceiling glass windows. Outside shows a bright, lush green cityscape with distant modern skyscrapers softly blurred. Interior is clean, minimal, and premium with no clutter. Subtle transparent UI graphics floating near the subject.\nThe table is placed on the right, slightly behind the subject, kept subtle with low contrast and minimal visual weight so the subject remains dominant.\nLighting Setup:\nSoft natural daylight entering from large windows behind and slightly to the side. Balanced exposure on face (no silhouette). Gentle rim light outlining hair and blazer edges. Soft shadows on floor, no harsh contrast.\nComposition & Camera:\nFull-body shot, head-to-toe visible (no cropping)\nSubject centered slightly left of frame\nTable positioned on right side for balance\nEye-level to slightly low angle (subtle power perspective)\n50mm lens, f/2.8 aperture\nShallow depth of field with smooth background blur\nClean, symmetrical framing with ample negative space\nTechnical Details:\nUltra-realistic, 8K resolution, sharp focus on subject, cinematic color grading, natural skin texture (visible pores), no CGI/plastic look, high dynamic range, realistic reflections on glass UI.\nAspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 864,
+      "copy_count": 1108,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_78u9a178u9a178u9-1.png",
+          "local_path": "images/futuristic/Gemini_Generated_Image_78u9a178u9a178u9-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_78u9a178u9a178u9-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/Gemini_Generated_Image_78u9a178u9a178u9-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/Gemini_Generated_Image_78u9a178u9a178u9-1.png",
+          "width": 896,
+          "height": 1152,
+          "alt": "Ai generated image of a adult female in office modern style"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670202",
+      "title": "Fashion in lemon green studio",
+      "slug": "fashion-in-lemon-green-studio",
+      "category": "Futuristic",
+      "category_slug": "futuristic",
+      "prompt": "Create a high-end, minimalist fashion editorial studio portrait. Use the uploaded image strictly as a reference for the subject's face and identity, preserving their exact facial structure, proportions, skin tone, and natural features with no alterations.\nSubject: Well groomed stylish man.\nPose: The subject is seated on a clean white cube in a relaxed yet structured posture. The left foot is placed slightly forward toward the camera, while the right foot is pulled slightly back, creating natural depth and asymmetry. The legs are comfortably apart, with the hands resting loosely between the knees. The expression is confident and energetic, with direct eye contact and no smile.\nOutfit: An oversized, crisp white sweatshirt paired with oversized lemon-green cargo-style combat trousers featuring visible utility pockets and elasticated cuffs. Styled with white ribbed crew socks and muted lemon-green sneakers that complement the overall palette.\nComposition: Full-body vertical portrait in a 3:4 aspect ratio, centered with balanced negative space on both sides. The subject occupies approximately 65–70% of the frame height, with no cropping at the head or feet.\nBackground: A seamless, muted lemon-green studio infinity cove, where the floor blends smoothly into the wall with no visible edges, seams, or color inconsistencies.\nLighting: Soft, diffused studio lighting with a frontal key light and subtle fill, producing even skin tones, gentle shadows, and a clean editorial look without harsh contrast.\nCamera: Eye-level angle, 50mm lens, sharp focus on the subject with a slight background falloff. Ultra-realistic detail with natural skin texture (no smoothing or plastic appearance), 8K resolution, professional fashion editorial photography.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 2049,
+      "copy_count": 4773,
+      "is_premium": false,
+      "published_at": "2026-09-18T13:48:17.054Z",
+      "images": [
+        {
+          "filename": "42951b8e-f667-4f6f-9a61-78c737c19a88.webp",
+          "local_path": "images/futuristic/42951b8e-f667-4f6f-9a61-78c737c19a88.webp",
+          "original_url": "https://img.promptplum.com/promptImages/42951b8e-f667-4f6f-9a61-78c737c19a88.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/42951b8e-f667-4f6f-9a61-78c737c19a88.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/42951b8e-f667-4f6f-9a61-78c737c19a88.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_3u1y73u1y73u1y73"
+        },
+        {
+          "filename": "d6639125-0675-4e8a-a545-6ea8826dc9fd.webp",
+          "local_path": "images/futuristic/d6639125-0675-4e8a-a545-6ea8826dc9fd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d6639125-0675-4e8a-a545-6ea8826dc9fd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/d6639125-0675-4e8a-a545-6ea8826dc9fd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/d6639125-0675-4e8a-a545-6ea8826dc9fd.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_m7vcqhm7vcqhm7vc"
+        },
+        {
+          "filename": "c7e2ffe4-adc1-4a70-8e03-f536af93a6c8.webp",
+          "local_path": "images/futuristic/c7e2ffe4-adc1-4a70-8e03-f536af93a6c8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c7e2ffe4-adc1-4a70-8e03-f536af93a6c8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/c7e2ffe4-adc1-4a70-8e03-f536af93a6c8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/c7e2ffe4-adc1-4a70-8e03-f536af93a6c8.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_wwxlrfwwxlrfwwxl"
+        },
+        {
+          "filename": "88a0340c-2f56-4800-8def-2fd4d5681f8b.webp",
+          "local_path": "images/futuristic/88a0340c-2f56-4800-8def-2fd4d5681f8b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/88a0340c-2f56-4800-8def-2fd4d5681f8b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/futuristic/88a0340c-2f56-4800-8def-2fd4d5681f8b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/futuristic/88a0340c-2f56-4800-8def-2fd4d5681f8b.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_g1eci2g1eci2g1ec"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "category": "Geometric Portrait",
+  "slug": "geometric-portrait",
+  "total_prompts": 3,
+  "updated_at": "2026-09-24T12:56:21Z",
+  "prompts": [
+    {
+      "id": "6aac885e46d4207dc2fea74a",
+      "title": "Stylized Geometric 3D Vector",
+      "slug": "geometric-3d-vector-portrait",
+      "category": "Geometric Portrait",
+      "category_slug": "geometric-portrait",
+      "prompt": "Stylized digital illustration blending vector and 3D effects. High geometric definition, sharp-contoured 3D graphic style. Close-up portrait of the subject, low-angle shot, subject looking diagonally upwards, with exaggeratedly large and comedic eyes; thick natural color arched eyebrows, a highly recognizable big nose, an elongated neck, and wearing a black T-shirt.\nImage characteristics: crisp angular planes, smooth gradients, intricate shadows, geometric natural color hair, strong light and shadow contrast. The subject is placed alone on a pure, vibrant deep-red solid color studio background, with a resolution of 300 dpi, and a minimalist, elegant graphic design aesthetic.",
+      "description": "Copy this reusable AI prompt to generate stylized 3D vector portraits with crisp geometric features, large comedic eyes, and a bold red background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 924,
+      "copy_count": 483,
+      "is_premium": false,
+      "published_at": "2026-09-18T10:19:27.375Z",
+      "images": [
+        {
+          "filename": "b0408ce2-23e8-4165-897d-25f3229f57f1.webp",
+          "local_path": "images/geometric-portrait/b0408ce2-23e8-4165-897d-25f3229f57f1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b0408ce2-23e8-4165-897d-25f3229f57f1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/b0408ce2-23e8-4165-897d-25f3229f57f1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/b0408ce2-23e8-4165-897d-25f3229f57f1.webp",
+          "width": 3300,
+          "height": 4096,
+          "alt": "AI Generated Close-up 3D vector style portrait of a man with a short beard and comedic large eyes on a bright red background."
+        },
+        {
+          "filename": "de5496c4-a1d6-4351-acc6-3393ea4d0220.webp",
+          "local_path": "images/geometric-portrait/de5496c4-a1d6-4351-acc6-3393ea4d0220.webp",
+          "original_url": "https://img.promptplum.com/promptImages/de5496c4-a1d6-4351-acc6-3393ea4d0220.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/de5496c4-a1d6-4351-acc6-3393ea4d0220.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/de5496c4-a1d6-4351-acc6-3393ea4d0220.webp",
+          "width": 3260,
+          "height": 4096,
+          "alt": "AI Photo Editing Prompt: Geometric 3D graphic portrait of a man with spiky brown hair and a beard looking upwards against a deep red background."
+        },
+        {
+          "filename": "551562ea-8618-4fc8-9450-640a2a974e3f.webp",
+          "local_path": "images/geometric-portrait/551562ea-8618-4fc8-9450-640a2a974e3f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/551562ea-8618-4fc8-9450-640a2a974e3f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/551562ea-8618-4fc8-9450-640a2a974e3f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/551562ea-8618-4fc8-9450-640a2a974e3f.webp",
+          "width": 3097,
+          "height": 4096,
+          "alt": "AI Prompt: 3D geometric illustration of a young man with textured dark hair and large comedic features on a vibrant red studio background."
+        },
+        {
+          "filename": "8081ddff-27a8-4943-ac63-64f17e4186d4.webp",
+          "local_path": "images/geometric-portrait/8081ddff-27a8-4943-ac63-64f17e4186d4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8081ddff-27a8-4943-ac63-64f17e4186d4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/8081ddff-27a8-4943-ac63-64f17e4186d4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/8081ddff-27a8-4943-ac63-64f17e4186d4.webp",
+          "width": 3300,
+          "height": 4096,
+          "alt": "Gemini AI Prompt: Stylized 3D vector portrait of a woman with long wavy brown hair and exaggerated big eyes on a solid red background."
+        },
+        {
+          "filename": "7b6061f0-b84b-42dd-8ad7-fac2a48b00fd.webp",
+          "local_path": "images/geometric-portrait/7b6061f0-b84b-42dd-8ad7-fac2a48b00fd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7b6061f0-b84b-42dd-8ad7-fac2a48b00fd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/7b6061f0-b84b-42dd-8ad7-fac2a48b00fd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/7b6061f0-b84b-42dd-8ad7-fac2a48b00fd.webp",
+          "width": 3300,
+          "height": 4096,
+          "alt": "Stylized geometric 3D vector portrait of a man with a short beard looking up with exaggerated comedic eyes against a deep red background."
+        },
+        {
+          "filename": "23979279-cd44-41e0-a988-b1b3c404b245.webp",
+          "local_path": "images/geometric-portrait/23979279-cd44-41e0-a988-b1b3c404b245.webp",
+          "original_url": "https://img.promptplum.com/promptImages/23979279-cd44-41e0-a988-b1b3c404b245.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/23979279-cd44-41e0-a988-b1b3c404b245.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/23979279-cd44-41e0-a988-b1b3c404b245.webp",
+          "width": 3300,
+          "height": 4096,
+          "alt": "Gemini AI Prompt for Stylized geometric digital illustration of a man with dark hair and a trimmed beard looking up, set against a vibrant red background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f3",
+      "title": "Vectored Intensity",
+      "slug": "modern-wpap-vector-portrait-man-red-background",
+      "category": "Geometric Portrait",
+      "category_slug": "geometric-portrait",
+      "prompt": "Create a 4:5 vertical high-contrast vector portrait illustration of a male subject, shown in a dramatic low-angle close-up bust composition. The subject fills most of the frame from the upper chest upward. His face is viewed from below, with the chin raised, neck strongly visible, and head turned slightly toward the viewer’s right. His eyes look upward in the same direction with a serious, calm, aspirational expression.\nThe composition must feel dynamic and slightly asymmetrical, not perfectly centered or front-facing. Preserve the strong low-angle perspective, sharp jawline, elevated chin, and powerful upward gaze.\n\nArt Style & Rendering\nRender the portrait in a premium modern vector pop-art / WPAP-inspired style, using sharp-edged geometric grayscale planes to build the face, neck, and clothing. The shading should be faceted, angular, and high-contrast, with clear polygon-like tonal blocks in white, light gray, mid-gray, dark gray, charcoal, and black. Keep the facial rendering detailed and semi-realistic, not simplified comic art.\n\nNo soft blending, no smooth painterly gradients.\nFace & Hair\nThe face should have a sculpted angular structure, detailed eyes, defined brows, realistic nose and lips, and dramatic shadow under the jaw. The underside of the chin and neck should feature deep black and charcoal geometric shadow blocks. If beard is present make it defined.\n\nHair should be thick, messy, energetic, and sharply jagged, formed from irregular black and dark-gray vector strokes, with a natural chaotic shape rather than neat anime-style spikes.\nClothing\nThe subject wears a dark crew-neck t-shirt layered under a dark open collared shirt, visible only in the lower portion of the portrait. Keep the clothing simple and secondary to the face, rendered in charcoal, black, and dark gray tones with sharp angular vector folds and high-contrast geometric shading. The clothing should not alter the head angle, neck prominence, portrait framing, or overall composition.\n\nAdd a small minimal white generic symbol emblem at the center of the upper chest, placed on the visible t-shirt.\nOutline / Edge Glow\nAdd a bold rough electric-red rim outline around the subject’s outer silhouette, especially along the hair, ear, shoulders, and collar. The outline should feel like a strong graphic edge glow, slightly uneven and energetic, not a clean neon sticker border.\n\nBackground\nUse a dominantly vibrant red background. Around the edges and behind the subject, place large jagged abstract dark-gray shapes that resemble aggressive angular shards or stylized rough flame silhouettes.\n\nAdd only a few controlled white angular accents in the background for contrast. White should remain secondary; the background must still feel mostly red with dark gray impact shapes, not like a white explosion or busy radial burst.\nOverall Look\nThe final result should feel like a bold premium poster illustration:\nlow-angle upward-looking grayscale vector portrait, dramatic sculpted face, black jagged hair, simple dark crew-neck t-shirt layered under a dark open collared shirt, red electric silhouette glow, red-dominant abstract background with dark gray shards and limited white accents.\nAspect ratio: 4:5 vertical.",
+      "description": "Stylized Vector Portrait Illustration Prompt: Copy and paste this prompt to generate high-contrast, geometric digital art of a man looking upward against a bold red and grey abstract background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 1372,
+      "copy_count": 2766,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-looking-up-red-background-vector-illustration-by-promptplum-1.webp",
+          "local_path": "images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-looking-up-red-background-vector-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Looking Up Red Background AI Photo Editing Prompt. AI generated digital vector illustration of a bearded man looking upward in a grayscale geometric style against a sharp red and grey abstract backdrop."
+        },
+        {
+          "filename": "man-looking-up-red-background-vector-illustration-by-promptplum-2.webp",
+          "local_path": "images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-looking-up-red-background-vector-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Vector Portrait AI Photo Editing Prompt. AI generated digital illustration of a man with dark hair looking upward in a sharp, geometric monochromatic style against a vibrant red abstract background."
+        },
+        {
+          "filename": "man-looking-up-red-background-vector-illustration-by-promptplum-3.webp",
+          "local_path": "images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-looking-up-red-background-vector-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Looking Up Red Vector AI Photo Editing Prompt. AI generated digital vector illustration of a dark-haired man gazing upward against a sharp red and black abstract background."
+        },
+        {
+          "filename": "man-looking-up-red-background-vector-illustration-by-promptplum-4.webp",
+          "local_path": "images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-looking-up-red-background-vector-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/man-looking-up-red-background-vector-illustration-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated low-poly digital illustration of a young man looking upward against a sharp red and grey geometric background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704eb",
+      "title": "The Low-Poly Portrait",
+      "slug": "low-poly-vector-illustration-portrait",
+      "category": "Geometric Portrait",
+      "category_slug": "geometric-portrait",
+      "prompt": "Create a stylized geometric low-poly portrait of the reference person using layered polygonal shapes with subtle depth and paper-cut texture. Maintain realistic proportions while transforming face into clean, angular facets. Person smiling naturally, wearing a modern casual outfit.\nImportant: Subject is in a standing pose, front-facing, with no body or head tilt, strict mid-chest up framing, like a profile picture pose.\nBackground: minimal soft beige/neutral geometric low-poly with slight gradient.\nLighting: soft studio light, gentle shadows to enhance 3D polygon depth, high detail, sharp focus, modern artistic look, centered composition, vertical format, 4:5 aspect ratio. No text, no watermark.",
+      "description": "Low-Poly Geometric Illustration Prompt: Copy & paste this prompt to generate a modern faceted portrait of a smiling person in a casual outfit with clean polygonal details.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 527,
+      "copy_count": 801,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "local_path": "images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Geometric Smiling Man in Denim Jacket AI Photo Editing Prompt. AI generated low-poly digital illustration of a smiling bearded man in a denim jacket against a neutral geometric background."
+        },
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "local_path": "images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Low Poly Woman Portrait Art AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a geometric low-poly art style wearing a beige ribbed sweater."
+        },
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "local_path": "images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Smiling Man in Low-Poly Style AI Prompt. AI generated geometric digital portrait of a young man with a wide smile, wearing a faceted blue denim button-down shirt and white t-shirt."
+        },
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "local_path": "images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "local_path": "images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/geometric-portrait/smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}
