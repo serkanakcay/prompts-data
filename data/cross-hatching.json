@@ -1,0 +1,303 @@
+{
+  "category": "Cross-hatching",
+  "slug": "cross-hatching",
+  "total_prompts": 5,
+  "updated_at": "2026-09-24T12:54:04Z",
+  "prompts": [
+    {
+      "id": "6a65248d9d499d9af98afe47",
+      "title": "Colorful Scribble Art Family Portrait",
+      "slug": "colorful-scribble-art-family-portrait",
+      "category": "Cross-hatching",
+      "category_slug": "cross-hatching",
+      "prompt": "Create an ultra-detailed hand-drawn scribble-art portrait using the uploaded family photo only as the reference for each person’s facial identity, age, gender, skin tone, hairstyle, and family members. Include exactly the same 3 or 4 people—do not add, remove, replace, or merge anyone. Do not copy the original pose, composition, background, or exact clothing.\nCreate a fresh, professionally arranged family pose. Place the entire family prominently in the center of a vertical composition, close together with warm, natural interaction. Position the parents behind or beside the children, gently leaning inward. For one child, place them centrally between or slightly in front of the parents; an infant or toddler may be held naturally. For two children of any age or gender, arrange both clearly in the center foreground or between the parents with balanced spacing and every face fully visible. Give everyone warm, natural expressions directed toward the viewer.\nRestyle the family in coordinated, elegant outfits suitable for their age, gender, and cultural appearance. If the reference clothing is very simple, enhance it with richer colors, tasteful patterns, refined fabric details, subtle embroidery, layering, or appropriate accessories. The outfits should look stylish and complementary without becoming overly formal. Do not reproduce the exact original clothes.\nRender the portrait using thousands of overlapping, free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red. Preserve recognizable facial features, realistic anatomy, expressive eyes, intricate crosshatching, delicate shading, and accurate proportions.\nUse clean white textured paper as the background. Keep the family sharply detailed and fully defined at the center, while the outer edges of their clothing and surrounding linework gradually dissolve into loose, colorful scribbles and softly fade into the white background on both sides. Maintain balanced negative space around the centered family.\nEye-level medium family portrait, gallery-quality traditional pen-and-ink illustration, vibrant artistic energy, ultra-sharp detail, vertical composition. Aspect ratio 4:5.",
+      "description": "Scribble Art Portrait Prompt: Use this prompt to create a colorful ballpoint pen sketch of a smiling family posing on textured white paper.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 3342,
+      "copy_count": 2437,
+      "is_premium": false,
+      "published_at": "2026-07-25T21:03:09.299Z",
+      "images": [
+        {
+          "filename": "7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "local_path": "images/cross-hatching/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Intricate Ballpoint Sketch Family Portrait AI Photo Editing Prompt. AI generated digital illustration art of a smiling woman and bearded man holding their baby against a white background."
+        },
+        {
+          "filename": "25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "local_path": "images/cross-hatching/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling mother and father holding their baby, drawn with colorful scribble lines."
+        },
+        {
+          "filename": "5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "local_path": "images/cross-hatching/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated illustrative sketch art of a smiling Indian family with parents and baby in colorful traditional attire against a white background."
+        },
+        {
+          "filename": "011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "local_path": "images/cross-hatching/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling young family: father in a blue blazer, mother in a purple patterned dress, and baby in a fox sweater."
+        },
+        {
+          "filename": "34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "local_path": "images/cross-hatching/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling husband and wife holding their baby girl in a vibrant ballpoint pen sketch style."
+        },
+        {
+          "filename": "eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "local_path": "images/cross-hatching/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "original_url": "https://img.promptplum.com/promptImages/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Portrait Sketch Art AI Photo Editing Prompt. AI generated portrait illustration of a smiling Asian family of four, rendered in a textured, colorful scribble sketch art style."
+        },
+        {
+          "filename": "06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "local_path": "images/cross-hatching/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "local_path": "images/cross-hatching/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "local_path": "images/cross-hatching/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "original_url": "https://img.promptplum.com/promptImages/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Art Family Portrait"
+        },
+        {
+          "filename": "725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "local_path": "images/cross-hatching/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "local_path": "images/cross-hatching/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-11"
+        },
+        {
+          "filename": "c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "local_path": "images/cross-hatching/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "local_path": "images/cross-hatching/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "original_url": "https://img.promptplum.com/promptImages/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-9"
+        }
+      ]
+    },
+    {
+      "id": "6a37fc71bf79ee5252c22de5",
+      "title": "The Cafe Window",
+      "slug": "girl-cafe-blue-pen-sketch",
+      "category": "Cross-hatching",
+      "category_slug": "cross-hatching",
+      "prompt": "Use the uploaded image strictly only for the woman’s facial identity and natural features. Preserve her face shape, facial proportions, eyes, eyebrows, nose, lips, skin tone, and overall likeness accurately. Keep her natural hair color from the reference, but style it as described below.\nCreate a high-resolution traditional blue ballpoint pen (Biro) illustration on lightly textured warm off-white paper, in a vertical 4:5 composition. The image should look hand-drawn with refined navy-blue ink linework, realistic pen pressure variation, delicate contour lines, dense cross-hatching, and visible paper grain. Add a subtle warm sepia/golden sunlight tint entering from the right side, blending naturally with the cool blue ink shadows.\nShow the woman seated at a wooden café table in a three-quarter side composition. Her body is angled slightly toward the left while her face is turned toward the right, gazing pensively out of frame with a quiet, thoughtful expression. One elbow rests on the tabletop and the matching hand gently supports her cheek and chin; her other arm rests naturally across her lap. Her pose should feel relaxed, candid, and emotionally reflective.\nGive her a messy loose bun/updo with fluid overlapping ink strokes, softly textured strands, and a few natural loose tendrils around her temples, cheeks, and neck. She wears a loose dark short-sleeve t-shirt and dark pants, rendered with rich near-solid navy ink, deep folds, and dense multidirectional cross-hatching. Keep her face softly luminous with sparse fine hatching, expressive eyes, defined lashes, natural brows, a straight nose, and softly parted full lips.\nIn front of her, place an open spiral-bound notebook on the wooden plank table. Fill the pages with small illegible handwritten notes and abstract sketches only, with no readable words. Add a small geometric triangle-like diagram on one page and a dark blue pen placed diagonally across the notebook. To the right, include an open zippered pencil pouch with several pens visible inside. Behind the notebook, place a white ceramic coffee mug on a saucer with a small spoon and subtle rising steam drawn using thin, soft negative-space lines.\nUse visible wood grain, plank gaps, and linear hatching across the tabletop, with the warm sunlight becoming more prominent toward the right edge. Seat her on a slatted wooden chair with curved ink hatching and realistic structure.\nCreate a softly detailed café background: a bright window on the right as the source of warm light, wooden cabinetry and potted plants on the left, a hanging plant or pendant lamp above, and a distant café guest seated with their back turned near the window. Keep all background elements lighter, softer, and less densely drawn than the woman and table objects, creating natural atmospheric depth and focus separation.\nThe woman, notebook, mug, and pencil pouch should have crisp, high-contrast, highly detailed blue ink lines. The background should remain airy and understated. Let the portrait and surrounding linework softly dissolve and fade into the paper around all four outer edges of the composition, especially near the corners and border, so the image blends naturally into the off-white paper instead of ending with hard defined edges. No photorealistic colors, no painted brushstrokes, no cartoon look, no thick black outlines, no readable text, no distorted hands, no extra fingers, no overly smooth skin.",
+      "description": "Ballpoint Pen Sketch Prompt: Copy & paste this prompt to create a detailed blue ink drawing of a thoughtful girl sitting in a cafe with a notebook and coffee cup.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 1132,
+      "copy_count": 885,
+      "is_premium": false,
+      "published_at": "2026-09-21T22:07:44.289Z",
+      "images": [
+        {
+          "filename": "1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "local_path": "images/cross-hatching/1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Thinking Woman in Cafe Sketch AI Photo Editing Prompt. AI generated detailed ink sketch illustration portrait of a pensive woman with a bun at a cafe desk, looking out a window with a notebook and coffee."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670498",
+      "title": "Cross-Hatched Profile",
+      "slug": "male-portrait-ink-sketch-line-art",
+      "category": "Cross-hatching",
+      "category_slug": "cross-hatching",
+      "prompt": "Use the uploaded image strictly ONLY for face and identity reference. Preserve exact facial structure, proportions, eye shape, nose structure, jawline sharpness, grooming, and natural asymmetry.\nPose & Body Position:\nSubject is seated upright (not leaning), with a straight spine and stable posture. Neck is perfectly straight and aligned vertically with the spine — no tilt, no rotation, no forward/backward bend. Head remains level and centered, facing directly forward.\nUltra-tight vertical portrait (4:5), crop from mid-neck to slightly above hair top, face centered, straight-on angle, head filling ~85–90% of frame, minimal upper shoulder visibility.\nNeutral intense expression, eyes directly at camera, no smile, lips closed, subtle tension in eyes and brow.\nHair should be thick and natural with realistic flow, not overly stylized or inflated. Avoid perfect volume or “hero hair”. Maintain slight irregularity, weight, and believable strand direction using sharp ink strokes.\nOutfit: Black minimal fitted high-neck clothing, matte fabric, subtle folds near neck and shoulders, rendered using cross-hatching (not flat black fill).\nStyle: ultra-detailed black-and-white ink engraving illustration. Heavy cross-hatching and line-based shading. Use varied stroke density and direction to define facial planes. Avoid uniform or repetitive patterns. Include scratch lines, etched strokes, and raw ink texture for a hand-drawn feel.\nLighting: strong chiaroscuro using line density (no gradients). One side of face slightly darker. Deep shadows under cheekbones, jawline, eye sockets, and neck. No soft lighting.\nDetails: subtle facial scars and scratch marks. If a beard is present in the reference image, it is rendered with fine directional strokes, and skin texture is defined through linework (not smooth shading).\nBackground: clean white with minimal ink splatter around edges only. No environment.\nAvoid generic face generation. Preserve raw individuality from reference.\nNegative prompt: anime, cartoon, soft shading, gradients, 3D, CGI, photorealism, color, glow, blur, smooth skin, beautified face, generic face, over-stylized hair, perfect symmetry, detailed background, logos, text, accessories, vector art",
+      "description": "Pen and Ink Portrait Prompt: Use this prompt to generate a detailed black and white sketch of a man with textured hair and realistic cross-hatching.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 715,
+      "copy_count": 1210,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "local_path": "images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Ink Sketch AI Photo Editing Prompt. AI generated digital ink illustration of a man with textured hair and sharp features depicted through detailed cross-hatching."
+        },
+        {
+          "filename": "man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "local_path": "images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Ink Sketch Prompt. AI generated digital illustration of a rugged bearded man featuring detailed cross-hatching and ink splatter art."
+        },
+        {
+          "filename": "man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "local_path": "images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "AI generated digital sketch illustration of a handsome young man with messy hair and sharp features wearing a black turtleneck sweater."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670470",
+      "title": "Cross-Hatched Mind",
+      "slug": "stylized-drawing-illustration",
+      "category": "Cross-hatching",
+      "category_slug": "cross-hatching",
+      "prompt": "Create an 8K highly detailed head-and-neck portrait illustration of a person using the provided face reference. Preserve the exact facial proportions, identity, and unique features without alteration.\nComposition:\nThe frame must include only the head and neck, tightly composed and perfectly centered. Maintain balanced negative space around the head and hair. The subject is looking directly into the camera with a strict eye-level, front-facing angle (no tilt). Expression should be calm, composed, and neutral.\nArt Style:\nRender the artwork as a raw, chaotic ink-style poster, constructed primarily from dense, curved black scribble strokes. The reference image is used strictly for accurate structure and likeness—do not stylize beyond recognition.\nLine Work & Form:\nBuild hair, facial shadows, and depth using layered, overlapping, uneven lines\nIncorporate rough cross-hatching techniques\nLines should feel organic, tangled, expressive, and slightly imperfect\nEmbrace a sense of controlled chaos and hand-drawn energy\nColor Palette (Strictly Minimal):\nSkin: flat beige tone only (no gradients, no realism)\nStructure & shading: deep black ink strokes only\nNo smooth blending or polished rendering\nStylistic Details:\nIntroduce slight asymmetry in line flow for a natural, raw feel\nSurround the subject with an irregular, abstract, tangled aura made of loose scribbles\nEnhance the chaotic energy while maintaining structural clarity\nBackground:\nA solid, flat, vibrant orange background, clean and uniform, creating strong contrast with the black ink work\nLighting:\nLighting should be implied only through line density—do not use realistic lighting or shading techniques\nOverall Look:\nHigh-contrast, graphic, poster-like aesthetic with a raw, expressive ink illustration style\nStrictly Avoid:\nNo outfit visible\n3D effects\nRealistic rendering\nGradients\nSoft shading\nAny polished or clean digital finish\nStyle Direction:\nExpressive ink illustration / raw sketch poster / abstract line-art portrait\nOutput Quality:\n8K resolution\nAspect Ratio: 4:5",
+      "description": "Sketch Illustration Portrait Prompt: Use this prompt to generate a hand-drawn artistic sketch of a man or woman with a calm gaze against a solid orange background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 442,
+      "copy_count": 655,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:14:38.751Z",
+      "images": [
+        {
+          "filename": "man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "local_path": "images/cross-hatching/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Sketch AI Photo Editing Prompt. AI generated digital sketch illustration of a man with curly hair and detailed facial features against a vibrant orange background."
+        },
+        {
+          "filename": "woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "local_path": "images/cross-hatching/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Sketch Portrait on Orange AI Photo Editing Prompt. AI generated digital sketch illustration of a woman with messy dark hair and cross-hatched details against a vibrant orange background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703e4",
+      "title": "Lines of Experience",
+      "slug": "pencil-sketch-portrait",
+      "category": "Cross-hatching",
+      "category_slug": "cross-hatching",
+      "prompt": "SUBJECT\n\nIdentity Preservation: Absolute morphological fidelity to the reference image; maintain exact ocular spacing, nasal bridge structure, labial curvature, and zygomatic definition. Zero deviation from the subject's age, bone structure, and dermal topography.\nAnatomy: Serious, contemplative expression in 3/4 profile facing right. Macro-level epidermal texture (age-appropriate fine lines, pores, and follicle density).\nFeatures: Thick-rimmed rectangular eyewear with high-clarity specular reflections. Detailed iris mapping with sharp corneal glints.\nGrooming: Precise replication of hairline, parting, and hair texture. If applicable, maintain exact beard/mustache density, outline, and directional growth.\nAttire: Sharp-contoured formal jacket over a crisp collared shirt; intellectual, structured aesthetic.\nCOMPOSITION\n\nFraming: Minimalist bust-length portrait centered on a stark white negative-space background.\nAspect Ratio: 4:5.\nTypography: A small, legible, handwritten calligraphy signature \"PromptPlum.com\" positioned with spatial accuracy above the subject’s left shoulder; integrated seamlessly into the graphite medium.\nLIGHTING\n\nScheme: High-contrast Chiaroscuro rendering.\nDirectionality: Dominant key light from front-left (45°), creating volumetric illumination on the forehead, nose bridge, and cheekbone.\nShadow Detail: Deep Rembrandt-style shadows under the jawline and nasolabial folds; high-latitude tonal range from pure white to deep carbon black.\nTECHNICAL SPECS\n\nMedium: Professional fine-art graphite drawing on cold-press paper grain.\nStroke Techniques: Intaglio-grade hatching and cross-hatching for facial contours; delicate directional strokes for hyper-detailed hair strands; light, thin scumbled shading for fabric-to-skin contrast.\nRender Quality: 4K ultra-high fidelity, micro-pencil grain texture, photorealistic pencil-lead sheen, smooth 8B-to-2H tonal transitions, and extreme precision in sharp-to-soft edge control.",
+      "description": "Google Gemini AI Sketch Editing Prompt: Create a realistic pencil portrait of an man or women with glasses. This prompt generates a high-detail monochrome drawing featuring professional cross-hatching and a sophisticated, intellectual look.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 88,
+      "view_count": 1524,
+      "copy_count": 2245,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "pencil-sketch-portrait-by-promptplum.webp",
+          "local_path": "images/cross-hatching/pencil-sketch-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/pencil-sketch-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cross-hatching/pencil-sketch-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cross-hatching/pencil-sketch-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Pencil Sketch AI Photo Editing Prompt. AI generated pencil sketch portrait of a sophisticated elderly man with glasses and a blazer, showcasing detailed realistic shading."
+        }
+      ]
+    }
+  ]
+}

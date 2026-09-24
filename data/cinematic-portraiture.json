@@ -1,0 +1,388 @@
+{
+  "category": "Cinematic Portraiture",
+  "slug": "cinematic-portraiture",
+  "total_prompts": 10,
+  "updated_at": "2026-09-24T12:53:44Z",
+  "prompts": [
+    {
+      "id": "6aa5766e46d4207dc263a644",
+      "title": "Casual White Shirt Man Portrait",
+      "slug": "pensive-man-window-portrait-prompt",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "Use the uploaded reference image strictly for accurate face/identity matching. Preserve the exact facial identity, facial structure of the reference person.\nCreate a photorealistic cinematic lifestyle portrait of a handsome man sitting beside a large wooden-framed window in a cozy, elegant interior. He has soft, naturally styled hair, refined facial features, clear natural skin, and a calm, thoughtful expression. His head is turned slightly toward the window as he gazes outside, with a relaxed, introspective mood.\nHe is wearing a loose, oversized white cotton button-up shirt, with the top buttons casually undone, revealing part of his upper chest. The shirt has natural wrinkles and soft fabric texture. He sits in a relaxed pose, with his left arm resting casually on the window ledge and his hand hanging naturally, while his other arm rests comfortably by his side.\nWarm golden-hour sunlight streams through the window from the left, softly illuminating his face, hair, neck, and white shirt while creating beautiful natural highlights and gentle shadows. The background features a warm, sophisticated interior with subtle framed artwork and dark furniture, kept softly out of focus. Outside the window, lush green foliage appears as creamy golden bokeh.\nComposition: vertical 4:5 portrait, medium/upper-body framing, subject positioned centered, eye-level camera angle, natural candid pose, shallow depth of field, creamy background bokeh.\nPhotography: 85mm lens, f/1.8, soft cinematic depth of field, realistic skin texture, natural color grading, warm golden tones, subtle filmic contrast, soft atmospheric glow, premium editorial photography, highly detailed, ultra-realistic, cinematic lighting, 8K quality. Aspect ratio 4:5.",
+      "description": "Cinematic Portrait Photography Prompt: Copy & Paste this prompt to create a realistic photo of a pensive young man in a white shirt looking out a wooden window.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 9,
+      "view_count": 680,
+      "copy_count": 435,
+      "is_premium": false,
+      "published_at": "2026-09-12T15:57:34.008Z",
+      "images": [
+        {
+          "filename": "a372bbb6-4449-4abc-ac84-2263ece8be27.jpeg",
+          "local_path": "images/cinematic-portraiture/a372bbb6-4449-4abc-ac84-2263ece8be27.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/a372bbb6-4449-4abc-ac84-2263ece8be27.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/a372bbb6-4449-4abc-ac84-2263ece8be27.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/a372bbb6-4449-4abc-ac84-2263ece8be27.jpeg",
+          "width": 928,
+          "height": 1152,
+          "alt": "Young man in white shirt looking out window portrait AI Photo Editing Prompt. AI generated portrait of a handsome man sitting and gazing thoughtfully out of a wooden window in natural light."
+        }
+      ]
+    },
+    {
+      "id": "6a9edc1d46d4207dc2971959",
+      "title": "Cinematic Street Portrait of a Man in a Blue Suit",
+      "slug": "blue-suit-fashion-walking-photography",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "A photorealistic full-body fashion walking portrait of a stylish man striding confidently along the street in front of a grand Neoclassical building, set in a sophisticated city environment. He is wearing a perfectly tailored royal-blue three-piece suit with a matching waistcoat and trousers, black shoes, crisp white dress shirt, elegant silver-gray textured tie, and a luxury metal wristwatch. He has neatly styled hair, and black rectangular sunglasses. He walks mid-stride toward the right, with his left hand relaxed naturally by his side while his right hand slightly adjusts his sunglasses. He maintains a calm, confident expression while looking directly at the camera, creating a charismatic and self-assured pose. Large classical stone columns and wide architectural steps behind him, with elegant historic buildings in the background. Warm natural sunlight creates strong directional highlights and realistic shadows, cinematic depth of field, creamy blurred background, premium luxury fashion editorial aesthetic. Eye-level camera angle, full-body composition, ultra-realistic skin and fabric textures, natural colors, cinematic color grading, 85mm lens, f/1.8, shallow depth of field, HDR, 8K resolution, highly detailed, photorealistic. Aspect ratio 4:5",
+      "description": "Men's Fashion Street Photography Prompt: Copy and paste this prompt to create a high-quality cinematic photo of a stylish man in a tailored blue three-piece suit and sunglasses walking outdoors against classical architecture.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 3,
+      "view_count": 503,
+      "copy_count": 326,
+      "is_premium": false,
+      "published_at": "2026-09-07T15:45:33.933Z",
+      "images": [
+        {
+          "filename": "3d07691e-6db4-4709-9101-77a089e89630.jpeg",
+          "local_path": "images/cinematic-portraiture/3d07691e-6db4-4709-9101-77a089e89630.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/3d07691e-6db4-4709-9101-77a089e89630.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/3d07691e-6db4-4709-9101-77a089e89630.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/3d07691e-6db4-4709-9101-77a089e89630.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Blue Suit Street Fashion Photography AI Photo Editing Prompt. AI generated fashion portrait of a handsome man in a blue three-piece suit and sunglasses walking near classic building pillars."
+        }
+      ]
+    },
+    {
+      "id": "6a69f6224bbdbe2cf5e203d1",
+      "title": "Minimalist Men's Fashion Portrait",
+      "slug": "stylish-man-in-black-fashion-portrait",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "Create a full-body, photorealistic editorial fashion portrait of a stylish man(face match) standing confidently against a minimal warm beige smooth plaster wall. He has natural hair, and a calm, serious expression while looking directly into the camera. He wears a sophisticated all-black outfit: a relaxed black overshirt with rolled-up sleeves layered over a slightly unbuttoned black collared shirt, tailored high-waisted black trousers, a sleek black leather belt with a silver buckle, and polished black leather lace-up dress shoes.\nHe stands in a relaxed, confident pose with both hands inside his trouser pockets, shoulders naturally squared, one leg slightly forward, and his body facing the camera. The composition is centered and symmetrical, capturing his entire body from head to shoes with generous negative space around him. The background is warm beige smooth plaster wall and a smooth floor.\nSoft natural daylight enters from the upper left, creating gentle shadows along the wall and floor, realistic skin tones, subtle highlights on the black fabric, and a refined cinematic mood. High-end menswear editorial photography, minimalist luxury aesthetic, realistic fabric texture, sharp facial details, natural proportions, soft contrast, muted neutral colour grading, shallow depth of field, ultra-photorealistic, 8K resolution, shot on a full-frame camera with an 85mm lens, f/1.8, vertical composition, aspect ratio 4:5.",
+      "description": "Minimalist Fashion Photography Prompt: Copy & Paste this Prompt to create a professional studio portrait of a stylish bearded man in a modern all-black outfit against a plain beige background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 542,
+      "copy_count": 759,
+      "is_premium": false,
+      "published_at": "2026-07-29T12:46:26.456Z",
+      "images": [
+        {
+          "filename": "2ac164c8-01ab-42da-9536-c6178adf1907.jpeg",
+          "local_path": "images/cinematic-portraiture/2ac164c8-01ab-42da-9536-c6178adf1907.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/2ac164c8-01ab-42da-9536-c6178adf1907.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/2ac164c8-01ab-42da-9536-c6178adf1907.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/2ac164c8-01ab-42da-9536-c6178adf1907.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Minimalist Men's Fashion Portrait in All-Black Attire AI Photo Editing Prompt. AI generated studio portrait of a stylish bearded man wearing an all-black smart casual outfit standing with hands in pockets against a plain beige background."
+        }
+      ]
+    },
+    {
+      "id": "6a240fef47805064ac4bd527",
+      "title": "Man in Red Rim Light",
+      "slug": "dramatic-red-rim-lighting-male-portrait",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "Use the uploaded male image strictly only for face and identity reference.\n\nImportant: If a beard is not present in the reference image, keep the subject completely clean-shaven.\n\nCreate a 4:5 aspect ratio cinematic low-key studio portrait of the man in a dark, intense, premium editorial style. The man is shown in a close-up upper-body framing, facing the camera with a serious, calm, confident expression. He wears round dark sunglasses with thin metal frames and a plain black crew-neck t-shirt.\n\nLighting & Mood:\nUse dramatic high-contrast lighting with a deep black background. Add a strong red/orange rim light from one side, softly outlining the head, ear, shoulder, beard, and clothing edge. Use a subtle warm key light on the face to reveal realistic skin texture, forehead details, nose highlights, beard texture, and natural facial depth. Keep the shadows rich and cinematic without hiding the face completely.\n\nVisual Style:\nHyper-realistic cinematic portrait photography, premium studio lighting, gritty dark masculine mood, sharp facial details, realistic skin pores, natural beard texture, subtle film grain, deep blacks, red edge glow, moody contrast, professional editorial finish.\n\nComposition:\nVertical 4:5 portrait, centered subject, head and upper torso visible, slightly turned body angle, face looking directly toward the camera. Keep the background plain black with no distractions.\n\nNegative Instructions:\nDo not change identity, do not add extra people, do not make the face younger or older, do not over-smooth skin, do not create cartoon/anime style, do not add text, watermark, logo, cap, or colorful background. Keep sunglasses realistic and properly aligned.",
+      "description": "Dramatic Studio Photography Prompt: Copy & paste this prompt to create a cinematic portrait of a serious man in round sunglasses with red rim lighting against a dark background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 44,
+      "view_count": 3379,
+      "copy_count": 5177,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "2913d03f-d0cc-4cee-b5c0-ce474536bb1e.webp",
+          "local_path": "images/cinematic-portraiture/2913d03f-d0cc-4cee-b5c0-ce474536bb1e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2913d03f-d0cc-4cee-b5c0-ce474536bb1e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/2913d03f-d0cc-4cee-b5c0-ce474536bb1e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/2913d03f-d0cc-4cee-b5c0-ce474536bb1e.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dramatic Studio Lighting Male Portrait Editing Prompt. AI-generated studio portrait of a bearded man wearing round sunglasses and a black t-shirt, highlighted by dramatic red rim lighting against a dark background."
+        },
+        {
+          "filename": "2cea8d12-7c97-4b7d-a687-480b1f4d4d7d.webp",
+          "local_path": "images/cinematic-portraiture/2cea8d12-7c97-4b7d-a687-480b1f4d4d7d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2cea8d12-7c97-4b7d-a687-480b1f4d4d7d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/2cea8d12-7c97-4b7d-a687-480b1f4d4d7d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/2cea8d12-7c97-4b7d-a687-480b1f4d4d7d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Red Lighting Portrait AI Photo Editing Prompt. AI generated studio portrait of a bearded man wearing round sunglasses and a black t-shirt illuminated by dramatic red rim lighting against a dark background."
+        },
+        {
+          "filename": "23c06c10-a7d4-42fa-b9c8-58d46ee1680c.webp",
+          "local_path": "images/cinematic-portraiture/23c06c10-a7d4-42fa-b9c8-58d46ee1680c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/23c06c10-a7d4-42fa-b9c8-58d46ee1680c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/23c06c10-a7d4-42fa-b9c8-58d46ee1680c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/23c06c10-a7d4-42fa-b9c8-58d46ee1680c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a young man wearing round dark sunglasses and a black t-shirt, illuminated by dramatic red edge lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704fb",
+      "title": "The Lavender Princess",
+      "slug": "woman-birthday-celebration-purple-theme",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "Create a photorealistic 4:5 vertical birthday portrait of the uploaded woman seated gracefully at a decorated birthday table, recreating this luxurious lavender celebration scene.\n\nSubject Consistency & Age Preservation\nUse the uploaded woman as the main subject reference and keep her recognizable overall likeness consistent. Preserve her natural facial structure, face shape, skin tone, eye shape, eyebrows, nose, lips, and overall appearance so she clearly looks like the same woman. Also preserve her natural age and age-appropriate facial maturity from the uploaded image. Do not make her look noticeably younger or older. Avoid identity drift, facial distortion, beauty-filter effects, overly artificial facial changes, or generic doll-like beauty.\n\nSubject & Pose\nShow the woman from the waist up, sitting slightly angled toward the camera with a warm, natural smile. Her posture is elegant and relaxed, with both arms resting softly near the table. She should look directly at the camera with a cheerful, graceful birthday expression.\n\nOutfit & Styling\nDress her in a glittering lavender-purple elegant off-shoulder birthday gown with a fitted bodice and subtle sparkling fabric texture. Add a delicate silver crystal tiara on her head. Her hair should be styled in soft, voluminous waves flowing over one shoulder, with refined party-ready makeup and a polished, feminine look.\n\nBirthday Table Setup\nIn front of her, place a round white birthday cake on a lavender tablecloth. The cake should be elegant and minimal, decorated with soft white frosting drapes and small purple rose accents. On top of the cake, add elegant birthday candles with warm flames. Keep the cake clearly visible in the foreground.\n\nBackground & Decorations\nCreate a dreamy indoor birthday setup filled with:\nLavender, lilac, and deep purple balloons\nSoft floral arrangements of pink, purple, and cream roses\nWarm glowing candles in the background\nA white vintage chair partially visible behind her\nGentle gold and purple confetti falling through the air\n\nLighting & Mood\nUse soft warm cinematic lighting with a cozy candlelit glow, flattering highlights on the face, and subtle sparkle on the gown and tiara. The scene should feel luxurious, festive, feminine, and emotionally warm. Keep the background softly blurred with a premium shallow depth of field.\n\nVisual Quality\nUltra-realistic, high-detail skin texture, natural facial proportions, elegant color harmony, rich lavender birthday aesthetic, polished editorial photography look, no cartoon style, no over-smoothed plastic skin, no distorted hands, no text errors, no extra candles or duplicate objects.",
+      "description": "Woman Birthday Celebration Prompt: Copy & Paste this Prompt to create a stunning studio portrait of a beautiful woman celebrating her birthday with a rose-decorated cake and purple balloons against a purple-themed background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 77,
+      "view_count": 3105,
+      "copy_count": 5815,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "local_path": "images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman in Tiara with Birthday Cake AI Photo Editing Prompt. AI generated studio portrait of a young woman in a sparkling purple dress and tiara sitting behind a lit birthday cake surrounded by purple balloons and fairy lights."
+        },
+        {
+          "filename": "young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "local_path": "images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman in Purple Gown Celebrating Birthday AI Photo Editing Prompt. AI generated studio portrait of a smiling woman wearing a tiara and glittery purple gown next to a birthday cake and balloons."
+        },
+        {
+          "filename": "young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "local_path": "images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Birthday Celebration Prompt. AI generated studio portrait of a smiling young woman wearing a tiara and glittery purple dress behind a birthday cake surrounded by purple balloons."
+        },
+        {
+          "filename": "young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "local_path": "images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated portrait of a smiling young woman in a sparkly purple gown and tiara celebrating with a floral cake, balloons, and confetti."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704ed",
+      "title": "Skyline Smile",
+      "slug": "woman-smiling-matcha-crater-lake-travel-lifestyle",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "Create a photorealistic, full body, high-end editorial portrait of a female adult with a natural skin tone, standing outdoors on a grassy hilltop. Use the uploaded image strictly ONLY for 100% true face and identity reference. She has naturally styled hair. She wears a short-puff-sleeve top with a brown and cream geometric batik-style pattern and a small decorative bow at the neckline, paired with high-waisted tailored off-white linen trousers and crisp white classic sneakers. She has a friendly, confident, and natural smile, looking directly at the lens. Her pose is playful, standing angled to the side while lifting her left leg back at the knee. She holds a clear plastic cup of iced matcha latte in her hand. The background features a breathtaking, expansive view of a massive blue crater lake nestled between majestic, lush green mountains under a bright sky with soft clouds. Soft, beautifully diffused natural daylight provides even, flattering illumination across the subject with no overexposure. Subtle high-angle shot, camera positioned slightly above eye level and gently tilted downward. Captured on a Sony A1 using an 85mm f/1.4 lens at f/1.8, ISO 100, 1/1000 shutter speed. Shallow depth of field creates a creamy bokeh effect on the sweeping landscape background, keeping the subject in razor-sharp focus. 8k resolution, ultra-detailed, photorealistic, no warm tone. Aspect ratio 4:5",
+      "description": "Travel Lifestyle Photography Prompt: Use this prompt to generate high-quality influencer-style realistic images of a smiling woman in a batik top holding a matcha drink against a stunning volcanic crater lake.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 1683,
+      "copy_count": 3336,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-3.webp",
+          "local_path": "images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman in Batik Top at Crater Lake AI Photo Editing Prompt. AI generated lifestyle portrait of a smiling woman in a brown batik top and cream linen trousers holding a matcha drink against a scenic crater lake backdrop."
+        },
+        {
+          "filename": "woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-2.webp",
+          "local_path": "images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman in Batik by Scenic Lake AI Photo Editing Prompt. AI generated cinematic lifestyle portrait of a smiling woman in a batik blouse and white trousers holding a matcha drink against a mountainous volcanic lake backdrop."
+        },
+        {
+          "filename": "woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-1.webp",
+          "local_path": "images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/woman-smiling-in-batik-top-with-matcha-at-crater-lake-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704da",
+      "title": "Divided Silence",
+      "slug": "monochrome-pensive-man-split-background",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "A stunning black and white studio portrait of a person, captured in a waist-up medium shot at eye level. The subject stands with arms casually but firmly crossed over the chest, looking downward, slightly off-camera to the left, with a calm, contemplative expression. He wears a black, heavy-textured waffle-knit long-sleeve sweater, paired with a delicate silver chain necklace with a small pendant, and a classic analog watch with a light dial and leather strap on the lower arm.\nThe background is a clean vertical split, with pure white on the left half and deep black on the right half, creating a bold, graphic contrast. Soft yet directional studio lighting comes from the left side, highlighting facial features and fabric texture while allowing the right side to fall into smooth, natural shadow.\nHigh-end commercial photography style, monochrome, hyper-realistic, crisp focus, cinematic composition. Aspect ratio 4:5.",
+      "description": "Monochrome Studio Portrait Prompt: Copy & Paste this Prompt to create a pensive black and white studio photo of a man in a textured sweater against a split background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 105,
+      "view_count": 2187,
+      "copy_count": 8067,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-with-crossed-arms-black-and-white-portrait-by-promptplum-1.webp",
+          "local_path": "images/cinematic-portraiture/man-with-crossed-arms-black-and-white-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-crossed-arms-black-and-white-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/man-with-crossed-arms-black-and-white-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/man-with-crossed-arms-black-and-white-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Pensive Man in Black Sweater AI Photo Editing Prompt. AI generated high-contrast studio portrait of a pensive, man with a downward, contemplative gaze, wearing a textured black sweater and wristwatch with crossed arms against a split background."
+        },
+        {
+          "filename": "man-with-crossed-arms-black-and-white-portrait-by-promptplum-2.webp",
+          "local_path": "images/cinematic-portraiture/man-with-crossed-arms-black-and-white-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-crossed-arms-black-and-white-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/man-with-crossed-arms-black-and-white-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/man-with-crossed-arms-black-and-white-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Monochrome Portrait AI Photo Editing Prompt. AI generated minimalist studio portrait of a man with crossed arms wearing a textured sweater and wristwatch against a split background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704a5",
+      "title": "Refuge in the Rubble",
+      "slug": "man-reading-book-abandoned-building",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "Use the uploaded image ONLY for face and identity reference. Do not alter facial structure, skin tone, age details, hairstyle, or natural features. Preserve exact identity with realistic skin texture and imperfections.\nCreate a hyper-realistic, cinematic full-body portrait of the subject sitting on worn brick steps inside an abandoned, partially ruined building.\nComposition (LOCKED):\n\nVertical 4:5 aspect ratio\n\nFull-body framing (feet clearly visible)\n\nSubject centered slightly toward left, side profile\n\nNatural depth with visible background structure\nPose:\n\nSeated on brick steps\n\nBody slightly leaning forward\n\nElbows resting loosely on thighs\n\nBoth hands holding an open book\n\nHead slightly tilted downward, eyes focused on the book\n\nExpression calm, introspective, slightly serious\nEnvironment:\n\nOld, abandoned building interior with broken walls and exposed bricks\n\nLarge open window spaces allowing daylight inside\n\nRough textures: cracked plaster, weathered bricks, debris on floor\n\nBackground should feel raw, empty, and atmospheric (no clutter distraction)\nLighting:\n\nSoft natural daylight coming from the side (window direction)\n\nGentle shadows with realistic falloff\n\nSubtle highlights on face, hands, and book\n\nNo harsh artificial lighting\nOutfit:\n\nRugged casual style —\n\nLayered hoodie inside\n\nWorn leather or canvas jacket (earth tones like brown/orange)\n\nFaded cargo or denim pants\n\nBrown leather boots (slightly worn)\nStyle & Rendering:\n\nUltra-realistic photography style\n\nCinematic color grading (slightly desaturated, earthy tones)\n\nHigh detail in textures (skin, fabric, bricks)\n\nNo AI artifacts, no over-smoothing\n\nNatural imperfections preserved",
+      "description": "Cinematic Portrait Prompt: Use this prompt to create a moody, realistic image of a man in a brown jacket reading a book on abandoned brick stairs.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 24,
+      "view_count": 465,
+      "copy_count": 934,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-reading-book-in-ruins-image-by-promptplum.webp",
+          "local_path": "images/cinematic-portraiture/man-reading-book-in-ruins-image-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-reading-book-in-ruins-image-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/man-reading-book-in-ruins-image-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/man-reading-book-in-ruins-image-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Reading in Abandoned Building AI Photo Editing Prompt. AI generated cinematic portrait of a man in a brown jacket sitting on broken brick stairs reading a book."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670443",
+      "title": "The Tattooed King",
+      "slug": "mafia-style-tattooed-man-luxury-suit-throne",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "Create an 8k hyper-realistic, cinematic portrait of a powerful man with a neatly styled natural haircut. Use the attached reference image for precise facial identity matching. Preserve the exact facial structure and likeness, including the same jawline definition, cheekbone structure, eye shape, nose proportions, lip shape, beard density (if present), haircut length and styling, and natural skin tone. He has intricate tattoos visible on his neck and hands.\nOutfit: He is wearing a sophisticated, tailored matte black slim-fit suit jacket over a black silk button-down shirt, partially unbuttoned to reveal a heavy gold Cuban link chain with a diamond-encrusted pendant. He wears black dress trousers and polished black leather loafers with long black socks. His hands are adorned with multiple chunky gold rings and a luxury gold watch on his left wrist.\nThrone: A regal, vintage, imposing throne\nUpholstered in plush, deep burgundy-red velvet\nConstructed with a dark, heavily polished wood frame\nFeaturing intricate, swirling, baroque-style carvings on the high crest and curving armrests.\nPose & Expression: He is seated confidently in a regal, ornate throne. One leg is crossed over the other in a relaxed but commanding \"Figure Four\" position. His expression is intense, stoic, and unyielding, staring directly into the camera with a calm, authoritative gaze.\nComposition: A full-body shot with a centered composition. Generous headroom,\nEven side negative space, focusing on the subject's symmetry and presence. The framing captures him from the top of his head to his shoes, emphasizing the \"throne\" effect.\nBackground: A minimalist, smooth, dark grey studio backdrop features a strong vignette effect, with the edges significantly darker and the centre behind the subject slightly brighter to draw focus to him. The background is slightly out of focus to ensure the subject and the chair are the primary focal points.\nLighting: Dramatic Chiaroscuro lighting. A strong key light from the upper right creates sharp highlights on his face, hair texture, and the silk of his shirt, while deep, dark, moody shadows define his features and the folds of the suit. Subtle rim lighting separates his silhouette from the dark background.\nCamera Angle & Technical Details: Shot at eye-level to establish a sense of equality and direct confrontation. 8k resolution, shot on a Sony A7R IV with an 85mm f/1.8 lens for a shallow depth of field. High-speed shutter for crisp detail, low ISO for a clean, noise-free image. Focus on hyper-realistic skin textures, individual beard hairs, and the micro-textures of the velvet and silk fabrics.\nAspect ratio 4:5",
+      "description": "Google Gemini AI Mafia Style Portrait Prompt: Use this prompt to generate a cinematic studio portrait of a powerful, tattooed man in a luxury black suit sitting on a vintage red velvet throne with gold jewelry.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 844,
+      "copy_count": 1386,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-2.webp",
+          "local_path": "images/cinematic-portraiture/tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Tattooed Man on Throne AI Photo Editing Prompt. AI generated studio portrait of a bearded man with neck tattoos wearing a black suit and gold jewelry while sitting on an ornate red velvet armchair."
+        },
+        {
+          "filename": "tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-3.webp",
+          "local_path": "images/cinematic-portraiture/tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/tattooed-man-in-black-suit-sitting-on-ornate-throne-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Mafia Boss AI Photo Editing Prompt. AI generated studio portrait of a tattooed man in a black suit and gold jewelry sitting confidently on an ornate red velvet throne."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703e5",
+      "title": "The Cream Tailor",
+      "slug": "man-cream-suit-black-shirt-red-door",
+      "category": "Cinematic Portraiture",
+      "category_slug": "cinematic-portraiture",
+      "prompt": "Create an ultra-photorealistic full-body portrait of a confident man standing centred in front of elegant, deep crimson-red double café doors. The doors are closed, fully visible, and photographed from a direct frontal angle in a perfectly symmetrical composition at eye level, with a subtle darkened cinematic tone.\n\nFace & Identity\nPreserve exact facial identity and structure with no alterations: strong jawline, defined cheekbones, natural eyebrows, realistic eyes, clean beard and moustache (if present), natural lips, visible skin pores, and true-to-life skin texture. Expression is confident and neutral with direct eye contact.\n\nHair\nNatural hairstyle with volume on top, subtle shine, clearly visible individual hair strands, and realistic texture.\n\nOutfit & Accessories\nHe wears a sharply tailored off-white two-piece suit with an unbuttoned blazer. Underneath is a fitted black dress shirt, top buttons undone (open collar, no tie), tucked into the trousers. Black leather loafers with no visible socks. A luxury wristwatch on the left wrist.\n\nPose\nRelaxed, confident stance:\n\nRight arm extended sideways with the hand resting casually on a textured stone wall\nLeft hand partially inside the trouser pocket, pushing the jacket back slightly\nWeight on the right leg\nLeft leg crossed in front at the ankles, with the toe touching the ground\nBackground\nBright crimson painted wooden double doors with large glass window inserts in the upper sections. Through the glass, a softly blurred upscale café interior is visible with warm golden ambient lighting, chandeliers, pendant lights, decorative shelves, and creamy bokeh. A brass mail slot is centred at mid-height. A classic stone façade frames the doorway on both sides.\n\nForeground\nTwo symmetrical, rounded, potted green shrubs (perfect spherical topiary), identical in size and shape, fully visible from base to top. Each sits in a matching round terracotta pot placed on either side of the entrance, reinforcing symmetry and adding natural contrast.\n\nLighting\nSoft natural daylight illuminates the subject evenly with gentle shadows. Warm interior glow behind him creates cinematic color contrast (cool exterior vs warm interior).\n\nCamera & Rendering\nShot on a professional portrait lens (85mm equivalent) with shallow depth of field. Subject is tack-sharp with creamy background blur. Ultra-high detail, HDR, cinematic color grading, luxury fashion photography style. Extremely realistic textures in skin, fabric, stone, and wood. Natural color tones, no oversharpening.\n\nPost-Processing\nSubtle vignette effect around the edges of the frame, with gently darkened corners that focus attention on the subject while maintaining a natural photographic look.\n\nParameters\nAspect ratio: 4:5 (portrait)\nResolution: 4K, ultra-detailed",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a cinematic high-fashion portrait of a stylish man in a cream suit leaning against a classic red door with an elegant \"old money\" aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 778,
+      "copy_count": 1473,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-cream-suit-portrait-by-promptplum.webp",
+          "local_path": "images/cinematic-portraiture/man-in-cream-suit-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-cream-suit-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portraiture/man-in-cream-suit-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portraiture/man-in-cream-suit-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Cream Suit Red Door AI Photo Editing Prompt. AI generated cinematic portrait of a stylish man in an off-white suit and black shirt leaning against a classic red door flanked by topiary trees."
+        }
+      ]
+    }
+  ]
+}

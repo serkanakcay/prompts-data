@@ -1,0 +1,1593 @@
+{
+  "category": "Cute & Kawaii",
+  "slug": "cute-kawaii",
+  "total_prompts": 33,
+  "updated_at": "2026-09-24T12:54:06Z",
+  "prompts": [
+    {
+      "id": "6a3da615e1ceda640e5375a6",
+      "title": "Pastel Pink Mini-Me",
+      "slug": "girl-3d-twin-avatar",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions.\nCreate a high-quality studio portrait in a vertical 4:5 aspect ratio. Show the subject seated on a clean seamless white studio floor/background in a soft, charming, visually pleasing pose. She is seated with her knee bent upward and her leg extending forward toward the camera, creating a natural foreground perspective. One hand rests gently against her cheek, while the other arm relaxes naturally across the bent knee or lap. Her body is angled slightly to the side, and her gaze is directed softly sideways with a gentle, warm, natural smile.\nDress her in a soft pastel pink knitted cardigan, a light beige pleated long skirt, white socks, and white Mary Jane shoes. Add a small pink ribbon bow clipped to one side of her hair. Keep the styling neat, soft, elegant, and feminine.\nPlace a small premium 3D chibi doll version of the same subject beside her near her knee or leg. The doll should clearly resemble the subject’s face, hairstyle, age impression, and outfit colors, wearing the same pink cardigan, beige skirt, white socks, and matching bow. The doll should have a cute polished animated look with large expressive eyes, soft detailed hair, and a cheerful expression. The real subject and the animated doll should look like they are clearly interacting and communicating with each other — as if sharing a sweet moment. Their eye-lines, facial expressions, and body language should feel connected, with the doll looking up at the subject and the subject appearing engaged with the doll in a natural, affectionate, visually clear way.\nUse soft diffused high-key studio lighting, subtle natural shadows, clean minimal composition, realistic skin texture, crisp fabric texture, detailed hair strands, and a warm, innocent, premium mood. Keep the main subject dominant, the doll proportionally smaller, and the framing close, balanced, and subject-focused with minimal empty space. No text, watermark, or extra props.",
+      "description": "3D Twin Avatar Prompt: Use this AI prompt to generate a hybrid portrait of a realistic girl sitting with her matching 3D cartoon mini-me in pastel pink attire on a white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 40,
+      "view_count": 1398,
+      "copy_count": 2206,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
+          "local_path": "images/cute-kawaii/d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Girl 3D Twin Avatar AI Photo Editing Prompt. AI generated hybrid portrait of a woman seated in matching pastel pink attire looking at a stylized 3D character doll on her lap."
+        },
+        {
+          "filename": "f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
+          "local_path": "images/cute-kawaii/f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Realistic girl holding her matching 3D cartoon mini-me doll, both wearing pastel pink cardigans and beige pleated skirts."
+        },
+        {
+          "filename": "94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
+          "local_path": "images/cute-kawaii/94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
+          "original_url": "https://img.promptplum.com/promptImages/94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cute 3D Twin Avatar Portrait Prompt. AI generated studio portrait featuring a real woman sitting on a white floor, smiling at a smaller 3D stylized girl avatar, both wearing matching pink cardigans and pleated beige skirts."
+        }
+      ]
+    },
+    {
+      "id": "6a2021851fbf616cf07dad1e",
+      "title": "3D Girl Avatar Sticker Sheet Grid",
+      "slug": "3d-girl-avatar-sticker-sheet-grid",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded female image strictly only for face and identity reference. Preserve the same feminine identity across all panels.\nThe final result must look like the same woman transformed into a premium cute 3D chibi character in every panel.\nCreate a high-end, ultra-clean, premium-quality 3D chibi character sheet in a vertical 4:5 aspect ratio, showing the same female character in exactly 9 different expressions / poses, arranged in a clean 3x3 grid only.\nDo not add extra rows, extra panels, duplicates, or missing stickers.\n\nOverall Visual Style\nCute 3D chibi / doll-like illustration\nPremium polished rendering, crisp details, smooth finish\nBig glossy expressive eyes, soft cheeks, tiny nose, cute lips\nRounded face, adorable proportions, charming feminine look\nKeep the same face shape, same skin tone, same hair color, same hairstyle in all 9 panels\nHair should remain soft, slightly voluminous, and neatly styled like the reference female\nEvery character should appear as if popping out through torn white paper\nUse realistic ripped paper edges, soft drop shadows, and subtle depth\nBackground must be clean light grey\nUse thin clean white dividers between all 9 panels\nKeep a neat, balanced, symmetrical composition\nOverall result should feel like a premium polished 3D character board\n\nImportant style correction\nThe character must emerge directly from the torn paper opening.\n\nDo not add any white sticker outline, die-cut border, cutout edge, outer contour stroke, or separate decal-like border around the character.\n\nDo not create a sticker pasted on top of the panel.\n\nOnly the torn paper hole should frame the character.\nRendering Quality\nUltra-detailed 3D rendering\nSharp facial details\nClear clothing textures\nClean edges\nSoft studio lighting\nSmooth shading\nhigh-definition output\npolished premium finish\nno blur, no muddy textures, no low-detail simplification\n\nFraming\nExactly 9 panels only\n3 columns × 3 rows\nVertical 4:5 composition\nEach panel shows the character in a bust-up / waist-up view\nCharacter centered inside each paper-tear opening\nSimilar scale and spacing across all panels\n\nPanel-by-Panel Details\nTop-left\n\nSame female wearing large black round/oversized glasses, a white button-up shirt with visible collar and sleeves, and high-waisted blue jeans visible at the waistline.\nPose: smiling sweetly, one hand on waist, the other hand pointing outward playfully.\nTop-center\n\nSame female wearing a beige blazer over a light inner top.\nPose: calm, confident, pleasant smile, one hand resting under chin in a thoughtful, professional pose.\nTop-right\n\nSame female wearing a pastel rainbow striped sweater.\nPose: joyful laughing expression, eyes happily closed, mouth open in a big cheerful laugh, both hands raised excitedly.\nMiddle-left\n\nSame female wearing a soft pink sweater and pink cat-ear headband.\nPose: eyes closed, sleepy / pouty cute expression, both hands tucked gently under chin.\nMiddle-center\n\nSame female wearing a purple sleeveless top.\nPose: holding a turquoise-blue drink cup with straw, sipping the drink, wide innocent eyes, cute relaxed expression.\nMiddle-right\n\nSame female wearing a light blue button-up shirt.\nPose: cheerful wink, smiling, one hand raised in a friendly wave, the other hand resting near waist.\nBottom-left\n\nSame female wearing black round glasses and a mustard-yellow / warm yellow top.\nPose: curious thinking expression, one finger touching near cheek/temple, thoughtful but cute.\nBottom-center\n\nSame female wearing a white knitted cable-knit sweater.\nPose: slightly thoughtful / mildly confused expression, one finger raised upward as if thinking of an idea.\nBottom-right\n\nSame female wearing a rainbow knitted beanie, a pink inner top, and purple dungaree-style overalls.\nPose: cute kiss / pout expression, playful and adorable.\n\nImportant Accuracy Rules\nThe same female identity must appear in all 9 panels\nMaintain the same hair color exactly like the uploaded female reference\nMaintain the same hairstyle and facial proportions\nDo not turn her into different women\nDo not simplify the outfits too much\nKeep clothing details clear and recognizable\nKeep all 9 stickers visually consistent\nKeep the torn-paper effect in every panel\nKeep the overall look close to a premium polished 3D character sheet\nKeep the output crisp, detailed, and high quality\nExactly 9 stickers only\n3x3 grid only\n4:5 aspect ratio only\n\nNegative Instructions\nDo not generate low-detail characters, blurred rendering, flat cartoon style, low-quality textures, extra fingers, distorted hands, wrong outfit colors, missing accessories, different hairstyles, different identities, extra rows, duplicate stickers, text, logos, watermark, messy composition, cropped-off characters, white sticker outline, die-cut border, outer white stroke, pasted sticker effect, or cutout border around the character.",
+      "description": "3D Chibi Avatar Prompt: Copy & Paste this prompt to create a 9-panel sticker sheet of a cute 3D girl with different expressions peeking through torn paper.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 70,
+      "view_count": 3284,
+      "copy_count": 2936,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "2e48f100-021b-4820-9caf-558febd7d8f6.webp",
+          "local_path": "images/cute-kawaii/2e48f100-021b-4820-9caf-558febd7d8f6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2e48f100-021b-4820-9caf-558febd7d8f6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/2e48f100-021b-4820-9caf-558febd7d8f6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/2e48f100-021b-4820-9caf-558febd7d8f6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Girl Avatar Peeking Paper AI Photo Editing Prompt. AI generated 3D digital illustration grid of a cartoon girl with various expressions peeking through torn paper holes."
+        },
+        {
+          "filename": "4c996518-1973-4240-b0c1-74fe37245454.webp",
+          "local_path": "images/cute-kawaii/4c996518-1973-4240-b0c1-74fe37245454.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4c996518-1973-4240-b0c1-74fe37245454.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/4c996518-1973-4240-b0c1-74fe37245454.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/4c996518-1973-4240-b0c1-74fe37245454.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Girl Avatar Grid in Paper Holes AI Photo Editing Prompt. AI generated digital illustration grid of a 3D girl avatar in diverse outfits and expressions, each seen through a tear in white paper."
+        },
+        {
+          "filename": "3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
+          "local_path": "images/cute-kawaii/3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated 3D character illustrations of a girl with a bindi displaying various expressions and outfits peeking through torn paper."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267050a",
+      "title": "The Perfect Pout",
+      "slug": "cute-sad-3d-girl-cartoon",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded female subject as the identity reference and transform her into an extremely cute chibi-style 3D digital illustration while preserving her recognizable facial identity, hairstyle essence, skin tone, eye shape, and overall character likeness. The final character must closely follow the reference style: oversized round head, tiny seated body, big glossy innocent eyes looking slightly upward, sad but adorable pout expression, softly raised worried eyebrows, tiny rounded nose, chubby rosy cheeks, subtle freckles, and a heart-melting cute emotional mood. Keep the expression sad and pouty, but not crying, no tears, no dramatic sadness.\nCreate a full-body seated pose exactly like the reference: the character sitting cross-legged on the floor, body centered, knees bent outward, small hands gently resting together in front of the feet, shy and innocent posture, head slightly large and tilted naturally. Keep the composition clean and minimal with the full character visible, not cropped, placed in the lower-middle of the frame with plenty of white empty space around her.\nHair should be stylized from the uploaded subject, but rendered in the same soft detailed chibi illustration style with fine individual strands, soft volume, natural shine, and loose wispy hairs around the face. If the reference subject has long hair, convert it into a cute messy high bun or a soft childlike chibi hairstyle while keeping the subject’s identity cues. Outfit should stay simple and close to the reference style: dusty pink oversized t-shirt and mustard-yellow loose cropped pants, soft fabric folds, natural cartoon proportions, no sweater, no leggings, no shoes unless the uploaded subject strongly requires them.\nUse a clean pure white background only, with no room, no wall corner, no window, no wooden floor, no furniture, no props, no decorative elements. Add only a very soft contact shadow under the seated body. Rendering style should be premium soft 3D cartoon mixed with polished digital painting, high-quality storybook character illustration, smooth but not plastic, detailed hair strands, soft skin texture, warm gentle lighting, crisp focus, high-resolution finish, adorable emotional charm. No text, no signature, no watermark, no logo. Aspect ratio 4:5.",
+      "description": "3D Pixar-Style Character Prompt: Copy & Paste this prompt to create a cute, sad little girl sitting cross-legged with big brown eyes against a white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 68,
+      "view_count": 1227,
+      "copy_count": 3189,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Sad 3D Cartoon Girl AI Photo Editing Prompt. AI generated 3D digital illustration of a cute, sad little girl with big brown eyes and a messy bun sitting in a pink shirt and yellow pants."
+        },
+        {
+          "filename": "sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Sad Cute 3D Cartoon Girl AI Prompt. AI generated 3D digital illustration of an adorable, sad little girl with big brown eyes, a messy bun, and silver jhumkas sitting cross-legged in a pink t-shirt."
+        },
+        {
+          "filename": "sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated 3D digital illustration of a cute, sad little girl with big eyes and a messy bun sitting cross-legged on a white background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704fe",
+      "title": "Cozy 3D Family Gathering",
+      "slug": "3d-cartoon-family-portrait",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a vertical 4:5 full-body family portrait in a premium high-quality stylized 3D animated illustration style. Use the uploaded family photo as the subject reference and keep each person clearly recognizable through their facial structure, hairstyle, glasses if present, age feel, and natural expression, while converting them into a polished cute 3D animated look. The rendering should feel rich, detailed, soft, and high-end, with natural skin shading, detailed hair strands, realistic fabric texture, and smooth cinematic polish. Avoid any plastic, waxy, toy-like, or cheap CGI appearance.\nCamera Angle & Framing — Strict:\n\nUse a clearly elevated high-angle camera view, as if the camera is positioned above the family and tilted downward toward them, not at eye level. This perspective must create the same playful visual effect as the reference: faces and upper bodies appear slightly larger, the floor and rug are visibly seen beneath them, and the full bodies taper naturally toward the feet. Keep the family large in the frame, filling most of the composition from top to bottom. Show everyone head to toe, but avoid loose framing, excess empty wall, or a front-facing formal portrait look.\nFamily Placement & Pose:\n\nThis prompt should work for any number of family members. Arrange them in a tight, affectionate cluster with a warm, joyful, close-family feel. If children are present, place them toward the center/front of the group, not pushed to the side. Adults should stand slightly behind or around them, with natural affectionate gestures such as arms resting around shoulders, backs, or waists. Everyone should look directly toward the camera with bright, genuine, happy smiles. The pose should feel lively, loving, and candid, not stiff, symmetrical, or studio-formal.\nCharacter Design:\n\nUse a cute premium animated character style with slightly oversized expressive eyes, softly rounded facial forms, fuller charming head proportions, rich voluminous hair, and lively joyful facial emotion. Keep the characters adorable and expressive, but still refined and elegant. Do not make them too realistic, flat, generic, or proportioned like ordinary humans in a simple front-facing poster.\nOutfits:\n\nKeep the outfit vibe connected to the input, but when clothing is too plain, refine it into modern, clean, stylish family-casual fashion similar to the reference image. Use tasteful pieces such as soft cardigans, knit sweaters, neat blouses, denim jackets, striped inner tops, fitted trousers, loafers, simple sneakers, or other contemporary everyday outfits. The clothing should look polished, age-appropriate, and visually coordinated without feeling overstyled.\nBackground & Doodles:\n\nPlace the family in a clean cozy indoor setting with a warm beige wall, light wooden floor, a simple cream rug with brown geometric border patterns, and a small softly blurred potted plant in one corner. Keep the room minimal and uncluttered. Around the family, add playful hand-drawn wall doodles using bold dark-brown linework with a few warm colored accents, including pink or red hearts, yellow stars, sparkle marks, small celebratory doodles, and a tiny sketched family drawing. Add clear handwritten speech bubbles such as “Yay!” and “Family!”, arranged around the subjects without covering any faces or bodies.\nColor & Lighting:\n\nUse rich, warm, cheerful colors like the reference image, not washed-out or dull tones. The scene should feel bright, cozy, inviting, and emotionally warm, with balanced accents of beige, cream, pink, denim blue, warm brown, black, and soft red/yellow doodle highlights. Use soft warm indoor lighting with gentle face highlights, natural shadows under the feet, subtle edge separation, and a polished premium finish.\nStrict Result Goal:\n\nThe final image should closely follow the top-down camera angle, tight frame-filling composition, cute premium 3D proportions, rich warm color palette, playful doodle wall, minimal cozy background, and affectionate family energy, while preserving the uploaded family members’ recognizable identities and arrangement.",
+      "description": "3D Animation Style Prompt: Copy & paste this customizable prompt to create a cute, Pixar-style 3D portrait of any family, complete with cozy outfits and fun floating doodles.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 78,
+      "view_count": 2318,
+      "copy_count": 4678,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_l2x9v1l2x9v1l2x9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy 3D Cartoon Family AI Photo Editing Prompt. AI generated digital illustration of a smiling mother, father, and little girl standing together with cute doodle accents and speech bubbles."
+        },
+        {
+          "filename": "Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_zfbf18zfbf18zfbf.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Doodle-Adorned 3D Family Portrait AI Photo Editing Prompt. AI generated stylized digital illustration of a smiling four-member family with hand-drawn annotations and text bubbles including 'Yay!' and 'Family!'."
+        },
+        {
+          "filename": "Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_ubenhaubenhauben.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Pixar-Style Family AI Photo Editing Prompt. AI generated digital illustration of a smiling mother, father, and young daughter standing together, surrounded by hand-drawn doodles and speech bubbles."
+        },
+        {
+          "filename": "Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_p2vvpsp2vvpsp2vv.png",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy 3D Cartoon Family AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling father, mother, and young daughter standing together, surrounded by playful hand-drawn doodles and speech bubbles."
+        },
+        {
+          "filename": "Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_e0ut8se0ut8se0ut.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Cartoon Family AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling family of four wearing glasses with cute floating doodles."
+        },
+        {
+          "filename": "Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_bm2ircbm2ircbm2i.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_3a1bxh3a1bxh3a1b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_xey6hzxey6hzxey6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_618uxe618uxe618u.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_s7irxs7irxs7irxs.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_p0ap5rp0ap5rp0ap.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_let4wulet4wulet4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_jspey9jspey9jspe.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_g61ddlg61ddlg61d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_f7p01lf7p01lf7p0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_f3psz0f3psz0f3ps.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_79jbht79jbht79jb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_blg3ccblg3ccblg3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f5",
+      "title": "Mini Avatar Collection",
+      "slug": "3d-chibi-boy-character-sheet",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a square 1:1 collage featuring six premium 3D chibi-style renders of the same subject, arranged in a clean 3-column × 2-row grid. The subject should be reusable for any person, so use the uploaded/reference person as the base subject and transform them into a cute stylized 3D chibi character while keeping the same subject identity consistent across all six panels.\n\nThe character should have a charming animated look with an oversized head, large glossy eyes, soft rounded facial features, rosy cheeks, a small nose, a warm smile, and thick fluffy hair adapted from the subject. Keep the same subject consistent in all six panels, while changing only the outfit, pose, and expression according to each scene below.\n\nUse soft studio lighting, rich vivid smooth gradient backgrounds with clean saturated color depth, where the outer area stays more solid and colorful while the area near the subject becomes lighter and softer, subtle floor shadows, crisp fabric textures, detailed hair strands, and a clean high-resolution polished finish. Add a soft subtle rim light along the outer edges of the subject, especially around the hair, shoulders, arms, and clothing silhouette, so the character stays clearly separated from the background without looking overlit.\n\nPanel 1 — Top Left:\nA full-body subject standing calmly with both hands inside the hoodie pocket, gentle friendly smile, looking at the camera.\nOutfit: olive green hoodie, dark charcoal jogger pants, white low-top sneakers, small pendant necklace and wrist bracelet.\nBackground: a rich vivid gradient with sky-blue as the more solid outer color, becoming a lighter warm peach glow near the subject.\n\nPanel 2 — Top Middle:\nA confident stylish subject standing with hands in pockets, one eye winking, cheerful smile.\nOutfit: backward dark baseball cap, blue denim jacket, black-and-white striped t-shirt, black slim jeans with rolled cuffs, black-and-white sneakers, headphones resting around the neck, wristwatch.\nBackground: a rich vivid gradient with bright aqua-to-teal as the more solid outer color, becoming lighter near the subject.\n\nPanel 3 — Top Right:\nA joyful energetic subject laughing with eyes closed, both arms raised in celebration.\nOutfit: bright yellow sweatshirt with bold “PLAY” text, loose black joggers, colorful sporty sneakers.\nBackground: a rich vivid gradient with warm golden yellow and coral pink as the more solid outer colors, becoming lighter near the subject.\n\nPanel 4 — Bottom Left:\nA thoughtful subject standing in a cute thinking pose, one hand touching the chin, soft serious expression.\nOutfit: dark bomber jacket, white graphic t-shirt, tan cargo pants, high-top black-and-white sneakers, small backpack straps visible.\nBackground: a rich vivid gradient with lavender and soft pink as the more solid outer colors, becoming lighter near the subject.\n\nPanel 5 — Bottom Middle:\nA relaxed subject sitting on a small wooden stool, holding a smartphone in one hand, calm pleasant smile.\nOutfit: cream oversized sweatshirt, soft blue joggers, clean white sneakers, subtle bracelets.\nBackground: a rich vivid gradient with pastel green and pale yellow as the more solid outer colors, becoming lighter near the subject.\n\nPanel 6 — Bottom Right:\nA cool fashionable subject standing with one hand in pocket and the other making a peace sign, confident playful smile.\nOutfit: dark knit beanie, beige-and-black plaid overshirt over a black t-shirt, layered silver chain necklace, ripped black jeans, chunky sneakers, wristwatch and bracelet.\nBackground: a rich vivid gradient with blush pink and mint as the more solid outer colors, becoming lighter near the subject.\n\nOverall style: ultra-clean premium 3D cartoon render, cute chibi proportions, detailed realistic clothing materials, expressive faces, smooth soft shading, polished cinematic character design, vibrant pastel color harmony, adorable social-media avatar aesthetic.",
+      "description": "3D Chibi Character Illustration Prompt: Copy & Paste this prompt to create a collection of stylish 3D chibi boy characters featuring trendy outfits and expressive poses.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 41,
+      "view_count": 932,
+      "copy_count": 1567,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Chibi Boy Character Grid AI Photo Editing Prompt. AI generated 3D digital illustration of a cute chibi boy featuring six stylish outfits and expressive poses on colorful backgrounds."
+        },
+        {
+          "filename": "six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "Six Cute Boy Character Variations AI Photo Editing Prompt. AI generated 3D digital illustration of a 2x3 grid featuring a cute chibi-style boy in various stylish outfits and expressive poses against colorful pastel backgrounds."
+        },
+        {
+          "filename": "six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated 3D digital illustration featuring a grid of six adorable boy characters wearing diverse trendy outfits and displaying various expressive poses against vibrant pastel backgrounds."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f0",
+      "title": "Little Miss",
+      "slug": "cute-3d-chibi-girl-denim-overalls-sunglasses",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a high-quality, cute chibi-style 3D character illustration of a little girl(upload person) with an oversized head, big, soft facial features, and a confident, playful attitude. She is wearing large, round, black sunglasses, a plain white t-shirt, and loose, dark blue denim overalls with realistic stitching, front bib pocket, side pockets, metal buttons, and rolled-up cuffs. She has natural-coloured hair tied into two low pigtails with soft, loose strands flying around her face.\nPose: full-body standing pose, body tilted, one hand resting on her hip, the other hand lifting or adjusting her sunglasses near her eye. Her expression is cool, slightly pouty, stylish, and confident. She wears clean white sneakers and white socks.\nStyle: adorable premium 3D cartoon render, soft skin, detailed hair strands, realistic denim texture, clean studio lighting, smooth shadows, white background, high resolution, sharp details, cute collectable character aesthetic.\n\nAspect ratio 4:5, vertical portrait.",
+      "description": "3D Pixar-Style Character Prompt: Copy & Paste this prompt to generate a cute 3D stylized girl with pigtails and round sunglasses wearing denim overalls on a white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 56,
+      "view_count": 971,
+      "copy_count": 2787,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cute Girl in Overalls AI Photo Editing Prompt. AI generated 3D illustration of a cute little girl with pigtails wearing round sunglasses, a white t-shirt, and blue denim overalls."
+        },
+        {
+          "filename": "cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cute Chibi 3D Girl Character Design Prompt. AI generated 3D digital illustration of a stylish little girl with pigtails adjusting her round sunglasses, wearing denim overalls."
+        },
+        {
+          "filename": "cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cute 3D animated girl with pigtails wearing sunglasses and denim overalls."
+        },
+        {
+          "filename": "cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-4.webp",
+          "local_path": "images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-little-girl-with-sunglasses-and-denim-overalls-3d-illustration-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D cartoon character of a cute little girl with silver hair wearing denim overalls, a white t-shirt, and round sunglasses."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704e9",
+      "title": "The Smirking Pair",
+      "slug": "cute-3d-couple-pixar-style",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Ultra-detailed stylized 3D character render of a playful young couple (male and female), designed with exaggerated chibi proportions (oversized heads, compact bodies), large expressive eyes, soft smooth skin, and highly detailed hair strands with natural color, natural flow and subtle flyaways.\nCharacters:\nFemale: long straight or slightly tousled hair, natural volume, optional minimal hair clip\nMale: short to medium stylized hair, soft texture with clean strand detail, and grooming details\nFacial Expression (IMPORTANT):\nBoth characters have a mischievous, slightly defiant expression\nEyebrows slightly lowered\nEyes looking sharply to the side (side-eye)\nNose subtly scrunched\nLips pressed into a tight playful smirk\nPose (IMPORTANT — match exactly for BOTH):\nStanding back-to-back, close together\nFeet close and pointing forward\nArms relaxed straight down at their sides\nEyes looking sideways (same direction or slightly toward each other)\ncompact posture\nInteraction Detail:\nTheir backs lightly touching, giving a subtle cute couple vibe, but both maintain the same pose (no hugging or hand-holding)\nClothing:\nOversized long-sleeve cream beige sweatshirts, and maching trousers (minimal design, soft folds, chest pocket)\nSimple socks and casual sneakers\nSlight color contrast between male and female outfits\nLighting:\nSoft studio lighting\nGentle directional key light\nSmooth soft shadows\nSubtle ambient fill\nSoft highlight transitions\nRendering Style:\nHigh-end 3D stylized realism (Pixar-like quality)\nUltra-clean textures\nSoft subsurface scattering\nCinematic depth of field\nBackground:\nClean, soft bokeh seamless studio backdrop with warm tones. No objects in the background.\nComposition:\n4:5 aspect ratio\nVertical portrait\nFull body, centered\nCinematic poster layout\nBalanced spacing between characters",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 109,
+      "view_count": 3013,
+      "copy_count": 8575,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_583un6583un6583u.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_583un6583un6583u.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_583un6583un6583u.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_583un6583un6583u.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_583un6583un6583u.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704e1",
+      "title": "Chibi Girl Expression Pack",
+      "slug": "3d-chibi-girl-kawaii-sticker-sheet",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Style & Format:\nPremium 3D kawaii chibi sticker-sheet in a vertical 4:5 format. Clean 3x3 layout on a soft white-to-light-blue gradient. Each character must be a glossy die-cut sticker: thick rounded white border, subtle lifted paper edge, soft drop shadow, and high-quality toy-like 3D rendering.\nCharacter Specs:\nMaintain 100% identity accuracy for a single character. Miniature girl with an oversized head, tiny body, rosy cheeks, big sparkling brown eyes, and shiny brown hair with detailed highlights and soft bangs. No flat anime/vector style or adult proportions.\nThe 3x3 Grid (9 Poses & Outfits):\n\nThumbs up: Pink hoodie, rolled jeans, sneakers.\nSitting (hands on cheeks): Blue hoodie, white pants.\nJumping (peace sign): Purple oversized top, sneakers.\nWinking: Denim overalls, round glasses.\nHeart hands: Soft pink dress.\nOne fist raised: Pink varsity jacket, cap.\nHugging bunny plush with closed eyes: Pink bunny pajamas, bunny slippers.\nPainting: Cream painter apron, beret, palette.\nLaptop task: Yellow hoodie, sitting at desk.\nText & FX:\nAdd 9 rounded white sticker speech bubbles with pastel outlines. Phrases: “Awesome!”, “Nice one!”, “HAHAHA!”, “Thank you!”, “You’re the best!”, “Good job!”, “So cute!”, “Well done!”, and “Keep it up!”. Use one solid text color per bubble (pink, blue, purple, orange, or teal). Add floating hearts, stars, and sparkles.\nRendering:\nGlossy, high-detail, soft-shaded 3D cartoon style. Polished highlights, clean pastel colors, and detailed fabric folds. All stickers must be evenly spaced and fully visible within their grid areas.",
+      "description": "3D Kawaii Chibi Sticker Art Prompt: Copy & Paste this prompt to create a set of cute, expressive 3D girl character stickers with vibrant colors and positive text bubbles.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 711,
+      "copy_count": 1162,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "local_path": "images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cute Chibi Girl Figures AI Photo Editing Prompt. AI generated digital illustration of a grid collection featuring nine distinct adorable chibi girl figures, each presenting a different pose, costume, and positive text reaction bubble."
+        },
+        {
+          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        },
+        {
+          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        },
+        {
+          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "local_path": "images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704d9",
+      "title": "The Tiny Pout",
+      "slug": "miniature-grumpy-woman-palm-cheek-pinch",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a stylized big-head miniature portrait in a 1:1 aspect ratio. Person appears as a tiny character with a slightly enlarged head and small body, sitting inside a large human hand. \n\nPose: seated cross-legged, hands crossed, slightly pouty, angry but very cute expression, looking at the camera.\n\nEnvironment: blurred city night background with bokeh lights.\nAdd a second hand gently pinching/adjusting the person’s cheek for a playful effect.\n\nOutfit: casual t-shirt, pants, sandals.\n\nLighting: soft cinematic light, shallow depth of field, high detail, ultra-realistic, clean focus.",
+      "description": "Miniature Prompt: Copy & Paste this prompt to generate a creative image of a tiny, grumpy woman sitting in a giant human palm with a playful cheek-pinch against a night city bokeh.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 121,
+      "view_count": 2427,
+      "copy_count": 7525,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "local_path": "images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Tiny Grumpy Woman in Palm AI Photo Editing Prompt. AI generated 3D digital illustration of a miniature woman with crossed arms sitting in a human palm while her cheek is pinched against a bokeh city background."
+        },
+        {
+          "filename": "tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "local_path": "images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Tiny Pouty Woman Miniature Prompt. AI generated digital illustration of a miniature grumpy woman sitting in a giant palm with her cheek being pinched against a blurred night city background."
+        },
+        {
+          "filename": "tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated digital illustration of a miniature grumpy woman with glasses sitting cross-legged in a giant palm while a hand pinches her cheek against a bokeh night city background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704d3",
+      "title": "Dreamy Birthday Bliss",
+      "slug": "girl-birthday-hello-kitty-theme",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded image as an reference for the girl’s face, hair & identity.  Do not alter facial features.\nA full-body portrait of a reference cute girl standing beside a birthday cake at a themed party, centered in a soft, dreamy indoor studio setting.\nThe theme is fully inspired by Hello Kitty, with a color palette of soft pink, white, and red, with subtle pastel accents.\nThe child has a sweet smile, and hair styled in an elegant updo with soft curls framing her face.\nShe is wearing a luxurious, sparkling dress in white and soft pink tones, with delicate lace details, glitter textures, and Hello Kitty character patterns printed across the fabric.\nThe dress features a semi-transparent lace neckline and sleeves, with a flared skirt decorated with bows, hearts, and subtle shimmering particles.\nShe also wears a decorative headband featuring Hello Kitty ears with a signature red bow and a small elegant tiara detail.\nOn her feet are white lace knee-high socks and glossy red shoes with bow details.\n\nShe stands in an elegant, natural pose: her body is slightly angled (~15–20°) and not fully frontal. Her weight is shifted onto one leg, while the other leg is placed slightly forward in a gentle cross-over stance. Her posture is upright but soft with relaxed shoulders, and her head is slightly tilted toward the camera. One arm hangs relaxed by her side with a slight natural bend, while her other hand softly rests on the cake stand.\nNext to her on a classic, matte white pedestal stand resting a tall, three-tier birthday cake in pink and white gradient tones, decorated with bows, hearts, stars, and multiple Hello Kitty figurines.\nThe cake topper shows a number “7” candle.On the front of the cake, a decorative plaque reads: “Happy Birthday” in elegant script.\nThe background is filled with a festive balloon arrangement in pink, white, and red, forming an arch above her.\nHanging across the backdrop is a triangular banner with Hello Kitty faces and patterns.\nWarm fairy string lights glow softly behind, creating a magical bokeh effect.\nLight fog or mist surrounds the lower area, adding a dreamy atmosphere.\nAround the scene are multiple Hello Kitty plush toys placed on the floor and small stools, reinforcing the theme.\nThe floor is light wood, and the lighting is soft, warm, and diffused, enhancing the child’s face and the sparkle of her outfit.\nAt the floor, add a beautiful greeting card with the text: “Prompt Plum” in a decorative style.\n\nStyle & Quality Tags: ultra-detailed, photorealistic, 8k resolution, soft lighting, studio photography, shallow depth of field, bokeh, cinematic composition, highly detailed textures, vibrant colors, sharp focus, professional portrait, fantasy cute aesthetic",
+      "description": "Birthday Photography Prompt: Copy & Paste this prompt to create a charming studio portrait of a 7th birthday celebration images of a young girl in a Hello Kitty-themed setting featuring a layered cake and festive pink balloons.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 86,
+      "view_count": 4528,
+      "copy_count": 6843,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "7th Birthday Girl Hello Kitty Theme AI Photo Editing Prompt. AI generated digital portrait of a young redhead girl in a lace dress standing beside a pink three-tier cake surrounded by balloons and Hello Kitty plushies."
+        },
+        {
+          "filename": "girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Girl's 7th Birthday Hello Kitty Theme Photography Prompt. AI generated digital portrait of a smiling girl in a pink lace dress standing beside a three-tier cake with festive balloons and Hello Kitty decor."
+        },
+        {
+          "filename": "girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-3.webp",
+          "local_path": "images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/girl-celebrating-7th-birthday-hello-kitty-theme-digital-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital portrait of a young girl in a pink lace dress standing beside a three-tier Hello Kitty cake and festive balloons."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526701ec",
+      "title": "Cute Girl",
+      "slug": "cute-girl",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded image strictly as the facial identity reference. Preserve the exact facial structure, proportions, and likeness—do not alter or distort the identity.\nCreate a highly realistic yet soft and visually pleasing photo of a young woman wearing an oversized white knit sweater with a light blue floral pattern.\nComposition & Pose:\n\nHalf-body portrait, shot from a slightly low angle. The subject is gently turned toward the camera, chin slightly raised. Eyes closed with a calm, dreamy expression and a soft, delicate smile.\nEnvironment & Background:\n\nClear blue sky background with a soft, natural-looking heart-shaped cloud placed above and slightly to the right side of the subject. Minimal, clean, and aesthetic.\nLighting:\n\nSoft natural daylight with a gentle glow. Even lighting with smooth highlights and very soft shadows to enhance a cute, airy feel.\nFacial Rendering:\n\nSkin should appear smooth, healthy, and naturally soft (not overly textured, not plastic). Keep a subtle, clean makeup look with a fresh and youthful glow.\nDetails:\n\nSoft, slightly voluminous hair with natural flow\n\nClean edges, no harsh contrast\n\nBright, pleasant color tone\n\nSharp focus on face and upper body with mild background softness\nStyle:\n\nPhotorealistic with a soft, dreamy, cute aesthetic. High clarity, 1:1 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 1683,
+      "copy_count": 2792,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": ""
+        },
+        {
+          "filename": "woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670479",
+      "title": "Unconditional Joy",
+      "slug": "3d-cartoon-people-with-pets",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded image as the ONLY facial and identity reference for the human subject. The face must remain highly recognizable — preserve facial structure, proportions, hairstyle, and identity. Do not alter or beautify facial features.\n\nCreate a heartwarming Pixar-style 3D animated portrait focused on the emotional bond between the human and their pet.\n\nCharacter Design:\n- Both the human and the pet should have cute mini-body proportions (slightly chibi-inspired but still Pixar-realistic)\n- Slightly larger head, soft rounded facial features, and expressive eyes\n- Maintain identity accuracy while enhancing overall cuteness\n\nPose & Interaction:\n- Both the pet and the human subject are facing each other or directly toward the viewer (front-facing)\n- The pet is being gently held close (in arms or near chest/face)\n- The pet looks very happy, energetic, and joyful (open mouth smile or playful expression)\n- The human has a soft, warm, emotionally engaging smile\n- Strong visible bond — affection, comfort, companionship\n\nPet Handling:\n- If pet image is provided: recreate it accurately (fur texture, color, personality)\n- If not: generate a cute personality-matching pet (small fluffy dog, kitten, bunny, etc.)\n\nStyle & Rendering:\n- High-end Pixar-style 3D rendering\n- Soft skin shading, smooth materials, subtle subsurface scattering\n- Detailed, soft, volumetric fur\n- Clean, polished, cinematic quality (not over-stylized or plastic)\n\nClothing:\n- Inspired by the reference image outfit\n- Slightly enhanced for a premium look (richer colors, soft fabric texture, clean styling)\n\nComposition & Framing:\n- Aspect ratio: 1:1 (perfect square for DP)\n- Medium close-up (chest-up framing)\n- Face and pet both clearly visible and centered\n- Balanced composition with comfortable negative space around the subject\n- Keep slight breathing room on all sides (top, left, right) for a premium DP look\n- Slight depth to avoid flat look\n\nLighting:\n- Soft studio lighting\n- Warm and cozy tone\n- Gentle rim light for separation\n- Soft highlights on face and fur\n\nBackground:\n- Clean studio-style soft, light color gradient background\n- Outer edges slightly darker or softly colored\n- Inner area (around subject) gradually transitions into a lighter tone\n- Subtle center-focused glow behind the subject to naturally draw attention\n- Smooth gradient blend with no harsh transitions or distractions\n\nMood:\nCute, joyful, emotional, and highly engaging — perfect for a profile picture\n\nQuality:\nUltra-high resolution, sharp, clean, no noise, no distortion, no artifacts\n\nEnsure perfect face clarity, no deformation, and clean rendering.\nEnhance emotional connection and cuteness without losing realism.",
+      "description": "3D Animated Portrait Prompt: Use this prompt to generate heartwarming 3D illustrations of diverse people of all ages happily cuddling their cute pets in a vibrant studio style.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 56,
+      "view_count": 1431,
+      "copy_count": 1721,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "local_path": "images/cute-kawaii/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "AI Photo Editing Prompt. AI generated digital illustration of a smiling woman with wavy brown hair hugging a fluffy orange tabby cat."
+        },
+        {
+          "filename": "man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/cute-kawaii/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Man Hugging Puppy AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling man with glasses and a beard hugging a cute, fluffy brown and white puppy."
+        },
+        {
+          "filename": "boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/cute-kawaii/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Boy with Puppy AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling boy with curly hair in a blue cable-knit sweater hugging a fluffy brown puppy."
+        },
+        {
+          "filename": "elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/cute-kawaii/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Elderly Woman with Pet AI Photo Editing Prompt. AI generated digital illustration of a smiling elderly woman in a pink cardigan warmly hugging a joyful golden retriever puppy."
+        },
+        {
+          "filename": "elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "local_path": "images/cute-kawaii/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Elderly Man with Pet AI Photo Editing Prompt. AI generated digital illustration of a smiling elderly man with glasses wearing a blue cardigan and hugging a happy Shih Tzu dog with a blue bandana."
+        },
+        {
+          "filename": "girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "local_path": "images/cute-kawaii/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "3D Animated Girl Hugging Pet AI Photo Editing Prompt. AI generated 3D digital illustration of a young girl with braided hair and colorful clips hugging a fluffy tan Pomeranian dog."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267046c",
+      "title": "Maroon Mini-Me Magic",
+      "slug": "maroon-mini-me-magic",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a vibrant, high-quality mixed-media composition that blends realistic photography with stylized 3D chibi characters and playful 2D doodle overlays.\n\nUse the uploaded image as the primary identity reference. \nFace Accuracy (Critical) Match the face with 100% identity accuracy. Preserve exact facial structure, bone anatomy, jawline, cheekbones, and forehead proportions.\nShe has a warm, cheerful, natural smile. And naturally flowing hair. \nOutfit & Style:\n\nShe wears a maroon skater-style mini dress, a cropped white denim jacket, and clean white sneakers. A small white quilted crossbody bag with a metallic clasp hangs naturally across her body.\nPose & Framing:\n\nFull-body, stylish walking pose toward the camera, with one hand on the bag strap. Vertical 4:5 or 1:1 composition. Subject-centred. Apply a clean, white, handwritten outline around her entire body (not sticker-style edges).\nChibi Characters (IMPORTANT STRUCTURE):\n\nFour 3D chibi versions of the same woman (exact same face + outfit, Pixar-style, glossy finish, with handwritten outline details):\n\nOne medium-sized(real subject's waist height) chibi walking on the left side with the same pose, same style, same outfit, with quilted crossbody bag details as the subject\n\nOne small chibi is sitting playfully on her right shoulder\n\nOne smaller chibi hugging/climbing her leg\n\nOne peeking from behind her other leg\nAll chibis are slightly smaller than the left-side chibi, with lively expressions and dynamic, natural body movement (not stiff). Each has a soft white outline.\nEnvironment:\n\nOutdoor aesthetic café street setting with plants and flowers. No visible people in the background. Background softly blurred (shallow depth of field, bokeh).\nLighting:\n\nBright natural daylight, soft and even, high-end lifestyle photography look.\nGraphic Elements & Overlays:\n\nAdd colorful hand-drawn doodles around the subject:\n\nhearts, stars, sparkles, lightning strokes, motion lines\nInclude playful handwritten typography:\n\n“cutie”, “smile”, “fashion”, “happy”, “yay”\n\n(mix of white, blue, black, and vibrant colors)\nStyle Balance:\n\nKeep the main subject photorealistic. Blend seamlessly with stylized chibis and flat doodle graphics without overpowering realism.",
+      "description": "",
+      "ai_tools": [],
+      "like_count": 90,
+      "view_count": 2435,
+      "copy_count": 3115,
+      "is_premium": false,
+      "published_at": "2026-09-03T11:46:29.043Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "IMG_20260323_095030.webp",
+          "local_path": "images/cute-kawaii/IMG_20260323_095030.webp",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20260323_095030.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/IMG_20260323_095030.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/IMG_20260323_095030.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267043a",
+      "title": "Framed in Love",
+      "slug": "happy-family-heart-frame-3d-illustration",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a high-quality 3D stylized cartoon illustration based on submitted references of family members, all peeking out from behind a matte heart-shaped opening. Only their heads, hands (where applicable), and upper torsos should be visible, looking playful and hiding.\nSubjects must be arranged in descending age order.\nThe composition should feature a soft, textured beige. The entire outer background is a beige gradient; the heart-shaped opening borders are the same colour but slightly darker; the inner background is a dark violet gradient, creating a contrast that highlights the brightness of the characters. The style must have a soft Pixar/Disney animation look, with large expressive eyes, smooth skin, and slightly enlarged head proportions for cinematic charm, while retaining the recognizable facial features, hairstyles, and age from the reference photos.\nEveryone is gently holding the edges with small hands/paws and leaning slightly forward with curious, playful expressions. The lighting should be soft studio light with warm, gentle highlights and no harsh shadows.\nThe image must be a 1:1 aspect ratio portrait with centralized framing and shallow depth of field. The final render should be ultra-sharp 4K, in an Octane/Unreal/Disney rendering style.",
+      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to generate a heartwarming 3D animated portrait of a happy family smiling through a heart-shaped cutout.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 81,
+      "view_count": 1310,
+      "copy_count": 2843,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Family Heart Frame AI Photo Editing Prompt. AI generated 3D Digital Illustration of a smiling family and their Golden Retriever peering through a heart-shaped frame aperture."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling family with three children and a golden retriever puppy peeking through a heart-shaped cutout."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling East Asian family of five peeking through a large heart-shaped cutout against a dark background."
+        },
+        {
+          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "local_path": "images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Multi-Generational Family Peeking through Heart-Shaped Frame AI Photo Editing Prompt. AI generated stylized 3D digital illustration in a Pixar-esque art style. A diverse and smiling group of six people—mother, father, grandmother, and three children—peers out joyfully from a large heart-shaped opening in a wall, set against a deep purple background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670435",
+      "title": "Stacked Smiles",
+      "slug": "animated-family-peeking-around-wall",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a high-quality 3D stylized cartoon illustration based on submitted references of family members, all peeking out from behind a matte vertical wall on the left side of the frame. Only their heads, hands (where applicable), and upper torsos should be visible, positioned vertically one below the other in an aligned row, looking playful and hiding.\nSubjects must be arranged in descending age order.\nThe composition should feature a soft, textured beige pastel wall in the foreground on the left, and a soft studio gradient in a matching beige tone on the right. The style must have a soft Pixar/Disney animation look, with large expressive eyes, smooth skin, and slightly enlarged head proportions for cinematic charm, while retaining the recognizable facial features, hairstyles, and age from the reference photos.\nEveryone is gently holding the wall with small hands/paws and leaning slightly forward with curious, playful expressions. The lighting should be soft studio light with warm, gentle highlights and no harsh shadows.\nMaterials include a matte, velvety wall texture and soft fabrics. The image must be a vertical portrait with centralized framing and shallow depth of field. The final render should be ultra-sharp 4K, in an Octane/Unreal/Disney rendering style.",
+      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to create a heartwarming Pixar-style animation of a happy family, playfully peeking from behind a wall with cheerful, expressive faces.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 170,
+      "view_count": 3474,
+      "copy_count": 6705,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "local_path": "images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
+          "width": 1429,
+          "height": 2560,
+          "alt": "Family Peeking Behind Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a cheerful family of four peeking from behind a beige wall in a playful vertical stack."
+        },
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "local_path": "images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Family and Golden Retriever Peeking AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling cartoon family and their puppy peeking from behind a beige wall."
+        },
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "local_path": "images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
+          "width": 1429,
+          "height": 2560,
+          "alt": "Happy Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a happy multi-generational family and their golden retriever peeking around a wall."
+        },
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "local_path": "images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
+          "width": 1429,
+          "height": 2560,
+          "alt": "Happy Cartoon Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling three-generation family peeking vertically from behind a beige wall."
+        },
+        {
+          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "local_path": "images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
+          "width": 1429,
+          "height": 2560,
+          "alt": "Happy Indian Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a multi-generational Indian family in vibrant traditional attire peeking playfully from behind a vertical wall with joyful expressions."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670415",
+      "title": "Grumpy Toddler Girl",
+      "slug": "grumpy-toddler-girl",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a super cute, hyper-realistic 3D render of a toddler girl who is a younger version of the person in the provided reference photo.\nIdentity Matching (Very Important):\n\nThe facial structure must strongly match the reference image. Accurately replicate the exact eye shape, eye color, skin tone, lip shape, nose structure, cheek fullness, eyebrow shape, and overall facial proportions. The toddler version should clearly resemble the same person at a younger age while maintaining realistic childlike softness and rounded features.\nIf any accessory (such as an earring or similar detail) appears in the reference image, replicate it accurately in size, colour, and placement.\nExpression:\n\nDistinctly grumpy and pouty. Chin resting on her left palm. One eye slightly squinted in mild annoyance. Eyebrows gently furrowed. Lips pushed forward in a stubborn pout. Expression must feel natural and emotionally believable, not exaggerated.\nHair:\n\nHairstyle should be adapted from the reference image while keeping it toddler-appropriate. Styled in a messy high bun with soft, natural baby hair strands framing the face.\nOutfit:\n\nWhite short-sleeve t-shirt under classic blue denim overalls with visible stitching and metal clasps.\nPose & Background:\n\nSitting cross-legged on a clean white studio background. Feet slightly angled toward the camera. Balanced composition with full body visible.\nStyle & Quality:\n\nUltra-detailed Pixar/Disney-inspired 3D animation aesthetic. Professional CGI rendering. 1:1 aspect ratio. 8K resolution. Sharp focus. Cinematic studio lighting with soft subsurface scattering on the skin. Smooth textures, realistic fabric physics, soft global illumination, and natural shadow falloff.",
+      "description": "AI 3D Illustration Prompt: Use this prompt to generate a high-quality digital render of a grumpy toddler girl in denim overalls and a hair bun, sitting against a clean white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 1709,
+      "copy_count": 3082,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "local_path": "images/cute-kawaii/grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Grumpy Toddler AI Prompt. AI generated 3D digital illustration of a pouting little girl with a high bun hairstyle wearing denim dungarees and a white t-shirt against a plain white background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670405",
+      "title": "Chibi-Inspired Couple",
+      "slug": "chibi-inspired-couple",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a full-body, cute chibi-style 3D cartoon illustration of a couple standing side by side, captured from a high, top-down perspective with a slight wide-angle lens effect, as if the camera is positioned directly above them and tilted downward. The view should clearly show the tops of their heads slightly while emphasizing their faces, creating a cute, slightly exaggerated perspective where the upper body and faces appear more prominent than the lower body.\nThe characters must maintain accurate face matching to the provided reference image — preserving their exact facial structure, hairstyle, skin tone, eye shape, smile, and overall likeness while transforming them into a stylized chibi 3D version.\nThe woman has voluminous, warm-brown hair, oversized, expressive eyes, soft cheeks, and a bright, cheerful smile. Take the outfit and accessories details from the reference image. She is waving one hand in a friendly, welcoming gesture. Her expression should convey joy, affection, and liveliness.\nThe man stands very close beside her in a relaxed, natural pose. He has naturally styled hair, expressive eyes, and a friendly smile. Extract outfit details from the reference image. One hand rests casually inside his pocket while the other hangs naturally.\nBoth characters should have classic chibi proportions:\nOversized heads\nSmaller compact bodies\nSmooth facial features\nSubtle blush on cheeks\nGlossy, highly detailed eyes with soft reflections\nSoft stylized skin shading\nDepth of Field Adjustment:\nThe lower body area (from the waist down toward the feet) should be slightly blurred with a soft depth-of-field effect, while the faces remain extremely sharp and in clear focus.\nRendering Style:\nUltra-detailed 3D Pixar-inspired character design, glossy smooth textures, hyper-clean sculpting, realistic fabric folds, subtle skin subsurface scattering, cinematic soft global illumination lighting, soft shadows beneath the characters, vibrant yet balanced color grading, and ultra-sharp clarity.\nResolution & Composition:\n4K Ultra HD quality, extremely sharp focus, high-detail rendering, studio-quality finish, clean minimal light gray or soft off-white background, no clutter, professional lighting setup, slightly extra empty space above the head, slightly empty space below the feet.\nAspect Ratio: 4:5 (vertical composition)\nMood:\nCute, heartwarming, romantic, cheerful, wholesome, premium 3D render aesthetic.\n\nNo plastic effects.",
+      "description": "Google Gemini AI 3D Illustration Prompt: Use this prompt to generate a charming 3D chibi-style portrait of a cute couple, featuring high-quality digital art details and a unique high-angle perspective.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 109,
+      "view_count": 2022,
+      "copy_count": 5925,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
+          "local_path": "images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Couple in Formal Attire AI Prompt. AI generated 3D digital illustration of a smiling couple in formal wear, featuring a woman in a red lace gown waving and a man in a black tuxedo against a white background."
+        },
+        {
+          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Stylized Couple Portrait Prompt. AI generated 3D digital illustration of a fashionable young couple posing together from a high-angle view, featuring a woman waving in a fruit-print top and a man in a light blue shirt."
+        },
+        {
+          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
+          "local_path": "images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
+          "width": 1792,
+          "height": 2368,
+          "alt": ""
+        },
+        {
+          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
+          "local_path": "images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703f3",
+      "title": "A Tiny \"Good Morning\"",
+      "slug": "cute-3d-animated-girl-good-morning-mug-kitchen",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "A high-quality 3D chibi-style character with an oversized head and small body proportions.\nThe character’s face must closely resemble the uploaded face reference image, preserving facial structure, eyes, nose, lips, and overall likeness.\nThe character is standing on a wooden kitchen counter, holding a small white mug with subtle text “Good Morning”.\nWearing a cozy pastel pink one-piece loungewear, soft fabric texture, cute and comfortable.\nHair styled in a soft, voluminous updo with loose strands, natural tone, accessorized with a small bow and hair clip.\nFacial expression: warm smile, friendly, cheerful, approachable.\nEnvironment: modern cozy kitchen interior, wooden shelves, plants, jars, soft fairy lights in the background.\nLighting: soft natural daylight mixed with warm ambient lights, cinematic depth of field, shallow focus.\nStyle: Pixar-quality 3D render, ultra-detailed, smooth skin shading, high realism with cute stylization.\nCamera: eye-level, centered composition, full body visible.\nResolution: ultra high quality, sharp focus, clean render, no distortion.\nNEGATIVE PROMPT (important):\ndeformed face, inaccurate facial likeness, extra fingers, extra limbs, realistic human proportions, uncanny valley, blurry, low detail, harsh lighting, flat shading",
+      "description": "Google Gemini AI 3D Illustration Generation Prompt: Use this prompt to create a cozy 3D animated scene of a cute curly-haired girl in a pink jumpsuit holding a 'Good Morning' mug in a warm, sunlit kitchen.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 1012,
+      "copy_count": 1467,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cute-3d-girl-morning-mug-illustration-by-promptplum.webp",
+          "local_path": "images/cute-kawaii/cute-3d-girl-morning-mug-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-3d-girl-morning-mug-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/cute-3d-girl-morning-mug-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/cute-3d-girl-morning-mug-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar Style Good Morning Prompt. AI generated 3D digital illustration of a cute, curly-haired girl in a pink romper holding a \"Good Morning\" mug in a sunlit kitchen."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703e1",
+      "title": "Cozy Morning Mirror Selfie",
+      "slug": "white-heart-sweater-mirror-selfie",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a 4K photorealistic mirror selfie of a young woman standing indoors in a softly lit, white-toned bedroom environment. The image should feel like a natural, candid cute selfie moment — intimate, gentle, and emotionally warm, not dramatic or stylized.\nFraming:\n\nVertical portrait composition, 4:5 aspect ratio. Subject visible from head to mid-thigh (above), centered in a full-length mirror with a thin light wood frame. Natural handheld selfie framing with slight imperfection and realism, not overly symmetrical or studio-perfect.\nExpression and mood:\n\nSoft, gentle, closed-mouth smile with a relaxed, calm, and approachable expression. Eyes appear warm, lively, and naturally expressive. Overall mood is cute, cozy, and authentic — like a spontaneous personal selfie rather than a professional shoot.\nFace & skin detail:\n\nFace matches the reference image exactly — same eyes, nose, jawline, proportions, and skin tone. Skin appears smooth, clean, and naturally soft with subtle healthy glow, but NOT HDR, NOT overly sharpened, and NOT overly contrasty. Natural skin texture preserved with soft tonal transitions. Makeup is minimal and realistic: soft dewy finish, subtle blush, natural eyebrows, and muted pink-mauve lips.\nHair:\n\nHair styled in a soft, messy, high bun with loose, natural, slightly wavy strands falling gently around the face. Hair texture appears smooth and realistic with soft light interaction.\nOutfit and fabric detail:\n\nCream white oversized knit sweater with large soft red heart patterns. The knit fabric appears plush, soft, and slightly fuzzy, with a natural texture — not overly sharp or artificial. Sweater loosely tucked into the jeans in a relaxed style.\n\nLight-wash high-waisted denim jeans with subtle distressing and natural denim texture.\n\nSmall gold stud earrings.\nPose and interaction:\n\nRelaxed standing posture with natural body alignment. One hand holding a modern smartphone with a triple-camera layout and beige case, positioned naturally while taking a mirror selfie. Hand in a relaxed position, fingers naturally curved around the phone.\nLighting (very important):\n\nSoft, warm natural daylight coming from the left window. Lighting is diffused, gentle, and flattering — no harsh shadows, no harsh highlights, no HDR effect. Smooth tonal roll-off across skin and clothing. Highlights are soft and controlled. Overall warm color temperature with cozy beige and cream tonal harmony.\nColor and tone characteristics:\n\nWarm neutral color palette dominated by cream, beige, soft wood tones, and gentle skin tones. Low contrast, smooth tonal transitions, no exaggerated saturation. Image should feel soft, airy, and calm — lifestyle photography aesthetic, NOT cinematic, NOT dramatic.\nEnvironment:\n\nMinimal, clean bedroom interior. Large window with sheer curtains on the left, softly diffusing sunlight. White wall behind subject with a floating light wooden shelf. Small trailing green plant on shelf. Background elements minimal, clean, and softly blurred.\nDepth of field and optics:\n\nShallow depth of field with subject in sharp focus and background softly blurred.\n\nPortrait lens look (50–85mm, f/1.8).\n\nNatural lens rendering, no artificial HDR sharpening or excessive micro-contrast.\nImage quality and realism:\n\nUltra-realistic lifestyle photography. Smooth, natural rendering. No HDR, no oversharpening, no artificial hyper-contrast. Soft detail priority over sharp harsh detail.\nResolution: 4K ultra-detailed\nAspect ratio: 4:5",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a realistic mirror selfie of a woman wearing a white heart-print sweater and denim jeans in a bright, minimalist bedroom setting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 34,
+      "view_count": 1001,
+      "copy_count": 1618,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-heart-sweater-mirror-selfie-portrait-by-promptplum-2.webp",
+          "local_path": "images/cute-kawaii/woman-heart-sweater-mirror-selfie-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-heart-sweater-mirror-selfie-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/woman-heart-sweater-mirror-selfie-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/woman-heart-sweater-mirror-selfie-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Mirror Selfie AI Photo Editing Prompt. AI generated digital portrait of a woman with a messy bun taking a mirror selfie while wearing a white sweater with red hearts and light blue jeans in a bright, minimalist room."
+        },
+        {
+          "filename": "woman-heart-sweater-mirror-selfie-portrait-by-promptplum-1.webp",
+          "local_path": "images/cute-kawaii/woman-heart-sweater-mirror-selfie-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-heart-sweater-mirror-selfie-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/woman-heart-sweater-mirror-selfie-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/woman-heart-sweater-mirror-selfie-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703d6",
+      "title": "Birthday Queen Celebration",
+      "slug": "3d-animated-birthday-girl-celebration",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a whimsical, high-quality 3D animated portrait using the uploaded reference image for face matching. The character should preserve the same facial identity, hairstyle, glasses, proportions, and expression as the reference image, rendered in a Pixar-inspired stylized 3D illustration style.\nA cheerful woman with fair skin, natural dark-brown hair, and round gold-rimmed glasses, winking and smiling playfully.\nShe wears:\n\na small gold crown with a red heart jewel\na cream ribbed turtleneck sweater\na beige pleated skirt\na white sash with gold trim reading “Queen for a Day” in red cursive text\nPose and props:\n\nStanding upright facing forward\nHolding a thin white sketch-style rectangular frame (transparent center) in front of her face with one hand, as if posing inside a photo booth frame\nThe rectangular frame should look hand-drawn, slightly glowing, and floating in front of the face\nHolding a bouquet of sunflowers and white daisies\nForeground hands presenting a birthday cake with white frosting, rainbow sprinkles, strawberries, and five lit candles\nBackground:\n\nLight pink backdrop\nWhite doodle graphics (stars, sparkles, motion lines)\nFalling Pink confetti\nLighting and rendering:\n\nSoft high-key studio lighting\nBright diffused front-facing key light\nSubtle soft rim lighting separating subject from background\nVery gentle shadows with even illumination\nClay-style 3D render\nSmooth shading\nDetailed fabric textures\nClean composition\nCinematic depth of field\nVibrant colors\nUltra-detailed 3D illustration\nComposition:\n\nEye-level camera\nMedium portrait framing\nCentered subject\nAspect ratio: 4:5",
+      "description": "Create stunning 3D Pixar-style birthday images with this high-quality AI prompt. Generate a cute girl character wearing a 'Queen for a Day' sash, a golden crown, and holding sunflowers. Perfect for personalized birthday designs and vibrant 3D character art.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 1842,
+      "copy_count": 2555,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "local_path": "images/cute-kawaii/3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/3d-animated-birthday-girl-with-cake-and-sunflowers-ai-art-prompt.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D animated girl winking, wearing a crown and \"Queen for a Day\" sash. She holds sunflowers and a frame by a birthday cake. Festive pink background with confetti."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670388",
+      "title": "Little Cherry Blossom",
+      "slug": "little-cherry-blossom",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Image Style & Realism\nUltra-realistic image\n100% face match from the provided image\nHigh detail, cinematic quality\nSoft glow with a dreamy, ethereal finish\nSubject\nA baby sitting gently on a soft white blanket on the ground\nNatural, peaceful pose\nInnocent and serene facial expression\nEnvironment & Background\nBeneath a blooming cherry blossom tree\nSoft pink cherry blossom petals floating in the air\nMagical, calm, and serene atmosphere\nLighting\nWarm, natural light\nSoft illumination enhancing skin texture and fabric details\nCinematic depth of field with gentle background blur\nClothing\nPastel pink hanbok-inspired traditional outfit\nDelicate floral embroidery\nSoft, layered fabric\nLong, flowing sleeves\nAccessories\nSmall floral headband made of cherry blossom flowers and pearls\nWhite soft leather baby shoes\nSubtle satin ribbon detail on the shoes\nMood & Aesthetic\nDreamy, magical, and tranquil\nElegant, gentle, and emotionally warm\nPeaceful springtime fantasy vibe\nAspect ratio: 4:5",
+      "description": "Use this AI Image Prompt to generate a heartwarming image of a baby girl sitting in a pink Hanbok surrounded by cherry blossoms. This prompt produces hyper-realistic results with beautiful bokeh effects and soft, natural colors.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 59,
+      "view_count": 3306,
+      "copy_count": 4340,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_6g60z16g60z16g60.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_6g60z16g60z16g60.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_6g60z16g60z16g60.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_6g60z16g60z16g60.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_6g60z16g60z16g60.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670371",
+      "title": "Beach Bums & Bonnet Sits",
+      "slug": "beach-bums-bonnet-sits",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a 3D hyper-realistic caricature of a happy couple sitting on the chrome front bumper of a classic vintage American pickup truck, with a scenic tropical beach sunset in the Philippines as the background, featuring palm trees and turquoise water. The couple has exaggerated heads. The man (use uploaded photo 1) is wearing a blue shirt with the print ‘he,’ short pants, and slippers, with a goofy wide grin. The woman (use uploaded photo 2) is wearing a cozy, textured knit light-purple sweater with the print ‘she’ and leggings, laughing. Include expressive facial features, highly detailed skin pores, and fabric textures. 8K resolution, aspect ratio 3:4.",
+      "description": "Master the art of 3D caricature with this high-detail AI prompt! Generate a stylized couple sitting on a vintage car against a tropical beach sunset. Features cinematic lighting, vibrant colors, and customizable graphic tees for a playful, modern aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 54,
+      "view_count": 1946,
+      "copy_count": 4587,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_55t79c55t79c55t7.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
+          "width": 1254,
+          "height": 1680,
+          "alt": "Gemini AI Generated Image of A 3D caricature of a smiling couple with big heads sitting on a car hood at a beach sunset."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267036e",
+      "title": "Kawaii Kitty",
+      "slug": "kawaii-kitty",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Subject & Likeness: User-provided female model, retaining 100% absolute facial likeness and structural features. Serene and polished expression, smooth skin tones with incredible detail.\nHair Styling: Long, silky, vibrant pastel pink hair flowing over shoulders. Neat, straight-cut bangs framing the face.\nAccessories:\nEyewear: Statement heart-shaped sunglasses, thick frames encrusted with shimmering pink and silver glitter. Lenses casting a soft rosy hue with subtle heart-shaped reflections.\nHeadwear: Matching glitter-covered cat ears catching the light.\nLighting & Atmosphere: Professional studio lighting enhancing crystalline textures (glitter) and fine hair strands. Dreamy, ethereal atmosphere.\nBackground: Soft, out-of-focus gradient of neon pink and lavender.\nTechnical Specs: 8K resolution, ultra-realistic, high-quality portrait. Vertical 4:5 aspect ratio. Close-up framing (upper bust and face).",
+      "description": "Create stunning AI-generated portraits featuring a stylish woman with pastel pink hair, glittery cat ears, and heart-shaped sunglasses. This high-quality prompt generates hyper-realistic images with cinematic lighting and a trendy, kawaii aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 491,
+      "copy_count": 492,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_c6aladc6aladc6al.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_c6aladc6aladc6al.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_c6aladc6aladc6al.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_c6aladc6aladc6al.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_c6aladc6aladc6al.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image of a pink-haired woman wears sparkly cat ears and heart-shaped sunglasses against a soft pastel background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267034b",
+      "title": "Meet Mini-Me",
+      "slug": "meet-mini-me",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded photo as the ONLY facial and identity reference. The main subject must look exactly like the person in the uploaded image, preserving identical facial structure, proportions, skin tone, hairstyle, eye shape, nose shape, lips, jawline, and overall identity. Do not beautify, alter, or replace facial features.\nCreate a cinematic, ultra-detailed scene of the subject smiling naturally. The subject is gently holding a tiny animated cartoon miniature version of the same person by the hair between her fingers, like a playful puppet suspended in the air. The miniature character is a Pixar / Disney-style 3D version of the same person, with exaggerated cute proportions, large expressive eyes, an open joyful mouth, raised arms, and a lively, playful pose. The miniature must clearly resemble the same person and wear a matching outfit.\nThe main subject is looking at the tiny character with surprise, delight, and affection, creating a whimsical, heart-warming interaction. Lighting is warm professional studio lighting with soft rim light, shallow depth of field, and a smooth golden bokeh background. The real person’s skin texture is photorealistic, while the miniature character has clean Pixar-style materials, soft shading, and polished 3D surfaces.\nCinematic color grading, high contrast, sharp focus, premium portrait composition, 50mm lens look, f/1.8 depth of field, ultra-high realism blended with stylized animation, aspect ratio 4:5, 8K quality, cinematic finish.\nNegative Prompt\nanime, 2D illustration, comic style, flat shading, low poly, plastic skin, waxy face, face swap, different identity, face morphing, beauty filters, over-smoothing, blur, low resolution, grain, noise, distortion, deformed face, wrong facial proportions, extra fingers, missing fingers, duplicated hands, floating objects, bad anatomy, inconsistent lighting, harsh shadows, neon colors, cold blue tones, washed-out colors, over-saturation, watermark, text, logo, cropped head, out-of-frame face",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 216,
+      "view_count": 8411,
+      "copy_count": 16158,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated photorealistic portrait captures a playful moment where a young man interacts with a stylized, miniature 3D version of himself. The man, featuring curly dark hair and wearing a textured blue button-down shirt, smiles warmly while holding the tiny animated character by its hair. The miniature figure, rendered in a cute, wide-eyed animation style, mimics the man's appearance with matching curly hair and a blue shirt but adds white trousers and a dynamic, jumping pose. The background is washed in a soft, golden bokeh, creating a festive and magical atmosphere. The lighting is professional, highlighting the realistic skin texture of the man against the smooth, rendered surface of the doll, blending the real world with digital art seamlessly."
+        },
+        {
+          "filename": "Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated photorealistic portrait of a cheerful young woman with long blonde hair, dressed in a stylish soft pink coat and a white ribbed turtleneck. She is smiling broadly while holding a small, adorable 3D animated figurine of herself suspended in front of her face. The miniature character mirrors her appearance perfectly, wearing the same outfit, but is designed in a cute, wide-eyed cartoon style with outstretched arms and a joyful expression. The woman interacts playfully with the doll, gently holding it by the hair. The background is a soft, out-of-focus wash of warm golden tones and bokeh lights, creating a cozy atmosphere that highlights the whimsical connection between the realistic subject and her animated counterpart."
+        },
+        {
+          "filename": "Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated of a smiling man in a leather jacket holds a tiny, cute 3D cartoon version of himself."
+        },
+        {
+          "filename": "Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image of a smiling girl holds a tiny, 3D animated cartoon version of herself."
+        },
+        {
+          "filename": "Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image of a young woman amusingly holds a tiny, smiling 3D cartoon version of herself by the hair."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ea",
+      "title": "Shockingly Cute",
+      "slug": "shockingly-cute",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded image ONLY as the facial identity reference for the human.\nPreserve exact facial structure, proportions, skin tone, hairstyle length, and the same natural friendly smile.\nDo not beautify or modify facial features.\n\nEverything else must remain exactly as defined below.\n\nComposition & Aspect Ratio\n\nVertical 4:5, full-body framing\n\nSubject on the right, Pikachu on the left\n\nClean space above head and below shoes\n\nEye-level, straight-on studio shot\n\nNo crop, no tilt, no distortion\n\nHuman Pose (LOCKED)\n\nStanding relaxed\n\nWeight on right leg\n\nLeft leg casually crossed at the ankles\n\nLeft arm bent and resting on Pikachu’s head/upper shoulder\n\nRight arm relaxed straight by the side\n\nTorso slightly angled toward camera\n\nHead slightly tilted, eyes looking at camera\n\nExpression: cheerful, confident natural smile\n\nOutfit (LOCKED)\n\nChunky knit bright yellow sweater\n\nBlack high-waisted jeans\n\nWhite high-top sneakers with black laces\n\nSmall gold hoop earrings only\n\nPikachu (LOCKED)\n\nGiant photorealistic 3D Pikachu, standing upright\n\nFacing the girl with a friendly smile\n\nArms/paws held together in front of its belly\n\nEars upright, tail fully visible\n\nScale slightly shorter than the human\n\nUltra-detailed fluffy fur, vivid red cheeks\n\nNatural interaction with human’s arm resting on its head\n\nBackground (STRICT)\n\nPerfectly solid, single-color yellow\n\nHigh saturation, bold studio yellow\n\nNo gradient, no texture, no pattern\n\nLighting & Style\n\nSoft, even studio lighting\n\nClean highlights on face, sweater knit, and Pikachu fur\n\nNatural skin tones\n\nBright, joyful, premium commercial look\n\nHyper-realistic, ultra-sharp detail\n\nNegative Prompt\n\nNo changes to pose, Pikachu pose, outfit, background, color tone, camera angle, or framing.\nNo text, logos, props, stylization, or cropping.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 1045,
+      "copy_count": 1662,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_onbv47onbv47onbv-1-1.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_onbv47onbv47onbv-1-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_onbv47onbv47onbv-1-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_onbv47onbv47onbv-1-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_onbv47onbv47onbv-1-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A full-body shot of a smiling young girl standing next to a large, realistic-style, furry Pikachu against a bright yellow background. The girl has long brown hair and wears a yellow knit sweater that matches Pikachu's fur, paired with black jeans and white high-top sneakers. She leans her elbow casually on Pikachu's head while crossing her legs."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702bd",
+      "title": "A Moment in the Circle",
+      "slug": "a-moment-in-the-circle",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "A high-quality, vibrant indoor lifestyle photograph of a young woman sitting in a casual, relaxed pose inside a large circular wooden nook built into the wall. She is looking slightly downward, gently holding a fresh bouquet of flowers. She is wearing a stylish rose-pink long-sleeve blouse tucked into chic cream high-waist trousers, accessorized with a white Apple Watch, delicate rings, and trendy chunky white sneakers. The setting is a cozy modern cafe with hanging potted plants, warm neon light accents, and a large decorative white ball nearby. The lighting is bright and soft, creating a cheerful, feminine, and elegant urban atmosphere. Photorealistic, 8k resolution, natural makeup, soft modern hairstyle.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 24,
+      "view_count": 1124,
+      "copy_count": 1812,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_yx14t2yx14t2yx14.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_yx14t2yx14t2yx14.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_yx14t2yx14t2yx14.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_yx14t2yx14t2yx14.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_yx14t2yx14t2yx14.jpg",
+          "width": 1344,
+          "height": 1545,
+          "alt": "Gemini Generated Image: A young woman is sitting in a round, wooden window frame inside a cafe, holding a bouquet of pink and white flowers. She is wearing a pink shirt, beige pants, and white chunky sneakers."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670291",
+      "title": "The Birthday Girl and Her Cake",
+      "slug": "the-birthday-girl-and-her-cake",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create an ultra-realistic, cinematic birthday celebration portrait in a vertical 4:5 aspect ratio. The subject is positioned in a mid-to-full body composition, centered and gracefully interacting with a decorated cake, with no cropping of the dress or head. The face must match the uploaded reference image exactly, preserving identity, facial structure, skin texture, and natural details with high fidelity.\nThe subject is wearing a luxurious, floor-length ball gown in vibrant pink tones, featuring a voluminous layered tulle skirt and a detailed, embellished bodice with subtle sparkle. A delicate tiara rests on the head, and a soft pastel “Birthday Girl” sash is draped diagonally across the torso. Hair is styled in soft, flowing waves, enhancing an elegant and celebratory look.\nPose is gentle and natural: slightly leaning forward while placing or adjusting a cake on a decorative stand, with a soft, genuine smile and gaze directed downward toward the cake. Expression conveys joy, warmth, and a calm celebratory mood.\nIn the foreground is an ornate, antique-style golden bicycle-shaped dessert stand with two tiers.\n\n– The top tier holds a white frosted birthday cake decorated with pink brushstroke-style frosting, fresh berries (raspberries, blueberries), and a small crown topper.\n\n– A second cake appears on the same bicycle structure in a different position, maintaining visual balance.\n\n– The lower tier contains neatly arranged cupcakes topped with soft pink frosting swirls.\nBackground is an outdoor garden party setting with shallow depth of field (strong background blur). A decorative balloon arch in pink, white, and soft metallic tones frames the scene. Warm string lights hang across the background, along with soft party banners, creating a dreamy, festive ambiance.\nLighting is soft natural daylight combined with warm ambient highlights from string lights, producing even skin tones, soft shadows, and a glowing celebratory atmosphere. No harsh contrast.\nCamera settings: eye-level or slightly above eye-level angle, 50mm or 85mm portrait lens look, shallow depth of field (f/1.8–f/2.8), sharp focus on subject and cake, background smoothly blurred. Ultra-high resolution, 8K detail, natural skin texture, no CGI, no over-smoothing, no artificial plastic look.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 12,
+      "view_count": 895,
+      "copy_count": 830,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "width": 1209,
+          "height": 1702,
+          "alt": "Gemini generated image: A young woman in a pink ball gown and a tiara is smiling as she sets a white birthday cake on a tiered, gold bicycle-shaped display. The setting is outdoors with pink, white, and silver balloons forming an archway behind her. She is also wearing a sash that says \"Birthday Girl."
+        },
+        {
+          "filename": "Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "local_path": "images/cute-kawaii/Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "width": 355,
+          "height": 450,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267027d",
+      "title": "A Little Bit of Happy",
+      "slug": "a-little-bit-of-happy",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Aesthetic cozy mirror selfie of a young woman sitting casually on a chair, wearing a dark oversized hoodie and blue jeans, holding a compact vintage-style camera in one hand, resting her face on the other hand with a soft, dreamy smile. Warm beige indoor background with soft studio lighting, minimal modern interior. Cute cartoon-style doodles around her, including a smiling sunflower character and a hand-drawn yellow sun, playful white sketch lines around the camera. Handwritten romantic quote on the wall saying: “Love feels a lot like… I saw this and thought of you!” Soft warm tones, Instagram aesthetic, cinematic depth of field, natural skin texture, photorealistic but with illustrated sticker overlay, 8K ultra-detailed, soft shadows, cozy romantic vibe.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 52,
+      "view_count": 1574,
+      "copy_count": 2521,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_27e1yl27e1yl27e1-1.png",
+          "local_path": "images/cute-kawaii/Gemini_Generated_Image_27e1yl27e1yl27e1-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_27e1yl27e1yl27e1-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/Gemini_Generated_Image_27e1yl27e1yl27e1-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/Gemini_Generated_Image_27e1yl27e1yl27e1-1.png",
+          "width": 864,
+          "height": 1184,
+          "alt": "Gemini Generated Image: A young woman is taking a mirror selfie while sitting in a wooden chair, holding a vintage camera. The mirror has cute doodles of a sun and a sunflower, along with the handwritten text: \"Love feels a lot like... I saw this and thought of you!\""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670263",
+      "title": "Imaginary Walk",
+      "slug": "imaginary-walk",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Realistic style, me and neon girl walking on diamy street road, me holding neon girl hand, wearing white hoodie and black jeans, white sneakers. appears a Golden glowing, neon-style illustration of a girl. The neon girl emits a soft golden light, contrasting against the dark, blurry background of city lights in the distance. The atmosphere feels calm, melancholic, and slightly surreal, blending reality and imagination. 100% accurate my face.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 81,
+      "view_count": 3204,
+      "copy_count": 4917,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251204_161936.jpg",
+          "local_path": "images/cute-kawaii/IMG_20251204_161936.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_161936.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/IMG_20251204_161936.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/IMG_20251204_161936.jpg",
+          "width": 1760,
+          "height": 2399,
+          "alt": "Ai Generated Image: The image shows a young man walking down a wet, dark city street at night, holding hands with a glowing, neon-yellow outline of a girl. It has a surreal, romantic, or fantasy feel."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670239",
+      "title": "The Minstrel and the Doves",
+      "slug": "the-minstrel-and-the-doves",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the uploaded reference image strictly as the ONLY face reference.\nCreate a high-resolution, ultra-realistic cinematic photograph of an individual seated directly on a weathered, light-gray stone railing (not behind it), positioned slightly to the left side of the frame. The setting is an ancient ruin environment with textured stone architecture and lush, deep-green overgrown ivy climbing the surfaces, softly fading into the background.\nSubject & Appearance:\nLong, layered chestnut-brown hair with natural volume and soft flow. Wearing a warm cinnamon-brown (terracotta/russet tone) chiffon dress with delicate layered ruffles and sheer, airy sleeves that gently move with a light breeze.\nPose & Action:\nSeated naturally on top of the stone railing, body angled slightly toward the camera. One leg relaxed along the ledge. Holding a polished natural-wood acoustic guitar across the lap, one hand forming a chord on the fretboard while the other rests near the strings, suggesting a soft playing moment.\nExpression & Gaze:\nSerene, calm, and softly engaged expression. Eyes gently directed toward the camera with a peaceful, introspective presence.\nEnvironment Details:\nOn the right side of the frame, two pure white doves are perched closely together on the same stone railing, positioned in a way that their heads and bodies subtly form a heart shape. They remain secondary in focus, slightly forward on the right edge, adding balance and storytelling.\nLighting & Mood:\nGolden hour sunlight entering from the top-right corner, creating a strong yet soft directional glow. Warm rim lighting highlights the hair and edges of the dress, while the face remains evenly illuminated with natural soft fill. Cinematic warm tones with gentle shadow falloff.\nComposition:\nSubject placed slightly left-of-center, seated directly on the railing. Right side reserved for the doves, creating visual balance. Full-body framing, with clean negative space and soft background blur.\nTechnical Details:\nUltra-realistic, 8K detail, sharp focus on subject, natural skin texture (no plastic or over-smoothing), high dynamic range, cinematic color grading, 85mm lens look, f/2.0–f/2.8 shallow depth of field.\nAspect Ratio: 4:5 vertical portrait.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 36,
+      "view_count": 1341,
+      "copy_count": 2633,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764518053431.png",
+          "local_path": "images/cute-kawaii/1764518053431.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764518053431.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/1764518053431.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/1764518053431.png",
+          "width": 928,
+          "height": 1120,
+          "alt": "Gemini generated image: A young woman wearing a flowing, ruffled, brown dress sits on a mossy stone wall, playing an acoustic guitar, illuminated by warm sunlight, with two white doves perched beside her."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670236",
+      "title": "Cherry Blossom Spring Portrait",
+      "slug": "cherry-blossom-spring-portrait",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Use the reference photo uploaded to create a hyper realistic Ultra HD photo of me standing in a Cherry blossoms Tree wearing a White loose blouse and a wash blue jeans the scene is Ethereal and my expression is sensual i'm also touching the cherry blossoms branch with lots of flowers make a Ultra clear hyper realistic photo with boque effect. Photorealistic style. The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 45,
+      "view_count": 1649,
+      "copy_count": 3511,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251130_101202.jpg",
+          "local_path": "images/cute-kawaii/IMG_20251130_101202.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_101202.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/IMG_20251130_101202.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/IMG_20251130_101202.jpg",
+          "width": 1856,
+          "height": 2294,
+          "alt": "Gemini Generated Image of A beautiful young woman with long dark hair, wearing a white shirt and blue jeans, smiles while gently touching branches of delicate pink cherry blossoms in soft, natural light."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670213",
+      "title": "Woman plays acoustic guitar",
+      "slug": "woman-plays-acoustic-guitar",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a soft, natural, photorealistic outdoor portrait of a person seated on a simple wooden chair, gently playing an acoustic guitar in daylight. The subject is positioned slightly right of center, body angled subtly toward the left, with the head tilted downward and eyes focused on the guitar strings, conveying a calm, introspective mood.\nOutfit consists of a clean, minimal white sleeveless ribbed top paired with fitted light blue jeans, maintaining a simple and modern aesthetic. Hair is tied back in a neat low ponytail with a few soft strands framing the face, adding natural elegance. Expression is serene and focused, with a relaxed, peaceful feel.\nThe acoustic guitar features warm natural wood tones with visible grain texture, held comfortably across the lap, one hand forming chords on the fretboard while the other gently strums near the sound hole.\nBackground is a neutral gray wall with a smooth matte finish, clean and distraction-free, with absolutely no greenery, plants, or additional elements. The scene is outdoors, illuminated by soft natural daylight, creating gentle highlights and mild shadows without harsh contrast or overexposure.\nCamera angle is eye-level with a slight downward perspective, framed as a medium shot (waist-up), ensuring both the subject and guitar are clearly visible. Composition is minimal and balanced with subtle negative space.\nTechnical details: ultra-realistic, high resolution, natural color grading, soft contrast, shallow depth of field, 50mm lens look, f/2.8 aperture, crisp focus on subject, softly blurred background, lifestyle photography style. Aspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 44,
+      "view_count": 1473,
+      "copy_count": 2309,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764161793490.png",
+          "local_path": "images/cute-kawaii/1764161793490.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764161793490.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/1764161793490.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/1764161793490.png",
+          "width": 960,
+          "height": 1088,
+          "alt": "Ai generated image of Woman playing acoustic guitar"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526701fa",
+      "title": "Rabbit and girl",
+      "slug": "rabbit-and-girl",
+      "category": "Cute & Kawaii",
+      "category_slug": "cute-kawaii",
+      "prompt": "Create a soft, sunlit ultra-realistic portrait using the uploaded image strictly as the ONLY face reference (maintain 100% facial identity, no alteration). The subject wears a plain soft pink saree with delicate white floral embroidery, draped naturally with elegant folds. She gently holds a small rabbit close to her chest with both hands, expressing a calm, affectionate connection. Her head is slightly tilted downward, eyes softly gazing at the rabbit with a peaceful, tender smile.\nComposition & Framing:\n\nMedium close-up portrait, vertically framed, showing the subject from around the waist / lower torso upward, with clean headroom, centered composition, and balanced negative space.\nLighting:\n\nWarm natural sunlight enters strongly from one side, creating a bold, sharp-edged patch of sunlight on the wall behind her. The light softly illuminates her face, hair, saree, and the rabbit, while producing distinct, well-defined shadows of both the subject and the rabbit on the wall for depth and artistic contrast.\nBackground:\n\nA simple textured plaster wall in a muted dusty blush-beige / warm pinkish neutral tone. The wall features a large geometric, window-like, diagonal patch of sunlight across the upper background, along with crisp cast shadows of the woman and rabbit falling to one side. Keep the setting minimal, clean, and intimate, with no extra objects or distractions.\nHair & Details:\n\nLoose natural hair with soft strands falling around the face, subtle natural movement. Minimal jewelry with elegant dangling earrings, natural skin texture, no beauty smoothing.\nMood & Style:\n\nSerene, poetic, romantic, and intimate atmosphere. Dreamy golden-hour warmth with soft contrast, realistic skin tones, and a gentle emotional feel. Natural and graceful, not overly stylized.\nTechnical Details:\n\n85mm lens, shallow depth of field, ultra-sharp focus on the face and rabbit, photorealistic, high detail, natural color grading, 8K quality.\nAspect ratio: 3:4",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 94,
+      "view_count": 6049,
+      "copy_count": 10078,
+      "is_premium": false,
+      "published_at": "2026-09-07T15:56:07.653Z",
+      "images": [
+        {
+          "filename": "IMG_20251124_224950-scaled.jpg",
+          "local_path": "images/cute-kawaii/IMG_20251124_224950-scaled.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251124_224950-scaled.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/IMG_20251124_224950-scaled.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/IMG_20251124_224950-scaled.jpg",
+          "width": 1596,
+          "height": 2560,
+          "alt": "Ai generated image of rabbit and girl"
+        },
+        {
+          "filename": "df1bda5a-27c6-471b-a061-83b1730471d8.webp",
+          "local_path": "images/cute-kawaii/df1bda5a-27c6-471b-a061-83b1730471d8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/df1bda5a-27c6-471b-a061-83b1730471d8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cute-kawaii/df1bda5a-27c6-471b-a061-83b1730471d8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cute-kawaii/df1bda5a-27c6-471b-a061-83b1730471d8.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_4lu9vw4lu9vw4lu9"
+        }
+      ]
+    }
+  ]
+}

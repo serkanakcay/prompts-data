@@ -1,0 +1,281 @@
+{
+  "category": "Content Creator",
+  "slug": "content-creator",
+  "total_prompts": 7,
+  "updated_at": "2026-09-24T12:53:55Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca1526704bb",
+      "title": "Modern Podcaster",
+      "slug": "professional-podcast-host-studio-setup",
+      "category": "Content Creator",
+      "category_slug": "content-creator",
+      "prompt": "Create a photorealistic, ultra-detailed medium shot portrait of a person seated at a natural wooden desk in a modern podcast studio, presented in a clean, high-end editorial style. The subject sits in a high-back black leather chair, with both the chair and body clearly angled slightly (around 10–20 degrees) instead of facing straight toward the camera, creating a natural, dynamic posture. The torso follows the same angle, avoiding a flat front-facing pose. Hands rest relaxed on the desk, and the subject maintains a soft, natural smile with direct eye contact.\nHair is natural and neatly styled. Outfit consists of an elegant black shirt, adding a refined, professional aesthetic.\nOn the desk, three subtle and naturally integrated items are present: an open notebook with handwritten notes, a compact small professional audio interface with connected cables, and a ceramic coffee mug. All items align correctly.\nIn the foreground, a high-end professional black broadcast microphone mounted on a boom arm extends from the right side toward the subject, positioned close to mouth level, reinforcing a realistic podcast setup.\nThe background features two large, lush green tropical plants set against a dark wall, dramatically illuminated by a strong, vibrant red-orange backlight that creates a bold glow and striking plant silhouettes. Ensure the angled chair and body alignment remain consistent with the overall composition.\nLighting setup includes a soft frontal key light for accurate skin tones and gentle facial definition, combined with the red backlight for depth and cinematic contrast. No harsh shadows or overexposed areas.\nCaptured on an 85mm lens at f/1.8, with shallow depth of field, aspect ratio 4:5, sharp focus on the person, and smooth background blur. Ultra-high resolution (8K), highly detailed, natural skin texture with magazine-quality realism.\nConstraints: no identity drift, no extra people, no extra objects, no CGI/cartoon appearance, no front-facing straight posture. Maintain clean composition and professional studio realism.",
+      "description": "Professional Studio Photography Prompt: Use this prompt to generate a high-quality image of a confident person in a modern podcast studio featuring professional audio equipment and warm, atmospheric lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 1143,
+      "copy_count": 2057,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "local_path": "images/content-creator/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Man in Podcast Studio AI Photo Editing Prompt. AI generated studio portrait of a smiling bearded man in a black shirt sitting at a wooden desk with a professional microphone and audio equipment."
+        },
+        {
+          "filename": "woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "local_path": "images/content-creator/woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman in Podcast Studio AI Photo Editing Prompt. AI generated studio portrait of a woman in a black shirt sitting at a wooden desk with a professional microphone and indoor plants."
+        },
+        {
+          "filename": "man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "local_path": "images/content-creator/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704a0",
+      "title": "The Canon Creator",
+      "slug": "3d-photographer-torn-paper",
+      "category": "Content Creator",
+      "category_slug": "content-creator",
+      "prompt": "Use the uploaded image ONLY for face and identity reference.\nDo not change facial structure, eye shape, or proportions. Keep identity 100% accurate.\n\nCreate a high-quality 3D animated character portrait in a modern Pixar/DreamWorks-style rendering.\n\nComposition & Pose:\nCharacter is emerging through a torn paper hole in a clean white surface.\nThe tear is circular with rough, realistic ripped paper edges.\nThe subject leans slightly forward through the hole, engaging directly with the viewer.\nUpper body visible (waist-up framing), centered composition.\n\nExpression:\nBright, friendly smile with visible teeth.\nWide, expressive eyes looking directly at the camera.\nEnergetic, cheerful personality.\n\nDetails (Important):\nOne hand is holding a Canon DSLR camera toward the viewer (camera clearly visible, slightly forward perspective).\nOther hand is gripping the torn paper edge naturally.\nCamera strap hanging loosely.\n\nAppearance:\nModern casual outfit (plain, solid white-blue t-shirt, minimal design).\nHair should follow the reference image, but be styled slightly polished in animated form.\nWearing Glasses accurately.\n\nEnvironment:\nBackground inside the hole is a smooth, vibrant solid color (blue gradient preferred).\nOuter area remains clean white with soft shadows around the tear for depth.\n\nRendering Style:\nHigh-end 3D animation, soft global illumination, smooth materials.\nSubtle skin texture but slightly stylized (not hyper-realistic).\nRounded facial features, slightly exaggerated proportions typical of Pixar-style.\nClean lighting, soft shadows, vibrant colors.\n\nFraming:\nVertical composition, 4:5 aspect ratio.\nSubject occupies ~70% of the frame.\nTorn hole centered and clearly visible.\n\nQuality:\nUltra-detailed, sharp focus, 8K render quality.\n\nNo extra hands, bad anatomy.",
+      "description": "3D Character Illustration Prompt: Use this prompt to create a vibrant Pixar-style 3D cartoon image of a smiling photographer bursting through torn paper with a camera.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 83,
+      "view_count": 1178,
+      "copy_count": 1986,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-4.webp",
+          "local_path": "images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Photographer Boy Bursting Through Torn Paper AI Photo Editing Prompt. AI generated 3D character illustration of a smiling boy with glasses holding a DSLR camera while emerging from a hole in torn white paper."
+        },
+        {
+          "filename": "photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-3.webp",
+          "local_path": "images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Photographer Girl Bursting Through Paper AI Photo Editing Prompt. AI generated 3D character illustration of a smiling blonde woman with glasses holding a Canon camera while bursting through a hole in white paper."
+        },
+        {
+          "filename": "photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-2.webp",
+          "local_path": "images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Photographer Breaking Through Paper Pixar Style Prompt. AI generated 3D illustration of a smiling man with glasses holding a camera, bursting through torn white paper."
+        },
+        {
+          "filename": "photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-6.webp",
+          "local_path": "images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Pixar Style Girl Photographer Bursting Through Paper AI Prompt. AI generated 3D character illustration of a smiling girl with glasses holding a professional camera while bursting through torn white paper."
+        },
+        {
+          "filename": "photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-5.webp",
+          "local_path": "images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated 3D character illustration of a smiling elderly photographer with a white beard and glasses holding a Canon camera through torn paper."
+        },
+        {
+          "filename": "photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-1.webp",
+          "local_path": "images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/photographer-bursting-through-torn-paper-3d-character-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated 3D character illustration of a smiling blonde woman peeking through torn white paper while holding a professional DSLR camera against a blue background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267045e",
+      "title": "3D Professional Identity",
+      "slug": "3d-woman-laptop-linkedin-profile-illustration",
+      "category": "Content Creator",
+      "category_slug": "content-creator",
+      "prompt": "Create a high-quality, Pixar-style 3D animated illustration of a young woman with a warm, friendly, and engaging personality.\nSubject & Identity\n\nThe character represents a modern female creator. She has expressive eyes, soft natural facial features, and a pleasant, confident smile. Her hairstyle should be natural, slightly voluminous, and well-groomed (adaptable to different looks).\nPose & Action\n\nShe is sitting professionally on a minimal white cube slightly right side. A sleek laptop rests on her lap, and she is actively using it, looking to viewers, creating a natural “in-action” moment.\nOutfit & Styling\n\nShe wears a professional, modern outfit (e.g., formal attire) with soft textures. Add subtle accessories like a delicate necklace or small earrings for personality.\nPrimary Object\n\nThe white cube beneath her features a bold, blue LinkedIn-style logo on its front face.\nBackground\nSeamless white studio backdrop. Floor blends perfectly with the backdrop, creating an infinite studio void.\nBackground Element (Important)\n\nBehind her, a large modern smartphone stands vertically in left side.\n\nThe screen displays a LinkedIn-style social media profile UI with:\nProfile image\nCover image\nProfile name (Prompt Plum)\nAnd other professional profile details\n\nClean Snapchat UI layout\n\nEnvironment & Lighting\n\nMinimal, clean studio environment with soft neutral tones.\n\nUse soft, diffused lighting with gentle shadows to create a premium, polished look.\nStyle & Quality\n\nPixar / DreamWorks inspired 3D character style\nUltra-clean rendering, smooth materials\nSoft realistic textures (fabric, hair, skin)\nHigh detail, cinematic depth of field\nBalanced, modern composition\nFraming\n\nVertical composition (4:5), subject centered with clear focus, smartphone slightly behind for depth.",
+      "description": "LinkedIn Profile Digital Illustration Prompt. Create a professional 3D persona of a woman in a blazer sitting on a LinkedIn cube next to a giant smartphone profile.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 779,
+      "copy_count": 1065,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "local_path": "images/content-creator/woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional Woman LinkedIn Profile Illustration Prompt. AI generated 3D digital illustration of a woman sitting on a LinkedIn logo cube with a laptop beside a large smartphone displaying her profile."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267045d",
+      "title": "3D Snapchat Creator",
+      "slug": "3d-avatar-girl-snapchat-laptop",
+      "category": "Content Creator",
+      "category_slug": "content-creator",
+      "prompt": "Create a high-quality, Pixar-style 3D animated illustration of a young woman with a warm, friendly, and engaging personality.\nSubject & Identity\n\nThe character represents a modern female creator. She has expressive eyes, soft natural facial features, and a pleasant, confident smile. Her hairstyle should be natural, slightly voluminous, and well-groomed (adaptable to different looks).\nPose & Action\n\nShe is sitting comfortably in a relaxed cross-legged position on top of a minimal white cube slightly right side. A sleek laptop rests on her lap, and she is actively using it, looking to viewers, creating a natural “in-action” moment.\nOutfit & Styling\n\nShe wears a cozy, modern outfit (e.g., Yellow knitted sweater, casual top, or minimal chic clothing) with soft textures. Add subtle accessories like a delicate necklace or small earrings for personality.\nPrimary Object\n\nThe white cube beneath her features a bold, yellow Snapchat-style logo on its front face.\nBackground\nSeamless white studio backdrop. Floor blends perfectly with the backdrop, creating an infinite studio void.\nBackground Element (Important)\n\nBehind her, a large modern smartphone stands vertically in left side.\n\nThe screen displays a Snapchat-style social media profile UI with:\nProfile image\nYellow background image with avatar\nProfile name (Prompt Plum)\nMy stories details\nFriends details\n\nClean Snapchat UI layout\n\nEnvironment & Lighting\n\nMinimal, clean studio environment with soft neutral tones.\n\nUse soft, diffused lighting with gentle shadows to create a premium, polished look.\nStyle & Quality\n\nPixar / DreamWorks inspired 3D character style\nUltra-clean rendering, smooth materials\nSoft realistic textures (fabric, hair, skin)\nHigh detail, cinematic depth of field\nBalanced, modern composition\nFraming\n\nVertical composition (4:5), subject centered with clear focus, smartphone slightly behind for depth.",
+      "description": "Snapchat Social Media Digital Profile Prompt. Use this prompt to create a professional 3D animated character sitting on a Snapchat logo cube with a laptop, featuring a personalized social media profile interface in the background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 449,
+      "copy_count": 434,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-girl-with-laptop-on-snapchat-cube-illustration-by-promptplum.webp",
+          "local_path": "images/content-creator/3d-girl-with-laptop-on-snapchat-cube-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-girl-with-laptop-on-snapchat-cube-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/3d-girl-with-laptop-on-snapchat-cube-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/3d-girl-with-laptop-on-snapchat-cube-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Snapchat Girl with Laptop 3D Pixar-style Avatar Prompt. AI generated 3D digital illustration of a curly-haired girl sitting on a Snapchat logo cube while using a laptop in front of a giant smartphone."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267045c",
+      "title": "TikTok Viral Profile",
+      "slug": "tiktok-content-creator-3d-illustration",
+      "category": "Content Creator",
+      "category_slug": "content-creator",
+      "prompt": "Create a high-quality, Pixar-style 3D animated illustration of a young woman with a warm, friendly, and engaging personality.\nSubject & Identity\n\nThe character represents a modern female creator. She has expressive eyes, soft natural facial features, and a pleasant, confident smile. Her hairstyle should be natural, slightly voluminous, and well-groomed (adaptable to different looks).\nPose & Action\n\nShe is sitting comfortably in a relaxed cross-legged position on top of a minimal white cube slightly right side. A sleek laptop rests on her lap, and she is actively using it, looking to viewers, creating a natural “in-action” moment.\nOutfit & Styling\n\nShe wears a cozy, modern outfit (e.g., dark gray knitted sweater, casual top, or minimal chic clothing) with soft textures. Add subtle accessories like a delicate necklace or small earrings for personality.\nPrimary Object\n\nThe white cube beneath her features a bold, black TikTok-style logo on its front face.\nBackground\nSeamless white studio backdrop. Floor blends perfectly with the backdrop, creating an infinite studio void.\nBackground Element (Important)\n\nBehind her, a large modern smartphone stands vertically in left side.\n\nThe screen displays a TikTok-style social media profile UI with:\nProfile picture\nUsername (@promptplum)\nbio\nfollowing, followers and likes details\ngrid videos\n\nClean UI layout\n\nEnvironment & Lighting\n\nMinimal, clean studio environment with soft neutral tones.\n\nUse soft, diffused lighting with gentle shadows to create a premium, polished look.\nStyle & Quality\n\nPixar / DreamWorks inspired 3D character style\nUltra-clean rendering, smooth materials\nSoft realistic textures (fabric, hair, skin)\nHigh detail, cinematic depth of field\nBalanced, modern composition\nFraming\n\nVertical composition (4:5), subject centered with clear focus, smartphone slightly behind for depth.",
+      "description": "TikTok Content Creator Animated Profile Prompt. Use this prompt to create a vibrant 3D character of a female TikTok creator sitting on a branded cube with a laptop, positioned next to a giant smartphone displaying her viral social media profile.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 630,
+      "copy_count": 568,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-animated-female-content-creator-with-tiktok-profile-illustration-by-promptplum.webp",
+          "local_path": "images/content-creator/3d-animated-female-content-creator-with-tiktok-profile-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-female-content-creator-with-tiktok-profile-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/3d-animated-female-content-creator-with-tiktok-profile-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/3d-animated-female-content-creator-with-tiktok-profile-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267045b",
+      "title": "The Threads Creator Hub",
+      "slug": "3d-digital-creator-threads-profile-avatar",
+      "category": "Content Creator",
+      "category_slug": "content-creator",
+      "prompt": "Create a high-quality, Pixar-style 3D animated illustration of a young woman with a warm, friendly, and engaging personality.\nSubject & Identity\n\nThe character represents a modern female creator. She has expressive eyes, soft natural facial features, and a pleasant, confident smile. Her hairstyle should be natural, slightly voluminous, and well-groomed (adaptable to different looks).\nPose & Action\n\nShe is sitting comfortably in a relaxed cross-legged position on top of a minimal white cube slightly right side. A sleek laptop rests on her lap, and she is actively using it, looking to viewers, creating a natural “in-action” moment.\nOutfit & Styling\n\nShe wears a cozy, modern outfit (e.g., Dark green knitted sweater, casual top, or minimal chic clothing) with soft textures. Add subtle accessories like a delicate necklace or small earrings for personality.\nPrimary Object\n\nThe white cube beneath her features a bold, black Threads-style logo on its front face.\nBackground\nSeamless white studio backdrop. Floor blends perfectly with the backdrop, creating an infinite studio void.\nBackground Element (Important)\n\nBehind her, a large modern smartphone stands vertically in left side.\n\nThe screen displays a Threads-style social media profile UI with:\nProfile picture\nUsername (@promptplum)\nbio\nfollow and message button\nposts\n\nClean UI layout\n\nEnvironment & Lighting\n\nMinimal, clean studio environment with soft neutral tones.\n\nUse soft, diffused lighting with gentle shadows to create a premium, polished look.\nStyle & Quality\n\nPixar / DreamWorks inspired 3D character style\nUltra-clean rendering, smooth materials\nSoft realistic textures (fabric, hair, skin)\nHigh detail, cinematic depth of field\nBalanced, modern composition\nFraming\n\nVertical composition (4:5), subject centered with clear focus, smartphone slightly behind for depth.",
+      "description": "Threads Creator 3D Profile Prompt. Use this prompt to generate a high-quality digital character of a female creator sitting with a laptop next to a giant smartphone displaying a Threads social media profile.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 31,
+      "view_count": 496,
+      "copy_count": 545,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "threads-profile-girl-with-laptop-and-smartphone-3d-illustration-by-promptplum.webp",
+          "local_path": "images/content-creator/threads-profile-girl-with-laptop-and-smartphone-3d-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/threads-profile-girl-with-laptop-and-smartphone-3d-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/threads-profile-girl-with-laptop-and-smartphone-3d-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/threads-profile-girl-with-laptop-and-smartphone-3d-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Female Digital Creator and Threads Profile AI Photo Prompt. AI generated 3D digital illustration of a young woman in a green sweater sitting on a Threads logo cube next to a large smartphone displaying a social media profile."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267045a",
+      "title": "Instagram Creator Profile Avatar",
+      "slug": "pixar-style-instagram-profile-character",
+      "category": "Content Creator",
+      "category_slug": "content-creator",
+      "prompt": "Create a high-quality, Pixar-style 3D animated illustration of a young woman with a warm, friendly, and engaging personality.\nSubject & Identity\n\nThe character represents a modern female creator. She has expressive eyes, soft natural facial features, and a pleasant, confident smile. Her hairstyle should be natural, slightly voluminous, and well-groomed (adaptable to different looks).\nPose & Action\n\nShe is sitting comfortably in a relaxed cross-legged position on top of a minimal white cube slightly right side. A sleek laptop rests on her lap, and she is actively using it, looking to viewers, creating a natural “in-action” moment.\nOutfit & Styling\n\nShe wears a cozy, modern outfit (e.g., Red-orange knitted sweater, casual top, or minimal chic clothing) with soft textures. Add subtle accessories like a delicate necklace or small earrings for personality.\nPrimary Object\n\nThe white cube beneath her features a bold Instagram-style logo on its front face.\nBackground\nSeamless white studio backdrop. Floor blends perfectly with the backdrop, creating an infinite studio void.\nBackground Element (Important)\n\nBehind her, a large modern smartphone stands vertically in left side.\n\nThe screen displays a Instagram-style social media profile UI with:\nProfile picture\nProfile name (Prompt Plum)\nProfile details:\nbio\nfollowers count\npost images\n\nClean UI layout\n\nEnvironment & Lighting\n\nMinimal, clean studio environment with soft neutral tones.\n\nUse soft, diffused lighting with gentle shadows to create a premium, polished look.\nStyle & Quality\n\nPixar / DreamWorks inspired 3D character style\nUltra-clean rendering, smooth materials\nSoft realistic textures (fabric, hair, skin)\nHigh detail, cinematic depth of field\nBalanced, modern composition\nFraming\n\nVertical composition (4:5), subject centered with clear focus, smartphone slightly behind for depth.",
+      "description": "3D Girl with Instagram Profile Prompt. Use this prompt to create a 3D digital illustration of a girl sitting on an Instagram logo block with a laptop next to a large smartphone displaying her profile.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 623,
+      "copy_count": 613,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-pixar-style-girl-with-laptop-and-instagram-profile-illustration-by-promptplum.webp",
+          "local_path": "images/content-creator/3d-pixar-style-girl-with-laptop-and-instagram-profile-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-pixar-style-girl-with-laptop-and-instagram-profile-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/content-creator/3d-pixar-style-girl-with-laptop-and-instagram-profile-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/content-creator/3d-pixar-style-girl-with-laptop-and-instagram-profile-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Girl with Instagram Profile AI Photo Editing Prompt. AI generated 3D digital illustration of a curly-haired girl sitting on an Instagram logo block with a laptop next to a large smartphone displaying her profile."
+        }
+      ]
+    }
+  ]
+}
