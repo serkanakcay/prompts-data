@@ -1,0 +1,1102 @@
+{
+  "category": "Professional Studio Setup",
+  "slug": "professional-studio-setup",
+  "total_prompts": 31,
+  "updated_at": "2026-09-24T13:11:53Z",
+  "prompts": [
+    {
+      "id": "6ab11a4042ae1b78ac7cf741",
+      "title": "Moody Studio Portrait of Man with Halo Light",
+      "slug": "black-and-white-portrait-red-glasses",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create an ultra-realistic cinematic editorial portrait of a man in a dramatic black-and-white setup, using the uploaded reference image for accurate facial identity and facial structure.\nComposition:\nA vertical 4:5 portrait, medium close-up from the chest upward. The subject is positioned slightly right of center, with his body turned about three-quarter away from the camera while his head turns back toward the viewer. Strong, confident, serious expression with an intense direct gaze. Natural facial proportions, and thick neatly styled hair with realistic individual strands.\nOutfit:\nHe wears a black leather jacket with a large raised collar. The leather should have highly realistic texture, stitching, folds, creases, and subtle specular highlights. The jacket dominates the lower portion of the frame.\nEyewear:\nSlim, angular rectangular sunglasses with dark frames and deep translucent red/amber-tinted lenses. The eyes remain subtly visible through the lenses.\nBackground & Lighting:\nA completely dark black studio background with a large, bright circular white light halo positioned directly behind his head and shoulders, creating a dramatic graphic silhouette. High-contrast monochrome lighting across the face and jacket, with carefully controlled highlights and deep shadows. The circular backlight should be perfectly clean and softly diffused around its edges.\nColor Treatment:\nPredominantly black and white / monochrome, while preserving only the sunglasses lenses in a subtle deep crimson-red tint. Rich blacks, bright whites, strong tonal separation, cinematic contrast.\nCamera & Quality:\nEye-level camera angle, professional fashion-editorial photography, approximately 85mm portrait lens, shallow depth of field, extremely sharp facial details, realistic skin pores and beard texture, detailed hair strands, realistic leather texture, subtle film grain, premium studio photography, dramatic cinematic atmosphere, photorealistic, ultra-detailed, 8K quality.",
+      "description": "Cinematic Studio Photography Prompt: Copy & paste this prompt to create a dramatic portrait of a stylish young man with curly hair wearing a leather jacket and red tinted sunglasses against a dark background with a glowing ring light.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 7,
+      "view_count": 274,
+      "copy_count": 230,
+      "is_premium": false,
+      "published_at": "2026-09-21T11:51:28.015Z",
+      "images": [
+        {
+          "filename": "15e547c6-8ed0-4daa-a307-fe5f2541e047.jpeg",
+          "local_path": "images/professional-studio-setup/15e547c6-8ed0-4daa-a307-fe5f2541e047.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/15e547c6-8ed0-4daa-a307-fe5f2541e047.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/15e547c6-8ed0-4daa-a307-fe5f2541e047.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/15e547c6-8ed0-4daa-a307-fe5f2541e047.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Edgy Man in Leather Jacket AI Photo Editing Prompt. AI generated cinematic studio portrait of a young man with curly hair wearing a black leather jacket and red tinted sunglasses against a dark background with a glowing ring light.   "
+        }
+      ]
+    },
+    {
+      "id": "6aad7c3046d4207dc212e907",
+      "title": "Cinematic Amber Studio Portrait",
+      "slug": "warm-lighting-studio-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create an ultra-realistic cinematic studio portrait of a handsome man, shown in a centered, straight-on close-up from the chest up. He has neatly styled look. Preserve realistic facial proportions, natural skin texture, subtle pores, and authentic hair strands.\nHe is wearing a black dress shirt underneath a tailored black blazer, creating a sophisticated luxury editorial appearance. His expression is calm, serious, confident, and composed, with direct eye contact toward the camera.\nLighting: dramatic warm cinematic lighting, with a strong amber/orange key light coming from the left side, illuminating left side of the face and creating a beautiful golden rim light along the hair, cheek, ear. The opposite side falls into deep soft shadow, producing a high-contrast chiaroscuro effect while retaining facial detail.\nBackground: Smooth seamless dark burnt-orange/brown studio background with a subtle gradient, soft atmospheric falloff, and a premium moody cinematic ambiance.\nCamera & composition: Aspect ratio 4:5, eye-level camera, perfectly centered and symmetrical framing, head and shoulders/chest-up composition, subject facing directly toward the camera, shallow depth of field, background softly blurred. Shot with an 85mm portrait lens at approximately f/1.8, realistic optical rendering, natural perspective, sharp focus on the eyes and facial features.\nQuality: photorealistic, ultra-detailed, 8K, high dynamic range, realistic skin texture, individual hair strands, subtle natural imperfections, cinematic color grading, soft highlight roll-off, professional luxury fashion photography, studio-quality portrait, no CGI appearance, no plastic skin, no excessive retouching, no text, no watermark.",
+      "description": "Cinematic Studio Photography Prompt: Copy & Paste this prompt to create a highly realistic, moody portrait of a handsome bearded man with warm amber studio lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 4,
+      "view_count": 295,
+      "copy_count": 192,
+      "is_premium": false,
+      "published_at": "2026-09-18T18:00:16.406Z",
+      "images": [
+        {
+          "filename": "7ddbba46-8324-487a-824f-fd7deb8321aa.jpeg",
+          "local_path": "images/professional-studio-setup/7ddbba46-8324-487a-824f-fd7deb8321aa.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/7ddbba46-8324-487a-824f-fd7deb8321aa.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/7ddbba46-8324-487a-824f-fd7deb8321aa.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/7ddbba46-8324-487a-824f-fd7deb8321aa.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Cinematic bearded man studio portrait AI Photo Editing Prompt. AI generated portrait of a handsome bearded man in a black shirt illuminated by warm, dramatic amber lighting."
+        }
+      ]
+    },
+    {
+      "id": "6aa577e246d4207dc263df57",
+      "title": "Elegant Male Studio Photography",
+      "slug": "monochrome-mens-fashion-studio-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Use the uploaded image strictly and exclusively for 100% accurate face matching and identity preservation. \nCreate a 8K high-resolution, black-and-white fine art portrait photograph of the man, captured with exceptional clarity, depth, and detail. He is seated on a sleek wooden stool, leaning slightly forward in a confident and engaging pose. His right hand is holding a pair of black acetate sunglasses, lifting them slightly as he peers intensely over the top rim with a direct, self-assured gaze toward the camera. A subtle, confident smirk rests on his lips, conveying charisma and sophistication.\nThe subject wears a crisp white cotton button-down shirt with the top buttons undone and the sleeves rolled neatly to the forearms, paired with tailored black trousers. A thin silver chain necklace is visible around his neck. On his left wrist, a distinctive wristwatch featuring a black dial and silver case is rendered with ultra-sharp detail.\nThe background consists of a seamless, minimalist light-gray studio infinity wall with a soft radiant glow and a subtle vignette effect, creating a clean, elegant, and professional studio atmosphere.\nComposition: Medium close-up portrait with centered framing and carefully balanced negative space. The subject remains the clear focal point of the image.\nCamera Angle: Eye-level perspective with a very subtle upward viewing angle, enhancing the subject's confidence and presence without appearing low-angle.\nLighting: Dramatic high-contrast studio lighting with a soft key light positioned camera-right (the subject's right side). Deep blacks, luminous highlights, and strong tonal separation emphasize facial features, skin texture, clothing details, and overall dimensionality. Rich shadows define the black trousers and add depth to the composition.\nImage Quality: Premium medium-format photography aesthetic with fine-grain analog film emulation. Razor-sharp focus on the eyes and facial features, while preserving natural skin texture. Ultra-detailed rendering of the shirt weave, watch materials, sunglasses frame, and jewellery.\nCamera & Technical Specifications: Captured on a medium-format camera with an 85mm lens, f/2.0.\nStyle Keywords: Ultra-realistic, monochrome photography, editorial portrait, luxury fashion aesthetic, fine art black-and-white, high-end studio photography, cinematic contrast, premium ultra-high detail.\nAspect Ratio: 4:5",
+      "description": "Black and White Studio Photography Prompt: Copy & Paste this prompt to create a classic monochrome studio portrait of a handsome, stylish man in a white shirt adjusting his sunglasses while sitting on a stool.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 10,
+      "view_count": 621,
+      "copy_count": 475,
+      "is_premium": false,
+      "published_at": "2026-09-12T16:03:46.410Z",
+      "images": [
+        {
+          "filename": "8d0ff15c-f0ac-4e90-97d4-83e4aeda0568.jpeg",
+          "local_path": "images/professional-studio-setup/8d0ff15c-f0ac-4e90-97d4-83e4aeda0568.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/8d0ff15c-f0ac-4e90-97d4-83e4aeda0568.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/8d0ff15c-f0ac-4e90-97d4-83e4aeda0568.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/8d0ff15c-f0ac-4e90-97d4-83e4aeda0568.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Black and White Stylish Male Portrait AI Photo Editing Prompt. AI generated studio portrait of a confident handsome man in a crisp white shirt and dark trousers, sitting on a stool while lowering his sunglasses."
+        }
+      ]
+    },
+    {
+      "id": "6a99a01846d4207dc22757e7",
+      "title": "Sharp Dressed Man Sitting on a Wooden Barstool",
+      "slug": "stylish-menswear-monochrome-shoot",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a photorealistic full-body black-and-white fashion portrait of a stylish man(face match) seated confidently on a minimalist tall black wooden stool in a dark studio. He wears a perfectly tailored black suit jacket over an open-collar black dress shirt, black tailored trousers, polished black leather Oxford shoes with black socks, a minimalist chain necklace, and a luxury wristwatch. One hand rests casually in his trouser pocket while the other hangs naturally over his thigh. One foot firmly planted on the floor and the other leg bent, resting naturally on the stool’s lower support, creating a relaxed and confident pose. Detailed  textured hair, neatly styled look, wearing black sunglasses, looking toward the left side with a calm, serious expression. Dramatic studio lighting with soft directional highlights sculpting the face, suit, and hands, deep shadows, subtle rim light, A dark charcoal, seamless, smooth studio background with an edge-free infinity wall and a subtle gradient, strong cinematic contrast, sophisticated luxury editorial aesthetic, monochrome photography, ultra-detailed skin texture, realistic fabric and leather details, shallow depth of field, centered vertical composition, full-body framing, shot on an 85mm lens, f/1.8, high-end fashion photography, cinematic tonal grading, ultra-detailed, photorealistic, 8K resolution, aspect ratio 4:5.\nNegative Prompt: No anatomy errors, no unnatural pose, no blurry details,  no text, no watermark, no distortion, no extra fingers or limbs.",
+      "description": "Black and White Studio Photography Prompt: Use this prompt to generate a highly detailed monochrome studio portrait of a stylish man with a mustache and sunglasses, wearing a black suit and sitting elegantly on a wooden stool.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 12,
+      "view_count": 491,
+      "copy_count": 430,
+      "is_premium": false,
+      "published_at": "2026-09-03T16:28:08.048Z",
+      "images": [
+        {
+          "filename": "dd380f2d-ae94-4bb8-944f-490b0f76d8ab.jpeg",
+          "local_path": "images/professional-studio-setup/dd380f2d-ae94-4bb8-944f-490b0f76d8ab.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/dd380f2d-ae94-4bb8-944f-490b0f76d8ab.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/dd380f2d-ae94-4bb8-944f-490b0f76d8ab.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/dd380f2d-ae94-4bb8-944f-490b0f76d8ab.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Black and White Studio Portrait of a Suited Man AI Photo Editing Prompt. AI generated studio portrait of a stylish man with a mustache and sunglasses wearing a sharp black suit while sitting on a wooden stool."
+        }
+      ]
+    },
+    {
+      "id": "6a97101446d4207dc2f00558",
+      "title": "Dramatic Spotlight Male Fashion Portrait",
+      "slug": "casual-suit-style-portrait-photography",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a photorealistic, cinematic fashion portrait of a stylish man seated confidently on a black wooden stool against a smooth beige plaster wall. He has neatly styled hair, and wears dark rectangular sunglasses with amber-tinted lenses. He is dressed in a tailored light beige linen blazer over a partially unbuttoned black dress shirt, paired with black tailored trousers, a black pocket square, and a luxury black chronograph wristwatch.\nPose: Seated in a relaxed yet confident posture, torso slightly angled, one hand resting naturally on his thigh while the other hand is tucked into his trouser pocket, shoulders relaxed, chin slightly raised, looking away from the camera with a serious, composed expression.\nComposition: Medium-to-full body portrait, subject centered slightly to the right, vertical framing, elegant editorial fashion photography, strong silhouette and clean negative space.\nBackground: A minimal, warm beige, smooth, plain wall with dramatic architectural sunlight and deep shadows creating a curved diagonal light pattern behind the subject.\nLighting: Strong, directional golden circular spotlight coming from the upper right, creating strong highlights on his face and blazer. The light forms a large circular spotlight on the wall behind him while casting a strong, artistic shadow of his head and shoulders. Dark shadows surround the illuminated area, creating a high-contrast look with warm, natural tones.\nCamera: Eye-level to slightly low angle, 85mm portrait lens, f/1.6, shallow depth of field, crisp facial and fabric details, natural skin texture.\nQuality: Ultra-photorealistic, luxury fashion editorial, cinematic color grading, HDR, realistic fabric texture, 8K resolution, highly detailed, sharp focus, vertical 4:5 composition.\n**Negative Prompt:** lighting errors, cartoon, CGI, plastic skin, blurry face, distorted anatomy, asymmetrical eyes, incorrect facial proportions, low detail, text, logo, watermark.",
+      "description": "Cinematic Fashion Portrait Prompt. Copy & Paste this Prompt to create a highly detailed, professional studio photograph of a stylish man in a beige blazer and amber sunglasses posing elegantly under a dramatic circular spotlight.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 5,
+      "view_count": 562,
+      "copy_count": 465,
+      "is_premium": false,
+      "published_at": "2026-09-01T17:49:08.107Z",
+      "images": [
+        {
+          "filename": "bc8aac35-16b5-4d5b-9b8d-5bb99c6318d9.jpeg",
+          "local_path": "images/professional-studio-setup/bc8aac35-16b5-4d5b-9b8d-5bb99c6318d9.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/bc8aac35-16b5-4d5b-9b8d-5bb99c6318d9.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/bc8aac35-16b5-4d5b-9b8d-5bb99c6318d9.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/bc8aac35-16b5-4d5b-9b8d-5bb99c6318d9.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Cinematic studio fashion portrait of a stylish man in a beige blazer and sunglasses AI Photo Editing Prompt. AI generated fashion portrait of a handsome man sitting on a stool under a dramatic circular spotlight, wearing a black shirt, black trousers, and amber glasses."
+        }
+      ]
+    },
+    {
+      "id": "6a970f0146d4207dc2efe901",
+      "title": "Dramatic B&W Portrait with Amber-Orange Glasses",
+      "slug": "colored-glasses-bw-portrait-portrait-prompt",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "A hyper-realistic black-and-white cinematic studio portrait of a man, shown in a centered chest-up composition, facing directly toward the camera. He has a detailed hair, detailed skin texture, visible pores and natural wrinkles.\nHis expression is serious, stern, calm, and authoritative, with slightly narrowed eyes and intense direct eye contact. He wears distinctive amber-orange translucent rectangular acetate eyeglasses with thick frames, featuring warm orange-brown tinted lenses. The glasses are the only colored element in the entire image, creating a striking contrast against the monochrome portrait.\nHe wears a black ribbed turtleneck sweater underneath a structured black tailored blazer, with subtle fabric texture and clean sharp lines.\nThe background is a dark charcoal-gray seamless studio backdrop, rendered entirely in grayscale with subtle tonal variation and no distractions.\nBlack-and-white photography treatment: the man's skin, beard(if present), eyes, hair, clothing, and background are all rendered in rich monochrome grayscale, with deep blacks, soft midtones, and bright silver-gray highlights. Do not introduce any other colors. Only the eyeglass frames and lenses remain amber-orange.\nSoft dramatic studio lighting from the front and slightly above, creating sculpted facial shadows while preserving detailed skin texture. Subtle fill light on the darker side of the face, controlled highlights on the glasses, deep cinematic blacks, high contrast, moody editorial atmosphere.\nEye-level camera angle, straight-on perspective, 85mm portrait lens, f/1.8, shallow depth of field, razor-sharp focus on the eyes and face, realistic optical rendering, subtle natural film grain, HDR, ultra-detailed skin and hair texture, professional studio photography, photorealistic, 8K resolution, cinematic tonal grading, premium fashion editorial aesthetic, vertical 4:5 composition.\nNegative prompt: warm skin tones, cartoon, CGI, plastic skin, blurry face, distorted anatomy, asymmetrical eyes, bad facial proportions, low detail, text, logo, watermark.",
+      "description": "Selective Color Portrait Photography Prompt. Copy & Paste this Prompt to create a highly detailed, dramatic black-and-white studio portrait of a serious bald, bearded man wearing contrasting bright orange glasses.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 10,
+      "view_count": 489,
+      "copy_count": 433,
+      "is_premium": false,
+      "published_at": "2026-09-01T17:44:33.772Z",
+      "images": [
+        {
+          "filename": "363a1c4a-324d-41bb-97f1-1b9b88df1c9b.jpeg",
+          "local_path": "images/professional-studio-setup/363a1c4a-324d-41bb-97f1-1b9b88df1c9b.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/363a1c4a-324d-41bb-97f1-1b9b88df1c9b.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/363a1c4a-324d-41bb-97f1-1b9b88df1c9b.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/363a1c4a-324d-41bb-97f1-1b9b88df1c9b.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Black and white portrait with orange glasses AI Photo Editing Prompt. AI generated cinematic studio portrait of a serious bald, bearded man wearing a black turtleneck and contrasting bright amber glasses."
+        }
+      ]
+    },
+    {
+      "id": "6a91af9f46d4207dc2774e3b",
+      "title": "Man Red Smoke Studio Fashion Photo Prompt",
+      "slug": "boy-red-tshirt-sunglasses-smoke-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a full-body photorealistic cinematic fashion portrait of a confident man standing in a relaxed streetwear pose, slightly leaning with both hands in his cargo-pant pockets. He wears a loose oversized solid red T-shirt, black relaxed-fit cargo pants, white high-top sneakers, a black wristwatch, and black round sunglasses. Neatly styled hair, serious confident expression.\nEye-level camera angle, low-to-medium perspective feel, full-body framing from head to shoes, subject centered. Dark black seamless studio background with dramatic swirling red smoke filling the upper and middle background, gradually transitioning into dense dark-gray and black smoke around the legs and floor. Strong red lights from both sides illuminate his face, hair, and clothing, creating a subtle rim-light effect. A soft directional key light gently illuminates the face and body, with cinematic shadows, ultra-detailed skin texture, finely detailed fabric, and glossy reflections on the polished black floor. High contrast, moody luxury street-fashion aesthetic, photorealistic, ultra-detailed, sharp subject, volumetric smoke, cinematic color grading, professional studio photography, 8K resolution, aspect ratio 4:5.\nNo identity change, no plastic-looking skin, no blurry details, no smile, no facial distortion, no loss of sharpness.",
+      "description": "Use this cinematic studio photography prompt to create a dramatic portrait of a man wearing a red t-shirt and black cargos against a smoky red background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 4615,
+      "copy_count": 3312,
+      "is_premium": false,
+      "published_at": "2026-08-28T15:56:15.707Z",
+      "images": [
+        {
+          "filename": "b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "local_path": "images/professional-studio-setup/b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Cinematic streetwear portrait of a young man in a red t-shirt and sunglasses surrounded by smoke AI Photo Editing Prompt. AI generated fashion portrait of a stylish curly-haired boy standing in black cargo pants and white sneakers against a dark background with dramatic red and grey fog."
+        },
+        {
+          "filename": "e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "local_path": "images/professional-studio-setup/e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_9iseoj9iseoj9ise"
+        },
+        {
+          "filename": "69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "local_path": "images/professional-studio-setup/69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "original_url": "https://img.promptplum.com/promptImages/69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_6q3qd96q3qd96q3q"
+        },
+        {
+          "filename": "fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "local_path": "images/professional-studio-setup/fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_ui2wykui2wykui2w"
+        },
+        {
+          "filename": "40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "local_path": "images/professional-studio-setup/40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_vix2eevix2eevix2"
+        }
+      ]
+    },
+    {
+      "id": "6a91ac7446d4207dc276f884",
+      "title": "Elegant Man with Gold Watch on Mustard Backdrop",
+      "slug": "elegant-gentleman-gold-watch-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a photorealistic, ultra-detailed luxury fashion editorial portrait of a stylish man. Use the uploaded image strictly for accurate face matching and identity preservation. He is standing confidently in a studio setting. He wears a tailored deep-red textured blazer with subtle dark green dotted patterns, paired with a champagne-beige button-up shirt, neatly tucked into matching beige tailored trousers paired with black belt. The shirt collar is slightly open for a relaxed yet sophisticated look. A premium gold luxury wristwatch with a detailed metallic bracelet is clearly visible on his left wrist.\nHe stands in a relaxed, confident posture with his body slightly angled to the left, his right hand adjusting the luxurious gold wristwatch on his left wrist while looking directly at the camera.\nBackground: The background features a vivid, saturated orange seamless studio backdrop covering the entire frame. The orange background is smooth, clean, and uniform, with no gradient, patterns, textures, or tonal variations.\nLighting: soft, warm, diffused studio lighting with gentle highlights on the face, blazer, and watch, balanced exposure, natural skin texture, and subtle shadows for dimensionality.\nCamera & composition: eye-level camera, vertical medium-body fashion portrait, 85mm portrait lens, f/4, realistic depth of field, sharp facial and clothing details, premium editorial photography, natural proportions.\nQuality: 8K, ultra-realistic, highly detailed fabric texture, realistic skin texture, accurate reflections on the watch, cinematic color grading, professional luxury fashion campaign aesthetic, 4:5 aspect ratio.\nNegative prompt: distorted anatomy, altered facial features, unrealistic skin, plastic skin, blurry face, low resolution, warped clothing, duplicate accessories.",
+      "description": "Cinematic Studio Photography Prompt. Copy and paste this prompt to create a highly realistic, professional portrait of a stylish bearded man wearing a red patterned blazer against an orange background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 12,
+      "view_count": 494,
+      "copy_count": 427,
+      "is_premium": false,
+      "published_at": "2026-08-28T15:42:44.408Z",
+      "images": [
+        {
+          "filename": "20bdfa25-8633-4018-9737-ff04053af564.jpeg",
+          "local_path": "images/professional-studio-setup/20bdfa25-8633-4018-9737-ff04053af564.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/20bdfa25-8633-4018-9737-ff04053af564.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/20bdfa25-8633-4018-9737-ff04053af564.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/20bdfa25-8633-4018-9737-ff04053af564.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Stylish bearded man in a red blazer studio portrait AI Photo Editing Prompt. AI generated cinematic portrait of a handsome gentleman adjusting his cuff against an orange background."
+        }
+      ]
+    },
+    {
+      "id": "6a906de746d4207dc25c4adc",
+      "title": "Elegant Studio Portrait with Wooden Chair",
+      "slug": "checkered-sweater-vest-studio-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a photorealistic full-body fashion portrait of a stylish man standing confidently beside a black wooden chair in a warm brown studio setting. He wears a light blue dress shirt, navy-blue tie, brown-and-navy big checkered V-neck sweater vest, tailored dark brown trousers, and polished black leather dress shoes. He wears thin rectangular eyeglasses and a gold wristwatch.\nPose: His left hand rests naturally on the back of the chair while his right hand is casually placed inside his trouser pocket. His legs are crossed at the ankles, creating an elegant relaxed stance. Upright posture, shoulders relaxed, confident composed expression, looking directly at the camera.\nComposition: Full-body vertical portrait, subject positioned slightly right of center, chair occupying the lower-left foreground, balanced negative space, clean editorial framing.\nBackground & Lighting: Minimal seamless smooth dark chocolate-brown studio infinity backdrop and matching floor. Warm cinematic studio lighting with soft directional key light, subtle fill light, gentle rim lighting, realistic shadows, and smooth tonal gradients.\nCamera & Technical: Shot on an 85mm portrait lens at f/1.8, shallow depth of field, sharp focus on face and clothing, natural skin texture, realistic fabric details, cinematic color grading, HDR, ultra-detailed, photorealistic, 8K resolution, professional luxury fashion editorial photography, distortion-free anatomy, realistic hands and feet, no extra fingers, no text, no watermark, aspect ratio 4:5 composition.",
+      "description": "Business Casual Studio Portrait Prompt: Copy & paste this prompt to create a professional AI-generated studio portrait of a bearded man in a navy and camel checkered sweater vest with tie, leaning on a black wooden chair against a warm brown backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 8,
+      "view_count": 378,
+      "copy_count": 251,
+      "is_premium": false,
+      "published_at": "2026-08-27T17:03:35.453Z",
+      "images": [
+        {
+          "filename": "fa9f0d2f-4aa9-4bf7-84ca-41fcf502068a.jpeg",
+          "local_path": "images/professional-studio-setup/fa9f0d2f-4aa9-4bf7-84ca-41fcf502068a.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/fa9f0d2f-4aa9-4bf7-84ca-41fcf502068a.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/fa9f0d2f-4aa9-4bf7-84ca-41fcf502068a.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/fa9f0d2f-4aa9-4bf7-84ca-41fcf502068a.jpeg",
+          "width": 1431,
+          "height": 1600,
+          "alt": "Man in Checkered Sweater Vest Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a navy and camel plaid sweater vest with tie, brown trousers, and black leather shoes, standing beside a black wooden chair."
+        }
+      ]
+    },
+    {
+      "id": "6a8483444bbdbe2cf5702108",
+      "title": "Rule Your Own Story",
+      "slug": "men-attitude-status-image-prompt",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a high-end cinematic fashion editorial portrait of a stylish man wearing a monochromatic deep-red outfit: an oversized red hooded jacket layered over a red top and tailored red trousers. He is captured in a dynamic three-quarter pose, with his body turned away from the camera while looking back over his shoulder toward the viewer. His head is subtly turned toward the camera, creating a confident, intense editorial gaze. His naturally tousled hair with a few loose strands falling across his forehead.\nThe oversized jacket flows dramatically behind him, creating strong movement and visual depth. One arm extends naturally downward and forward, with a metallic chain bracelet visible on his wrist, while the other arm remains integrated naturally into the flowing jacket. The pose feels spontaneous, powerful, and fashion-forward.\nUse a rich dark burgundy-red studio background that closely complements the red clothing, creating a bold monochromatic visual aesthetic. Dramatic soft studio lighting with controlled highlights and deep shadows emphasizes the facial features, fabric texture, folds, and silhouette. Premium luxury fashion campaign aesthetic, cinematic contrast, sophisticated color grading, realistic skin texture, highly detailed fabric, natural anatomy, photorealistic finish.\nComposition: vertical medium-body fashion portrait, subject positioned slightly right of center with generous negative space on the left for typography. Eye-level camera perspective, dynamic three-quarter rear angle, strong silhouette, balanced framing, editorial magazine campaign layout, 4:5 aspect ratio.\nAdd elegant bold condensed white typography on the left side reading “DON’T FOLLOW,” and subtle supporting small text beneath: “LEAD YOUR OWN WAY. RULE YOUR OWN STORY.” Clean premium graphic design, refined spacing, strong visual hierarchy, luxury fashion advertising aesthetic. Ensure all typography remains entirely within the empty background area on the left and never overlaps, covers, or is placed on top of the subject.\nUltra-photorealistic, cinematic, high-end fashion photography, crisp details, realistic skin and hair, natural fabric texture, dramatic composition, premium editorial finish, 8K details, aspect ratio 4:5.\nNegative prompt: distorted anatomy, malformed hands, duplicate body parts, distorted face, plastic skin, blurry details, low resolution, overexposure, harsh artificial skin, awkward pose, incorrect clothing structure, cluttered background, warped typography, misspelled text, cropped subject.",
+      "description": "Attitude Portrait Prompt: Copy & Paste this Prompt to create a bold studio portrait of a confident man in a red outfit featuring motivational typography.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 40,
+      "view_count": 520,
+      "copy_count": 741,
+      "is_premium": false,
+      "published_at": "2026-08-18T16:07:32.006Z",
+      "images": [
+        {
+          "filename": "27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "local_path": "images/professional-studio-setup/27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Red in Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a man in a red outfit looking back, featuring large 'DON'T FOLLOW' text and smaller motivational phrases."
+        }
+      ]
+    },
+    {
+      "id": "6a808c274bbdbe2cf5139866",
+      "title": "Thoughtful Businessman in a Dark Suit",
+      "slug": "serious-man-black-suit-prompt",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create an ultra-realistic, premium editorial portrait of a handsome man, preserving the exact facial features, appearance, and identity of the reference image. He is wearing a perfectly tailored dark-black checkered three-piece suit, crisp white dress shirt, black textured tie, and matching waistcoat. He is seated slightly forward in an elegant pose, with his right elbow resting on his right knee and his left hand raised casually near his face. His head is gently tilted downward toward the left, with his eyes looking down and a calm, thoughtful, sophisticated, and confident expression.\nComposition: medium composition portrait, eye-level camera angle, subject positioned slightly left of center, balanced framing, full upper body and hands visible, natural proportions, elegant editorial composition.\nBackground: seamless dark black-to-deep-brown studio backdrop with a subtle soft vignette, minimal luxury aesthetic, no decorations, no distractions.\nLighting: dramatic cinematic Rembrandt lighting from the upper left, soft directional shadows across the face, rich contrast, warm highlights, deep blacks, subtle edge separation, realistic skin tones, natural skin texture, and refined luxury fashion-editorial atmosphere.\nCamera & technical details: shot on an 85mm portrait lens at f/1.8, shallow depth of field, creamy background separation, razor-sharp focus on the face and hands, realistic perspective, professional studio photography, HDR, 8K resolution, ultra-detailed fabric and skin textures, cinematic color grading.\nStyle: high-end men's fashion magazine, sophisticated luxury portrait, photorealistic, hyper-realistic, premium studio photography, crisp suit pattern and tailoring details, realistic hands and anatomy, natural skin pores, subtle film grain, polished professional finish, no distortion, no cropped hands, no blur, no watermark, no text, no logo, no anatomical errors. Aspect ratio 4:5.",
+      "description": "Cinematic Studio Portrait Photography Prompt.\nUse this prompt to generate professional, moody portraits of a thoughtful bearded man dressed in a dark three-piece suit against a dark background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 1143,
+      "copy_count": 2549,
+      "is_premium": false,
+      "published_at": "2026-08-15T15:56:23.147Z",
+      "images": [
+        {
+          "filename": "6a287041-31e1-4938-8c0c-2793eae19663.jpeg",
+          "local_path": "images/professional-studio-setup/6a287041-31e1-4938-8c0c-2793eae19663.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/6a287041-31e1-4938-8c0c-2793eae19663.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/6a287041-31e1-4938-8c0c-2793eae19663.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/6a287041-31e1-4938-8c0c-2793eae19663.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Thoughtful Bearded Man in a Dark Suit Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a handsome, thoughtful bearded man wearing a dark three-piece suit and tie against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a7f3ecf4bbdbe2cf5f28572",
+      "title": "Fashion Portrait of Man in Black Attire",
+      "slug": "professional-studio-portrait-men",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "A photorealistic cinematic portrait of a stylish man(face match) standing in a three-quarter pose and confidently facing the camera, wearing a black satin button-down shirt with sleeves rolled to the elbows, tucked into tailored black trousers, layered with a delicate gold chain, rings, and a luxury golden wristwatch. His right hand rests naturally in his pocket, while his other hand hangs relaxed at his side, with a calm, confident expression and direct eye contact. Dark studio background with a dramatic circular light-blue spotlight behind him, creating a strong halo effect and deep shadows around the edges. Moody high-contrast studio lighting, subtle rim light, rich blacks, ultra-detailed skin texture, detailed satin fabric, cinematic color grading, shallow depth of field, centered composition, medium full-body framing, eye-level camera angle, shot on an 85mm lens at f/1.8, ultra-detailed, photorealistic, 8K resolution. aspect ratio 4:5.",
+      "description": "Cinematic Studio Portrait Prompt: Copy and paste this prompt to create a professional studio photograph of a handsome young man wearing a black satin shirt against a blue spotlight.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 315,
+      "copy_count": 385,
+      "is_premium": false,
+      "published_at": "2026-08-14T16:14:07.088Z",
+      "images": [
+        {
+          "filename": "2e7daa6f-3bd2-4309-843c-a8ef56d3baad.jpeg",
+          "local_path": "images/professional-studio-setup/2e7daa6f-3bd2-4309-843c-a8ef56d3baad.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/2e7daa6f-3bd2-4309-843c-a8ef56d3baad.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/2e7daa6f-3bd2-4309-843c-a8ef56d3baad.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/2e7daa6f-3bd2-4309-843c-a8ef56d3baad.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Handsome man in black shirt studio portrait AI Photo Editing Prompt. AI generated portrait of a stylish young man wearing a black satin shirt and gold watch standing in front of a blue spotlight."
+        }
+      ]
+    },
+    {
+      "id": "6a7752ca4bbdbe2cf5353c00",
+      "title": "The Modern Power Suit",
+      "slug": "women-black-three-piece-suit",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Maintain accurate identity and precise face matching to the provided reference image.\nCreate an ultra-realistic luxury corporate fashion portrait of a confident woman standing against a pure black studio background. She has neatly styled hair with soft face-framing layers, subtle volume, smooth skin, and a calm, confident expression with a slight smile while looking toward the left side.\nOutfit: perfectly tailored all-black three-piece business suit consisting of a structured black blazer, fitted black waistcoat, and matching black tailored trousers. Crisp white dress shirt with a pointed collar and a sleek black necktie. The blazer is buttoned with subtle premium tailoring details, while the white shirt cuffs are slightly visible beneath the sleeves. Both hands are casually placed inside the trouser pockets, creating a relaxed yet powerful executive stance.\nComposition: Mid-thigh-up fashion portrait, subject centered, standing upright with relaxed shoulders, generous negative space around the subject. The black outfit blends subtly into the dark background while remaining clearly defined through controlled rim and key lighting.\nLighting: dramatic high-end studio lighting, soft directional key light illuminating the face and upper body, subtle highlights along the hair and shoulders, gentle shadows shaping the suit, deep blacks, high contrast, sophisticated cinematic mood.\nCamera: eye-level camera angle, straight-on perspective, professional editorial photography, 85mm portrait lens, f/1.8, shallow depth of field, sharp focus on the face, realistic skin texture, realistic hair strands and fabric details.\nStyle: luxury corporate editorial, sophisticated executive fashion campaign, photorealistic, cinematic color grading, realistic skin tones, ultra-detailed black suit fabric, natural facial proportions, HDR, 8K resolution, clean studio photography, premium magazine aesthetic. Aspect ratio 4:5.\nNegative prompt: low quality, bad anatomy, unnatural pose, plastic skin, excessive retouching, blurry face, low resolution, overexposure, harsh shadows, distracting background, text, logo, watermark.",
+      "description": "Corporate Portrait Prompt: Copy & paste this prompt to create a professional photograph of a confident woman in a black three-piece suit against a dark background.",
+      "ai_tools": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 992,
+      "copy_count": 1163,
+      "is_premium": false,
+      "published_at": "2026-08-08T16:01:14.250Z",
+      "images": [
+        {
+          "filename": "a12fcf13-9b5f-406d-b2cc-fd13873268ee.jpeg",
+          "local_path": "images/professional-studio-setup/a12fcf13-9b5f-406d-b2cc-fd13873268ee.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/a12fcf13-9b5f-406d-b2cc-fd13873268ee.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/a12fcf13-9b5f-406d-b2cc-fd13873268ee.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/a12fcf13-9b5f-406d-b2cc-fd13873268ee.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "American Woman in Black Three-Piece Suit Portrait AI Photo Editing Prompt. AI generated professional portrait of a confident woman with short wavy hair wearing a suit and tie with hands in pockets against a black background."
+        },
+        {
+          "filename": "c43b2653-2bb0-4474-89bf-ef2ca40432b0.jpeg",
+          "local_path": "images/professional-studio-setup/c43b2653-2bb0-4474-89bf-ef2ca40432b0.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/c43b2653-2bb0-4474-89bf-ef2ca40432b0.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/c43b2653-2bb0-4474-89bf-ef2ca40432b0.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/c43b2653-2bb0-4474-89bf-ef2ca40432b0.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Black Woman in Black Three-Piece Suit Portrait AI Photo Editing Prompt. AI generated professional portrait of a confident woman with short wavy hair wearing a suit and tie with hands in pockets against a black background."
+        },
+        {
+          "filename": "46133bf5-de3d-4500-b6da-e3b0fd6928c8.jpeg",
+          "local_path": "images/professional-studio-setup/46133bf5-de3d-4500-b6da-e3b0fd6928c8.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/46133bf5-de3d-4500-b6da-e3b0fd6928c8.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/46133bf5-de3d-4500-b6da-e3b0fd6928c8.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/46133bf5-de3d-4500-b6da-e3b0fd6928c8.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Beautiful Woman in Black Three-Piece Suit Portrait AI Photo Editing Prompt. AI generated professional portrait of a confident woman with short wavy hair wearing a suit and tie with hands in pockets against a black background."
+        }
+      ]
+    },
+    {
+      "id": "6a74bbe14bbdbe2cf5f79161",
+      "title": "A Moment of Self-Assurance",
+      "slug": "successful-businessman-mirror-reflection",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Use the uploaded face as the exact facial reference. Create an ultra-realistic luxury editorial portrait of a confident man wearing a perfectly tailored matte black suit with a slightly unbuttoned clean white dress shirt and a subtle golden chain necklace. He is standing in front of a large modern LED-framed mirror inside a premium minimalist luxury dressing lounge with elegant black walls and sleek architectural details.\nThe subject is leaning forward naturally, placing both hands firmly on a polished black stone countertop, shoulders slightly forward, maintaining a relaxed yet powerful posture. The camera is positioned behind and slightly to the right of the subject, capturing him from the shoulders up while revealing his entire face only through the mirror's reflection. The reflection shows him smiling with genuine confidence, making direct eye contact with himself in the mirror. His expression conveys success, self-belief, and positive energy.\nThe oversized rectangular mirror features a clean golden LED border, creating a luxurious modern ambiance. Additional vertical warm LED light strips appear softly in the background, adding depth and symmetry. The countertop has a glossy reflective finish, subtly reflecting the illuminated mirror frame. The room is designed with dark matte walls, hidden doors, premium finishes, and a sophisticated contemporary interior.\nLighting: Soft cinematic warm-golden LED lighting combined with subtle ambient fill lighting. Gentle highlights illuminate the reflection while preserving natural skin texture. Smooth shadow transitions, realistic reflections, balanced contrast, and luxury editorial mood.\nComposition: Vertical portrait (4:5), centered mirror composition with perfect symmetry. The subject occupies the foreground from behind while the reflection becomes the primary visual focus. Clean negative space around the mirror enhances the premium minimalist aesthetic.\nCamera: Eye-level perspective, shot from behind the subject, 85mm lens, medium-shot, f/1.8 aperture, shallow depth of field, crisp mirror reflection, natural perspective, editorial fashion photography.\nQuality: Ultra-photorealistic, hyper-detailed, luxury editorial photography, HDR, 8K resolution, cinematic color grading, physically accurate lighting, ray-traced reflections, global illumination, ultra-sharp focus, realistic fabric textures, premium skin detailing, natural color tones, distortion-free mirror reflection, no extra limbs, no duplicate body parts, no anatomy errors, no text, no watermark, no logo.",
+      "description": "Cinematic Portrait Prompt: Copy & Paste this Prompt to create a realistic photo of a smiling man in a black suit looking into a glowing LED mirror.",
+      "ai_tools": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 1487,
+      "copy_count": 1757,
+      "is_premium": false,
+      "published_at": "2026-08-06T16:52:49.956Z",
+      "images": [
+        {
+          "filename": "613240a6-3134-4474-91ae-f970242b0d6a.jpeg",
+          "local_path": "images/professional-studio-setup/613240a6-3134-4474-91ae-f970242b0d6a.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/613240a6-3134-4474-91ae-f970242b0d6a.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/613240a6-3134-4474-91ae-f970242b0d6a.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/613240a6-3134-4474-91ae-f970242b0d6a.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Suit with LED Mirror Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a black suit looking into his reflection in a large, glowing rectangular LED mirror within a dark-themed vanity room."
+        }
+      ]
+    },
+    {
+      "id": "6a735dda4bbdbe2cf5d69399",
+      "title": "Boardroom Authority",
+      "slug": "professional-men-suit-style",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a cinematic, ultra-photorealistic waist-up portrait of a handsome man (face match) standing in a clean left-side profile, looking calmly into the distance with a confident, thoughtful expression. He naturally hair, realistic skin texture. He is dressed in a luxurious black double-breasted tailored suit jacket with gold metallic buttons, layered over a crisp white dress shirt accented with gold collar pins. A vibrant red silk necktie, secured with an elegant gold tie pin, complements a matching red pocket square neatly tucked into the breast pocket. A luxury gold-and-silver chronograph watch on his left wrist further enhances the refined executive aesthetic. His body is slightly turned sideways, with both hands naturally clasped in front of his waist. Place him against a smooth glowing deep blue gradient background, transitioning from deep dark blue at the edges to light blue behind the subject. Use soft cinematic side lighting, subtle rim light, realistic shadows, cool skin tones, and a clean studio aesthetic. Sharp facial details, detailed hair and facial texture, natural anatomy, shallow depth of field, high-end editorial photography, 85mm lens, f/1.8, 8K resolution, vertical composition, aspect ratio 4:5.",
+      "description": "High-End Corporate Portrait Prompt: Copy & paste this prompt to create a sharp studio photograph of a man in a black double-breasted suit and red tie.",
+      "ai_tools": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 381,
+      "copy_count": 280,
+      "is_premium": false,
+      "published_at": "2026-08-05T15:59:22.186Z",
+      "images": [
+        {
+          "filename": "4d2dc75c-13b7-41a7-b32d-a6bf3feba01b.jpeg",
+          "local_path": "images/professional-studio-setup/4d2dc75c-13b7-41a7-b32d-a6bf3feba01b.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/4d2dc75c-13b7-41a7-b32d-a6bf3feba01b.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/4d2dc75c-13b7-41a7-b32d-a6bf3feba01b.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/4d2dc75c-13b7-41a7-b32d-a6bf3feba01b.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Black Suit Corporate Portrait AI Photo Editing Prompt. AI generated studio portrait of a man wearing a black double-breasted suit, red tie, and luxury watch against a blue background."
+        }
+      ]
+    },
+    {
+      "id": "6a721a5f4bbdbe2cf5b797a5",
+      "title": "Modern Menswear on Vibrant Orange",
+      "slug": "smart-casual-blazer-outfit-men",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a high-end, ultra-photorealistic full-body fashion portrait of a confident, man(face matching) standing in the center of a bold minimalist studio set. He has neatly styled hair, defined facial features, and a calm, serious expression while looking directly into the camera. He wears a striking tailored blazer with an intricate red and deep-green abstract woven pattern over a crisp white button-down shirt, paired with relaxed-fit beige pleated trousers featuring clean white sneakers.\nPose him naturally with one hand placed casually inside his trouser pocket and the other arm relaxed by his side. His body is slightly angled right, with one leg straight and the other extended forward in a relaxed editorial stance. Maintain realistic anatomy, natural hand proportions, accurate fabric folds, and a confident masculine posture.\nThe set features a vivid orange seamless studio infinity wall with a smooth gradient, brightest directly behind the man at the center and gradually darkening toward the edges. Keep the composition clean, modern, bold, and visually balanced, with strong contrast between the orange environment, white backdrop, patterned blazer, and neutral trousers.\nUse soft, diffused professional studio lighting from the front and slightly above, producing gentle facial shadows, realistic skin texture, subtle highlights on the blazer, and natural shadows beneath the shoes. Capture the image from a slightly low, eye-level fashion-editorial perspective using a 85mm lens, with deep focus to keep the entire subject sharp. Full-body vertical composition, subject centered, head-to-toe framing, symmetrical background design, premium luxury menswear campaign aesthetic, ultra-detailed skin texture, realistic skin, crisp tailoring, cinematic color grading, high dynamic range, 8K resolution, photorealistic quality, aspect ratio 4:5.",
+      "description": "Menswear Fashion Prompt: Copy & paste this prompt to generate a professional studio portrait of a stylish man in a patterned blazer against an orange background.",
+      "ai_tools": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "like_count": 23,
+      "view_count": 380,
+      "copy_count": 386,
+      "is_premium": false,
+      "published_at": "2026-08-04T16:59:11.082Z",
+      "images": [
+        {
+          "filename": "412314d0-3339-4cb0-96f7-c25f1c8c1841.jpeg",
+          "local_path": "images/professional-studio-setup/412314d0-3339-4cb0-96f7-c25f1c8c1841.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/412314d0-3339-4cb0-96f7-c25f1c8c1841.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/412314d0-3339-4cb0-96f7-c25f1c8c1841.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/412314d0-3339-4cb0-96f7-c25f1c8c1841.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Smart-Casual Man in Patterned Blazer Studio Style AI Photo Editing Prompt. AI generated full-body studio portrait of a man in a patterned maroon and green blazer, white shirt, and khaki pleated trousers standing against an orange background"
+        }
+      ]
+    },
+    {
+      "id": "6a6cd3a44bbdbe2cf530973c",
+      "title": "Cinematic Blue and Amber Portrait",
+      "slug": "cinematic-portrait-dual-lighting",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a highly detailed, photorealistic cinematic portrait of a confident man. He is wearing thin round silver metal-frame eyeglasses, a faded blue denim jacket layered over a black crew-neck T-shirt, and a delicate silver chain necklace.\nThe subject is captured in a chest-up composition with an eye-level camera. He is posed at a 3/4 right angle with a subtle upward chin tilt, creating a confident, modern editorial look. His expression is composed, self-assured, and effortlessly stylish while looking directly into the camera\nThe lighting features a dramatic cinematic dual-color setup: a bright vibrant blue light illuminating the left side of his face and jacket, while a bright warm amber/orange rim light softly highlights the right side of his face, neck, and shoulder. The lighting creates strong depth, contrast, and dimensionality and avoiding harsh shadows on the face.\nThe background is a smooth, dark navy-blue seamless studio backdrop with a subtle gradient, keeping all attention on the subject. Soft falloff, clean separation from the background, and gentle atmospheric contrast enhance the cinematic mood.\nCamera Settings: 85mm portrait lens, f/2.0 aperture, shallow depth of field, DSLR-quality, tack-sharp focus on the eyes, creamy background blur, high dynamic range, natural skin pores, realistic reflections on the eyeglasses, ultra-detailed fabric textures, and crisp facial hair details (if present).\nStyle: Premium fashion editorial, ultra-photorealistic, cinematic color grading, moody studio lighting, realistic skin texture, natural tones, 8K ultra-detailed, professional magazine-quality portrait, high contrast with soft highlight roll-off, no plastic skin, no over-processing, no beauty filters. Aspect ratio 4:5.",
+      "description": "Cinematic Portrait Photography Prompt: Copy & Paste this prompt to generate a realistic studio photo of a mustached man in a denim jacket with dual lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 62,
+      "view_count": 2450,
+      "copy_count": 1744,
+      "is_premium": false,
+      "published_at": "2026-07-31T16:56:04.288Z",
+      "images": [
+        {
+          "filename": "ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "local_path": "images/professional-studio-setup/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "local_path": "images/professional-studio-setup/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "local_path": "images/professional-studio-setup/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-7"
+        },
+        {
+          "filename": "af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "local_path": "images/professional-studio-setup/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "64592769-b3cf-4049-9008-469198461f65.webp",
+          "local_path": "images/professional-studio-setup/64592769-b3cf-4049-9008-469198461f65.webp",
+          "original_url": "https://img.promptplum.com/promptImages/64592769-b3cf-4049-9008-469198461f65.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/64592769-b3cf-4049-9008-469198461f65.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/64592769-b3cf-4049-9008-469198461f65.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "local_path": "images/professional-studio-setup/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "local_path": "images/professional-studio-setup/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "width": 1468,
+          "height": 1600,
+          "alt": "Mustached Man in Denim Jacket Studio Portrait AI Photo Editing Prompt. AI generated digital portrait illustration of a serious man with round wire glasses and a prominent mustache, wearing a denim jacket and silver chain, against a dark background with blue and amber dual lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a6b7a5f4bbdbe2cf50ca273",
+      "title": "Two-Toned Dragon Portrait",
+      "slug": "half-red-white-dragon-shirt-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a highly-detailed photorealistic cinematic fashion portrait of a stylish man(face match) standing against a smooth dark grey studio background. He is wearing an loose  bold half-and-half shirt: the left side is crisp white with a large detailed black Chinese dragon graphic, while the right side is vibrant red. The sleeves are rolled up, and he wears fitted black trousers with a metallic silver wristwatch. He poses with one forearm raised horizontally across the lower half of his face, partially covering his mouth, while his intense eyes stare directly into the camera. His textured hair is styled naturally with a few strands falling over his forehead. Dramatic soft studio lighting creates subtle shadows and highlights the fabric texture, strong facial features, and aesthetic forearm. Cantered mid thigh-up composition, straight-on camera angle, high-end editorial fashion photography, sharp focus, ultra-detailed realistic skin texture, shallow depth of field, cinematic colour grading, ultra-detailed, 8K resolution, vertical 4:5 aspect ratio. Do not tuck the shirt into the trousers.",
+      "description": "Fashion Photography Prompt: Copy & Paste this prompt to create a striking studio portrait of a man wearing a split red and white dragon print shirt.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 503,
+      "copy_count": 557,
+      "is_premium": false,
+      "published_at": "2026-07-30T16:22:55.307Z",
+      "images": [
+        {
+          "filename": "c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "local_path": "images/professional-studio-setup/c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Split Dragon Shirt Portrait AI Photo Editing Prompt. AI generated studio portrait of an intense-looking man in a unique split-color red and white shirt with an intricate dragon design, partially hiding his face with his arm and watch."
+        }
+      ]
+    },
+    {
+      "id": "6a64e2639d499d9af98317e5",
+      "title": "The Maroon Button-Down",
+      "slug": "mens-portrait-photography-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Ultra-photorealistic, 8K-resolution cinematic studio portrait of a handsome man embodying an elevated “quiet luxury” aesthetic. He has neatly styled hair. Use the uploaded image strictly ONLY for face matching and identity reference. Medium-long composition framed from mid-thigh to head-up, perfectly centered with an eye-level camera angle. He stands with a relaxed yet confident posture, his torso and lower body subtly angled about 10–15 degrees to the right rather than facing directly toward the camera, while his head turns naturally toward the lens to maintain direct eye contact. Both hands rest naturally inside his trouser pockets. His expression is calm, composed, and subtly intense, with relaxed facial muscles and understated confidence.\nOutfit & Styling:\nHe wears a perfectly tailored premium dark maroon button-down shirt (wrinkle-free, no creases), sleeves rolled up to forearms, top buttons open revealing a thin silver chain, paired with tailored black trousers and a premium glossy black belt.\nAccessories include a premium golden luxury sports watch on his left wrist, featuring a maroon dial and a brushed metal bracelet.\nLighting is soft cinematic low-key studio lighting with a diffused front-left key light creating smooth facial highlights and gentle shadows. Subtle rear-right rim lighting softly illuminates the hair edges, right shoulder, and bicep for depth and subject separation. Dark black background with a faint gradient glow, maintaining a refined “quiet luxury” editorial atmosphere. Creating clean separation from the background while maintaining a moody editorial atmosphere. Perfect exposure balance with no blown highlights or crushed blacks.\nThe background is a smooth, seamless dark black studio backdrop with faint soft gradients, maintaining complete focus on the subject. Shallow depth of field creates a smooth, creamy falloff while preserving ultra-sharp focus on the eyes, ultra-detailed facial details, shirt texture, watch, and tailoring.\nCaptured on a full-frame DSLR with an 85mm portrait lens, f/1.8 aperture, ISO 100. Ultra-sharp focus, cinematic color grading, natural contrast, realistic skin rendering, premium editorial fashion photography quality, luxury menswear campaign aesthetic. Aspect ratio: 4:5 .",
+      "description": "Professional Portrait Prompt: Copy & Paste this Prompt to create a high-quality studio photograph of a stylish bearded man in a burgundy shirt and black pants.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 25,
+      "view_count": 907,
+      "copy_count": 919,
+      "is_premium": false,
+      "published_at": "2026-07-25T16:20:51.429Z",
+      "images": [
+        {
+          "filename": "8e619434-7484-4e60-b56b-d62f072450a9.jpeg",
+          "local_path": "images/professional-studio-setup/8e619434-7484-4e60-b56b-d62f072450a9.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/8e619434-7484-4e60-b56b-d62f072450a9.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/8e619434-7484-4e60-b56b-d62f072450a9.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/8e619434-7484-4e60-b56b-d62f072450a9.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Burgundy Shirt Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a confident, bearded man in a burgundy button-down shirt, gold watch, and black trousers, posing with hands in pockets against a black backdrop."
+        }
+      ]
+    },
+    {
+      "id": "6a64df579d499d9af9829f73",
+      "title": "Studio Portrait with Chair",
+      "slug": "mens-black-formal-style-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a ultra-realistic full-body cinematic studio portrait of a confident man standing beside a matte-black modern metal chair against a pure black seamless studio background. The subject is wearing a luxury all-black formal outfit consisting of a slim-fit black button-down dress shirt with sleeves rolled to the forearms, featuring a smooth, crease-free finish and a subtle satin sheen, tailored black trousers paired with a black belt, and polished black leather loafers. A black blazer is casually draped over one shoulder.\nPose & Composition:\nFull-body vertical fashion portrait in a relaxed editorial stance. The subject stands with one leg slightly crossed in front of the other, body facing forward with a subtle natural lean. A black blazer is casually draped over one shoulder, held effortlessly in the left hand, while the right hand rests naturally on the chair back for balance and elegance. The chair is positioned beside the subject to enhance balance and sophistication within the composition. Framing is centered with clean negative space surrounding the body, creating a refined luxury fashion-magazine aesthetic.\nAspect ratio 4:5.\nExpression & Gaze:\nCalm, self-assured, masculine expression with direct eye contact toward the camera. Neutral lips, confident posture, and refined presence.\nLighting & Mood:\nMoody cinematic studio lighting with a soft directional key light illuminating the face and torso, creating dimensional highlights on the fabric and skin. Subtle rim lighting separates the silhouette from the dark background. Deep shadows, rich blacks, and smooth tonal transitions enhance the elegant high-fashion atmosphere.\nCamera & Technical Details:\nCaptured with a professional DSLR camera using an 85mm portrait lens, f1.8, shallow depth of field, ultra-sharp focus on the subject, high dynamic range, ultra-detailed skin texture, detailed fabric rendering, realistic reflections on leather shoes, premium studio color grading, high contrast, luxury editorial photography style.\nUltra-realistic, 8K resolution, cinematic composition, hyper-detailed textures, polished fashion campaign aesthetic.",
+      "description": "Men's Fashion Portrait Prompt: Copy & paste this prompt to create a professional studio photograph of a stylish man in an all-black outfit posing with a chair.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 771,
+      "copy_count": 1282,
+      "is_premium": false,
+      "published_at": "2026-07-25T16:07:51.804Z",
+      "images": [
+        {
+          "filename": "15bebd96-f42a-4ff6-83f1-914eec4b4df2.jpeg",
+          "local_path": "images/professional-studio-setup/15bebd96-f42a-4ff6-83f1-914eec4b4df2.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/15bebd96-f42a-4ff6-83f1-914eec4b4df2.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/15bebd96-f42a-4ff6-83f1-914eec4b4df2.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/15bebd96-f42a-4ff6-83f1-914eec4b4df2.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Black Fashion with Chair Portrait AI Photo Editing Prompt. AI generated photorealistic studio portrait of a stylish man wearing all black, holding a jacket over his shoulder while leaning on a minimalist metal chair against a dark background."
+        },
+        {
+          "filename": "fb8b3722-0bbd-44ed-a056-d07ce2ad981d.jpeg",
+          "local_path": "images/professional-studio-setup/fb8b3722-0bbd-44ed-a056-d07ce2ad981d.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/fb8b3722-0bbd-44ed-a056-d07ce2ad981d.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/fb8b3722-0bbd-44ed-a056-d07ce2ad981d.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/fb8b3722-0bbd-44ed-a056-d07ce2ad981d.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Black Fashion with Chair Portrait AI Photo Editing Prompt. AI generated photorealistic studio portrait of a stylish man wearing all black, holding a jacket over his shoulder while leaning on a minimalist metal chair against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a60f2ef4e919e1ec2432ecd",
+      "title": "Emerging from the Dark",
+      "slug": "rim-lit-monochrome-male-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a dramatic fine-art black-and-white studio portrait of a man in perfect side profile facing right, captured against a deep seamless black background. The subject wears a fitted black turtleneck sweater that blends elegantly into the dark backdrop, creating a minimalist and sophisticated aesthetic. His has, neatly styled hair are illuminated by a single powerful rim light positioned behind and slightly above him, outlining the contours of his head, forehead, nose, lips, jawline, neck, and shoulders with a crisp silver edge light.\nThe lighting is low-key and cinematic, producing dark shadows across the face while preserving subtle details in the profile. Strong chiaroscuro contrast emphasizes the facial structure and creates a striking silhouette effect. The composition is clean, timeless, and editorial, with no distractions, no visible props, and no background texture.\nEye-level camera angle, medium portrait framing from mid-torso upward, vertical composition, subject centered slightly left of frame, ultra-sharp focus, high dynamic range, dramatic tonal separation, professional studio photography, fine-art portraiture, monochrome photography, museum-quality lighting, ultra-realistic skin texture, detailed hair strands, elegant and powerful mood, Hasselblad medium-format look, 85mm portrait lens, f/4, ISO 100, 8K ultra-high resolution. Aspect ratio 4:5.",
+      "description": "B&W Studio Photography Prompt: Copy & Paste this Prompt to create a dramatic monochrome side profile portrait of a man wearing a dark turtleneck.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 974,
+      "copy_count": 945,
+      "is_premium": false,
+      "published_at": "2026-07-22T16:42:23.220Z",
+      "images": [
+        {
+          "filename": "e42d9cd2-568e-44c7-abf9-841549d639bb.jpeg",
+          "local_path": "images/professional-studio-setup/e42d9cd2-568e-44c7-abf9-841549d639bb.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/e42d9cd2-568e-44c7-abf9-841549d639bb.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/e42d9cd2-568e-44c7-abf9-841549d639bb.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/e42d9cd2-568e-44c7-abf9-841549d639bb.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Men's Black & White Dramatic Profile Portrait AI Photo Editing Prompt. AI generated high-quality studio portrait of a man in profile wearing a black turtleneck, featuring stark chiaroscuro lighting on his face."
+        },
+        {
+          "filename": "30058b84-1e56-4a96-8be3-6a55c445f127.jpeg",
+          "local_path": "images/professional-studio-setup/30058b84-1e56-4a96-8be3-6a55c445f127.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/30058b84-1e56-4a96-8be3-6a55c445f127.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/30058b84-1e56-4a96-8be3-6a55c445f127.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/30058b84-1e56-4a96-8be3-6a55c445f127.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Old Men Black & White Dramatic Profile Portrait AI Photo Editing Prompt. AI generated high-quality studio portrait of a man in profile wearing a black turtleneck, featuring stark chiaroscuro lighting on his face."
+        },
+        {
+          "filename": "dacfc64a-edad-4271-9f39-bc69453cc695.jpeg",
+          "local_path": "images/professional-studio-setup/dacfc64a-edad-4271-9f39-bc69453cc695.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/dacfc64a-edad-4271-9f39-bc69453cc695.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/dacfc64a-edad-4271-9f39-bc69453cc695.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/dacfc64a-edad-4271-9f39-bc69453cc695.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Indian Men Black & White Dramatic Profile Portrait AI Photo Editing Prompt. AI generated high-quality studio portrait of a man in profile wearing a black turtleneck, featuring stark chiaroscuro lighting on his face."
+        }
+      ]
+    },
+    {
+      "id": "6a5fa5bf4e919e1ec21e5135",
+      "title": "The Grey Shirt Portrait",
+      "slug": "professional-male-model-studio-pose",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a full-body cinematic fashion portrait of a man standing in a studio, wearing a relaxed charcoal-gray satin button-up shirt with the sleeves rolled to the elbows, tucked into high-waisted black tailored trousers, and polished black leather ankle boots. He stands with one leg crossed casually over the other, arms relaxed at his sides, head slightly tilted downward, looking away with a calm, introspective expression. The background features dark, smooth gray infinity wall studio, with deep shadows. Centered full-body composition, eye-level camera angle, vertical portrait framing, Soft, diffused lighting from the left side, cinematic lighting, professional color grading, ultra-detailed and fabric textures, shallow depth of field, ultra-detailed, photorealistic, 8K resolution, shot on an 85mm lens at f/1.6. Aspect ratio 4:5.",
+      "description": "Men's Fashion Portrait Prompt: Copy & paste this prompt to create a sleek studio photograph of a stylish man in a charcoal satin shirt and black trousers.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 732,
+      "copy_count": 744,
+      "is_premium": false,
+      "published_at": "2026-07-21T17:00:47.168Z",
+      "images": [
+        {
+          "filename": "94a96103-8d22-47e9-9c29-feb808f2760a.jpeg",
+          "local_path": "images/professional-studio-setup/94a96103-8d22-47e9-9c29-feb808f2760a.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/94a96103-8d22-47e9-9c29-feb808f2760a.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/94a96103-8d22-47e9-9c29-feb808f2760a.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/94a96103-8d22-47e9-9c29-feb808f2760a.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "East Asian Man in Charcoal Satin Shirt Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a man standing with crossed ankles in a charcoal grey satin shirt, black trousers, and boots against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a5fa2d54e919e1ec21dcb63",
+      "title": "Warm Glow Studio Shot",
+      "slug": "warm-lighting-studio-portrait-men",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a photorealistic studio portrait of a stylish man standing centered and facing directly toward the camera, framed in a vertical medium-to-three-quarter composition from approximately the waist up. He has neatly styled hair, defined facial features, and a calm, confident, neutral expression. He is wearing small round vintage-style dark sunglasses with thin gold metal frames.\n\nHe wears a premium oversized chunky-knit sweater in deep forest green, featuring a ribbed crew neckline and highly detailed knitted texture. His arms are folded confidently across his chest, with a modern black smartwatch clearly visible on his wrist.\n\nThe subject is positioned against a dark black studio background with a large soft warm amber-brown circular glow behind his head and upper body, creating a dramatic halo effect. Strong subject separation, subtle vignette, controlled studio lighting, soft warm rim lighting around the hair and shoulders, gentle highlights on the face, and deep shadows in the background. Moody luxury fashion editorial aesthetic, minimalist composition, sophisticated color palette, high contrast, cinematic atmosphere.\n\nCamera & Technical Details:\nShot at eye level with a straight-on camera angle, centered symmetrical composition, 85mm portrait lens, f/1.8 aperture, shallow depth of field, sharp focus on the face and sweater texture, soft background falloff, cinematic color grading, realistic skin texture, ultra-detailed knit fabric, natural shadows, high dynamic range, photorealistic, 8K resolution.\nAspect ratio 4:5.",
+      "description": "AI Studio Portrait Prompt: Copy & paste this prompt to create a warm photograph of a stylish curly-haired man in a green sweater and round sunglasses.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 24,
+      "view_count": 611,
+      "copy_count": 697,
+      "is_premium": false,
+      "published_at": "2026-07-21T16:48:21.759Z",
+      "images": [
+        {
+          "filename": "2cafa195-d383-43f4-a6b8-fdac54a27071.jpeg",
+          "local_path": "images/professional-studio-setup/2cafa195-d383-43f4-a6b8-fdac54a27071.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/2cafa195-d383-43f4-a6b8-fdac54a27071.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/2cafa195-d383-43f4-a6b8-fdac54a27071.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/2cafa195-d383-43f4-a6b8-fdac54a27071.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Curly-Haired Man in Green Sweater and Sunglasses AI Photo Editing Prompt. AI generated studio portrait of a young man with curly brown hair and round sunglasses, wearing a forest green ribbed knit sweater, with crossed arms and a black smartwatch."
+        },
+        {
+          "filename": "d8ce5211-9cc6-47ee-83ea-7d20fa05e334.jpeg",
+          "local_path": "images/professional-studio-setup/d8ce5211-9cc6-47ee-83ea-7d20fa05e334.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/d8ce5211-9cc6-47ee-83ea-7d20fa05e334.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/d8ce5211-9cc6-47ee-83ea-7d20fa05e334.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/d8ce5211-9cc6-47ee-83ea-7d20fa05e334.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Green Sweater and Sunglasses AI Photo Editing Prompt. AI generated studio portrait of a young man with curly brown hair and round sunglasses, wearing a forest green ribbed knit sweater, with crossed arms and a black smartwatch."
+        }
+      ]
+    },
+    {
+      "id": "6a5a5e1da3af6f1220e8500f",
+      "title": "Shadows and Sharpness",
+      "slug": "studio-portrait-man-black-suit",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a sophisticated studio fashion portrait of a handsome man seated on a black wooden stool, wearing a perfectly tailored black two-piece suit with a crisp white dress shirt, slim black necktie, white pocket square, black tailored trousers, and polished black leather dress shoes paired with black socks. He is seated in a relaxed yet confident pose, body angled slightly to the left, left hand resting inside his trouser pocket, right hand placed naturally on his thigh, looking off-camera to the left with a calm, serious, and contemplative expression. Captured in a full-body shot at eye-level with a minimalist black seamless studio background featuring a subtle gradient. Dramatic cinematic Rembrandt lighting from the left creates soft highlights and deep shadows, emphasizing facial structure and the premium fabric texture of the suit. Luxury editorial fashion photography, ultra-photorealistic, natural skin tones, high contrast, shallow depth of field, razor-sharp focus, 85mm lens, f/1.8, ISO 100, 8K resolution, HDR, premium men's tailoring campaign, no text, no watermark, distortion-free, realistic skin. Aspect ratio 4:5.",
+      "description": "Studio Portrait Photography Prompt: Copy & paste this prompt to create a professional photograph of a handsome man in a black suit against a dark background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 648,
+      "copy_count": 753,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "6000a336-58f8-44ae-be53-78805208ae1e.jpeg",
+          "local_path": "images/professional-studio-setup/6000a336-58f8-44ae-be53-78805208ae1e.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/6000a336-58f8-44ae-be53-78805208ae1e.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/6000a336-58f8-44ae-be53-78805208ae1e.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/6000a336-58f8-44ae-be53-78805208ae1e.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Seated Man in Black Suit Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a handsome man in a formal black suit sitting on a black stool against a dark background."
+        },
+        {
+          "filename": "95a8c7de-e972-427f-84ec-d469a73d8e80.jpeg",
+          "local_path": "images/professional-studio-setup/95a8c7de-e972-427f-84ec-d469a73d8e80.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/95a8c7de-e972-427f-84ec-d469a73d8e80.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/95a8c7de-e972-427f-84ec-d469a73d8e80.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/95a8c7de-e972-427f-84ec-d469a73d8e80.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Seated Man in Black Suit Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a handsome man in a formal black suit sitting on a black stool against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a53c1c67877e7a4d7a550e4",
+      "title": "Under the Spotlight",
+      "slug": "mens-wet-hair-black-suit-look",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a photorealistic, ultra-detailed high-fashion editorial portrait of a handsome man(face match 100%) in a vertical medium close-up, framed from the mid-chest to above the head. The subject is perfectly centered, facing directly toward the camera with an intense, confident, and emotionless expression. He has a  natural hairstyle with a wet-look finish.\nOutfit: He is wearing an oversized black tailored blazer with wide peak lapels, styled without a shirt underneath, revealing part of his chest for a bold, minimalist luxury fashion aesthetic. His left hand gently grips the blazer lapel near the chest.\nPose & Expression: Upright posture with squared shoulders, direct eye contact, relaxed lips, and a strong editorial presence.\nLighting: A single overhead industrial pendant light positioned directly above the subject creates dramatic top-down lighting, producing sculpted facial shadows, deep contrast, and a cinematic chiaroscuro effect while subtly illuminating the shoulders and blazer.\nBackground: A seamless dark charcoal-gray studio backdrop with a soft vignette and smooth gradient, keeping full attention on the subject.\nStyle: Minimalist luxury fashion campaign, high-end magazine editorial, hyper-realistic skin texture with visible pores, crisp facial details, premium fabric texture, clean composition, moody atmosphere, ultra-sharp focus.\nCamera & Technical Details: Eye-level perspective, 85mm portrait lens, f/2.0, shallow depth of field, soft studio diffusion, HDR, 8K resolution, RAW photography, professional fashion photography, ultra-realistic rendering, premium color grading.\nAspect ratio 4:5.",
+      "description": "Men's Fashion Portrait Prompt: Copy & Paste this Prompt to create a dramatic studio photograph of a handsome young man with wet hair wearing an open black blazer.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 392,
+      "copy_count": 500,
+      "is_premium": false,
+      "published_at": "2026-08-08T20:11:13.851Z",
+      "images": [
+        {
+          "filename": "bb7fdb6d-4713-4f18-a97d-92cd76e2f380.jpeg",
+          "local_path": "images/professional-studio-setup/bb7fdb6d-4713-4f18-a97d-92cd76e2f380.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/bb7fdb6d-4713-4f18-a97d-92cd76e2f380.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/bb7fdb6d-4713-4f18-a97d-92cd76e2f380.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/bb7fdb6d-4713-4f18-a97d-92cd76e2f380.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in black suit portrait AI Photo Editing Prompt. AI generated studio portrait of a young man with dark, wet-style hair wearing an open black blazer over a bare chest, with a pendant lamp above, in front of a dark grey background."
+        }
+      ]
+    },
+    {
+      "id": "6a4d356d7877e7a4d750d677",
+      "title": "Suave in Shades",
+      "slug": "black-and-white-man-black-suit-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a photorealistic, high-fashion editorial portrait of a stylish man seated confidently on a simple black wooden stool. The composition is vertically framed, showing him from mid-thigh upward. He is positioned centered.\nHe wears premium black rectangular sunglasses with glossy frames, adding a modern luxury aesthetic.\nWardrobe & Styling:\nTailored black suit jacket with sharp lapels and a clean, structured fit.\nMatching tailored suit trousers.\nCrisp white dress shirt with the top button undone, creating a refined yet relaxed appearance.\nNo tie.\nMinimal accessories for a clean editorial look.\nPose & Expression:\nBody angled slightly toward the camera. His left hand rests casually between his knees while his right hand is placed on his thigh, conveying confidence and effortless elegance. Relaxed shoulders.\nNatural, confident smile.\nFriendly and approachable demeanour while maintaining a sophisticated fashion-editorial presence.`\nLighting:\nProfessional studio lighting with a large softbox positioned slightly above and in front of the subject. Soft, even illumination across the face with smooth shadow transitions. Gentle directional light creates subtle depth and dimension in the suit. Catchlights visible on the sunglasses. High dynamic range with excellent detail retention in both shadows and highlights.\nBackground:\nA striking minimalist graphic backdrop consisting of a large, bold deep-crimson red rectangular panel centered behind the subject. The red panel is surrounded by a clean off-white border, creating a strong contrast and modern design aesthetic. The background should feel like a luxury magazine cover or contemporary art-gallery portrait setup.\nColor Treatment:\nSelective color grading:\nSubject rendered primarily in rich monochrome black-and-white tones.\nBackground retains a vivid, saturated deep-red color.\nStrong contrast between the grayscale subject and the red backdrop.\nClean, premium editorial color separation.\nPhotography Style:\nLuxury fashion campaign, magazine cover photography, modern menswear editorial, minimalist studio portrait, contemporary advertising photography, premium lifestyle branding, high-end commercial portraiture.\nCamera & Quality:\n85mm portrait lens, f/4 aperture, ISO 100, ultra-sharp focus, medium depth of field, photorealistic skin texture, realistic fabric detail, professional retouching, high contrast, HDR quality, ultra-detailed, 8K resolution, masterpiece-level fashion photography, clean composition, premium studio production.\nAspect Ratio: 4:5.",
+      "description": "Editorial Studio Portrait Prompt: Copy & paste this prompt to create a high-contrast professional photograph of a stylish man in a black suit and sunglasses seated against a bold red background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 757,
+      "copy_count": 802,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "22ef6ba9-0701-4e19-b522-3a3924edd1a8.jpeg",
+          "local_path": "images/professional-studio-setup/22ef6ba9-0701-4e19-b522-3a3924edd1a8.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/22ef6ba9-0701-4e19-b522-3a3924edd1a8.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/22ef6ba9-0701-4e19-b522-3a3924edd1a8.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/22ef6ba9-0701-4e19-b522-3a3924edd1a8.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Stylish Man in Black Suit with Sunglasses AI Photo Editing Prompt. AI generated studio portrait of a smiling greyscale man wearing a black suit, white shirt, and sunglasses, seated confidently on a black stool against a red and cream background block."
+        }
+      ]
+    },
+    {
+      "id": "6a415b6ae1ceda640e71391b",
+      "title": "The Strategic Leader",
+      "slug": "mens-black-polo-outfit-portrait",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference.\nCreate a ultra-realistic cinematic studio Full-body seated portrait of a confident man seated in a black leather club chair, embodying a refined quiet-luxury aesthetic. The subject has a neatly styled hair. He wears a premium mate black short-sleeve polo shirt with a structured collar, tailored black trousers, black socks, and polished brown leather derby shoes with elegant shine and realistic creases.\nPose & Composition: Full-body portrait in a relaxed editorial seating pose. The subject sits deep into the leather armchair with one leg crossed naturally over the other. Left hand gently touching the chin in a thoughtful, composed gesture while the opposite arm rests casually along the chair armrest. Shoulders squared confidently toward the camera with a calm, intense direct gaze. Framing centered symmetrically with clean negative space around the chair for a premium luxury-magazine composition. Aspect ratio 4:5.\nEnvironment & Background: Seamless pure white studio backdrop with a smooth gradient falloff and vignette effect, complementing the earthy leather tones of the chair and outfit.\nLighting: Soft directional studio key light coming from the viewer’s left side, creating a subtle Rembrandt-style lighting pattern across the face with gentle shadow falloff on the opposite side. Cool cinematic highlights enhance the skin texture, facial structure, and leather chair details, while soft ambient fill light maintains balanced contrast and a refined luxury mood.\nCamera & Technical Details: Eye-level camera angle, shot with an 85mm portrait lens at f/2.8 for shallow depth of field and DSLR-level realism. Hyper-detailed skin, fabric weave, and shoe texture. Ultra-sharp focus on the face and eyes, photorealistic rendering, high dynamic range, rich contrast, cinematic color grading, luxury editorial photography style, masterpiece quality, 8K ultra-detailed resolution.\nAspect ratio 4:5.",
+      "description": "Professional Studio Portrait Prompt: Copy & paste this prompt to create a clean photograph of a confident man in black attire seated in a leather armchair.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 23,
+      "view_count": 511,
+      "copy_count": 932,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "8d48df22-27fc-4b6f-9db9-34d853cb4665.jpeg",
+          "local_path": "images/professional-studio-setup/8d48df22-27fc-4b6f-9db9-34d853cb4665.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/8d48df22-27fc-4b6f-9db9-34d853cb4665.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/8d48df22-27fc-4b6f-9db9-34d853cb4665.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/8d48df22-27fc-4b6f-9db9-34d853cb4665.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Seated in Black Leather Chair Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a confident man in a black polo shirt, black trousers, and brown leather shoes, sitting crossed-legged and pensive in a black leather armchair on a white background."
+        }
+      ]
+    },
+    {
+      "id": "6a3815c0bf79ee5252c241ef",
+      "title": "Professional Elegance",
+      "slug": "side-profile-portrait-man",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Ultra-realistic cinematic portrait of a confident professional man. He has neatly styled hair and a well-groomed appearance. Use the uploaded image strictly ONLY for 100% accurate face matching and identity reference.\nHe wears a tailored black suit, a crisp white dress shirt, and a dark necktie. Captured in a clean right-facing side-profile view, he maintains a calm, composed expression with a focused gaze directed into the distance. His right hand gently adjusts the knot of his tie, creating a refined and sophisticated executive pose. Natural skin texture and facial features are rendered with exceptional detail, enhancing the portrait's realism and professional elegance.\nComposition: Chest-up portrait composition, subject positioned slightly left of center with generous negative space on the right. Perfect side-profile angle emphasizing facial structure and silhouette.\nLighting: Dramatic low-key studio lighting with a large soft key light positioned camera-right, illuminating the face and creating smooth tonal transitions. Subtle rim lighting outlines the hair, ear, and shoulder, separating the subject from the deep black background. Rich chiaroscuro contrast with elegant shadow falloff.\nBackground: Pure black seamless studio backdrop with no distractions, creating a timeless and minimalist fine-art aesthetic.\nExpression & Pose: Calm, confident, and contemplative expression with lips closed. Head held level, posture upright and poised. Right hand delicately adjusting the tie while maintaining a polished, executive presence.\nTechnical Details: Colorful grading, ultra-realistic photography, medium-format camera quality, 85mm lens, f/1.8 aperture, shallow depth of field, DSLR-level clarity, sharp focus on the eyes and facial features, high dynamic range, cinematic fine-art portraiture, luxury editorial style, hyper-detailed skin texture, realistic fabric detail, professional studio photography, 8K resolution, photorealistic masterpiece.\nAspect ratio 4:5.",
+      "description": "Photography Prompt: Copy & paste this prompt to create a professional portrait of a man in a dark suit adjusting his tie.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 480,
+      "copy_count": 683,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "local_path": "images/professional-studio-setup/4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Suit  Portrait AI Photo Editing Prompt. AI generated profile portrait of a man in a dark suit, adjusting his tie."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704bb",
+      "title": "Modern Podcaster",
+      "slug": "professional-podcast-host-studio-setup",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a photorealistic, ultra-detailed medium shot portrait of a person seated at a natural wooden desk in a modern podcast studio, presented in a clean, high-end editorial style. The subject sits in a high-back black leather chair, with both the chair and body clearly angled slightly (around 10–20 degrees) instead of facing straight toward the camera, creating a natural, dynamic posture. The torso follows the same angle, avoiding a flat front-facing pose. Hands rest relaxed on the desk, and the subject maintains a soft, natural smile with direct eye contact.\nHair is natural and neatly styled. Outfit consists of an elegant black shirt, adding a refined, professional aesthetic.\nOn the desk, three subtle and naturally integrated items are present: an open notebook with handwritten notes, a compact small professional audio interface with connected cables, and a ceramic coffee mug. All items align correctly.\nIn the foreground, a high-end professional black broadcast microphone mounted on a boom arm extends from the right side toward the subject, positioned close to mouth level, reinforcing a realistic podcast setup.\nThe background features two large, lush green tropical plants set against a dark wall, dramatically illuminated by a strong, vibrant red-orange backlight that creates a bold glow and striking plant silhouettes. Ensure the angled chair and body alignment remain consistent with the overall composition.\nLighting setup includes a soft frontal key light for accurate skin tones and gentle facial definition, combined with the red backlight for depth and cinematic contrast. No harsh shadows or overexposed areas.\nCaptured on an 85mm lens at f/1.8, with shallow depth of field, aspect ratio 4:5, sharp focus on the person, and smooth background blur. Ultra-high resolution (8K), highly detailed, natural skin texture with magazine-quality realism.\nConstraints: no identity drift, no extra people, no extra objects, no CGI/cartoon appearance, no front-facing straight posture. Maintain clean composition and professional studio realism.",
+      "description": "Professional Studio Photography Prompt: Use this prompt to generate a high-quality image of a confident person in a modern podcast studio featuring professional audio equipment and warm, atmospheric lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 1143,
+      "copy_count": 2057,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "local_path": "images/professional-studio-setup/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Man in Podcast Studio AI Photo Editing Prompt. AI generated studio portrait of a smiling bearded man in a black shirt sitting at a wooden desk with a professional microphone and audio equipment."
+        },
+        {
+          "filename": "woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "local_path": "images/professional-studio-setup/woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/woman-in-black-shirt-in-podcast-studio-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman in Podcast Studio AI Photo Editing Prompt. AI generated studio portrait of a woman in a black shirt sitting at a wooden desk with a professional microphone and indoor plants."
+        },
+        {
+          "filename": "man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "local_path": "images/professional-studio-setup/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/man-in-black-shirt-in-podcast-studio-portrait-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703b0",
+      "title": "Modern Podcaster",
+      "slug": "male-podcaster-professional-studio-recording",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Create a 4K–8K ultra-realistic DSLR photograph of a young man recording a podcast in a modern professional studio. The result must look like a real photograph captured with a full-frame camera, not an illustration or stylized render.\nSubject & Framing (STRICT COMPOSITION)\nThe subject is shown in a medium waist-up composition, occupying roughly the central-right portion of the frame, leaving natural negative space on the left where the microphone setup is visible.\nThe man is seated naturally on a studio chair behind a desk, body angled slightly toward the microphone while his face turns slightly toward camera direction. He smiles naturally and looks slightly off-camera, as if speaking during recording. His posture is upright but relaxed, shoulders natural and not posed stiffly.\nThe framing should feel conversational and documentary-like, similar to a real podcast recording environment.\nHair is natural and neatly styled. Facial hair remains natural — neatly trimmed beard if present, otherwise clean-shaven. Skin tone is realistic with slightly smooth skin rendering, avoiding excessive pores or harsh texture.\nHe wears a light sage-green button-down shirt with rolled sleeves, with minimal visible fabric texture and clean, smooth clothing appearance.\nDesk & Foreground Objects (POSITION ACCURACY)\nA dark wooden desk occupies the lower foreground of the image.\nObjects placed naturally on the desk:\n\nA clear glass of water positioned in the lower-right foreground area.\nA white notebook or notepad placed near the glass, slightly angled.\nObjects should appear casually arranged, not staged or symmetrical.\nForeground elements are slightly softer in focus than the subject.\nAudio Equipment Placement\nOn the left side of the frame:\n\nA large-diaphragm condenser microphone mounted in a silver shock mount on a boom arm.\nA black circular pop filter positioned between the subject and microphone.\nThe microphone sits slightly forward of the subject, aligned with mouth height.\nThe subject wears professional over-ear studio headphones with a visible cable.\nEquipment should appear authentic and professionally arranged.\nEnvironment & Background\nThe setting is a cozy, dimly lit recording studio.\nBackground elements include:\n\nDark grey acoustic foam panels on both side walls.\nSeveral small framed abstract artworks on the back wall adding subtle color accents (yellow, red, blue).\nA warm table lamp behind the subject creating depth and separation.\nBackground remains softly blurred due to shallow depth of field.\nLighting & Photography Style\nDSLR photography aesthetic\nShot with a 50mm or 85mm lens at f/1.8\nShallow depth of field with natural bokeh\nSoft warm key light from front-left illuminating face and microphone\nSoft rim lighting\nWarm practical light behind the subject creating rim separation\nBalanced warm amber tones against cool grey studio walls\nLighting should feel natural, soft, and professional — not dramatic or cinematic.\nTechnical Requirements\nHyper-realistic photography\nNatural color grading\nSlightly softened skin tones\nNo illustration or painterly effect\nNo exaggerated fabric texture\nClean modern editorial look\nAspect Ratio: 4:5\nQuality: Ultra high resolution (4K–8K)",
+      "description": "Looking for a male podcaster prompt? Generate ultra-realistic images featuring studio microphones, headphones, and cinematic lighting. Perfect for professional AI art.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 51,
+      "view_count": 963,
+      "copy_count": 1775,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:54:24.123Z",
+      "images": [
+        {
+          "filename": "male-podcaster-recording-in-professional-studio-ai-prompt.webp",
+          "local_path": "images/professional-studio-setup/male-podcaster-recording-in-professional-studio-ai-prompt.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-podcaster-recording-in-professional-studio-ai-prompt.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/male-podcaster-recording-in-professional-studio-ai-prompt.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/male-podcaster-recording-in-professional-studio-ai-prompt.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "A smiling podcaster records in a cozy studio. Geared with headphones and a pro mic, notebook at the ready. Warm cinematic lighting, high-quality production, and focused energy."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670395",
+      "title": "Immersive Setup",
+      "slug": "man-glasses-gaming-setup",
+      "category": "Professional Studio Setup",
+      "category_slug": "professional-studio-setup",
+      "prompt": "Transform the uploaded photo into an ultra-realistic, hyper-detailed cinematic photograph with DSLR quality, rendered in 32K resolution, with a 4:5 vertical aspect ratio.\n🔒 Identity & Face Preservation (Very Important)\nThe subject’s face must remain 100% identical to the reference image.\nStrictly preserve:\n\nFacial structure\nBone geometry & proportions\nSkin tone & natural texture\nEye shape, nose, jawline\nHairline, beard pattern (if present)\nExpression & overall identity\nNo beautification, reshaping, stylization, smoothing, or identity drift.\n👤 Subject\nA handsome young man fully immersed in a gaming session.\n\nHis expression is focused, calm, and intense, with natural skin texture, visible pores, and realistic facial detail.\n\nHe is seated upright, typing on a keyboard and looking directly at the glowing screen.\n💡 Lighting\nPrimary light: the gaming monitor in front of him, casting a cool blue glow on his face and glasses\nSecondary light: a warm desk lamp from the side, creating soft rim light and depth\nCinematic contrast with realistic shadows and subtle highlights\n👕 Wardrobe & Accessories\nBlack hoodie with “PROMPT PLUM” printed clearly on the chest\nLuxury metal wristwatch\nModern blue-light glasses with subtle screen reflections\n🖥 Environment\nA dimly lit, premium gaming workspace:\n\nLarge gaming monitor in front\nGaming chair\nPosters of popular video games on the wall behind him\nA cup of hot coffee on the desk with visible steam\nHeadphones resting on the table\nThe mood should feel immersive, modern, and cinematic.\n🎬 Final Style\nHyper-realistic textures (skin, fabric, glass, metal)\nCinematic depth of field\nEditorial photography look\nClean high contrast\nNatural lighting transitions\nSharp focus with soft background blur\nFully respect the original face and identity while transforming the scene into a cinematic, ultra-realistic gaming portrait.",
+      "description": "Generate high-quality AI images of a young man with glasses at a gaming setup using this detailed prompt. Perfect for creating realistic shots of a developer or gamer in a black hoodie with cinematic LED lighting and a mechanical keyboard.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 99,
+      "view_count": 2680,
+      "copy_count": 4971,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-with-glasses-at-led-gaming-setup-ai-photo-editing-prompt.png",
+          "local_path": "images/professional-studio-setup/man-with-glasses-at-led-gaming-setup-ai-photo-editing-prompt.png",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-at-led-gaming-setup-ai-photo-editing-prompt.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-studio-setup/man-with-glasses-at-led-gaming-setup-ai-photo-editing-prompt.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-studio-setup/man-with-glasses-at-led-gaming-setup-ai-photo-editing-prompt.png",
+          "width": 928,
+          "height": 1152,
+          "alt": "AI Prompt Generated Image: A bearded man in glasses and a black hoodie types at a backlit gaming desk setup with posters, steaming coffee, and headphones."
+        }
+      ]
+    }
+  ]
+}
