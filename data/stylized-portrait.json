@@ -1,0 +1,519 @@
+{
+  "category": "Stylized Portrait",
+  "slug": "stylized-portrait",
+  "total_prompts": 9,
+  "updated_at": "2026-09-24T13:12:43Z",
+  "prompts": [
+    {
+      "id": "6a65248d9d499d9af98afe47",
+      "title": "Colorful Scribble Art Family Portrait",
+      "slug": "colorful-scribble-art-family-portrait",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Create an ultra-detailed hand-drawn scribble-art portrait using the uploaded family photo only as the reference for each person’s facial identity, age, gender, skin tone, hairstyle, and family members. Include exactly the same 3 or 4 people—do not add, remove, replace, or merge anyone. Do not copy the original pose, composition, background, or exact clothing.\nCreate a fresh, professionally arranged family pose. Place the entire family prominently in the center of a vertical composition, close together with warm, natural interaction. Position the parents behind or beside the children, gently leaning inward. For one child, place them centrally between or slightly in front of the parents; an infant or toddler may be held naturally. For two children of any age or gender, arrange both clearly in the center foreground or between the parents with balanced spacing and every face fully visible. Give everyone warm, natural expressions directed toward the viewer.\nRestyle the family in coordinated, elegant outfits suitable for their age, gender, and cultural appearance. If the reference clothing is very simple, enhance it with richer colors, tasteful patterns, refined fabric details, subtle embroidery, layering, or appropriate accessories. The outfits should look stylish and complementary without becoming overly formal. Do not reproduce the exact original clothes.\nRender the portrait using thousands of overlapping, free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red. Preserve recognizable facial features, realistic anatomy, expressive eyes, intricate crosshatching, delicate shading, and accurate proportions.\nUse clean white textured paper as the background. Keep the family sharply detailed and fully defined at the center, while the outer edges of their clothing and surrounding linework gradually dissolve into loose, colorful scribbles and softly fade into the white background on both sides. Maintain balanced negative space around the centered family.\nEye-level medium family portrait, gallery-quality traditional pen-and-ink illustration, vibrant artistic energy, ultra-sharp detail, vertical composition. Aspect ratio 4:5.",
+      "description": "Scribble Art Portrait Prompt: Use this prompt to create a colorful ballpoint pen sketch of a smiling family posing on textured white paper.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 3343,
+      "copy_count": 2437,
+      "is_premium": false,
+      "published_at": "2026-07-25T21:03:09.299Z",
+      "images": [
+        {
+          "filename": "7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "local_path": "images/stylized-portrait/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Intricate Ballpoint Sketch Family Portrait AI Photo Editing Prompt. AI generated digital illustration art of a smiling woman and bearded man holding their baby against a white background."
+        },
+        {
+          "filename": "25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "local_path": "images/stylized-portrait/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling mother and father holding their baby, drawn with colorful scribble lines."
+        },
+        {
+          "filename": "5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "local_path": "images/stylized-portrait/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated illustrative sketch art of a smiling Indian family with parents and baby in colorful traditional attire against a white background."
+        },
+        {
+          "filename": "011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "local_path": "images/stylized-portrait/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling young family: father in a blue blazer, mother in a purple patterned dress, and baby in a fox sweater."
+        },
+        {
+          "filename": "34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "local_path": "images/stylized-portrait/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling husband and wife holding their baby girl in a vibrant ballpoint pen sketch style."
+        },
+        {
+          "filename": "eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "local_path": "images/stylized-portrait/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "original_url": "https://img.promptplum.com/promptImages/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Portrait Sketch Art AI Photo Editing Prompt. AI generated portrait illustration of a smiling Asian family of four, rendered in a textured, colorful scribble sketch art style."
+        },
+        {
+          "filename": "06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "local_path": "images/stylized-portrait/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "local_path": "images/stylized-portrait/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "local_path": "images/stylized-portrait/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "original_url": "https://img.promptplum.com/promptImages/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Art Family Portrait"
+        },
+        {
+          "filename": "725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "local_path": "images/stylized-portrait/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "local_path": "images/stylized-portrait/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-11"
+        },
+        {
+          "filename": "c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "local_path": "images/stylized-portrait/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "local_path": "images/stylized-portrait/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "original_url": "https://img.promptplum.com/promptImages/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-9"
+        }
+      ]
+    },
+    {
+      "id": "6a62544db99e3a48ae667ee9",
+      "title": "Victorian Elegance",
+      "slug": "vintage-party-dress-little-girl",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Create a photorealistic luxury portrait of a young girl seated elegantly in a cream-colored tufted wingback armchair inside a sophisticated classical European-style interior. She wears an elegant ivory satin dress with puff sleeves, a large burgundy velvet bow at the waist, layered pearl necklaces, long burgundy opera gloves, delicate white lace tights, and glossy white Mary Jane shoes. Her hair is styled in a neat, intricate high bun with small pearl accessories. She sits gracefully with her legs crossed, looking slightly to the side with a gentle, innocent smile. Warm natural sunlight streams through tall windows with sheer white curtains, creating a soft, dreamy glow. Cream walls with ornate panel molding, a white fireplace mantel, elegant floral arrangements, and luxurious decor fill the background. Eye-level camera angle, centered composition, full-body portrait, soft diffused lighting, shallow depth of field, elegant pastel cream and burgundy color palette, ultra-detailed satin and lace textures, photorealistic, cinematic luxury photography, 8K resolution, 85mm lens, f/1.8, natural skin texture, high dynamic range, vertical composition, aspect ratio 4:5",
+      "description": "Vintage Studio Photography Prompt: Copy & Paste this prompt to create an elegant portrait of a young girl in a cream dress with a red velvet bow.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 13,
+      "view_count": 952,
+      "copy_count": 850,
+      "is_premium": false,
+      "published_at": "2026-07-23T17:50:05.511Z",
+      "images": [
+        {
+          "filename": "40eeca5c-f656-49a0-acab-c4478837faa6.jpeg",
+          "local_path": "images/stylized-portrait/40eeca5c-f656-49a0-acab-c4478837faa6.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/40eeca5c-f656-49a0-acab-c4478837faa6.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/40eeca5c-f656-49a0-acab-c4478837faa6.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/40eeca5c-f656-49a0-acab-c4478837faa6.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Elegant Girl in Cream Dress and Crimson Bow Portrait AI Photo Editing Prompt. AI generated studio portrait of a young girl with auburn hair in a formal updo with pearl pins, seated in a cream tufted armchair, wearing a cream dress with a crimson velvet bow and gloves, layered pearl necklaces, lacy white tights, and white Mary Jane shoes."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f6",
+      "title": "Monarch Muse",
+      "slug": "woman-butterfly-watercolor-art",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Create a 2:3 vertical premium mixed-media watercolor portrait on off-white cold-pressed watercolor paper.\nUse the uploaded image only as the subject reference. Keep the subject’s natural features, overall appearance, and recognizable look intact, but do not let the image turn into a generic painted character.\nShow the subject in a bust-length three-quarter profile, facing slightly toward the viewer’s right, with the gaze directed softly off-camera. Keep the expression calm, warm, serene, and naturally pleasant, with a subtle gentle smile and bright relaxed eyes. The mood should feel elegant, fresh, dreamy, and refined — not sad, blank, tired, or overly serious.\nKeep the face highly realistic and softly photorealistic, not fully painted, not sketch-like, and not cartoonish. The face should be the main focal point. Use soft diffused natural-looking light, similar to indirect window light, to gently illuminate the forehead, nose bridge, cheeks, lips, and jawline, with delicate depth and soft shadows. Render realistic eyes with soft catchlights, defined brows, natural lips, smooth skin transitions, and fine hair strands.\nStyle the hair in an elegant loose low updo / low messy bun at the nape, with a few soft tendrils framing the face and neck. Intertwine subtle rustic botanical accents in the hair — tiny dried wildflowers in muted yellow, white, and blue tones — delicate, understated, and premium.\nAdd several detailed Monarch butterflies with vivid orange wings, black veins, black borders, and tiny white spots. Keep them crisp, refined, and slightly dimensional. Place multiple butterflies naturally around the portrait: some resting in the hair, one near the upper-right side, and others floating around the shoulders and lower frame. Their warm orange color should stand out beautifully against the cool watercolor tones.\nCreate a strong mixed-media double-exposure effect where parts of the portrait dissolve into watercolor blooms. This effect must be clearly visible across selected parts of the cheek, temple, jawline, neck, shoulder, and lower clothing area — not only in the background. The watercolor should feel translucent and layered over the realistic portrait, so the subject remains clearly realistic underneath.\nUse expressive watercolor washes in muted teal, seafoam green, dusty blue, soft gray, charcoal, and deep navy tones. Let the washes bloom naturally into the paper with wet-on-wet behavior, soft transparent bleeding, irregular edges, subtle blooms, and a few darker pooled edges where pigment appears to have dried. Allow the watercolor to expand organically into the negative space while keeping the face as the sharpest and most detailed focal area.\nDress the subject in a simple deep navy-blue top / blouse with a high rounded neckline and soft gathered or finely pleated texture around the shoulders and upper chest. The garment should look minimal, elegant, matte, and plain, with no collar, no buttons, no printed pattern, and no decorative embellishments. Keep the outfit close to the reference look. Let the lower portion of the top gradually dissolve into blue-gray watercolor splashes.\nPreserve the contrast between hyper-detailed realism and loose abstract watercolor forms. The final artwork should feel like a luxury fine-art portrait print that combines:\n\nphotorealistic portraiture\nabstract watercolor fusion\nsoft ethereal surrealism\ncrisp butterfly detailing\ncool watercolor tones contrasted with vivid orange butterflies\ntextured watercolor paper and handcrafted mixed-media realism\nOverall, the result should feel poetic, airy, elegant, and premium, with the viewer’s eye drawn first to the realistic face, then to the translucent watercolor overlays and butterflies surrounding the subject.",
+      "description": "Watercolor Illustration Prompt: Copy & Paste this prompt to create a dreamy digital watercolor portrait of a woman adorned with monarch butterflies and delicate wildflowers.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 622,
+      "copy_count": 1338,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:22:18.950Z",
+      "images": [
+        {
+          "filename": "woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "local_path": "images/stylized-portrait/woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "width": 848,
+          "height": 1264,
+          "alt": "Woman with Butterflies Watercolor AI Photo Editing Prompt. AI generated digital illustration portrait of a woman adorned with monarch butterflies and wildflowers featuring soft watercolor splashes."
+        },
+        {
+          "filename": "woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "local_path": "images/stylized-portrait/woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "width": 848,
+          "height": 1264,
+          "alt": "Woman with Butterflies Watercolor Art AI Photo Editing Prompt. AI generated digital illustration of a serene woman featuring monarch butterflies and wildflowers with artistic watercolor splashes."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704eb",
+      "title": "The Low-Poly Portrait",
+      "slug": "low-poly-vector-illustration-portrait",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Create a stylized geometric low-poly portrait of the reference person using layered polygonal shapes with subtle depth and paper-cut texture. Maintain realistic proportions while transforming face into clean, angular facets. Person smiling naturally, wearing a modern casual outfit.\nImportant: Subject is in a standing pose, front-facing, with no body or head tilt, strict mid-chest up framing, like a profile picture pose.\nBackground: minimal soft beige/neutral geometric low-poly with slight gradient.\nLighting: soft studio light, gentle shadows to enhance 3D polygon depth, high detail, sharp focus, modern artistic look, centered composition, vertical format, 4:5 aspect ratio. No text, no watermark.",
+      "description": "Low-Poly Geometric Illustration Prompt: Copy & paste this prompt to generate a modern faceted portrait of a smiling person in a casual outfit with clean polygonal details.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 527,
+      "copy_count": 801,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "local_path": "images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Geometric Smiling Man in Denim Jacket AI Photo Editing Prompt. AI generated low-poly digital illustration of a smiling bearded man in a denim jacket against a neutral geometric background."
+        },
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "local_path": "images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Low Poly Woman Portrait Art AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a geometric low-poly art style wearing a beige ribbed sweater."
+        },
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "local_path": "images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Smiling Man in Low-Poly Style AI Prompt. AI generated geometric digital portrait of a young man with a wide smile, wearing a faceted blue denim button-down shirt and white t-shirt."
+        },
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "local_path": "images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "local_path": "images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/smiling-person-low-poly-portrait-art-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704c9",
+      "title": "Digital Drip Avatar",
+      "slug": "cool-3d-boy-avatar-bandana-green-jacket",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Use uploaded image ONLY for face identity. Preserve exact facial structure, hairstyle, skin tone, and grooming. Do not modify or beautify identity.\n\nCreate a high-end stylized 3D designer toy avatar (NOT realistic human), blending urban streetwear + kawaii pop-art aesthetic. The output must look like a premium collectible vinyl figure, not a real person.\n\nSTYLE LOCK (CRITICAL)\nStrong stylization priority over realism\nRounded, soft, toy-like proportions\nSmooth surfaces with subtle depth (SSS), no realistic skin texture\nFace slightly simplified and compact (designer toy look)\n\nFACE & EXPRESSION\nCheerful, confident wide smile (slightly exaggerated, clean, plain, stylised teeth)\nEyes must be solid glossy black oval shapes (NO iris, NO pupil)\nSmall rounded nose\nExpression must feel kawaii + collectible, not natural human\n\nHAIR & HEADWEAR (LOCK)\nHairstyle must remain identical and stylized to reference\nAdd a red paisley bandana tied across the forehead\nKnot must be centered, forward-facing, clearly visible and well-defined\nBandana must visually dominate over hair\nInclude a small minimal fabric tag on bandana\n\nACCESSORIES\nThin round metallic gold glasses\nGold hoop earrings\n\nOUTFIT (STRICT)\nBright green quilted puffer jacket\nDeep padded grid leather texture (visible volume)\nGold zipper details\nBlack inner crewneck t-shirt\nMinimal premium chest patch label (golden, clean, balanced)\n\nJEWELRY\nLayered gold chains:\nThick Cuban chain (short)\nMedium rope chain\nLong chain with medallion\n\nPOSE & FRAMING (HARD LOCK)\nLower chest-up composition (not too tight, include upper torso clearly)\nOne hand raised near shoulder showing peace (V) sign\nFingers rounded, stylized (toy-like)\nHand must be fully visible, not cropped\n\nBACKGROUND & GRAPHICS (VERY IMPORTANT)\nClean white background\nAdd floating kawaii-style elements:\nCute stars\nCute Hearts\nCute Diamonds\nDollar signs\nSparkles + dots\n\nElements must be evenly spaced, balanced, and intentionally placed (NOT random)\nInclude subtle curved accent lines\n\nLIGHTING & MATERIALS\nSoft studio lighting with diffused shadows\nSubtle rim light for separation\nHigh-quality global illumination\nMaterial rules:\nSkin → matte, soft SSS (toy finish, NOT realistic)\nMetals → reflective gold (controlled shine)\nJacket → slightly glossy synthetic texture\n\nQUALITY CONTROL\nUltra-clean high-poly 3D render\nSmooth edges, no noise, no artifactd\nNaturally hair stands visible\nVibrant high-contrast color palette (red, green, gold dominant)\nMust look like a premium designed collectible, not AI-generated\n\n4:5 aspect ratio",
+      "description": "3D Cartoon Avatar Illustration Prompt: Copy & paste this prompt to generate a vibrant 3D stylized character of a trendy man wearing a red bandana and green puffer jacket with playful floating icons.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 446,
+      "copy_count": 740,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-3.webp",
+          "local_path": "images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Male in Green Puffer Jacket AI Avatar Prompt. AI generated 3D digital illustration of a bearded man with a red bandana and gold chains making a peace sign surrounded by floating icons."
+        },
+        {
+          "filename": "man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-1.webp",
+          "local_path": "images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-2.webp",
+          "local_path": "images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/man-in-green-puffer-jacket-and-red-bandana-3d-character-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704c3",
+      "title": "Core Red",
+      "slug": "cyberpunk-techwear-boy-avatar",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Create a striking, high-contrast, semi-realistic digital painting portrait blending techwear aesthetics with a cinematic, anime-influenced visual tone. The result must feel like a powerful “main character” reveal with strong visual impact, similar to a high-end AAA game cinematic character rendered in semi realistic digital painting.\n\nASPECT RATIO\n4:5 vertical\n\nFRAME & COMPOSITION (LOCK)\nCentered tight medium close-up (lower chest to head).\nSubject fills approximately ~65–85% of the frame.\nPerfect vertical symmetry.\nSubject positioned directly in front of a large circular element behind the head and upper torso.\n🔒 The head must sit slightly above the centre of the red circle, so the circle appears slightly dominant.\n🔒 Framing must feel tight, controlled, and portrait-focused (not wide, not loose).\n\nCAMERA & ANGLE (LOCK)\nLow-angle camera (subtle upward perspective).\nCamera positioned below eye level, looking upward toward the subject.\n🔒 Head slightly tilted upward (very subtle), chin slightly raised\nCreates a strong, dominant “hero” presence\nNo left or right tilt, no dutch angle\nNatural lens feel (50mm–85mm equivalent)\nNo perspective distortion\n\nPOSE (LOCK)\nBody fully facing forward, perfectly centered.\nNeck straight, posture upright and grounded.\n🔒 Shoulders relaxed but slightly pulled back\n🔒 No dynamic pose — completely still and controlled\nPose must feel like a calm power stance, not a fashion pose.\n\nSUBJECT & FACE (ADAPTIVE IDENTITY LOCK — FIXED)\nUse the reference image as the base identity.\nPreserve overall facial structure and proportions (jawline, cheekbones, nose, lips, face width).\nMaintain recognizable identity and likeness.\n🔒 Identity must remain consistent, but adapt naturally to the cinematic style of the scene.\nFace should be interpreted through the scene’s lighting, mood, and rendering style, not copied rigidly.\n🔒 Do NOT redesign or change identity\n🔒 Do NOT beautify or alter core facial structure\n🔒 Do NOT introduce new facial features\n✔ Allow slight stylistic adaptation in:\nskin shading\nsurface detail level\nlighting interaction\nFace must feel like the same person, rendered in this scene — not a pasted reference, not a hyper-real photo.\n\nEXPRESSION (CRITICAL FIX)\nConfident expression with slight intensity.\n🔒 Lips gently closed (no smile, no tension)\n🔒 Gaze must feel direct and dominant (even behind sunglasses)\n🔒 No emotional exaggeration\nExpression must feel:\ncool, confident, slightly intense\nNOT soft, NOT friendly, NOT stylized\n\nHAIR (NATURAL + IDENTITY-BASED)\nHair must be derived from the reference image, not redesigned.\nMaintain the same hairline, direction, and natural growth pattern\nPreserve real-world randomness and slight imperfections\nKeep natural density and texture\n🔒 Do NOT create a new hairstyle\n🔒 Do NOT over-style or make it too clean\n🔒 Do NOT simplify into flat or graphic shapes\nHair must feel natural and realistic, not artificially styled.\n\nEYEWEAR\nPerfectly round dark sunglasses with thin silver frames highlighted.\nSubtle reflections, not overly glossy, not fully opaque.\n\nOUTFIT (TECHWEAR STYLE\nOuter: Black tactical jacket with rugged, distressed/frayed edges on shoulders, lapels and other parts\nVisible hardware: subtle zipper, minimal metallic details\nInner: neck gaiter covering the neck\nFabric contrast:\nouter layer structured\ninner layer soft and draped\n\nACCESSORIES\nHighlight a thin silver chain with a vertical rectangular pendant.\nClean metallic reflections, subtle and realistic.\n\nBACKGROUND (CRITICAL RED ORB FIX)\nMassive glowing red circular orb behind the subject’s head and upper torso (perfect circle).\n🔒 Edges softly diffused (not sharp, not graphic)\n🔒 Inner flat red (No gradient)\n🔒 Clean minimal look (no texture like moon surface)\nOutside the circle: deep charcoal/dark grey background with soft smoky texture.\nNo additional elements.\n\nLIGHTING (HERO DEPTH + RED CONTROL)\nStrong, sharp red rim lighting from the circular orb:\nCrisp red highlights on edges of hair, ears, jawline, shoulders, jacket threads\nClear separation from background\n🔒 Red light affects edges only, not the full face\nFront lighting:\nsoft but directional\nsubtle cheekbone shadows\ndefined shadow under nose and lower lip\nslight eye socket depth\nLighting must sculpt the face, not flatten it.\n\nCOLOR PALETTE (STRICT)\nDeep black (subject)\nCharcoal grey (background)\nVivid saturated red (orb + rim light)\nNo additional dominant colors.\n\nSTYLE & RENDERING (HARD LOCK)\nHigh-detail cinematic digital painting with semi-realistic rendering.\n🔒 NOT flat illustration\n🔒 NOT vector art\n🔒 NOT clean anime shading\nAvoid:\ncel-shading\ncartoon outlines\nplastic skin\ncontrolled semi-realistic skin shading (no hyper-real pores, no photographic skin detail)\noverly smooth surfaces\nShading must be dimensional with realistic light falloff.\nMaterials must feel real (fabric, metal, glass).\n\nRESOLUTION\n4k-8k resolution with high details\n\nSTYLE PRIORITY (CONTROL)\nCinematic realism and lighting take priority over anime influence.\nAnime influence must remain subtle and only affect structure—not shading.\n\nMOOD / VIBE\nDark, cinematic, cyberpunk, mysterious.\nStrong “main character energy”.\nFeels like a premium movie poster or AAA game character reveal — not a flat illustration.",
+      "description": "Stylized Digital Illustration Prompt: Use this prompt to generate a high-contrast portrait of a cool man or woman in a black leather jacket and sunglasses against a glowing red circular backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 532,
+      "copy_count": 1265,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "local_path": "images/stylized-portrait/Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/Gemini_Generated_Image_m0x25nm0x25nm0x2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Black Tactical Jacket and Red Halo AI Photo Editing Prompt. AI generated digital illustration of a man with round sunglasses and a black distressed jacket standing against a glowing red neon circle."
+        },
+        {
+          "filename": "woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "local_path": "images/stylized-portrait/woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/woman-with-round-sunglasses-and-red-light-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "local_path": "images/stylized-portrait/man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/man-with-round-sunglasses-and-red-light-portrait-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704c0",
+      "title": "Animated Assurance",
+      "slug": "professional-3d-avatar-for-men",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Create an ultra-high-detail 3D animated character portrait in a premium Disney/Pixar-inspired style, designed to feel highly appealing, expressive, and avatar-friendly.\nComposition:\n\nMedium portrait (waist-up), centered, slightly body turned one side, eye-level camera angle. Subject fills ~65–75% of the frame.\nSubject:\n\nStylized male character with slightly chibi-influenced proportions — subtly larger head (~10–15% larger than realistic proportion) and a slightly compact, youthful body while still maintaining an adult identity. Clean facial structure, smooth but detailed skin, highly expressive large eyes (not cartoonishly oversized).\nHair & Accessories:\n\nNeatly styled, soft-volume hair with visible strand detail. Thick matte grey rim glasses, well-fitted and premium-looking.\nOutfit:\n\nMatte black long-sleeve button-down shirt with collar and two chest pockets. Sleeves rolled to mid-forearms.\n\nFabric must feel premium and realistic — visible micro-texture, stitching, natural folds, soft cloth behavior, subtle specular highlights (no plastic look).\nPose (IMPORTANT):\n\nArms confidently crossed. Body slightly angled (~15° right) to avoid flatness. Head turned toward camera with strong, natural posture.\nExpression:\n\nHighly joyful, warm, and engaging smile — friendly and likable (avatar appeal focus), not exaggerated to the point of distortion. Eyes lively with strong emotional presence.\nBackground:\n\nPure white seamless studio background (#FFFFFF), completely clean and minimal.\nLighting:\n\nSoft high-key studio lighting. Even facial illumination with gentle shadow depth.\n\nSubtle rim light on left side of hair and shoulder for separation. Bright, crisp eye catchlights.\nRendering & Quality:\n\n8K ultra-detailed render, Unreal Engine 5 / Octane quality.\n\nPBR materials, subsurface scattering for natural skin glow, high-resolution textures, sharp focus, clean premium color grading.\n\nStylized realism — no AI artifacts, no over-smoothing, no plastic skin.\nAspect Ratio: 4:5",
+      "description": "3D Animated Avatar Prompt: Copy and paste this prompt to create a professional 3D character of a stylish man with glasses and a black button-down shirt on a white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 59,
+      "view_count": 777,
+      "copy_count": 1785,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "smiling-man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Stylish 3D Male Avatar in Black Shirt AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling young man with brown hair and grey glasses posing with arms crossed against a white background."
+        },
+        {
+          "filename": "smiling-man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Smiling Man Avatar AI Prompt. AI generated 3D digital illustration of a smiling man with a beard and glasses wearing a black shirt with arms crossed against a white background."
+        },
+        {
+          "filename": "smiling-man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/smiling-man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/smiling-man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital illustration of a young boy with glasses smiling and arms crossed."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670465",
+      "title": "Real & Rendered",
+      "slug": "realistic-person-with-3d-cartoon-avatar",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Create a high-resolution, ultra-realistic studio composition in a 4:5 vertical aspect ratio, featuring a real person standing beside a stylized 3D caricature (bobblehead-style) version of the same individual.\nUse the provided reference image as the only source of identity. Strictly preserve the subject’s exact facial structure, proportions, skin tone, hairstyle, and all recognizable features. Do not alter or stylize the real face.\nComposition & Framing:\n\nFull-body vertical shot with a clean, centered layout. The real subject stands on the right, and the caricature stands on the left at approximately 50–60% of the real subject’s height. The real subject casually rests one elbow on the caricature’s oversized head, creating a natural, playful interaction.\nReal Subject (Photographic):\n\nUltra-realistic rendering with natural skin texture and fine detail. Expression is warm, relaxed, and confident.\nPose & Style (IMPORTANT):\n\nThe subject stands in a slightly cool, stylish posture — relaxed stance with legs slightly crossed at the ankles, shoulders loose, not stiff. The hand resting on the caricature should feel effortless and natural.\nClothing (Match Reference):\n\nGray crewneck sweater (fine knit texture, ribbed cuffs/hem), classic blue jeans (straight fit), and clean white sneakers. Keep textures realistic and clearly visible.\n3D Caricature (Stylized Version):\n\nPixar/Disney-inspired 3D style with exaggerated proportions — large expressive head and smaller body. The height should be noticeably shorter, around the real subject's waist level.\nFacial features must remain recognizable but enhanced — larger eyes, softer forms, slightly amplified smile.\nEmotion & Body Movement (IMPORTANT):\n\nExpression is more playful and animated than the real subject\n\nEyes brighter and more expressive, smile slightly exaggerated\nBody posture must NOT be stiff — use a natural, lively stance\n\nAdd subtle movement according to the real subject's personality\n\nPose should feel like a living, animated character, not a rigid figurine\nClothing:\n\nExact 1:1 stylized recreation of the real subject’s outfit with soft 3D textures.\nLighting & Environment:\n\nSoft, diffused studio lighting from the upper-left, creating smooth highlights and gentle shadows. Clean light-gray gradient seamless background(lighter in the inner areas).\nOutput Style:\n\nUltra-clean, cinematic, high-detail render with strong contrast between realistic human and stylized 3D character. Both subjects grounded with soft natural shadows.",
+      "description": "Person with Caricature AI Prompt: Use this Prompt to create a professional studio photograph of a realistic man standing beside his stylized Caricature/ 3D animated version in matching grey sweaters and blue jeans.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 100,
+      "view_count": 1180,
+      "copy_count": 3312,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "local_path": "images/stylized-portrait/young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with 3D Cartoon Avatar AI Prompt. AI generated digital illustration of a young man in a grey sweater leaning on a large-headed 3D cartoon version of himself."
+        },
+        {
+          "filename": "woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "local_path": "images/stylized-portrait/woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman and Miniature 3D Avatar Prompt. AI generated digital illustration of a realistic young woman in a grey sweater and jeans leaning on her stylized cartoon miniature avatar."
+        },
+        {
+          "filename": "old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
+          "local_path": "images/stylized-portrait/old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Elderly Man with Miniature 3D Avatar AI Photo Editing Prompt. AI generated digital illustration of an elderly man leaning on a large-headed 3D caricature of himself, both wearing matching grey sweaters and blue jeans."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267044f",
+      "title": "The Pink Hoodie",
+      "slug": "pixar-style-female-character-avatar",
+      "category": "Stylized Portrait",
+      "category_slug": "stylized-portrait",
+      "prompt": "Create a high-quality 3D stylized character portrait rendered in a premium modern animation style similar to Pixar or DreamWorks, based on the provided reference image.\nIdentity Preservation (Critical)\nUse the reference image only to strictly preserve the subject’s identity. Maintain the same facial structure, proportions, skin tone, eye shape, nose, lips, and hairstyle.\n\nDo not alter identity, do not beautify, and do not introduce stylization drift beyond the intended 3D animation translation.\nComposition & Framing\nVertical 4:5 portrait composition.\n\nClose-up upper-torso framing.\nThe subject is positioned slightly toward the right side of the frame, leaning gently inward toward the center.\n\nHead is near the center of the frame, creating a natural, engaging composition.\nCamera Angle & Perspective\nClose camera distance with a slightly elevated angle looking gently downward.\n\nPerspective subtly enlarges the head relative to the shoulders to enhance the appealing animated character style.\nPose & Expression\nRelaxed posture with shoulders slightly angled.\n\nHead softly tilted.\nDirect eye contact with a warm, friendly smile.\n\nExpression is cute, calm, and inviting — not exaggerated.\nFacial Style\nSoft stylized proportions inspired by premium animation films:\n\nLarge expressive eyes with natural reflections\nSmooth, clean skin shading\nSoft rounded cheeks\nSubtle, natural lips with light gloss\nMaintain realism while applying gentle stylization.\nHair\nMedium-long natural colour hair with soft volume and smooth natural waves.\n\nHair flows naturally over the shoulders with a slightly lifted crown.\n\nFine strand detail and soft highlights visible.\nAccessories\nThin round metal eyeglasses with:\n\nClean frame structure\nSubtle reflections\nSoft lens highlights\nClothing\nSoft pink pullover hoodie (IMPORTANT — keep exact color, not red).\n\nVisible white drawstrings\nNatural fabric folds\nSoft cotton texture\nSlight shading around shoulders and chest\nLighting\nBright, soft studio lighting:\n\nPrimary soft key light from upper left\nGentle fill light to reduce harsh shadows\nSubtle rim light around hair for separation\nLighting should enhance facial softness and material quality.\nBackground\nClean, minimal gradient background using:\nPrimary color: vibrant teal blue (HEX #008ca7)\n\nSmooth gradient (slightly lighter center, darker edges)\nNo texture, no objects\nStrong subject-background separation\nRendering Quality\nUltra-clean, high-resolution 3D render:\n\nSmooth materials\nCinematic lighting\nSoft ambient occlusion\nPolished shading\nSharp facial focus\nSubtle depth of field (background softly blurred)\nAspect Ratio\nVertical 4:5 portrait.",
+      "description": "Google Gemini AI 3D Animated Portrait Art Prompt: Use this Prompt to generate a charming 3D character illustration of a cheerful woman with round glasses and a pink hoodie against a blue background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 23,
+      "view_count": 547,
+      "copy_count": 764,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "girl-brown-hair-glasses-pink-hoodie-3d-portrait-illustration-by-promptplum.webp",
+          "local_path": "images/stylized-portrait/girl-brown-hair-glasses-pink-hoodie-3d-portrait-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-brown-hair-glasses-pink-hoodie-3d-portrait-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-portrait/girl-brown-hair-glasses-pink-hoodie-3d-portrait-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-portrait/girl-brown-hair-glasses-pink-hoodie-3d-portrait-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Animated Girl in Pink Hoodie on Blue Background AI Prompt. AI generated 3D digital illustration of a young woman with wavy brown hair and round glasses wearing a pink hoodie."
+        }
+      ]
+    }
+  ]
+}

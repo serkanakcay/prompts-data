@@ -1,0 +1,511 @@
+{
+  "category": "Stylized Art",
+  "slug": "stylized-art",
+  "total_prompts": 7,
+  "updated_at": "2026-09-24T13:12:42Z",
+  "prompts": [
+    {
+      "id": "6a65248d9d499d9af98afe47",
+      "title": "Colorful Scribble Art Family Portrait",
+      "slug": "colorful-scribble-art-family-portrait",
+      "category": "Stylized Art",
+      "category_slug": "stylized-art",
+      "prompt": "Create an ultra-detailed hand-drawn scribble-art portrait using the uploaded family photo only as the reference for each person’s facial identity, age, gender, skin tone, hairstyle, and family members. Include exactly the same 3 or 4 people—do not add, remove, replace, or merge anyone. Do not copy the original pose, composition, background, or exact clothing.\nCreate a fresh, professionally arranged family pose. Place the entire family prominently in the center of a vertical composition, close together with warm, natural interaction. Position the parents behind or beside the children, gently leaning inward. For one child, place them centrally between or slightly in front of the parents; an infant or toddler may be held naturally. For two children of any age or gender, arrange both clearly in the center foreground or between the parents with balanced spacing and every face fully visible. Give everyone warm, natural expressions directed toward the viewer.\nRestyle the family in coordinated, elegant outfits suitable for their age, gender, and cultural appearance. If the reference clothing is very simple, enhance it with richer colors, tasteful patterns, refined fabric details, subtle embroidery, layering, or appropriate accessories. The outfits should look stylish and complementary without becoming overly formal. Do not reproduce the exact original clothes.\nRender the portrait using thousands of overlapping, free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red. Preserve recognizable facial features, realistic anatomy, expressive eyes, intricate crosshatching, delicate shading, and accurate proportions.\nUse clean white textured paper as the background. Keep the family sharply detailed and fully defined at the center, while the outer edges of their clothing and surrounding linework gradually dissolve into loose, colorful scribbles and softly fade into the white background on both sides. Maintain balanced negative space around the centered family.\nEye-level medium family portrait, gallery-quality traditional pen-and-ink illustration, vibrant artistic energy, ultra-sharp detail, vertical composition. Aspect ratio 4:5.",
+      "description": "Scribble Art Portrait Prompt: Use this prompt to create a colorful ballpoint pen sketch of a smiling family posing on textured white paper.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 3343,
+      "copy_count": 2437,
+      "is_premium": false,
+      "published_at": "2026-07-25T21:03:09.299Z",
+      "images": [
+        {
+          "filename": "7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "local_path": "images/stylized-art/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Intricate Ballpoint Sketch Family Portrait AI Photo Editing Prompt. AI generated digital illustration art of a smiling woman and bearded man holding their baby against a white background."
+        },
+        {
+          "filename": "25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "local_path": "images/stylized-art/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling mother and father holding their baby, drawn with colorful scribble lines."
+        },
+        {
+          "filename": "5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "local_path": "images/stylized-art/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated illustrative sketch art of a smiling Indian family with parents and baby in colorful traditional attire against a white background."
+        },
+        {
+          "filename": "011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "local_path": "images/stylized-art/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling young family: father in a blue blazer, mother in a purple patterned dress, and baby in a fox sweater."
+        },
+        {
+          "filename": "34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "local_path": "images/stylized-art/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling husband and wife holding their baby girl in a vibrant ballpoint pen sketch style."
+        },
+        {
+          "filename": "eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "local_path": "images/stylized-art/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "original_url": "https://img.promptplum.com/promptImages/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Portrait Sketch Art AI Photo Editing Prompt. AI generated portrait illustration of a smiling Asian family of four, rendered in a textured, colorful scribble sketch art style."
+        },
+        {
+          "filename": "06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "local_path": "images/stylized-art/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "local_path": "images/stylized-art/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "local_path": "images/stylized-art/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "original_url": "https://img.promptplum.com/promptImages/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Art Family Portrait"
+        },
+        {
+          "filename": "725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "local_path": "images/stylized-art/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "local_path": "images/stylized-art/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-11"
+        },
+        {
+          "filename": "c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "local_path": "images/stylized-art/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "local_path": "images/stylized-art/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "original_url": "https://img.promptplum.com/promptImages/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-9"
+        }
+      ]
+    },
+    {
+      "id": "6a4eaa957877e7a4d76166a2",
+      "title": "3D Couple Miniature",
+      "slug": "3d-couple-miniature-photo",
+      "category": "Stylized Art",
+      "category_slug": "stylized-art",
+      "prompt": "Create a cute premium 3D animated collectible figurine scene of the uploaded couple, using their photo only as the identity reference. Turn them into an adorable husband and wife standing close together on a small round display base. Preserve their recognizable age, facial features, hairstyle, glasses if present, skin tone, and warm loving expressions, but render them in a soft Pixar-style / clay-toy figurine look.\n\nThe man stands on the left with a gentle smile, one arm lovingly around the woman’s shoulder, while the woman stands on the right, smiling warmly up at him. Their pose should feel affectionate, calm, and lifelong-romantic.\nDress both subjects in outfits inspired by their own cultural background, keeping the clothing elegant, traditional or semi-traditional, age-appropriate, modest, and visually harmonious. The outfits should feel authentic to the couple’s culture rather than generic Western clothing. For example, use culturally relevant garments, layering, patterns, jewelry, and overall styling that suit the couple naturally, while still keeping the look soft, premium, and simplified for a collectible figurine design. Avoid exaggerated costumes; keep the styling tasteful, warm, and realistic to their background.\n\nPlace a vintage black street lamp beside them with a warm glowing lantern. Attach wooden arrow signboards to the lamp post with clean readable engraved text: “MARRIED SINCE”, “HUSBAND NAME”, and “WIFE NAME”. On the front of the round base, add elegant golden text: “ENDLESS ♥ LOVE”.\n\nSet the figurine on a wooden tabletop inside a cozy softly blurred living room, with warm golden lighting, shallow depth of field, premium miniature-diorama feel, soft shadows, smooth toy-like textures, detailed fabric, and realistic lamp glow. Keep the composition centered, heartwarming, clean, and gift-like. Square aspect ratio 1:1.",
+      "description": "3D Couple Miniature Art Prompt: Use this prompt to create a personalized 3D Pixar-style diorama of a romantic couple by a street lamp with custom signboards.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 68,
+      "view_count": 3895,
+      "copy_count": 2287,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "local_path": "images/stylized-art/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Miniature Couple Photo Prompt: AI generated 3D miniature art of a stylized couple standing next to a lit street lamp with signs reading Names, on a base with a plaque saying 'ENDLESS ♥ LOVE', in a warm interior setting."
+        },
+        {
+          "filename": "726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "local_path": "images/stylized-art/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "original_url": "https://img.promptplum.com/promptImages/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling couple holding hands next to a vintage street lamp with custom name signboards on a wooden base."
+        },
+        {
+          "filename": "469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "local_path": "images/stylized-art/469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "original_url": "https://img.promptplum.com/promptImages/469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Nostalgic 3D Diorama AI Photo Editing Prompt. AI generated 3D miniature of a heartwarming elderly couple embracing by a lit vintage lamp."
+        },
+        {
+          "filename": "cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "local_path": "images/stylized-art/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Indian Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling Indian couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
+        },
+        {
+          "filename": "efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "local_path": "images/stylized-art/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "original_url": "https://img.promptplum.com/promptImages/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated 3d miniature diorama of a loving bride and groom embracing by a warm vintage lamp."
+        },
+        {
+          "filename": "a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "local_path": "images/stylized-art/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Arab Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling senior Arab couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
+        },
+        {
+          "filename": "2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "local_path": "images/stylized-art/2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Joyful Traditional 3D Couple Miniature Photo Prompt. AI generated diorama of a happy couple in Bavarian attire smiling by a warm vintage lamp."
+        },
+        {
+          "filename": "decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "local_path": "images/stylized-art/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Indonesian Couple Miniature Art AI Photo Editing Prompt"
+        },
+        {
+          "filename": "fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "local_path": "images/stylized-art/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "original_url": "https://img.promptplum.com/promptImages/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "width": 1814,
+          "height": 1946,
+          "alt": "AI generated 3d miniature art diorama of a loving couple in embroidered attire by a cozy vintage lamp."
+        },
+        {
+          "filename": "1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "local_path": "images/stylized-art/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Senior Muslim Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling senior Muslim couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
+        },
+        {
+          "filename": "c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "local_path": "images/stylized-art/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Romantic Miniature Art AI Photo Editing Prompt. AI generated 3D diorama of a cute couple embracing by a lit vintage street lamp."
+        },
+        {
+          "filename": "a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "local_path": "images/stylized-art/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Couple Miniature Art Photo Prompt"
+        }
+      ]
+    },
+    {
+      "id": "6a4253bfe1ceda640e783042",
+      "title": "Modern Halo",
+      "slug": "man-hoodie-glowing-halo-dp",
+      "category": "Stylized Art",
+      "category_slug": "stylized-art",
+      "prompt": "Use the uploaded image only for the subject’s face and identity reference. Preserve the person’s recognizable facial structure, hairstyle, and facial hair if present.\n\nCreate a premium stylized cinematic AI portrait in a vertical 4:5 aspect ratio. The image should look like high-end hyper-detailed digital artwork with a refined semi-realistic 3D-render finish, not a natural camera photograph and not a cartoon.\n\nShow the subject from lower-chest upward, slightly left of center, in a strong three-quarter profile facing camera-right. Use a subtle low camera angle, with the portrait viewed slightly from below, so the subject appears more powerful and dominant in frame. Keep the chin slightly raised, lips closed, and expression calm, serious, powerful, and self-assured. Add black rectangular sunglasses with dark lenses and glossy reflections.\n\nDress the subject in a plain oversized black hoodie with thick soft fabric, visible drawstrings, deep folds, and rich shadow detail.\n\nPlace a large perfectly circular glowing amber-gold celestial disc directly behind the head and shoulders. The disc must have a dark luxurious golden-orange surface with soft smoky texture, brushed-metal-like patterns, subtle celestial grain, darker bronze edges, and a warm inner glow. Do not make it a realistic pale full moon, bright white moon, or highly visible crater moon.\n\nUse a nearly black background with faint warm brown haze around the disc. Add a controlled bright golden edge light around the hair, ears, shoulders, hood, and outer hoodie silhouette. Keep the face partly shadowed with warm orange highlights along the cheek, jawline, nose edge, and beard.\n\nMake the subject sharp and visually dominant, with dramatic contrast, sculpted facial shading, rich black clothing, detailed textured hair, stylized beard detail if present, deep shadows, glowing amber rim light, dark luxury fantasy-poster mood, premium AI artwork, cinematic digital portrait, ultra-detailed, 8K.",
+      "description": "Character Design Cinematic Portrait Prompt: Use this prompt to create a stylized image of a man in a black hoodie and sunglasses against a glowing golden halo.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 1305,
+      "copy_count": 1615,
+      "is_premium": false,
+      "published_at": "2026-08-09T23:43:52.352Z",
+      "images": [
+        {
+          "filename": "73fac445-a4af-4346-a8ba-ff6d937eb724.webp",
+          "local_path": "images/stylized-art/73fac445-a4af-4346-a8ba-ff6d937eb724.webp",
+          "original_url": "https://img.promptplum.com/promptImages/73fac445-a4af-4346-a8ba-ff6d937eb724.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/73fac445-a4af-4346-a8ba-ff6d937eb724.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/73fac445-a4af-4346-a8ba-ff6d937eb724.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with a Glowing Halo AI Photo Editing Prompt. AI generated digital illustration of a bearded man wearing a black hoodie and sunglasses, standing in front of a luminous golden ring."
+        },
+        {
+          "filename": "19f2042d-af47-449c-970b-d214b7713c3f.webp",
+          "local_path": "images/stylized-art/19f2042d-af47-449c-970b-d214b7713c3f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/19f2042d-af47-449c-970b-d214b7713c3f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/19f2042d-af47-449c-970b-d214b7713c3f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/19f2042d-af47-449c-970b-d214b7713c3f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cinematic Portrait AI Photo Editing Prompt. AI generated digital illustration of a young man with sunglasses in a black hoodie, set against a large, glowing golden halo."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704db",
+      "title": "Vibrant Mood Board",
+      "slug": "3d-cartoon-girl-character-expression-sheet-pixar-style",
+      "category": "Stylized Art",
+      "category_slug": "stylized-art",
+      "prompt": "Create a high-quality collage composed of six equal panels arranged in a 3×2 grid, featuring six stylized 3D character portraits of the same person.\n\nCollage layout:\nVertical 4:5 canvas\nSix equal panels in 3 columns × 2 rows\nNo spacing between panels\nClean, tight social-media grid\n\nIdentity consistency (CRITICAL)\nSame character across all panels\nSame face shape, proportions, skin tone\nSame hairstyle, volume, and texture\nNo identity drift\nOnly pose, expression, and outfit change\n\nFraming (STRICT)\nWaist-up framing in all panels\nUpper thighs slightly visible in every panel\nConsistent camera angle\nSubject occupies ~65–75% frame\nCentered composition\n\nCharacter Style (VERY IMPORTANT — LOCK THIS)\nStylized semi-chibi 3D character\nHead slightly larger than realistic proportions (~10–15% larger)\nBig expressive eyes, soft rounded cheeks\nSmall refined nose, smooth jawline\nCompact, slightly shorter torso proportion\nSoft, youthful anatomy (not realistic adult proportions)\nHighly appealing, cute but premium look\n\nExpression Style (CRITICAL)\nExpressions must feel playful, lively, and charming\nNot extreme cartoon distortion\nSubtle realism + stylized exaggeration balance\nEyes highly expressive and alive\n\nPanel definitions (LOCKED)\nPanel 1 — Friendly / Confident\nArms crossed naturally\nRelaxed shoulders\nWarm playful smile\nOutfit: fitted white t-shirt, black bead necklace, blue jeans\nPanel 2 — Thinking / Curious\nRight index finger on chin\nHead slightly tilted\nEyes looking slightly upward\nSoft curious smile\nOutfit: Blue denim jacket and dark jeans\nPanel 3 — Playful / Energetic (DEPTH CRITICAL)\nRight hand showing peace sign\nHand extended toward camera with slight foreshortening\nOne eye wink, big playful smile\nOutfit: black leather jacket over red top, black pants\nPanel 4 — Excited / Delighted\nBoth hands pressed to cheeks\nEyes wide, joyful expression\nOpen smile\nOutfit: pink hoodie, blue jeans\nPanel 5 — Calm / Content\nEyes gently closed\nSoft relaxed smile\nHands behind back (not visible)\nOutfit: purple hoodie, white pants\nPanel 6 — Soft / Elegant\nHead slightly tilted\nGentle smile\nRelaxed posture\nOutfit: light green floral dress\n\nRendering Style\nUltra high-quality 3D render\nPixar-style / Disney-style character finish\nSmooth, polished surfaces\nSoft subsurface scattering (skin glow)\nClean global illumination\nSoft shadows, no noise\nHighly detailed hair strands with volume\nGlossy, premium material response\n\nLighting\nSoft studio lighting\nEven illumination on face\nSubtle rim light for separation\nBright, clean exposure (no moody lighting)\n\nBackground\nSolid vibrant colors per panel\nYellow, Blue, Red, Pink, Purple, Green\nFlat or subtle gradient\nNo environment\n\nRendering Quality\nUltra sharp\nClean edges\nNo artifacts\n4K quality\nProfessional social-media ready output",
+      "description": "3D Animated Character Expression Sheet Prompt: Use this prompt to generate high-quality stylized character designs featuring a young woman in various outfits and expressive poses against vibrant, colorful backgrounds.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 835,
+      "copy_count": 1353,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "local_path": "images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Female Character Expression Grid AI Photo Editing Prompt. AI generated 3D digital illustration showcasing a stylized woman with various facial expressions and outfits against vibrant, solid-colored backgrounds."
+        },
+        {
+          "filename": "3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "local_path": "images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "3D Animated Girl Expressions AI Photo Editing Prompt. AI generated 3D digital illustration of a girl in six different outfits and poses displayed in a vibrant six-panel colorful grid."
+        },
+        {
+          "filename": "3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "local_path": "images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital illustration featuring a grid of six expressive female character variations with wavy dark hair and stylish outfits against vibrant solid-color backgrounds."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704cf",
+      "title": "Contours of Love",
+      "slug": "3d-layered-papercut-couple-heart-sculpture",
+      "category": "Stylized Art",
+      "category_slug": "stylized-art",
+      "prompt": "Hyper-realistic 3D layered papercut and paper quilling sculpture, showcasing masterful papercraft artistry with a blend of matte and metallic paper textures.\nComposition:\nSymmetrical dual bust portraits centered in the frame. The male subject on the left and the female subject on the right face each other in close proximity. Their flowing ribbon-like forms merge at the base, elegantly converging into a refined heart shape that forms the lower structure of the sculpture. This heart-shaped base is seamlessly integrated into the design and gently rests on a minimal, smooth wooden stand (light natural wood tone, clean edges, gallery-style plinth).\nSubjects & Styling:\nMale (Left): Constructed from layered paper forms. Hair & beard (if present in the reference image) is styled in smooth, sculpted waves using thick silver metallic paper strips. His collar/outfit is formed from broad, flowing silver ribbons.\nFemale (Right): Constructed from delicate layered paper. Hair is an intricate quilled updo made from fine rose-gold metallic paper strips. Her drapery mirrors this style with soft, flowing ribbon forms.\nFacial Detail:\nBoth faces feature subtle, contour-following layered paper cuts that define facial structure (cheeks, jawline, temples), enhancing depth and emphasizing the handcrafted papercut aesthetic.\nPose & Expression:\nClean side-profile views, perfectly aligned face-to-face. Their faces are inches apart, slightly leaning inward. Both subjects are looking directly into each other’s eyes, conveying a soft romantic expression with a sense of intimacy and emotional connection, without physical contact.\nLighting:\nSoft, diffused studio lighting to enhance depth and cast subtle, realistic shadows between paper layers.\nA warm, glowing backlight is placed precisely in the background between their faces, creating a soft halo and a focal point in the negative space.\nBackground:\nMinimal, seamless matte off-white background for a clean, gallery-style presentation.\nCamera & Technical:\nStraight-on, eye-level shot, perfectly perpendicular to maintain the flat graphic profile while emphasizing 3D depth.\n85mm lens, f/5.6, ISO 100, ultra-sharp focus, 8K resolution, high-end editorial product photography style, crisp detail on paper edges and layered contours.\nStyle Keywords:\npapercraft sculpture, paper quilling art, layered paper design, metallic textures, minimalism, romantic symmetry, ultra-detailed, studio lighting, soft shadows\nAspect ratio 4:5.\nNo text, no logo, no distortion, no outfit from reference image.",
+      "description": "3D Paper Quilling Art Prompt: Use this prompt to generate an elegant paper-cut sculpture of a romantic couple forming a heart shape with intricate silver and rose gold metallic detailing.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 1052,
+      "copy_count": 1725,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:36:50.649Z",
+      "images": [
+        {
+          "filename": "man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
+          "local_path": "images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Papercut Couple Heart Sculpture AI Photo Editing Prompt. AI generated 3D layered papercut digital illustration of a man and woman in metallic silver and rose gold tones facing each other to form a heart shape."
+        },
+        {
+          "filename": "man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
+          "local_path": "images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man and Woman Heart Paper Sculpture AI Photo Editing Prompt. AI generated layered papercut art of a couple facing each other with a central heart-shaped design."
+        },
+        {
+          "filename": "man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
+          "local_path": "images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated 3D papercut art of a man and woman in profile forming a heart shape on a wooden base."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704c1",
+      "title": "The Creative Lead",
+      "slug": "professional-3d-avatar-man-black-shirt-yellow-circle",
+      "category": "Stylized Art",
+      "category_slug": "stylized-art",
+      "prompt": "Create an ultra-high-detail 3D animated character portrait in a premium Disney/Pixar-inspired style, designed to feel highly appealing, expressive, and avatar-friendly.\n\nComposition:\nMedium portrait (waist-up), centered, slightly body turned one side, eye-level camera angle. Subject fills ~65–75% of the frame.\n\nSubject:\nStylized male character with slightly chibi-influenced proportions — subtly larger head (~10–15% larger than realistic proportion) and a slightly compact, youthful body while still maintaining an adult identity. Clean facial structure, smooth but detailed skin, highly expressive large eyes (not cartoonishly oversized).\n\nHair & Accessories:\nNeatly styled, soft-volume hair with visible strand detail. Thick matte grey rim glasses, well-fitted and premium-looking.\n\nOutfit:\nMatte black long-sleeve button-down shirt with collar and two chest pockets. Sleeves rolled to mid-forearms.\nFabric must feel premium and realistic — visible micro-texture, stitching, natural folds, soft cloth behavior, subtle specular highlights (no plastic look).\n\nPose (IMPORTANT):\nArms confidently crossed. Body slightly angled (~15° right) to avoid flatness. Head turned toward camera with strong, natural posture.\n\nExpression:\nHighly joyful, warm, and engaging smile — friendly and likable (avatar appeal focus), not exaggerated to the point of distortion. Eyes lively with strong emotional presence.\n\nBackground:\nPure white seamless studio background (#FFFFFF), completely clean and minimal.\n\nBehind the subject, add a large round shape in a rich yellow color gradient. The shape must be centered behind the subject’s head and upper torso, occupying ~50–70% of the background width.\nSmooth edges, flat matte finish, no texture\nCreating a strong contrast with the black outfit and helping the subject stand out visually.\n\nNo shadows cast on the white background, only a faint soft separation shadow between subject and shape if needed.\nLighting:\nSoft high-key studio lighting. Even facial illumination with gentle shadow depth.\nSubtle rim light on the left side of the hair and the shoulder for separation. Bright, crisp eye catchlights.\n\nRendering & Quality:\n8K ultra-detailed render, Unreal Engine 5/Octane quality.\nPBR materials, subsurface scattering for natural skin glow, high-resolution textures, sharp focus, clean premium color grading.\nStylized realism — no AI artifacts, no over-smoothing, no plastic skin.\n\nAspect Ratio: 4:5",
+      "description": "3D Pixar-Style Character Portrait Prompt: Copy and paste this prompt to generate a high-quality 3D animated avatar of a friendly professional man wearing glasses and a black button-down shirt against a vibrant yellow circle.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 45,
+      "view_count": 733,
+      "copy_count": 1361,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-with-glasses-crossed-arms-yellow-circle-background-3d-character-illustration-by-promptplum.webp",
+          "local_path": "images/stylized-art/man-with-glasses-crossed-arms-yellow-circle-background-3d-character-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-crossed-arms-yellow-circle-background-3d-character-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/man-with-glasses-crossed-arms-yellow-circle-background-3d-character-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/man-with-glasses-crossed-arms-yellow-circle-background-3d-character-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Male Avatar in Black Shirt AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling young man with glasses and crossed arms standing against a yellow circular backdrop."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267049b",
+      "title": "The Modern Avatar",
+      "slug": "pixar-style-character-male-portrait",
+      "category": "Stylized Art",
+      "category_slug": "stylized-art",
+      "prompt": "Create a high-fidelity, 3D-rendered character portrait in the style of modern feature-film animation (such as Pixar or DreamWorks). Use the uploaded image only for facial reference to preserve identity while maintaining a polished, cinematic animated aesthetic.\n\nInstruction (CRITICAL): Strictly IGNORE the pose details from the reference image.\n\nComposition & Framing\nThe subject is positioned lower-right, as if peeking into view, with the chest up framing.\nOoccupies approximately 60–70% of the area in the frame, ensuring strong visual presence.\nA head tilt for a friendly, approachable demeanour.\nPose should be natural.\nVertical aspect ratio (4:5).\nShallow depth of field with the subject in sharp focus and the background perfectly smooth.\n\nBackground\nA seamless, ultra-smooth gradient with no texture or noise.\n\nDiagonal color transition:\nDeep magenta/pink in the upper left,\nVibrant orange in the center,\nBright golden-yellow in the lower right.\nSoft, clean, and studio-like with a subtle bokeh-style finish.\n\nAppearance & Expression\nStylized yet believable proportions typical of high-end animated films.\nWarm, friendly, and charismatic expression with a subtle, confident smile.\nLarge, expressive eyes with natural catchlights.\nNatural skin shading with realistic subsurface scattering for a lifelike appearance.\nExpression should be natural.\n\nAttire & Accessories\nModern, casual outfit (e.g, t-shirt, hoodie) with a clean, minimal design.\nContemporary eyewear with realistic reflections and refraction.\nPhysically accurate fabric textures with visible stitching and natural folds.\n\nLighting\nKey Light: Soft, diffused light from the upper right, producing gentle highlights on the face.\nFill Light: Subtle illumination from the left to maintain balanced shadows and a friendly mood.\nGlobal Illumination: Soft bounce lighting for realism.\nSubsurface Scattering: Visible in the skin, especially around the ears and nose.\nSoft reflections on accessories such as glasses.\n\nTechnical Specifications\nHigh-end 3D CGI rendered using Physically Based Rendering (PBR).\nUltra-detailed textures with high-resolution normal and bump maps.\nClean topology and cinematic color grading.\nSmooth anti-aliasing and studio-quality rendering.\n8K resolution, ultra-sharp details.\nVibrant yet balanced color harmony.\n\nIdentity Constraint\nUse the uploaded image strictly only for facial and identity reference.\nPreserve facial structure, proportions, and likeness with high accuracy.\nDo not alter ethnicity or introduce distortions.\n\nNegative Prompt\nBlurry, low resolution, noisy background, harsh shadows, flat lighting, distorted face, unnatural pose, exaggerated caricature, over-smoothing, plastic skin, dull colors, artifacts, incorrect anatomy, asymmetry, watermark, text, logo, cluttered background, grain, oversharpening.",
+      "description": "3D Pixar-Style Character Design Prompt: Use this prompt to generate a high-quality animated avatar of a friendly man wearing glasses and a hoodie against a vibrant gradient background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 765,
+      "copy_count": 1478,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Glasses and Hoodie AI Photo Editing Prompt. AI generated 3D digital illustration portrait of a young man with brown hair and glasses wearing a grey hoodie against a vibrant gradient background."
+        },
+        {
+          "filename": "man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/stylized-art/man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}
