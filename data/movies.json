@@ -1,0 +1,444 @@
+{
+  "category": "Movies",
+  "slug": "movies",
+  "total_prompts": 14,
+  "updated_at": "2026-09-24T13:10:04Z",
+  "prompts": [
+    {
+      "id": "6aad860246d4207dc213d8d0",
+      "title": "Hyperreal Cinematic Scandinavian Viking",
+      "slug": "scandinavian-viking-portrait",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "IMAX cinematic 4:5 close-up of a rugged Scandinavian Viking, hyperreal historical-blockbuster realism. Direct soul-piercing gaze, cold eyes, shaved temples with tight crown braids, thick braided beard. Dirt, scars, black war paint, melting snow droplets visible. Worn bear-fur armor, leather belts, oxidized Celtic brooches. Snowy forest bokeh, blizzard fog, diffused cold light, steel tones, high micro-contrast, 35mm grain.",
+      "description": "Copy this AI prompt to generate hyperreal, cinematic portraits of a rugged Scandinavian Viking with war paint, a braided beard, and bear-fur armor in a snowy forest.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 1,
+      "view_count": 314,
+      "copy_count": 166,
+      "is_premium": false,
+      "published_at": "2026-09-18T18:42:10.080Z",
+      "images": [
+        {
+          "filename": "d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "local_path": "images/movies/d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Prompt: Hyperreal portrait of a Scandinavian Viking with crown braids, dirt, and facial scars, wearing leather and fur in a blizzard."
+        },
+        {
+          "filename": "d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "local_path": "images/movies/d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Photo Editing Prompt: High-contrast cinematic image of a Viking warrior with cold blue eyes, war paint, and a thick braided beard standing in the snow."
+        },
+        {
+          "filename": "59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "local_path": "images/movies/59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini AI Generated Cinematic close-up portrait of a rugged Viking with a braided beard, war paint, and fur armor in a snowy forest"
+        },
+        {
+          "filename": "08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "local_path": "images/movies/08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Prompt for Detailed close-up of a rugged Viking featuring Celtic brooches, fur armor, and melting snow on his beard and face."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033c",
+      "title": "The Dark Knight Endures",
+      "slug": "the-dark-knight-endures",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a hyper-realistic, cinematic full-body image of a man.\nSubject & Identity\nA dark, vigilante-inspired armored character with the real face fully visible.\nThe cowl is open-face, removed, or pushed back—integrated around the head without covering any facial features.\nExpression\nStoic, grim, battle-hardened\nEyes focused forward with calm intensity\nNo smile — controlled rage, resilience, and authority\nPose & Body Language\nWalking forward toward the camera (slow, dominant stride)\nShoulders squared, chest forward\nArms relaxed but heavy with strength\nSubtle fatigue from battle, but no weakness\nStrong, grounded presence\nFraming & Camera (FIXED – FULL BODY)\nFull-body shot (head to toe — NO cropping of feet or head)\nSlightly low-angle perspective for dominance\nCentered, symmetrical composition\nPoster-style vertical framing\nEnsure entire body including boots is fully visible\nOutfit & Armor (Battle-Damaged)\nA heavy armored suit in dark graphite and matte black tones\nDamage details:\nScratched and cracked armor plates\nWorn chest emblem with scuffed edges\nMinor dents on shoulders and forearms\nTorn fabric between armor segments\nSubtle scorch marks and impact scratches\nDirt, dust, and weathering buildup\nArmor must feel:\nRealistic\nFunctional\nBattle-worn (not stylized or glossy)\nUtility Belt\nTactical muted gold tone\nScratched metal finish\nWorn pouches\nSlight asymmetry from combat use\nCape\nLong, heavy, dark cape\nTorn and frayed edges\nThick, weathered fabric\nMinimal movement, hangs with weight\nBlends into fog near the ground\nEnvironment & Background\nDark studio-style environment\nDense smoke and fog layers\nFog concentrated around lower body and feet\nBackground fades into deep shadow\n❌ No buildings, no city, no extra elements\nClean, minimal, cinematic backdrop\nLighting & Color Grading\nLow-key cinematic lighting\nCool neutral tones (charcoal gray, steel black)\nSoft top light defining head and shoulders\nSubtle rim light for separation\nHighlights reveal armor texture and damage\nDeep shadows preserved (no crushed blacks)\nFilm-grade realistic contrast\nCamera & Lens\nEye-level to slightly low angle\n50mm–85mm lens look\nShallow depth of field\nBackground softly blurred\nStyle & Quality\nUltra-realistic cinematic superhero portrait\nStudio photography look\nFilm promotional still\nHyper-detailed textures\nSharp focus\nProfessional lighting\n8K resolution\nAspect ratio 4:5\nModern grounded realism\n❌ No comic, cartoon, or illustrated style",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 879,
+      "copy_count": 876,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "local_path": "images/movies/Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_bp1km9bp1km9bp1k.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: a hyper-realistic, cinematic portrait of a rugged male figure standing in a commanding, forward-facing pose, wearing a heavily battle-damaged tactical suit reminiscent of Batman. The subject has short, dark brown hair, a thick beard, and a piercing, stoic expression that conveys grim determination. His armor is rendered in matte charcoal and black tones, featuring a segmented chest plate with a faint bat emblem, all of which is marred by deep scratches, gouges, and exposed under-layers from combat. A dull, weathered gold utility belt sits at his waist, adding a utilitarian contrast to the dark plating. Behind him hangs a heavy, floor-length cape with severely tattered and frayed edges, blending into the thick, swirling grey fog that fills the dark, atmospheric background. The lighting is low-key and dramatic, accentuating the textures of the worn armor and the intensity of the character's presence."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033b",
+      "title": "Wolverine: Battle Ready",
+      "slug": "wolverine-battle-ready",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a hyper-realistic cinematic knee-up portrait of a rugged clawed mutant warrior, featuring a modern armored suit with realistic battle damage while maintaining strong character clarity.\nFraming & Camera\nKnee-up shot (from knees to slightly above head — strictly no head cropping)\nSlightly low-angle perspective for dominance and heroic presence\nCentered, symmetrical composition\nStrong stance: legs apart, shoulders squared, fists clenched\nEnsure both hands and claws are fully visible within the frame\nExpression & Face\nExpression: intense, grim, battle-hardened\nFurrowed brows, tight jaw, focused forward gaze\nSubtle combat details: light dirt, sweat, small cuts, abrasions\nEmotion conveys controlled rage, resilience, and readiness\nBattle-Damaged Armor\nThe character wears a modern armored combat suit that is predominantly yellow with subtle dark blue accents/panels:\nYellow must be the dominant color across chest, torso, and legs\nBlue appears only as secondary detailing (side panels, joints, accents)\nScuffed and scratched armor plates\nChipped paint with exposed metallic edges\nMinor dents and impact marks (chest, shoulders, thighs)\nTorn fabric sections between armor panels\nDamage must feel:\nRealistic and functional\nEarned through combat\nNOT overly destroyed or exaggerated\nClaws & Details\nThree long metallic claws extended from each hand\nSharp, reflective metal with visible scratches and wear\nSlight dark staining and battle residue\nSubtle glow near the base (very controlled, not dominant)\nLighting & Atmosphere\nCinematic studio lighting with a gritty tone\nWarm key light enhancing yellow suit texture and damage\nCool rim lighting outlining muscles, suit edges, and claws\nBalanced contrast — no overexposure\nFloating embers and subtle atmospheric particles for depth\nBackground\nMinimal studio backdrop (dark grey to charcoal gradient)\nLight dust, ash, and spark particles\nNo environmental elements (no city, no battlefield)\nFull focus remains on the subject\nStyle & Quality\nUltra-realistic, high-end cinematic quality\nFilm-grade color grading\nExtremely detailed textures (skin, armor, metal, fabric)\nVisible pores, veins, scratches, and material realism\nSharp focus, 8K resolution, Aspect ratio 4:5\n❌ No text\n❌ No logos",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 681,
+      "copy_count": 426,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "local_path": "images/movies/Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_ty4n3mty4n3mty4n.jpg",
+          "width": 1500,
+          "height": 1388,
+          "alt": "Gemini AI Generated Image: a medium shot of the X-Men character Wolverine, standing boldly against a dark, smoky background filled with rising embers. He has short, unkempt brown hair and a full beard, with an intense gaze. He wears a textured yellow and blue armored suit, which is visibly scuffed, dirty, and marked with numerous cuts and gashes, indicating recent battle. His gloved hands are clenched, and three long, sharp metal claws extend from the backs of each hand, with sparks flying around them. He stands squarely facing the viewer, radiating a sense of rugged strength and determination. The atmosphere is dark and gritty, with smoke and firelight contributing to a sense of danger."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033a",
+      "title": "Son of Odin",
+      "slug": "son-of-odin",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a hyper-realistic cinematic full-body portrait of a powerful mythic storm warrior.\n\nFraming & Camera\nFull-body shot (head to toe, no cropping of feet or head)\n\nSlightly low-angle perspective for dominance and heroism\n\nStrong, grounded stance with legs apart and balanced posture\nBody slightly angled (not fully straight), with a subtle turn toward the viewer’s right for a dynamic, heroic composition\nExpression & Eyes\nExpression: intense, battle-hardened, calm but powerful\n\nEyes emit a controlled electric blue glow\n\nGlow enhances intensity but does NOT obscure facial details\nOutfit & Armor\nRugged ancient warrior armor:\n\nDark leather + worn metal chest plate\n\nVisible scratches, dents, and battle damage\n\nExposed muscular arms with veins and dirt texture\n\nHeavy fur-lined shoulder mantle\n\nDeep red weathered cloak flowing behind\n\nThick leather pant, boots and forearm guards\nOutfit must feel:\n\nPractical, ancient, and battle-used\n\nNOT clean, glossy, or costume-like\nWeapon & Lightning\nHolds in the right hand a large battle axe-like weapon (original design, not branded), gripped firmly with one hand only\n\nWeapon infused with crackling blue lightning energy\nLightning wraps around:\n\nAxe head\n\nHandle\n\nForearm area\nEffects:\n\nSharp, energetic, physically grounded\n\nLight interacts with armor, skin, and environment\n\nMust NOT cover or distort the face\nEnvironment & Atmosphere\nStorm battlefield setting:\n\nDark thunder clouds\n\nLightning strikes in sky\n\nDust, debris, and floating rocks\n\nSubtle levitation of particles due to energy field\n\nNo buildings, no sci-fi elements — purely natural and mythic\nLighting & Color Tone\nHigh-contrast cinematic lighting\n\nCool blue highlights from lightning\n\nNeutral, gritty earth tones overall\n\nStrong rim light outlining silhouette\n\nDeep shadows with preserved detail\n\n🚫 No warm/orange tone\nStyle & Quality\nUltra-realistic, cinematic, mythological realism\n\nFilm-grade color grading\n\nExtreme texture detail (skin, armor, fur, debris)\n\nSharp focus, high dynamic range\n\n8K resolution, vertical 4:5 aspect ratio\n\nNo text, logos, or branding",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 829,
+      "copy_count": 1187,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "local_path": "images/movies/Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_zbbufyzbbufyzbbu.jpg",
+          "width": 1142,
+          "height": 1814,
+          "alt": "Gemini AI Generated Image: A hyper-realistic, cinematic image depicts the superhero Thor in a commanding, full-body stance, radiating raw power. He stands amidst a chaotic environment, his expression intense and battle-hardened, with his eyes glowing a piercing electric blue. He wears a rugged, detailed suit of Asgardian armor composed of dark leather and metal plating, accented by a heavy red cape with a thick fur collar that drapes over his broad shoulders. His muscular arms are exposed, showing realistic skin texture, grime, and veins, while leather gauntlets protect his wrists. In his right hand, he firmly grips the massive axe-hammer, Stormbreaker. The weapon acts as a focal point, crackling with jagged arcs of bright blue lightning that wrap around the handle and blade, illuminating the dark armor. The background reinforces the epic scale of the scene, featuring a moody, overcast sky filled with storm clouds. Floating rocks and debris hover in the air around his legs, seemingly suspended by the static charge, while the cool color palette of greys and blues contrasts with the deep red of his cape."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670339",
+      "title": "Black Widow: Snow Suit Edition",
+      "slug": "black-widow-snow-suit-edition",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a high-end cinematic studio poster–style image inspired by a modern superhero tactical aesthetic, with strong visual realism, symmetry, and premium key-art quality.\nSubject & Pose\nThe subject stands perfectly centered, facing directly toward the camera in a strong, symmetrical, composed stance.\nShoulders squared, posture upright\nArms relaxed at sides with hands naturally clenched\nBody fully aligned and balanced\nExpression calm, serious, emotionally neutral\nNo action pose — pure controlled presence\nOutfit\nThe subject wears a modern white tactical combat suit, sleek, functional, and realistic.\nSuit details include:\nClean panel lines with subtle stitched armor seams\nReinforced joints and high-tech matte fabric texture\nBlack utility belt with a small red accent centerpiece\nDual thigh holsters securely strapped\nCompact wrist gauntlets with subtle tech detailing\nThe suit must look practical, grounded, and premium —\nNOT glossy, NOT exaggerated, NOT stylized, NOT sexualized.\nFace & Hair\nFace fully visible, unobstructed\nNatural skin texture (no smoothing, no plastic look)\nHair styled neatly, falling naturally around shoulders\nExpression: serious, calm, controlled — no smile\nBackground & Composition\nMinimal studio-style background with light concrete / textured white surface\nBehind the subject: a bold red geometric shape (hourglass-inspired / angular form)\nStrong symmetrical alignment with subject centered inside the shape\nBackground is clean, flat, and graphic, not environmental\nLighting\nClean, bright, professional studio lighting\nEven illumination across face and suit\nSoft, controlled shadows\nHigh clarity, no dramatic or moody lighting\nCamera & Framing\nStraight-on camera angle (eye-level)\nMid-to-full body framing (thigh-up)\nPerfectly centered composition\nNo tilt, no distortion, no perspective shift\nStyle & Quality\nUltra-realistic, cinematic studio poster aesthetic\nPremium key-art style (movie poster quality)\nSharp focus, crisp edges\nMinimal depth of field\nProfessional color grading\n8K resolution detail\nClean, high-end finish\nNo text or branding \nAspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 810,
+      "copy_count": 538,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "local_path": "images/movies/Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_gecyo4gecyo4gecy.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: a hyper-realistic, cinematic studio portrait of a woman standing in a powerful, symmetrical pose, dressed in a white tactical bodysuit inspired by Marvel’s Black Widow. She faces the camera directly with a serious, intense expression, framed by shoulder-length strawberry-blonde hair with subtle braids. The form-fitting white suit is rendered with high-definition textures, featuring grey shoulder accents, a central zipper, and tactical seams. She is equipped with black combat gear, including wrist gauntlets, a utility belt with a red hourglass buckle, and thigh holsters holding handguns. The background is a textured, off-white surface overlaid with a large, bold red hourglass graphic directly behind her, creating a striking, high-contrast visual typical of a movie poster key art."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670338",
+      "title": "The First Avenger",
+      "slug": "the-first-avenger",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a full-body, hyper-realistic cinematic image of a man. The scene captures a powerful super-soldier figure in a battle-worn forest environment with a heroic, commanding presence.\nLocation & Environment\nA rugged forest battlefield with tall pine trees, broken branches, scattered debris, and uneven ground. Light smoke or mist drifts through the scene, creating depth and atmosphere. The environment feels like the aftermath of combat—raw, tense, and immersive. Background softly blurred with cinematic depth.\nNo extra people visible anywhere in the background.\nSubject & Pose\nThe subject stands firmly in a strong, grounded stance at the center of the frame.\nShoulders squared, chest forward, posture upright\nBody slightly angled, subtle turn toward the viewer’s right\nLeft arm holding a circular shield angled outward\nRight arm relaxed at the side with a naturally clenched fist (firm, controlled, not exaggerated), clearly visible\nFacial Features & Expression\nClean, natural skin texture with visible pores (no smoothing)\nNeatly styled hair, subtle natural stubble\nExpression: calm and determined (no smile)\nEyes gazing slightly off-camera, creating a focused cinematic presence\nOutfit & Suit Details\nA high-detail tactical super-soldier suit:\nDeep navy-blue base with textured, reinforced fabric\nCentral white star emblem on chest\nRed and white vertical striping across torso\nArmored gauntlets, structured shoulder panels, utility belt\nRugged combat boots with realistic wear\nSuit must appear functional, battle-ready, and premium (not costume-like)\nShield Details\nA metallic circular shield held in the left hand:\nConcentric rings in red and white\nBlue center with a white star\nSurface shows realistic scratches, dents, and wear\nSolid grip, correctly aligned (no floating or distortion)\nCamera & Composition\nSlightly low-angle shot for heroic dominance\nTrue full-body framing: entire subject visible from head to toe, including both feet fully inside the frame\nNo cropping at knees, thighs, or ankles — explicitly avoid mid-thigh or waist-up framing\nSubject occupies ~65–75% of frame height\nCamera pulled back at an appropriate distance to capture full body clearly\nCentered composition with balanced negative space and adequate headroom\nLighting & Mood\nCinematic directional lighting with cool tones\nSoft front light to preserve facial clarity\nSubtle rim light outlining shoulders and shield edges\nNatural shadows for depth (no harsh clipping)\nSlight fog diffusion for atmosphere\nStrictly no warm color tones or warm lighting — maintain a fully cool-toned cinematic look\nTechnical Details\nUltra-realistic, 8K resolution\nSharp focus on subject, shallow depth of field\nProfessional cinematic color grading\nLens: 50mm, f/2.0–f/2.8\nHigh dynamic range, realistic contrast\nAspect ratio 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 36,
+      "view_count": 1722,
+      "copy_count": 1805,
+      "is_premium": false,
+      "published_at": "2026-09-24T00:09:09.829Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "local_path": "images/movies/Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_g2johcg2johcg2jo.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated Image: a hyper-realistic, cinematic portrait of a character dressed as Captain America, standing resolutely in a misty, debris-strewn forest. The subject wears a highly detailed tactical suit in deep navy blue, accented with the iconic red and white midsection stripes and a central white star emblem on the chest. He is equipped with a brown utility belt, combat boots, and fingerless gloves, while his left hand grips the signature circular shield, which shows realistic battle wear with visible scratches and scuffs. The background sets a moody, atmospheric tone with towering pine trees fading into a cool, blue-tinted fog, and the forest floor is cluttered with fallen branches and broken wood, suggesting a rugged battlefield environment. The lighting is dramatic and soft, emphasizing the texture of the armor and the character’s focused, determined expression."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670337",
+      "title": "Black Panther: Deep Jungle",
+      "slug": "black-panther-deep-jungle",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create an ultra-realistic cinematic portrait of a man. The final result should feel like a high-end, film-grade superhero scene set in a dense jungle environment.\nLocation & Environment:\nA deep, lush tropical rainforest filled with dense foliage, large glossy leaves, hanging vines, and layered vegetation. The environment is slightly misty, enhancing depth and atmosphere. Background remains dark and immersive, suggesting nighttime or heavy canopy shade. Soft beams of cool moonlight filter through the trees, creating a mysterious cinematic ambiance with subtle fog diffusion.\nSubject & Pose:\nThe subject stands centered in frame with a strong, grounded, heroic stance.\nUpright posture with squared shoulders\nBody facing forward with a slight turn toward the right\nLeft hand holding a sleek feline-inspired helmet near the hip\nRight arm relaxed but powerful at the side\nPose conveys dominance, calm authority, and readiness\nFacial Features & Expression:\nMaintain exact identity from reference image\nStrong jawline, natural skin texture with visible pores\nShort, neatly styled hair with subtle volume\nLight, realistic stubble\nExpression: serious, intense, focused\nEyes looking directly at camera, conveying leadership and control\nOutfit & Suit Design:\nA futuristic, form-fitting, matte-black tactical suit:\nIntricate micro-texture with fine mesh patterns\nGeometric paneling across chest, arms, and torso\nSleek, athletic silhouette emphasizing muscular structure\nMetallic silver accents forming a sharp, claw-like necklace design\nSubtle silver detailing on forearms, gloves, and seams\nMaterial appears advanced, durable, and high-tech with realistic depth\nHelmet (Handheld):\nFeline-inspired, matte black helmet with smooth contours\nMinimal but sharp silver line detailing\nAngular, stealth-like design with a powerful presence\nAppears solid, heavy, and technologically advanced\nFirm natural grip in left hand (no floating or distortion)\nCamera Angle & Framing:\nSlightly low-angle shot (heroic perspective)\nMedium to three-quarter framing (upper thigh to head)\nCentered composition with balanced negative space\nSubject occupies ~65–70% of frame height\nLighting & Mood:\nLow-key cinematic lighting\nCool blue-green ambient tones from jungle environment\nSoft rim light outlining shoulders and suit edges\nGentle highlights revealing suit texture\nDeep shadows for contrast and drama\nSubtle volumetric light rays through foliage\nNo harsh flash or flat lighting\nColor Grading:\nDark, moody cinematic palette\nDominant tones: deep green, teal, charcoal black\nControlled contrast with rich shadows and crisp highlights\nNo oversaturation or unnatural hues\nTechnical Details:\nUltra-realistic, 8K resolution\nSharp focus on subject, shallow depth of field\nSoft background bokeh with detailed foliage layering\nProfessional cinematic photography style\nLens: 50–85mm, f/1.8–f/2.8\nHigh dynamic range \nAspect ratio 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 950,
+      "copy_count": 1074,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "local_path": "images/movies/Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_yw6clyyw6clyyw6c.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated Image: A hyper-realistic, cinematic portrait features a muscular man standing confidently amidst a dense, moonlit jungle environment. He is wearing a highly detailed, form-fitting black bodysuit reminiscent of the Black Panther superhero costume, characterized by intricate woven textures, geometric patterns, and a distinctive silver claw-tooth necklace. The subject has short, dark hair, a well-groomed beard, and maintains a serious, intense gaze directed forward. In his right hand, he holds a matching matte black helmet with silver accents. The setting is lush with large tropical leaves framing the figure, and the scene is illuminated by cool, atmospheric lighting that highlights the texture of the suit and creates a moody, heroic ambiance."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670323",
+      "title": "Sovereign of the Skies",
+      "slug": "sovereign-of-the-skies",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Ultra-high-resolution cinematic fantasy aerial shot inspired by the world of Pandora (Avatar).\n\nA GIGANTIC, MASSIVE Toruk (Leonopteryx) with an enormous wingspan, clearly MUCH LARGER than the human rider, rendered at movie-accurate epic scale, flying at extreme altitude above a fantastical alien landscape.\nThe ENTIRE CREATURE is fully visible in frame from head to tail, wings completely spread wide, captured in an extra-wide-angle aerial perspective that dramatically exaggerates size, dominance, and power.\nCreature Details\nThe Toruk has a fierce, dragon-like alien anatomy, with rich crimson and burnt-orange skin tones, dark volcanic markings, semi-translucent wing membranes, razor-sharp claws, and intense predatory eyes.\n\nSkin texture is hyper-detailed, organic, and realistic, with subtle veins and leathery surfaces visible under cinematic light.\nRider & Pose (Commanding / Heroic)\nME riding the Toruk in a powerful lean-back command pose:\n\nUpper body slightly leaned back, chest open and confident\nOne hand gripping the reins tightly for control\nThe other hand raised outward in a fearless, dominant gesture\nLegs firmly locked and balanced on the Toruk’s back\nExpression calm, bold, and authoritative\nModern casual outfit (white t-shirt, dark pants, sneakers), realistic fabric movement reacting to wind\nThe rider appears small compared to the Toruk, reinforcing the creature’s colossal scale.\nBackground & Composition\nFloating mountains placed VERY FAR BELOW, positioned near the bottom of the frame, partially shrouded in mist\nVolcanic terrain and glowing lava rivers spreading across the LOWER RIGHT background, emitting warm orange light\nVast open sky and dramatic clouds filling the TOP and LEFT portions of the frame\nStrong atmospheric depth layering with clouds, fog, and distance haze to emphasize altitude and scale\nThe Toruk dominates the center of the frame, unmistakably the focal point\nLighting & Cinematic Style\nEpic cinematic lighting with natural sunlight from above, soft rim light on wings and rider\nSubtle volumetric clouds and aerial haze\nHigh contrast between cool sky blues and warm volcanic oranges\nUltra-realistic shadows, dynamic motion blur on wing tips\nFilm-grade color grading, IMAX-level realism\nTechnical / Quality Tags\nUltra-realistic, hyper-detailed, 8K quality, cinematic fantasy, epic scale, wide-angle aerial shot, dramatic composition, realistic motion, professional VFX, movie still, photoreal CGI, depth of field, global illumination\nAspect Ratio\n3:4 vertical composition",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 680,
+      "copy_count": 621,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "local_path": "images/movies/Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_ujhjrujhjrujhjru.jpg",
+          "width": 1254,
+          "height": 1680,
+          "alt": "Gemini AI Generated Image: a thrilling fantasy scene featuring a young man riding atop a massive, winged creature that resembles a cross between a dragon and a pterosaur. The beast has a vibrant, patterned hide with rusty red, orange, and black markings similar to tiger stripes, along with a long, crested head and a sharp beak. The rider, dressed casually in a grey t-shirt and dark pants, sits securely on the creature's back, holding a rein with one hand while waving the other enthusiastically, his expression filled with joy and excitement. They are soaring through a cinematic atmosphere populated by misty, floating rock formations, while the dark landscape far below is crisscrossed with glowing rivers of molten lava, creating a dramatic contrast between the airy sky and the volcanic ground."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670208",
+      "title": "Venom action",
+      "slug": "venom-action",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a 16K ultra-realistic, cinematic Hollywood action scene using the uploaded reference image of the same young man (100% exact facial match, do not alter face shape, skin tone, facial structure, or identity in any way). The man is captured in a dynamic crouched superhero landing pose, one knee bent forward, one hand firmly pressed against the concrete floor, the other arm extended backward for balance. His expression is intense, focused, and fearless, with sharp eyes locked forward. He wearing a dark fitted jacket over a neutral t-shirt, slim dark jeans, and rugged boots, all slightly worn for realism. From his back, a Venom-like symbiote entity violently erupts, partially merged with his body. The symbiote appears glossy black, organic yet metallic, with long twisting tendrils and sharp, claw-like extensions spreading outward. A semi-formed monstrous head emerges over his shoulder, featuring razor-sharp teeth, an exaggerated grin, wet reflective textures, and glowing white eyes, creating a menacing presence. The symbiote feels alive, mid-motion, as if expanding and reacting to the environment. Environment & Setting The scene takes place inside a large abandoned industrial warehouse with high ceilings, steel beams, tall grid windows, and concrete flooring. The space is filled with cinematic fog and dust particles floating in the air. Sparks and debris scatter near the ground, suggesting recent impact or action. Lighting & Color Tone Strong cinematic lighting contrast: Warm orange sparks and firelight from the left Cool blue rim light and practical lights from the right Volumetric light beams cut through the fog from overhead windows Subtle lens flares, motion blur, and light streaks enhance action intensity Realistic reflections on the wet concrete floor beneath the character Film-grade color grading with teal-orange Hollywood tone Camera & Style Low-angle, wide cinematic shot Shallow depth of field with sharp subject focus Hyper-detailed textures (skin pores, fabric fibers, symbiote surface) Photorealistic CGI blended seamlessly with live-action realism Subtle film grain for a blockbuster movie look Quality & Constraints Ultra-detailed, photorealistic, cinematic, high contrast, IMAX-level realism, dynamic motion energy. Create Image in 4:5 Aspect ratio. Do NOT change the face or identity. Face must remain exactly the same as the reference image. No exaggeration or stylization of facial features.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 52,
+      "view_count": 2281,
+      "copy_count": 2348,
+      "is_premium": false,
+      "published_at": "2026-09-21T22:13:39.412Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_7eu1u37eu1u37eu1.jpg",
+          "local_path": "images/movies/Gemini_Generated_Image_7eu1u37eu1u37eu1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7eu1u37eu1u37eu1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_7eu1u37eu1u37eu1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_7eu1u37eu1u37eu1.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: A full photograph of a man in a dynamic superhero landing pose, mid-crouch on a concrete floor with his fist hitting the ground, creating a shower of orange sparks. He has short brown hair and wears a dusty leather jacket, t-shirt, dark jeans, and work boots. A glossy black Venom-like symbiote with a snarling head, sharp teeth, and long tongue emerges from over his shoulder, its tendrils and claws wrapping around his torso and arm. The scene is an abandoned, industrial warehouse with high windows, concrete pillars, and dust and debris in the air, illuminated by shafts of sunlight and the light from the sparks. The atmosphere is intense and cinematic."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ac",
+      "title": "A Madagascar Selfie in Real Life",
+      "slug": "a-madagascar-selfie-in-real-life",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a scene with a man wearing glasses taking a selfie with the three Madagascar gang members: Alex is holding the man's shoulder, Marty the zebra is holding a bag of spilt popcorn, and Melman is wearing 3D glasses. The background is the 3D zoo from the Madagascar movie. Madagascar gang members are making funny faces, and the man is making a happy face. The man with glasses is wearing a black and yellow Varsity jacket, a white shirt, and Ray-Ban sunglasses(clear glasses). Aspect ratio 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 876,
+      "copy_count": 1197,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_udua07udua07udua-1.jpeg",
+          "local_path": "images/movies/Gemini_Generated_Image_udua07udua07udua-1.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_udua07udua07udua-1.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/Gemini_Generated_Image_udua07udua07udua-1.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/Gemini_Generated_Image_udua07udua07udua-1.jpeg",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini Generated Image: A smiling young man in glasses and a black and yellow jacket is taking a selfie with animated characters from the movie Madagascar (a lion, a zebra, and a giraffe wearing 3D glasses) at a zoo entrance. He is holding a bucket of popcorn."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267024b",
+      "title": "The Frontman's Stare",
+      "slug": "the-frontmans-stare",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "“Use the face from the reference image, same hairstyle, same skin tone, same facial structure.”\n“Create a dramatic cinematic portrait of a young man standing in a dark futuristic room illuminated with red neon lights. He is wearing a sleek black leather tactical suit with sharp seams and a high collar. His expression is intense and confident. Behind him, several masked guards stand in red hooded jumpsuits with black face masks displaying white geometric symbols (circle, triangle, square). The atmosphere is mysterious, tense, and high-contrast like a dystopian survival game. Ultra-detailed skin texture, realistic lighting, sharp focus, glossy leather material, deep shadows, 8K quality, moody sci-fi tone.”",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 549,
+      "copy_count": 583,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251202_220851.jpg",
+          "local_path": "images/movies/IMG_20251202_220851.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251202_220851.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/IMG_20251202_220851.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/IMG_20251202_220851.jpg",
+          "width": 1728,
+          "height": 2364,
+          "alt": "Gemini Generated Images: a handsome man in a black leather jacket standing in a dark, red-lit corridor. Behind him, four figures in red hooded jumpsuits and black masks (like those from the show Squid Game), each displaying a circle, triangle, or square shape, are standing out of focus. The overall mood is intense and dramatic."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670243",
+      "title": "Stranger Things Fan Poster",
+      "slug": "stranger-things-fan-poster",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a high-quality, ultra-realistic photo using the face from the reference without any changes or distortions — maintain all original facial features exactly. Stranger Things–style character poster. Dark, eerie forest from the Upside Down, twisted tree silhouettes, blue-black atmosphere. A large glowing red neon number ‘5’ behind the character, casting strong red rim-light on edges. Cinematic dramatic lighting on the face, moody expression. Character standing centered, wearing a grey padded jacket and black shirt. High-contrast shadows, soft volumetric fog in background.\nRetro neon typography at bottom: ‘STRANGER THINGS’ in signature red glow. Additional subtitle text: ‘ONE LAST ADVENTURE. VOL. 1 — NOV 26, THE FINALE.’\n4K resolution, ultra-realistic poster design, Netflix series aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 671,
+      "copy_count": 586,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251201_123416.jpg",
+          "local_path": "images/movies/IMG_20251201_123416.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251201_123416.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/IMG_20251201_123416.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/IMG_20251201_123416.jpg",
+          "width": 1696,
+          "height": 2501,
+          "alt": "Gemini Generated: A man with a beard and intense gaze, wearing a quilted jacket, stands centered in a dark, forested scene under a large, glowing red neon number \"5,\" with the text \"STRANGER THINGS,\" \"ONE LAST ADVENTURE,\" and date information below, suggesting a promotional poster for the final season of the series."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267023e",
+      "title": "Stranger Thing Season 5",
+      "slug": "stranger-thing-season-5",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a high-quality, ultra-realistic photo using the face from the reference without any changes or distortions — maintain all original facial features exactly.\n1. Main Subject (Character)\nA young man with medium-length or slightly long wavy hair.\nIntense, serious, tense expression with a piercing gaze directly at the viewer.\nFace illuminated from both sides with dramatic rim lighting.\nWearing an olive-gray jacket with the collar slightly raised, a simple white T-shirt underneath.\nStyle: hyperrealistic, cinematic portrait, detailed skin pores, sharp hair texture, professional color grading, crisp high-resolution finish.\n2. Atmosphere and Background (Upper Section)\nStrong fantasy/sci-fi lighting surrounding him.\nLeft side filled with cool tones — deep blue, cyan, violet, soft haze.\nRight side filled with warm tones — crimson, fiery orange, blood-red glow.\nVisual effect of two dimensions colliding: fog, smoke, light streaks, mild plasma-like textures.\nOverall vibe: dark fantasy + sci-fi horror, Stranger Things–inspired atmosphere.\n3. Lower Section (Foreground & Monster)\nA silhouette of the Demogorgon at chest level of the male subject, poised in a threatening battle stance.\nSurrounding him: vine-like tendrils, creeping roots, and textures from the Upside Down.\nGround featuring slimy growths, small eggs/spores, glowing inner highlights (purple-blue + black palette).\nSubtle bioluminescent mist rising upward.\n4. Overall Quality & Style\nUltra-high resolution, 8K.\nDramatic studio lighting with volumetric fog and rim lights.\nHighly polished movie-poster aesthetic, epic composition, balanced color contrast.\nEmotion: danger, intensity, supernatural tension, heroic struggle.\nNegative Prompt:\nno oil painting, no illustration, no drawing, no anime, no cartoon, no fantasy art style, no 3D render, no CGI look, no plastic skin, no soft glowing beauty lighting, no distortion of facial features.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 44,
+      "view_count": 1132,
+      "copy_count": 2186,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251201_121756.jpg",
+          "local_path": "images/movies/IMG_20251201_121756.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251201_121756.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/IMG_20251201_121756.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/IMG_20251201_121756.jpg",
+          "width": 1888,
+          "height": 2264,
+          "alt": "Gemini Generated: A man with intense eyes and dark hair is depicted in a dramatic, digitally rendered image, framed by red and blue lightning effects and surrounded by thorny vines and a small silhouette of a Demogorgon-like creature in the foreground, suggesting a theme of dark fantasy or science fiction, possibly inspired by Stranger Things"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670231",
+      "title": "Welcome to Stranger Things",
+      "slug": "welcome-to-stranger-things",
+      "category": "Movies",
+      "category_slug": "movies",
+      "prompt": "Create a realistic high-quality photo using the reference face without changes. Inspired by Stranger Things, capturing the dark, mysterious Upside Down.\nMain Subject: Young, slim girl with expressive eyes, tense but determined expression, long wavy hair flowing dynamically. Standing in a three-quarter turn, looking over her shoulder. White fitted T-shirt and short denim shorts. Warm red light casts sharp shadows.\nBackground: Dark green rectangular “WELCOME TO HAWKINS” sign on two posts, worn look, grass at base. Sky dominates: crimson, orange, dark red clouds, internally lit, bright central lightning.\nMonster / Threat: Massive black clawed/spider-like limbs descending from clouds, looming around the sign.\nDetails & Effects: Floating glowing particles (ash, spores, sparks). Cinematic contrast: sign in shadow, background brightly lit.\nStyle & Technique: Horror/thriller, cinematic photorealism, sharp focus on the girl, shallow depth of field, slight film grain, camera from below for majestic sky view.\nPhotorealistic style: The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 817,
+      "copy_count": 825,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251129_205454.jpg",
+          "local_path": "images/movies/IMG_20251129_205454.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251129_205454.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/movies/IMG_20251129_205454.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/movies/IMG_20251129_205454.jpg",
+          "width": 1856,
+          "height": 2292,
+          "alt": "Ai generated image of a female character in stranger things style"
+        }
+      ]
+    }
+  ]
+}

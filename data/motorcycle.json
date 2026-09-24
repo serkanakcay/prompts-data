@@ -1,0 +1,474 @@
+{
+  "category": "Motorcycle",
+  "slug": "motorcycle",
+  "total_prompts": 12,
+  "updated_at": "2026-09-24T13:10:03Z",
+  "prompts": [
+    {
+      "id": "6aa6d4c646d4207dc2859102",
+      "title": "Cinematic Ducati Motorcycle Portrait",
+      "slug": "cinematic-ducati-motorcycle-portrait",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Use the uploaded photo strictly as the facial identity reference only. Ignore the original pose, clothing, framing, lighting and background. Preserve the person’s natural facial identity and likeness.\nCreate a hyper-realistic cinematic vertical 4:5 full-body portrait of a stylish man sitting confidently on a modern customized Ducati XDiavel V4-style motorcycle.\nShow the bike in a around three-quarter angle, with the entire motorcycle fully visible. The motorcycle must have a white / metallic-gray / black body with a clearly visible red trellis frame in the center section, plus black wheels and subtle red rim accents. Keep the bike aggressive, premium and true to Ducati-style proportions.\nThe man is seated naturally on the saddle with both feet on the ground, torso slightly leaning forward, and both forearms resting casually on a glossy black full-face helmet placed on the fuel tank.\nOutfit: muted khaki/taupe fitted hoodie, slim black pants, clean white low-top sneakers, black rectangular sunglasses. Expression calm, confident, slightly serious, looking directly at the camera.\nEnvironment: modern upscale urban plaza with dark charcoal-gray rectangular stone pavement, contemporary glass-and-concrete buildings in the background, softly blurred but still recognizable, and a few warm amber streetlights creating subtle bokeh.\nLighting: soft late-overcast afternoon light, just before dusk, with enough daylight to clearly illuminate the subject and motorcycle. Keep the rider and bike slightly brighter than the background. Maintain soft shadows, visible detail in the black clothing and dark mechanical parts, and soft controlled highlights on the metallic motorcycle surfaces.\nColor palette: cool gray, blue-gray, black, metallic gray, muted taupe, with warm amber streetlights and the distinct red trellis frame as an important visual feature.\nCamera: eye-level, 70–85mm portrait perspective, moderate shallow depth of field. Keep the rider and bike sharp, background softly separated.\nAvoid: underexposed subject, crushed blacks, pale pavement, excessive blur, bright daylight look, strong warm cast, generic bike design, missing red trellis frame, warped motorcycle parts, duplicate mirrors/handlebars, extra fingers, floating helmet, or cropped wheels.",
+      "description": "Use this urban lifestyle photography prompt to create a photorealistic portrait of a stylish man in a hoodie and sunglasses sitting on a Ducati motorcycle.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 17,
+      "view_count": 1714,
+      "copy_count": 1096,
+      "is_premium": false,
+      "published_at": "2026-09-13T16:52:22.486Z",
+      "images": [
+        {
+          "filename": "e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "local_path": "images/motorcycle/e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-sitting-on-ducati-bike-image-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "local_path": "images/motorcycle/e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-sitting-on-ducati-bike-image-ai-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "local_path": "images/motorcycle/99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "original_url": "https://img.promptplum.com/promptImages/99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Urban Lifestyle Photography of Man on Ducati AI Photo Prompt. AI generated photorealistic portrait of a stylish bearded man in a beige hoodie and sunglasses sitting on a white and red Ducati motorcycle on a city street."
+        },
+        {
+          "filename": "0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "local_path": "images/motorcycle/0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-sitting-on-ducati-bike-image-ai-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "local_path": "images/motorcycle/4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Urban Motorcycle Photography AI Photo Editing Prompt. AI generated portrait of a man in a hoodie and sunglasses sitting on a white Ducati motorcycle on a city street."
+        }
+      ]
+    },
+    {
+      "id": "6a7b83cc4bbdbe2cf597fb2c",
+      "title": "Urban Biker Portrait",
+      "slug": "urban-biker-portrait",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "The subject is a stylish young man standing beside a premium black sports motorcycle on a city street. He is positioned slightly toward the center of the frame, photographed from approximately waist/thigh level upward with a slightly low, confident camera angle.\n\nPOSE & BODY LANGUAGE:\nThe subject stands in a relaxed yet powerful biker pose. His upper body is slightly angled toward the camera. His left arm is naturally lowered forward and he is holding a glossy black full-face motorcycle helmet in his left hand near his hip/thigh. His right arm hangs naturally beside his body with the right hand wearing a black leather motorcycle glove. Shoulders relaxed, posture confident and masculine, natural body proportions. Head slightly tilted and turned toward the camera, with a calm, serious and confident expression.\n\nFACE & EXPRESSION:\nUse the uploaded person's exact face and identity. Natural masculine facial structure, realistic skin texture, subtle beard/stubble if present in the reference person, sharp but natural facial details. Calm, composed, slightly serious expression. Eyes looking naturally toward the camera. Add realistic black aviator sunglasses with dark reflective lenses, while keeping the person's facial identity recognizable.\n\nHAIRSTYLE:\nKeep the person's original hairstyle from the uploaded reference wherever possible, with naturally styled short hair and realistic individual hair strands. Avoid artificial or overly perfect hair.\n\nOUTFIT:\nThe subject wears a premium fitted black leather motorcycle jacket with realistic genuine-leather texture. The jacket has a high stand-up collar, central metallic zipper, two horizontal zippered chest pockets, angled zippered side pockets, detailed padded/quilted stitching on the shoulders and upper sleeves, and realistic seams throughout. Under the jacket, he wears a plain fitted black crew-neck T-shirt.\n\nHe wears dark charcoal/black slim-fit denim jeans with subtle natural fabric texture and realistic folds.\n\nBoth hands are wearing premium black motorcycle leather gloves with detailed stitching, padded knuckle areas and realistic leather texture.\n\nHELMET:\nIn his left hand, include a premium glossy black full-face motorcycle helmet. The helmet should have a smooth aerodynamic shell, dark reflective visor, realistic highlights and subtle reflections of the surrounding environment. Keep the helmet positioned exactly near the lower-left side of his torso as shown in the reference.\n\nMOTORCYCLE:\nA premium black modern sports motorcycle is partially visible behind and below the subject. Only portions of the motorcycle should be visible, naturally blurred by shallow depth of field. Include realistic black bodywork, metallic components, handlebars and mechanical details without making the motorcycle dominate the frame.\n\nBACKGROUND:\nRecreate the same outdoor urban street environment as the reference. Green leafy trees and soft foliage appear on the left side, while a modern building/street structure appears on the right side. The background should be naturally out of focus with strong cinematic bokeh. Keep the overall background muted, elegant and realistic, with soft neutral gray, green and black tones.\n\nLIGHTING:\nUse premium natural cinematic daylight with soft diffused light falling naturally across the subject. Subtle highlights on the black leather jacket, helmet visor and sunglasses. Realistic shadows, soft ambient lighting and balanced exposure. No harsh flash, no artificial-looking lighting.\n\nCAMERA & COMPOSITION:\nVertical portrait orientation, approximately 4:5 aspect ratio. Medium-full body fashion/biker portrait, matching the reference framing. Subject fills most of the frame while leaving a small amount of environmental space around him. Professional high-end fashion photography, 85mm portrait lens look, shallow depth of field, realistic perspective, creamy natural background bokeh, sharp focus on the face, jacket and helmet.\n\nAspect ratio 4:5\n\nIMAGE QUALITY:\nUltra-photorealistic, 8K resolution, extremely detailed skin texture, realistic pores, individual hair strands, detailed leather grain, stitching and fabric textures, physically accurate reflections, natural shadows, realistic depth, high dynamic range, cinematic color grading, premium professional photography, crisp subject separation, natural contrast, subtle filmic look.\n\nIMPORTANT:\nKeep the person's identity from the uploaded photo unchanged. Match the reference image's pose, framing, camera perspective, outfit design, helmet position, motorcycle placement, background composition, lighting and overall mood as closely as possible. The result must look like a real professionally photographed premium motorcycle fashion portrait, not an AI-generated image.\n\nNEGATIVE PROMPT:\ncartoon, illustration, CGI look, 3D render, plastic skin, over-smoothed face, altered identity, different face, distorted facial features, extra fingers, missing fingers, deformed hands, bad anatomy, unnatural body proportions, duplicate helmet, duplicate motorcycle, blurry face, low resolution, excessive sharpening, oversaturated colors, artificial skin, fake leather, warped sunglasses, distorted motorcycle parts, unrealistic reflections, harsh flash, flat lighting, messy background, excessive bokeh, text, watermark, logo.",
+      "description": "Use this Cinematic Biker Style photography prompt to create a rugged portrait of a man in a black leather jacket, holding a helmet beside his motorcycle on a city street.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 13,
+      "view_count": 540,
+      "copy_count": 417,
+      "is_premium": false,
+      "published_at": "2026-08-22T06:07:40.999Z",
+      "images": [
+        {
+          "filename": "281179d9-e072-4add-bfc7-a1bca420fd8e.webp",
+          "local_path": "images/motorcycle/281179d9-e072-4add-bfc7-a1bca420fd8e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/281179d9-e072-4add-bfc7-a1bca420fd8e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/281179d9-e072-4add-bfc7-a1bca420fd8e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/281179d9-e072-4add-bfc7-a1bca420fd8e.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Urban Biker Portrait AI Photo Editing Prompt. AI generated hyper-realistic portrait of a handsome man in a black leather jacket and aviator sunglasses holding a motorcycle helmet on a city street."
+        },
+        {
+          "filename": "5597917c-5be6-474b-ad3a-d7ca5727522c.webp",
+          "local_path": "images/motorcycle/5597917c-5be6-474b-ad3a-d7ca5727522c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5597917c-5be6-474b-ad3a-d7ca5727522c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/5597917c-5be6-474b-ad3a-d7ca5727522c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/5597917c-5be6-474b-ad3a-d7ca5727522c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Biker Style Leather Jacket AI Photo Editing Prompt. AI generated realistic portrait of a curly-haired man in a black leather jacket and aviator sunglasses holding a motorcycle helmet beside a black motorbike."
+        },
+        {
+          "filename": "d2d28ab1-ae4e-443f-a21e-2b035560d122.webp",
+          "local_path": "images/motorcycle/d2d28ab1-ae4e-443f-a21e-2b035560d122.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d2d28ab1-ae4e-443f-a21e-2b035560d122.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/d2d28ab1-ae4e-443f-a21e-2b035560d122.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/d2d28ab1-ae4e-443f-a21e-2b035560d122.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated portrait of a biker in black leather jacket holding a helmet by a motorcycle."
+        }
+      ]
+    },
+    {
+      "id": "6a5e507ca3af6f12205b588a",
+      "title": "Monsoon Pause",
+      "slug": "rain-motorcycle-photography",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Create a cinematic, ultra-realistic rainy-day portrait of a man leaning casually against a black z900 motorcycle on a wet countryside road. He has wet, messy hair, and a happy, contemplative expression while looking directly at the camera. He wears a dark green waterproof hooded rain jacket over a black t-shirt, black track pants with white side stripes, and black athletic sneakers. One arm rests naturally on the motorcycle's fuel tank while the other hangs relaxed by his side.\nThe scene is set in a lush tropical landscape surrounded by dense green foliage and mist-covered hills. Heavy rain is falling, creating visible raindrops, water streaks, and reflections on the glossy asphalt. The motorcycle and clothing are soaked, with realistic water droplets and wet textures. Above, dramatic dark storm clouds dominate the sky, adding a moody and atmospheric feel.\nShot as a full-body vertical portrait from eye level using an 85mm lens, with shallow depth of field (f/1.8), cinematic composition, soft natural overcast lighting, no under exposed face, ultra-detailed skin texture, high dynamic range, rich green tones, subtle fog, reflective wet road surface, environmental storytelling, professional photography, ultra-detailed, hyper-realistic, 8K resolution, magazine-quality outdoor portrait, moody monsoon aesthetic.\nAspect ratio 4:5.",
+      "description": "Realistic Portrait Photography Prompt: Copy & Paste this Prompt to create a lifelike photograph of a man leaning on a Z900 on a rainy mountain road.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 34,
+      "view_count": 2498,
+      "copy_count": 2496,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:47:09.459Z",
+      "images": [
+        {
+          "filename": "669138e4-9316-4396-8243-8ab5c111430a.jpeg",
+          "local_path": "images/motorcycle/669138e4-9316-4396-8243-8ab5c111430a.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/669138e4-9316-4396-8243-8ab5c111430a.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/669138e4-9316-4396-8243-8ab5c111430a.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/669138e4-9316-4396-8243-8ab5c111430a.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man and Wet Kawasaki Z900 Photo AI Photo Editing Prompt. AI generated realistic portrait photo of a wet man in a green jacket leaning on a black and green Kawasaki Z900 motorcycle on a rain-soaked jungle road with misty mountains."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526701ed",
+      "title": "Cinematic Rider",
+      "slug": "cinematic-rider",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Create an ultra-realistic cinematic 8K image of a man sitting confidently on a modern scrambler motorcycle in 3/4 side view on a clean, empty highway.\nIdentity (Strict Constraint):\n\nUse the uploaded reference image ONLY for the face. Preserve exact facial structure, proportions, skin tone, and natural imperfections. No beautification, no changes, no identity drift.\n\nSubject Appearance:\nBlack rectangular sunglasses with dark lenses\nDark charcoal grey wool sweater with subtle knit texture\nOlive green slim-fit cargo pants with functional side pockets\nRugged brown leather hiking boots with natural wear and detailed texture\n\nPose & Body Mechanics:\nSeated firmly on the motorcycle\nSlight forward lean (natural riding posture)\nBoth hands gripping handlebars naturally (no stiffness)\nOne foot on the ground for balance\nOther foot is resting on the motorcycle foot peg correctly\n\nExpression: calm, focused, confident\n\nGaze: gaze toward camera\n\nMotorcycle (High Detail Priority):\nPremium classic scrambler\nMatte silver fuel tank with centered Triumph logo\nBlack compact engine with visible cooling fins\nCurved metallic exhaust pipe with realistic heat discoloration\nThick off-road knobby tires, spoke wheels\nBrown leather seat with stitching\nVisible suspension, shock absorbers, dual disc brakes, cables\nAccurate mechanical detailing with realistic metal reflections\n\nCamera & Composition:\nLow-angle shot (near ground level)\nSlight upward perspective for strong presence\nFull motorcycle visible in frame (no cropping)\nSlightly asymmetrical composition (avoid perfect centering)\nNatural photographic framing\n\nEnvironment:\nClean, modern empty highway\nSubtle road surface texture\nBackground softly blurred\n\nMinimal elements: distant guardrails, light poles\nNo clutter, no people\n\nLighting & Color:\nNatural daylight\nSoft directional lighting\nRealistic shadows and highlights\nSlightly warm, muted cinematic color grading\n\nRendering Quality:\nPhotorealistic\nUltra-sharp subject focus\nShallow depth of field\nHigh dynamic range\nRealistic materials and textures\nNo distortion, no stylization artifacts\n\nOutput Constraints:\nAspect ratio: 1:1\nNo extra people or objects\nNo artificial symmetry\nFace must match reference exactly",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 137,
+      "view_count": 4178,
+      "copy_count": 12417,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_5qv19v5qv19v5qv1.webp",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_5qv19v5qv19v5qv1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_5qv19v5qv19v5qv1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_5qv19v5qv19v5qv1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_5qv19v5qv19v5qv1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_krq3wikrq3wikrq3.webp",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_krq3wikrq3wikrq3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_krq3wikrq3wikrq3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_krq3wikrq3wikrq3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_krq3wikrq3wikrq3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_idfe3eidfe3eidfe.webp",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_idfe3eidfe3eidfe.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_idfe3eidfe3eidfe.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_idfe3eidfe3eidfe.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_idfe3eidfe3eidfe.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670469",
+      "title": "Horizon Bound",
+      "slug": "peaceful-anime-man-grassy-landscape",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Create an 8k high-quality 2D digital illustration in a modern anime style with vibrant saturated colors, precise linework, and atmospheric lighting.\n\nUse the uploaded reference image as the identity source. The generated image must match the same person exactly. Preserve precise facial structure, skull shape, grooming details,  eyes, lips, and overall anatomical proportions. Maintain true identity fidelity.\n\nComposition & Camera:\n\nLow-angle worm’s-eye view looking upward. The subject is placed slightly right of center, with a classic motorcycle balancing the left side of the frame. Foreground grass is slightly blurred, midground (subject + bike) is sharp, and the sky maintains softer clarity for depth.\n\nSubject & Expression:\n\nA man with a natural complexion. He has a calm, contemplative expression, gazing upward with a sense of quiet hope.\n\nPose:\n\nSeated in tall grass with knees slightly raised, forearms resting casually across them, hands relaxed. Posture is natural, grounded, and thoughtful.\n\nOutfit:\n\nOlive green casual overshirt/jacket worn open, featuring visible stitching and chest pockets, layered over a plain off-white crew-neck t-shirt.\n\nPaired with dark indigo denim jeans with natural folds and slight texture.\n\nThe outfit feels modern, minimal, and realistic with soft fabric shading and subtle creases.\n\nEnvironment:\n\nA lush field of tall green and yellow-green grass surrounds the subject.\n\nBehind him (left side), a retro-style motorcycle with a chrome headlight, a black fuel tank, a spoked wheel, and visible mechanical details.\n\nSky & Background:\n\nExpansive bright blue sky filled with large fluffy cumulus clouds, adding depth and scale.\n\nLighting:\n\nStrong natural daylight from the upper right.\n\nWarm golden highlights on the right side of the face, hair, and arms.\n\nSoft cel-shaded shadows on the left side of the body and clothing.\n\nGrass glows with luminous yellow-green highlights.\n\nDetails & Style:\n\nDetailed face textures\n\nClean, thin anime-style linework\n\nSoft gradient + cel shading mix\n\nSubtle metallic reflections on motorcycle parts\n\nDetailed hair and layered grass textures\n\nCinematic, peaceful, slightly nostalgic mood \n\nAspect ratio 4:5",
+      "description": "",
+      "ai_tools": [],
+      "like_count": 21,
+      "view_count": 497,
+      "copy_count": 709,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:47:34.783Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_5ob09c5ob09c5ob0.webp",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_5ob09c5ob09c5ob0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_5ob09c5ob09c5ob0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_5ob09c5ob09c5ob0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_5ob09c5ob09c5ob0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703df",
+      "title": "Digital Drifter",
+      "slug": "cyberpunk-futuristic-motorcycle-neon-city",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Create a photorealistic 4K cinematic portrait of a man sitting on an advanced futuristic custom motorcycle in a high-tech urban night environment. Use the uploaded reference image for accurate face matching and identity consistency.\nVery low-angle front three-quarter camera view, camera positioned close to ground level looking upward, making the motorcycle visually dominant and powerful in the frame. Full motorcycle visible, with properly exaggerated scale and presence compared to the rider. 85mm lens, shallow depth of field.\nThe rider wears aviator sunglasses, a black fitted hoodie, black cargo pants, and white sneakers. He sits upright on the motorcycle with a relaxed but confident posture, both hands resting on a matte black helmet placed on the tank. Expression calm and composed, looking toward the camera.\nThe motorcycle is a heavily customized futuristic concept machine with oversized proportions and advanced industrial design. Matte-black armored panels with sharp aerodynamic geometry, exposed mechanical elements mixed with futuristic components, illuminated seams, integrated red LED rim lighting, thin horizontal LED headlight strip, subtle glowing accents along body contours, extremely wide tires, massive rear wheel, and a sculpted, aggressive silhouette. The bike feels experimental and next-generation rather than modern-day.\nLighting: cinematic futuristic night lighting with neon and LED sources from the environment. Soft frontal key lighting ensures the subject and motorcycle remain clearly visible. Strong rim lighting from surrounding neon signage and vehicle lights creates separation and highlights edges of the bike and rider. Natural skin tones preserved with controlled reflections on sunglasses.\nEnvironment: futuristic urban industrial street at night with neon signage, holographic reflections, illuminated architectural elements, distant traffic light streaks, soft atmospheric haze, and wet pavement reflecting colored light sources. Background remains slightly out of focus to maintain subject dominance.\nHDR lighting, global illumination, ray-traced reflections, photorealistic materials, volumetric lighting, ultra-detailed cinematic realism.\nAspect ratio 4:5 or 1:1.",
+      "description": "Google Gemini AI Cinematic Photo Editing Prompt: Use this prompt to create a futuristic neon-noir visual of a stylish man posing with a matte black superbike against a glowing cyberpunk city background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 641,
+      "copy_count": 599,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "local_path": "images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cyberpunk Biker in Neon City AI Photo Editing Prompt. AI generated digital illustration of a man in a black hoodie and sunglasses posing with a futuristic motorcycle on a neon-lit urban street at night."
+        },
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "local_path": "images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "local_path": "images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/cyberpunk-motorcycle-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cyberpunk Biker on Futuristic Motorcycle AI Photo Editing Prompt. AI generated cinematic digital illustration of a young man in a black hoodie and sunglasses posing on a matte black motorcycle with neon-glowing wheels in a rainy, futuristic city."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267037a",
+      "title": "Little Rebel, Big City",
+      "slug": "little-rebel-big-city",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Reference & Style\n\nReference: Upload reference image for face match\n\nArt Style: High-quality 3D realistic caricature\n\nAesthetic: Bobblehead style (oversized head, small body)\n\nRendering Engine: Unreal Engine 5\n\nResolution & Quality: 8K, sharp focus\n\nAspect Ratio: 4:5\n\nOverall Look: Cinematic, energetic open-road daytime vibe\n\nSubject (Rider)\n\nGender: Male\n\nExpression: Friendly smile\n\nHair: Natural hairstyle\n\nGaze: Looking directly into the camera\n\nAction: Subject riding a bike\n\nPose & Balance:\n\nHead, torso, and gaze aligned with the motorcycle’s centerline\n\nVisually balanced mass with the bike\n\nClothing & Accessories\n\nWhite t-shirt with black skull graphic, black leather jacket\n\nDistressed black skinny jeans\n\nBlack biker boots\n\nMotorcycle\n\nType: Matte black cruiser motorcycle\n\nDetails: Chrome forks, vintage headlight\n\nAction: Rear tire performing a burnout with visible smoke\n\nAlignment: Front wheel, headlight, and fuel tank aligned on the same vertical axis\n\nScene & Environment (Premium Modern City)\n\nLocation: Wide, upscale modern city boulevard\n\nBackground Elements:\n\nLuxury glass skyscrapers and premium commercial towers\n\nClean, minimalist urban architecture with wide spacing\n\nPolished asphalt road with subtle lane markings\n\nSparse, distant city traffic for scale only\n\nReflections:\n\nSubtle, realistic sunlight reflections on glass façades\n\nSoft reflections of sky and surrounding buildings\n\nReflections aligned with sun direction and camera angle, never overpowering\n\nMotion:\n\nMotion blur on background only\n\nPerfectly symmetrical blur to preserve center focus\n\nLighting & Cinematic Effects\n\nHigh-angle sunlight\n\nStrong daylight illumination\n\nWarm highlights and refined rim lighting\n\nControlled, premium lens flare\n\nSunlight positioned just outside the frame (upper right)\n\nSky & Color Composition\n\nBright, clear blue sky\n\nSmooth gradient from rich medium azure (#2E86C1) to pale cyan near the horizon (#AED6F1)\n\nA few large, soft, wispy clouds\n\nAtmosphere: Clean, luxurious, high-end modern city open-road mood\n\nCamera & Composition Rules\n\nStraight framing\n\nCenter-focused composition\n\nSubject and motorcycle perfectly aligned\n\nBalanced symmetry between rider and bike\n\nSmall elegant signature “PromptPlum.com” with a small red heart at the bottom-right\n\nNegative Prompt (Exclusions)\n\nLow resolution, blur, noise, grain\n\nMotion blur on subject\n\nOverexposed or flat lighting\n\nWatermarks, text, logos\n\nDistorted anatomy or proportions\n\nPlastic or waxy skin\n\nPoor reflections or fake lighting\n\nMessy or cluttered city background\n\nUnrealistic smoke or motion",
+      "description": "Create stunning 3D caricature images with this detailed Gemini AI Image prompt. Generates a hyper-realistic stylish man with a big head riding a motorcycle through a busy city.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 790,
+      "copy_count": 1207,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_fgb8plfgb8plfgb8.jpg",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_fgb8plfgb8plfgb8.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_fgb8plfgb8plfgb8.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_fgb8plfgb8plfgb8.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_fgb8plfgb8plfgb8.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image of a 3D caricature of a smiling man in a leather jacket riding a motorcycle through a sunny city street."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ff",
+      "title": "Wheels up, worries down.",
+      "slug": "wheels-up-worries-down",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Ultra-realistic nighttime action photo of a company-modified KTM-style supermoto bike doing a high wheelie on a modern city street. The bike features bold KTM orange frame, forks, rim accents, and black-white factory graphics, with spoked wheels, large front disc brake, exposed metallic engine, and visible exhaust and chain.\nA soft but powerful left-side light brightly illuminates the rider’s face and upper body, making facial details sharp and clean, while the light source itself is not visible. The lighting naturally wraps around the orange bike, creating vivid highlights and smooth shadows for a cinematic look.\nRider face is clearly visible and confident, leaning back in control, wearing a black hoodie with a large white chest graphic, black riding pants, motocross boots, and dark sunglasses.\nUse the exact face from the reference image — do not change it.\nBackground shows a modern city at night with tall buildings and traffic lights melted into creamy bokeh blur, cool blue tones contrasting with the warm orange bike.\n\nLow-angle, front-left shot, shallow depth of field, high color contrast, IG-viral color grading, crisp details, photorealistic, 8K.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 25,
+      "view_count": 1199,
+      "copy_count": 1596,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:50:06.757Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_vafz18vafz18vafz-1-1.jpg",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_vafz18vafz18vafz-1-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_vafz18vafz18vafz-1-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_vafz18vafz18vafz-1-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_vafz18vafz18vafz-1-1.jpg",
+          "width": 1344,
+          "height": 1545,
+          "alt": "Gemini AI Generated Image: A young man with blonde hair and sunglasses performs a wheelie on a black and orange KTM supermoto motorcycle on a paved city street at twilight. He is wearing a black hoodie with a white logo, motocross pants, and boots, and looks directly at the camera while balancing the bike on its rear wheel. The background features blurred modern buildings and streetlights with cool blue tones."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670290",
+      "title": "Red Hot Steel",
+      "slug": "red-hot-steel",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Face unchanged from uploaded image, create an ultra-realistic 8K HDR render of a male individual, with a dark, short beard and mustache.\nPose/Style: He is seated confidently on a customized, black motorcycle (appearing to be a cruiser/bobber style), leaning slightly forward with his right elbow resting on the fuel tank. His left leg is bent at the knee, with the boot on the ground, and his right leg is bent and resting on the bike's frame/footpeg area. The overall style is cool, rugged, and stylized.\nOutfit and Dress Up\nOuterwear: A bright, vibrant red, quilted puffer jacket with a high collar, zipped up slightly, allowing a glimpse of the shirt underneath.\nInnerwear: A plain, light beige or pale yellow crew-neck t-shirt or sweater.\nPants: Light gray or stone-colored casual pants/jeans. They have a slightly relaxed fit.\nFootwear: Black, lace-up combat or heavy-duty biker boots.\nAccessories: Black-framed sunglasses with dark lenses are worn over his eyes. There appears to be a ring on his right index finger.\nHairstyle: Short, dark, slightly messy, or pushed-back hair.\nMotorcycle Details\nBike Type: Custom Black Cruiser/Bobber style motorcycle.\nColor/Finish: Matte or glossy black.\nLighting: The underside of the motorcycle and the immediate ground are dramatically illuminated by intense, glowing orange/red ambient light. The front headlight (visible on the left) is a dark red hue. Engine details are partially visible with the orange glow.\nFace/Expression Details\nFace Pose: Facing almost directly toward the camera, perhaps turned just a fraction to the left.\nFace Expression: Neutral and stoic but conveying confidence and intensity.\nEye Expression: Not directly visible due to the sunglasses, but the angle and posture suggest a direct, unflinching gaze hidden behind the dark lenses.\nTechnical and Background Details\nBackground: Solid, deep black (absolute void), indicating a studio or dark environment with focused lighting.\nLighting: High-contrast, dramatic, and stylized studio lighting.\nKey Light: Brightly illuminates the subject's face (above the sunglasses) and the red jacket.\nRim/Accent Light: Subtle highlights on the edges of the jacket and hair, separating the subject from the black background.\nAmbient Light: The dominant orange/red uplighting emanating from the floor/under the motorcycle, creating a fiery, aggressive atmosphere.\nCamera Angle: Straight on/Eye-level or slightly low angle, emphasizing the subject's dominance and the bike's low profile.\nQuality: 8K ultra sharp, Ultra Realistic quality, hyper ultra-realistic HDR render. The image exhibits extremely high detail, deep shadows, and luminous highlights, characteristic of professional, high-end studio photography/rendering.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 23,
+      "view_count": 1129,
+      "copy_count": 2277,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:48:22.642Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_nf75ysnf75ysnf75-1.png",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_nf75ysnf75ysnf75-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_nf75ysnf75ysnf75-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_nf75ysnf75ysnf75-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_nf75ysnf75ysnf75-1.png",
+          "width": 960,
+          "height": 1088,
+          "alt": "Gemini Generated Image: A man in a red puffer jacket and sunglasses is sitting on a black motorcycle against a dark background, with red light subtly illuminating the scene."
+        },
+        {
+          "filename": "Gemini_Generated_Image_emunceemunceemun.jpg",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_emunceemunceemun.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_emunceemunceemun.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_emunceemunceemun.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_emunceemunceemun.jpg",
+          "width": 604,
+          "height": 828,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267026b",
+      "title": "Jawa & Jungle",
+      "slug": "jawa-jungle",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Ultra-realistic full-body shot of a stylish young man sitting confidently on a matte grey Jawa 42 bobber motorcycle under lush green trees. He has naturally styled hair, black sunglasses, a black denim jacket over a grey T-shirt, baggy black cargo pants, and white sneakers. One leg on the ground, and the other leg on the brake or the gear, looking to the off-camera. The bike has bold, wide tyres, a dynamic retro design, a black frame, and a Jawa on the fuel tank, A sleek modern bobber-style. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 431,
+      "view_count": 38930,
+      "copy_count": 65177,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:48:50.338Z",
+      "images": [
+        {
+          "filename": "IMG_20251205_145106.jpg",
+          "local_path": "images/motorcycle/IMG_20251205_145106.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_145106.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/IMG_20251205_145106.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/IMG_20251205_145106.jpg",
+          "width": 1888,
+          "height": 2242,
+          "alt": "Gemini Ai Generated Image: A man wearing a black denim jacket and black pants is sitting on a matte grey motorcycle (a Jawa bike) outdoors in a tree-lined area. He is wearing sunglasses and white shoes."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267022a",
+      "title": "Casual stance powerful bike",
+      "slug": "casual-stance-powerful-bike",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Ultra-realistic 8K cinematic full-body portrait of a stylish young man, face and hairstyle exactly from the uploaded reference image, hairstyle perfectly styled and set, face directly toward the camera with a confident slight smile.\nHe has fair bright skin, age late teens to early twenties. He is leaning casually against a matte black Royal Enfield parked outdoors in natural daylight.\nOutfit: white fitted tank top, light pants, white sneakers, and a half white cargo jacket casually draped over his left arm.\nAccessories: bracelet, chain, and wristwatch reflecting soft daylight. Red sunglasses add contrast to his look.\nEnvironment: cinematic outdoor setting, with warm yellow-orange natural light, shallow depth of field, soft shadows, and smooth urban background bokeh.\nStyle: hyper-photorealistic, sharp details, glossy skin texture, magazine-quality tone, perfect lighting balance, DSLR-level clarity, premium lifestyle aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 91,
+      "view_count": 4985,
+      "copy_count": 11675,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:49:33.162Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "local_path": "images/motorcycle/Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "width": 864,
+          "height": 1184,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670214",
+      "title": "Man sits on motorcycle",
+      "slug": "man-sits-on-motorcycle",
+      "category": "Motorcycle",
+      "category_slug": "motorcycle",
+      "prompt": "Create a hyper-realistic, cinematic full-body portrait of a stylish man sitting confidently on a modern customized white-and-black Ducati XDiavel V4 motorcycle, using the uploaded image strictly as the ONLY face reference (preserve exact facial structure, proportions, skin tone, and hairstyle). The subject is seated upright on the bike, legs relaxed on either side, with both hands resting casually on a glossy black helmet placed on the fuel tank. He wears a fitted khaki hoodie, slim black pants, clean white sneakers, and sleek black rectangular sunglasses. His expression is calm, confident, and slightly serious, looking straight toward the camera.\nThe environment is an urban outdoor setting with modern architecture in the background, softly blurred with shallow depth of field. Background features cool neutral tones (gray/blue buildings) with subtle streetlight bokeh creating contrast. No warm color cast on the subject — maintain natural, slightly cool cinematic color grading.\nLighting is soft, diffused natural light (overcast daylight), evenly illuminating the face and outfit with no harsh shadows, combined with subtle ambient reflections from surroundings. No golden-hour warmth — keep tones neutral to slightly cool.\nCamera angle is eye-level, slightly front-facing with a strong centered composition. Full-body framing (no crop at head or feet), with balanced negative space. Shot on 85mm lens, shallow depth of field, ultra-sharp subject focus, smooth background blur. The entire motorcycle must be fully visible in frame — no cropping of front wheel, rear wheel, handlebars, mirrors, or tail section.\nUltra-realistic, 8K resolution, natural skin texture (visible pores, no smoothing), high detail in clothing fabric, motorcycle materials, and reflections.\nAspect ratio: 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 92,
+      "view_count": 2807,
+      "copy_count": 7405,
+      "is_premium": false,
+      "published_at": "2026-09-13T15:46:29.261Z",
+      "images": [
+        {
+          "filename": "b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "local_path": "images/motorcycle/b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Ai generated image of a Man sits on Ducati XDiavel V4 motorcycle"
+        },
+        {
+          "filename": "83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "local_path": "images/motorcycle/83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/motorcycle/83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/motorcycle/83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_4ntxvx4ntxvx4ntx"
+        }
+      ]
+    }
+  ]
+}
