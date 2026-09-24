@@ -10,6 +10,14 @@ Mobil uygulamanızdan (SwiftUI, UIKit, Flutter, React Native vb.) aşağıdaki C
 
 > **Not:** jsDelivr CDN kullanıldığı için GitHub rate-limit sınırına takılmaz, hızlı ve global olarak önbelleklenir.
 
+### 0. Mobil Anasayfa API (Manşet & İlk 3 Kategori)
+Uygulama açılışında manşeti ve altındaki ilk 3 kategoriyi tek istekte getiren ana endpoint:
+```http
+GET https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/data/home.json
+```
+- **Manşet Alanı:** `headline` objesi (sizin belirlediğiniz kategori, örn: Hollywood)
+- **İlk 3 Kategori:** `initial_categories` ve `sections` (Portraits, Cinematic, Cyberpunk vb.)
+
 ### 1. Kategori Listesi (Ana Menü / Keşfet)
 Tüm kategorilerin listesi, prompt sayıları ve ilgili kategori JSON bağlantıları:
 ```http
