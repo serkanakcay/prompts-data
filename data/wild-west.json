@@ -1,0 +1,47 @@
+{
+  "category": "Wild West",
+  "slug": "wild-west",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T13:13:24Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670485",
+      "title": "Outlaw’s Reckoning",
+      "slug": "cowboy-western-montage-illustration",
+      "category": "Wild West",
+      "category_slug": "wild-west",
+      "prompt": "Overview & Style\nCreate an 8K cinematic Western montage illustration styled like a vintage film poster, combining a dominant portrait with narrative sub-scenes. Use painterly textures, subtle grain, and refined editorial detailing for a timeless, story-driven composition.\nFace & Identity Accuracy\nUse the provided image as the ONLY facial reference. Preserve exact facial structure, proportions, skin tone, grooming details, and hair details. Maintain natural skin texture — no beautification or identity alteration.\nComposition & Framing\nDesign the artwork in a 4:5 vertical aspect ratio using a montage layout. A large, centered bust-up portrait should occupy approximately 65–70% of the upper frame, creating a strong focal point with symmetrical balance and eye-level engagement. The lower section should seamlessly blend two narrative sub-scenes: a medium-shot saloon scene on the left and a wide, cinematic desert-riding scene on the right, both softly integrated into the base of the portrait.\nBorder & Presentation\nFrame the entire artwork with a soft cream-colored textured paper border, slightly uneven edges, giving a vintage printed Western poster look.\nSubject & Outfit\nA rugged gunslinger wearing a distressed brown leather duster, a patterned Southwestern waistcoat, a dark neckerchief, and a wide-brim cowboy hat. Materials should feel realistic and worn.\nPose & Expression\nThe main portrait should face forward at eye level with intense direct eye contact, conveying a stoic, slightly weary expression with subtle tension in the eyes and jaw. In the saloon scene, the subject stands beside a poker table in a tense, alert stance with one hand holding a revolver, body slightly angled as if anticipating conflict. In the desert scene, he rides a horse at speed, leaning forward dynamically with his coat flowing, emphasizing motion and determination.\nEnvironment & Background\nThe upper background should feature a dusty Old West town street at twilight, with wooden storefronts, balconies, hitching posts, and a soft atmospheric haze. The lower-left saloon scene should depict a dark interior with a round poker table strewn with cards and silver coins, an overturned wooden chair, and a glowing kerosene lamp. The lower right scene should show a vast desert landscape with minimal vegetation, a flat horizon, and a large stylized setting sun dominating the background.\nNo extra people in the saloon scene.\nLighting & Cinematic Effects\nUse a golden-hour lighting palette with warm amber, orange, and deep brown tones balanced by subtle twilight blues. The main portrait should be lit with soft directional light and gentle rim highlights, preserving facial detail. The saloon scene should feature strong chiaroscuro lighting with a single kerosene lamp casting sharp highlights and deep shadows for dramatic tension. The desert scene should be heavily backlit, creating a strong silhouette effect with glowing dust particles illuminated by the setting sun.\nColor & Texture Direction\nMaintain a cohesive palette of warm amber, burnt orange, sepia browns, and muted blues with film-like color grading and rich contrast. The rendering should be painterly yet semi-realistic, with visible brush textures and refined detailing. Add subtle grain to enhance the vintage cinematic poster feel.\nCamera & Perspective\nThe main portrait should be captured at eye level for a direct emotional connection. The saloon scene should use a slightly low angle to enhance tension and presence. The desert scene should be framed with a wide cinematic perspective to emphasize scale and depth.",
+      "description": "Western Digital Illustration Prompt: Use this prompt to generate a cinematic cowboy montage featuring a rugged gunslinger at a poker table and riding across a desert sunset.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 36,
+      "view_count": 658,
+      "copy_count": 933,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cowboy-western-montage-illustration-by-promptplum-2.webp",
+          "local_path": "images/wild-west/cowboy-western-montage-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cowboy-western-montage-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/wild-west/cowboy-western-montage-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/wild-west/cowboy-western-montage-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Rugged Cowboy Western Montage AI Photo Editing Prompt. AI generated digital illustration of a rugged cowboy in a duster coat featuring a central portrait alongside scenes of a poker game and a horse ride in a Wild West town."
+        },
+        {
+          "filename": "cowboy-western-montage-illustration-by-promptplum-1.webp",
+          "local_path": "images/wild-west/cowboy-western-montage-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cowboy-western-montage-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/wild-west/cowboy-western-montage-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/wild-west/cowboy-western-montage-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital illustration of a cowboy in a duster coat, featuring a poker standoff and a sunset horse ride montage."
+        }
+      ]
+    }
+  ]
+}
