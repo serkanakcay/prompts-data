@@ -1,0 +1,912 @@
+{
+  "category": "LinkedIn Profile Picture",
+  "slug": "linkedin-profile-picture",
+  "total_prompts": 20,
+  "updated_at": "2026-09-24T12:57:58Z",
+  "prompts": [
+    {
+      "id": "6aa93f3b46d4207dc2b9516e",
+      "title": "Professional Corporate Headshot of Businessman",
+      "slug": "businessman-portrait-studio-headshot",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Professional studio portrait of a man with a well-groomed appearance. His eyes are direct and confident, and he gazes straight into the camera. Neutral, composed facial expression — lips closed.\nWardrobe: Dark charcoal grey three-piece suit (visible waistcoat) over a crisp white dress shirt with a spread collar, paired with a black knitted/textured tie in a neat four-in-hand knot.\nLighting: Studio portrait lighting — soft key light from the front-left creating gentle Rembrandt-style shadow on the right side of the face, subtle rim/separation light on the hair and shoulders to lift the subject off the background. Even, flattering skin tones with soft falloff, no harsh highlights.\nBackground: Solid dark gray-to-black gradient, softly vignetted, out of focus, seamless studio backdrop — no visible texture or props.\nComposition: Tight head-and-shoulders crop, subject centered, facing camera directly, shot at eye level with a shallow depth of field.\nStyle/quality tags: Photorealistic, ultra-detailed skin texture, natural pores, corporate headshot photography, 85mm lens look, shallow depth of field, high dynamic range, sharp focus on eyes, professional color grading, 4K quality.\nAspect ratio 4:5",
+      "description": "Use this corporate studio photography AI prompt to generate a realistic headshot of a businessman in a dark grey suit against a moody studio background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 973,
+      "copy_count": 657,
+      "is_premium": false,
+      "published_at": "2026-09-15T12:51:07.935Z",
+      "images": [
+        {
+          "filename": "09ec7337-5795-4fae-bc61-85a8a519d0e4.webp",
+          "local_path": "images/linkedin-profile-picture/09ec7337-5795-4fae-bc61-85a8a519d0e4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/09ec7337-5795-4fae-bc61-85a8a519d0e4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/09ec7337-5795-4fae-bc61-85a8a519d0e4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/09ec7337-5795-4fae-bc61-85a8a519d0e4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional Corporate Headshot AI Photo Editing Prompt. AI generated studio portrait of a confident bearded man in a dark grey suit with a white shirt and black knitted tie, facing forward against a grey studio background."
+        },
+        {
+          "filename": "f6391f0d-e4f6-40a2-a915-a80acb1ffe52.webp",
+          "local_path": "images/linkedin-profile-picture/f6391f0d-e4f6-40a2-a915-a80acb1ffe52.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f6391f0d-e4f6-40a2-a915-a80acb1ffe52.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/f6391f0d-e4f6-40a2-a915-a80acb1ffe52.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/f6391f0d-e4f6-40a2-a915-a80acb1ffe52.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Young Man Portrait AI Photo Prompt. AI generated studio portrait of a handsome man in a grey suit and black tie."
+        },
+        {
+          "filename": "56a57fbc-4aa9-4f7a-ac18-4dab799942c2.webp",
+          "local_path": "images/linkedin-profile-picture/56a57fbc-4aa9-4f7a-ac18-4dab799942c2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/56a57fbc-4aa9-4f7a-ac18-4dab799942c2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/56a57fbc-4aa9-4f7a-ac18-4dab799942c2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/56a57fbc-4aa9-4f7a-ac18-4dab799942c2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Corporate Headshot Photography AI Photo Editing Prompt. AI generated studio portrait of a bearded businessman with green eyes, wearing a dark grey suit and black knit tie against a black background."
+        },
+        {
+          "filename": "d2eb66ef-c385-42b2-89cb-c5531daf826b.webp",
+          "local_path": "images/linkedin-profile-picture/d2eb66ef-c385-42b2-89cb-c5531daf826b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d2eb66ef-c385-42b2-89cb-c5531daf826b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/d2eb66ef-c385-42b2-89cb-c5531daf826b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/d2eb66ef-c385-42b2-89cb-c5531daf826b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Businessman Studio Headshot AI Photo Editing Prompt. AI generated portrait of a mustached man in a dark suit and black knit tie."
+        },
+        {
+          "filename": "bb0b6f85-6ea2-4f6f-a2ec-6ccb4f6e1d07.webp",
+          "local_path": "images/linkedin-profile-picture/bb0b6f85-6ea2-4f6f-a2ec-6ccb4f6e1d07.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bb0b6f85-6ea2-4f6f-a2ec-6ccb4f6e1d07.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/bb0b6f85-6ea2-4f6f-a2ec-6ccb4f6e1d07.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/bb0b6f85-6ea2-4f6f-a2ec-6ccb4f6e1d07.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Businessman Portrait in Dark Grey Suit – Studio Headshot AI Prompt"
+        }
+      ]
+    },
+    {
+      "id": "6aa82d9b46d4207dc2a4e3af",
+      "title": "Executive Studio Portrait",
+      "slug": "man-grey-suit-executive-headshot",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "IDENTITY REFERENCE\n\nUse the uploaded photo only as a face and identity reference. Preserve the subject’s recognizable identity with high fidelity: natural facial structure, skin tone, eye shape and color, nose, lips, jawline, eyebrows, ears, facial proportions, and other distinctive characteristics.\n\nIdentity takes priority over styling. Do not beautify, reshape, slim, widen, sharpen, soften, age, de-age, or reinterpret the face. Preserve natural facial asymmetry and the relative size, spacing, and placement of facial features.\n\nIf the reference shows facial hair, preserve its approximate density and grooming style; if clean-shaven, keep the subject clean-shaven. Preserve subtle identity-defining details visible in the reference. Do not invent glasses, jewelry, facial hair, tattoos, or accessories.\n\nDo not copy the original pose, clothing, lighting, framing, or background.\n\nSCENE\n\nCreate an ultra-realistic luxury studio executive portrait, photographed straight-on and centered. The subject should appear composed, confident, and natural, with a relaxed executive posture rather than a stiff or overly formal pose. Keep the body generally facing the camera and the face looking directly toward the lens, but allow subtle natural asymmetry in the shoulders, neck, and facial posture so the result feels human and effortless. Maintain direct eye contact and a calm, serious, confident neutral expression, with relaxed lips and no exaggerated posing.\n\nWARDROBE\n\nDress the subject in a tailored cool dark charcoal-gray three-piece suit with a subtle fine woven texture, matching waistcoat, crisp white dress shirt, and a deep navy-black textured necktie.\n\nThe suit should have realistic lapels, seams, buttons, folds, stitching, and natural fabric weight. No visible logos or distracting accessories.\n\nHAIR\n\nKeep the hairstyle believable for the subject, with realistic density, natural hairline, individually resolved strands, subtle flyaways, and natural highlights.\n\nBACKGROUND\n\nUse a dark charcoal-black studio background with a subtle cool blue-teal undertone. Create a soft smoky gradient that is slightly brighter behind the head and upper shoulders and gradually falls into near-black toward the outer edges, producing gentle subject separation.\n\nKeep the background smooth, minimal, softly out of focus, and free of scenery, objects, patterns, text, or visible studio equipment.\n\nLIGHTING\n\nUse refined three-point studio lighting: a large soft key light slightly above and in front of the face, gentle frontal fill to retain facial detail, and subtle rim light along the hair, ears, jawline, and shoulders.\n\nThe face should be clearly illuminated with controlled highlights on the forehead, nose, cheekbones, and lips, while retaining rich dimensional shadows. Keep the suit dark but visibly detailed, never crushed into black.\n\nSKIN AND FACIAL DETAIL\n\nPreserve true human skin micro-texture with natural pores and tonal variation. No plastic skin, beauty-filter smoothing, waxy texture, excessive sharpening, artificial HDR, or CGI appearance.\n\nBoth eyes must remain sharply and independently resolved with natural irises, pupils, sclera, catchlights, eyelids, tear lines, and lashes. Preserve eyebrow hairs, beard or stubble strands where applicable, lips, nostrils, ear contours, hairline, and fine facial texture.\n\nFacial features must remain stable and anatomically coherent under close inspection, with no identity drift, altered facial proportions, mismatched eyes, warped ears, melted details, or duplicated features.\n\nFRAMING AND COMPOSITION\n\nVertical 4:5 upper-torso portrait.\n\nFrame the subject from approximately the lower chest upward, showing the full head, neck, tie, waistcoat, lapels, and both shoulders.\n\nKeep approximately 8–10% comfortable negative space above the hair. Both shoulders should remain fully visible.\n\nThe subject must be exactly centered, with natural head-to-body proportions and no oversized head. Do not crop the hair, chin, shoulders, or tie awkwardly.\n\nCAMERA\n\nProfessional full-frame camera look with an 85mm portrait lens at approximately f/4–f/5.6, eye-level camera position, tack-sharp focus on both eyes and facial features, realistic optical rendering, smooth tonal falloff, rich blacks, controlled contrast, natural dynamic range, and restrained cinematic color grading.\n\nThe final image should look like a genuine high-end executive studio photograph: photorealistic, sophisticated, powerful, minimal, timeless, and polished without appearing artificially retouched.\n\nNEGATIVE CONSTRAINTS\n\nNo smile unless naturally present in the reference, no strong head tilt, no dramatic three-quarter pose, no side profile, no crossed arms, no visible hands, no casual clothing, no colorful suit, no patterned tie, no busy background, no text, no logos, no invented eyewear or facial hair, no beauty filter, no waxy skin, no distorted face, no altered identity, no blurry facial details, no oversized head, no CGI or rendered appearance.",
+      "description": "Use this cinematic studio photography prompt to generate a professional executive headshot of a man in a grey three-piece suit against a dark backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 17,
+      "view_count": 1204,
+      "copy_count": 788,
+      "is_premium": false,
+      "published_at": "2026-09-14T17:23:39.906Z",
+      "images": [
+        {
+          "filename": "63519e96-d442-471f-b232-b1a5fb343dd3.webp",
+          "local_path": "images/linkedin-profile-picture/63519e96-d442-471f-b232-b1a5fb343dd3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/63519e96-d442-471f-b232-b1a5fb343dd3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/63519e96-d442-471f-b232-b1a5fb343dd3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/63519e96-d442-471f-b232-b1a5fb343dd3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Corporate Executive Portrait AI Photo Editing Prompt. AI generated studio portrait of a handsome man with a mustache wearing a grey three-piece suit and navy tie."
+        },
+        {
+          "filename": "950fb984-10fd-44a4-bce1-bb1358a873cd.webp",
+          "local_path": "images/linkedin-profile-picture/950fb984-10fd-44a4-bce1-bb1358a873cd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/950fb984-10fd-44a4-bce1-bb1358a873cd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/950fb984-10fd-44a4-bce1-bb1358a873cd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/950fb984-10fd-44a4-bce1-bb1358a873cd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Confident Executive Portrait AI Photo Editing Prompt. AI generated studio portrait of a bearded businessman in a grey three-piece suit and navy tie against a dark teal backdrop."
+        },
+        {
+          "filename": "6014d8b0-26b8-4ecb-b81c-39646f959136.webp",
+          "local_path": "images/linkedin-profile-picture/6014d8b0-26b8-4ecb-b81c-39646f959136.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6014d8b0-26b8-4ecb-b81c-39646f959136.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/6014d8b0-26b8-4ecb-b81c-39646f959136.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/6014d8b0-26b8-4ecb-b81c-39646f959136.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional Suit Portrait of a Man AI Photo Prompt. AI generated studio portrait of a serious man with a mustache, wearing a charcoal grey three-piece suit, white shirt, and navy blue tie against a dark background."
+        },
+        {
+          "filename": "a579ee15-5e54-44f2-b67b-eedf7c8c4605.webp",
+          "local_path": "images/linkedin-profile-picture/a579ee15-5e54-44f2-b67b-eedf7c8c4605.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a579ee15-5e54-44f2-b67b-eedf7c8c4605.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/a579ee15-5e54-44f2-b67b-eedf7c8c4605.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/a579ee15-5e54-44f2-b67b-eedf7c8c4605.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a young man, wearing a grey three-piece suit and navy knit tie against a dark grey backdrop."
+        },
+        {
+          "filename": "59636eff-3580-4104-aac7-ba720cc065cc.webp",
+          "local_path": "images/linkedin-profile-picture/59636eff-3580-4104-aac7-ba720cc065cc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/59636eff-3580-4104-aac7-ba720cc065cc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/59636eff-3580-4104-aac7-ba720cc065cc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/59636eff-3580-4104-aac7-ba720cc065cc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-in-grey-suit-studio-portrait-ai-prompt-by-promptplum-4"
+        }
+      ]
+    },
+    {
+      "id": "6a9de8ef46d4207dc2849436",
+      "title": "Man Brown Studio Portrait",
+      "slug": "man-brown-studio-portrait",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create an image of a stylish man wearing a plain warm taupe/beige crewneck knit sweater and glossy black round-frame sunglasses, chest-up portrait, shoulders subtly angled, head turned slightly to one side and tilted a few degrees upward, gaze directed off-camera, with a calm, composed and naturally confident expression.\n\nSet a seamless deep cocoa-to-warm brown studio backdrop with a smooth vignette gradient falloff, brighter behind the head, darker at the edges.\n\nLight with cinematic studio lighting: soft directional key from slightly above at 45° camera-left to naturally sculpt the face, minimal fill to preserve rich dimensional shadows, and a subtle warm rim/edge light from camera-right for separation. Add clean, elegant specular reflections on the sunglasses without obscuring their dark lenses.\n\nUse a refined palette of warm taupe, caramel brown, cocoa and natural skin tones, with controlled contrast and realistic color rendering.\n\nShoot at eye level on a full-frame camera, 85mm lens, f/2.2, crisp natural skin and fabric texture, hair texture, sharp facial detail, shallow depth of field, centered chest-up composition with comfortable headroom, balanced negative space and subtle cinematic depth.\n\n4:5 aspect ratio.",
+      "description": "Use this Premium Warm Tone Studio Photography prompt to create a realistic portrait of a man wearing a brown sweater and round dark sunglasses.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 5,
+      "view_count": 1033,
+      "copy_count": 23,
+      "is_premium": true,
+      "published_at": "2026-09-06T22:27:59.216Z",
+      "images": [
+        {
+          "filename": "181b92a7-9248-4c39-ae1e-116fa5045a22.webp",
+          "local_path": "images/linkedin-profile-picture/181b92a7-9248-4c39-ae1e-116fa5045a22.webp",
+          "original_url": "https://img.promptplum.com/promptImages/181b92a7-9248-4c39-ae1e-116fa5045a22.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/181b92a7-9248-4c39-ae1e-116fa5045a22.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/181b92a7-9248-4c39-ae1e-116fa5045a22.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Warm Tone Male Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a bearded man wearing dark sunglasses and a brown sweater."
+        },
+        {
+          "filename": "f36b57b4-44dd-41d1-bce7-23a6ad629847.webp",
+          "local_path": "images/linkedin-profile-picture/f36b57b4-44dd-41d1-bce7-23a6ad629847.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f36b57b4-44dd-41d1-bce7-23a6ad629847.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/f36b57b4-44dd-41d1-bce7-23a6ad629847.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/f36b57b4-44dd-41d1-bce7-23a6ad629847.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "warm-tone-studio-man-sunglasses-portrait-ai-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "59e70abd-52fc-4e1a-b76d-2326d2238586.webp",
+          "local_path": "images/linkedin-profile-picture/59e70abd-52fc-4e1a-b76d-2326d2238586.webp",
+          "original_url": "https://img.promptplum.com/promptImages/59e70abd-52fc-4e1a-b76d-2326d2238586.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/59e70abd-52fc-4e1a-b76d-2326d2238586.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/59e70abd-52fc-4e1a-b76d-2326d2238586.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Brown Studio Photo AI Prompt. AI generated portrait of a curly-haired man in round sunglasses and a beige sweater against a warm brown backdrop.\""
+        }
+      ]
+    },
+    {
+      "id": "6a9c4dc546d4207dc263224b",
+      "title": "Cinematic Studio Portrait",
+      "slug": "cinematic-studio-portrait",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create a hyper-realistic cinematic studio portrait of the provided male subject, using the uploaded image only as the identity reference. Preserve the subject’s existing identity and natural appearance without replacing or redesigning identity-defining features.\nFrame the subject in a vertical 4:5 composition, photographed from approximately mid-chest upward. Keep the subject centered, with both shoulders visible and comfortable headroom above the head. Use a clean, symmetrical composition with the camera positioned straight in front at eye level.\nThe subject faces almost directly toward the camera with the head upright and only minimal natural rotation or tilt. Keep the posture relaxed and confident. Use a calm, neutral, slightly thoughtful expression. The gaze should fall directly toward or very slightly past the camera. No smile, sadness or exaggerated expression.\nDress the subject in a plain oversized white crewneck T-shirt, with soft matte fabric, relaxed shoulders, and subtle realistic folds. No visible branding, graphics, text, jewelry, or accessories.\nPlace the subject against a clean seamless deep teal-blue studio background with a smooth tonal gradient and subtle falloff toward the edges. No objects, scenery, patterns, visible texture, or horizon line.\nUse polished cinematic dual-tone studio lighting:\n\n\nA large soft neutral frontal key light, slightly above eye level, illuminating the face evenly while maintaining natural depth.\n\nSubtle cool blue/teal ambient fill from one side.\n\nA controlled warm amber-orange rim/kicker light from behind on camera-right, creating a thin warm highlight along the outer edge of the head, ear, neck, and shoulder.\n\nKeep the warm color primarily on the edges rather than washing the whole face in orange.\n\nMaintain natural skin tones through the central face.\n\nUse soft dimensional shadows to define the face naturally without creating harsh contrast.\nPreserve realistic skin texture, fine facial detail, natural hair detail, authentic eye reflections, believable fabric texture, and realistic light transitions. Avoid beauty smoothing, plastic-looking skin, excessive sharpening, artificial HDR, or overprocessed facial features.\nPhotograph with the visual characteristics of an 85mm portrait lens, approximately f/2–f/2.8, eye-level perspective, shallow-to-moderate depth of field, sharp focus on the eyes and face, gentle background softness, natural perspective compression, and professional commercial studio quality.\nThe final image should feel minimal, modern, clean, cinematic, and professionally photographed, with natural realism rather than an AI-generated appearance.\nImportant: Do not change the subject’s identity-defining facial characteristics, natural skin tone, hairstyle, hair texture, facial hair, eye appearance, age, or other facial details. Apply only the composition, pose, wardrobe, background, lighting, camera treatment, and overall photographic style described above.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 2,
+      "view_count": 832,
+      "copy_count": 14,
+      "is_premium": true,
+      "published_at": "2026-09-05T17:13:41.846Z",
+      "images": [
+        {
+          "filename": "2d84360e-0f50-43f4-80bc-4070c5f5dcf4.webp",
+          "local_path": "images/linkedin-profile-picture/2d84360e-0f50-43f4-80bc-4070c5f5dcf4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2d84360e-0f50-43f4-80bc-4070c5f5dcf4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/2d84360e-0f50-43f4-80bc-4070c5f5dcf4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/2d84360e-0f50-43f4-80bc-4070c5f5dcf4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_700kba700kba700k"
+        },
+        {
+          "filename": "3f45215d-9e52-42b4-890b-1938a217501d.webp",
+          "local_path": "images/linkedin-profile-picture/3f45215d-9e52-42b4-890b-1938a217501d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3f45215d-9e52-42b4-890b-1938a217501d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/3f45215d-9e52-42b4-890b-1938a217501d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/3f45215d-9e52-42b4-890b-1938a217501d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_zfmfguzfmfguzfmf"
+        },
+        {
+          "filename": "74c0faaa-bd34-442d-b2ca-1f59bbcf8e98.webp",
+          "local_path": "images/linkedin-profile-picture/74c0faaa-bd34-442d-b2ca-1f59bbcf8e98.webp",
+          "original_url": "https://img.promptplum.com/promptImages/74c0faaa-bd34-442d-b2ca-1f59bbcf8e98.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/74c0faaa-bd34-442d-b2ca-1f59bbcf8e98.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/74c0faaa-bd34-442d-b2ca-1f59bbcf8e98.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_ekgsdmekgsdmekgs"
+        },
+        {
+          "filename": "ea3fc1ed-fcc5-4dc4-b8f9-a18602bd50e6.webp",
+          "local_path": "images/linkedin-profile-picture/ea3fc1ed-fcc5-4dc4-b8f9-a18602bd50e6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ea3fc1ed-fcc5-4dc4-b8f9-a18602bd50e6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/ea3fc1ed-fcc5-4dc4-b8f9-a18602bd50e6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/ea3fc1ed-fcc5-4dc4-b8f9-a18602bd50e6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_wbzw8ewbzw8ewbzw"
+        }
+      ]
+    },
+    {
+      "id": "6a7757214bbdbe2cf535b3c1",
+      "title": "Poised for Success",
+      "slug": "mens-professional-business-attire",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create an ultra-realistic luxury fashion portrait of a confident, well-styled man standing against a clean light-blue studio background. He has neatly styled hair. He wears a perfectly tailored dark navy double-breasted suit with wide peak lapels, six metallic buttons, matching navy trousers, a crisp white dress shirt, and a dark navy tie.\nPose & composition: Three-quarter/medium-body portrait, subject standing slightly angled toward the camera, left hand casually placed inside his trouser pocket while his right hand gently adjusts his tie near the collar. Upright relaxed posture, shoulders naturally positioned, elegant masculine stance. His head is turned slightly to the right side, looking off-camera with a calm, confident, sophisticated expression. Centered composition with generous negative space around the subject.\nBackground & lighting: Minimal seamless light-blue studio backdrop, soft diffused natural-looking key light from the front-left, subtle fill light, gentle shadows, clean highlights on the face and suit, refined editorial atmosphere.\nPhotography: High-end luxury menswear editorial photography, photorealistic skin texture, realistic fabric details, sharp facial details, natural proportions, cinematic depth of field, 85mm lens, f/1.8, shallow depth of field, professional studio photography, HDR, 8K resolution, premium color grading. No text, no watermark, no distorted anatomy, no blurry details. Aspect ratio 4:5.",
+      "description": "Corporate Portrait Photography Prompt: Copy & paste this prompt to create a sharp studio image of a bearded man in a navy double-breasted suit adjusting his tie.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 16,
+      "view_count": 729,
+      "copy_count": 694,
+      "is_premium": false,
+      "published_at": "2026-08-08T16:19:45.137Z",
+      "images": [
+        {
+          "filename": "48fe2911-d4ef-49ca-97b1-76dc39a689f6.jpeg",
+          "local_path": "images/linkedin-profile-picture/48fe2911-d4ef-49ca-97b1-76dc39a689f6.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/48fe2911-d4ef-49ca-97b1-76dc39a689f6.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/48fe2911-d4ef-49ca-97b1-76dc39a689f6.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/48fe2911-d4ef-49ca-97b1-76dc39a689f6.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Professional Portrait of Man in Navy Double-Breasted Suit. AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a navy blue double-breasted suit adjusting his tie against a plain light blue background."
+        }
+      ]
+    },
+    {
+      "id": "6a637c43b99e3a48ae857187",
+      "title": "Pinstripes and Clear Frames",
+      "slug": "mens-professional-style-portrait",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create a hyper-realistic, high-end fashion editorial portrait of a handsome man(face match) with neatly styled hair. He wears oversized transparent aviator-style eyeglasses with a clear acetate frame. His expression is calm, confident, and sophisticated as he looks directly into the camera.\nHe is dressed in a tailored navy blue pinstripe suit jacket layered over a crisp white dress shirt with the top button undone, creating a refined yet modern business-casual aesthetic. A luxury golden wristwatch with a dark blue dial is worn on his left wrist. Body angled 3/4 to the right, with left hand gently adjusting the shirt collar, creating a natural, candid editorial pose.\nThe portrait is captured at eye level in a waist-up composition, with the subject centered. Photographed using an 85mm full-frame portrait lens, f/1.8, creating flattering compression and a beautifully soft, creamy background blur.\nThe lighting is soft, premium studio lighting, producing smooth skin tones, soft facial shadows, subtle catchlights in the eyes, and gentle highlights on the hair and suit. A faint fill light softens contrast while a delicate rim light adds separation from the background.\nThe background is a clean, minimalist white professional photography studio with smooth gradients and a shallow depth of field. The overall color palette is elegant and luxurious, emphasizing navy blue, white, and neutral gray tones.\nUltra-detailed facial features, realistic skin texture with visible pores, natural hair strands, finely textured fabric, sharp suit pinstripes, realistic reflections on the eyeglasses, highly detailed metallic wristwatch, cinematic color grading, premium fashion magazine aesthetic, ultra-photorealistic, HDR, 8K resolution, professional commercial portrait photography, exceptional clarity and realism. Aspect ratio 4:5.",
+      "description": "Corporate Portrait Prompt: Copy & paste this prompt to create a professional studio photograph of a modern businessman in a navy pinstripe suit and clear glasses.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 510,
+      "copy_count": 658,
+      "is_premium": false,
+      "published_at": "2026-07-24T14:52:51.776Z",
+      "images": [
+        {
+          "filename": "58a1c367-99a0-4c8c-8c9f-d512ec8a84b1.jpeg",
+          "local_path": "images/linkedin-profile-picture/58a1c367-99a0-4c8c-8c9f-d512ec8a84b1.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/58a1c367-99a0-4c8c-8c9f-d512ec8a84b1.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/58a1c367-99a0-4c8c-8c9f-d512ec8a84b1.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/58a1c367-99a0-4c8c-8c9f-d512ec8a84b1.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Businessman with Clear Glasses and Gold Watch Portrait AI Photo Editing Prompt. AI generated portrait of a man in a navy pinstripe suit adjusting his collar, wearing transparent aviator glasses and a gold wristwatch against a white background."
+        }
+      ]
+    },
+    {
+      "id": "6a48fa8240c33bcad6d19c2d",
+      "title": "Studio Portrait in Warm Light",
+      "slug": "professional-man-glasses-studio-portrait",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create a hyper-realistic premium cinematic portrait of a young handsome man using the uploaded photo as the face reference only to preserve the same facial identity, facial proportions, expression, and overall look. Keep the face highly accurate and naturally matched to the user’s features (do not exaggerate or alter identity). The subject has soft texture, sharp eyes, and wears silver metal oval-round glasses with clear lenses, slim temples.\nOutfit: a minimal premium beige oversized t-shirt with realistic fabric folds and soft texture.\nPose: slightly leaning forward, direct eye contact with the camera, relaxed, confident expression.\nLighting: warm cinematic orange studio light with soft highlights on the face and a subtle amber rim light from the right side around the hair and shoulders. Background: blurred glowing orange studio backdrop with soft bokeh, warm haze, rich contrast, and a premium editorial mood.\nSkin should look natural, smooth, detailed, and realistic. Focus on high-end fashion portrait quality, luxury atmosphere, ultra-sharp eyes, detailed hair strands, realistic reflections, and premium colour grading.\nCamera Style:\n85mm portrait lens, f/1.8, close-up framing, cinematic depth of field, HDR, ultra-detailed, 8K, realistic skin texture, professional studio photography, premium editorial quality. aspect ratio 4:5",
+      "description": "Professional Headshot Prompt: Use this prompt to create a realistic studio portrait of a man with round glasses against a warm orange background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 67,
+      "view_count": 5577,
+      "copy_count": 8548,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "7a51eecf-2148-4f09-ad51-73a252187734.webp",
+          "local_path": "images/linkedin-profile-picture/7a51eecf-2148-4f09-ad51-73a252187734.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7a51eecf-2148-4f09-ad51-73a252187734.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/7a51eecf-2148-4f09-ad51-73a252187734.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/7a51eecf-2148-4f09-ad51-73a252187734.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Warm Light Male Portrait AI Photo Editing Prompt. AI generated studio portrait of a young man with wire-rimmed glasses, wearing a beige t-shirt against a warm amber background."
+        }
+      ]
+    },
+    {
+      "id": "6a44e9b8e1ceda640e8cf147",
+      "title": "Studio Portrait with Cyan Glow",
+      "slug": "cinematic-studio-portrait-blue-lighting",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Use the uploaded image only for the subject’s face and identity reference. Preserve the person’s recognizable facial structure, natural hairstyle, and facial hair if present. Do not change their identity, age, gender, or facial proportions.\n\nCreate an ultra-realistic premium cinematic studio portrait in a vertical 4:5 aspect ratio.\n\nFraming: show the subject from lower chest upward, including both shoulders, collar, full hair shape, and a little space below the chest. Keep the subject slightly lower in the composition with moderate, clean negative space above the hair. Do not place the head too close to the upper edge. The face should sit slightly left of center, while the right shoulder extends naturally toward the lower-right area of the frame.\n\nPose and expression: keep the torso subtly angled toward image-right, with the head gently turned back toward the camera in a soft natural three-quarter portrait angle. Do not make the pose perfectly straight, flat, or passport-photo-like. Use a very subtle upward camera perspective from slightly below eye level. The subject looks directly into the lens with a calm, neutral, confident, professional expression; relaxed eyes, relaxed jaw, and naturally closed lips.\n\nOutfit: plain black polo shirt with a soft matte finish, realistic fine fabric texture, natural folds, and a neat structured collar.\n\nEyeglasses: thin, delicate silver metal oval-round glasses with clear lenses, a narrow bridge, slim temples, and soft realistic reflections. Keep the glasses lightweight and refined. Do not use oversized, thick, rectangular, or heavy frames.\n\nLighting: create a strong premium two-tone cinematic lighting setup. Use a large very soft warm peach-golden key light from image-left and slightly from the front, clearly illuminating the left forehead, left cheek, bridge of the nose, lips, and upper chest. The warm light should create rich, healthy, natural skin tones.\n\nAdd a saturated electric cyan-blue rim light from image-right and slightly behind the subject. Keep this blue light concentrated along the outer edge of the right hair, temple, ear, outer cheek, jawline, neck, and upper right shoulder. The cyan highlight must be vivid and defined, but it should not wash over the entire face or make the skin look teal.\n\nKeep the central face, lower-right cheek, underside of the jaw, chin, neck, and polo collar in deeper soft shadow. Preserve strong warm-versus-cyan color separation, smooth contrast, realistic pores, natural skin imperfections, and soft cinematic shadow falloff. Avoid flat even lighting, desaturated skin, gray tones, broad cyan light across the face, or an ordinary neutral studio-headshot look.\n\nBackground: create a rich high-saturation smooth studio gradient. Keep the upper-left corner and far-left side deep midnight navy, nearly black-blue. Let the background transition gradually through dark royal blue toward a luminous electric cyan-aqua glow behind the lower-right side of the subject.\n\nPlace the brightest cyan glow behind and slightly below the right side of the head, around the neck and shoulder area, rather than directly behind the face. Let this cyan bloom softly outward, fading upward into deep petrol blue and dark navy. The background should feel polished, dimensional, vibrant, and cinematic, with a clean diagonal navy-to-electric-cyan gradient. Do not use a flat teal background, gray-green tones, weak saturation, foggy haze, or cyan spread evenly across the whole right side.\n\nCamera and finish: photographed with an 85mm portrait lens from slightly below eye level, shallow depth of field, crisp focus on the eyes, soft falloff toward the shoulders, premium editorial color grading, high dynamic range, realistic contrast, detailed skin texture, and refined 8K studio portrait quality.\n\nAvoid: perfectly frontal ID-photo pose, overly centered composition, head too high in the frame, weak background glow, flat teal background, dull colors, washed-out skin, harsh blue facial lighting, oversharpened skin, plastic skin, smile, exaggerated expression, thick glasses, rectangular glasses, text, logos, or watermark.",
+      "description": "Cinematic Studio Portrait Prompt: Use this prompt to create a professional headshot of a man/woman with glasses in a black polo shirt against a vibrant blue gradient background.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 30,
+      "view_count": 2570,
+      "copy_count": 2995,
+      "is_premium": false,
+      "published_at": "2026-08-09T23:40:07.821Z",
+      "images": [
+        {
+          "filename": "18b2ab9e-9ed4-4b80-bbbb-8709e5fe9c60.webp",
+          "local_path": "images/linkedin-profile-picture/18b2ab9e-9ed4-4b80-bbbb-8709e5fe9c60.webp",
+          "original_url": "https://img.promptplum.com/promptImages/18b2ab9e-9ed4-4b80-bbbb-8709e5fe9c60.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/18b2ab9e-9ed4-4b80-bbbb-8709e5fe9c60.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/18b2ab9e-9ed4-4b80-bbbb-8709e5fe9c60.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cinematic Male Portrait AI Photo Editing Prompt. AI generated studio portrait of a young man with glasses and a black polo shirt under blue and cyan lighting."
+        },
+        {
+          "filename": "aadbcc27-6211-4681-9810-57458b6044cb.webp",
+          "local_path": "images/linkedin-profile-picture/aadbcc27-6211-4681-9810-57458b6044cb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/aadbcc27-6211-4681-9810-57458b6044cb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/aadbcc27-6211-4681-9810-57458b6044cb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/aadbcc27-6211-4681-9810-57458b6044cb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cinematic Studio Photography AI Prompt. AI generated portrait of a young man with round silver-framed glasses and brown wavy hair, wearing a black polo shirt against a vibrant blue background."
+        },
+        {
+          "filename": "711b5939-3090-4772-b3f9-2ac6d8caa438.webp",
+          "local_path": "images/linkedin-profile-picture/711b5939-3090-4772-b3f9-2ac6d8caa438.webp",
+          "original_url": "https://img.promptplum.com/promptImages/711b5939-3090-4772-b3f9-2ac6d8caa438.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/711b5939-3090-4772-b3f9-2ac6d8caa438.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/711b5939-3090-4772-b3f9-2ac6d8caa438.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Studio Portrait Woman with Glasses AI Photo Editing Prompt. AI generated studio portrait of a woman with short dark hair, wearing round glasses and a black polo shirt, with blue and cyan split lighting."
+        },
+        {
+          "filename": "b51516cd-b221-49b4-8d8c-bc2ed7fb1e3e.webp",
+          "local_path": "images/linkedin-profile-picture/b51516cd-b221-49b4-8d8c-bc2ed7fb1e3e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b51516cd-b221-49b4-8d8c-bc2ed7fb1e3e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/b51516cd-b221-49b4-8d8c-bc2ed7fb1e3e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/b51516cd-b221-49b4-8d8c-bc2ed7fb1e3e.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a middle-aged man with short gray hair and thin glasses, wearing a black polo shirt, against a dark blue and teal gradient background."
+        },
+        {
+          "filename": "35d22f58-3c24-4205-9884-1ace5820160a.webp",
+          "local_path": "images/linkedin-profile-picture/35d22f58-3c24-4205-9884-1ace5820160a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/35d22f58-3c24-4205-9884-1ace5820160a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/35d22f58-3c24-4205-9884-1ace5820160a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/35d22f58-3c24-4205-9884-1ace5820160a.webp",
+          "width": 1824,
+          "height": 2204,
+          "alt": "AI generated studio portrait of a young man wearing round glasses and a black polo shirt, illuminated by dramatic blue and warm lighting against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a439ec2e1ceda640e824e05",
+      "title": "Modern Business Profile",
+      "slug": "linkedin-dp-formal-shirt-tie",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Use the uploaded photo only for the subject’s identity reference. Preserve natural facial features, skin tone, eye shape, hairstyle, and existing facial hair accurately. Do not add or change facial hair, hair texture, or facial structure.\nCreate a premium monochrome studio head-and-shoulders portrait in a clean 1:1 square format. Place the subject centered inside a large, perfectly visible circular frame.\nKeep a near-front-facing pose with a slight natural head tilt and direct eye contact. Expression: a subtle closed-mouth soft smile, relaxed eyes, calm confidence, and approachable professional energy. It must feel natural and effortless, never stiff, overly posed, or teeth-showing.\nDress the subject in a crisp white dress shirt with a refined tie. Inside the circle, use a seamless pale-gray studio backdrop with generous space around the head. Use soft, slightly elevated frontal studio lighting for even skin tones, gentle shadows under the nose and jaw, realistic catchlights, and sharp facial detail.\nUse elegant high-contrast black-and-white grading: deep blacks in hair and clothing, clean luminous whites in the shirt, smooth natural skin mid-tones, realistic skin texture, and no harsh shadows or excessive retouching.\nOutside the circular frame, add a minimal off-white-to-soft-gray vertical gradient. Clean editorial professional profile portrait, realistic studio photography, premium finish.",
+      "description": "Professional Profile Picture Prompt: Use this prompt to create a clean, black-and-white studio portrait of a man in a shirt and tie, framed as a circular profile avatar.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 16,
+      "view_count": 2009,
+      "copy_count": 2249,
+      "is_premium": false,
+      "published_at": "2026-08-09T23:39:53.555Z",
+      "images": [
+        {
+          "filename": "021e5d49-44fe-4d24-9d83-989bb2725db2.webp",
+          "local_path": "images/linkedin-profile-picture/021e5d49-44fe-4d24-9d83-989bb2725db2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/021e5d49-44fe-4d24-9d83-989bb2725db2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/021e5d49-44fe-4d24-9d83-989bb2725db2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/021e5d49-44fe-4d24-9d83-989bb2725db2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "LinkedIn Profile Picture AI Photo Editing Prompt."
+        },
+        {
+          "filename": "1819666e-40b9-4f88-8f29-8cca84aaf803.webp",
+          "local_path": "images/linkedin-profile-picture/1819666e-40b9-4f88-8f29-8cca84aaf803.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1819666e-40b9-4f88-8f29-8cca84aaf803.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/1819666e-40b9-4f88-8f29-8cca84aaf803.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/1819666e-40b9-4f88-8f29-8cca84aaf803.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Modern Business Profile Picture AI Prompt: AI generated studio portrait of a handsome young man wearing a crisp white shirt and dark tie inside a circular frame."
+        }
+      ]
+    },
+    {
+      "id": "6a423988e1ceda640e770360",
+      "title": "LinkedIn Profile Picture",
+      "slug": "professional-men-linkedin-profile-picture",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Use the uploaded photo only as the subject identity reference. Preserve the person’s natural facial structure, skin tone, eye shape, hairstyle, and any existing facial hair accurately. Do not add a mustache, beard, curls, or alter facial features if they are not present in the reference.\n\nCreate a premium monochrome studio head-and-shoulders portrait in a clean 1:1 square composition. Place the subject perfectly centered inside a large, flawless circular frame that fills most of the canvas, with the entire circle clearly visible.\n\nThe subject faces the camera in a relaxed near-front-facing pose, with a slight natural head tilt and a subtle closed-mouth smile. Expression should feel confident, approachable, calm, and genuinely natural—not overly posed or smiling with teeth. Keep direct eye contact with soft realistic catchlights.\n\nDress the subject in a tailored deep-black blazer with notch lapels over a crisp white dress shirt, slightly open at the collar with no tie. Keep the blazer rich and dark, while the shirt remains clean, bright, and softly textured.\n\nInside the circular frame, use a seamless pale gray studio background with generous negative space around the head. Use soft frontal, slightly elevated diffused studio lighting, creating even facial illumination, delicate shadows beneath the nose and jaw, sharp detail in the eyes and face, and subtle softening toward the outer shoulders.\n\nUse refined high-contrast black-and-white grading: deep blacks in the jacket and hair, luminous whites in the shirt, smooth natural mid-tones in the skin, and no harsh shadows or excessive skin retouching. The result should look like a polished editorial or professional profile portrait, realistic and elegant.\n\nOutside the circular frame, keep a minimal smooth background gradient, off-white/light gray at the top blending into a slightly darker soft gray near the bottom.\nUltra-detailed, clean studio photography, realistic skin texture, sharp face focus, premium finish.",
+      "description": "Black and White Portrait Prompt: Use this prompt to create a professional executive headshot of a handsome man in a dark suit against a light background.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 53,
+      "view_count": 4603,
+      "copy_count": 3187,
+      "is_premium": true,
+      "published_at": "2026-08-09T23:43:21.147Z",
+      "images": [
+        {
+          "filename": "cd802dd0-7b35-475b-a9e7-dd559539ad41.webp",
+          "local_path": "images/linkedin-profile-picture/cd802dd0-7b35-475b-a9e7-dd559539ad41.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cd802dd0-7b35-475b-a9e7-dd559539ad41.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/cd802dd0-7b35-475b-a9e7-dd559539ad41.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/cd802dd0-7b35-475b-a9e7-dd559539ad41.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "LinkedIn Profile Picture AI Photo Editing Prompt. AI-generated professional black and white studio portrait of a handsome man, wearing a black suit and an open white shirt, within a circular frame against a neutral gradient background."
+        },
+        {
+          "filename": "984b0f29-5d2b-4e6c-94b9-2c2b0be89110.webp",
+          "local_path": "images/linkedin-profile-picture/984b0f29-5d2b-4e6c-94b9-2c2b0be89110.webp",
+          "original_url": "https://img.promptplum.com/promptImages/984b0f29-5d2b-4e6c-94b9-2c2b0be89110.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/984b0f29-5d2b-4e6c-94b9-2c2b0be89110.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/984b0f29-5d2b-4e6c-94b9-2c2b0be89110.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Circular B&W Executive Portrait AI Prompt. AI generated studio portrait of a young executive man in a black suit with a white unbuttoned shirt against a grey background within a circular white frame."
+        },
+        {
+          "filename": "f4ac339e-d5f0-414e-8276-409814cd791d.webp",
+          "local_path": "images/linkedin-profile-picture/f4ac339e-d5f0-414e-8276-409814cd791d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f4ac339e-d5f0-414e-8276-409814cd791d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/f4ac339e-d5f0-414e-8276-409814cd791d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/f4ac339e-d5f0-414e-8276-409814cd791d.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated professional monochrome portrait of a man with dark hair and a beard, in a suit, presented within a circular frame."
+        }
+      ]
+    },
+    {
+      "id": "6a3815c0bf79ee5252c241ef",
+      "title": "Professional Elegance",
+      "slug": "side-profile-portrait-man",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Ultra-realistic cinematic portrait of a confident professional man. He has neatly styled hair and a well-groomed appearance. Use the uploaded image strictly ONLY for 100% accurate face matching and identity reference.\nHe wears a tailored black suit, a crisp white dress shirt, and a dark necktie. Captured in a clean right-facing side-profile view, he maintains a calm, composed expression with a focused gaze directed into the distance. His right hand gently adjusts the knot of his tie, creating a refined and sophisticated executive pose. Natural skin texture and facial features are rendered with exceptional detail, enhancing the portrait's realism and professional elegance.\nComposition: Chest-up portrait composition, subject positioned slightly left of center with generous negative space on the right. Perfect side-profile angle emphasizing facial structure and silhouette.\nLighting: Dramatic low-key studio lighting with a large soft key light positioned camera-right, illuminating the face and creating smooth tonal transitions. Subtle rim lighting outlines the hair, ear, and shoulder, separating the subject from the deep black background. Rich chiaroscuro contrast with elegant shadow falloff.\nBackground: Pure black seamless studio backdrop with no distractions, creating a timeless and minimalist fine-art aesthetic.\nExpression & Pose: Calm, confident, and contemplative expression with lips closed. Head held level, posture upright and poised. Right hand delicately adjusting the tie while maintaining a polished, executive presence.\nTechnical Details: Colorful grading, ultra-realistic photography, medium-format camera quality, 85mm lens, f/1.8 aperture, shallow depth of field, DSLR-level clarity, sharp focus on the eyes and facial features, high dynamic range, cinematic fine-art portraiture, luxury editorial style, hyper-detailed skin texture, realistic fabric detail, professional studio photography, 8K resolution, photorealistic masterpiece.\nAspect ratio 4:5.",
+      "description": "Photography Prompt: Copy & paste this prompt to create a professional portrait of a man in a dark suit adjusting his tie.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 480,
+      "copy_count": 683,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "local_path": "images/linkedin-profile-picture/4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/4c05ba0f-10c6-4f32-b7b2-a755cca4703a.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Suit  Portrait AI Photo Editing Prompt. AI generated profile portrait of a man in a dark suit, adjusting his tie."
+        }
+      ]
+    },
+    {
+      "id": "6a2bb54361276f872a45db8f",
+      "title": "The Modern Executive",
+      "slug": "executive-man-office-chair",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Ultra-realistic 8K cinematic medium portrait of a confident man. Use the uploaded image strictly ONLY for 100% accurate face matching and identity reference. He has neatly styled hair and a well-groomed appearance. He is seated in a premium black leather chair, embodying a refined \"quiet luxury\" aesthetic.\nOutfit: He wears a crisp slate-gray button-down dress shirt with the top buttons casually undone and the sleeves neatly rolled to the forearms, paired with tailored black trousers and premium brown loafers. A luxury golden chronograph watch is prominently displayed on his right wrist.\nComposition: Centered medium portrait (mid-thigh to head), with the subject occupying most of the frame. Balanced composition with strong visual emphasis on the face and wristwatch, creating a confident and visually engaging focal point.\nPose:\nSeated comfortably in a high-back leather executive chair with a relaxed yet confident posture. His body faces forward, while one leg is crossed casually over the other. The left forearm rests naturally across the torso, with the left hand adjusting the watch on his right wrist. The right elbow is bent, and the right hand is raised near the chest in a relaxed gesture. Shoulders remain relaxed and open.\nExpression & Gaze: Warm and self-assured expression with a subtle, genuine smile. The eyes maintain direct eye contact with the camera, creating an approachable yet authoritative presence.\nBackground: Pure deep-black seamless studio backdrop with no distractions, creating a dramatic and sophisticated atmosphere.\nLighting: Professional low-key studio lighting with a classic Rembrandt pattern. A large diffused key light positioned camera-left illuminates the face and shirt, while the opposite side falls into soft, cinematic shadow. Subtle rim lighting separates the subject from the dark background, enhancing depth and dimensionality.\nCamera Angle: Eye-level camera angle.\nTechnical Details: Ultra-realistic photography, photorealistic 8K resolution, DSLR-quality image, 85mm lens, f/1.8 aperture, shallow depth of field, sharp focus on the eyes, facial features, and watch face, creamy background blur, realistic skin texture, hyper-detailed fabric folds and stitching, high dynamic range, cinematic contrast, luxury editorial fashion photography, magazine-cover quality, masterpiece, ultra-sharp detail.\nAspect ratio 4:5.",
+      "description": "Professional Studio Portrait Prompt: Copy this to generate a corporate style studio image of a confident man in a leather chair against a dark background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 52,
+      "view_count": 2415,
+      "copy_count": 4149,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "6c88cdc2-80a6-4a68-81b6-5baec10e07d3.webp",
+          "local_path": "images/linkedin-profile-picture/6c88cdc2-80a6-4a68-81b6-5baec10e07d3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6c88cdc2-80a6-4a68-81b6-5baec10e07d3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/6c88cdc2-80a6-4a68-81b6-5baec10e07d3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/6c88cdc2-80a6-4a68-81b6-5baec10e07d3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional Man in Office Chair Studio Portrait AI Photo Editing Prompt. AI generated portrait of a man wearing a grey shirt and gold watch sitting in a black leather office chair."
+        },
+        {
+          "filename": "198896a1-f6fc-4366-8bde-fd90d1f28d25.webp",
+          "local_path": "images/linkedin-profile-picture/198896a1-f6fc-4366-8bde-fd90d1f28d25.webp",
+          "original_url": "https://img.promptplum.com/promptImages/198896a1-f6fc-4366-8bde-fd90d1f28d25.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/198896a1-f6fc-4366-8bde-fd90d1f28d25.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/198896a1-f6fc-4366-8bde-fd90d1f28d25.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Office Chair Portrait AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a grey shirt and black pants sitting cross-legged in a black leather office chair."
+        }
+      ]
+    },
+    {
+      "id": "6a1b186b6205d846d5652e73",
+      "title": "Man in a Tailored Navy Suit and Brown Waistcoat",
+      "slug": "professional-male-blue-suit-brown-vest",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create an ultra-realistic, mid-thigh-up cinematic editorial portrait of a handsome, confident man, embodying a refined quiet luxury aesthetic. Use the uploaded image strictly ONLY for face and identity reference.\nSubject & Expression:\nAn adult male with a well-groomed appearance and neatly styled hair. His expression is calm, confident, and professional, featuring a subtle, warm half-smile. He maintains direct eye contact with the camera, creating a composed, approachable, and authoritative presence.\nPose:\nThe subject is seated in a relaxed yet confident posture, slightly leaning forward. His body is angled to his left (3/4 angle), while his face remains oriented toward the camera. His right forearm rests naturally across his thigh, while his left arm is bent at the elbow and positioned slightly back along his side, with the hand relaxed near the hip/thigh area (partially out of view), creating a composed and polished editorial seated pose.\nComposition:\nMid-thigh-up shot, vertical composition (aspect ratio 4:5). The subject is symmetrically centered and occupies approximately ~65% of the frame height, ensuring a strong visual presence while maintaining clean, balanced negative space. Clean framing with no head or hand cropping.\nOutfit & Styling:\nHe wears a bespoke, impeccably tailored deep navy blue three-piece suit with a structured, sharp silhouette. The single-breasted blazer features notch lapels and a clean, minimal finish. Underneath, a rich brown waistcoat is neatly buttoned, adding depth and contrast. A crisp white dress shirt is paired with a dark navy tie. A white pocket square is neatly tucked into the breast pocket. The outfit is perfectly pressed, wrinkle-free, and showcases premium fabric texture with a subtle natural sheen.\nEnvironment & Background:\nA smooth seamless dark charcoal-gray studio backdrop with a soft gradient falloff and subtle vignette effect. No visible edges, textures, or distractions—clean, minimal, high-end studio aesthetic.\nLighting (STRICT):\nLow-key professional studio lighting setup. A soft, diffused key light from the front-left evenly illuminates the face, preserving natural skin tones and fine facial details. A gentle rim light from the rear-right creates subtle edge separation along the shoulders and suit contours. No harsh shadows, no overexposure, and no loss of detail.\nCamera & Technical Details:\nEye-level shot, captured using a full-frame camera with an 85mm portrait lens at f/2.0 aperture. Shallow depth of field with ultra-sharp focus on the eyes and face, and smooth background falloff. Ultra-high resolution, 8K, photorealistic rendering with cinematic color grading and precise contrast balance.",
+      "description": "Professional Studio Portrait Prompt: Copy & Paste this prompt to create a high-quality corporate photograph of a stylish man in a navy blue suit and brown vest against a dark background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 98,
+      "view_count": 2036,
+      "copy_count": 5058,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "2c9e3251-eee1-4355-9265-377a682325ca.webp",
+          "local_path": "images/linkedin-profile-picture/2c9e3251-eee1-4355-9265-377a682325ca.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2c9e3251-eee1-4355-9265-377a682325ca.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/2c9e3251-eee1-4355-9265-377a682325ca.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/2c9e3251-eee1-4355-9265-377a682325ca.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Navy Suit AI Photo Editing Prompt. AI generated studio portrait of a seated professional man wearing a blue suit, brown vest, and tie against a dark gray background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704a8",
+      "title": "Executive in Grey",
+      "slug": "professional-man-grey-suit-headshot",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Use the uploaded image ONLY as the facial identity reference. Preserve exact facial structure, proportions, skin tone, eye shape, nose shape, lips, jawline, hairline, grooming and natural imperfections. Do not beautify, stylize, or alter identity in any way.\n\nCreate a hyper-realistic, professional studio portrait of a mature, confident male subject. The subject is positioned in a clean three-quarter composition (slightly turned body, face toward camera), maintaining a calm, composed expression with subtle confidence.\n\nAppearance & Styling\nNatural skin texture with visible pores and fine details (no plastic smoothing)\nWell-groomed short hair, slightly textured and naturally styled\nClean shave or neatly trimmed beard (identical to reference image)\nCalm, confident expression\n\nOutfit\nDeep gray tailored blazer\nCrisp white shirt with a deep red tie\n\nLighting (CRITICAL for realism)\nSoft key light from front-left at ~45° angle\nGentle fill light on opposite side to retain shadow depth\nSubtle rim light for hair separation from background\nNatural skin tones, no overexposure, balanced dynamic range\n\nBackground\nClean neutral studio background (soft light gray gradient, inner bright)\nSlight falloff toward darker edges for depth\nNo distractions, premium editorial feel\n\nCamera & Technical Details\nCamera: Full-frame DSLR or mirrorless (e.g., Sony A7R V / Canon R5)\nLens: 85mm prime (portrait lens)\nAperture: f/2.8 (sharp subject, soft background blur)\nISO: 100\nShutter Speed: 1/160s\nFocus: tack-sharp on eyes\nDepth of field: shallow, smooth bokeh\nColor grading: natural, true-to-life tones, subtle contrast\n\nComposition\nVertical 4:5 aspect ratio\nChest-up framing (mid portrait)\nBalanced negative space on the upper side\nEyes aligned slightly above center for professional balance\nOccupies approximately 70-80% area of the canvas\n\nOutput Quality\nUltra-detailed, 8K realism\nNo AI artifacts, no over-sharpening\nNatural cinematic finish, indistinguishable from real photography",
+      "description": "Professional Corporate Portrait Prompt: Use this prompt to generate a high-quality studio headshot of a man in a charcoal suit and red tie against a neutral background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 67,
+      "view_count": 1459,
+      "copy_count": 3389,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-grey-suit-red-tie-portrait-by-promptplum-3.webp",
+          "local_path": "images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-grey-suit-red-tie-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional Man in Grey Blazer AI Photo Editing Prompt. AI generated professional studio portrait of a bearded man wearing a charcoal grey suit jacket and a red tie against a neutral light background."
+        },
+        {
+          "filename": "man-in-grey-suit-red-tie-portrait-by-promptplum-2.webp",
+          "local_path": "images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-grey-suit-red-tie-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional Headshot Portrait Prompt. AI generated professional studio portrait of a man wearing a charcoal grey suit and a burgundy tie against a neutral background."
+        },
+        {
+          "filename": "man-in-grey-suit-red-tie-portrait-by-promptplum-1.webp",
+          "local_path": "images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-grey-suit-red-tie-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/man-in-grey-suit-red-tie-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a middle-aged man with salt-and-pepper hair wearing a charcoal grey suit and a burgundy red tie."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670475",
+      "title": "Luminous Executive",
+      "slug": "professional-man-blue-suit-halo",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create an ultra-realistic, high-resolution cinematic studio portrait of a male subject using the reference image as the ONLY identity source. Preserve exact facial structure, proportions, skin tone, hairstyle, facial hair (if any), and all natural features. Do not alter or beautify the face.\nThe subject is posed confidently with arms crossed across the chest. Body angled slightly toward the viewer’s left, while the face is turned subtly toward the right. Eyes looking off-camera, expressing a calm, composed, and authoritative presence.\nOutfit & Accessories:\n\nSmart formal styling (e.g., dark blue blazer or suit jacket with a dress crisp white shirt)\n\nKeep outfit natural and realistic (adapt to subject if needed), no texture visible\n\nLuxury wristwatch on one wrist (metal strap)\nLighting & Composition:\n\nCinematic studio lighting with soft key light from front-left (Rembrandt-style shadows)\n\nStrong but blurred white backlight created by a perfectly centered glowing circular neon ring behind the head (halo effect)\n\nSubtle rim light separation around hair and shoulders\nBackground:\n\nDeep matte dark blue or neutral studio background, no visible texture\n\nSmooth gradient vignette (darker toward edges)\nCamera & Technical:\n\nMedium close-up framing (chest-up)\n\nPortrait lens look (85mm–105mm)\n\nShallow depth of field (f/1.8–f/2.8)\n\nFace in sharp focus, slight blur on arms and background\nColor & Finish:\n\nCinematic color grading (cool tones + natural skin tones)\n\nHigh detail, natural texture, no plastic skin\nOutput:\n\nAspect ratio: 4:5 vertical\n\nUltra-sharp, premium editorial quality",
+      "description": "Cinematic Studio Portrait Prompt: Use this prompt to generate professional studio photographs of a stylish man in a navy suit with a glowing halo background. This prompt creates high-impact, modern business portraits with a sophisticated and cinematic aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 24,
+      "view_count": 621,
+      "copy_count": 1480,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-blue-suit-with-halo-portrait-by-promptplum.webp",
+          "local_path": "images/linkedin-profile-picture/man-in-blue-suit-with-halo-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-blue-suit-with-halo-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/man-in-blue-suit-with-halo-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/man-in-blue-suit-with-halo-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Blue Suit with Glowing Halo AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a navy blue suit with crossed arms and a circular neon halo."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267045e",
+      "title": "3D Professional Identity",
+      "slug": "3d-woman-laptop-linkedin-profile-illustration",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create a high-quality, Pixar-style 3D animated illustration of a young woman with a warm, friendly, and engaging personality.\nSubject & Identity\n\nThe character represents a modern female creator. She has expressive eyes, soft natural facial features, and a pleasant, confident smile. Her hairstyle should be natural, slightly voluminous, and well-groomed (adaptable to different looks).\nPose & Action\n\nShe is sitting professionally on a minimal white cube slightly right side. A sleek laptop rests on her lap, and she is actively using it, looking to viewers, creating a natural “in-action” moment.\nOutfit & Styling\n\nShe wears a professional, modern outfit (e.g., formal attire) with soft textures. Add subtle accessories like a delicate necklace or small earrings for personality.\nPrimary Object\n\nThe white cube beneath her features a bold, blue LinkedIn-style logo on its front face.\nBackground\nSeamless white studio backdrop. Floor blends perfectly with the backdrop, creating an infinite studio void.\nBackground Element (Important)\n\nBehind her, a large modern smartphone stands vertically in left side.\n\nThe screen displays a LinkedIn-style social media profile UI with:\nProfile image\nCover image\nProfile name (Prompt Plum)\nAnd other professional profile details\n\nClean Snapchat UI layout\n\nEnvironment & Lighting\n\nMinimal, clean studio environment with soft neutral tones.\n\nUse soft, diffused lighting with gentle shadows to create a premium, polished look.\nStyle & Quality\n\nPixar / DreamWorks inspired 3D character style\nUltra-clean rendering, smooth materials\nSoft realistic textures (fabric, hair, skin)\nHigh detail, cinematic depth of field\nBalanced, modern composition\nFraming\n\nVertical composition (4:5), subject centered with clear focus, smartphone slightly behind for depth.",
+      "description": "LinkedIn Profile Digital Illustration Prompt. Create a professional 3D persona of a woman in a blazer sitting on a LinkedIn cube next to a giant smartphone profile.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 779,
+      "copy_count": 1065,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "local_path": "images/linkedin-profile-picture/woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/woman-laptop-linkedin-profile-3d-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional Woman LinkedIn Profile Illustration Prompt. AI generated 3D digital illustration of a woman sitting on a LinkedIn logo cube with a laptop beside a large smartphone displaying her profile."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670432",
+      "title": "LinkedIn Profile Picture",
+      "slug": "linkedin-profile-picture",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Use the provided reference image strictly for the subject’s face, identity, and age reference. Lock facial identity with the highest priority. Preserve the exact facial structure, jawline definition, cheekbone shape, eyebrow structure, eye spacing, nose proportions, lip shape, beard density (if present), hairstyle, and natural skin tone. Do not beautify, stylize, or alter the subject’s identity.\nCreate a high-end studio portrait in a vertical 4:5 aspect ratio. The composition is a clean editorial close-up portrait with generous negative space, giving the image a modern professional magazine-style studio look.\n\nPose & Expression\nThe subject’s shoulders are slightly angled toward the viewer’s right side, while his head tilts subtly upward. His eyes look toward the camera with a thoughtful, reflective gaze, as if he is thinking deeply about something.\nHis left hand is raised beside his face, with the index finger lightly touching his left temple, while the other fingers remain softly curled. This gesture should clearly communicate a moment of concentration and deep thought.\nHis expression is calm, intelligent, and contemplative, with a very subtle closed-mouth smile.\n\nWardrobe\nHe is wearing a premium dark navy blue textured tailored blazer over a matching dark navy crew-neck t-shirt.\n\nOn his left wrist is a modern black smartwatch with a ridged band.\nBackground\nThe background is a clean studio backdrop with a smooth gray-to-black gradient, creating a dramatic yet minimal professional look.\n\nThe composition should maintain balanced negative space around the subject.\nLighting\nProfessional cinematic studio lighting with a soft directional key light from the right side, creating a subtle Rembrandt lighting effect with soft shadows on the left side of the face and natural catchlights in the eyes.\n\nCamera & Quality\nShot from an eye-level camera angle using an 85mm portrait lens, aperture f/5.6 for sharp focus on the face and hand.\n\nUltra-detailed skin texture, visible pores, and realistic fabric textures.\n8K resolution, photorealistic, editorial magazine cover quality.\nAspect ratio 4:5.",
+      "description": "LinkedIn Profile Picture AI Photo Editing Prompt: Use this prompt to create a professional studio portrait of a man or women in a navy blazer and smartwatch, captured in a thoughtful, high-end aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 31,
+      "view_count": 886,
+      "copy_count": 1700,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum3.webp",
+          "local_path": "images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "LinkedIn Profile Picture Prompt. AI generated studio portrait of a man in a navy blazer and smartwatch posing thoughtfully against a dark background."
+        },
+        {
+          "filename": "male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum2.webp",
+          "local_path": "images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Male Professional in Blue Blazer AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a navy blue blazer wearing a smartwatch and posing thoughtfully with a finger to his temple."
+        },
+        {
+          "filename": "female-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum4-1.webp",
+          "local_path": "images/linkedin-profile-picture/female-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum4-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/female-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum4-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/female-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum4-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/female-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum4-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Female Professional LinkedIn Profile Picture Prompt. AI generated studio portrait of a young woman wearing a smartwatch and blazer posing thoughtfully against a grey background."
+        },
+        {
+          "filename": "male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum1.webp",
+          "local_path": "images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/male-professional-in-blue-blazer-with-smartwatch-portrait-by-promptplum1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Mature Man in Blue Blazer AI Photo Editing Prompt. AI generated studio portrait of an older man in a navy blue blazer and smartwatch posing thoughtfully against a gray background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703e9",
+      "title": "Blue Backdrop Headshot",
+      "slug": "blue-backdrop-headshot",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create a 4k ultra-realistic corporate portrait of a professional man, centred and framed from mid-chest upward, facing directly toward the camera with perfect bilateral symmetry, strong face matching to the reference image, preserving exact facial structure, proportions, and identity. jawline, defined cheekbones, nose, balanced facial thirds, and natural facial asymmetry retained for authenticity. Face fully visible with no obscuring shadows across facial features.\n\nMatch the hairstyle & beard (if present) exactly to the reference image. If a beard is present in the reference image, make it well-groomed. clean professional grooming, and visible individual strands. No messy flyaways, no exaggerated volume. Maintain a realistic hairline and natural density.\n\nEyes are natural with sharp iris detail, moist reflections, and precise catchlights, maintaining direct eye contact. Expression is neutral, composed, and confident — lips closed and relaxed, no smile, calm professional demeanour.\n\nSkin is hyper-realistic with visible pores, fine facial hair, micro skin texture, subtle tonal variation, slight natural redness, lips — no smoothing, no plastic skin effect, true photorealism.\n\nAttire: perfectly pressed crisp white dress shirt with point collar, navy blue tie with thin diagonal white stripes (slanting from wearer’s right to left), polished silver tie clip placed horizontally at mid-tie. Formal corporate style, immaculate presentation.\n\nLighting: soft high-key studio lighting using a large diffused frontal key light slightly above eye level, producing even illumination with minimal shadows. Gentle shadow under the chin for depth, subtle fill light from below to soften under-eye shadows, natural skin rendering, clean highlights, no harsh contrast, no shadows obscuring the face.\n\nCamera & Technical: shot with a flattering medium telephoto portrait lens (85–105mm equivalent), no distortion, sharp focus across entire face, high dynamic range, professional color accuracy, ultra-clean detail.\n\nBackground: smooth, solid, vibrant cerulean/azure blue(#0572b3) studio backdrop, flat and uniform, no gradients, no texture, subject pops clearly from background.\n\nComposition & Framing: maintain centered composition but include slight negative space above the head and along the left and right edges of the frame, ensuring the subject does not touch the borders and has comfortable breathing room while remaining dominant in the frame.\n\nQuality & Output Specifications:\n\n4K ultra-high resolution, hyper-detailed, photorealistic, studio photography quality, sharp focus, natural colour grading, professional retouching, minimal, identity-preserving detail.\n\nAspect Ratio: 4:5 (vertical composition)",
+      "description": "Google Gemini AI Corporate Headshot Prompt: Use this prompt to create a professional studio headshot of a well-groomed man in a formal white shirt and striped blue tie against a solid blue background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 17,
+      "view_count": 624,
+      "copy_count": 914,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "professional-man-blue-backdrop-portrait-by-promptplum.webp",
+          "local_path": "images/linkedin-profile-picture/professional-man-blue-backdrop-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/professional-man-blue-backdrop-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-man-blue-backdrop-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-man-blue-backdrop-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional Man Blue Backdrop AI Photo Editing Prompt. AI generated studio portrait of a bearded man wearing a white dress shirt and striped tie against a solid blue background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703e7",
+      "title": "Professionalism Defined",
+      "slug": "professional-man-navy-suit-glasses-headshot",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create a high-end, ultra-photorealistic professional studio portrait of a confident professional man, captured in a waist-up medium shot, perfectly centered within a 1:1 aspect ratio composition. Use the uploaded reference image for exact facial identity matching, preserving all unique facial characteristics with maximum accuracy. The subject's full upper torso is visible, with clean, symmetrical framing and a strong executive presence.\nFace Match & Identity Preservation:\nMaintain perfect facial identity consistency with the reference image — exact face structure and proportions, strong jawline definition, cheekbone contour, chin shape, nose structure, lip thickness, and natural facial symmetry. Keep eye shape, spacing, eyelid structure, and the calm, confident gaze identical to the reference. Preserve the natural light skin tone with warm neutral undertones, realistic skin texture, and naturally styled hair, including the exact hairline, hair thickness, and grooming. Do not stylize or beautify the face — maintain authentic executive realism.\nPose & Body Orientation:\nThe subject stands upright in a confident executive posture, upper body facing directly toward the camera in a perfectly frontal orientation. Both arms are crossed firmly across the chest in a natural, relaxed corporate stance: the right forearm rests horizontally across the torso, and the left forearm crosses over it, positioned slightly forward toward the camera, naturally exposing the wristwatch on the left wrist. Shoulders are squared, relaxed, and symmetrical. The head is upright and aligned with the torso, facing directly forward with confident posture.\nExpression & Eye Contact:\nWarm, calm, confident professional expression with a subtle closed-mouth smile. Eyes hold direct contact with the camera, conveying intelligence, competence, and executive authority. Facial muscles are relaxed and natural.\nHair & Grooming:\nNaturally styled hair with visible individual strands, natural shine, and well-maintained grooming.\nEyewear:\nMatte black, thick-rimmed rectangular eyeglasses with smooth edges and a premium finish. Clear lenses show subtle studio reflections and soft catchlights that add realism while keeping the eyes fully visible and sharp.\nOutfit & Accessories:\nA perfectly tailored, slim-fit navy blue suit jacket with a refined matte finish and fine wool texture. The navy is deep, rich, and slightly cool-toned — clearly distinct from charcoal or black — with structured shoulders and sharp lapels that enhance executive presence.\nUnderneath is a crisp, bright white dress shirt with a clean, stiff, pointed collar, neatly pressed.\nA solid black silk tie with subtle texture is tied in a tight, perfectly centered Half-Windsor knot.\nOn the left wrist is a premium analog wristwatch: polished stainless-steel circular case, clean white dial, silver hour markers, slim silver hands, and a black leather strap — elegant, minimal, and professional.\nLighting Setup:\nA soft frontal key light, positioned slightly above and in front of the subject, produces smooth, even illumination across the face and suit with natural skin tones and controlled highlights. Gentle fill light from the opposite front side softens shadows while preserving facial depth and structure. A subtle rear rim light creates delicate highlight separation along the hair edges, shoulders, and suit contours. The overall lighting adds a slight, premium glossy effect to the suit fabric, glasses frame, and watch case — clean, balanced, corporate-grade studio quality without appearing artificial.\nBackground:\nA minimalist professional studio backdrop with a smooth radial gradient, transitioning from medium slate grey behind the subject's head to deeper charcoal grey toward the edges and corners. The gradient is soft, perfectly blended, texture-free, and distraction-free, with subtle tonal contrast and gentle rim lighting enhancing background separation.\nCamera & Technical Details:\nWaist-up medium portrait framing. 1:1 aspect ratio composition. Eye-level camera position. 85mm portrait lens perspective. Shallow depth of field, with face, glasses, suit texture, and watch in perfect sharp focus, and the background softly blurred. Ultra-high resolution, 4K detail. Professional executive corporate photography with sharp optical clarity and premium commercial portrait quality.\nColor Tone & Overall Finish:\nA cool-toned professional color palette dominated by deep navy blue, charcoal grey, black, and crisp white. Natural skin tones are preserved with balanced contrast. A slight premium glossy studio finish enhances executive realism while maintaining natural authenticity.\nNegative Prompt:\nSide body angle, tilted pose, asymmetrical posture, stylized face, altered identity, exaggerated lighting, harsh shadows, textured or busy background, warm color cast, oversaturated colors, low quality, soft focus, distortion, cartoonish look, HDR effect, visible-teeth smile, unrealistic skin smoothing.",
+      "description": "Google Gemini AI Photo Editing Prompt: Generate a professional studio photograph of a confident man in a navy blue suit and glasses, featuring a clean and sophisticated corporate aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 42,
+      "view_count": 1814,
+      "copy_count": 3149,
+      "is_premium": false,
+      "published_at": "2026-08-15T03:23:17.960Z",
+      "images": [
+        {
+          "filename": "professional-man-navy-suit-portrait-by-promptplum.webp",
+          "local_path": "images/linkedin-profile-picture/professional-man-navy-suit-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/professional-man-navy-suit-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-man-navy-suit-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-man-navy-suit-portrait-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Professional Man in Navy Suit AI Photo Editing Prompt. AI generated studio portrait of a bearded man with glasses wearing a navy blue suit and black tie with arms crossed."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033f",
+      "title": "Classic Corporate Headshot",
+      "slug": "professional-businessman-headshot",
+      "category": "LinkedIn Profile Picture",
+      "category_slug": "linkedin-profile-picture",
+      "prompt": "Create an ultra-realistic professional studio headshot using the attached reference photo as the ONLY facial source.\n\nFace-Match Accuracy (STRICT – DO NOT VIOLATE)\nThe generated face must be 100% identical to the reference photo\nDo NOT change facial structure, proportions, jawline, cheekbones, nose, lips, eyes, ears, or head shape\nPreserve exact skin tone, natural texture, pores, fine lines, scars, moles (if any)\nPreserve natural eye shape, eyelids, lashes, brow thickness, and spacing\nNo beautification, no stylization, no face morphing, no AI smoothing\nExpression must remain natural and neutral, subtle confidence only\nFace fully visible and unobstructed (no shadows, no hair covering face, no accessories hiding features)\n\nPose & Framing\nStraight-on camera angle, eye-level\nHead and upper chest visible (classic professional headshot framing)\nShoulders relaxed, posture upright\nCentered composition with symmetrical alignment\nOutfit & Styling (Professional Default)\nFormal corporate attire:\nTailored suit jacket or blazer (dark navy, charcoal, or black)\nCrisp white or light neutral dress shirt\nOptional solid or lightly textured tie (blue, grey, muted tones)\nClothing must be clean, wrinkle-free, and well-fitted\nNo logos, patterns, or distracting accessories\nHair & Grooming\nHair neatly groomed and realistic, matching the reference photo\nNatural hair texture and hairline preserved\nNo exaggerated styling or artificial shine\nIf a beard is present, it must be well-groomed; if no beard or stubble is present, the subject must be perfectly clean-shaven.\nLighting\nSoft, even studio lighting\nBalanced highlights on forehead, cheeks, and jawline\nGentle shadows for natural depth\nNo harsh contrast, no dramatic cinematic lighting\nProfessional corporate lighting setup\nBackground\nClean, neutral studio background\nLight grey, soft grey gradient, or off-white\nSmooth, distraction-free, no texture or props\nImage Quality\nPhotorealistic professional photography\nSharp facial focus, realistic depth\nNatural color grading\nHigh resolution, 4K clarity\n4:5 aspect ratio\nNo filters, no artistic effects, no stylization\n\n🚫 NEGATIVE PROMPT (Highly Recommended)\nface alteration, inaccurate likeness, beautified face, AI face, plastic skin, smooth skin, changed jawline, changed nose, changed eyes, exaggerated smile, dramatic expression, cinematic lighting, harsh shadows, color grading, filters, stylized portrait, painterly effect, artistic effect, blur, soft focus, distortion, wide angle, tilted head, tilted body, missing tie, wrong pose, accessories, sunglasses, hats, logos, text, watermark",
+      "description": "Professional Corporate Headshot Prompt: Copy & paste this prompt to create a realistic studio portrait of a confident businessman in a sharp grey/blue suit and tie.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 148,
+      "view_count": 7297,
+      "copy_count": 12882,
+      "is_premium": false,
+      "published_at": "2026-07-29T21:35:51.690Z",
+      "images": [
+        {
+          "filename": "professional-businessman-headshot-in-grey-suit-ai-image-prompt-1.webp",
+          "local_path": "images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/professional-businessman-headshot-in-grey-suit-ai-image-prompt-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional headshot of a smiling man with a neat beard and brown hair, wearing a sharp grey suit, white shirt, and navy tie against a clean, light grey backdrop."
+        },
+        {
+          "filename": "professional-businessman-headshot-in-grey-suit-ai-image-prompt-7.jpg",
+          "local_path": "images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-7.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/professional-businessman-headshot-in-grey-suit-ai-image-prompt-7.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-7.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-7.jpg",
+          "width": 1321,
+          "height": 1568,
+          "alt": "A professional headshot of Lionel Messi wearing a navy blue suit, white shirt, and blue tie, smiling against a neutral grey background."
+        },
+        {
+          "filename": "professional-businessman-headshot-in-grey-suit-ai-image-prompt-5.webp",
+          "local_path": "images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/professional-businessman-headshot-in-grey-suit-ai-image-prompt-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "professional-businessman-headshot-in-grey-suit-ai-image-prompt-2.webp",
+          "local_path": "images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/professional-businessman-headshot-in-grey-suit-ai-image-prompt-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "professional-businessman-headshot-in-grey-suit-ai-image-prompt-4.webp",
+          "local_path": "images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/professional-businessman-headshot-in-grey-suit-ai-image-prompt-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "professional-businessman-headshot-in-grey-suit-ai-image-prompt-3.webp",
+          "local_path": "images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/professional-businessman-headshot-in-grey-suit-ai-image-prompt-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Professional headshot of a young man with blue eyes and dark hair, wearing a navy blue suit, white shirt, and blue tie against a neutral grey background."
+        },
+        {
+          "filename": "professional-businessman-headshot-in-grey-suit-ai-image-prompt-6.webp",
+          "local_path": "images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/professional-businessman-headshot-in-grey-suit-ai-image-prompt-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/linkedin-profile-picture/professional-businessman-headshot-in-grey-suit-ai-image-prompt-6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

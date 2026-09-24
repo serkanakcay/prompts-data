@@ -1,0 +1,905 @@
+{
+  "category": "Line Art",
+  "slug": "line-art",
+  "total_prompts": 15,
+  "updated_at": "2026-09-24T12:57:57Z",
+  "prompts": [
+    {
+      "id": "6a7b7d1f4bbdbe2cf5977e30",
+      "title": "Man Doodle Line Art Collage Prompt",
+      "slug": "9-grid-doodle-line-art-collage",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Ultra-realistic 3x3 editorial lifestyle collage featuring the same mature man \n(match the attached reference photo) portrayed in nine imaginative professions, \nhobbies, and dream scenarios. Each panel blends real photography with hand-drawn black ink doodle illustrations, as if simple sketch art has come to life around \nhim. Minimalist white studio background, soft diffused lighting, subtle natural \nshadows, thin white borders separating each panel in a clean magazine-style grid. \nHyper-realistic photography combined with fine, monochrome black ink doodles and pencil-sketch texture. Professional DSLR quality, sharp focus, photorealistic \nrendering, 8K resolution, premium commercial/editorial advertising quality.\n\nKeep the man's facial identity, skin tone, hairstyle, sunglasses, expression, and \nnatural body proportions perfectly consistent across every panel.\n\nPanel 1 – Surfing: riding a surfboard in an energetic pose, surrounded by \nexpressive black ink sketches of waves, spray, and motion lines.\n\nPanel 2 – Astronaut: wearing a realistic NASA-style suit, floating weightlessly \nwith a rocket launching beneath him, hand-drawn stars and planets around him.\n\nPanel 3 – Reading on clouds: lying comfortably on a fluffy white cloud, \nsurrounded by cozy hand-drawn study-room doodles (books, lamp, tea cup).\n\nPanel 4 – Scientist: white lab coat, examining a glass test tube, surrounded by \nhand-drawn molecular structures, chemical formulas, bubbles, and a comic speech bubble reading \"PromptPlum!\"\n\nPanel 5 – Gardener: kneeling beside a raised wooden garden bed watering fresh \nvegetable plants, surrounded by illustrated herbs, leaves, flowers, tools, and insects.\n\nPanel 6 – Meditation: sitting cross-legged in lotus pose atop a large illustrated \nlotus flower, glowing aura circles and inspirational doodles behind him.\n\nPanel 7 – Chef: chef's uniform, holding tomatoes and zucchini, surrounded by \nhand-drawn steam curls and kitchen doodles.\n\nPanel 8 – Carpenter: protective gloves and safety glasses, hammering at a \nworkbench, surrounded by hand-drawn tools, rulers, screws, and wood shavings.\n\nPanel 9 – Artist: paint-splattered apron, mid-brushstroke on a landscape \npainting, surrounded by hand-drawn paint splashes, tubes, and sketch lines.\n\nAspect ratio 4:5.",
+      "description": "Use this Doodle Line Art Collage prompt to create a 9-grid image of a photorealistic man surfing, gardening, and painting against 2D sketch backgrounds.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 1225,
+      "copy_count": 567,
+      "is_premium": false,
+      "published_at": "2026-08-11T19:50:55.065Z",
+      "images": [
+        {
+          "filename": "ded24a5d-363a-45fb-8850-691992e4caba.webp",
+          "local_path": "images/line-art/ded24a5d-363a-45fb-8850-691992e4caba.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ded24a5d-363a-45fb-8850-691992e4caba.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/ded24a5d-363a-45fb-8850-691992e4caba.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/ded24a5d-363a-45fb-8850-691992e4caba.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "9-Grid Doodle Line Art Collage AI Photo Editing Prompt. AI generated digital illustration of a realistic 3D man doing various activities against black and white sketch backgrounds."
+        },
+        {
+          "filename": "e67c15ac-73a6-4625-899b-98df823c5ac4.webp",
+          "local_path": "images/line-art/e67c15ac-73a6-4625-899b-98df823c5ac4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e67c15ac-73a6-4625-899b-98df823c5ac4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/e67c15ac-73a6-4625-899b-98df823c5ac4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/e67c15ac-73a6-4625-899b-98df823c5ac4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Line Art Lifestyle Grid AI Photo Editing Prompt. AI generated artwork of a man portrayed as a scientist, astronaut, chef, and carpenter within a nine-panel doodle-style layout."
+        },
+        {
+          "filename": "03f8a413-a7b0-43f6-8b0d-fd62848edbce.webp",
+          "local_path": "images/line-art/03f8a413-a7b0-43f6-8b0d-fd62848edbce.webp",
+          "original_url": "https://img.promptplum.com/promptImages/03f8a413-a7b0-43f6-8b0d-fd62848edbce.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/03f8a413-a7b0-43f6-8b0d-fd62848edbce.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/03f8a413-a7b0-43f6-8b0d-fd62848edbce.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Multi-Hobby Sketch Collage AI Photo Editing Prompt. AI generated portrait illustration featuring a bearded man across nine hand-drawn scenes — from ocean surfing and space exploration to gardening, meditation, and fine art painting."
+        },
+        {
+          "filename": "29a5f4a7-69ab-43e7-a913-90ef27393538.webp",
+          "local_path": "images/line-art/29a5f4a7-69ab-43e7-a913-90ef27393538.webp",
+          "original_url": "https://img.promptplum.com/promptImages/29a5f4a7-69ab-43e7-a913-90ef27393538.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/29a5f4a7-69ab-43e7-a913-90ef27393538.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/29a5f4a7-69ab-43e7-a913-90ef27393538.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Doodle Line Art Character Grid AI Photo Prompt. AI generated digital art of a young man depicted as a surfer, astronaut, chef, and meditator on a hand-sketched white background.\""
+        },
+        {
+          "filename": "43110c1b-ba1d-4cb8-8c37-45588a453574.webp",
+          "local_path": "images/line-art/43110c1b-ba1d-4cb8-8c37-45588a453574.webp",
+          "original_url": "https://img.promptplum.com/promptImages/43110c1b-ba1d-4cb8-8c37-45588a453574.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/43110c1b-ba1d-4cb8-8c37-45588a453574.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/43110c1b-ba1d-4cb8-8c37-45588a453574.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Hand-Sketched Hobby Portrait AI Photo Editing Prompt. AI generated digital illustration of a mature man shown surfing, meditating, cooking, and painting in a nine-grid doodle art format."
+        },
+        {
+          "filename": "c60f2b1d-2c56-4acd-85c1-a1cc0e7a70fa.webp",
+          "local_path": "images/line-art/c60f2b1d-2c56-4acd-85c1-a1cc0e7a70fa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c60f2b1d-2c56-4acd-85c1-a1cc0e7a70fa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/c60f2b1d-2c56-4acd-85c1-a1cc0e7a70fa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/c60f2b1d-2c56-4acd-85c1-a1cc0e7a70fa.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Doodle Line Art Hobby Collage AI Photo Editing Prompt. Gemini AI generated digital illustration of a young man in nine hand-drawn scenes including surfing, astronaut, chemist, gardener, and painter."
+        }
+      ]
+    },
+    {
+      "id": "6a6d09ff4bbdbe2cf5371f91",
+      "title": "Trendy Anime Style Grunge Portrait Illustration",
+      "slug": "japanese-anime-style-illustration",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "An imaginative illustration of 'me', Japanese anime illustration style, highly distinct character features, natural expressive face, half-body shot, dynamic pose, highly detailed clothing, hand-drawn sketch style, ink splash brushstrokes, loose expressive lines, a mix of pastel and ink wash, rough manga draft texture, minimalist white background, floating symbolic elements around the character, moody and atmospheric, intricate details, masterpiece, 8k resolution, high quality.",
+      "description": "Aesthetic Digital Sketch Prompt: Get this prompt to generate trendy anime-style digital illustration character portraits with messy ink strokes.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 22,
+      "view_count": 1430,
+      "copy_count": 1955,
+      "is_premium": false,
+      "published_at": "2026-08-01T00:15:00.011Z",
+      "images": [
+        {
+          "filename": "de7e5bd4-21b9-422b-a083-586ebc87d19f.jpg",
+          "local_path": "images/line-art/de7e5bd4-21b9-422b-a083-586ebc87d19f.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/de7e5bd4-21b9-422b-a083-586ebc87d19f.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/de7e5bd4-21b9-422b-a083-586ebc87d19f.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/de7e5bd4-21b9-422b-a083-586ebc87d19f.jpg",
+          "width": 1122,
+          "height": 1402,
+          "alt": "aesthetic-messy-ink-character-illustration-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "a0cef8f9-5fdf-477f-b81b-040b19c1aea9.webp",
+          "local_path": "images/line-art/a0cef8f9-5fdf-477f-b81b-040b19c1aea9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a0cef8f9-5fdf-477f-b81b-040b19c1aea9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/a0cef8f9-5fdf-477f-b81b-040b19c1aea9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/a0cef8f9-5fdf-477f-b81b-040b19c1aea9.webp",
+          "width": 1150,
+          "height": 1368,
+          "alt": "aesthetic-messy-ink-character-illustration-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "b2da1d7c-69d5-4bcf-9d29-9867ce1f7d6e.jpg",
+          "local_path": "images/line-art/b2da1d7c-69d5-4bcf-9d29-9867ce1f7d6e.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/b2da1d7c-69d5-4bcf-9d29-9867ce1f7d6e.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/b2da1d7c-69d5-4bcf-9d29-9867ce1f7d6e.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/b2da1d7c-69d5-4bcf-9d29-9867ce1f7d6e.jpg",
+          "width": 1122,
+          "height": 1402,
+          "alt": "aesthetic-messy-ink-character-illustration-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "a64b3a97-6b4f-411a-992f-f838747fa27a.jpg",
+          "local_path": "images/line-art/a64b3a97-6b4f-411a-992f-f838747fa27a.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/a64b3a97-6b4f-411a-992f-f838747fa27a.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/a64b3a97-6b4f-411a-992f-f838747fa27a.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/a64b3a97-6b4f-411a-992f-f838747fa27a.jpg",
+          "width": 1149,
+          "height": 1369,
+          "alt": "aesthetic-messy-ink-character-illustration-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "3d2b547e-c0b8-4fa2-8818-f920bcf00ef6.webp",
+          "local_path": "images/line-art/3d2b547e-c0b8-4fa2-8818-f920bcf00ef6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d2b547e-c0b8-4fa2-8818-f920bcf00ef6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/3d2b547e-c0b8-4fa2-8818-f920bcf00ef6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/3d2b547e-c0b8-4fa2-8818-f920bcf00ef6.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "aesthetic-messy-ink-character-illustration-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "180681ce-9c3e-4e90-89e4-f7960018b3c4.jpg",
+          "local_path": "images/line-art/180681ce-9c3e-4e90-89e4-f7960018b3c4.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/180681ce-9c3e-4e90-89e4-f7960018b3c4.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/180681ce-9c3e-4e90-89e4-f7960018b3c4.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/180681ce-9c3e-4e90-89e4-f7960018b3c4.jpg",
+          "width": 1086,
+          "height": 1448,
+          "alt": "aesthetic-messy-ink-character-illustration-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "eeac6e1a-afcf-43cb-b313-ccd1b71a3fb4.jpg",
+          "local_path": "images/line-art/eeac6e1a-afcf-43cb-b313-ccd1b71a3fb4.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/eeac6e1a-afcf-43cb-b313-ccd1b71a3fb4.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/eeac6e1a-afcf-43cb-b313-ccd1b71a3fb4.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/eeac6e1a-afcf-43cb-b313-ccd1b71a3fb4.jpg",
+          "width": 1122,
+          "height": 1402,
+          "alt": "aesthetic-messy-ink-character-illustration-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "e4e6990a-e220-4814-acec-7d25184c24ad.webp",
+          "local_path": "images/line-art/e4e6990a-e220-4814-acec-7d25184c24ad.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e4e6990a-e220-4814-acec-7d25184c24ad.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/e4e6990a-e220-4814-acec-7d25184c24ad.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/e4e6990a-e220-4814-acec-7d25184c24ad.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "aesthetic-messy-ink-character-illustration-prompt-by-promptplum-7"
+        }
+      ]
+    },
+    {
+      "id": "6a65248d9d499d9af98afe47",
+      "title": "Colorful Scribble Art Family Portrait",
+      "slug": "colorful-scribble-art-family-portrait",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Create an ultra-detailed hand-drawn scribble-art portrait using the uploaded family photo only as the reference for each person’s facial identity, age, gender, skin tone, hairstyle, and family members. Include exactly the same 3 or 4 people—do not add, remove, replace, or merge anyone. Do not copy the original pose, composition, background, or exact clothing.\nCreate a fresh, professionally arranged family pose. Place the entire family prominently in the center of a vertical composition, close together with warm, natural interaction. Position the parents behind or beside the children, gently leaning inward. For one child, place them centrally between or slightly in front of the parents; an infant or toddler may be held naturally. For two children of any age or gender, arrange both clearly in the center foreground or between the parents with balanced spacing and every face fully visible. Give everyone warm, natural expressions directed toward the viewer.\nRestyle the family in coordinated, elegant outfits suitable for their age, gender, and cultural appearance. If the reference clothing is very simple, enhance it with richer colors, tasteful patterns, refined fabric details, subtle embroidery, layering, or appropriate accessories. The outfits should look stylish and complementary without becoming overly formal. Do not reproduce the exact original clothes.\nRender the portrait using thousands of overlapping, free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red. Preserve recognizable facial features, realistic anatomy, expressive eyes, intricate crosshatching, delicate shading, and accurate proportions.\nUse clean white textured paper as the background. Keep the family sharply detailed and fully defined at the center, while the outer edges of their clothing and surrounding linework gradually dissolve into loose, colorful scribbles and softly fade into the white background on both sides. Maintain balanced negative space around the centered family.\nEye-level medium family portrait, gallery-quality traditional pen-and-ink illustration, vibrant artistic energy, ultra-sharp detail, vertical composition. Aspect ratio 4:5.",
+      "description": "Scribble Art Portrait Prompt: Use this prompt to create a colorful ballpoint pen sketch of a smiling family posing on textured white paper.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 3342,
+      "copy_count": 2437,
+      "is_premium": false,
+      "published_at": "2026-07-25T21:03:09.299Z",
+      "images": [
+        {
+          "filename": "7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "local_path": "images/line-art/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Intricate Ballpoint Sketch Family Portrait AI Photo Editing Prompt. AI generated digital illustration art of a smiling woman and bearded man holding their baby against a white background."
+        },
+        {
+          "filename": "25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "local_path": "images/line-art/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/25db284a-00d8-485f-b6a2-12a65102955c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling mother and father holding their baby, drawn with colorful scribble lines."
+        },
+        {
+          "filename": "5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "local_path": "images/line-art/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated illustrative sketch art of a smiling Indian family with parents and baby in colorful traditional attire against a white background."
+        },
+        {
+          "filename": "011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "local_path": "images/line-art/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Happy Family Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling young family: father in a blue blazer, mother in a purple patterned dress, and baby in a fox sweater."
+        },
+        {
+          "filename": "34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "local_path": "images/line-art/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling husband and wife holding their baby girl in a vibrant ballpoint pen sketch style."
+        },
+        {
+          "filename": "eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "local_path": "images/line-art/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "original_url": "https://img.promptplum.com/promptImages/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Family Portrait Sketch Art AI Photo Editing Prompt. AI generated portrait illustration of a smiling Asian family of four, rendered in a textured, colorful scribble sketch art style."
+        },
+        {
+          "filename": "06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "local_path": "images/line-art/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "local_path": "images/line-art/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "local_path": "images/line-art/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "original_url": "https://img.promptplum.com/promptImages/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Colorful Scribble Art Family Portrait"
+        },
+        {
+          "filename": "725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "local_path": "images/line-art/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "local_path": "images/line-art/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-11"
+        },
+        {
+          "filename": "c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "local_path": "images/line-art/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "local_path": "images/line-art/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "original_url": "https://img.promptplum.com/promptImages/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-9"
+        }
+      ]
+    },
+    {
+      "id": "6a63bf0db99e3a48ae8f1282",
+      "title": "Trending Doodle Shadow",
+      "slug": "real-photo-doodle-art-portrait",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Use the uploaded character reference image as the strict identity and outfit reference. Preserve the reference character’s face identity, facial proportions, eye shape, nose, lips, skin tone, hairstyle, hair color, visible accessories, overall recognizable vibe, outfit and styling shown in the reference image\n\nDo not hardcode any specific character traits that are not present in the uploaded reference.\nAll identity, hairstyle, accessories, and clothing details must be inferred directly from the uploaded reference image.\n\nCreate a high-quality mixed-style vertical portrait showing:\n1. a realistic full-body version of the uploaded character/person\n2. a black hand-drawn doodle-shadow version of the same character/person on the wall beside them\n\nCore concept:\nThe real person and their doodle-shadow are doing a playful mischievous pose together.\nThe real person performs a cute realistic version of the pose, while the doodle-shadow performs a much more exaggerated, chaotic, cartoonish version of the same pose idea.\nThe mood should feel cute, playful, mischievous, stylish, funny, and social-media-friendly.\n\nReal person:\n- Must remain realistic and photogenic\n- Must wear the same outfit style and key visible details from the uploaded reference image\n- Do not replace the reference styling with unrelated fashion\n- Expression should be cute, slightly confused, mildly embarrassed, playful, as if thinking: “Why am I doing this with my shadow?”\n- The real person should not stand stiffly\n- The real person should actively participate in the pose, but in a natural realistic way\n\nDoodle-shadow:\n- Must be a black hand-drawn sketch version of the same person, drawn directly on the wall\n- Not a realistic second person\n- Not a normal physical shadow\n- Not a full-color anime character\n- Black sketch line-art only\n- Should resemble the person through hairstyle silhouette, accessories, outfit silhouette, and pose structure\n- The doodle-shadow should look more energetic, sillier, and more chaotic than the real person\n- Add manga-like motion lines, hearts, stars, sparkles, and comic marks around the doodle if helpful\n\nRandom mischievous pose rule:\nThe pose must NOT be fixed.\nFor each generation, invent a new playful mischievous pose for both the real person and the doodle-shadow.\nThe real person and the doodle-shadow should share the same general pose idea, but they do not need to match perfectly.\nThe real person performs a cute realistic version.\nThe doodle-shadow performs a much more exaggerated, chaotic, cartoonish version.\n\nDo not repeatedly use pointing poses.\nDo not repeatedly use finger-gun poses.\nDo not repeatedly use the same standing pose.\nDo not always make both figures simply point at each other.\n\nCreate a different mischievous pose each time.\n\nPossible pose directions are loose inspiration only, not a fixed menu:\n- playful idol pose\n- silly dance pose\n- leaning sideways with one arm curved overhead\n- making a big heart pose\n- cheeky wink pose\n- hands near cheeks in a cute teasing pose\n- exaggerated “that's it!” pose\n- mock surprise pose\n- playful running-in-place pose\n- mischievous tiptoe pose\n- arms stretched in opposite directions\n- pretending to sneak away\n- cute troublemaker pose\n- dramatic overreaction pose\n- goofy victory pose\n- playful balance pose\n- playful peekaboo pose\n- shy but mischievous pose\n- cute overconfident pose\n\nThe final pose should feel fresh, cute, mischievous, and slightly chaotic.\nThe real person should look like they are reluctantly playing along.\nThe doodle-shadow should look like it is having way too much fun.\n\nComposition:\n- vertical 3:4 or 2:3\n- show the real person in full-body or nearly full-body framing\n- place the real person on one side of the frame\n- place the black doodle-shadow on a clean wall beside them\n- the doodle-shadow should be roughly the same height or slightly taller\n- keep enough space around both figures so the full pose is visible\n- the connection between the real person and the doodle-shadow must be clear at a glance\n\nBackground:\n- simple clean indoor studio wall or minimal room corner\n- white, cream, or pale gray wall\n- clean floor\n- soft natural sunlight patch or gentle wall shadow allowed\n- keep the background uncluttered\n\nLighting:\n- soft natural studio lighting\n- bright, clean, polished, playful mood\n- keep the real person’s face clearly visible\n\nStyle quality:\n- realistic human photography\n- black hand-drawn doodle-shadow on wall\n- matching mischievous pose interaction\n- strong identity resemblance\n- outfit and styling faithfully based on the uploaded reference\n- cute and stylish mixed-media portrait\n- clean composition\n- social-media-friendly\n- no obvious AI artifacts\n\nNegative prompt:\nOutfit change unrelated to reference, realistic second person, normal reflection, normal shadow only, solid black monster shadow, horror shadow, creepy shadow, full-color illustration, cartoon human, anime human, weak resemblance, unrelated sketch character, messy wall, cluttered background, repeated pointing pose, repeated finger-gun pose, same pose every time, fixed pose, boring mirrored pose, stiff pose, identical pose repetition, real person not matching shadow pose, text, watermark, logo, distorted body, extra limbs, extra fingers, bad hands.",
+      "description": "Trending Instagram Doodle Art AI Prompt: Use this prompt to create a realistic studio portrait of a person with an expressive 2D comic doodle on a white wall.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 77,
+      "view_count": 2913,
+      "copy_count": 2018,
+      "is_premium": false,
+      "published_at": "2026-07-24T19:37:49.373Z",
+      "images": [
+        {
+          "filename": "996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "local_path": "images/line-art/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-10"
+        },
+        {
+          "filename": "74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "local_path": "images/line-art/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "original_url": "https://img.promptplum.com/promptImages/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Conceptual Photo Doodle AI Photo Editing Prompt. AI generated conceptual portrait of a young man in a white pinstripe shirt poking his cheeks, standing next to a large line-art doodle of his fearfully screaming self with 'EEK!' and 'RAWR!' text."
+        },
+        {
+          "filename": "7b187122-7775-421e-baec-58288223dfe9.webp",
+          "local_path": "images/line-art/7b187122-7775-421e-baec-58288223dfe9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7b187122-7775-421e-baec-58288223dfe9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/7b187122-7775-421e-baec-58288223dfe9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/7b187122-7775-421e-baec-58288223dfe9.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Real Photo with Doodle Art AI Prompt. AI generated mixed media portrait of a woman adjusting her glasses beside a playful black-and-white doodle sketch."
+        },
+        {
+          "filename": "ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "local_path": "images/line-art/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-7"
+        },
+        {
+          "filename": "2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "local_path": "images/line-art/2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Photo and Comic Sketch Composite AI Photo Editing Prompt. AI generated digital illustration and photo composite portrait of a smiling woman in black and brown clothing next to a hand-drawn comic sketch version of herself"
+        },
+        {
+          "filename": "9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "local_path": "images/line-art/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Real Photo with Doodle Art AI Photo Editing Prompt. AI generated mixed-media illustration of a smiling man peeking from behind a white wall next to an excited black-and-white cartoon line drawing of himself."
+        },
+        {
+          "filename": "985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "local_path": "images/line-art/985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "original_url": "https://img.promptplum.com/promptImages/985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Real Photo and Doodle Art AI Photo Editing Prompt. AI generated mixed media portrait of a winking woman in a pink sweater standing next to a playful black-and-white line illustration."
+        },
+        {
+          "filename": "b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "local_path": "images/line-art/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Doodle Art Photography AI Photo Editing Prompt. AI generated mixed media portrait of a smiling young man posing beside an excited cartoon doodle giving him bunny ears."
+        },
+        {
+          "filename": "b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "local_path": "images/line-art/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Woman with Doodle Art Overlay AI Photo Editing Prompt. AI generated mixed media portrait of a smiling woman in a blue cardigan and jeans posing beside her cartoon line art sketch."
+        },
+        {
+          "filename": "24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "local_path": "images/line-art/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "original_url": "https://img.promptplum.com/promptImages/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Cartoon Doodle Art AI Photo Editing Prompt. AI generated mixed media portrait of a smiling woman in an orange top posing next to an excited black-and-white line art sketch of herself on a white wall."
+        },
+        {
+          "filename": "614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "local_path": "images/line-art/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "original_url": "https://img.promptplum.com/promptImages/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "AI generated photo-illustration shows a man making a shush gesture against a wall featuring a matching black line art sketch."
+        },
+        {
+          "filename": "ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "local_path": "images/line-art/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-11"
+        }
+      ]
+    },
+    {
+      "id": "6a37fc71bf79ee5252c22de5",
+      "title": "The Cafe Window",
+      "slug": "girl-cafe-blue-pen-sketch",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Use the uploaded image strictly only for the woman’s facial identity and natural features. Preserve her face shape, facial proportions, eyes, eyebrows, nose, lips, skin tone, and overall likeness accurately. Keep her natural hair color from the reference, but style it as described below.\nCreate a high-resolution traditional blue ballpoint pen (Biro) illustration on lightly textured warm off-white paper, in a vertical 4:5 composition. The image should look hand-drawn with refined navy-blue ink linework, realistic pen pressure variation, delicate contour lines, dense cross-hatching, and visible paper grain. Add a subtle warm sepia/golden sunlight tint entering from the right side, blending naturally with the cool blue ink shadows.\nShow the woman seated at a wooden café table in a three-quarter side composition. Her body is angled slightly toward the left while her face is turned toward the right, gazing pensively out of frame with a quiet, thoughtful expression. One elbow rests on the tabletop and the matching hand gently supports her cheek and chin; her other arm rests naturally across her lap. Her pose should feel relaxed, candid, and emotionally reflective.\nGive her a messy loose bun/updo with fluid overlapping ink strokes, softly textured strands, and a few natural loose tendrils around her temples, cheeks, and neck. She wears a loose dark short-sleeve t-shirt and dark pants, rendered with rich near-solid navy ink, deep folds, and dense multidirectional cross-hatching. Keep her face softly luminous with sparse fine hatching, expressive eyes, defined lashes, natural brows, a straight nose, and softly parted full lips.\nIn front of her, place an open spiral-bound notebook on the wooden plank table. Fill the pages with small illegible handwritten notes and abstract sketches only, with no readable words. Add a small geometric triangle-like diagram on one page and a dark blue pen placed diagonally across the notebook. To the right, include an open zippered pencil pouch with several pens visible inside. Behind the notebook, place a white ceramic coffee mug on a saucer with a small spoon and subtle rising steam drawn using thin, soft negative-space lines.\nUse visible wood grain, plank gaps, and linear hatching across the tabletop, with the warm sunlight becoming more prominent toward the right edge. Seat her on a slatted wooden chair with curved ink hatching and realistic structure.\nCreate a softly detailed café background: a bright window on the right as the source of warm light, wooden cabinetry and potted plants on the left, a hanging plant or pendant lamp above, and a distant café guest seated with their back turned near the window. Keep all background elements lighter, softer, and less densely drawn than the woman and table objects, creating natural atmospheric depth and focus separation.\nThe woman, notebook, mug, and pencil pouch should have crisp, high-contrast, highly detailed blue ink lines. The background should remain airy and understated. Let the portrait and surrounding linework softly dissolve and fade into the paper around all four outer edges of the composition, especially near the corners and border, so the image blends naturally into the off-white paper instead of ending with hard defined edges. No photorealistic colors, no painted brushstrokes, no cartoon look, no thick black outlines, no readable text, no distorted hands, no extra fingers, no overly smooth skin.",
+      "description": "Ballpoint Pen Sketch Prompt: Copy & paste this prompt to create a detailed blue ink drawing of a thoughtful girl sitting in a cafe with a notebook and coffee cup.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 1132,
+      "copy_count": 885,
+      "is_premium": false,
+      "published_at": "2026-09-21T22:07:44.289Z",
+      "images": [
+        {
+          "filename": "1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "local_path": "images/line-art/1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/1e6e6f81-5f95-46d3-a199-0092902381a7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Thinking Woman in Cafe Sketch AI Photo Editing Prompt. AI generated detailed ink sketch illustration portrait of a pensive woman with a bun at a cafe desk, looking out a window with a notebook and coffee."
+        }
+      ]
+    },
+    {
+      "id": "6a1970266205d846d512e7e8",
+      "title": "Man in Suit Sketch Prompt",
+      "slug": "man-suit-sketch-prompt",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference. Preserve exact facial structure, proportions, eye shape, nose structure, sharpness, grooming, and natural asymmetry.\nPose & Composition\nSubject is seated upright with a straight spine.\nNeck perfectly straight, head level and centered, facing directly forward.\nAspect ratio: 4:5.\nFraming: Upper-chest to slightly above head shot.\nFace centered, head occupying approximately 75–80% of the frame.\nMinimal upper shoulder visibility. \nExpression:\nNeutral intense expression, eyes directly at camera, lips closed, subtle tension in eyes and brow.\nHair:\nHair is thick and natural with realistic flow, slight irregularity, believable strand direction using sharp ink strokes. Rendered with fine directional strokes, maintaining skin texture through linework.\nOutfit:\nHe wears a tailored black suit blazer (worn open) over a crisp white button-down dress shirt with a slim black tie.  matte fabric, subtle folds near neck and shoulders, rendered using cross-hatching (not flat black fill).\nStyle:\nUltra-detailed black-and-white ink engraving illustration. Heavy cross-hatching and line-based shading, varied stroke density and direction to define facial planes, scratch lines, etched strokes, and raw ink texture for a hand-drawn feel. Subtle bottom splash effect applied to the lower edge of the portrait to smoothly fade shoulders into background.\nLighting:\nStrong chiaroscuro using line density (no gradients). One side of face slightly darker, deep shadows under cheekbones, jawline, eye sockets, and neck. No soft lighting.\nBackground:\nClean off-white with minimal ink splatter around edges only. No environment.\nCamera & Lens:\nEye-level camera angle, 85mm perspective.\nAvoid:\nAnime, cartoon, soft shading, gradients, 3D, CGI, photorealism, color, glow, blur, smooth skin, beautified face, generic face, over-stylized hair, perfect symmetry, detailed background, logos, text, accessories, vector art.",
+      "description": "Pen and Ink Sketch Prompt: Copy & Paste this prompt to create a highly detailed, black and white crosshatch portrait of a handsome man in a sharp suit.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 81,
+      "view_count": 1237,
+      "copy_count": 3692,
+      "is_premium": false,
+      "published_at": "2026-08-10T17:36:40.489Z",
+      "images": [
+        {
+          "filename": "c2159582-a8da-49aa-b65b-16c2fc49525c.webp",
+          "local_path": "images/line-art/c2159582-a8da-49aa-b65b-16c2fc49525c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c2159582-a8da-49aa-b65b-16c2fc49525c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/c2159582-a8da-49aa-b65b-16c2fc49525c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/c2159582-a8da-49aa-b65b-16c2fc49525c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Suit Sketch AI Photo Editing Prompt. AI generated digital illustration portrait of a handsome bearded man wearing a sharp suit and tie in detailed black and white line art."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670506",
+      "title": "Vintage Ocean Portrait Sketch",
+      "slug": "vintage-ocean-portrait-sketch",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Create a 4:5 aspect ratio, highly detailed black-and-white graphite pencil portrait of a beautiful reference female subject standing near the ocean, shown from the chest up in a classic vintage style. She has soft expressive eyes gazing slightly off-camera, naturally arched eyebrows, defined lips slightly parted, and a calm, emotional expression that feels thoughtful, wistful, and quietly romantic. Her long wavy hair is loose and windswept, with strands flowing across her forehead and outward in the sea breeze. She wears small delicate drop earrings and a vintage period outfit: a softly draped embroidered outer garment with decorative floral trim along the edges, layered over a fitted dress with a square neckline, lace edging, subtle stitched floral detailing on the bodice, and gentle fabric folds.\n\nThe background shows a calm ocean horizon with gentle waves and a simple wooden railing behind her, softly sketched with horizontal pencil strokes. Use realistic graphite shading, fine cross-hatching, visible pencil texture, soft paper grain, detailed hair strokes, subtle facial shadows, natural skin shading, and hand-drawn sketch realism. Keep the composition centered, chest-up framing, timeless romantic mood, elegant seaside atmosphere, highly detailed pencil artwork, monochrome, no color, no digital painting look, no text, no watermark, no signature.",
+      "description": "Pencil Sketch Illustration Prompt: Copy & Paste this prompt to create a beautiful graphite drawing of a woman with flowing hair standing by the sea in a floral embroidered dress.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 69,
+      "view_count": 901,
+      "copy_count": 2598,
+      "is_premium": false,
+      "published_at": "2026-08-10T18:02:47.061Z",
+      "images": [
+        {
+          "filename": "woman-by-the-sea-pencil-sketch-illustration-by-promptplum-3.webp",
+          "local_path": "images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman by the Sea Sketch AI Photo Editing Prompt. AI generated pencil sketch portrait of a woman with flowing wavy hair in an embroidered dress standing by a wooden railing near the ocean."
+        },
+        {
+          "filename": "woman-by-the-sea-pencil-sketch-illustration-by-promptplum-2.webp",
+          "local_path": "images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-2.webp",
+          "width": 1824,
+          "height": 2344,
+          "alt": "Woman Pencil Sketch AI Photo Editing Prompt. AI generated pencil sketch illustration of a young woman with flowing hair and a floral embroidered top standing by an ocean railing."
+        },
+        {
+          "filename": "woman-by-the-sea-pencil-sketch-illustration-by-promptplum-1.webp",
+          "local_path": "images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/woman-by-the-sea-pencil-sketch-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated pencil sketch illustration of a young woman with flowing wavy hair and an embroidered robe standing near a seaside railing."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f9",
+      "title": "Ballpoint Gaze",
+      "slug": "blue-ballpoint-pen-girl-sketch",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Create a highly detailed portrait rendered in a monochromatic blue ballpoint pen drawing style. The artwork should feature intricate, swirling, thread-like pen lines, especially in the hair, where dense, flowing, Chaotic strokes partially overlap and interact with the face, neck, and shoulders. The linework should feel organic and expressive yet precisely controlled, with no randomness. The subject’s head is slightly tilted upward, with the gaze directed off-camera to the left, conveying a calm, introspective expression. Head-and-shoulders framing, slightly including the upper chest and both shoulders (no outfit visible), with a centered composition and balanced negative space.\nFacial features must remain realistic and well-defined, smoothly emerging from the dense linework through subtle variations in pen pressure and line density. Use only deep indigo/blue ink tones, with no other colors.\nBackground must be clean white, untouched, allowing strong contrast with the blue ink. Create depth and volume using cross-hatching, layered strokes, and natural gradients formed only by line density, not shading or color fills.\nOverall look: elegant, hand-drawn, fine-art ballpoint illustration, contemporary yet timeless.\nAspect ratio: 4:5 (vertical portrait)\nNo text, no borders, no extra elements.",
+      "description": "Ballpoint Pen Sketch Prompt: Copy & Paste this prompt to create a realistic blue ink portrait drawing of a beautiful woman with flowing wavy hair.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 45,
+      "view_count": 631,
+      "copy_count": 1550,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "blue-pen-woman-wavy-hair-portrait-by-promptplum.webp",
+          "local_path": "images/line-art/blue-pen-woman-wavy-hair-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/blue-pen-woman-wavy-hair-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/blue-pen-woman-wavy-hair-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/blue-pen-woman-wavy-hair-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Blue Ink Woman Portrait AI Photo Editing Prompt. AI generated ballpoint pen illustration of a young woman with voluminous wavy hair looking thoughtfully to the side."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f1",
+      "title": "Waves of Thought",
+      "slug": "black-white-engraved-portrait-man",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Create a premium ultra-detailed monochrome line-art portrait of the uploaded subject in a dense hand-drawn engraving and topographic contour style. The final image must look like a luxury editorial portrait illustration, not a simple vector sketch.\n\nComposition:\nCreate a tight bust-length portrait in a vertical 4:5 aspect ratio. The subject should fill most of the frame from upper chest to head, with the head large and prominent. Keep the subject centered and slightly turned in a subtle three-quarter pose, while the face remains mostly front-facing. The head is upright, posture composed, shoulders relaxed, and the portrait feels calm, confident, elegant, and premium.\n\nExpression:\nThe subject should not look sad, tired, angry, or emotionally heavy. Keep the expression calm, confident, pleasant, composed, and naturally self-assured. Eyes should look softly forward or slightly off-camera with a refined, alert, dignified presence. Lips should be closed with a neutral-to-subtle pleasant expression, not downturned.\n\nSubject details:\nAdapt the facial structure naturally to the uploaded subject, suitable for any person of any age. Preserve the person’s natural face shape, hairstyle, facial hair if present, brow shape, nose structure, lips, jawline, ears, and overall personality. Make the face realistic and highly dimensional using only flowing contour lines. Do not beautify the subject into a generic model. Do not make the subject younger, older, sadder, or more stylized than necessary.\n\nFacial linework:\nThe entire face must be sculpted with dense flowing cross-contour lines that wrap around the anatomy like topographic map lines. Use line direction and spacing to describe the forehead, brow ridge, eyelids, under-eye area, nose bridge, nostrils, cheeks, lips, chin, jawline, neck, and subtle expression lines. The face should have rich dimensional form, with shadows created only by tighter line density and highlights created by wider line spacing. No solid black fills and no grayscale shading.\n\nEyes:\nMake the eyes one of the sharpest focal points. Render the eyelids, pupils, iris detail, under-eye contours, and brow structure with precise black ink linework. The eyes should feel alive, calm, and naturally expressive, not blank or cartoonish.\n\nHair:\nRender the subject’s natural hairstyle with extremely dense, premium, layered ink strands. Hair should be detailed, polished, and dimensional, with visible directional flow, volume, hair mass, crown structure, side texture, hairline, and individual curved strand groups. Use darker, tighter line clusters in shadowed hair areas, but avoid flat black fill.\n\nClothing:\nDress the subject in a structured tailored blazer or formal jacket over an open-collar button-up shirt, regardless of the original casual clothing. The outfit should feel refined, timeless, and editorial. Show clear lapels, jacket seams, collar folds, shirt opening, fabric tension, shoulder structure, and chest-level garment detail. Render the blazer and shirt with very dense engraving-style hatching and crosshatching, creating a premium woven fabric texture. Clothing should look detailed and formal, not like a sweater or plain T-shirt.\n\nBackground:\nUse a clean white background with abstract flowing contour-line formations around the head and shoulders. The background lines should look like smoke, vapor, organic waves, or topographic currents, but they must stay secondary to the portrait. They should blend naturally around the hair and shoulders without overpowering the subject. Keep the background elegant, minimal, and spacious, but not empty.\n\nLine style:\nUse ultra-fine black ink strokes with subtle line-weight variation. Combine continuous contour lines, fingerprint-like grooves, engraved hatching, and sculptural cross-contour mapping. The portrait should be built entirely through black line density, spacing, rhythm, and curvature. Use many more fine lines on the face, hair, jacket, and shirt than in a simple outline drawing.\n\nQuality target:\nThe final artwork should look highly premium, intricate, museum-worthy, hypnotic, and editorial. It should feel like a master engraving mixed with modern generative topographic line art. Keep the portrait realistic, detailed, elegant, and visually rich.\n\nAvoid:\nDo not create a simple vector portrait.\nDo not create sparse linework.\nDo not make the subject too small in the frame.\nDo not show too much torso.\nDo not use casual sweater clothing.\nDo not use flat black fills.\nDo not use grayscale shading.\nDo not make the expression sad, tired, angry, or melancholic.\nDo not make the background more detailed than the face.\nDo not turn the image into cartoon, anime, caricature, or minimal logo-style art.\nDo not simplify the hair, face, blazer, or shirt.",
+      "description": "Vintage Engraving Style Illustration Prompt: Copy & paste this detailed prompt to generate a classic, intricate black and white etching portrait of a man in a suit against a wavy topographic pattern background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 34,
+      "view_count": 633,
+      "copy_count": 1606,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "local_path": "images/line-art/man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Engraved Man Portrait AI Photo Editing Prompt. AI generated digital illustration of a detailed line art portrait of a bearded man in a textured suit against a topographic background."
+        },
+        {
+          "filename": "man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "local_path": "images/line-art/man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Engraved Young Man Portrait AI Photo Editing Prompt. AI generated detailed line art illustration of a young man with thick wavy hair in a textured blazer, featuring radiating background lines."
+        },
+        {
+          "filename": "man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "local_path": "images/line-art/man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated engraving-style digital illustration portrait of a sharp-looking man in a textured suit, set against a swirling line pattern background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704bf",
+      "title": "Vintage Elegance",
+      "slug": "vintage-woman-rose-hat-pencil-sketch",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Create an ultra-detailed, soft graphite pencil portrait in a refined, classical illustration style, as if drawn by a master traditional artist on high-quality textured paper. The artwork must feel entirely hand-crafted — no digital or AI artifacts.\n\nSubject:\nA graceful woman in a vintage Victorian-inspired aesthetic. Delicate facial features, smooth skin tones, soft natural expression, slightly parted lips, and calm, elegant eyes looking back over her shoulder.\n\nPose (LOCK):\nUpper-body portrait (chest-up). Body turned away from the viewer (~30–40°), with the back partially visible. Head turned back over the shoulder toward the viewer. Maintain natural neck curve and shoulder depth — no flat pose.\n\nStyling & Details:\nWearing an ornate wide-brim hat decorated with large soft flowers and subtle foliage. Hair styled in a loose, elegant low bun with soft curled strands framing the face. Long delicate drop earrings with fine detailing.\nOutfit features a high-neck vintage blouse with intricate lace patterns, ruffles, and soft fabric folds. Every fabric texture must be highly detailed yet soft.\n\nArt Style (VERY IMPORTANT):\n– Hyper-detailed graphite pencil shading\n– Extremely soft gradients and smooth tonal transitions\n– Fine linework with subtle pressure variation\n– No harsh outlines, no cartoon feel\n– Realistic skin shading using layered strokes\n– Visible but refined pencil texture (paper grain slightly noticeable)\n– Depth created through light and shadow, not contrast exaggeration\n\nLighting:\nSoft diffused studio lighting from front-left, creating gentle highlights on face and smooth shadow transitions. No harsh shadows.\n\nBackground:\nClean, minimal, light gray paper background with subtle texture. No distractions.\n\nQuality:\nExtremely high detail, 8K-level precision. Every strand of hair, fabric fold, and ornament must feel carefully hand-drawn.\n4:5 aspect ratio.\n\nNegative Prompt:\nNo digital painting look, no AI artifacts, no over-sharpening, no plastic skin, no exaggerated contrast, no modern styling, no color — strictly monochrome graphite.",
+      "description": "Vintage Pencil Sketch Illustration Prompt: Copy & Paste this Prompt to create a detailed graphite drawing of an elegant woman wearing a rose-adorned hat and Victorian lace attire.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 69,
+      "view_count": 891,
+      "copy_count": 2278,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-2.webp",
+          "local_path": "images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Vintage Woman Sketch AI Photo Editing Prompt. AI generated pencil sketch portrait of an elegant woman in a Victorian lace dress and a large floral hat."
+        },
+        {
+          "filename": "vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-3.webp",
+          "local_path": "images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Vintage Woman with Rose Hat AI Photo Editing Prompt. AI generated pencil sketch portrait illustration of an elegant woman wearing a rose-adorned hat and Victorian-style lace dress."
+        },
+        {
+          "filename": "vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-1.webp",
+          "local_path": "images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/vintage-woman-rose-hat-lace-portrait-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated pencil sketch portrait illustration of an elegant woman wearing a rose-adorned hat and Victorian-style lace dress."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704a9",
+      "title": "Rugged Restraint",
+      "slug": "man-portrait-pencil-sketch",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Use the uploaded image ONLY for face and identity reference. Preserve exact facial structure, proportions, skin tone, and natural features. Do not copy pose, expression, or composition from the reference image.\nCreate a highly detailed black-and-white hand-drawn portrait in a raw, expressive sketch style.\n\nPOSE & COMPOSITION (STRICTLY LOCKED)\n\nThe subject is standing upright, front-facing directly toward the camera, with a straight body alignment. Shoulders are level and relaxed, not angled or turned. The head is positioned naturally upright with only a very subtle tilt (not exaggerated), and the gaze is directed forward (slightly soft, not staring aggressively).\n\nFraming is centered and symmetrical, with the subject placed exactly in the middle of the canvas. Composition includes head to upper torso (upper-chest visible). The pose must feel neutral, grounded, and stable — no dynamic angles, no leaning, no rotation, no profile or three-quarter view.\n\nExpression should feel story-driven and introspective, not overly intense — a calm, thoughtful, slightly distant gaze that suggests emotion beneath the surface.\nHair is slightly dark, messy and natural, drawn with loose, energetic strokes that extend outward beyond the silhouette, creating a sense of movement and artistic chaos. Some stray lines should break the boundaries of the face and background for a dynamic, unfinished aesthetic.\n\nRendering style must be extremely detailed and tactile, using:\nDense cross-hatching and fine linework for shadows\nLayered sketch strokes to build depth and texture\nStrong contrast between light and shadow, especially around eyes, cheekbones, and jawline\nVisible construction lines and sketch marks to maintain a raw, authentic feel\n\nFacial details should be sharply defined:\nDeep, realistic eyes with subtle reflections\nNatural skin texture built through line density (not smooth shading)\nStructured nose and defined lips with soft tonal transitions\n\nLighting should feel like a dramatic single-source studio light, creating bold highlights on one side of the face and deep shadow gradients on the other, enhancing dimensionality.\n\nSHADOW DETAIL (IMPORTANT)\nAdd a soft but clearly visible shadow cast on one side behind the subject onto the background, aligned with the light direction. The shadow should be diffused yet structured, enhancing depth and realism.\n\nBackground is clean white with abstract sketch lines and scribbles radiating outward, blending into the subject’s hair and form, reinforcing the artistic and expressive mood.\n\nBOTTOM FADE EFFECT (CRITICAL STYLE ELEMENT)\nThe subject’s body should gradually dissolve into loose sketch strokes toward the lower portion, fading from detailed rendering into incomplete, expressive lines.\n\nNEGATIVE SPACE (IMPORTANT)\nMaintain balanced negative space on all four sides. The subject must not touch the frame edges. Keep clear breathing room above the head, on both sides, and below the torso for a premium, gallery-style composition.\n\nStyle inspiration: fine ink/charcoal hybrid sketch, modern editorial illustration, raw and emotional, highly textured, imperfect yet intentional.\n\nAspect ratio: 4:5 vertical\nUltra-high detail, crisp line quality, no blur, no painterly softness — strictly sketch-based rendering.",
+      "description": "Charcoal Sketch Portrait Prompt: Use this prompt to generate professional black and white hand-drawn illustrations of men with messy hair and expressive, detailed facial features.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 111,
+      "view_count": 1801,
+      "copy_count": 4282,
+      "is_premium": false,
+      "published_at": "2026-08-13T02:51:49.395Z",
+      "images": [
+        {
+          "filename": "man-sketch-portrait-by-promptplum.webp",
+          "local_path": "images/line-art/man-sketch-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-sketch-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/man-sketch-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/man-sketch-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Sketch AI Photo Editing Prompt. AI generated pencil sketch portrait of a handsome man with messy hair and a beard featuring expressive cross-hatching and artistic charcoal lines."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670498",
+      "title": "Cross-Hatched Profile",
+      "slug": "male-portrait-ink-sketch-line-art",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Use the uploaded image strictly ONLY for face and identity reference. Preserve exact facial structure, proportions, eye shape, nose structure, jawline sharpness, grooming, and natural asymmetry.\nPose & Body Position:\nSubject is seated upright (not leaning), with a straight spine and stable posture. Neck is perfectly straight and aligned vertically with the spine — no tilt, no rotation, no forward/backward bend. Head remains level and centered, facing directly forward.\nUltra-tight vertical portrait (4:5), crop from mid-neck to slightly above hair top, face centered, straight-on angle, head filling ~85–90% of frame, minimal upper shoulder visibility.\nNeutral intense expression, eyes directly at camera, no smile, lips closed, subtle tension in eyes and brow.\nHair should be thick and natural with realistic flow, not overly stylized or inflated. Avoid perfect volume or “hero hair”. Maintain slight irregularity, weight, and believable strand direction using sharp ink strokes.\nOutfit: Black minimal fitted high-neck clothing, matte fabric, subtle folds near neck and shoulders, rendered using cross-hatching (not flat black fill).\nStyle: ultra-detailed black-and-white ink engraving illustration. Heavy cross-hatching and line-based shading. Use varied stroke density and direction to define facial planes. Avoid uniform or repetitive patterns. Include scratch lines, etched strokes, and raw ink texture for a hand-drawn feel.\nLighting: strong chiaroscuro using line density (no gradients). One side of face slightly darker. Deep shadows under cheekbones, jawline, eye sockets, and neck. No soft lighting.\nDetails: subtle facial scars and scratch marks. If a beard is present in the reference image, it is rendered with fine directional strokes, and skin texture is defined through linework (not smooth shading).\nBackground: clean white with minimal ink splatter around edges only. No environment.\nAvoid generic face generation. Preserve raw individuality from reference.\nNegative prompt: anime, cartoon, soft shading, gradients, 3D, CGI, photorealism, color, glow, blur, smooth skin, beautified face, generic face, over-stylized hair, perfect symmetry, detailed background, logos, text, accessories, vector art",
+      "description": "Pen and Ink Portrait Prompt: Use this prompt to generate a detailed black and white sketch of a man with textured hair and realistic cross-hatching.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 715,
+      "copy_count": 1210,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "local_path": "images/line-art/man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/man-black-and-white-sketch-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Ink Sketch AI Photo Editing Prompt. AI generated digital ink illustration of a man with textured hair and sharp features depicted through detailed cross-hatching."
+        },
+        {
+          "filename": "man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "local_path": "images/line-art/man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/man-black-and-white-sketch-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Ink Sketch Prompt. AI generated digital illustration of a rugged bearded man featuring detailed cross-hatching and ink splatter art."
+        },
+        {
+          "filename": "man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "local_path": "images/line-art/man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/man-black-and-white-sketch-illustration-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "AI generated digital sketch illustration of a handsome young man with messy hair and sharp features wearing a black turtleneck sweater."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670470",
+      "title": "Cross-Hatched Mind",
+      "slug": "stylized-drawing-illustration",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Create an 8K highly detailed head-and-neck portrait illustration of a person using the provided face reference. Preserve the exact facial proportions, identity, and unique features without alteration.\nComposition:\nThe frame must include only the head and neck, tightly composed and perfectly centered. Maintain balanced negative space around the head and hair. The subject is looking directly into the camera with a strict eye-level, front-facing angle (no tilt). Expression should be calm, composed, and neutral.\nArt Style:\nRender the artwork as a raw, chaotic ink-style poster, constructed primarily from dense, curved black scribble strokes. The reference image is used strictly for accurate structure and likeness—do not stylize beyond recognition.\nLine Work & Form:\nBuild hair, facial shadows, and depth using layered, overlapping, uneven lines\nIncorporate rough cross-hatching techniques\nLines should feel organic, tangled, expressive, and slightly imperfect\nEmbrace a sense of controlled chaos and hand-drawn energy\nColor Palette (Strictly Minimal):\nSkin: flat beige tone only (no gradients, no realism)\nStructure & shading: deep black ink strokes only\nNo smooth blending or polished rendering\nStylistic Details:\nIntroduce slight asymmetry in line flow for a natural, raw feel\nSurround the subject with an irregular, abstract, tangled aura made of loose scribbles\nEnhance the chaotic energy while maintaining structural clarity\nBackground:\nA solid, flat, vibrant orange background, clean and uniform, creating strong contrast with the black ink work\nLighting:\nLighting should be implied only through line density—do not use realistic lighting or shading techniques\nOverall Look:\nHigh-contrast, graphic, poster-like aesthetic with a raw, expressive ink illustration style\nStrictly Avoid:\nNo outfit visible\n3D effects\nRealistic rendering\nGradients\nSoft shading\nAny polished or clean digital finish\nStyle Direction:\nExpressive ink illustration / raw sketch poster / abstract line-art portrait\nOutput Quality:\n8K resolution\nAspect Ratio: 4:5",
+      "description": "Sketch Illustration Portrait Prompt: Use this prompt to generate a hand-drawn artistic sketch of a man or woman with a calm gaze against a solid orange background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 442,
+      "copy_count": 655,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:14:38.751Z",
+      "images": [
+        {
+          "filename": "man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "local_path": "images/line-art/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Sketch AI Photo Editing Prompt. AI generated digital sketch illustration of a man with curly hair and detailed facial features against a vibrant orange background."
+        },
+        {
+          "filename": "woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "local_path": "images/line-art/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Sketch Portrait on Orange AI Photo Editing Prompt. AI generated digital sketch illustration of a woman with messy dark hair and cross-hatched details against a vibrant orange background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670450",
+      "title": "Splattered Noir",
+      "slug": "intense-man-ink-sketch-portrait",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Use the uploaded image as a strict identity reference. The subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, hairstyle, and beard density must remain 100% identical. No beautification, no stylization drift, no identity alteration.\n\nCreate a high-contrast black-and-white neo-noir ink illustration portrait with a gritty, intense cinematic mood.\n\nComposition & Framing\n\nAspect ratio: 4:5 vertical\n\nFraming: Tight head-and-neck portrait (slightly below collarbone visible)\n\nSubject fills ~80–85% of the frame\n\nFace is centered but not perfectly flat — very slight natural asymmetry\n\nPose & Head Position (FIXED)\n\nHead is facing forward but subtly turned a few degrees to the subject’s left (viewer’s right)\n\nChin is slightly lowered, creating a mild downward intensity\n\nOne side of the face appears very slightly more dominant due to angle, not perfectly symmetrical\n\nShoulders are minimally visible and slightly angled, not squared flat\n\nOverall pose feels grounded, natural, and slightly leaning forward into frame\n\nEye Direction & Expression\n\nDirect eye contact, but with a slightly narrowed, focused gaze\nEyes are not wide — subtle intensity with relaxed eyelids\nExpression remains serious, calm, and controlled\nHair & Beard\nThick, slightly voluminous hair styled naturally with subtle forward flow\nVisible strand detailing with ink strokes\nShort, rugged beard with realistic density and sharp edges\nMust match reference exactly (no trimming or redesigning)\nStyle & Rendering\nUltra-detailed ink illustration / engraving style\nHeavy use of cross-hatching, fine linework, and scratch textures\nHigh micro-detail in skin, beard, and hair\nVisible hand-drawn imperfections, sketch lines, and etched shading\nGraphic novel / neo-noir aesthetic, not photorealistic\nLighting\nDramatic high-contrast chiaroscuro lighting\nStrong shadows defining cheekbones, jawline, and eye sockets\nBright highlights on forehead, nose bridge, and cheek planes\nDeep blacks in hair, beard, and shadow regions\nBackground\nClean white background with black ink splatter effects\nRandom ink drops, streaks, and scratch marks around the subject\nMinimal but gritty, enhancing the raw illustrated feel\nClothing\nDark, formal outfit (black suit, white shirt)\nSubtle linework detail, not distracting from face\nQuality & Finish\nUltra-sharp, highly detailed\nCrisp edges, no blur\nProfessional editorial illustration quality\nNegative Prompt (Strict)\nanime, cartoon, 3D, CGI, soft shading, smooth skin, glow effects, blur, low contrast, color, warm tones, painterly, watercolor, oil painting, photorealism, smiling, open mouth, exaggerated features, distorted anatomy, different hairstyle, clean digital airbrush style, glossy skin",
+      "description": "Sketch Portrait Prompt: Use this prompt to create a sophisticated, high-contrast ink portrait of a intense man in a suit featuring detailed cross-hatching and artistic splatters.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 69,
+      "view_count": 1162,
+      "copy_count": 2490,
+      "is_premium": false,
+      "published_at": "2026-08-10T17:57:59.585Z",
+      "images": [
+        {
+          "filename": "bearded-man-in-suit-ink-sketch-illustration-portrait-by-promptplum.webp",
+          "local_path": "images/line-art/bearded-man-in-suit-ink-sketch-illustration-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bearded-man-in-suit-ink-sketch-illustration-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/bearded-man-in-suit-ink-sketch-illustration-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/bearded-man-in-suit-ink-sketch-illustration-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Neo-noir Ink Illustration Portrait Prompt. AI generated black and white ink illustration portrait of a bearded man with styled hair wearing a formal suit and tie featuring artistic splatters."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670349",
+      "title": "Intense Assassin",
+      "slug": "intense-assassin",
+      "category": "Line Art",
+      "category_slug": "line-art",
+      "prompt": "Hyper-realistic, dramatic black-and-white neo-noir assassin portrait illustrated in an ultra-detailed ink engraving / cross-hatching style.\nComposition & Framing\nVertical 4:5 portrait.\nSubject positioned on the left with 0% margin. occupies approximately the left 60–65% of the canvas.\nThe right 35–40% must remain clean white negative space.\nApproximately 2/3 of the face is visible, cropped vertically through the centre of the eye.\nFraming is a tight cinematic close-up:\n• top crop slightly mid hair\n• bottom crop just above the upper shoulder\nFace orientation is almost straight toward the viewer, with a very slight forward angle.\nThe eyes must be the strong focal point.\nSubjects Hair Styling (Corrected Fix)\nDetect the user's hairstyle in the uploaded image and rebuild it with the same level of extreme detail as the assassin artwork, focusing on natural thickness and texture, not simplified or well-groomed.\nHair must appear:\n• Natural thick, layered hairstyle (not thin or short)\n• Dark colour\n• High-volume, dynamic messy flow\n• Slightly wet affected\n• Highly textured with slightly meticulous individual strand rendering\n• Large side-swept shape\nHair rendering requirements:\n• Flowing hair with extreme detail\n• Dynamic messy flow\n• Subtle Individual, flowing hair strands meticulous rendering\n• Loose strands falling naturally across the forehead\nThe hair should feel slightly wet and intense, like a noir action character, created with extreme attention to detail.\nBeard Enhancement (Critical Fix)\nDetect facial hair from the uploaded image and convert it into a rugged assassin beard texture.\nRules:\nIf clean shave → add light rugged stubble\nIf stubble → convert to short dense stubble\nIf beard → intensify beard density and texture with high volume\nBeard rendering must include:\n• visible hair strokes\n• cross-hatched beard shadows\n• strong jawline definition\n• natural beard thickness\nBeard must feel raw and masculine, not perfectly groomed.\nSkin Texture\nAdd subtle gritty elements:\n• light scars\n• scratches\n• ink splatter marks\n• rough skin texture\nSkin shading must use dense cross-hatching, not smooth gradients.\nThis creates a battle-hardened assassin aesthetic.\nLighting\nExtreme noir chiaroscuro lighting.\n• One side of the face has deep shadow due to the lighting effect\n• other side strong illumination\nShadows formed by dense ink hatching.\nContrast must be very high.\nIllustration Style\nUltra-detailed ink-engraving illustration.\nVisible:\n• cross-hatching\n• ink scratches\n• line textures\n• rough engraving strokes\nInspired by:\n• noir graphic novels\n• vintage engraving art\n• crime thriller posters\nBackground must remain clean white with large negative space.\nMood\nDark, brutal, cinematic assassin character.\nExpression intense, dangerous.",
+      "description": "Google Gemini AI Sketch Editing Prompt: Use this prompt to create a high-contrast, manga-style ink drawing of a rugged bearded man featuring intricate line work and an intense gaze.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 186,
+      "view_count": 5267,
+      "copy_count": 12849,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_89morf89morf89mo.jpg",
+          "local_path": "images/line-art/Gemini_Generated_Image_89morf89morf89mo.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_89morf89morf89mo.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/Gemini_Generated_Image_89morf89morf89mo.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/Gemini_Generated_Image_89morf89morf89mo.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated: A black and white ink drawing close-up portrait of a man with a gritty, intense expression. Rendered with detailed cross-hatching and splatters, the artwork shows a bearded man with dark, messy hair and intense eyes looking directly at the viewer. Sweat or dirt speckles cover his face and neck, contributing to the raw, worn feel. The portrait is tightly cropped against a stark white background, emphasizing the dramatic contrast and texture of the ink work."
+        },
+        {
+          "filename": "detailed-ink-sketch-portrait-bearded-man-by-promptplum-2.webp",
+          "local_path": "images/line-art/detailed-ink-sketch-portrait-bearded-man-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/detailed-ink-sketch-portrait-bearded-man-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/detailed-ink-sketch-portrait-bearded-man-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/detailed-ink-sketch-portrait-bearded-man-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Ink Sketch AI Photo Editing Prompt. AI generated digital illustration of a rugged man's face featuring high-contrast pen-and-ink cross-hatching and an intense gaze."
+        },
+        {
+          "filename": "detailed-ink-sketch-portrait-bearded-man-by-promptplum-1.webp",
+          "local_path": "images/line-art/detailed-ink-sketch-portrait-bearded-man-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/detailed-ink-sketch-portrait-bearded-man-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/line-art/detailed-ink-sketch-portrait-bearded-man-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/line-art/detailed-ink-sketch-portrait-bearded-man-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Bearded Man Ink Sketch AI Art Prompt. AI generated detailed ink sketch illustration of a rugged bearded man with messy hair and an intense gaze."
+        }
+      ]
+    }
+  ]
+}
