@@ -1,0 +1,420 @@
+{
+  "category": "CGI Art",
+  "slug": "cgi-art",
+  "total_prompts": 8,
+  "updated_at": "2026-09-24T12:52:06Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670502",
+      "title": "Exaggerated 3D Avatar",
+      "slug": "exaggerated-3d-avatar",
+      "category": "CGI Art",
+      "category_slug": "cgi-art",
+      "prompt": "Extreme 3D CGI cartoon of [character] extremely exaggerated proportions and oversized features for maximum comic effect. Head and shoulders portrait photo, incredibly styled with bold and dramatic expressions. Ultra soft matte materials. Character perspective. Saturated orange gradient background that creates a strong visual contrast. Soft lighting and ambient shadows for depth.",
+      "description": "Exaggerated 3D Avatar Prompt: Copy & paste this prompt to create expressive 3D character illustrations of characters with highly dramatic facial expressions on a bright orange background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 51,
+      "view_count": 1120,
+      "copy_count": 1881,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "local_path": "images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-1.webp",
+          "width": 1888,
+          "height": 2246,
+          "alt": "Shocked Exaggerated Avatar AI Photo Editing Prompt. AI generated 3D illustration of a bearded man with an extreme surprised expression on an orange background."
+        },
+        {
+          "filename": "hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "local_path": "images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-3.webp",
+          "width": 880,
+          "height": 1205,
+          "alt": "Grinning Exaggerated Avatar AI Photo Editing Prompt. AI generated 3D illustration of a blonde man with a massive, exaggerated smile on an orange background."
+        },
+        {
+          "filename": "hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "local_path": "images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-4.webp",
+          "width": 1792,
+          "height": 2390,
+          "alt": "Startled Exaggerated Avatar AI Photo Editing Prompt. AI generated 3D illustration of a bearded man with a wide-eyed, surprised expression in a purple striped shirt on an orange background."
+        },
+        {
+          "filename": "hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "local_path": "images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/hyper-expressive-3d-avatar-portrait-by-promptplum-2.webp",
+          "width": 1684,
+          "height": 2528,
+          "alt": "AI generated 3D illustration of a bald older man with glasses and a stressed, gritted-teeth expression on an orange background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267049b",
+      "title": "The Modern Avatar",
+      "slug": "pixar-style-character-male-portrait",
+      "category": "CGI Art",
+      "category_slug": "cgi-art",
+      "prompt": "Create a high-fidelity, 3D-rendered character portrait in the style of modern feature-film animation (such as Pixar or DreamWorks). Use the uploaded image only for facial reference to preserve identity while maintaining a polished, cinematic animated aesthetic.\n\nInstruction (CRITICAL): Strictly IGNORE the pose details from the reference image.\n\nComposition & Framing\nThe subject is positioned lower-right, as if peeking into view, with the chest up framing.\nOoccupies approximately 60–70% of the area in the frame, ensuring strong visual presence.\nA head tilt for a friendly, approachable demeanour.\nPose should be natural.\nVertical aspect ratio (4:5).\nShallow depth of field with the subject in sharp focus and the background perfectly smooth.\n\nBackground\nA seamless, ultra-smooth gradient with no texture or noise.\n\nDiagonal color transition:\nDeep magenta/pink in the upper left,\nVibrant orange in the center,\nBright golden-yellow in the lower right.\nSoft, clean, and studio-like with a subtle bokeh-style finish.\n\nAppearance & Expression\nStylized yet believable proportions typical of high-end animated films.\nWarm, friendly, and charismatic expression with a subtle, confident smile.\nLarge, expressive eyes with natural catchlights.\nNatural skin shading with realistic subsurface scattering for a lifelike appearance.\nExpression should be natural.\n\nAttire & Accessories\nModern, casual outfit (e.g, t-shirt, hoodie) with a clean, minimal design.\nContemporary eyewear with realistic reflections and refraction.\nPhysically accurate fabric textures with visible stitching and natural folds.\n\nLighting\nKey Light: Soft, diffused light from the upper right, producing gentle highlights on the face.\nFill Light: Subtle illumination from the left to maintain balanced shadows and a friendly mood.\nGlobal Illumination: Soft bounce lighting for realism.\nSubsurface Scattering: Visible in the skin, especially around the ears and nose.\nSoft reflections on accessories such as glasses.\n\nTechnical Specifications\nHigh-end 3D CGI rendered using Physically Based Rendering (PBR).\nUltra-detailed textures with high-resolution normal and bump maps.\nClean topology and cinematic color grading.\nSmooth anti-aliasing and studio-quality rendering.\n8K resolution, ultra-sharp details.\nVibrant yet balanced color harmony.\n\nIdentity Constraint\nUse the uploaded image strictly only for facial and identity reference.\nPreserve facial structure, proportions, and likeness with high accuracy.\nDo not alter ethnicity or introduce distortions.\n\nNegative Prompt\nBlurry, low resolution, noisy background, harsh shadows, flat lighting, distorted face, unnatural pose, exaggerated caricature, over-smoothing, plastic skin, dull colors, artifacts, incorrect anatomy, asymmetry, watermark, text, logo, cluttered background, grain, oversharpening.",
+      "description": "3D Pixar-Style Character Design Prompt: Use this prompt to generate a high-quality animated avatar of a friendly man wearing glasses and a hoodie against a vibrant gradient background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 765,
+      "copy_count": 1478,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Glasses and Hoodie AI Photo Editing Prompt. AI generated 3D digital illustration portrait of a young man with brown hair and glasses wearing a grey hoodie against a vibrant gradient background."
+        },
+        {
+          "filename": "man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/man-with-glasses-3d-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670499",
+      "title": "Digital Glow",
+      "slug": "3d-character-render-girl-glasses",
+      "category": "CGI Art",
+      "category_slug": "cgi-art",
+      "prompt": "Create a high-fidelity, 3D-rendered character portrait in the style of modern feature-film animation (such as Pixar or DreamWorks). Use the uploaded image only for facial reference to preserve identity while maintaining a polished, cinematic animated aesthetic.\n\nInstruction (CRITICAL): Strictly IGNORE the pose details from the reference image.\n\nComposition & Framing\nThe subject is positioned lower-right, as if peeking into view, with the chest up framing.\nOoccupies approximately 60–70% of the area in the frame, ensuring strong visual presence.\nA head tilt for a friendly, approachable demeanour.\nPose should be natural.\nVertical aspect ratio (4:5).\nShallow depth of field with the subject in sharp focus and the background perfectly smooth.\n\nBackground\nA seamless, ultra-smooth gradient with no texture or noise.\n\nDiagonal color transition:\nDeep magenta/pink in the upper left,\nVibrant orange in the center,\nBright golden-yellow in the lower right.\nSoft, clean, and studio-like with a subtle bokeh-style finish.\n\nAppearance & Expression\nStylized yet believable proportions typical of high-end animated films.\nWarm, friendly, and charismatic expression with a confident smile.\nLarge, expressive eyes with natural catchlights.\nNatural skin shading with realistic subsurface scattering for a lifelike appearance.\nExpression should be natural.\n\nAttire & Accessories\nPremium, casual outfit with clean and minimal design.\nContemporary eyewear with realistic reflections and refraction.\nPhysically accurate fabric textures with visible stitching and natural folds.\n\nLighting\nKey Light: Soft, diffused light from the upper right, producing gentle highlights on the face.\nFill Light: Subtle illumination from the left to maintain balanced shadows and a friendly mood.\nGlobal Illumination: Soft bounce lighting for realism.\nSubsurface Scattering: Visible in the skin, especially around the ears and nose.\nSoft reflections on accessories such as glasses.\n\nTechnical Specifications\nHigh-end 3D CGI rendered using Physically Based Rendering (PBR).\nUltra-detailed textures with high-resolution normal and bump maps.\nClean topology and cinematic color grading.\nSmooth anti-aliasing and studio-quality rendering.\n8K resolution, ultra-sharp details.\nVibrant yet balanced color harmony.\n\nIdentity Constraint\nUse the uploaded image strictly only for facial and identity reference.\nPreserve facial structure, proportions, and likeness with high accuracy.\nDo not alter ethnicity or introduce distortions.\n\nNegative Prompt\nBlurry, low resolution, noisy background, harsh shadows, flat lighting, distorted face, unnatural pose, stuff pose, exaggerated caricature, over-smoothing, plastic skin, dull colors, artifacts, incorrect anatomy, asymmetry, watermark, text, logo, cluttered background, grain, oversharpening.",
+      "description": "3D Animation Character Prompt: Use this prompt to create a high-quality 3D digital illustration portrait of a smiling girl with glasses against a vibrant gradient background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 40,
+      "view_count": 673,
+      "copy_count": 1209,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "girl-with-glasses-3d-portrait-by-promptplum-5.webp",
+          "local_path": "images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-with-glasses-3d-portrait-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Animated Girl with Glasses and Wavy Hair Prompt. AI generated 3D digital illustration portrait of a girl with wavy brown hair and glasses against a vibrant pink and orange gradient background."
+        },
+        {
+          "filename": "girl-with-glasses-3d-portrait-by-promptplum-1.webp",
+          "local_path": "images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-with-glasses-3d-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Girl with Glasses 3D Pixar Style Portrait Prompt. AI generated 3D digital illustration of a smiling girl with short wavy hair and round glasses against a vibrant gradient background."
+        },
+        {
+          "filename": "girl-with-glasses-3d-portrait-by-promptplum-4.webp",
+          "local_path": "images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-with-glasses-3d-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "girl-with-glasses-3d-portrait-by-promptplum-2.webp",
+          "local_path": "images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-with-glasses-3d-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "girl-with-glasses-3d-portrait-by-promptplum-3.webp",
+          "local_path": "images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-with-glasses-3d-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/girl-with-glasses-3d-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670427",
+      "title": "Pixel-Perfect Portrait",
+      "slug": "3d-animated-pixar-style-woman",
+      "category": "CGI Art",
+      "category_slug": "cgi-art",
+      "prompt": "Create a highly polished 3D animated portrait in modern Pixar/Disney character style, ultra-detailed 8K render, vertical 4:5 aspect ratio.\nIdentity & Face Matching (Priority)\nUse the uploaded reference image as the primary facial reference.\nPreserve strong identity accuracy including:\n\nfacial proportions and face shape\njawline softness and cheek structure\neye size, spacing, and eyelid shape\nnose shape and lip structure\neyebrow thickness and natural arch\nskin tone and undertone\nThe animated character must clearly resemble the same person from the reference image.\n\nDo not alter facial geometry or replace the face with a generic character.\nComposition & Framing\nWaist-up portrait composition.\n\nSubject centered in the frame\nHead positioned slightly in the upper third of the image\nArms and torso visible down to the upper waist / jeans waistband\nCamera at natural eye-level perspective\nUse shallow depth of field so the character remains extremely sharp while the background stays softly blurred with cinematic bokeh.\nCharacter Style\nStylized animated woman with modern Pixar/Disney-inspired proportions:\n\nslightly larger expressive eyes\nsoft rounded facial contours\nsmooth stylized skin shading\nfriendly, approachable personality\nUltra-clean, high-end animated film rendering.\nFace & Expression\nSmooth animated skin with soft subsurface scattering\nGentle rosy blush on the cheeks\nLarge expressive brown eyes looking directly at the camera\nSoft eyelid shading and delicate eyelashes\nNatural dark eyebrows with smooth arch\nSmall rounded nose with subtle highlight\nSoft natural lips with a relaxed calm closed-mouth smile\nOverall expression should feel warm, thoughtful, and friendly.\nHair\nHair must follow the same hairstyle from the reference image:\n\nstraight smooth medium-long hair\nnatural center part slightly offset\nhair falling evenly on both sides of the face\nlength extending past the shoulders\nHair color: deep natural brown.\nHair rendering:\n\nlayered strands\nsmooth reflective highlights\nsubtle volume and realistic animated flow\nPose\nRelaxed thoughtful pose:\n\nhead slightly tilted forward\nshoulders relaxed\nright hand lightly touching under the chin with the index finger resting softly\nleft arm folded across the body supporting the right elbow\nposture casual, calm, and confident\nHand anatomy should appear natural and soft, with relaxed fingers.\nClothing\nCasual modern outfit:\n\nfitted white short-sleeve t-shirt\nsubtle pastel graphic illustration printed on the chest\nblue denim jeans visible at the waistline with realistic stitching and metal button\nClothing fabric should show soft cotton texture and natural folds.\nAccessories\nMinimal everyday accessories:\n\nthin silver ring on finger\nelegant minimal wristwatch with leather strap\nsmall stud earrings\nAccessories should feel subtle and natural.\nBackground\nSoftly blurred cozy café interior:\n\nwarm wooden furniture\nsoft hanging pendant lights\nwarm amber ambient tones\nblurred café seating and décor\nBackground rendered with cinematic bokeh light circles, creating a cozy lifestyle atmosphere while keeping the character the clear focus.\nLighting\nWarm cinematic indoor lighting:\n\nsoft key light from the front / slightly above\ngentle highlights on hair, nose bridge, and cheeks\nsoft shadows under the chin and neck\nsubtle rim light around the hair and shoulders\nwarm café ambience reflecting softly on skin tones\nLighting should feel warm, soft, and inviting.\nRender Quality\nUltra-detailed Pixar/Disney-style 3D render including:\n\nglobal illumination\nsubsurface skin scattering\nhigh-detail hair rendering\nrealistic fabric shading\ncinematic depth of field\nultra-clean lighting\n8K resolution\nProfessional animated film quality.",
+      "description": "Google Gemini AI 3D Illustration Generation Prompt: Use this prompt to generate high-quality digital character art with cinematic lighting. It creates a stunning 3D render of a young woman posing thoughtfully in a cozy, warm-lit cafe setting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 42,
+      "view_count": 787,
+      "copy_count": 1365,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-1.webp",
+          "local_path": "images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Pixar Style Young Woman AI Prompt. AI generated 3D digital illustration of a smiling woman with a brown bob hairstyle wearing a white graphic t-shirt and denim jeans in a cozy cafe setting."
+        },
+        {
+          "filename": "3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-4.webp",
+          "local_path": "images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-4.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Young Woman Digital Illustration AI Prompt. AI generated 3D digital illustration of a smiling young woman with a pink bindi posing thoughtfully in a cozy, warm-lit cafe setting."
+        },
+        {
+          "filename": "3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-2.webp",
+          "local_path": "images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-3.webp",
+          "local_path": "images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-digital-illustration-young-woman-cafe-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267041d",
+      "title": "9 Faces of Character",
+      "slug": "3d-cartoon-character-emotions-grid",
+      "category": "CGI Art",
+      "category_slug": "cgi-art",
+      "prompt": "Create a high-quality square collage composed of nine equal panels arranged in a 3×3 grid, featuring nine stylized 3D cute caricature portraits of the same male character.\nThe collage must resemble a clean, modern social-media style character grid inside a 1:1 canvas.\nCollage Layout\nFinal canvas aspect ratio: 1:1\nNine equal square panels\nArranged in 3 columns × 3 rows\nPanels are NOT edge-to-edge\nVisible thin white spacing between panels\nSubtle outer white margin around the entire grid\nClean modern UI-style layout\nSlight rounded corners on each tile\nEach tile fills its own square proportionally\nCharacter centered in each tile\nHead-and-upper-torso framing\nIdentity Consistency (Critical)\nThe character must clearly look like the same person in all nine panels.\nMaintain:\n\nSame face shape\nSame hairstyle (thick brown)\nSame hairline\nSame skin tone with subtle blush\nSame eye shape and eyebrow thickness\nSame nose and lips\nSame jawline and cheek structure\nOnly change:\n\nExpression\nPose\nOutfit\nMinor accessories\nPanel-by-Panel Breakdown\nPanel 1 — Joyful / Celebratory (Yellow)\nBright yellow gradient background\nArms raised\nEyes closed\nBig open laugh\nEnergetic posture\nPanel 2 — Shocked (Blue)\nBlue gradient background\nHands on cheeks\nWide eyes\nOpen mouth\nRaised brows\nPanel 3 — Serious / Stern (Red)\nRed background\nArms crossed\nFurrowed brows\nNeutral tight lips\nWearing dark hoodie\nPanel 4 — Affectionate (Pink)\nSoft pink gradient\nHolding small brown puppy\nGentle smile\nCozy knit sweater\nPanel 5 — Confident / Sassy (Purple)\nPurple gradient background\nOne hand on hip\nSlight smirk\nGraphic t-shirt\nRelaxed stance\nPanel 6 — Friendly / Casual Approval (Green)\nGreen gradient background\nWearing cap + denim jacket\nThumbs-up\nRelaxed smile\nPanel 7 — Sad / Emotional (Gray)\nGray gradient background\nSlight downward gaze\nEyebrows slightly raised in center\nLips slightly curved downward\nSoft teary or emotional expression\nMore inward posture (shoulders slightly pulled in)\nCozy sweater remains\nPanel 8 — Curious / Thinking (Blue)\nBlue gradient background\nOne hand on chin\nBright curious smile\nYellow shirt with green long sleeves layered underneath\nPanel 9 — Professional / Corporate (Orange)\nClean orange gradient background\nNo sparkle element\nWearing:\nSmart blazer with white shirt\nCalm confident smile\nUpright posture\nHands crossed in professional stance\nCorporate-ready expression\nSlightly sharper posture than casual panel\nStyle & Rendering\nPremium 3D designer-toy caricature\nSlightly exaggerated head proportions\nSmooth rounded geometry\nSoft cheek volume\nSubsurface scattering\nSoft studio lighting\nGentle rim lighting\nSoft contact shadows\nClean glossy material finish\nModern animated film quality\n4K ultra-high-resolution render\nClean edges\nNo texture noise\nBackground Rules\nBold solid colors:\nYellow\nBlue\nRed\nPink\nPurple\nGreen\nSubtle radial or vertical gradient allowed\nNo environmental objects\nOnly prop allowed: puppy\nBackground color must reflect mood\nStrict Consistency Rules\nSame eye-level camera angle\nSame focal length\nSame lighting direction\nSame framing scale\nCentered composition\nWaist-up crop\nClean professional collage presentation\nEven panel spacing",
+      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to generate a grid of expressive character avatars with diverse emotions and styles. This 3x3 collage features a stylized male character showcasing various moods—from joy to sadness—against vibrant, colorful backgrounds.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 42,
+      "view_count": 865,
+      "copy_count": 1088,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "local_path": "images/cgi-art/3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Character Expression Grid AI Prompt. AI generated digital illustration featuring a 3x3 grid of a young man displaying various facial expressions and outfits against colorful backgrounds."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670415",
+      "title": "Grumpy Toddler Girl",
+      "slug": "grumpy-toddler-girl",
+      "category": "CGI Art",
+      "category_slug": "cgi-art",
+      "prompt": "Create a super cute, hyper-realistic 3D render of a toddler girl who is a younger version of the person in the provided reference photo.\nIdentity Matching (Very Important):\n\nThe facial structure must strongly match the reference image. Accurately replicate the exact eye shape, eye color, skin tone, lip shape, nose structure, cheek fullness, eyebrow shape, and overall facial proportions. The toddler version should clearly resemble the same person at a younger age while maintaining realistic childlike softness and rounded features.\nIf any accessory (such as an earring or similar detail) appears in the reference image, replicate it accurately in size, colour, and placement.\nExpression:\n\nDistinctly grumpy and pouty. Chin resting on her left palm. One eye slightly squinted in mild annoyance. Eyebrows gently furrowed. Lips pushed forward in a stubborn pout. Expression must feel natural and emotionally believable, not exaggerated.\nHair:\n\nHairstyle should be adapted from the reference image while keeping it toddler-appropriate. Styled in a messy high bun with soft, natural baby hair strands framing the face.\nOutfit:\n\nWhite short-sleeve t-shirt under classic blue denim overalls with visible stitching and metal clasps.\nPose & Background:\n\nSitting cross-legged on a clean white studio background. Feet slightly angled toward the camera. Balanced composition with full body visible.\nStyle & Quality:\n\nUltra-detailed Pixar/Disney-inspired 3D animation aesthetic. Professional CGI rendering. 1:1 aspect ratio. 8K resolution. Sharp focus. Cinematic studio lighting with soft subsurface scattering on the skin. Smooth textures, realistic fabric physics, soft global illumination, and natural shadow falloff.",
+      "description": "AI 3D Illustration Prompt: Use this prompt to generate a high-quality digital render of a grumpy toddler girl in denim overalls and a hair bun, sitting against a clean white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 1709,
+      "copy_count": 3082,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "local_path": "images/cgi-art/grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/grumpy-toddler-girl-3d-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Grumpy Toddler AI Prompt. AI generated 3D digital illustration of a pouting little girl with a high bun hairstyle wearing denim dungarees and a white t-shirt against a plain white background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703f4",
+      "title": "The Animated Icon",
+      "slug": "3d-stylized-character-illustration",
+      "category": "CGI Art",
+      "category_slug": "cgi-art",
+      "prompt": "Create an exaggerated, stylized 3D caricature portrait based on the person in the attached reference photo. Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form.\nApply strong, intentional deformation, including an elongated neck, an oversized head-to-neck ratio, droopy eyelids, heavy lips, and subtle facial asymmetry. The character should remain human-like while clearly stylized and expressive.\nUse a clean, controlled surface finish with smooth, studio-quality skin. Avoid random textures, blemishes, freckles, dirt, grain, speckling, or noise. Materials should appear polished, premium, and carefully designed, with subtle subsurface scattering and realistic skin shading.\nDress the character in luxury fashion with bold, high-end accessories, creating a weird, fashion-forward, collectible aesthetic that feels character-driven rather than cute or realistic.\nIlluminate the scene with neutral studio lighting, soft diffused shadows, and even illumination with no harsh contrast. Use a plain neutral gray or off-white background.\nRender in ultra-high definition 4K quality with extreme detail, sharp focus, and cinematic clarity. Include micro-surface detail, high-resolution textures, physically based rendering (PBR), global illumination, soft reflections, and refined material definition. The image should appear crisp, clean, and noise-free, with professional studio render quality.\nNo text, logos, or watermarks.\nAspect ratio: 4:5.",
+      "description": "Google Gemini AI 3D Stylized Illustration Prompt: Use this prompt to generate a high-quality 3D elegant stylized character of a man or women against a neutral studio backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 69,
+      "view_count": 1114,
+      "copy_count": 2057,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-stylized-character-by-promptplum-1.webp",
+          "local_path": "images/cgi-art/3d-stylized-character-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-stylized-character-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-stylized-character-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-stylized-character-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Stylized Man in Tuxedo AI Illustration Prompt. AI generated 3D digital illustration of a charismatic man wearing a formal black tuxedo and luxury wristwatch with arms crossed against a neutral background."
+        },
+        {
+          "filename": "3d-stylized-character-by-promptplum-2.webp",
+          "local_path": "images/cgi-art/3d-stylized-character-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-stylized-character-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-stylized-character-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-stylized-character-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Blonde 3D Stylized Character Digital Illustration Prompt. AI generated 3D digital illustration of a woman with blonde wavy hair wearing a draped purple dress and silver earrings."
+        },
+        {
+          "filename": "Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "local_path": "images/cgi-art/Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/Gemini_Generated_Image_mryub2mryub2mryu.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with in Grey Suit Digital Illustration Prompt. AI generated 3D stylized portrait of a bearded man in a grey suit and black tie with a heart-shaped hairline design."
+        },
+        {
+          "filename": "3d-stylized-character-by-promptplum-6.webp",
+          "local_path": "images/cgi-art/3d-stylized-character-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-stylized-character-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-stylized-character-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-stylized-character-by-promptplum-6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Stylized Muscle Man in Green Polo Illustration Prompt. AI generated 3D digital illustration of a bald, muscular man wearing aviator sunglasses, a gold chain, and a green polo shirt."
+        },
+        {
+          "filename": "3d-stylized-character-by-promptplum-4.webp",
+          "local_path": "images/cgi-art/3d-stylized-character-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-stylized-character-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-stylized-character-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-stylized-character-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Young Black Man in Blue Tuxedo AI Illustration Prompt. AI generated 3D digital illustration of a stylish man with dreadlocks wearing a blue tuxedo, bow tie, and luxury diamond jewelry."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703ec",
+      "title": "The Blue Cardigan",
+      "slug": "3d-cartoon-man-sitting-cross-legged",
+      "category": "CGI Art",
+      "category_slug": "cgi-art",
+      "prompt": "CONCEPT & IDENTITY: A high-fidelity 3D CGI stylized character portrait in a Pixar/Disney animation aesthetic. Face-matched identity strictly based on the reference image, translated into a charming caricature with an oversized head (1:2.6 ratio) and narrow, approachable proportions. Friendly open-mouth smile with visible teeth.\nCHARACTER DESIGN & TEXTURE: Rounded symmetrical face with realistic subsurface scattering (SSS) on skin and ears. Large expressive eyes behind thick matte black rounded-rectangular glasses. Stylized messy spiky dark brown hair and a precisely groomed beard(if present) with fine strand detail. Compact torso with slender limbs and slightly oversized toy-like sneakers.\nATTIRE & POSE: The character is seated cross-legged in a relaxed lotus pose. Wearing a highly detailed dark cyan-blue fuzzy knitted cardigan, a beige ribbed sweater underneath, brown corduroy pants with rolled cuffs, and black canvas sneakers. High-resolution PBR textures for fabric fibers and rubber.\nCOMPOSITION & BACKGROUND: Perfectly centered 4:5 vertical frame with generous negative space. Minimalist seamless studio backdrop in vibrant teal blue (HEX #008ca7). No horizon line.\nLIGHTING & RENDER: Professional 3-point studio lighting: soft key light, gentle fill, and a crisp rim light for silhouette separation. Cinematic 8K PBR render with global illumination and soft contact shadows. Clean, noise-free animation studio finish.",
+      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to generate a high-quality 3D digital character of a male subject with glasses, wearing a stylish teal cardigan and sitting cross-legged against a solid blue background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 64,
+      "view_count": 801,
+      "copy_count": 1852,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-male-character-illustration-by-promptplum-3.webp",
+          "local_path": "images/cgi-art/3d-male-character-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-male-character-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-male-character-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-male-character-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Male Character Design AI Prompt. AI generated 3D digital illustration of a smiling man with glasses and a beard sitting cross-legged in a teal cardigan and brown corduroy pants against a solid teal background."
+        },
+        {
+          "filename": "3d-male-character-illustration-by-promptplum-2.webp",
+          "local_path": "images/cgi-art/3d-male-character-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-male-character-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-male-character-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-male-character-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Boy Character Design AI Prompt. AI generated 3D character illustration of a smiling boy in a blue cardigan sitting cross-legged on a teal background."
+        },
+        {
+          "filename": "3d-male-character-illustration-by-promptplum-1.webp",
+          "local_path": "images/cgi-art/3d-male-character-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-male-character-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cgi-art/3d-male-character-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cgi-art/3d-male-character-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Elderly Man Illustration AI Prompt. AI generated 3D character illustration of a smiling elderly man with a white beard and glasses sitting cross-legged in a blue cardigan."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "category": "Chiaroscuro & Dramatic Lighting",
+  "slug": "chiaroscuro-dramatic-lighting",
+  "total_prompts": 12,
+  "updated_at": "2026-09-24T12:52:26Z",
+  "prompts": [
+    {
+      "id": "6ab454ac1ec91346532b2ba1",
+      "title": "Cinematic Silhouette Profile Picture AI Prompt",
+      "slug": "cinematic-silhouette-profile-picture",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Use the uploaded image only as the facial identity and hairstyle reference. Preserve the person’s recognizable identity, natural facial proportions, age, skin tone, hair texture, and distinctive features.\n\nCreate a cinematic minimalist profile-picture portrait designed specifically for a social-media DP. Show the person in a clean side-profile silhouette, upper torso and head visible, body angled sideways with the head gently lowered and chin tilted toward the chest, creating a quiet, introspective mood. Keep the facial features mostly hidden in deep shadow while preserving a clearly recognizable profile outline of the forehead, nose, lips, chin, jawline, neck, and hair.\n\nPlace the subject against a dramatic glowing cyan/teal-blue background filled with subtle atmospheric fog and soft smoky texture. Position the brightest cyan glow directly behind and around the head to create a strong backlit halo and thin rim light, especially illuminating individual strands around the outer edges of the hair. The subject and clothing should remain almost completely black, with only extremely subtle cool highlights along the shoulders, neck, and hair.\n\nUse high contrast, deep blacks, luminous turquoise/cyan light, soft volumetric haze, cinematic studio backlighting, realistic hair strands, smooth tonal gradients, subtle filmic texture, and premium photographic quality. No visible front light, no brightly illuminated face, no distracting objects, no text.\n\nCompose the portrait inside a large perfect circular crop centered on a clean white/off-white square canvas, with comfortable spacing around the head and shoulders. Keep the subject large enough to remain visually striking when displayed as a small profile picture.\n\nStyle: dark cinematic silhouette photography, moody minimalism, mysterious introspective atmosphere, modern premium DP aesthetic, realistic photography, crisp profile contour, polished high-end finish.\n\nAspect ratio: 1:1.",
+      "description": "Use this ChatGPT prompt to generate a cinematic silhouette portrait with a glowing cyan backlight, perfectly cropped for a moody social media DP.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 18,
+      "view_count": 735,
+      "copy_count": 459,
+      "is_premium": false,
+      "published_at": "2026-09-23T22:37:32.017Z",
+      "images": [
+        {
+          "filename": "c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/c87e46f8-0958-43fa-93d4-658d3efbdc40.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "AI Photo Editing Prompt: Cinematic profile picture showing the silhouette of a boy with messy hair against soft teal volumetric smoke."
+        },
+        {
+          "filename": "e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/e878c75d-153d-4b4f-a28d-5ec1292770cd.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT AI Prompt: Cinematic cyan backlit silhouette of a young woman with long wavy hair in a circular profile picture format."
+        },
+        {
+          "filename": "e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/e51d230d-8a97-4ef4-b8dc-2a1e5384d05b.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "AI Image Prompt: Dark cinematic profile picture of a young man with a beard and textured hair against a glowing blue haze."
+        },
+        {
+          "filename": "bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/bcee56c5-b5ab-4759-a00d-7a1662c779c4.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT Image Prompt: Elegant silhouette portrait of a woman with long flowing hair illuminated by a strong cyan rim light."
+        },
+        {
+          "filename": "c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/c8727a67-5e06-4dbc-841d-4a26852b7892.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "AI Photo Prompt: Moody side-profile silhouette portrait of a man with messy curly hair against a glowing teal fog background."
+        },
+        {
+          "filename": "b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/b3e1e2cc-94c8-4a2b-8c18-4eea7cff75df.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT AI Prompt: Atmospheric silhouette of a woman wearing traditional earrings, backlit by cyan smoke in a circular crop."
+        },
+        {
+          "filename": "c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/c0002fda-dcae-4c23-9440-bb940f1ac8e2.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT AI Generated Minimalist side-profile silhouette of a man with wavy hair, perfectly framed for a social media DP."
+        },
+        {
+          "filename": "393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/393798da-b762-48a5-bc46-08d0f3a1c2fd.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "AI Generated Introspective side-profile silhouette of a young woman against a dramatic glowing turquoise background."
+        },
+        {
+          "filename": "7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/7a20fad4-76c4-487d-b990-51418db78e3d.webp",
+          "width": 1254,
+          "height": 1254,
+          "alt": "ChatGPT AI Prompt: Moody backlit silhouette of a young man with a sharp jawline and stylish hair in a circular DP layout."
+        }
+      ]
+    },
+    {
+      "id": "6aad95cb46d4207dc215955a",
+      "title": "High-Speed Powder Explosion Portrait",
+      "slug": "premium-powder-explosion",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Ultra-realistic high-speed medium close-up portrait of [replace with uploaded face] as vibrant orange powder explodes across the face from right side, eyes closed naturally at impact. Purple and magenta pigments surround subject, frozen particles with cinematic lighting warm key light right, cool purple rim left, dark studio background, sharp powder detail, shallow depth, 85mm lens, photorealistic, HDR, dramatic contrast. 4:5 aspect ratio.",
+      "description": "Unlock this premium AI prompt to generate ultra-realistic, high-speed portraits featuring a dramatic orange powder explosion and cinematic purple lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 1,
+      "view_count": 503,
+      "copy_count": 6,
+      "is_premium": true,
+      "published_at": "2026-09-18T19:49:31.869Z",
+      "images": [
+        {
+          "filename": "8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "width": 1844,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_m3thjm3thjm3thjm"
+        },
+        {
+          "filename": "11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "original_url": "https://img.promptplum.com/promptImages/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_t6hjb6t6hjb6t6hj"
+        },
+        {
+          "filename": "8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_oqn115oqn115oqn1"
+        },
+        {
+          "filename": "465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "width": 1848,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_l6wpqbl6wpqbl6wp"
+        },
+        {
+          "filename": "654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_81mrr81mrr81mrr8"
+        }
+      ]
+    },
+    {
+      "id": "6a985bc946d4207dc20cc316",
+      "title": "Diagonal Shadow Lighting Portrait",
+      "slug": "split-light-male-portrait",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "> **Use the uploaded reference photo as the identity reference. Create an ultra-realistic premium cinematic close-up portrait of the person, preserving their natural facial identity, facial structure, skin tone, hairstyle and realistic features. Match the exact composition and pose of the reference: straight-facing head-and-shoulders portrait, centered framing, looking directly into the camera with a calm, serious and intense expression.**\n>\n> **The subject is wearing a completely black high-neck/turtleneck outfit that blends subtly into the background. Keep the background almost completely black, minimal, clean and seamless. Add a single narrow diagonal beam of warm-white light crossing the face from the upper-right forehead down toward the lower-left cheek, creating dramatic light and shadow across the facial features.**\n>\n> **Moody cinematic studio lighting, deep shadows, subtle rim lighting around the hair and shoulders, highly detailed eyes, realistic skin pores and beard texture, naturally messy textured hair, sharp facial details, realistic lips and nose, strong contrast, sophisticated luxury editorial photography, dark fashion magazine aesthetic, mysterious atmosphere.**\n>\n> **Professional full-frame camera look, 85mm portrait lens, shallow depth of field, extremely realistic skin texture, precise focus on the eyes, soft natural falloff, high dynamic range, subtle film grain, rich blacks, controlled highlights, photorealistic details, premium color grading, dramatic yet elegant composition, 8K ultra-detailed quality. No change in pose, camera angle, framing or background.**\n\n### 🚫 Negative Prompt\n\n> **cartoon, anime, illustration, CGI, plastic skin, over-smoothed face, excessive beauty filter, distorted face, asymmetrical eyes, extra facial features, deformed ears, unnatural beard, blurry face, low resolution, oversaturated colors, bright background, different pose, different camera angle, smiling expression, extra light sources, harsh skin retouching, artificial-looking eyes, duplicate person, bad anatomy*\n \n---- Aspect ratio 4:5",
+      "description": "Use this cinematic photography prompt to create a dramatic split-light portrait of a man in a black turtleneck with deep chiaroscuro lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 3,
+      "view_count": 841,
+      "copy_count": 496,
+      "is_premium": false,
+      "published_at": "2026-09-02T17:24:25.128Z",
+      "images": [
+        {
+          "filename": "abbabd9b-66bb-4339-ab17-f2f9d591b330.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/abbabd9b-66bb-4339-ab17-f2f9d591b330.webp",
+          "original_url": "https://img.promptplum.com/promptImages/abbabd9b-66bb-4339-ab17-f2f9d591b330.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/abbabd9b-66bb-4339-ab17-f2f9d591b330.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/abbabd9b-66bb-4339-ab17-f2f9d591b330.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dramatic Split-Light Male Portrait AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a black turtleneck with deep chiaroscuro lighting on his face."
+        }
+      ]
+    },
+    {
+      "id": "6a91af9f46d4207dc2774e3b",
+      "title": "Man Red Smoke Studio Fashion Photo Prompt",
+      "slug": "boy-red-tshirt-sunglasses-smoke-portrait",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Create a full-body photorealistic cinematic fashion portrait of a confident man standing in a relaxed streetwear pose, slightly leaning with both hands in his cargo-pant pockets. He wears a loose oversized solid red T-shirt, black relaxed-fit cargo pants, white high-top sneakers, a black wristwatch, and black round sunglasses. Neatly styled hair, serious confident expression.\nEye-level camera angle, low-to-medium perspective feel, full-body framing from head to shoes, subject centered. Dark black seamless studio background with dramatic swirling red smoke filling the upper and middle background, gradually transitioning into dense dark-gray and black smoke around the legs and floor. Strong red lights from both sides illuminate his face, hair, and clothing, creating a subtle rim-light effect. A soft directional key light gently illuminates the face and body, with cinematic shadows, ultra-detailed skin texture, finely detailed fabric, and glossy reflections on the polished black floor. High contrast, moody luxury street-fashion aesthetic, photorealistic, ultra-detailed, sharp subject, volumetric smoke, cinematic color grading, professional studio photography, 8K resolution, aspect ratio 4:5.\nNo identity change, no plastic-looking skin, no blurry details, no smile, no facial distortion, no loss of sharpness.",
+      "description": "Use this cinematic studio photography prompt to create a dramatic portrait of a man wearing a red t-shirt and black cargos against a smoky red background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 4615,
+      "copy_count": 3312,
+      "is_premium": false,
+      "published_at": "2026-08-28T15:56:15.707Z",
+      "images": [
+        {
+          "filename": "b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "local_path": "images/chiaroscuro-dramatic-lighting/b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/b5c3c1cb-f1ba-4a04-bd49-b15fcd6f0636.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Cinematic streetwear portrait of a young man in a red t-shirt and sunglasses surrounded by smoke AI Photo Editing Prompt. AI generated fashion portrait of a stylish curly-haired boy standing in black cargo pants and white sneakers against a dark background with dramatic red and grey fog."
+        },
+        {
+          "filename": "e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/e431b2af-5749-4756-a9db-107c7ca70aff.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_9iseoj9iseoj9ise"
+        },
+        {
+          "filename": "69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "original_url": "https://img.promptplum.com/promptImages/69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/69b93a00-e320-4e77-b71f-c7f29f1a5e75.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_6q3qd96q3qd96q3q"
+        },
+        {
+          "filename": "fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/fb5a16cf-d7ea-4a8e-a899-d06e475381e9.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_ui2wykui2wykui2w"
+        },
+        {
+          "filename": "40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/40304257-143f-4bc2-ab2f-395d6511d5fa.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_vix2eevix2eevix2"
+        }
+      ]
+    },
+    {
+      "id": "6a8262914bbdbe2cf53e2b06",
+      "title": "Red Rim Lighting Chiaroscuro Portrait",
+      "slug": "red-neon-outline-portrait",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "\"Ultra-detailed studio portrait of [SUBJECT], shot straight-on from the chest up, centered symmetrical composition. Black-and-white/desaturated skin tones with a dramatic red rim light outlining the hair, ears, jawline, and shoulders. Subject wears a black turtleneck under a black tailored blazer, blending into a near-black background with a subtle deep-red glow behind the head. Serious, confident, direct-to-camera expression with chin slightly lifted. Moody cinematic lighting: soft frontal key light on the face, strong red backlight/edge light creating a glowing halo effect on hair strands. Sharp focus on the face, crisp skin texture and detail, editorial magazine cover quality, high contrast, 4:5 vertical framing, shot on medium format camera, 85mm lens look.\"",
+      "description": "Use this cinematic studio photography prompt to create a moody black and white portrait of a man in a black turtleneck, outlined by striking red neon rim lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 66,
+      "view_count": 5188,
+      "copy_count": 4603,
+      "is_premium": false,
+      "published_at": "2026-08-17T01:23:29.729Z",
+      "images": [
+        {
+          "filename": "a5e79a18-d516-412e-97f9-a2cc9d4ca2d7.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/a5e79a18-d516-412e-97f9-a2cc9d4ca2d7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a5e79a18-d516-412e-97f9-a2cc9d4ca2d7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/a5e79a18-d516-412e-97f9-a2cc9d4ca2d7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/a5e79a18-d516-412e-97f9-a2cc9d4ca2d7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dramatic Red Neon Rim Light Portrait AI Photo Editing Prompt. AI generated black and white portrait of a curly-haired man in a black turtleneck and blazer with glowing red rim lighting against a dark background."
+        },
+        {
+          "filename": "ba4a01af-9ac5-4137-9185-2e8fd9121c8f.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/ba4a01af-9ac5-4137-9185-2e8fd9121c8f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ba4a01af-9ac5-4137-9185-2e8fd9121c8f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/ba4a01af-9ac5-4137-9185-2e8fd9121c8f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/ba4a01af-9ac5-4137-9185-2e8fd9121c8f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Generated dramatic, symmetrical studio portrait of a young man with wavy, curly hair and a serious, direct gaze, wearing a black blazer and turtleneck, with an intense, vibrant red rim light tracing his entire outline against a deep black background."
+        },
+        {
+          "filename": "2ca2477e-996a-4153-98f9-8e843a8666eb.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/2ca2477e-996a-4153-98f9-8e843a8666eb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2ca2477e-996a-4153-98f9-8e843a8666eb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/2ca2477e-996a-4153-98f9-8e843a8666eb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/2ca2477e-996a-4153-98f9-8e843a8666eb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dramatic Red Neon Rim Light Portrait AI Photo Editing Prompt. AI generated black and white portrait of a mustached man with wavy hair in a black turtleneck and blazer, lit by glowing red rim lighting against a dark background."
+        },
+        {
+          "filename": "a4462fef-586c-4be2-b7f1-07d4f3a8b54b.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/a4462fef-586c-4be2-b7f1-07d4f3a8b54b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a4462fef-586c-4be2-b7f1-07d4f3a8b54b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/a4462fef-586c-4be2-b7f1-07d4f3a8b54b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/a4462fef-586c-4be2-b7f1-07d4f3a8b54b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated portrait of a young man with dark wavy hair in a black turtleneck and blazer, with dramatic red rim lighting against a dark background."
+        },
+        {
+          "filename": "6a2ceb59-bfe6-48ff-9c09-6308fbed8759.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/6a2ceb59-bfe6-48ff-9c09-6308fbed8759.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6a2ceb59-bfe6-48ff-9c09-6308fbed8759.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/6a2ceb59-bfe6-48ff-9c09-6308fbed8759.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/6a2ceb59-bfe6-48ff-9c09-6308fbed8759.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated portrait of a serious young man with wavy hair and a mustache, wearing a black turtleneck and blazer, lit by a striking red rim light against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a6cd3a44bbdbe2cf530973c",
+      "title": "Cinematic Blue and Amber Portrait",
+      "slug": "cinematic-portrait-dual-lighting",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Create a highly detailed, photorealistic cinematic portrait of a confident man. He is wearing thin round silver metal-frame eyeglasses, a faded blue denim jacket layered over a black crew-neck T-shirt, and a delicate silver chain necklace.\nThe subject is captured in a chest-up composition with an eye-level camera. He is posed at a 3/4 right angle with a subtle upward chin tilt, creating a confident, modern editorial look. His expression is composed, self-assured, and effortlessly stylish while looking directly into the camera\nThe lighting features a dramatic cinematic dual-color setup: a bright vibrant blue light illuminating the left side of his face and jacket, while a bright warm amber/orange rim light softly highlights the right side of his face, neck, and shoulder. The lighting creates strong depth, contrast, and dimensionality and avoiding harsh shadows on the face.\nThe background is a smooth, dark navy-blue seamless studio backdrop with a subtle gradient, keeping all attention on the subject. Soft falloff, clean separation from the background, and gentle atmospheric contrast enhance the cinematic mood.\nCamera Settings: 85mm portrait lens, f/2.0 aperture, shallow depth of field, DSLR-quality, tack-sharp focus on the eyes, creamy background blur, high dynamic range, natural skin pores, realistic reflections on the eyeglasses, ultra-detailed fabric textures, and crisp facial hair details (if present).\nStyle: Premium fashion editorial, ultra-photorealistic, cinematic color grading, moody studio lighting, realistic skin texture, natural tones, 8K ultra-detailed, professional magazine-quality portrait, high contrast with soft highlight roll-off, no plastic skin, no over-processing, no beauty filters. Aspect ratio 4:5.",
+      "description": "Cinematic Portrait Photography Prompt: Copy & Paste this prompt to generate a realistic studio photo of a mustached man in a denim jacket with dual lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 62,
+      "view_count": 2450,
+      "copy_count": 1744,
+      "is_premium": false,
+      "published_at": "2026-07-31T16:56:04.288Z",
+      "images": [
+        {
+          "filename": "ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/ac356596-c9e9-4aad-b9d4-67ca00adfe25.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/8cba2b2c-387e-4de0-9b18-54c2cc9c8330.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/7c6272c5-cabd-49d3-bc1b-358f73df0f42.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-7"
+        },
+        {
+          "filename": "af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/af1f1183-f26e-4139-b29d-5986d1a71f0f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "64592769-b3cf-4049-9008-469198461f65.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/64592769-b3cf-4049-9008-469198461f65.webp",
+          "original_url": "https://img.promptplum.com/promptImages/64592769-b3cf-4049-9008-469198461f65.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/64592769-b3cf-4049-9008-469198461f65.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/64592769-b3cf-4049-9008-469198461f65.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/4b10d2f3-ef83-47f0-977d-dd910fedd09d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-with-glasses-denim-jacket-portrait-ai-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "local_path": "images/chiaroscuro-dramatic-lighting/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/7e8699ef-d7f1-4a1b-ad52-c4d0a8ed3c81.jpg",
+          "width": 1468,
+          "height": 1600,
+          "alt": "Mustached Man in Denim Jacket Studio Portrait AI Photo Editing Prompt. AI generated digital portrait illustration of a serious man with round wire glasses and a prominent mustache, wearing a denim jacket and silver chain, against a dark background with blue and amber dual lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a4ac2bb7877e7a4d7358372",
+      "title": "Amber Illumination",
+      "slug": "cinematic-male-portrait-orange-background",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Use the attached reference photo for the subject’s identity. Preserve the same natural facial features, skin tone, hairstyle, facial proportions, and overall likeness.\nCreate a premium photorealistic editorial studio portrait of the person in a powerful, heroic mood. Show the subject in a sharp fitted deep matte-black pique polo shirt, with visible cotton mesh texture.\nFrame it as a low-angle medium close-up, focused on the face and shoulders, looking slightly upward at the subject to create a dominant presence. The subject looks off-camera and slightly upward with a slightly intense, focused expression.\nUse a seamless vibrant orange-red studio background with smooth hot color gradients and no patterns, corners, or visible studio elements. Light the portrait with bold orange and deep-red cinematic studio lighting: a strong directional key light creates dramatic chiaroscuro shadows across the face, while a bright colored rim light outlines the head and shoulders for strong separation from the background.\nKeep the face in crisp sharp focus with natural skin pores and realistic texture. High contrast, rich color depth, clean editorial composition, premium fashion-photography quality. 4:5 aspect ratio.",
+      "description": "Professional Male Portrait Prompt: Use this AI prompt to create a striking studio photograph of a focused man in a black polo shirt with dramatic orange lighting.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 14,
+      "view_count": 1113,
+      "copy_count": 774,
+      "is_premium": false,
+      "published_at": "2026-08-09T23:34:47.474Z",
+      "images": [
+        {
+          "filename": "bd682a2a-5026-461c-9b6d-ed27223e7dc8.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/bd682a2a-5026-461c-9b6d-ed27223e7dc8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bd682a2a-5026-461c-9b6d-ed27223e7dc8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/bd682a2a-5026-461c-9b6d-ed27223e7dc8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/bd682a2a-5026-461c-9b6d-ed27223e7dc8.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a contemplative bearded man in a black polo shirt against a warm, moody orange background."
+        },
+        {
+          "filename": "7be7433d-7062-49e8-b71d-46598676b9ae.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/7be7433d-7062-49e8-b71d-46598676b9ae.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7be7433d-7062-49e8-b71d-46598676b9ae.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/7be7433d-7062-49e8-b71d-46598676b9ae.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/7be7433d-7062-49e8-b71d-46598676b9ae.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cinematic Male on Orange Background Portrait AI Photo Editing Prompt"
+        },
+        {
+          "filename": "2c2de781-e28e-4445-8967-f8357a49656b.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/2c2de781-e28e-4445-8967-f8357a49656b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2c2de781-e28e-4445-8967-f8357a49656b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/2c2de781-e28e-4445-8967-f8357a49656b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/2c2de781-e28e-4445-8967-f8357a49656b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cinematic Male Portrait AI Photo Editing Prompt. AI generated studio portrait of a focused man in a black polo shirt illuminated by dramatic orange lighting against a vibrant orange background."
+        }
+      ]
+    },
+    {
+      "id": "6a3f9a4be1ceda640e61c25f",
+      "title": "Monochrome Headphone Profile",
+      "slug": "black-and-white-headphone-profile-portrait",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Use the uploaded image only for face and identity reference. Preserve the person’s natural facial features and overall identity with high accuracy.\n\nCreate an ultra-realistic, high-contrast, black-and-white, low-key studio portrait of the reference subject in a quiet moment of musical immersion.\n\nComposition & Framing\nUse a vertical 4:5 aspect ratio. Show the subject in a strict 90-degree right-facing side profile, framed as a lower-chest-up / mid-torso portrait. Keep the subject centered overall, but make him appear smaller in frame, as if photographed from a little farther away.\n\nLeave generous negative space above the head, clearly more headroom than in a typical tight portrait. Also keep moderate open space in front of the face on the right. Make sure the full hair shape, headphones, hood, shoulder, and upper torso are comfortably visible. Do not crop too close.\nPose & Expression\nKeep the head in a clean right-facing profile with the chin slightly raised. Eyes gently closed, brow completely relaxed, lips softly and naturally rested together, jaw loose, and facial muscles calm. The expression should feel quiet, immersed, serene, and meditative, not pouty, tense, dramatic, or fashion-posed.\n\nWardrobe & Headphones\nThe subject wears premium over-ear wireless headphones with a smooth wide headband, thick matte ear cushions, and large circular metallic ear cups with a clear brushed / spun metal texture.\n\nHe wears a white hoodie. The hoodie should look smooth, plain, soft, and clean, with no visible fabric texture. Avoid rough weave or strong cloth grain. The hood rests naturally around the upper back and neck, creating a thick layered collar, with one flat drawstring hanging naturally down the chest.\nLighting\nUse dramatic low-key chiaroscuro studio lighting that closely matches the original image.\n\nThe main light is a strong hard rim light placed behind and slightly above the subject on the right side. This rim light should create a crisp silver outline along:\n\nthe outer hair silhouette\n\nthe forehead, nose bridge, lips, and chin edge\n\nthe outer metallic edge of the headphone cup\n\nthe hoodie collar, shoulder ridge, and upper sleeve\nAdd only a very weak, highly diffused front-left fill light so the face and hoodie remain visible without becoming flat or bright. The fill should be extremely subtle. Keep the shadows deep and moody. The face should not look evenly lit or front-lit. The original image’s lighting should feel more like a sculpted edge-lit portrait than a standard soft studio portrait.\n\nBackground\nUse a pure seamless black background with no visible texture, no environment, and no extra elements.\n\nCamera & Detail\nSimulate a portrait telephoto lens (85mm–105mm) with f/5.6 to f/8 depth of field so the entire subject stays sharp — including hair texture, skin detail, headphones, hoodie shape, and drawstring. Keep the image crisp and realistic, but do not over-emphasize fabric texture.\n\nImportant Constraints\nKeep more negative space above the head\nMake the subject appear farther from the camera\nKeep the subject centered overall\nChin slightly raised\nExpression must be soft, calm, and meditative\nLighting must stay dark, sculpted, and rim-light dominant\nDo not make the face too bright or too evenly lit\nHoodie must remain smooth and plain without any texture\nDo not make it a tight crop\nDo not rotate the face toward the camera\nDo not add text, logos, watermark, or extra objects",
+      "description": "Monochrome Studio Portrait Prompt: Use this prompt to create a dramatic black and white side-profile photo of a man wearing headphones against a dark backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 25,
+      "view_count": 1089,
+      "copy_count": 1367,
+      "is_premium": false,
+      "published_at": "2026-08-08T20:12:43.783Z",
+      "images": [
+        {
+          "filename": "7e3b0c77-8604-4d71-adab-addbdbb15d1a.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/7e3b0c77-8604-4d71-adab-addbdbb15d1a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7e3b0c77-8604-4d71-adab-addbdbb15d1a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/7e3b0c77-8604-4d71-adab-addbdbb15d1a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/7e3b0c77-8604-4d71-adab-addbdbb15d1a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Monochrome Profile Portrait AI Photo Editing Prompt. AI generated high-contrast, rim-lit monochrome profile of a man wearing over-ear headphones against a solid black background, capturing a moment of deep focus."
+        }
+      ]
+    },
+    {
+      "id": "6a3d1ed4bf79ee5252c4645b",
+      "title": "Center Stage on Red",
+      "slug": "man-spotlight-red-brick-wall-portrait",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Create an ultra-realistic 8K full-body fashion portrait of the uploaded person, with crisp facial features, sharp fabric texture, and a premium editorial finish. Show him leaning casually against a deep-red painted brick wall, with the brick texture clearly visible across the entire background wall. He wears an open-collar crimson linen shirt, relaxed blue jeans, and light sneakers, with both hands in pockets and ankles loosely crossed. A large soft-edged circular warm spotlight glows on the wall behind him, creating a bright halo in the center, darker red falloff around the edges, and a defined shadow cast beside him on the wall. Mood should feel cool, confident, calm, and stylish. Shot in a clean full-body composition with a slightly low eye-level fashion-portrait camera angle, 50mm lens look, sharp focus, natural proportions, cinematic depth, and rich red-toned color grading. Aspect ratio 3:4.",
+      "description": "Cinematic Studio Spotlight Photography Prompt: Use this prompt to generate a dramatic professional portrait of a confident man in a red shirt leaning against a spotlight-lit red brick wall.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 132,
+      "view_count": 11411,
+      "copy_count": 19125,
+      "is_premium": false,
+      "published_at": "2026-08-07T16:09:02.645Z",
+      "images": [
+        {
+          "filename": "2f9bb4a7-ef99-4b19-ac42-176e3852cdc6.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/2f9bb4a7-ef99-4b19-ac42-176e3852cdc6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2f9bb4a7-ef99-4b19-ac42-176e3852cdc6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/2f9bb4a7-ef99-4b19-ac42-176e3852cdc6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/2f9bb4a7-ef99-4b19-ac42-176e3852cdc6.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Men's Casual Fashion AI Photo Editing Prompt. AI generated studio portrait of a young man in a red linen shirt and jeans leaning against a brick wall within a circular spotlight."
+        }
+      ]
+    },
+    {
+      "id": "6a291c7b61276f872a1752bf",
+      "title": "Focused and Framed",
+      "slug": "bw-male-portrait-glasses-watch",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Use the uploaded image strictly only for face and Identity reference. Preserve the subject’s facial structure, skin tone, age, hairstyle, and natural features with high accuracy.\nCreate an ultra-realistic cinematic black-and-white portrait of a seated man against a pure pitch-black seamless studio background. Tight chest-up framing, slightly off-center composition, eye-level camera angle, and a subtle 3/4 profile facing toward the viewer’s right.\nThe man has naturally textured hair and wears thin dark round eyeglasses with realistic reflections and glossy frame highlights. He is dressed in a premium black button-down collared shirt with soft matte fabric texture.\nHis left arm is raised naturally across the frame, with a relaxed fist resting near the chest and jawline. Show a polished silver metallic chronograph wristwatch with detailed links, reflective steel surfaces, and a softly visible watch face.\nExpression should be calm, serious, intense, and contemplative, with his gaze directed sharply off-camera toward the right. The mood should feel quiet, intellectual, masculine, and editorial.\nUse dramatic low-key chiaroscuro studio lighting with a strong directional side light from the viewer’s left. Add bright rim highlights on the hair, forehead, cheekbone, glasses frame, facial texture, and watch edges. Keep the opposite side of the face in deep rich shadow while preserving subtle skin detail.\nShot on an 85mm lens at f/1.8 with shallow depth of field, DSLR-level realism, ultra-detailed skin texture, realistic hair strands, cinematic monochrome tones, high contrast, smooth highlight roll-off, and clean black background separation.\nAspect ratio: 4:5.",
+      "description": "Black & White Studio Portrait Prompt: Copy & paste this prompt to create a dramatic monochrome photograph of a stylish young man with glasses and a watch.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 170,
+      "view_count": 11770,
+      "copy_count": 21174,
+      "is_premium": false,
+      "published_at": "2026-08-08T20:13:12.118Z",
+      "images": [
+        {
+          "filename": "b7767088-fbc4-4f96-ab28-850c1393b4ef.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/b7767088-fbc4-4f96-ab28-850c1393b4ef.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b7767088-fbc4-4f96-ab28-850c1393b4ef.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/b7767088-fbc4-4f96-ab28-850c1393b4ef.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/b7767088-fbc4-4f96-ab28-850c1393b4ef.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Black & White Man AI Photo Editing Prompt. AI-generated monochrome studio portrait of a young man wearing round glasses, a dark shirt, and a metallic wristwatch."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670352",
+      "title": "World Class",
+      "slug": "world-class",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Use the uploaded image as a reference for face matching.\nAn ultra-realistic full-body studio portrait of a young man with a lean, athletic build and natural smooth skin. He has a defined jawline and a serious, confident expression, looking directly into the camera. A subtle, glossy sheen is visible in her hair under the studio lights.\nHe is wearing a sharp, slim-fit black suit made of high-quality matte wool. The jacket has notched lapels and is buttoned at the waist with natural tension wrinkles around the button. Underneath is a crisp white dress shirt with a stiff collar and a solid black silk tie tied in a clean Windsor knot. Matching tapered black trousers show realistic folds at the knees due to his pose. On his left wrist is a silver metal-bracelet watch with a black dial. He wears polished black leather dress shoes (Oxford or Derby style) reflecting studio light on the toe caps.\nPose: relaxed but powerful stance, legs crossed at the ankles (right over left). Right hand in trouser pocket, left hand lightly gripping the suit lapel as if adjusting it.\nSetting: dark grey textured studio backdrop with dramatic lighting. A focused spotlight creates a bright circular halo behind his head and shoulders. A strong, sharp shadow of his profile appears on the wall to the left. The floor is covered with slightly wrinkled grey fabric around his shoes for realism.\nProps: to the right of the subject is a small dark-wood pedestal table with turned legs. On top sits a vintage wooden mantle clock with Roman numerals and a small antique-style globe with sepia-toned maps.\nStyle: cinematic, luxury fashion photography, ultra-high resolution, realistic skin texture, studio lighting, sharp focus, shallow depth of field, professional editorial look.",
+      "description": "AI image prompt for a professional studio portrait of a man in a black suit. Features cinematic lighting, a vintage globe and clock props, and a sophisticated grey background. Perfect for generating high-resolution corporate fashion and business stock photos.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 25,
+      "view_count": 1210,
+      "copy_count": 2130,
+      "is_premium": false,
+      "published_at": "2026-08-08T20:17:23.323Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_p4ml7op4ml7op4ml.jpg",
+          "local_path": "images/chiaroscuro-dramatic-lighting/Gemini_Generated_Image_p4ml7op4ml7op4ml.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_p4ml7op4ml7op4ml.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/Gemini_Generated_Image_p4ml7op4ml7op4ml.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/Gemini_Generated_Image_p4ml7op4ml7op4ml.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526701f3",
+      "title": "Amber Circular Spotlight on Face",
+      "slug": "circular-spotlight-woman-portrait",
+      "category": "Chiaroscuro & Dramatic Lighting",
+      "category_slug": "chiaroscuro-dramatic-lighting",
+      "prompt": "Use the uploaded image ONLY for identity reference. Preserve the natural face shape, facial proportions, forehead, eyebrows, eye shape and spacing, nose, lips, jawline, skin tone, and natural facial asymmetry with high accuracy. Do not beautify, reshape, age-change, or blend the face with another identity. The person must remain clearly recognizable even with closed eyes and warm lighting.\n\nCreate an ultra-realistic, warm cinematic studio portrait of the uploaded woman standing directly in front of a dark wall.\n\nComposition and Framing:\nUse a vertical 4:5 aspect ratio. Frame the subject from the lower torso to the head, showing the full head, neck, shoulders, upper arms, and most of the black T-shirt. Keep her centered and front-facing or slightly off-camera facing, with generous headroom and balanced negative space on both sides. Do not crop the head or shoulders.\n\nPose:\nShe stands upright with her upper back and shoulders resting lightly against the wall. Her body and face are aligned toward the camera, shoulders naturally lowered, arms relaxed beside her body and continuing beyond the lower edge of the frame.\n\nFace, Hair, and Expression:\nHer eyes are gently closed, and chin slightly raised, creating a calm, soft natural expression. Keep the facial muscles natural and relaxed. Style her natural color hair in a loose, side-parted low bun, with a few natural wispy strands around the ear, cheek, and neck.\n\nOutfit:\nA plain matte-black short-sleeve crew-neck T-shirt with realistic cotton texture and subtle natural folds. No jewelry, graphics, logos, or accessories.\n\nLighting:\nUse one strong, warm golden-amber directional spotlight positioned in front of the subject on camera-left and slightly above face level. The light directly illuminates the face, neck, collarbones, and upper shoulders while producing natural warm highlights and soft facial shadow transitions.\n\nAim the same spotlight toward the wall to create a large, perfectly round golden-orange pool of light centered behind the subject’s head and upper torso. The circle must be much larger than her head, with its upper edge well above her hair and its lower portion extending behind her shoulders and torso. Give it a clearly visible but slightly feathered circular boundary, an evenly glowing golden center, and a gradual amber falloff. It should look like a real spotlight projected onto the wall, not a glowing ring or digital halo.\n\nBecause the subject is standing close to the wall, create a dark, sharply defined silhouette of her head, neck, and shoulders offset toward the viewer’s right. Keep the shadow direction fully consistent with the front-left light source. Allow the lower face, arms, and black T-shirt to gradually fall into deep shadow.\n\nBackground:\nA clean, smooth, matte dark chocolate-brown studio wall. Outside the circular spotlight, the wall transitions into deep brown-black shadows with a natural vignette. No visible floor, wall seams, props, smoke, or additional background elements.\n\nCamera and Finish:\nEye-level camera, straight-on angle, 50mm lens, approximately f/4. Keep the face sharply detailed while retaining clearly visible halo edges and wall shadow. Warm tungsten color temperature, rich amber-brown cinematic grading, strong chiaroscuro contrast, natural skin pores and texture, natural highlight roll-off, editorial photography quality, high resolution.\n\nAvoid front fill light, backlight, rim light, cool tones, excessive blur, artificial skin smoothing, plastic facial texture, composited appearance, text, icons, and watermarks.",
+      "description": "Cinematic Studio Photography Prompt: Use this prompt to create a serene portrait of a young woman with closed eyes under a circular amber sunset spotlight.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 46,
+      "view_count": 3895,
+      "copy_count": 5847,
+      "is_premium": false,
+      "published_at": "2026-07-24T15:23:37.025Z",
+      "images": [
+        {
+          "filename": "09449fac-f63b-4394-8220-c788bca8ee08.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/09449fac-f63b-4394-8220-c788bca8ee08.webp",
+          "original_url": "https://img.promptplum.com/promptImages/09449fac-f63b-4394-8220-c788bca8ee08.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/09449fac-f63b-4394-8220-c788bca8ee08.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/09449fac-f63b-4394-8220-c788bca8ee08.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Circular Spotlight Woman Portrait AI Photo Editing Prompt. AI generated studio portrait of a serene young woman with closed eyes illuminated by a warm amber sunset lamp halo against a dark background."
+        },
+        {
+          "filename": "3a72fedc-dadf-4f49-854e-e77c7c1cef31.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/3a72fedc-dadf-4f49-854e-e77c7c1cef31.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3a72fedc-dadf-4f49-854e-e77c7c1cef31.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/3a72fedc-dadf-4f49-854e-e77c7c1cef31.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/3a72fedc-dadf-4f49-854e-e77c7c1cef31.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated portrait of a young woman with a hair bun, eyes closed, standing calmly inside a warm orange circular light projection."
+        },
+        {
+          "filename": "2e3dc69c-330e-4ed3-96bd-fa9905408ed0.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/2e3dc69c-330e-4ed3-96bd-fa9905408ed0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2e3dc69c-330e-4ed3-96bd-fa9905408ed0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/2e3dc69c-330e-4ed3-96bd-fa9905408ed0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/2e3dc69c-330e-4ed3-96bd-fa9905408ed0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Spotlight Portrait Photography AI Photo Editing Prompt. AI generated studio portrait of a young woman with eyes closed and hair in a bun under a warm spotlight."
+        },
+        {
+          "filename": "8a936b9c-5e7c-4644-855c-72c82bd99f57.webp",
+          "local_path": "images/chiaroscuro-dramatic-lighting/8a936b9c-5e7c-4644-855c-72c82bd99f57.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8a936b9c-5e7c-4644-855c-72c82bd99f57.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-dramatic-lighting/8a936b9c-5e7c-4644-855c-72c82bd99f57.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-dramatic-lighting/8a936b9c-5e7c-4644-855c-72c82bd99f57.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dramatic Spotlight Portrait AI Prompt. AI generated dramatic portrait of a serene young woman with eyes closed, in a black t-shirt, centered within a precise circular spotlight casting a shadow."
+        }
+      ]
+    }
+  ]
+}
