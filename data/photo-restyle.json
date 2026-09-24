@@ -1,0 +1,588 @@
+{
+  "category": "Photo Restyle",
+  "slug": "photo-restyle",
+  "total_prompts": 10,
+  "updated_at": "2026-09-24T13:10:52Z",
+  "prompts": [
+    {
+      "id": "6aa342c446d4207dc21b952d",
+      "title": "80s Best Friends Studio Photo",
+      "slug": "80s-best-friends-studio-photo",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Using the uploaded photo as the identity reference for all people, ignore its original pose, clothing, hairstyle, framing and background. Recreate us as best friends in the 1980s. Keep every face recognizable, give us authentic 80s hair and fashion, and show us standing together in a vintage studio photoshoot. Use warm analog colors, subtle film grain, soft vintage lighting, and a real 1980s photo feel.",
+      "description": "Curious how your squad would look in the 1980s? Copy this exact ChatGPT prompt to generate a realistic vintage studio photoshoot with your best friends.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 4260,
+      "copy_count": 1919,
+      "is_premium": false,
+      "published_at": "2026-09-10T23:52:36.137Z",
+      "images": [
+        {
+          "filename": "98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "local_path": "images/photo-restyle/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "original_url": "https://img.promptplum.com/promptImages/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_02_01 AM"
+        },
+        {
+          "filename": "bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "local_path": "images/photo-restyle/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_36_49 AM"
+        },
+        {
+          "filename": "99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "local_path": "images/photo-restyle/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_36_57 AM"
+        },
+        {
+          "filename": "bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "local_path": "images/photo-restyle/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_37_05 AM"
+        },
+        {
+          "filename": "f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "local_path": "images/photo-restyle/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_37_10 AM"
+        },
+        {
+          "filename": "6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "local_path": "images/photo-restyle/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_37_14 AM"
+        }
+      ]
+    },
+    {
+      "id": "6aa328b946d4207dc21a781c",
+      "title": "80s Vintage Couple Portrait",
+      "slug": "80s-vintage-couple-portrait",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Using the uploaded photo as the identity reference for both people, recreate us as a stylish couple in the 1980s. Keep both faces recognizable, give us authentic 80s hair and fashion, and make it look like a real vintage couple photo with warm analog colors, subtle film grain, and a nostalgic 1980s feel.",
+      "description": "Turn your modern picture into a classic 80s masterpiece! Copy this AI prompt to create a stunning vintage couple portrait featuring retro denim and film grain.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 46,
+      "view_count": 12079,
+      "copy_count": 7373,
+      "is_premium": false,
+      "published_at": "2026-09-10T22:01:29.183Z",
+      "images": [
+        {
+          "filename": "2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "local_path": "images/photo-restyle/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_01_18 AM"
+        },
+        {
+          "filename": "ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "local_path": "images/photo-restyle/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "width": 1128,
+          "height": 1394,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_10_19 AM"
+        },
+        {
+          "filename": "5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "local_path": "images/photo-restyle/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_12_37 AM"
+        },
+        {
+          "filename": "8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "local_path": "images/photo-restyle/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_05_25 AM"
+        }
+      ]
+    },
+    {
+      "id": "6aa30a7346d4207dc2181a8c",
+      "title": "80s Women's Vintage Car Portrait",
+      "slug": "80s-womens-vintage-car-photo",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Using the uploaded photo as facial identity only; ignore its original pose, clothing, hairstyle, framing and background. Recreate the person as a stylish young woman in a genuine mid-1980s photograph. Keep her face recognizable and natural. Show a vertical near-full-body portrait outdoors, casually leaning against the front corner of a vintage black European luxury sedan, one hand resting naturally on the hood and the other tucked into her jeans pocket, legs loosely crossed at the ankles, relaxed posture, head turned and looking off to the left with a subtle smile. Give her thick, long, voluminous curly 1980s hair. Dress her in an oversized light acid-wash denim jacket with rolled sleeves over a fitted bright pink top, tucked into very high-waisted loose acid-wash blue jeans with a brown leather belt and white retro sneakers. Add large pink hoop earrings, a delicate necklace and subtle bracelets. Show the car’s chrome grille, hood ornament and rectangular headlight prominently. Place her outside a warm cream-colored residential villa with a dark wooden doorway, vintage wall lantern, tropical greenery and pink bougainvillea. Warm late-afternoon natural daylight, soft golden highlights, faded analog colors, gentle contrast, fine 35mm film grain, subtle haze and softness. Add aged scanned-print texture, dust, scratches, heavily worn cream-colored photo edges and a small orange-red 1986 date stamp in the lower corner. Authentic amateur 1980s photograph, not a modern cinematic or retro-filtered photoshoot.",
+      "description": "Join the viral \"What would I look like in the '80s\" trend! Use this ChatGPT prompt for a retro women's portrait featuring a vintage car and acid-wash denim.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 53,
+      "view_count": 7970,
+      "copy_count": 4657,
+      "is_premium": false,
+      "published_at": "2026-09-10T19:52:19.974Z",
+      "images": [
+        {
+          "filename": "12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "local_path": "images/photo-restyle/12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "80s retro women's portrait leaning on vintage car in acid wash denim ai prompt"
+        },
+        {
+          "filename": "c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "local_path": "images/photo-restyle/c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "80s-womens-vintage-car-denim-portrait-ai-prompt-by-promptplum-1"
+        }
+      ]
+    },
+    {
+      "id": "6aa2c1b646d4207dc208cc78",
+      "title": "80s Women's Red Blazer Portrait",
+      "slug": "80s-womens-red-blazer-portrait",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Use the uploaded image as the face reference. Create an ultra-realistic 1980s vintage portrait of the same woman with voluminous feathered hair, bold gold hoop earrings, soft winged eyeliner and muted berry lipstick. She wears a deep pink/red oversized padded-shoulder blazer over a black top with a vintage pendant necklace, posing in a confident three-quarter profile while looking to the side. Warm cinematic lighting, 35mm analog film, soft focus, faded colors, subtle grain, dust and scratches, authentic nostalgic 1980s photography.",
+      "description": "Join the viral Instagram trend! Use this ChatGPT prompt to turn your photo into an authentic 1980s portrait featuring a classic red padded blazer and feathered hair.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 20,
+      "view_count": 3507,
+      "copy_count": 2262,
+      "is_premium": false,
+      "published_at": "2026-09-10T14:41:58.704Z",
+      "images": [
+        {
+          "filename": "c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "local_path": "images/photo-restyle/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "width": 1086,
+          "height": 1448,
+          "alt": "80s retro women's portrait in red padded blazer ai prompt"
+        },
+        {
+          "filename": "8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "local_path": "images/photo-restyle/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 10, 2026, 07_46_56 PM"
+        },
+        {
+          "filename": "7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "local_path": "images/photo-restyle/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 10, 2026, 07_29_10 PM"
+        }
+      ]
+    },
+    {
+      "id": "6aa170e446d4207dc2d51339",
+      "title": "1980s AI Photo Trend Girl & Woman",
+      "slug": "1980s-ai-photo-trend-girl-woman",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance.  Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text.",
+      "description": "Want a 1980s photo of yourself? Try these ChatGPT prompts for Instagram’s latest AI trend. Transform your photos into stylish retro portraits.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 61,
+      "view_count": 13337,
+      "copy_count": 6898,
+      "is_premium": false,
+      "published_at": "2026-09-09T14:44:52.725Z",
+      "images": [
+        {
+          "filename": "54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "local_path": "images/photo-restyle/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "original_url": "https://img.promptplum.com/promptImages/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "width": 1086,
+          "height": 1448,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_38_14 PM"
+        },
+        {
+          "filename": "54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "local_path": "images/photo-restyle/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_29_14 PM"
+        },
+        {
+          "filename": "d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "local_path": "images/photo-restyle/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "width": 1121,
+          "height": 1403,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_48_01 PM"
+        },
+        {
+          "filename": "0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "local_path": "images/photo-restyle/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_47_55 PM"
+        },
+        {
+          "filename": "93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "local_path": "images/photo-restyle/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "width": 1086,
+          "height": 1449,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_45_14 PM"
+        }
+      ]
+    },
+    {
+      "id": "6aa092f646d4207dc2bcfbe3",
+      "title": "Nostalgic 1980s Bedroom Portrait Prompt",
+      "slug": "instagrams-80s-trend",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Using the uploaded photo as the identity reference, recreate the person as they might have looked in the 1980s. Keep the facial identity recognizable and realistic. Give them an authentic voluminous 80s hairstyle and era-appropriate casual fashion. Place them in a cozy retro 1980s room with vintage posters, a boombox/cassette player, warm lamp lighting and subtle period details. Use warm analog colors, soft flash, fine film grain, slightly faded tones and a worn vintage photo-print texture. The result should look like a genuine candid 1980s photograph, not a modern image with a retro filter.",
+      "description": "Use this ChatGPT prompt to turn your photo into a classic 1980s retro portrait and recreate the viral “What would I look like in the 80's?” Instagram AI trend.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 119,
+      "view_count": 27902,
+      "copy_count": 13717,
+      "is_premium": false,
+      "published_at": "2026-09-08T22:57:58.747Z",
+      "images": [
+        {
+          "filename": "15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "local_path": "images/photo-restyle/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "original_url": "https://img.promptplum.com/promptImages/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 04_09_37 AM"
+        },
+        {
+          "filename": "e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "local_path": "images/photo-restyle/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "width": 1145,
+          "height": 1374,
+          "alt": "ChatGPT Image Sep 9, 2026, 04_08_27 AM"
+        },
+        {
+          "filename": "d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "local_path": "images/photo-restyle/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 06_07_25 AM"
+        }
+      ]
+    },
+    {
+      "id": "6aa0832d46d4207dc2bc6ef7",
+      "title": "Object Remover Gemini AI Prompt",
+      "slug": "remove-object-from-photo",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Remove only the [Person/object] from the [Center-right]. Reconstruct the covered objects, area, and background naturally so the edited area blends seamlessly with the original image. Preserve the main portrait exactly as it is—do not change the face, hair, clothing, lighting, framing, colors, or any other detail.",
+      "description": "Copy this powerful AI prompt to seamlessly remove any person or object from your photos. Reconstruct backgrounds perfectly while keeping portraits intact.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 3,
+      "view_count": 370,
+      "copy_count": 39,
+      "is_premium": true,
+      "published_at": "2026-09-08T21:50:37.345Z",
+      "images": [
+        {
+          "filename": "b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "local_path": "images/photo-restyle/b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "width": 2816,
+          "height": 1536,
+          "alt": "Before and after of seamless object removal using AI prompt"
+        }
+      ]
+    },
+    {
+      "id": "6a3ad8cbbf79ee5252c372db",
+      "title": "Cinematic Night Glow Restyle",
+      "slug": "cinematic-night-glow-restyle",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Use the uploaded image as the main base image and preserve the subject’s original pose, framing, composition, camera angle, crop, body position, hand placement, facial identity, hairstyle, clothing, accessories, and overall subject details. Keep the aspect ratio the same as the original image. Do not change the pose or expression. Only transform the lighting, background mood, and atmosphere.\nConvert the scene into a dark, moody nighttime portrait with a deep muted background fading into near-black shadows. Replace the original background with a soft, out-of-focus night environment featuring faint silhouettes, subtle bokeh lights, and cinematic dusk-to-night tones. Add a strong backlight directly behind the subject to create a bright white rim light around the hair, shoulders, arms, hands, clothing edges, and full body outline. Add a soft luminous bloom aura around the subject, especially around the outer edges, to create a dreamy glowing silhouette effect. The glow should feel natural, atmospheric, and cinematic, not overly artificial or neon.\nKeep the subject clearly visible while allowing the background to remain dark and subdued. Maintain realistic skin texture, realistic clothing texture, and natural facial features. The final image should feel like an ultra-realistic editorial night portrait shot with an 85mm DSLR lens using soft flash diffusion, with shallow depth of field, subtle halation, bloom glow, gentle flash-lit contrast, and a dreamy low-light atmosphere.\nStyle keywords: cinematic rim light, glowing body aura, halation effect, bloom glow, dreamy silhouette glow, moody night portrait, soft flash diffusion, dusk bokeh background, CCD camera aesthetic, disposable flash mood, Instagram lofi night tones, shallow depth of field, photorealistic, ultra-detailed, 4K.",
+      "description": "AI Portrait Restyle Prompt: Use this viral Instagram filter prompt to retouch and restyle any of your own images into a glowing nighttime portrait.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 63,
+      "view_count": 3639,
+      "copy_count": 6286,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "local_path": "images/photo-restyle/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "width": 2258,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-1"
+        },
+        {
+          "filename": "8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "local_path": "images/photo-restyle/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "width": 2051,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-2"
+        },
+        {
+          "filename": "2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "local_path": "images/photo-restyle/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "width": 1703,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-5"
+        },
+        {
+          "filename": "59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "local_path": "images/photo-restyle/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "original_url": "https://img.promptplum.com/promptImages/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "width": 1921,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-4"
+        },
+        {
+          "filename": "71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "local_path": "images/photo-restyle/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "original_url": "https://img.promptplum.com/promptImages/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "width": 1792,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-3"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704ff",
+      "title": "Instagram Flash Restyle",
+      "slug": "instagram-flash-restyle",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "Apply only an Instagram Flash filter-style effect to the uploaded image. Do not regenerate, redesign, crop, reframe, beautify, retouch, or change any content. Preserve the exact same person, face, expression, pose, outfit, hairstyle, objects, background, framing, and composition. Change only the filter treatment: night conversion, direct flash behavior, color grading, visible noise, and film grain.\nConvert the image into a darker night-like / low-light version of the same scene. Make the environment cooler, moodier, and richer, with a strong green-cyan / teal ambience and deeper night density, while keeping the original scene recognizable. The background should become darker and cooler than the subject, but not muddy or fully black.\nThe subject treatment is critical: light the subject with a strong direct on-camera frontal flash that is clearly visible in the result. The flash must dominate the subject more than the ambient light. The face, skin, hair, and clothing facing the camera should look brighter, flatter, more directly flash-lit, and slightly lifted in exposure. The subject should appear more illuminated and more separated from the surroundings, like a real camera-flash snapshot, not a softly relit portrait. Keep the skin warm, bright, glowing, and flash-washed, while the surroundings stay cooler and darker.\nIf reflective, glossy, metallic, leather, glass, polished, or shiny surfaces are present, show realistic small flash reflections / specular pops where appropriate. If the scene geometry naturally allows it, include a believable subtle hard-edged flash shadow behind the subject or nearby objects, but only where it would occur naturally.\nMatch the overall look of a rich Instagram Flash-style photo: stronger night mood, cooler green-cyan ambience, brighter flash-lit subject, slightly punchier contrast, and a more obvious filtered look. Add visible digital noise and fine 35mm color-negative film grain across the whole image. Keep the noise and grain clearly visible, especially in darker areas, smooth surfaces, and the background. If the original image already contains noise or compression texture, do not clean it up — blend it naturally into the overall grain structure.\nThe final result should look like the same original photo captured at night with a strong direct camera flash, featuring richer green-cyan ambience, a much more obviously flash-lit subject, visible film grain, visible noise, and a filtered Instagram Flash look.\nAvoid: soft studio lighting, weak flash on the subject, polished portrait lighting, over-clean denoising, overly neutral colors, dull flat skin, muddy blacks, or changing the image content.",
+      "description": "Instagram Flash Restyle Prompt: Copy & Paste this prompt to convert photos into a retro Instagram flash filter style.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 2220,
+      "copy_count": 2331,
+      "is_premium": false,
+      "published_at": "2026-09-23T23:57:10.904Z",
+      "images": [
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-5.webp",
+          "local_path": "images/photo-restyle/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "width": 1728,
+          "height": 2468,
+          "alt": "Flash Filter AI Photo Editing Prompt. AI generated portrait of a young woman in a silk camisole adjusting her pearl necklace, styled with a retro Instagram flash effect."
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-2.webp",
+          "local_path": "images/photo-restyle/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-4.webp",
+          "local_path": "images/photo-restyle/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "width": 1842,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-6.webp",
+          "local_path": "images/photo-restyle/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "width": 1240,
+          "height": 1618,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-1.webp",
+          "local_path": "images/photo-restyle/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-3.webp",
+          "local_path": "images/photo-restyle/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "width": 1792,
+          "height": 2390,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670409",
+      "title": "Old Photo Restoration",
+      "slug": "old-photo-restoration",
+      "category": "Photo Restyle",
+      "category_slug": "photo-restyle",
+      "prompt": "SUBJECT\nIdentity Lock: Absolute preservation of facial geometry and body proportions; Identity Similarity Threshold $\\ge 0.95$.\nEpidermal Fidelity: Execute macro-level epidermal texture synthesis to avoid \"plastic\" smoothing. Restore natural material skin-pore structures, textile weaves, and era-specific surfaces.\nClassification & Damage: Autonomous Origin Detection (Real/Synthetic/Ambiguous). Apply DamageScore (0–100) and RegionConfidence (RC).\nRC $\\ge 70$: Context-guided high-detail reconstruction.\nRC 30–69: Coarse-to-medium structural restoration; zero semantic invention.\nRC $< 30$: Era-consistent silhouette/texture fill only.\nSafe Reconstruction Logic: Area-based constraints: $< 10\\%$ (Guided inpainting), $10\\text{--}40\\%$ (Structural geometry synthesis), $> 40\\%$ (Texture-only pass).\nCOMPOSITION\nFrame Integrity: Strict adherence to original aspect ratio, framing, and semantic positioning. No object injection or removal.\nPerspective & Scale: Enforce rigorous vanishing point alignment and geometric continuity.\nSpatial Physics: Validate structural synthesis against surrounding geometry to ensure physical plausibility. Revert to \"Safe Fill\" if PhysicsCheck fails.\nLIGHTING\nGlobal Illumination: Restore Chiaroscuro-level lighting depth while maintaining consistent shadow direction and luminance gradients.\nMaterial Reflectance: Physically accurate reconstruction of light interaction with surfaces (specular highlights, matte finishes).\nChromatic Consistency: Restore faded tones to era-correct palettes with modern High Dynamic Range (HDR). Maintain vintage warmth/analog character through spectral-aware color fidelity.\nTECHNICAL SPECS\nRestoration Pipeline: Sub-pixel deconvolution, motion-blur neutralization, and chromatic aberration correction.\nSuper-Resolution: Execute Multi-stage 4x+ Super-Resolution with an anti-artifact refinement pass.\nNoise Management: Intelligent separation of sensor noise vs. compression artifacts; preserve original analog grain structure while removing degradational \"noise.\"\nOutput Parameters: Lossless 16-bit PNG/TIFF; Archival and sRGB color space integration; Metadata/EXIF preservation. Zero watermarks/logos/identifying marks altered.",
+      "description": "Old Photo Restoration Prompt. Restore vintage photos with Google Gemini AI. Use our detailed prompt to remove scratches, enhance 4K details, and colorize old photographs authentically.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 1249,
+      "copy_count": 1446,
+      "is_premium": false,
+      "published_at": "2026-09-08T22:09:28.657Z",
+      "images": [
+        {
+          "filename": "old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "local_path": "images/photo-restyle/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "local_path": "images/photo-restyle/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "local_path": "images/photo-restyle/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "local_path": "images/photo-restyle/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-restyle/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-restyle/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

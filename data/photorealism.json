@@ -1,0 +1,66 @@
+{
+  "category": "Photorealism",
+  "slug": "photorealism",
+  "total_prompts": 2,
+  "updated_at": "2026-09-24T13:11:00Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670330",
+      "title": "Orbit of the Soul",
+      "slug": "orbit-of-the-soul",
+      "category": "Photorealism",
+      "category_slug": "photorealism",
+      "prompt": "Create a hyper-realistic, ultra-detailed vertical portrait (aspect ratio 4:5), shot in 8K quality with a 35mm lens.\nUse the uploaded image as the exact facial reference. The subject’s face must remain fully recognizable and true to the reference.\nSubject & Pose\n\nA close-up side profile of the subject facing right, eyes gently closed, expression calm and serene. The framing focuses on the head, neck, and upper shoulder.\nSkin & Transformation\n\nThe subject’s skin appears cracked in an artistic, kintsugi-inspired pattern, revealing glowing molten gold and orange energy beneath the surface, like illuminated lava veins. The glow radiates softly from within, adding depth and realism.\nHair\n\nRich brown hair flows naturally in the wind, with subtle cracks and internal golden light visible between strands, maintaining a realistic texture while blending into the fantasy transformation.\nNeck & Shoulder\n\nThe lower neck and shoulder gradually transform into rugged dark-grey rock formations. Streams of molten lava in vibrant orange and yellow flow downward through the stone, with glowing embers and heat cracks creating strong texture contrast.\nBackground\n\nA vast, cinematic cosmic backdrop fills the scene. Directly behind the subject’s head is a bright, fiery orange-red spiral galaxy, glowing intensely as if connected to the subject’s inner energy. Surrounding space features swirling nebula clouds in deep blues, purples, and reds, scattered with countless stars and several small planets and moons suspended in the void.\nLighting & Mood\n\nCinematic volumetric lighting emphasizes the molten glow from the cracks and lava, creating dramatic rim lighting along the subject’s profile. Soft cosmic backlighting adds an ethereal halo effect. The overall mood is surreal, majestic, and otherworldly.\nStyle\n\nHyper-realistic fantasy art with extremely high texture detail, blending organic human elements with molten geological forms and celestial space imagery.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 874,
+      "copy_count": 1105,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_w2g0fnw2g0fnw2g0.jpg",
+          "local_path": "images/photorealism/Gemini_Generated_Image_w2g0fnw2g0fnw2g0.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_w2g0fnw2g0fnw2g0.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealism/Gemini_Generated_Image_w2g0fnw2g0fnw2g0.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealism/Gemini_Generated_Image_w2g0fnw2g0fnw2g0.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: digital artwork features a striking profile portrait of a bearded man whose physical form seems to be transforming into elemental matter. His skin resembles cracked, cooling volcanic rock, with veins of molten orange and yellow lava glowing intensely from within the fissures, particularly vivid along his neck and the side of his face. He has a peaceful expression with his eyes closed, suggesting a state of meditation or transcendence. The background is a vibrant, deep-space expanse dominated by a massive, swirling spiral galaxy that frames his head like a celestial halo. The color palette creates a dramatic contrast between the warm, fiery tones of the magma and galaxy core against the cool, deep blues and purples of the surrounding cosmos, dotted with distant planets and stars."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670258",
+      "title": "Dramatic Split Lighting Portrait",
+      "slug": "dramatic-split-lighting-portrait",
+      "category": "Photorealism",
+      "category_slug": "photorealism",
+      "prompt": "Render an 8K ultra-realistic close shot of a woman (face characteristics 100% same as the uploaded image) with windswept hair partially covering one eye. A sharp diagonal natural light beam illuminates her elevated gaze, showcasing her irises, high cheekbones, and glossy lips. Deep shadows envelop the rest of her face and the environment, creating a dark, cinematic, editorial mood.",
+      "description": "Cinematic Studio Portrait Prompt: Copy & paste this prompt to create a hyper-realistic close-up photo of a woman with dramatic shadows across her face.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 183,
+      "view_count": 7561,
+      "copy_count": 16249,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "local_path": "images/photorealism/Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealism/Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealism/Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "width": 896,
+          "height": 1152,
+          "alt": "Woman Cinematic Shadow Portrait AI Photo Editing Prompt. AI generated close-up portrait of a dark-haired woman featuring dramatic diagonal lighting across her face."
+        }
+      ]
+    }
+  ]
+}

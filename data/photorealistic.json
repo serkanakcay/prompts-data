@@ -1,0 +1,448 @@
+{
+  "category": "Photorealistic",
+  "slug": "photorealistic",
+  "total_prompts": 10,
+  "updated_at": "2026-09-24T13:11:00Z",
+  "prompts": [
+    {
+      "id": "6aad95cb46d4207dc215955a",
+      "title": "High-Speed Powder Explosion Portrait",
+      "slug": "premium-powder-explosion",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "Ultra-realistic high-speed medium close-up portrait of [replace with uploaded face] as vibrant orange powder explodes across the face from right side, eyes closed naturally at impact. Purple and magenta pigments surround subject, frozen particles with cinematic lighting warm key light right, cool purple rim left, dark studio background, sharp powder detail, shallow depth, 85mm lens, photorealistic, HDR, dramatic contrast. 4:5 aspect ratio.",
+      "description": "Unlock this premium AI prompt to generate ultra-realistic, high-speed portraits featuring a dramatic orange powder explosion and cinematic purple lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 1,
+      "view_count": 505,
+      "copy_count": 6,
+      "is_premium": true,
+      "published_at": "2026-09-18T19:49:31.869Z",
+      "images": [
+        {
+          "filename": "8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "local_path": "images/photorealistic/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "width": 1844,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_m3thjm3thjm3thjm"
+        },
+        {
+          "filename": "11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "local_path": "images/photorealistic/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "original_url": "https://img.promptplum.com/promptImages/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_t6hjb6t6hjb6t6hj"
+        },
+        {
+          "filename": "8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "local_path": "images/photorealistic/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_oqn115oqn115oqn1"
+        },
+        {
+          "filename": "465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "local_path": "images/photorealistic/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "width": 1848,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_l6wpqbl6wpqbl6wp"
+        },
+        {
+          "filename": "654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "local_path": "images/photorealistic/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_81mrr81mrr81mrr8"
+        }
+      ]
+    },
+    {
+      "id": "6aad860246d4207dc213d8d0",
+      "title": "Hyperreal Cinematic Scandinavian Viking",
+      "slug": "scandinavian-viking-portrait",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "IMAX cinematic 4:5 close-up of a rugged Scandinavian Viking, hyperreal historical-blockbuster realism. Direct soul-piercing gaze, cold eyes, shaved temples with tight crown braids, thick braided beard. Dirt, scars, black war paint, melting snow droplets visible. Worn bear-fur armor, leather belts, oxidized Celtic brooches. Snowy forest bokeh, blizzard fog, diffused cold light, steel tones, high micro-contrast, 35mm grain.",
+      "description": "Copy this AI prompt to generate hyperreal, cinematic portraits of a rugged Scandinavian Viking with war paint, a braided beard, and bear-fur armor in a snowy forest.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 1,
+      "view_count": 314,
+      "copy_count": 166,
+      "is_premium": false,
+      "published_at": "2026-09-18T18:42:10.080Z",
+      "images": [
+        {
+          "filename": "d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "local_path": "images/photorealistic/d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/d9ce21bb-9fd6-4c68-9e61-766bf919a28c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Prompt: Hyperreal portrait of a Scandinavian Viking with crown braids, dirt, and facial scars, wearing leather and fur in a blizzard."
+        },
+        {
+          "filename": "d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "local_path": "images/photorealistic/d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/d145c7cb-2760-43b4-abae-21d5b766f047.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Photo Editing Prompt: High-contrast cinematic image of a Viking warrior with cold blue eyes, war paint, and a thick braided beard standing in the snow."
+        },
+        {
+          "filename": "59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "local_path": "images/photorealistic/59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/59ac82cc-17c6-42ec-bb89-0f092a35a6b0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini AI Generated Cinematic close-up portrait of a rugged Viking with a braided beard, war paint, and fur armor in a snowy forest"
+        },
+        {
+          "filename": "08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "local_path": "images/photorealistic/08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/08657081-ef08-45bd-ad36-c8080c2cda2b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI Prompt for Detailed close-up of a rugged Viking featuring Celtic brooches, fur armor, and melting snow on his beard and face."
+        }
+      ]
+    },
+    {
+      "id": "6aa9585446d4207dc2bbe809",
+      "title": "Cinematic Vintage Record Store Portrait",
+      "slug": "vintage-record-store-portrait",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "Create a photorealistic cinematic portrait of a young woman inside a dim, cozy vintage record store. Use a vertical 4:5 composition with a near-full-body view, keeping her entire body and shoes visible. Position her slightly left of center, casually leaning her upper body against a long wooden vinyl-record shelf on the left side of the frame. Her posture is relaxed and natural, with one arm resting loosely against the shelf, her legs extended slightly forward and her ankles casually crossed.\nShe wears an oversized black ribbed knit sweater, loose charcoal-gray trousers, worn off-white Converse-style canvas sneakers, and large black over-ear headphones. One hand hangs naturally beside her body while holding a vinyl record outer cover vertically by its edge.\nHer head is gently tilted slightly upward and back, eyes closed, with a peaceful, introspective expression, as though completely absorbed in the music. Avoid smiling or looking toward the camera.\nSurround her with long wooden record bins filled with vinyl sleeves. Show additional rows of records behind her, aged music posters and album artwork covering the upper walls, and three vintage yellow pendant lamps hanging prominently overhead. The background should remain recognizable while softly out of focus rather than heavily blurred.\nUse warm tungsten illumination from the pendant lamps mixed with a muted olive-green and amber cinematic color grade. Keep the room slightly dark and atmospheric, with gentle highlights on her face and hair, subtle shadows, floating dust particles, aged wood textures, and a nostalgic analog-film character.\nNatural skin texture, realistic fabric folds, authentic worn sneakers, candid body language, subtle 35mm film grain, soft highlight bloom, slightly faded colors, gentle optical softness and restrained contrast. Make it feel like a genuine cinematic still captured inside an old independent record shop, not a modern fashion shoot or digitally polished studio photograph. Approximate 50–70mm photographic perspective, shallow but controlled depth of field.\nFace match naturally with high accuracy.",
+      "description": "Copy this detailed AI prompt to generate a highly realistic, cinematic portrait of a girl in a vintage record store with a nostalgic analog film look.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 0,
+      "view_count": 295,
+      "copy_count": 167,
+      "is_premium": false,
+      "published_at": "2026-09-15T14:38:12.642Z",
+      "images": [
+        {
+          "filename": "60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "local_path": "images/photorealistic/60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/60742bb2-660c-48b9-86f9-3d6f9dbc47f4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini AI Generated Photorealistic cinematic portrait of a young woman listening to music in a vintage record store"
+        }
+      ]
+    },
+    {
+      "id": "6aa6d4c646d4207dc2859102",
+      "title": "Cinematic Ducati Motorcycle Portrait",
+      "slug": "cinematic-ducati-motorcycle-portrait",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "Use the uploaded photo strictly as the facial identity reference only. Ignore the original pose, clothing, framing, lighting and background. Preserve the person’s natural facial identity and likeness.\nCreate a hyper-realistic cinematic vertical 4:5 full-body portrait of a stylish man sitting confidently on a modern customized Ducati XDiavel V4-style motorcycle.\nShow the bike in a around three-quarter angle, with the entire motorcycle fully visible. The motorcycle must have a white / metallic-gray / black body with a clearly visible red trellis frame in the center section, plus black wheels and subtle red rim accents. Keep the bike aggressive, premium and true to Ducati-style proportions.\nThe man is seated naturally on the saddle with both feet on the ground, torso slightly leaning forward, and both forearms resting casually on a glossy black full-face helmet placed on the fuel tank.\nOutfit: muted khaki/taupe fitted hoodie, slim black pants, clean white low-top sneakers, black rectangular sunglasses. Expression calm, confident, slightly serious, looking directly at the camera.\nEnvironment: modern upscale urban plaza with dark charcoal-gray rectangular stone pavement, contemporary glass-and-concrete buildings in the background, softly blurred but still recognizable, and a few warm amber streetlights creating subtle bokeh.\nLighting: soft late-overcast afternoon light, just before dusk, with enough daylight to clearly illuminate the subject and motorcycle. Keep the rider and bike slightly brighter than the background. Maintain soft shadows, visible detail in the black clothing and dark mechanical parts, and soft controlled highlights on the metallic motorcycle surfaces.\nColor palette: cool gray, blue-gray, black, metallic gray, muted taupe, with warm amber streetlights and the distinct red trellis frame as an important visual feature.\nCamera: eye-level, 70–85mm portrait perspective, moderate shallow depth of field. Keep the rider and bike sharp, background softly separated.\nAvoid: underexposed subject, crushed blacks, pale pavement, excessive blur, bright daylight look, strong warm cast, generic bike design, missing red trellis frame, warped motorcycle parts, duplicate mirrors/handlebars, extra fingers, floating helmet, or cropped wheels.",
+      "description": "Use this urban lifestyle photography prompt to create a photorealistic portrait of a stylish man in a hoodie and sunglasses sitting on a Ducati motorcycle.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 17,
+      "view_count": 1714,
+      "copy_count": 1096,
+      "is_premium": false,
+      "published_at": "2026-09-13T16:52:22.486Z",
+      "images": [
+        {
+          "filename": "e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "local_path": "images/photorealistic/e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/e6f1cbf2-c194-4f5a-8fcf-02b60cf53904.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-sitting-on-ducati-bike-image-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "local_path": "images/photorealistic/e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/e61f04f2-a3c9-4a5a-ba80-e04dfa167079.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-sitting-on-ducati-bike-image-ai-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "local_path": "images/photorealistic/99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "original_url": "https://img.promptplum.com/promptImages/99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/99de3a4f-d976-4433-98d8-5ca1944f7221.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Urban Lifestyle Photography of Man on Ducati AI Photo Prompt. AI generated photorealistic portrait of a stylish bearded man in a beige hoodie and sunglasses sitting on a white and red Ducati motorcycle on a city street."
+        },
+        {
+          "filename": "0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "local_path": "images/photorealistic/0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/0c6464b2-8848-4d18-ada5-483684a90285.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-sitting-on-ducati-bike-image-ai-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "local_path": "images/photorealistic/4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/4fe6d182-21fb-40b6-87e6-4a25dba60bb0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Urban Motorcycle Photography AI Photo Editing Prompt. AI generated portrait of a man in a hoodie and sunglasses sitting on a white Ducati motorcycle on a city street."
+        }
+      ]
+    },
+    {
+      "id": "6a6e804c4bbdbe2cf55c479d",
+      "title": "Smart Casual Men's Street Style Look",
+      "slug": "smart-casual-mens-street-style-look-portrait",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "A highly realistic editorial fashion portrait of a stylish man sitting casually on modern concrete steps in an elegant outdoor urban setting, looking away from the camera with a confident and relaxed expression. He has naturally textured black hair, wearing premium black sunglasses, a luxury deep olive-green suede jacket, a light beige premium knitted crew-neck sweater, warm camel wide-leg tailored trousers, and clean off-white leather sneakers. A premium dark tan canvas tote bag is placed beside him. The overall color palette is warm, earthy, and luxurious.\n\nSoft golden-hour natural sunlight, cinematic shadows, neutral background, ultra-detailed fabric texture, realistic skin pores, sharp facial details, premium fashion photography, shallow depth of field, HDR, 85mm lens, professional editorial lighting, luxury aesthetic, ultra photorealistic, magazine-quality composition, 8K, extremely high detail, crisp focus, realistic colors, global illumination, masterpiece, award-winning fashion photography.\n\nKeep the face identity of the uploaded person accurately matched, preserving facial structure, hairstyle, skin tone, and natural proportions. No distortion, no cartoon effect, no extra limbs, no text artifacts. Ultra-realistic human features with premium cinematic quality. Aspect ratio 3:4",
+      "description": "Photorealistic Men's Fashion Prompt: Use this prompt to create a realistic street style portrait of a stylish man in a green suede jacket sitting on outdoor steps.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 832,
+      "copy_count": 1335,
+      "is_premium": false,
+      "published_at": "2026-08-01T23:45:00.010Z",
+      "images": [
+        {
+          "filename": "5dcbcf75-baa2-43d3-bcd6-491975c0143c.webp",
+          "local_path": "images/photorealistic/5dcbcf75-baa2-43d3-bcd6-491975c0143c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5dcbcf75-baa2-43d3-bcd6-491975c0143c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/5dcbcf75-baa2-43d3-bcd6-491975c0143c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/5dcbcf75-baa2-43d3-bcd6-491975c0143c.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Smart Casual Men's Fashion Portrait AI Photo Editing Prompt."
+        },
+        {
+          "filename": "11525da6-7a38-4813-b19a-a5af0f7ce017.webp",
+          "local_path": "images/photorealistic/11525da6-7a38-4813-b19a-a5af0f7ce017.webp",
+          "original_url": "https://img.promptplum.com/promptImages/11525da6-7a38-4813-b19a-a5af0f7ce017.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/11525da6-7a38-4813-b19a-a5af0f7ce017.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/11525da6-7a38-4813-b19a-a5af0f7ce017.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Urban Street Style Portrait AI Photo Editing Prompt. AI generated portrait of a stylish young man in sunglasses with a beard, wearing an olive suede jacket and tan trousers, sitting on stone steps next to a canvas bag."
+        },
+        {
+          "filename": "23c2058e-3fe2-498b-871c-cb96543248be.webp",
+          "local_path": "images/photorealistic/23c2058e-3fe2-498b-871c-cb96543248be.webp",
+          "original_url": "https://img.promptplum.com/promptImages/23c2058e-3fe2-498b-871c-cb96543248be.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/23c2058e-3fe2-498b-871c-cb96543248be.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/23c2058e-3fe2-498b-871c-cb96543248be.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "AI generated fashion portrait of a man wearing an olive suede jacket, sunglasses, and tan trousers, sitting on concrete steps with a canvas tote bag."
+        }
+      ]
+    },
+    {
+      "id": "6a6cf8d24bbdbe2cf535c90f",
+      "title": "Young Man Commuting on a Modern Subway Train",
+      "slug": "man-modern-metro-train-portrait",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "> Create an ultra-realistic 8K portrait of a young man standing inside a modern metro train, holding a vertical stainless-steel pole with one hand while the other hand is casually inside his pocket. He is looking directly at the camera with a calm, confident expression. Match the face with the uploaded person's face, maintaining accurate facial identity, skin tone, beard, hairstyle, and natural facial proportions. He is wearing a premium dark navy and grey checkered flannel shirt over a clean white t-shirt, light blue denim jeans, a luxury black smartwatch, white wireless headphones around his neck, and a stylish mustard-yellow backpack. The metro interior is sleek and modern with soft LED lighting, metallic textures, clean windows, and a cinematic atmosphere. Ultra-detailed skin texture, sharp eyes, realistic hair strands, natural shadows, HDR lighting, depth of field, perfect composition, photorealistic colors, premium fashion photography, DSLR quality, 85mm lens, f/1.8, bokeh background, hyper-detailed, ultra-sharp focus, masterpiece, professional color grading, realistic reflections, editorial magazine style, 4:5 aspect ratio, **face match accuracy**, **high-resolution**, **8K**, **ultra photorealistic**.\n\n---\n\n### **Negative Prompt**\n\n> low quality, blurry, cartoon, anime, painting, illustration, low resolution, overexposed, underexposed, noisy image, distorted face, wrong face, duplicate person, extra fingers, extra hands, bad anatomy, cropped image, watermark, logo, text, oversaturated colors, unrealistic skin, deformed body, motion blur, pixelated, out of focus.",
+      "description": "Photorealistic Urban Photography Prompt: Use this prompt to create a highly detailed portrait of a young man with a backpack riding a modern subway train.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 793,
+      "copy_count": 1305,
+      "is_premium": false,
+      "published_at": "2026-07-31T23:30:00.013Z",
+      "images": [
+        {
+          "filename": "55547cb1-5f8a-4191-a2ed-cafce1b408e8.webp",
+          "local_path": "images/photorealistic/55547cb1-5f8a-4191-a2ed-cafce1b408e8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/55547cb1-5f8a-4191-a2ed-cafce1b408e8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/55547cb1-5f8a-4191-a2ed-cafce1b408e8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/55547cb1-5f8a-4191-a2ed-cafce1b408e8.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Photorealistic Subway Commuter Portrait AI Photo Editing Prompt. AI generated realistic portrait of a young man with headphones and a yellow backpack holding onto a pole inside a modern metro car."
+        }
+      ]
+    },
+    {
+      "id": "6a6a8e294bbdbe2cf5f1f864",
+      "title": "Golden Hour Couple City Portrait",
+      "slug": "couple-golden-hour-city-portrait",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "Create a premium, ultra-realistic lifestyle portrait of the uploaded couple, preserving each person’s individual facial identity, skin tone, age, hairstyle and recognizable features without blending their features. Dress them in coordinated but non-matching modern smart-casual outfits in complementary neutral tones. Place them on an elegant city street during golden hour, standing naturally close with relaxed body language and a gentle hand-holding interaction. Keep both faces clearly visible near the same focal plane, with subtle closed-mouth smiles and authentic chemistry. Use soft diffused golden light, accurate skin exposure, realistic fabric and skin texture, an eye-level 85mm perspective and f/3.2 depth of field. Premium American lifestyle editorial photography, 4:5 aspect ratio.",
+      "description": "Golden Hour Street Photography Prompt: Use this prompt to create a realistic portrait of a young couple holding hands on a cobblestone city street at dusk.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 47,
+      "view_count": 3822,
+      "copy_count": 4786,
+      "is_premium": false,
+      "published_at": "2026-07-29T23:35:05.676Z",
+      "images": [
+        {
+          "filename": "d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
+          "local_path": "images/photorealistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Young Couple Street Photography AI Photo Editing Prompt. AI generated outdoor portrait of a young couple holding hands on a paved European street during the golden hour with warm background bokeh."
+        },
+        {
+          "filename": "329510a7-9451-409b-811c-4402ef448172.webp",
+          "local_path": "images/photorealistic/329510a7-9451-409b-811c-4402ef448172.webp",
+          "original_url": "https://img.promptplum.com/promptImages/329510a7-9451-409b-811c-4402ef448172.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/329510a7-9451-409b-811c-4402ef448172.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/329510a7-9451-409b-811c-4402ef448172.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated photorealistic portrait of a young man in a dark blazer and a woman in a beige trench coat holding hands on a sunlit street."
+        },
+        {
+          "filename": "51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
+          "local_path": "images/photorealistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Romantic Couple City Portrait AI Photo Editing Prompt. AI generated photorealistic portrait of a young smiling couple embracing on a cobblestone European street during golden hour."
+        }
+      ]
+    },
+    {
+      "id": "6a5df67da3af6f12204e225b",
+      "title": "The Autumn Explorer",
+      "slug": "low-angle-autumn-forest-photography",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "Create an ultra-realistic cinematic photograph of the uploaded female subject with a tall, slender build, standing on a horizontal fallen tree trunk among towering yellow autumn trees in a dense forest.\nCapture her in side profile with both hands raised near her neck, naturally adjusting the collar of her shirt. Her chin is slightly lifted as she looks toward the treetops. From the low side angle, clearly show the natural silhouette of her jawline, cheek, lips, nose, and the lower edge of her glasses.\nPosition the camera near ground level at one end of the fallen trunk, pointing directly upward to create an extreme worm’s-eye perspective. Use full upward framing with no ground visible. The composition should show only the elevated trunk, the woman, tall straight tree trunks converging toward the centre, bright yellow autumn leaves, and a patch of blue sky above.\nShe wears a plain white T-shirt under an open black shirt, loose straight-cut light brown cargo pants, white sneakers, and a plain black baseball cap.\nAdventure-style cinematic outdoor photography, natural daylight filtering through the leaves, ultra-wide 10–12mm lens, strong perspective distortion, dramatic vertical composition, realistic proportions and textures, sharp subject detail, photorealistic DSLR quality. Vertical 4:5 aspect ratio.",
+      "description": "Dramatic Nature Photography Prompt: Get this prompt to create a realistic outdoor photograph of a hiker standing on a log in a golden autumn forest.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 2214,
+      "copy_count": 2106,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "64539c7f-5e0f-4627-8a92-e6a69ea7ca7d.webp",
+          "local_path": "images/photorealistic/64539c7f-5e0f-4627-8a92-e6a69ea7ca7d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/64539c7f-5e0f-4627-8a92-e6a69ea7ca7d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/64539c7f-5e0f-4627-8a92-e6a69ea7ca7d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/64539c7f-5e0f-4627-8a92-e6a69ea7ca7d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dramatic Low-Angle Autumn Portrait AI Photo Editing Prompt. AI generated outdoor portrait of a young woman wearing a cap and cargo pants, standing on a fallen log beneath towering yellow trees."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703a5",
+      "title": "Contrast in Repose",
+      "slug": "black-and-white-man-fedora-seated",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "Create a hyper-realistic 8K black-and-white luxury editorial portrait in a cinematic studio style.\n\nThe image must feel premium, powerful, elegant, masculine, and high-fashion.\nSUBJECT & POSE\nA confident, stylish man seated in a modern luxury black leather lounge chair.\n\nBody angled slightly to the right\nLeft leg crossed over the right\nLeft hand touching the brim of the hat\nRight arm relaxed on the armrest\nHead slightly tilted downward\nDirect eye contact\nExpression: calm, dominant, confident, editorial\nLUXURY WARDROBE\nHigh-end fedora hat with premium felt texture\nTailored white Italian linen shirt, slightly unbuttoned\nDesigner white linen trousers with sharp tailoring\nLuxury leather loafers with polished finish\nPREMIUM ACCESSORIES\nLayered solid silver / platinum chains\nLuxury Swiss mechanical wristwatch (steel case, black dial)\nLuxury silver chain on the subject's right hand\nFRAMING & COMPOSITION\nMedium shot (upper legs to head visible)\nSubject slightly off-center to the right\nNegative space above and left\nChair and subject fully visible and clearly separated from background\nLIGHTING\nSoft front key light from front-left for facial clarity\nDramatic chiaroscuro high contrast\nControlled deep shadows, bright highlights\nMedium rim light on shoulders, hat edge, and chair\nFace, outfit, and chair must remain clearly visible\nBACKGROUND\nPure black studio void\n\nNo texture, no gradients\nCAMERA & QUALITY\n50mm lens\nSlight low-angle\nUltra-sharp focus\nNatural skin texture\nProfessional DSLR realism\nHigh dynamic range\nCinematic contrast\nFinal Mood:\n\nLuxury. Power. Masculine elegance. High-fashion editorial portrait.",
+      "description": "Generate stunning monochrome portraits with this high-contrast AI prompt. Create realistic, studio-quality images of a sophisticated man in a fedora, white linen shirt, and silver jewelry.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 49,
+      "view_count": 1038,
+      "copy_count": 2768,
+      "is_premium": false,
+      "published_at": "2026-08-10T17:53:48.904Z",
+      "images": [
+        {
+          "filename": "high-contrast-black-and-white-mens-portrait-seated-pose-with-fedora-ai-prompt.webp",
+          "local_path": "images/photorealistic/high-contrast-black-and-white-mens-portrait-seated-pose-with-fedora-ai-prompt.webp",
+          "original_url": "https://img.promptplum.com/promptImages/high-contrast-black-and-white-mens-portrait-seated-pose-with-fedora-ai-prompt.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/high-contrast-black-and-white-mens-portrait-seated-pose-with-fedora-ai-prompt.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/high-contrast-black-and-white-mens-portrait-seated-pose-with-fedora-ai-prompt.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "High-contrast B&W portrait of a Black man in a fedora and white linen, seated cross-legged in a leather chair while tipping his hat. Sophisticated and cinematic."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670200",
+      "title": "Yellow Background Pointing Portrait of Man",
+      "slug": "men-in-yellow-background",
+      "category": "Photorealistic",
+      "category_slug": "photorealistic",
+      "prompt": "Use the uploaded image of me strictly as the face and identity reference only. Keep the face 100% accurate and recognizable.\nCreate a clean premium studio portrait of me against a rich golden-yellow seamless background with a soft warm gradient. I am wearing an open mustard-yellow corduroy overshirt over a plain white crew-neck T-shirt. Show me with neatly styled hair, a well-groomed appearance, and a joyful natural smile.\nPose me in a confident engaging way, looking directly at the camera while pointing toward the viewer with my right hand, with the finger slightly closer to the lens for natural depth. Frame it as a medium close-up / upper-body portrait, keeping the face as the main focus while the pointing hand remains clearly visible in the foreground.\nUse bright professional studio lighting with soft even illumination, clean highlights, natural skin tones, sharp eyes, detailed hair texture, individual hair stands, and a polished commercial look. Make the result feel like a high-end modern advertising portrait — vibrant, crisp, premium, and photorealistic.\nAvoid: face drift, extra fingers, distorted hand, plastic skin, cartoon look, flat lighting, blur, or over-retouching.\nAspect ratio: 4:5",
+      "description": "Unlock this premium AI prompt to generate a highly realistic commercial portrait of a smiling man in a mustard shirt pointing directly at the camera on a yellow background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 1642,
+      "copy_count": 1683,
+      "is_premium": true,
+      "published_at": "2026-09-16T17:13:51.211Z",
+      "images": [
+        {
+          "filename": "f4082c3f-117c-4f98-8229-2fa0e64545bd.webp",
+          "local_path": "images/photorealistic/f4082c3f-117c-4f98-8229-2fa0e64545bd.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f4082c3f-117c-4f98-8229-2fa0e64545bd.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/f4082c3f-117c-4f98-8229-2fa0e64545bd.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/f4082c3f-117c-4f98-8229-2fa0e64545bd.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini AI Prompt for Premium photorealistic commercial studio portrait of a man pointing at the camera against a golden-yellow background"
+        }
+      ]
+    }
+  ]
+}

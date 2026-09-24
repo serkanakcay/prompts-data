@@ -1,0 +1,37 @@
+{
+  "category": "Photo Enhancement",
+  "slug": "photo-enhancement",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T13:10:51Z",
+  "prompts": [
+    {
+      "id": "6a6b7a5f4bbdbe2cf50ca273",
+      "title": "Two-Toned Dragon Portrait",
+      "slug": "half-red-white-dragon-shirt-portrait",
+      "category": "Photo Enhancement",
+      "category_slug": "photo-enhancement",
+      "prompt": "Create a highly-detailed photorealistic cinematic fashion portrait of a stylish man(face match) standing against a smooth dark grey studio background. He is wearing an loose  bold half-and-half shirt: the left side is crisp white with a large detailed black Chinese dragon graphic, while the right side is vibrant red. The sleeves are rolled up, and he wears fitted black trousers with a metallic silver wristwatch. He poses with one forearm raised horizontally across the lower half of his face, partially covering his mouth, while his intense eyes stare directly into the camera. His textured hair is styled naturally with a few strands falling over his forehead. Dramatic soft studio lighting creates subtle shadows and highlights the fabric texture, strong facial features, and aesthetic forearm. Cantered mid thigh-up composition, straight-on camera angle, high-end editorial fashion photography, sharp focus, ultra-detailed realistic skin texture, shallow depth of field, cinematic colour grading, ultra-detailed, 8K resolution, vertical 4:5 aspect ratio. Do not tuck the shirt into the trousers.",
+      "description": "Fashion Photography Prompt: Copy & Paste this prompt to create a striking studio portrait of a man wearing a split red and white dragon print shirt.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 502,
+      "copy_count": 557,
+      "is_premium": false,
+      "published_at": "2026-07-30T16:22:55.307Z",
+      "images": [
+        {
+          "filename": "c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "local_path": "images/photo-enhancement/c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photo-enhancement/c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photo-enhancement/c961a4a2-f2e8-4b74-a0c2-52a06dd44a7b.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Split Dragon Shirt Portrait AI Photo Editing Prompt. AI generated studio portrait of an intense-looking man in a unique split-color red and white shirt with an intricate dragon design, partially hiding his face with his arm and watch."
+        }
+      ]
+    }
+  ]
+}

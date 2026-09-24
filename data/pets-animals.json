@@ -1,0 +1,273 @@
+{
+  "category": "Pets & Animals",
+  "slug": "pets-animals",
+  "total_prompts": 5,
+  "updated_at": "2026-09-24T13:10:51Z",
+  "prompts": [
+    {
+      "id": "6aa827f446d4207dc2a435a7",
+      "title": "Handsome Man Relaxing at Mountain Resort",
+      "slug": "casual-mens-fashion-nature-background",
+      "category": "Pets & Animals",
+      "category_slug": "pets-animals",
+      "prompt": "Create an ultra-realistic cinematic lifestyle portrait of a handsome man. Use the uploaded reference image strictly for accurate face and identity matching. He standing beside a rustic wooden fence overlooking a breathtaking mountain lake at sunset.\nSubject:\nA handsome man with neatly groomed look, wearing a relaxed dark-brown long-sleeve button-up shirt with the sleeves casually rolled to the forearms, loose cream/off-white straight-fit trousers, and clean white sneakers. He stands casually with both hands in his trouser pockets, one leg crossed naturally in front of the other, leaning slightly against the wooden fence. His body is slightly angled as he looks peacefully off-camera, with a calm, thoughtful, and slightly happy expression.\nEnvironment & Composition:\nA rustic countryside wooden cabin sits on the left side of the frame, surrounded by lush greenery, potted plants, and a large mature tree extending overhead. A friendly Golden Retriever with its mouth slightly open sits naturally on the grass to the man’s left. The subject stands centered, with a rustic wooden rail fence running horizontally through the scene. Beyond the fence is a spectacular mountain valley and a serene lake reflecting the warm sunset. Layered mountains fade softly into atmospheric haze in the distance.\nLighting:\nWarm golden-hour sunset lighting, with the low sun visible near the horizon on the right side of the frame. Soft golden rim light illuminates the man’s hair, shoulders, clothing, and surrounding foliage, creating natural warm highlights, gentle shadows, and a beautiful sun flare. A soft fill light keeps his face naturally visible and properly exposed, with no underexposure.\nCamera & Style:\nVertical 4:5 composition, full-body framing, eye-level camera, realistic human proportions, cinematic depth of field, natural environmental perspective, soft background separation, detailed textures, realistic skin and hair, cinematic color grading, premium travel-editorial photography, highly photorealistic, atmospheric and emotionally serene, 8K ultra-detailed quality.\nNegative Prompt:\ndistorted face, identity change, distorted body, bad anatomy, duplicate dog, unnatural pose, blurry subject, low resolution, underexposed face, artificial skin, plastic skin, text, logo, watermark.",
+      "description": "Cinematic Lifestyle Photography Prompt: Copy & Paste this prompt to create a beautiful golden hour portrait of a stylish young man and a golden retriever relaxing by a rustic wooden fence with a stunning alpine lake and mountain sunset background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 7,
+      "view_count": 679,
+      "copy_count": 439,
+      "is_premium": false,
+      "published_at": "2026-09-14T16:59:32.035Z",
+      "images": [
+        {
+          "filename": "114e8d7a-a39e-4cce-9cb7-71c739029d50.jpeg",
+          "local_path": "images/pets-animals/114e8d7a-a39e-4cce-9cb7-71c739029d50.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/114e8d7a-a39e-4cce-9cb7-71c739029d50.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/114e8d7a-a39e-4cce-9cb7-71c739029d50.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/114e8d7a-a39e-4cce-9cb7-71c739029d50.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man and Golden Retriever in Scenic Mountain Landscape AI Photo Editing Prompt. AI generated cinematic lifestyle photography of a stylish young man leaning against a rustic wooden fence at sunset, accompanied by a dog, with a wooden cabin and a beautiful alpine lake in the background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670479",
+      "title": "Unconditional Joy",
+      "slug": "3d-cartoon-people-with-pets",
+      "category": "Pets & Animals",
+      "category_slug": "pets-animals",
+      "prompt": "Use the uploaded image as the ONLY facial and identity reference for the human subject. The face must remain highly recognizable — preserve facial structure, proportions, hairstyle, and identity. Do not alter or beautify facial features.\n\nCreate a heartwarming Pixar-style 3D animated portrait focused on the emotional bond between the human and their pet.\n\nCharacter Design:\n- Both the human and the pet should have cute mini-body proportions (slightly chibi-inspired but still Pixar-realistic)\n- Slightly larger head, soft rounded facial features, and expressive eyes\n- Maintain identity accuracy while enhancing overall cuteness\n\nPose & Interaction:\n- Both the pet and the human subject are facing each other or directly toward the viewer (front-facing)\n- The pet is being gently held close (in arms or near chest/face)\n- The pet looks very happy, energetic, and joyful (open mouth smile or playful expression)\n- The human has a soft, warm, emotionally engaging smile\n- Strong visible bond — affection, comfort, companionship\n\nPet Handling:\n- If pet image is provided: recreate it accurately (fur texture, color, personality)\n- If not: generate a cute personality-matching pet (small fluffy dog, kitten, bunny, etc.)\n\nStyle & Rendering:\n- High-end Pixar-style 3D rendering\n- Soft skin shading, smooth materials, subtle subsurface scattering\n- Detailed, soft, volumetric fur\n- Clean, polished, cinematic quality (not over-stylized or plastic)\n\nClothing:\n- Inspired by the reference image outfit\n- Slightly enhanced for a premium look (richer colors, soft fabric texture, clean styling)\n\nComposition & Framing:\n- Aspect ratio: 1:1 (perfect square for DP)\n- Medium close-up (chest-up framing)\n- Face and pet both clearly visible and centered\n- Balanced composition with comfortable negative space around the subject\n- Keep slight breathing room on all sides (top, left, right) for a premium DP look\n- Slight depth to avoid flat look\n\nLighting:\n- Soft studio lighting\n- Warm and cozy tone\n- Gentle rim light for separation\n- Soft highlights on face and fur\n\nBackground:\n- Clean studio-style soft, light color gradient background\n- Outer edges slightly darker or softly colored\n- Inner area (around subject) gradually transitions into a lighter tone\n- Subtle center-focused glow behind the subject to naturally draw attention\n- Smooth gradient blend with no harsh transitions or distractions\n\nMood:\nCute, joyful, emotional, and highly engaging — perfect for a profile picture\n\nQuality:\nUltra-high resolution, sharp, clean, no noise, no distortion, no artifacts\n\nEnsure perfect face clarity, no deformation, and clean rendering.\nEnhance emotional connection and cuteness without losing realism.",
+      "description": "3D Animated Portrait Prompt: Use this prompt to generate heartwarming 3D illustrations of diverse people of all ages happily cuddling their cute pets in a vibrant studio style.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 56,
+      "view_count": 1431,
+      "copy_count": 1721,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "local_path": "images/pets-animals/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/woman-with-wavy-hair-hugging-orange-tabby-cat-illustration-by-promptplum.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "AI Photo Editing Prompt. AI generated digital illustration of a smiling woman with wavy brown hair hugging a fluffy orange tabby cat."
+        },
+        {
+          "filename": "man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/pets-animals/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/man-with-glasses-and-beard-hugging-cute-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Man Hugging Puppy AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling man with glasses and a beard hugging a cute, fluffy brown and white puppy."
+        },
+        {
+          "filename": "boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/pets-animals/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/boy-with-curly-hair-hugging-brown-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Boy with Puppy AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling boy with curly hair in a blue cable-knit sweater hugging a fluffy brown puppy."
+        },
+        {
+          "filename": "elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "local_path": "images/pets-animals/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/elderly-woman-smiling-hugging-golden-retriever-puppy-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Elderly Woman with Pet AI Photo Editing Prompt. AI generated digital illustration of a smiling elderly woman in a pink cardigan warmly hugging a joyful golden retriever puppy."
+        },
+        {
+          "filename": "elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "local_path": "images/pets-animals/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/elderly-man-with-glasses-hugging-shih-tzu-dog-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Elderly Man with Pet AI Photo Editing Prompt. AI generated digital illustration of a smiling elderly man with glasses wearing a blue cardigan and hugging a happy Shih Tzu dog with a blue bandana."
+        },
+        {
+          "filename": "girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "local_path": "images/pets-animals/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/girl-with-braids-hugging-fluffy-pomeranian-dog-illustration-by-promptplum.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "3D Animated Girl Hugging Pet AI Photo Editing Prompt. AI generated 3D digital illustration of a young girl with braided hair and colorful clips hugging a fluffy tan Pomeranian dog."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703fc",
+      "title": "The Perfect Pair",
+      "slug": "studio-portraits-people-and-pets",
+      "category": "Pets & Animals",
+      "category_slug": "pets-animals",
+      "prompt": "IDENTITY & CONNECTION (STRICT PRIORITY): Ultra-realistic 8K professional studio portrait based strictly on the provided reference images for both the human and the pet. 100% anatomical and facial identity match (structure, asymmetry, skin details, species anatomy, fur markings/texture; NO beautification or smoothing). The subjects share a genuine, warm, and affectionate emotional bond with natural, happy expressions, posed closely together in a candid, interacting manner.\nCOMPOSITION & ATTIRE: Vertical 4:5 aspect ratio. Mid-torso upward framing (ensuring heads, ears, and muzzles are fully visible, not cropped). The human wears premium, minimalist modern casual attire (e.g., high-quality fitted t-shirt, knitwear, or casual jacket) in neutral or earth tones with visible natural fabric texture and minimal/no branding.\nSTUDIO ENVIRONMENT & LIGHTING: Professional seamless studio gradient background, specifically structured to transition smoothly from darker tones at the outer edges to the lightest area directly behind the subjects’ faces for separation (e.g., deep-to-soft teal, brown, or blue). Soft, diffused professional studio lighting optimized for realistic skin tones and fur rendering, with gentle rim light to define edges and no harsh shadows.\nTECHNICAL SPECS: Shot on a full-frame camera with an 85mm portrait lens at f/2 aperture. Shallow depth of field with ultra-sharp focus centered on both subjects' eyes, showing individual hair strands, fur density, and natural skin pores. Maximum photorealism.",
+      "description": "Gemini said\nGoogle Gemini AI Portrait Editing Prompt: Use this prompt to generate heartwarming studio portraits of owners and their pets. It creates professional, high-quality photographs capturing affectionate bonds between people and animals against clean, atmospheric backgrounds.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 46,
+      "view_count": 819,
+      "copy_count": 1791,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "person-and-pet-studio-portrait-by-promptplum-3.webp",
+          "local_path": "images/pets-animals/person-and-pet-studio-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman with Grey Cat AI Photo Editing Prompt. AI generated studio portrait of a smiling woman with strawberry blonde hair wearing a beige knit sweater while holding a grey British Shorthair cat."
+        },
+        {
+          "filename": "person-and-pet-studio-portrait-by-promptplum-5.webp",
+          "local_path": "images/pets-animals/person-and-pet-studio-portrait-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man and Bulldog in Olive Sweater AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a dark green ribbed sweater posing closely with a brown and white English Bulldog."
+        },
+        {
+          "filename": "person-and-pet-studio-portrait-by-promptplum-1.webp",
+          "local_path": "images/pets-animals/person-and-pet-studio-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman and Ginger Cat Winking AI Photo Editing Prompt. AI generated studio portrait of a young woman in a grey sweater holding an orange tabby cat with both sticking their tongues out."
+        },
+        {
+          "filename": "person-and-pet-studio-portrait-by-promptplum-2.webp",
+          "local_path": "images/pets-animals/person-and-pet-studio-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Boy and Golden Retriever Puppy AI Photo Editing Prompt. AI generated studio portrait of a laughing boy in a green sweater as a golden retriever puppy licks his cheek."
+        },
+        {
+          "filename": "person-and-pet-studio-portrait-by-promptplum-4.webp",
+          "local_path": "images/pets-animals/person-and-pet-studio-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman and Australian Shepherd Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling woman leaning her head against a fluffy brown and white dog."
+        },
+        {
+          "filename": "person-and-pet-studio-portrait-by-promptplum-6.webp",
+          "local_path": "images/pets-animals/person-and-pet-studio-portrait-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/person-and-pet-studio-portrait-by-promptplum-6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man and Golden Retriever AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a grey knitted sweater with his head leaning against a Golden Retriever dog."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703d9",
+      "title": "Olive Sentinel",
+      "slug": "man-pitbull-olive-tactical-gear",
+      "category": "Pets & Animals",
+      "category_slug": "pets-animals",
+      "prompt": "Create a full-body studio fashion portrait of a man with a calm, confident expression, standing with his hands inside his pants pockets.\n\nUse the provided reference image to preserve the subject’s identity, age, body structure, facial features, face structure, skin tone, hairstyle, hairline, grooming details, and colour relationships.\n\nPose:\nStanding in a straight contrapposto stance,\nbody angled slightly 3/4 toward to right side of the frame,\nAlso, the head turned in the same direction as the body, looking off-frame, with the slightly left side of the face visible in the camera.\nfocused and steady eyes that convey alertness and quiet confidence.\nHands resting naturally inside pants pockets.\n\nBeside him stands a young, muscular grey pit bull positioned slightly forward on the man's right side.\nThe dog faces the same direction with an alert posture.\nSmall, short ears held upright in alert mode (compact ears).\nHead slightly lifted.\nWearing a black leather collar with metal studs.\n\nWardrobe:\nMonochromatic olive-green tactical fashion styling:\nQuilted asymmetric field jacket with diagonal snap closure\nLayered hem garment underneath\nStructured olive cargo pants\nRugged military-style sneakers\n\nEnvironment:\nMinimalist seamless smooth studio background in dark olive #545543 with a subtle gradient falloff.\n\nLighting:\nBright top-down invisible studio key light positioned directly above the subject, slightly forward-facing.\nThe light creates strong highlights on the scalp, forehead, beard, shoulders, upper jacket panels, and the dog’s head and neck.\nShadows fall naturally under the beard, beneath the arms, along the torso, inside jacket folds, down the legs, and across the dog’s body.\nLower body remains slightly darker than the upper body.\nBackground stays darker than the subject, preserving separation.\nClean editorial studio lighting with controlled contrast.\n\nColor grading:\nDark olive monochromatic palette centered around #545543.\nMuted earthy tones.\nReduced saturation.\nDeep midtones with soft highlight rolloff.\nEditorial fashion grading.\n\nCamera & Composition:\nFull-body composition\nEye-level camera angle\n85mm lens look\nf/8 depth of field\nUltra-sharp editorial focus\n\nStyle:\nUltra-photorealistic fashion editorial photography,\ndark olive monochrome styling,\nstudio portrait realism,\nclean editorial aesthetic,\n4K detail,\nluxury tactical fashion aesthetic.\n\nAspect ratio: 1:1\n\nNegative prompt:\nlow quality, out of focus, incorrect anatomy, distorted body proportions, wrong pose, front body pose, unnatural pose, identity change, face distortion, bad fabric details, cropped feet, cropped head, duplicate subjects, extra animals, open mouth snarl, artefacts, watermark, text, logo",
+      "description": "Google Gemini AI Photo Editing Prompt: Create a realistic studio portrait of a stylish man in olive gear with a grey Pitbull against a dark green backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 18,
+      "view_count": 951,
+      "copy_count": 985,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-2.webp",
+          "local_path": "images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Man and Pitbull in Olive Gear AI Photo Editing Prompt. AI studio portrait of a bearded man in olive quilted gear standing with a Pitbull dog."
+        },
+        {
+          "filename": "bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-1.webp",
+          "local_path": "images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Bearded Man and Pitbull AI Photo Editing Prompt. AI studio portrait of a bald, bearded man in olive quilted gear standing with a Pitbull dog."
+        },
+        {
+          "filename": "bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-3.webp",
+          "local_path": "images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/bearded-man-pitbull-olive-gear-studio-portrait-by-promptplum-3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Bearded Black Man and Pitbull AI Photo Editing Prompt. AI generated studio portrait of a bald man in olive quilted tactical gear standing with a grey Pitbull."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703a1",
+      "title": "The Power Walk",
+      "slug": "man-walking-dog-city-night",
+      "category": "Pets & Animals",
+      "category_slug": "pets-animals",
+      "prompt": "Reference & Identity\nUse the uploaded image as a strict facial and body identity reference.\nThe subject’s face shape, jawline, nose, eye placement, beard density, skin tone, hairstyle, hairline, and overall proportions must remain extremely close to the reference.\nNo beautification, no face reshaping, no stylization, no identity drift.\nPreserve natural skin texture, pores, beard hair detail, and realistic lighting response.\nMAIN CONCEPT\nCreate a stylized, high-quality cinematic digital render of a young man walking his powerful dog through a wet city street at night.\nThe scene should feel premium, dramatic, modern, and film-like, with a confident urban mood and subtle tension.\nSUBJECTS\nThe Man\nA young man of South Asian / Middle Eastern appearance with:\nImportant constraint: If the reference image shows no beard or stubble, the subject must be completely clean-shaven. Do not add, enhance, suggest, or stylize any facial hair.\nClean natural hairstyle with faded sides\n\nAthletic, muscular build\nExpression & Pose\n\nNeutral, confident, calm\n\nWalking directly toward the camera\n\nRelaxed but powerful posture\n\nEyes looking forward, slightly intense\nThe Dog\nA large, muscular American Bully / Bulldog mix with:\nPiebald coat: mostly white\n\nLarge brown/tan patch over the left eye\n\nBrown patches across the back\nBehavior & Mood\n\nWalking beside the man on a thin leash\n\nSlightly more aggressive/guard-like presence\n\nAlert posture, strong chest, focused eyes\n\nTight jaw, subtle tension in stance (not violent, just powerful)\nWARDROBE & ACCESSORIES\nClothing\n\nFitted olive green crew-neck t-shirt (fabric texture visible)\n\nGrey cargo pants with large side pockets\n\nClean white low-top sneakers\nAccessories\n\nThin silver chain with small circular pendant\n\nThin silver bracelet on right wrist\n\nBlack rugged smartwatch on left wrist\nENVIRONMENT & COMPOSITION\nSetting\n\nModern city sidewalk at night\n\nWet, reflective asphalt (recent rain)\n\nStreet glowing with reflections\nBackground\n\nDeep city street fading into the distance\n\nSoft bokeh lights in white, gold, teal\n\nSuggest traffic, neon, and tall buildings\nFraming\n\nFull-body vertical composition\n\nSubject centered\n\nClassic black ornamental street lamp on the right foreground as a framing element\n\nStrong sense of depth and perspective\nLIGHTING & COLOR\nLighting\n\nCinematic three-point lighting\n\nStreetlight key from above & side\nSoft frontal fill light subtly illuminating the face, chest, and arms so all facial features and physique remain clearly visible without flattening shadows\n\nSoft highlights on shoulders, arms, face, and dog’s head\nStrong rim lighting outlining the man and dog, creating a glowing edge separation from the dark background\nColor Grade\n\nTeal & Orange cinematic palette\n\nCool blues in shadows and pavement\n\nWarm golden skin highlights and light sources\nCAMERA & OPTICS\nSimulated 35mm–50mm lens\n\nWide aperture f/1.8 – f/2.8\n\nShallow depth of field\n\nSubjects razor sharp\n\nBackground fully melted into creamy bokeh\nTEXTURE & QUALITY\nUltra-high resolution\n\nFabric weave visible\n\nWet asphalt reflections crisp\n\nBeard hair, skin pores, and shadows fully realistic\n\nCinematic contrast and dynamic range\nOUTPUT SETTINGS\nPhotorealistic • Cinematic • Ultra-detailed • Shallow depth • Night mood • Urban film still • 4K–8K quality • Vertical frame • 4:5 aspect ratio",
+      "description": "Use our urban street AI prompt to generate hyper-realistic images of a man walking a dog on a rainy urban street featuring neon city lights, teal and orange bokeh, and high-detail textures.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 1190,
+      "copy_count": 1553,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cinematic-night-photography-man-walking-with-dog-on-urban-street.jpg",
+          "local_path": "images/pets-animals/cinematic-night-photography-man-walking-with-dog-on-urban-street.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/cinematic-night-photography-man-walking-with-dog-on-urban-street.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pets-animals/cinematic-night-photography-man-walking-with-dog-on-urban-street.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pets-animals/cinematic-night-photography-man-walking-with-dog-on-urban-street.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Cinematic night photo of a fit man in a green tee walking a muscular dog on a wet urban street with vibrant bokeh lights."
+        }
+      ]
+    }
+  ]
+}
