@@ -188,7 +188,7 @@ def main():
     parser.add_argument("--all", action="store_true", help="Scrape all categories")
     parser.add_argument("--list-categories", action="store_true", help="List all available categories")
     parser.add_argument("--output-dir", type=str, default=".", help="Output directory")
-    parser.add_argument("--github-user", type=str, default="USERNAME", help="GitHub username for raw/CDN URLs")
+    parser.add_argument("--github-user", type=str, default="serkanakcay", help="GitHub username for raw/CDN URLs")
     parser.add_argument("--github-repo", type=str, default="prompts-data", help="GitHub repo name for raw/CDN URLs")
     parser.add_argument("--branch", type=str, default="main", help="Git branch name")
     args = parser.parse_args()
