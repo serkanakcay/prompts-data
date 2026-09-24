@@ -1,0 +1,182 @@
+{
+  "category": "Pop Culture",
+  "slug": "pop-culture",
+  "total_prompts": 6,
+  "updated_at": "2026-09-24T13:11:19Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca1526704b9",
+      "title": "The Red Exit",
+      "slug": "blood-splatter-stylized-illustration-poster",
+      "category": "Pop Culture",
+      "category_slug": "pop-culture",
+      "prompt": "Create a high-detail, textured graphic-novel portrait (not vector, not clean illustration).\n\nFRAME (LOCK):\nChest-up shot. Subject fills ~75-80% frame. Positioned slightly right.\nLower left side must have some clear empty space. Do not zoom in or crop tight.\n\nPOSE (HARD LOCK):\nBody facing left (back visible) side in the frame.\nLeft shoulder closer to camera.\nHead turned back over left shoulder, looking directly at viewer.\nFace angle ~30–40° (not front-facing).\nMaintain strong shoulder depth. Do NOT flatten body.\n\nEXPRESSION:\nIntense, serious, slightly intimidating.\nTight jaw. Focused eyes. Brow compressed.\n\nLIGHTING (FORCE THIS):\nSingle hard light from upper-left.\n– bright highlight on: left forehead, cheekbone, nose bridge\n– light strip on front suit (lapel area)\n– right side of face = deep shadow (near black)\n– sharp shadow edge across face (clear light/shadow split)\nNo soft light. No even lighting. No ambient fill.\n\nSTYLE (ANTI-VECTOR):\nTextured ink rendering, not clean digital art.\nSubject must be rendered entirely in black and white (grayscale only), using pure black, white, and grey tones. No skin color or natural color tones allowed.\n– slightly rough edges\n– visible grain/noise\n– layered linework (thick + thin + micro)\n– hair = individual strands, messy flow\nAvoid smooth, clean, vector-like finish.\n\nSHADING:\nHalftone only in shadow zones + subtle grain overlay\nNo gradients. No flat fills.\nSUIT:\nBlack tailored suit\n– visible folds and tension lines\n– sharp shoulder crease\n– highlight edge on front\n– no flat black areas\nSHIRT:\nWhite shirt\n\nBACKGROUND (IMPORTANT):\nNo straight split. No centered division.\n– left: very light grey (flat, clean, minimal texture)\n– right: rich saturated red\nThe transition must feel like red paint has burst into the grey:\n– irregular, broken, organic boundary (not a straight line)\n– uneven paint edges with slight bleed into grey\n– grey area mostly clean with minor invasion near boundary\nSPLASH (DETAIL):\nHigh-density layered splatter:\n– large & medium irregular splashes (explosive shapes, not circular)\n– medium scattered drops\n– very fine micro particles (dust-like spray, clearly visible)\n– directional spray patterns (not uniform)\n– higher density on red side, gradually reducing toward grey\n– mix of red and black splatter\n– subtle splatter interaction on subject’s back/shoulder edge\n– avoid symmetry, avoid pattern repetition\n\nAVOID:\nfront pose, soft lighting, smooth gradients, vector style, flat shading, skin color, centered subject, clean vertical split.\nAspect ratio 4:5",
+      "description": "High-Contrast Graphic Illustration Prompt: Copy and paste this prompt to generate a striking, action-themed portrait of an iconic hitman featuring bold linework and vibrant red paint splatters.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 1214,
+      "copy_count": 2974,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "local_path": "images/pop-culture/red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pop-culture/red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pop-culture/red-ink-splatter-portrait-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Male Stylized Noir AI Photo Editing Prompt. AI generated digital illustration of a high-contrast black and white portrait of male character in a suit featuring dramatic red ink splatters."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670462",
+      "title": "Life in Panels",
+      "slug": "man-manga-style-life-story-illustration",
+      "category": "Pop Culture",
+      "category_slug": "pop-culture",
+      "prompt": "Create a striking mixed-media composition featuring a high-resolution photographic portrait of a reference man standing in front of a large, wall-sized black-and-white manga collage. The image should visually represent the “multifaceted” or “multiverse” nature of the subject’s personality.\n\nFraming & Scale: Subject occupies approximately 60–80% of the frame height, positioned perfectly centered in a vertical 2:3 composition\n\nExpression: Natural smile or calm confidence\n\nPose: Standing in the center foreground with a relaxed posture, hands casually in pockets, legs slightly crossed at the ankles\n\nAttire (Adaptive): Modern casual outfit (e.g., denim jacket or minimalist jacket over a plain white t-shirt, paired with fitted jeans or trousers, clean footwear). Keep styling contemporary, clean, and realistic\n\nLighting: Bright, professional studio lighting with soft shadows, ensuring strong subject-background separation and a crisp, high-end photographic look\n\nBackground (Manga Collage World)\n\nStyle: Classic Japanese manga aesthetic — bold black ink lines, screentone textures (halftone dots), high contrast, and dynamic speed lines\n\nColor: Strictly black-and-white manga style (no color in background)\n\nNarrative Panels (Same Subject as Manga Character)\n\nThe background collage features multiple manga panels depicting alternate versions of the same man in different life scenarios:\n\nRiding a motorcycle with dynamic speed lines and “VROOM” text\n\nFocused and working at a desk or computer setup\n\nWalking through a busy urban street scene\n\nUsing a smartphone or camera (vlogging/selfie perspective)\n\nLaughing or interacting with friends, expressive and social\n\nEnjoying time with family (He with his partner and two children)\n\nInclude a mix of Japanese onomatopoeia (e.g., ドキドキ, バン) and English sound effects integrated naturally into panels.\n\nComposition & Contrast\n\nStrong visual contrast between:\n\nForeground: ultra-realistic, high-detail photographic subject\n\nBackground: flat, stylized, monochrome manga world\n\nSeamless depth separation — subject should “pop” clearly from the background\n\nEnvironment & Final Details\n\nClean white floor with subtle shadow grounding the subject\n\nBalanced composition with cinematic depth\n\nMood: modern, empowered, dynamic, and aspirational — representing ambition, creativity, and social energy\n\nStrictly maintain high-fidelity facial structure and exact likeness from the reference image. Integrate the face naturally with the scene's lighting. Ensure realistic skin texture with visible pores and minor imperfections; absolutely avoid overly smooth AI skin or a pasted face-swap look.",
+      "description": "Creative Manga-Style Art Prompt: Use this prompt to generate a realistic portrait of a man integrated with a black-and-white manga storyboard illustrating his life journey and daily activities.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 52,
+      "view_count": 1012,
+      "copy_count": 1900,
+      "is_premium": false,
+      "published_at": "2026-09-20T23:48:50.622Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
+          "local_path": "images/pop-culture/Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pop-culture/Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pop-culture/Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Man and Manga Panels AI Photo Editing Prompt. AI generated digital illustration of a young man in a denim jacket standing against a background of black and white manga panels depicting various scenes of his life."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267034e",
+      "title": "Weekend vibes with Puss in Boots",
+      "slug": "weekend-vibes-with-puss-in-boots",
+      "category": "Pop Culture",
+      "category_slug": "pop-culture",
+      "prompt": "Use the uploaded image strictly as a face and identity reference for the human subject only. Create a relaxed, premium studio fashion portrait with a natural, confident editorial feel. The real human stands casually in a full-body pose, weight shifted onto one leg, the other leg crossed slightly at the ankle, wearing an oatmeal beige textured knitted sweater, dark indigo high-waisted jeans, and clean white low-top sneakers. The human has a calm, friendly natural smile and relaxed posture, with one arm bent naturally at the elbow and resting gently on the shoulder of a true human-scale photorealistic 3D animated character, Puss in Boots. Other hand in her jeans pocket.\nPuss in Boots stands upright beside the human at realistic height, arms crossed confidently across his chest, leaning subtly toward the human to create natural chemistry. He is rendered as a highly detailed, cinematic 3D character with realistic ginger fur texture, soft volume, and visible strand detail, expressive large green eyes, and a confident, slightly mischievous expression. He wears his signature leather wide-brim hat, belt, and worn boots, all textured with realistic leather grain and subtle aging.\nThe interaction feels casual and authentic, as if the human is comfortably resting an arm on a trusted companion rather than posing stiffly. Composition is a clean 3/4 to full-body framing with both subjects fully visible. The background is a smooth warm taupe or neutral studio backdrop with no distractions. Lighting is soft, professional studio lighting with gentle key light and subtle rim light that enhances facial features, clothing fabric, and fur detail without harsh shadows. High-end fashion editorial aesthetic, natural color grading, sharp focus, realistic proportions, premium portrait quality, cinematic realism.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 41,
+      "view_count": 810,
+      "copy_count": 1449,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_t172yut172yut172.jpg",
+          "local_path": "images/pop-culture/Gemini_Generated_Image_t172yut172yut172.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_t172yut172yut172.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pop-culture/Gemini_Generated_Image_t172yut172yut172.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pop-culture/Gemini_Generated_Image_t172yut172yut172.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated Image: a charming crossover between a realistic human subject and the iconic animated character, Puss in Boots. Standing on the right is a handsome young man with dark hair, dressed in a casual beige knit sweater, dark denim jeans, and white sneakers. He smiles warmly, posing with a relaxed demeanor, one hand in his pocket and his right elbow resting playfully on the brim of Puss’s hat. Beside him, the famous orange tabby stands tall in his signature cavalier hat, leather belt, and boots. Puss crosses his arms with a confident, spirited expression, staring boldly forward. The background is a seamless neutral beige, enhancing the warm tones and unifying the whimsical mix of live-action and high-quality 3D animation."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670257",
+      "title": "Cozy Vibes and Cartoon Cool",
+      "slug": "cozy-vibes-and-cartoon-cool",
+      "category": "Pop Culture",
+      "category_slug": "pop-culture",
+      "prompt": "Use the uploaded reference photo as the absolute facial identity source.\n\nThe face must be 100% identical to the reference image, with no alteration to facial proportions, structure, skin texture, eye shape, eyelashes, lips, or expression. Preserve the same realistic skin details and natural softness of the face exactly as in the reference.\nSubject & Pose\nA young female subject standing upright in a relaxed, confident posture.\n\nOne hand rests lightly on her hip\nThe other arm hangs naturally by her side\nShoulders relaxed\nHead turned slightly toward the viewer\nExpression is calm, confident, and gentle\n(The pose does NOT need to match the reference image, only the face.)\n\nHair & Expression\nHair styled in a messy bun with soft, loose strands framing the face\nHair texture is naturally tousled and slightly wavy\nFacial expression remains soft, calm, and confident\nClothing & Accessories\nTop: White cropped T-shirt with a snug crop fit, featuring a “Bratz Rock Angelz” graphic on the chest\nOuterwear: Beige knitted cardigan, loose fit, casually falling slightly off the shoulders\nBottoms: Olive or dark-green joggers with a relaxed fit and soft fabric\nAccessories:\nThin silver chain necklace with a small pendant\nMinimal stud earrings\nIllustration Style\nVibrant semi-realistic illustration\nFace rendered realistically\nBody illustrated with soft, subtle cartoon outlines\nSmooth semi-realistic shading blended with stylized line art\nLighting is soft, warm indoor light with gentle shadows\nBackground & Design\nA digital scrapbook collage aesthetic background featuring:\n\nTorn paper edges\nTape strips\nLayered notebook textures\nPastel color blocks\nDecorated with hand-drawn doodles such as:\n\nSmall clouds\nTiny stars\nLightning bolts\nSparkles\nHand-drawn hearts\nInclude hand-written text elements:\n\n“IMAGINE!” in a crayon-like scribble style\n“NOW!” in bold marker handwriting\nComposition & Framing\nFull standing character portrait, framed from head to below the knees\nStraight-on perspective\nPrimary focus on perfect facial match\nOverall style feels like an illustrated scrapbook character study\nAesthetic & Color Palette\nMood: creative, expressive, soft yet bold\nColor palette includes: warm browns, creamy beige, soft pinks, muted greens, with vibrant red accents\nOverall vibe: artsy digital scrapbook energy\nOutput Quality\nUltra high-resolution\nSemi-realistic illustrated portrait\nClean, vibrant, and polished finish",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 23,
+      "view_count": 741,
+      "copy_count": 821,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "local_path": "images/pop-culture/Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pop-culture/Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pop-culture/Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated: a stylish, digital illustration of a young woman presented in a creative scrapbook or collage aesthetic. The subject stands centrally with a confident, casual pose, one hand resting on her hip, and is framed by a thick white outline that gives her the appearance of a die-cut sticker. She is dressed in a \"Bratz Rock Angelz\" white cropped graphic t-shirt layered under a slouchy, oatmeal-colored knit cardigan, paired with comfortable olive green drawstring joggers. Her brown hair is styled in a voluminous, messy high bun with loose strands framing her face, and she wears a simple silver pendant necklace. The background mimics a mood board, incorporating textures of ripped graph paper, masking tape, and a vertical color palette strip. Surrounding the figure are playful hand-drawn doodles of clouds, lightning bolts, stars, and hearts, along with the motivational words \"IMAGINE!\" scribbled in the upper left and \"NOW!\" in bold lettering at the bottom right."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267027b",
+      "title": "The Analog Rebel",
+      "slug": "the-analog-rebel",
+      "category": "Pop Culture",
+      "category_slug": "pop-culture",
+      "prompt": "Use the reference image for 100% facial identity accuracy with no alteration to facial structure.\n\nCreate a full-body, wide-angle studio portrait with a retro analog aesthetic, full view with no cropping, preserving all visible elements and spacing. Aspect ratio 4:5 vertical.\n\nA young adult man sits directly on the studio floor in a relaxed, natural pose. His legs are fully extended and spread wide toward the camera, with chunky black platform boots clearly visible in the foreground, appearing slightly larger due to the wide-angle lens (approx. 24–28mm). He wears a black leather biker jacket, black ribbed knit sweater, and black trousers. He has white oval sunglasses fully covering his eyes and a white candy stick (cigarette-like) held loosely between his lips. Hair is dark, slightly tousled, with realistic skin texture and subtle stubble.\n\nHe leans casually to his left, resting against a medium-sized vintage CRT television placed on the floor beside him. The TV has a brown wooden casing, silver bezel, and displays static noise on the screen. A black power cable extends from the TV toward the right side of the frame.\nHis left elbow rests on top of the TV, with the left forearm hanging naturally down the front edge, fingers relaxed and slightly curled. His right hand rests loosely on the floor near his inner thigh, relaxed and unposed. His head tilts to his right, chin slightly lifted, giving a laid-back, introspective expression.\n\nOn the floor in the foreground, many objects are clearly visible:\nA dense cluster of silver compact discs scattered between and in front of his legs, overlapping naturally. Several black cassette tapes are mixed into the CD cluster, along with two small black portable tape players (Walkman-style) placed near the right side of the pile. All objects remain grounded, naturally spaced, and confined to the lower portion of the frame.\n\nThe setting is a minimal studio with a seamless wall and floor in the same tone. The background features a smooth cool teal-grey color palette, slightly lighter toward the upper left and subtly darker toward the lower right. No props or distractions beyond what is visible.\n\nLighting is soft and directional from the front-left and slightly above, creating gentle shadows on the subject’s right side and behind the TV. Subtle reflections appear on the sunglasses, leather jacket, and CDs. The image has muted colors, a cool, subdued tone, fine film grain, and a slight vintage analog look.\n\nUltra-detailed, photorealistic, natural proportions, realistic textures. Use the reference image for accurate pose, object placement, color tone, and facial structure.\n\nNegative Prompt: cropped body, missing legs, missing CDs, oversized TV, wrong pose, incorrect hand placement, exaggerated expressions, oversaturated colors, HDR, CGI look, blur, distortion, extra limbs, watermark, text, logo",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 910,
+      "copy_count": 1191,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_c2uyiyc2uyiyc2uy-1.png",
+          "local_path": "images/pop-culture/Gemini_Generated_Image_c2uyiyc2uyiyc2uy-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_c2uyiyc2uyiyc2uy-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pop-culture/Gemini_Generated_Image_c2uyiyc2uyiyc2uy-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pop-culture/Gemini_Generated_Image_c2uyiyc2uyiyc2uy-1.png",
+          "width": 960,
+          "height": 1088,
+          "alt": "Gemini Generated Image: A man in a black leather jacket, black clothes, and white sunglasses is sitting on the floor, leaning against a vintage television. There are several CDs and a cassette tape scattered around him. He has a cigarette in his mouth and is looking directly at the camera."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267020e",
+      "title": "GTA V Artwork",
+      "slug": "gta-v-artwork",
+      "category": "Pop Culture",
+      "category_slug": "pop-culture",
+      "prompt": "Create a GTA V loading-screen style illustration using the uploaded photo as 100% exact face match (no changes to facial structure/skin/beard/eyes). A young man crouches on a cracked rooftop, one arm resting on his knee, looking directly at the camera. Outfit: black textured sweatshirt, dark jeans, bright red high-top sneakers.\n\nColor tone & graphics: vibrant sunset gradient sky (orange/yellow near horizon → pink/purple → deep blue), warm golden backlight from the left, plus a cool cyan rim light outline around the character. Use bold comic-style outlines, clean cel-shading, sharp highlights, high-contrast poster look, hyper-detailed textures.\n\nBackground: Los Santos–style skyline, palm trees, graffiti wall, urban rooftop details. Add “GTA FIVE” logo at the top-left. Ultra-sharp, HD.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 1485,
+      "copy_count": 1163,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "local_path": "images/pop-culture/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pop-culture/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pop-culture/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "width": 1344,
+          "height": 1545,
+          "alt": "Gemini AI Generated: a stylized digital illustration designed to mimic the iconic art style found on the cover and loading screens of the video game Grand Theft Auto V. It features a young man with dark, swept-back hair and a neatly trimmed beard crouching in the center foreground. He is dressed in casual urban attire, wearing a black crew-neck sweater, dark blue jeans, and bright red high-top sneakers. He is positioned on a cracked concrete rooftop detailed with colorful graffiti tags and scattered debris like crushed cans. Behind him, a vibrant cityscape stretches out, bathed in the warm, gradient hues of a sunset that transitions from orange to purple. The background includes tall skyscrapers and palm trees, evoking a Los Angeles-inspired atmosphere. The official \"gta FIVE\" logo is prominently displayed in the top-left corner, and the artwork utilizes the game’s signature heavy black outlines and high-contrast, cel-shaded coloring technique."
+        }
+      ]
+    }
+  ]
+}

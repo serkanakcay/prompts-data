@@ -1,0 +1,1697 @@
+{
+  "category": "Photoshoot",
+  "slug": "photogrphy",
+  "total_prompts": 53,
+  "updated_at": "2026-09-24T13:11:15Z",
+  "prompts": [
+    {
+      "id": "6a7a2b654bbdbe2cf578421e",
+      "title": "Pink Linen Shirt Fashion Prompt for Men",
+      "slug": "man-pink-shirt-studio-photoshoot",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "\"A professional high-fashion editorial portrait of a stylish young man with a well-groomed appearance, sitting relaxed on a minimalist beige concrete cube/step structure. He is wearing a dusty pink linen full-sleeve shirt (sleeves slightly rolled up), unbuttoned at the top, tucked into beige tailored trousers, paired with white sneakers featuring pink accents. One leg is bent and resting on a raised step, the other leg extended down, hand resting casually on the knee, head turned slightly to the side with a confident, thoughtful gaze — not looking at the camera. Soft diffused studio lighting creating a soft shadow on the plain warm beige wall behind him. Clean minimal studio background in soft dusty pink (#D8A1A8) and beige (#EADBC8) tones. Shot on a professional camera, 85mm lens, shallow depth of field, ultra-realistic skin texture, natural sunlight-style softbox lighting, magazine editorial photography style, 8K resolution, ultra high detail, sharp focus, sharp facial details, premium fashion campaign aesthetic, cinematic color grading. Avoid identity change, face change, ai generated face look, bad anatomy.\"\n\n--- Aspect ratio 4:5",
+      "description": "Use this prompt to create a cinematic studio fashion photograph of a man in a pink linen shirt and beige pants, seated on a concrete block.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 1431,
+      "copy_count": 1755,
+      "is_premium": false,
+      "published_at": "2026-08-15T01:54:36.261Z",
+      "images": [
+        {
+          "filename": "f45c543e-b584-47dc-ba68-4cf83948f37c.webp",
+          "local_path": "images/photogrphy/f45c543e-b584-47dc-ba68-4cf83948f37c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f45c543e-b584-47dc-ba68-4cf83948f37c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/f45c543e-b584-47dc-ba68-4cf83948f37c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/f45c543e-b584-47dc-ba68-4cf83948f37c.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-pink-linen-shirt-photoshoot-ai-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "988362c2-832b-4249-a2a6-be0d49301bed.webp",
+          "local_path": "images/photogrphy/988362c2-832b-4249-a2a6-be0d49301bed.webp",
+          "original_url": "https://img.promptplum.com/promptImages/988362c2-832b-4249-a2a6-be0d49301bed.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/988362c2-832b-4249-a2a6-be0d49301bed.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/988362c2-832b-4249-a2a6-be0d49301bed.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-pink-linen-shirt-photoshoot-ai-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "77bc42c0-1de9-4861-ba82-372a8203c276.webp",
+          "local_path": "images/photogrphy/77bc42c0-1de9-4861-ba82-372a8203c276.webp",
+          "original_url": "https://img.promptplum.com/promptImages/77bc42c0-1de9-4861-ba82-372a8203c276.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/77bc42c0-1de9-4861-ba82-372a8203c276.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/77bc42c0-1de9-4861-ba82-372a8203c276.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-pink-linen-shirt-photoshoot-ai-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "e3cac370-3dae-4326-b199-0264b41f1a5d.webp",
+          "local_path": "images/photogrphy/e3cac370-3dae-4326-b199-0264b41f1a5d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e3cac370-3dae-4326-b199-0264b41f1a5d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/e3cac370-3dae-4326-b199-0264b41f1a5d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/e3cac370-3dae-4326-b199-0264b41f1a5d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-pink-linen-shirt-photoshoot-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "c5742321-f9af-41fc-94ce-c31fdf92c7e3.webp",
+          "local_path": "images/photogrphy/c5742321-f9af-41fc-94ce-c31fdf92c7e3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c5742321-f9af-41fc-94ce-c31fdf92c7e3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/c5742321-f9af-41fc-94ce-c31fdf92c7e3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/c5742321-f9af-41fc-94ce-c31fdf92c7e3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-pink-linen-shirt-photoshoot-ai-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "83e4e6ce-fdd4-4c60-9596-cd673ef32d0f.webp",
+          "local_path": "images/photogrphy/83e4e6ce-fdd4-4c60-9596-cd673ef32d0f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/83e4e6ce-fdd4-4c60-9596-cd673ef32d0f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/83e4e6ce-fdd4-4c60-9596-cd673ef32d0f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/83e4e6ce-fdd4-4c60-9596-cd673ef32d0f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "man-pink-linen-shirt-photoshoot-ai-prompt-by-promptplum-7"
+        }
+      ]
+    },
+    {
+      "id": "6a5503027877e7a4d7b4f566",
+      "title": "Classic Family Portrait in Navy",
+      "slug": "studio-family-photography-navy-outfit",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a premium, photorealistic full-length studio portrait of the uploaded family of three. Use the uploaded image strictly only for the face and identity reference for each individual: preserve the adult woman’s exact recognizable face, facial structure, skin tone, hairstyle, and age; preserve the adult man’s exact recognizable face, facial structure, skin tone, hairstyle, beard or clean-shaven appearance, and age; and preserve the baby’s exact recognizable face, infant features, skin tone, hairstyle, and natural age. Keep all three identities clearly separate and do not blend, exchange, beautify, or reinterpret their facial features.\nPlace the adult woman from the reference image slightly right of center, seated naturally on a tall black geometric metal stool. She holds the same baby from the reference image securely and upright on her lap, supporting the baby naturally with both hands. Place the adult man from the reference image standing closely on the left, leaning slightly toward the woman and baby. Keep their heads positioned close together in a balanced, affectionate family composition.\nUse soft, composed expressions with natural eye contact. Keep the expressions subtle and avoid exaggerated emotions.\nDress the woman in an elegant floor-length deep navy-blue sleeveless gown with softly flowing fabric. Dress the man in a fitted dark navy button-up shirt, light grey tailored trousers, a minimal wristwatch, and dark brown leather loafers. Dress the baby in a crisp white shirt with striped suspenders, beige pinstriped trousers, and small brown shoes.\nUse a seamless charcoal-grey studio backdrop with a subtle textured finish, without visible corners or floor lines. Add soft directional studio lighting from the upper left, with flattering facial highlights, gentle shadows, and clear separation from the background. Keep all three faces equally sharp and detailed, especially the baby’s face. Maintain realistic skin texture, natural infant proportions, accurate hands and fingers, detailed clothing fabric, and polished professional family-photography quality. Full-body vertical composition, minimal headroom, 85mm portrait lens look, high resolution, masterpiece, 3:4 aspect ratio, without text, logos, or watermarks.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 4713,
+      "copy_count": 979,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "local_path": "images/photogrphy/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "local_path": "images/photogrphy/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "local_path": "images/photogrphy/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "original_url": "https://img.promptplum.com/promptImages/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-1"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703cb",
+      "title": "Fashion Forward",
+      "slug": "male-model-white-suit-red-wine-fashion",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a 4K photorealistic studio fashion portrait using the provided reference image to preserve the subject’s identity, facial features, face structure, skin tone, hairstyle, hairline, grooming details, pose proportions, camera angle, and color relationships. Ensure accurate face matching and hairstyle matching from the uploaded image, maintaining a realistic likeness to the same person.\nPose:\n\nSubject seated upright but relaxed in a chair\n\nTorso upright but slightly leaned back into the chair\n\nRight hand resting on thigh\n\nLeft hand holding a wine glass\n\nGold wristwatch visible on the left wrist while holding the glass\n\nLegs slightly apart\nChair:\n\nModern mid-century style lounge chair with smooth curved silhouette\n\nFully upholstered in warm terracotta / burnt-orange fabric matching the background palette\n\nSoft rounded armrests and seat cushion\n\nSlim metal legs in a muted bronze or brushed metal finish\n\nChair color slightly deeper and richer than the background for separation while remaining monochromatic\nWardrobe:\n\nBright white tailored suit jacket\n\nWhite crew-neck T-shirt\n\nSlim white trousers\n\nWhite leather Oxford shoes\n\nGold wristwatch worn on the left wrist\n\nThin round metal eyeglasses\nBackground:\n\nSeamless studio backdrop in a rich terracotta / burnt-orange gradient tone with subtle tonal variation\n\nLarge-scale typography positioned behind the subject reading “FASHION” in oversized capital letters\n\nTypography style: bold modern sans-serif with sharp edge-cut detailing and contemporary editorial styling\n\nLetters are matte white or off-white, spanning horizontally across the background and partially obscured by the subject to create depth\n\nTypography integrated as part of the studio set design rather than floating text\nLighting:\n\nSoft, controlled studio key light from front-left illuminating face and torso evenly\n\nGentle fill light from front-right to maintain detail in white clothing without flattening contrast\n\nSoft shadow falloff beneath chair and legs\n\nSubtle rim separation from background to enhance subject depth\n\nClean editorial lighting preserving fabric texture, skin realism, and material detail in white clothing\nFacial Expression:\n\nCalm, confident, and composed expression\n\nNeutral mouth with a subtle closed-lip confidence\n\nRelaxed jawline and natural facial tension\n\nEyes looking directly toward camera with steady, self-assured gaze\n\nExpression conveys modern luxury fashion editorial mood — poised, controlled, and quietly confident without smiling\nAtmosphere:\n\nClean studio environment with no smoke, haze, or mist effects\nCamera / Composition:\n\nEye-level camera angle\n\nCentered composition\n\nFull-body framing\n\nPortrait-lens perspective (~85mm)\nStyle:\n\nLuxury fashion editorial photography\n\nUltra-realistic, magazine-quality image\n\n4K resolution\n\nAspect ratio: 4:5 vertical",
+      "description": "Get the ultimate high-fashion AI prompt to create stunning magazine cover visuals. This prompt generates a photorealistic male model in a crisp white suit, seated in a terracotta armchair with a glass of red wine. Perfect for designers seeking cinematic lighting, minimalist backgrounds, and bold typography aesthetics.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 939,
+      "copy_count": 1571,
+      "is_premium": false,
+      "published_at": "2026-09-21T22:18:49.946Z",
+      "images": [
+        {
+          "filename": "male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "local_path": "images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Chic male model in a white suit and glasses, holding red wine in a terracotta chair. Bold 'FASHION' text anchors this sleek, monochromatic orange editorial."
+        },
+        {
+          "filename": "male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "local_path": "images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "A stylish man in a white suit and glasses sits in a terracotta chair holding a red drink. Bold \"FASHION\" text frames this sleek, high-fashion editorial portrait."
+        },
+        {
+          "filename": "male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "local_path": "images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "local_path": "images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Bearded man in a sharp white suit lounging in a rust-orange chair with wine. Bold \"FASHION\" text anchors this sleek, high-contrast editorial shot. Minimalist and sophisticated."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703c5",
+      "title": "Birthday Bliss in Pink",
+      "slug": "little-girl-pink-ruffled-dress-birthday-photoshoot",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a bright, high-key, professionally shot studio birthday portrait based on the provided reference image with strict face + age + identity match (no beautification, no identity drift, no stylization).\nSubject & Sitting Angle (IMPORTANT)\n\nA young girl (about 4–10 years old) sits on a large pink cake-shaped prop. Her body is angled slightly to the viewer’s left (about 10–20°) while her face remains turned toward the camera, giving a gentle 3/4 seated pose. She sits upright with a clean posture, shoulders relaxed, hands softly folded together on her lap, legs hanging down naturally with both boots fully visible.\nOutfit & Accessories\n\nSleeveless dusty-rose pink dress with multiple layers of soft, voluminous tulle ruffles spread outward while seated. White combat-style boots with thick black soles and bright pink laces. Pink cone party hat with gold polka dots and a fluffy pom-pom on top.\nScene & Placement\n\nSoft pink studio wall background with gold foil balloon letters spelling “HAPPY BIRTHDAY” hanging behind her. Balloon clusters on both sides: pastel pink, matte white, and metallic gold balloons, some floating in the air held by visible strings, and additional balloons resting on the floor. Pink floor covered with scattered gold/pink confetti. A real two-tier cake sits on the bottom-right floor, pink-to-white ombré frosting, sprinkles around both tiers, and a gold “Happy Birthday” topper.\nBrightness & Lighting (VERY BRIGHT / HIGH-KEY)\n\nUse strong, bright high-key studio lighting with large softboxes from the front and slightly above, creating clean, even illumination with minimal shadows. The overall image should feel bright, airy, and pastel, with soft highlights, clear subject visibility, and crisp detail. Add natural eye catchlights and gentle background falloff while keeping the entire scene well-lit.\nCamera & Quality\n\n4:5 or 2:3 aspect ratio, centered vertical composition, subject in sharp focus, shallow-to-medium depth of field with slight background softness. Ultra-clean professional kids birthday photography, realistic textures, studio-grade clarity, 4K quality.",
+      "description": "Get the best AI prompt for a Little Girl in a Pink Ruffled Dress Birthday Photoshoot. Generate hyper-realistic images featuring gold foil balloons, a whimsical pink studio backdrop, and a beautiful ombre birthday cake.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 115,
+      "view_count": 5566,
+      "copy_count": 7892,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "little-girl-in-pink-ruffled-dress-birthday-photoshoot-ai-image-prompt.webp",
+          "local_path": "images/photogrphy/little-girl-in-pink-ruffled-dress-birthday-photoshoot-ai-image-prompt.webp",
+          "original_url": "https://img.promptplum.com/promptImages/little-girl-in-pink-ruffled-dress-birthday-photoshoot-ai-image-prompt.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/little-girl-in-pink-ruffled-dress-birthday-photoshoot-ai-image-prompt.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/little-girl-in-pink-ruffled-dress-birthday-photoshoot-ai-image-prompt.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "A birthday star in a ruffled pink dress and white boots poses on a cake stool, framed by gold balloons and confetti. A celebratory scene full of pink charm!"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267038c",
+      "title": "Grey Suit & Classic Curves",
+      "slug": "man-charcoal-suit-vintage-luxury-car-ai-prompt",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Prompt Title\nHigh-End Fashion Editorial Studio Portrait with Vintage Luxury Car\nSubject\nConfident man\nFace match / reference face enabled\nPreserve facial structure, hairstyle, expression, and overall likeness\nCalm, serious, self-assured expression\nDirect eye contact with the camera\nNatural style hair with classic volume\nLight stubble visible\nPose & Body Language\nLeaning against a vintage luxury car\nPositioned slightly right of center\nArms crossed\nShoulders squared\nOne leg straight, the other slightly bent\nBody language conveys relaxed authority and confidence\nWardrobe & Styling\nPerfectly tailored charcoal gray suit\nCrisp white dress shirt\nSlim dark tie\nPolished black leather dress shoes\nClean, refined, luxury fashion styling\nVehicle\nPristine mid-20th-century dark, metallic gunmetal grey vintage luxury car\nRounded front\nCircular headlights\nChrome accents\nSculpted side vents\nPolished alloy wheels\nFront half of the car visible in frame\nBackground\nStudio setting\nBackground: It is a solid, matte slate grey. It is slightly lighter and flatter than the car's paint, providing a smooth, neutral studio backdrop that allows the metallic sheen of the car and the suit to stand out.\nBold graphic contrast\nLighting\nSoft, controlled, cinematic lighting\nPrimary light source from front-right\nEven illumination on subject and car\nSubtle shadows shaping:\nJawline\nSuit folds\nCar contours\nCamera & Composition\nSlightly low-angle shot\nMedium focal length (50–85mm)\nVertical framing\nFull body visible\nFront half of the car included\nDeep focus\nUltra-sharp, high-detail image quality\nMood & Aesthetic\nTimeless\nMasculine\nLuxurious\nMinimalist\nEvokes success, refinement, and quiet power\nStyle Keywords\nLuxury fashion campaign\nStudio photography\nCinematic lighting\nMinimalist background\nBold color blocking\nTimeless masculinity\nUltra-detailed\nPhotorealistic\nEditorial polish\nTechnical Parameters\nFace match / reference face: Enabled\nAspect ratio: 4:5",
+      "description": "Get the exact AI prompt to generate a cinematic man in a charcoal suit leaning on a vintage luxury car. Create photorealistic, high-end old-money aesthetic images with this detailed google gemini ai prompt.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 874,
+      "copy_count": 1613,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "local_path": "images/photogrphy/man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Google Gemini AI Prompt Generated Image: A sophisticated man in a charcoal suit leaning against a vintage luxury car with arms crossed, set against a minimalist grey studio backdrop."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670357",
+      "title": "Brotherhood of Night",
+      "slug": "brotherhood-of-night",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a 16K ultra-realistic cinematic studio portrait in a full-body vertical composition.\nSubject (Human):\n\nA handsome young man with a natural skin tone and realistic hairstyle, exuding a confident, composed attitude. His expression is calm, powerful, and self-assured.\n\nHe is wearing an elegant all-black outfit: a long black trench coat, black button-up shirt, black tailored trousers, and polished black leather dress shoes.\n\nHis pose is relaxed yet commanding, with one hand casually placed in his trouser pocket. He is facing the camera directly.\nCompanion (Animal):\n\nA large black wolf stands beside the man, positioned slightly behind and to his side.\n\nThe wolf has deep amber eyes, thick glossy black fur, and a calm but dominant posture.\n\nIts presence enhances the alpha, powerful mood. The wolf is also facing the camera.\nBackground & Environment:\n\nClean, minimalistic dark grey studio backdrop with a seamless studio floor.\n\nNo props. Luxury fashion editorial setup.\nLighting:\n\nDramatic low-key studio lighting.\n\nA soft key light illuminates the man’s face.\n\nSubtle rim lighting outlines the trench coat and highlights the wolf’s fur texture.\n\nHigh contrast with smooth tonal gradients and cinematic shadows.\nCamera & Visual Style:\n\nProfessional studio photography look.\n\n85mm lens, f/1.8, shallow depth of field.\n\nUltra-sharp focus on the subjects.\n\nHyper-detailed fabric textures and realistic fur detail.\n\nHDR, RAW photo quality, cinematic color grading, extreme photorealism.\nMood & Aesthetic:\n\nPowerful, elegant, mysterious.\n\nStrong alpha presence.\n\nHigh-end luxury fashion editorial aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 76,
+      "view_count": 1974,
+      "copy_count": 4132,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ww4kudww4kudww4k.jpg",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_ww4kudww4kudww4k.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ww4kudww4kudww4k.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_ww4kudww4kudww4k.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_ww4kudww4kudww4k.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image of A stylish man in a black trench coat stands beside a large black wolf."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670300",
+      "title": "Frostbite & Fashion",
+      "slug": "frostbite-fashion",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A cinematic, ultra-realistic portrait of a man using the exact face and hairstyle from the reference image (keep same facial structure or identity). He poses with a cold, mysterious expression, looking slightly forward. He wears a thick off-white knitted beanie that covers most of his hair, leaving subtle sideburns visible. His almond-shaped eyes are softly defined with light shadow, and his sharp eyebrows frame an intense gaze.\nOutfit is fully monochromatic in whites and creams: an oversized, drop-shoulder quilted down jacket layered over a fitted high-neck sweater. A heavy silver link chain necklace with a large “B”-shaped pendant rests on his chest. A wide white leather belt with a circular silver buckle and metal rings cinches the waist, paired with loose, wide-leg cargo pants featuring multiple velcro-flap pockets for a modern, voluminous silhouette. Footwear: thick off-white platform boots with a solid, rugged base.\nTo his right stands a large white wolf, nearly 2 meters tall, with a fierce and intense expression. The man is calmly stroking the wolf’s head, creating a powerful contrast between control and wild energy.\nEnvironment: a minimalistic glacial landscape with ice blocks and snow, dominated by cool grey and bluish tones.\nLighting: soft, diffused cinematic light with gentle highlights, enhancing fabric texture, metallic details, and realistic skin tones.\nStyle: high-fashion editorial, cinematic realism, shallow depth of field, ultra-detailed, 8K quality.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 34,
+      "view_count": 1451,
+      "copy_count": 2312,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_c0xb8mc0xb8mc0xb-1-1.jpg",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_c0xb8mc0xb8mc0xb-1-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_c0xb8mc0xb8mc0xb-1-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_c0xb8mc0xb8mc0xb-1-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_c0xb8mc0xb8mc0xb-1-1.jpg",
+          "width": 1344,
+          "height": 1545,
+          "alt": "Gemini AI Generated Image: A man modeling an all-white winter outfit stands next to a large white wolf in a snowy, icy landscape. He wears a beanie, an open puffer jacket, wide-leg cargo pants, and chunky boots, accessorized with layered silver chains featuring a large \"B\" pendant. His left hand rests gently on the wolf's neck as they both look forward."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ec",
+      "title": "Ultra Violet",
+      "slug": "ultra-violet",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Hyper-realistic cinematic fashion photoshoot of the uploaded person, preserving the exact facial structure and identity without altering facial features.\nThe subject is seated confidently on a deep purple bean bag, legs spread naturally with knees bent forward, feet firmly planted on the floor. His torso leans slightly back, shoulders relaxed, hands resting casually between the thighs, creating a bold, relaxed editorial pose.\nHe wears a purple oversized trench-style jacket with a deep neckline, paired with clean wide-leg white trousers. On his feet are chunky fashion sneakers in white with deep purple accents, thick soles, sporty luxury design. A silver metal wristwatch adds a premium detail.\nThe background is a deep royal purple gradient studio backdrop, perfectly matched to the bean bag and outfit, creating a monochrome fashion aesthetic.\nLighting: A soft sunlight-style spotlight enters from the side, forming a soft and medium size circular light halo on the background behind him. The light creates gentle shadows, soft highlights on the face, and a cinematic contrast—natural yet dramatic, like a luxury fashion campaign.\nCamera angle: Slightly low-angle shot, centered composition, full-body visible, enhancing confidence and power. Sharp focus, no motion blur.\nStyle & mood: High-end streetwear fashion editorial, Adidas-style campaign energy, modern, confident, minimal, premium drip vibes.\nColor tone: Rich purple dominance, balanced whites, natural skin tones, clean contrast, studio-grade color accuracy.\nAspect ratio: Vertical 4:5, Instagram/editorial ready, ultra-detailed, 8K quality, photorealistic textures.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 742,
+      "copy_count": 1104,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_5gzu6v5gzu6v5gzu-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A young man sitting on a purple beanbag chair, wearing a purple jacket over a white t-shirt, white trousers, and matching purple and white sneakers, posed against a purple studio background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702c8",
+      "title": "Heart to Heart",
+      "slug": "heart-to-heart",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A dreamy, bohemian-style portrait of a young couple during golden hour. The man, wearing a light linen shirt unbuttoned slightly and a beaded necklace, gently holds the woman jawline as his other hand rests on her lower back. She wears a flowy off-shoulder beige dress with floral embroidery, gold hoop earrings, and minimal makeup. They share a quiet, emotional gaze under a warm sunset glow, with tall grass and wildflowers in the blurred background. Cinematic tones, Canon R6 with 85mm. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 84,
+      "view_count": 4038,
+      "copy_count": 11101,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: a romantic moment between a young couple standing close together in a field of tall grass at sunset. Bathed in warm, golden light, they gaze intensely into each other's eyes as the man gently cups the woman's face with his hand. Their casual, earth-toned clothing and intimate posture create a peaceful and affectionate atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ba",
+      "title": "Modern Blue Aesthetic",
+      "slug": "modern-blue-aesthetic",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Photorealistic 8K full-body portrait of a stylish me sitting on a modern blue designer lounge chair. He leans back comfortably, his legs crossed, very confident. He is wearing a bold blue tracksuit with yellow geometric patterns on the top, paired with matching blue jogger pants, white high socks, and chunky beige sneakers. His natural skin tone features realistic facial details, modern glasses, and a confident posture.\nThe background is a seamless blue studio setup with a large, light blue abstract “MODERN” shape behind him, creating a clean, graphic, magazine-style composition. Lighting is soft, even, and studio-quality, with smooth shadows under the chair and realistic fabric texture on clothing and the chair. Colours are vibrant, featuring a broad blue, light blue, and yellow accents, giving a high-fashion editorial look.\nRendered in photorealistic 8K quality, sharp focus, natural skin texture, smooth gradients, depth, and clean, minimal modern aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 23,
+      "view_count": 812,
+      "copy_count": 1205,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_b5vsaab5vsaab5vs.jpg",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_b5vsaab5vsaab5vs.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_b5vsaab5vsaab5vs.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_b5vsaab5vsaab5vs.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_b5vsaab5vsaab5vs.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini Generated Image: A man in a blue and yellow tracksuit is sitting in a blue modern armchair against a light and medium blue background. The word \"MODERN\" is partially visible behind him. He is wearing glasses and light-colored sneakers."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702b4",
+      "title": "Regal Dapper",
+      "slug": "regal-dapper",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Ultra-realistic avant-garde fashion editorial portrait featuring a stylish male model standing confidently inside a minimalist studio with a matte circular black frame in the background. Captured with a full-body shot using an 85mm lens, a straight-on angle, and a balanced composition that emphasises symmetry and depth.\nHe wears a tailored, dark charcoal suit, layered with a long, deep violet overcoat, paired with polished black leather boots. A minimalist silver necklace adds a subtle touch of modern sophistication. His posture is relaxed yet elegant - both hands in pockets, one leg crossed slightly in front of the other, exuding quiet confidence and cinematic poise.\nLighting is soft but directional, creating smooth contrast and rich tonal depth on the dark background.\nThe overall mood is refined, modern, and premium, combining minimalism with avant-garde fashion sensibility.\n8K ultra-detailed editorial photography, luxury fabric textures, cinematic high-fashion lighting, balanced composition, Vogue-style.\nAspect ratio 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 1008,
+      "copy_count": 2117,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_mugwvjmugwvjmugw-1.jpeg",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_mugwvjmugwvjmugw-1.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mugwvjmugwvjmugw-1.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_mugwvjmugwvjmugw-1.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_mugwvjmugwvjmugw-1.jpeg",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini Generated Image: A well-dressed man in a purple overcoat and dark suit is standing with his legs crossed in front of a large black circular design on a gray wall."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702a7",
+      "title": "The Black and Grey Canvas",
+      "slug": "the-black-and-grey-canvas",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Ultra-detailed full-color cinematic fashion portrait of a stylish man sitting confidently on the studio floor, captured with a low-angle medium shot using a 50mm lens. The lighting is soft directional from the upper left, creating subtle highlights and gentle shadows across his face and outfit.\nHe wears a fitted black ribbed turtleneck knit sweater that contours naturally to his body, paired with tailored gray high-fashion trousers featuring clean pleats and a modern silhouette. On his neck is a minimalist men's silver necklace with a small rectangular pendant, adding a subtle yet refined detail.\nHe completes the look with sleek black leather ankle boots, polished to a smooth shine.\nHis pose is relaxed yet confident - one leg bent upward, the other folded under, with his right hand resting casually on his knee. His expression is calm, masculine, and slightly introspective. The background is a smooth gray gradient studio backdrop, complementing the tone of his outfit.\nThe mood is elegant, modern, and premium, inspired by minimalist luxury editorials. Natural skin texture, visible pores, and realistic sheen under cinematic soft light. 8K resolution, ultra-sharp focus, hyper-detailed fabric and leather texture, professional fashion lighting.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 1122,
+      "copy_count": 2122,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_9o239o9o239o9o23-1.jpeg",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_9o239o9o239o9o23-1.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_9o239o9o239o9o23-1.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_9o239o9o239o9o23-1.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_9o239o9o239o9o23-1.jpeg",
+          "width": 1824,
+          "height": 2336,
+          "alt": "Gemini Generated Image: A handsome man with a beard is sitting, wearing a black turtleneck sweater, grey trousers, and black boots. He is also wearing a silver pendant necklace."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702a1",
+      "title": "The Weight of the Name",
+      "slug": "the-weight-of-the-name",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "1. Subject and Identity\nSubject: A man, approximately 29 years old, in a relaxed yet confident posture.\nIdentity Source: [Use the uploaded face image as the facial reference, maintaining 100% facial detail and likeness.]\nPose: Full body shot from the side (profile), leaning comfortably against the large white sculpture. Most of the weight is resting on one leg. Both hands comfortably in trouser pockets, creating a natural and effortless look.\nExpression: Poignant, thoughtful, and peaceful. The head is slightly tilted as the subject peers through the frame.\n2. Wardrobe and Style\nOutfit: Comfortable, oversized black round-neck sweatshirt (no logo, soft cotton fabric) paired with ripped jeans.\nFootwear: White sneakers with visible shoelaces and distinctive, sculpted soles.\nAccessories: Earring piercing.\nStyle: Monochrome, minimal, and contemporary streetwear/casual fashion.\n3. Setting and Environment\nLocation: Modern, high-end studio environment.\nBackground: Clean and simple dark grey tones.\nProp/Sculpture: A large, 190 cm tall white sculpture spelling the word \"RENO\" (in a bold, architectural font). The subject is comfortably leaning against this sculpture.\n4. Technical and Aesthetic Details\nAngle: Low-angle shot (worm's-eye view) to emphasise height, presence, and the grandeur of the \"RENO\" sculpture in the background.\nComposition: Cinematic and natural proportions. The framing resembles that of a classic portrait lens, with an approximate focal length of 85 mm.\nLighting: Controllable studio lighting. The lighting should strongly and constantly highlight the subject's figure, while casting a soft, directional shadow on the large white sculptural letters behind the subject.\nOverall Mood/Vibe: Cinematic, Editorial, and Modern. Combining casual streetwear with distinctive architectural characters.\nRealism: Ultra-realistic, hyper-detailed photography (100% realism).",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 61,
+      "view_count": 3089,
+      "copy_count": 4293,
+      "is_premium": false,
+      "published_at": "2026-07-31T18:25:54.400Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_c47tsxc47tsxc47t-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_c47tsxc47tsxc47t-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_c47tsxc47tsxc47t-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_c47tsxc47tsxc47t-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_c47tsxc47tsxc47t-1.png",
+          "width": 896,
+          "height": 1152,
+          "alt": "Gemini Generated Image: A young man wearing a black sweatshirt, distressed blue jeans, and white sneakers is leaning against a stack of large white 3D letters that spell the word \"RINO\". The background is a solid dark grey/black."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670294",
+      "title": "Neutral Tones, Sharp Style",
+      "slug": "neutral-tones-sharp-style",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Photorealistic 8K full-body portrait of a young me standing in a confident modern pose, slightly turning his body to the side while looking toward the viewer. He is wearing a stylish tan bomber jacket, beige trousers, and white sneakers. One leg slightly crossed in front of the other, hands relaxed near pockets. Smartwatch on wrist. No female elements, no hair description.\nBackground is a clean light grey gradient studio setting.\nAdd soft DSLR depth-of-field blur around edges to keep subject in sharp focus. Lighting is studio-soft, creating clean shadows on the jacket and trousers, and highlighting natural facial skin texture. Optional: very subtle ghostly double-exposure outline of the subject for a cinematic effect. No smoke, no jewelry except smartwatch, no feminine elements.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 1043,
+      "copy_count": 2278,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251209_145124.jpg",
+          "local_path": "images/photogrphy/IMG_20251209_145124.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251209_145124.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251209_145124.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251209_145124.jpg",
+          "width": 892,
+          "height": 1119,
+          "alt": "Gemini Generated Image: A stylish man wearing a tan bomber jacket, a matching tan top, and khaki trousers. He is also wearing white sneakers and a smartwatch. The image has a subtle double-exposure or ghosting effect behind him."
+        },
+        {
+          "filename": "Screenshot-2025-12-09-at-7.44.14-PM.jpg",
+          "local_path": "images/photogrphy/Screenshot-2025-12-09-at-7.44.14-PM.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-09-at-7.44.14-PM.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Screenshot-2025-12-09-at-7.44.14-PM.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Screenshot-2025-12-09-at-7.44.14-PM.jpg",
+          "width": 420,
+          "height": 513,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267028c",
+      "title": "Camo Remix",
+      "slug": "camo-remix",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create an ultra-realistic photo with 8k sharp details, cinematic quality, natural light, and soft focus of the man in the attached image. Copy his face and hair 100%, do not change any of the facial features. \nA man conveying a confident, and slightly rebellious mood, wearing a matching, two-piece tracksuit/technical wear set in white, dominated by an abstract, organic camouflage-like pattern in dark brown, gray, and bright yellow patches. A windbreaker jacket with a central zipper, slightly open, and a matching wide-leg pants that are gathered at the ankle, also showcasing the distinctive pattern. He wears multiple layers of chunky, silver chain necklaces. He wears bulky, very chunky \"monster sole\" or utility boots in a light beige/cream color with matching thick soles and bright yellow laces, tying into the outfit's accent color. He is captured in a deep squat pose, knees are bent, and he is leaning slightly forward. His right hand is raised to his chin in a pensive gesture. The combination of the aggressive pose and intense gaze is very compelling. The setting is completely isolated, utilizing a seamless light gray background. The lighting is professional studio lighting. It is bright, even, and flattering, with a subtle shadow cast beneath the subject. This is a three-quarter length shot, showing the subject from above her boots up to her head. He is centrally framed. The vertical lines of her body in the squat, combined with the volume of the clothing, create a dynamic shape within the frame. The photo is ultra-sharp and highly detailed. The shallow depth of field (or the clean background) ensures the subject pops out dramatically. The photo is taken at a low level, emphasizing his pose.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 629,
+      "copy_count": 804,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_o0tukfo0tukfo0tu-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_o0tukfo0tukfo0tu-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_o0tukfo0tukfo0tu-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_o0tukfo0tukfo0tu-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_o0tukfo0tukfo0tu-1.png",
+          "width": 896,
+          "height": 1152,
+          "alt": "Gemini Generated Image: A man is squatting, wearing a white, black, and yellow camouflage tracksuit and tan work boots with yellow laces. He is looking directly at the camera."
+        },
+        {
+          "filename": "Screenshot-2025-12-08-at-12.27.51-PM.jpg",
+          "local_path": "images/photogrphy/Screenshot-2025-12-08-at-12.27.51-PM.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-08-at-12.27.51-PM.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Screenshot-2025-12-08-at-12.27.51-PM.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Screenshot-2025-12-08-at-12.27.51-PM.jpg",
+          "width": 646,
+          "height": 823,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267028b",
+      "title": "The Power of Brown",
+      "slug": "the-power-of-brown",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create an ultra-realistic studio portrait of a person. The composition is a medium close-up (waist-up), with the subject centered and filling a strong portion of the frame. Camera is positioned slightly above eye level, angled gently downward. The subject is seated, leaning slightly forward with forearms resting on a dark, round table surface. Hands are relaxed and loosely clasped, subtly showcasing refined jewelry.\nThe pose is graceful and natural: shoulders relaxed, posture poised, head tilted slightly back and turned toward the left, gaze directed upward off-frame with a radiant, genuine smile that conveys warmth and positivity.\nStyling includes a sophisticated satin or silk blazer in a rich chocolate-brown tone with a soft sheen that catches light. Hair is long, voluminous, and styled in smooth, flowing waves with a side part, cascading over the shoulders. Accessories include elegant gold statement earrings, minimal gold bracelets, and subtle rings. Makeup is polished and natural with warm tones, soft highlights, defined eyes, and a muted reddish-brown lip color.\nLighting is soft and professional: a warm key light from the front-right creates gentle highlights on the face, hair, and fabric texture, paired with subtle fill lighting to maintain soft shadows. Skin texture remains natural and detailed (no over-smoothing). The overall lighting mood is warm, diffused, and inviting.\nBackground is a smooth seamless studio backdrop in a warm earthy brown (umber tone) with a soft gradient—slightly brighter near the center/top behind the head, fading darker toward the edges. The background is smooth, subtly textured, and out of focus to maintain subject emphasis.\nTechnical Details:\nUltra-high resolution (8K), sharp focus on face, shallow depth of field, 85mm portrait lens look, studio-quality realism, no CGI, no over-processing, natural skin texture preserved.\nAspect ratio: 4:5 vertical.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 1936,
+      "copy_count": 3789,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ro0a9qro0a9qro0a-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_ro0a9qro0a9qro0a-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ro0a9qro0a9qro0a-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_ro0a9qro0a9qro0a-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_ro0a9qro0a9qro0a-1.png",
+          "width": 928,
+          "height": 1120,
+          "alt": "Gemini Generated Image: A smiling woman with long dark, wavy hair is wearing a brown blazer and gold jewelry, leaning on a dark table against a brown background."
+        },
+        {
+          "filename": "Screenshot-2025-12-08-at-12.19.19-PM.jpg",
+          "local_path": "images/photogrphy/Screenshot-2025-12-08-at-12.19.19-PM.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-08-at-12.19.19-PM.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Screenshot-2025-12-08-at-12.19.19-PM.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Screenshot-2025-12-08-at-12.19.19-PM.jpg",
+          "width": 607,
+          "height": 711,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267027f",
+      "title": "Pinstripe Perfection",
+      "slug": "pinstripe-perfection",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A hyper-realistic, 8k, full body fashion photograph captured with a 50mm lens from a slightly low-angle perspective, showcasing a stylish individual standing casually, leaning against a polished bronze railing. The subject, uploaded face as reference, is impeccably dressed in a dark navy blue turtleneck, a sharp double-breasted suit featuring prominent vertical stripes in varying shades of blue, and a long, dark charcoal overcoat draped elegantly over their shoulders, revealing a distinctive checkered pattern lining in shades of brown, black, and cream. They wear stylish sunglasses with reflective blue lenses, have slicked-back dark hair, and a well-groomed beard. Their left leg is crossed over the right, and they hold a rectangular brown leather clutch bag with a wrist strap in their left hand, while their right hand is casually tucked into their suit pocket. Dark socks and highly detailed brown suede tassel loafers complete the look. The background features a modern architectural wall with alternating horizontal stripes of dark brown and light beige/grey, providing a strong linear contrast, while the foreground shows textured stone steps with a pebble-dash finish. The scene is illuminated by soft, diffused natural daylight, creating subtle shadows and highlighting the rich textures of the fabrics, leather, stone, and metal with cinematic lighting and vibrant, natural color grading.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 889,
+      "copy_count": 1494,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251207_174845.jpg",
+          "local_path": "images/photogrphy/IMG_20251207_174845.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251207_174845.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251207_174845.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251207_174845.jpg",
+          "width": 1696,
+          "height": 2479,
+          "alt": "Gemini Generated Image: A stylish man in a navy pinstripe double-breasted suit and a dark turtleneck is standing, with a charcoal overcoat draped over his shoulders. He is wearing sunglasses and brown suede tassel loafers, and he is holding a brown leather folio or clutch. The background is a brown, slatted wall."
+        },
+        {
+          "filename": "86bdb4bf4cc1ab8105c2456c2781aab2.jpg",
+          "local_path": "images/photogrphy/86bdb4bf4cc1ab8105c2456c2781aab2.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/86bdb4bf4cc1ab8105c2456c2781aab2.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/86bdb4bf4cc1ab8105c2456c2781aab2.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/86bdb4bf4cc1ab8105c2456c2781aab2.jpg",
+          "width": 736,
+          "height": 1104,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267027a",
+      "title": "Double Vision",
+      "slug": "double-vision",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A young adult male fashion model with dark skin tone, short dark hair largely obscured by a cream white bucket hat, striking a confident and composed pose, standing with body slightly angled to the right, head turned slightly to the left, looking directly at the viewer, right hand casually inserted into the trousers pocket, left arm relaxed but partially obscured by motion blur, wearing a pristine cream/off-white oversized blazer with sharp lapels over a matching long-sleeved dress shirt and tailored pleated trousers, accessorized with futuristic, wide-frame sunglasses featuring reflective magenta/pink lenses, Medium close-up shot from the waist up, eye-level camera angle, using an 85mm portrait lens, with extremely shallow depth of field focusing sharply on the subject, Soft yet directional key light from the front-left, slightly above, casting subtle shadows on the right side of the face and clothing creases, with a subtle rim light on the subject's left side, Studio setting with a smooth, dark gradient background transitioning from deep black at the top-left to a warmer dark brown/taupe at the bottom-right, all softly blurred into bokeh, Dominant colors are sophisticated cream/off-white and deep dark browns/blacks, with a bold accent of reflective magenta/pink from the sunglasses, creating a sleek, mysterious, and high-fashion mood, Pronounced horizontal motion blur streaks originating from the left, composed of transparent, glowing light beige/golden-brown lines, dynamically crossing over the subject's body and into the right background, subtle fabric shine on the clothing, high reflectivity on the sunglasses, and very fine, almost imperceptible film grain, High-fashion editorial, modern photography style with a dynamic and stylized effect, ultra-detailed, photorealistic, 8k, highly detailed face, accurate facial structure, use reference image for 100% face accuracy. Negative Prompt: blurry, low quality, distorted, extra limbs, watermark, bad quality",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 22,
+      "view_count": 570,
+      "copy_count": 594,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251206_210249.jpg",
+          "local_path": "images/photogrphy/IMG_20251206_210249.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251206_210249.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251206_210249.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251206_210249.jpg",
+          "width": 1696,
+          "height": 2509,
+          "alt": "Gemini Generated Image of A man wearing an all-white suit, including a blazer, t-shirt, and trousers, is posing with one hand in his pocket. He is also wearing a white bucket hat and bright pink/purple futuristic sunglasses. There is a blurry, shadowy duplicate image trailing behind him on a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670272",
+      "title": "The Modern Gentry",
+      "slug": "the-modern-gentry",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A sharp monochrome portrait of a young man with textured dark hair, a mustache, and a short beard, leaning casually against a textured concrete wall. He is wearing a tailored obsidian suit fitting with sculptural precision, and a partially unbuttoned dress shirt revealing subtle masculinity. One hand rests in his pocket; the other lightly adjusts his cuff, showcasing bold metallic accessories. A wide-brimmed hat tilts slightly backward, unveiling a steady, contemplative gaze. The lighting forms dramatic diagonal shadows across his frame, creating a 4:5 editorial composition that merges modern refinement with timeless noir drama. --ar 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 7,
+      "view_count": 481,
+      "copy_count": 718,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_kjyt8nkjyt8nkjyt-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_kjyt8nkjyt8nkjyt-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_kjyt8nkjyt8nkjyt-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_kjyt8nkjyt8nkjyt-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_kjyt8nkjyt8nkjyt-1.png",
+          "width": 896,
+          "height": 1152,
+          "alt": "Gemini generated black and white photo, shows a handsome man in a dark suit, an unbuttoned white shirt, and a wide-brimmed hat. He is wearing a watch and bracelets, looking directly at the camera while posing against a concrete wall."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670271",
+      "title": "The Blue Backdrop",
+      "slug": "the-blue-backdrop",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A young man sitting relaxed on a modern blue armchair, clean sky blue studio background with a large bold white lettering \"LOOK\" behind The Head him. Soft studio lighting, smooth shadows. Wearing a denim jacket, a white t-shirt, lavender pants, white socks, and chunky white sneakers. Calm smile, confident posture, hands resting naturally. Minimal aesthetic, high-fashion commercial photoshoot style, vibrant blue tones, ultra-detailed, crisp 4K image. Use a reference image for face structure, expression, hairstyle, and skin tone. Maintain the same composition and same text placement.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 1127,
+      "copy_count": 1744,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_z3gvbmz3gvbmz3gv-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_z3gvbmz3gvbmz3gv-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_z3gvbmz3gvbmz3gv-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_z3gvbmz3gvbmz3gv-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_z3gvbmz3gvbmz3gv-1.png",
+          "width": 928,
+          "height": 1120,
+          "alt": "Gemini Generated image of a stylish young man wearing a denim jacket and light purple pants, seated on a blue armchair against a bright blue background with the large white word \"LOOK\" behind him."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670264",
+      "title": "The Royal Entrance",
+      "slug": "the-royal-entrance",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "8K hyper-realistic cinematic portrait of the SAME PERSON from the reference (exact same face, same hairstyle, same skin texture; do NOT alter the face). Keep the SAME purple formal outfit: purple coat, purple shirt, purple formal pants, black sunglasses, and the same minimal accessories (watch + chain). Luxury fabric texture must remain unchanged. Pose: Standing with one hand fully inside the pant pocket, the other hand holding the coat by the lapel/collar. Body slightly leaned toward the camera with a confident, high-fashion posture. Face looking slightly down toward the camera with a calm but powerful attitude, giving a royal fashion vibe. Scene: Purple-themed luxury interior environment with modern classy elements. Soft spotlight from above, cinematic shadows, elegant depth of field, and smooth background blur. Subtle purple reflections on the outfit for a premium look. Camera & Quality: 8K UHD hyper-realistic skin and fabric details. Premium fashion editorial lighting with cinematic style.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 66,
+      "view_count": 1899,
+      "copy_count": 5136,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251204_235830.jpg",
+          "local_path": "images/photogrphy/IMG_20251204_235830.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_235830.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251204_235830.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251204_235830.jpg",
+          "width": 1824,
+          "height": 2319,
+          "alt": "Gemini Ai Generated Image: A stylish man in a monochromatic purple suit and sunglasses stands in a dimly lit, purple-toned room."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670261",
+      "title": "The Red Standard",
+      "slug": "the-red-standard",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A hyper-realistic 8K studio portrait of a 20-year-old man sitting confidently on a deep light-red bean bag against a seamless red backdrop. He wears an oversized scarlet trench coat with matching wide pants, chunky sneakers, and a silver wristwatch reflecting studio light. Use the exact face from the reference image — same features, hair, skin tone, and expression. Dramatic lighting, vivid red tones, and sharp contrasts evoke a high-end Adidas campaign with rich textures and powerful streetwear energy.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 837,
+      "copy_count": 1476,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251204_153549.jpg",
+          "local_path": "images/photogrphy/IMG_20251204_153549.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_153549.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251204_153549.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251204_153549.jpg",
+          "width": 1846,
+          "height": 2303,
+          "alt": "Gemini Ai Generated photo of a young man sitting on a pink beanbag chair against a solid red background. He is wearing a red trench coat, red pants, and red sneakers. He also has a silver watch on his wrist. The overall look is very monochromatic and stylish."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267025e",
+      "title": "Sepia Stare",
+      "slug": "sepia-stare",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create an ultra-realistic studio portrait of a person seated casually on a vintage metal folding chair in a seamless dark burnt-orange studio environment (floor and background fully merged, no horizon line).\nComposition & Framing:\nFull-body portrait, vertical 4:5 aspect ratio. Subject centered slightly left. Feet fully visible, no cropping. Balanced negative space on the right side. Eye-level camera angle with a slight cinematic depth.\nPose & Expression:\nRelaxed seated pose with one leg crossed over the other. One arm resting casually on the chair’s backrest, the other relaxed near the lap. Body slightly angled, head turned to the side (off-camera gaze). Expression calm, confident, and introspective.\nOutfit & Styling:\nMinimal modern outfit: fitted black t-shirt, loose black denim jeans (baggy fit), and polished black leather boots. Clean, monochrome styling with a contemporary aesthetic.\nLighting:\nSoft, directional studio lighting from the front-left creating gentle highlights on the face and upper body. Subtle shadow falloff with defined, moody shadows on the floor and backdrop. Warm tonal harmony with the orange background, no harsh overexposure.\nBackground & Environment:\nSeamless dark burnt-orange studio backdrop, infinity wall studio with a matte finish. No props except the chair. Clean, minimal, editorial fashion look.\nCamera & Technical Details:\nShot on 85mm lens, f/2.8 aperture, shallow depth of field. High dynamic range, sharp details, natural skin texture (no smoothing or plastic look). 8K resolution, cinematic color grading, soft contrast.\nStyle:\nModern editorial fashion photography, minimal, moody, and refined aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 57,
+      "view_count": 2346,
+      "copy_count": 5656,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251204_143539.jpg",
+          "local_path": "images/photogrphy/IMG_20251204_143539.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_143539.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251204_143539.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251204_143539.jpg",
+          "width": 1856,
+          "height": 2299,
+          "alt": "Gemini Ai Generated Image: A man wearing a black t-shirt and dark jeans sits on a metal folding chair against a warm, reddish-brown background. He is looking to his left, and his legs are crossed. He is also wearing black boots."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267025d",
+      "title": "The Modern Executive",
+      "slug": "the-modern-executive",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the uploaded reference image strictly as the ONLY face reference. Preserve exact facial structure, proportions, skin tone, hair texture, and identity — no alteration.\nCreate an ultra-realistic studio fashion portrait of a person seated on a modern black leather lounge chair with a chrome frame in a minimalist white seamless studio.\nComposition & Framing:\nFull-body shot, vertical 4:5 aspect ratio. Subject centered with slight forward lean, occupying ~65–70% of frame height. Clean negative space around, no cropping of head or feet.\nPose & Expression:\nSeated with legs apart in a relaxed power pose. One hand adjusting the cuff while the other rests naturally. Upper body slightly leaning forward. Expression confident, intense, and composed with direct eye contact.\nOutfit & Styling:\nTailored black pinstripe suit with a fitted black dress shirt underneath (no tie). Slim trousers, clean silhouette. Black leather Chelsea boots. Modern black rectangular eyeglasses. Groomed short curly hair and light stubble.\nEnvironment & Background:\nMinimalist white seamless backdrop (infinity wall, no edges visible). Black leather designer chair as the only prop. Clean, editorial aesthetic with no distractions.\nLighting:\nSoft diffused studio lighting from front-left with subtle shadow falloff on the right side. Gentle contrast, natural skin tones, no harsh highlights. Slight rim light to separate subject from background.\nCamera & Technical Details:\nShot on 85mm lens, f/2.8, shallow depth of field. Ultra-sharp focus on face and upper body. High dynamic range, 8K resolution, crisp fabric texture and skin detail.\nStyle:\nLuxury fashion editorial, minimal, modern, high-end magazine quality.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 49,
+      "view_count": 2208,
+      "copy_count": 5949,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251204_145048.jpg",
+          "local_path": "images/photogrphy/IMG_20251204_145048.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_145048.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251204_145048.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251204_145048.jpg",
+          "width": 1696,
+          "height": 2498,
+          "alt": "Ai Generated Image: A man in a black pinstripe suit, black shirt, and black Chelsea boots is seated on a black leather chair. He is wearing eyeglasses and adjusting his cuff. The background is plain white."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267025c",
+      "title": "Red Room Confidential",
+      "slug": "red-room-confidential",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A cinematic editorial portrait captures a confident man dressed entirely in black—a black turtleneck paired with a black tailored suit. He stands with both hands in his pockets, his gaze intense, set against a striking red gradient background. The lighting is smooth and directional, casting soft shadows on his face and suit to highlight his facial structure and the clean lines of his attire. The studio environment is distraction-free, exuding a fashion-forward vibe. This image was created using an 85mm portrait lens with a high-contrast lighting setup, embodying a style reminiscent of fashion magazines. The minimal color palette, cinematic red backdrop, matte finish texture, and DSLR depth rendering contribute to the sophisticated studio fashion photography.",
+      "description": "",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 47,
+      "view_count": 1160,
+      "copy_count": 3289,
+      "is_premium": false,
+      "published_at": "2026-08-10T16:53:24.739Z",
+      "images": [
+        {
+          "filename": "IMG_20251204_143412.jpg",
+          "local_path": "images/photogrphy/IMG_20251204_143412.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_143412.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251204_143412.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251204_143412.jpg",
+          "width": 1856,
+          "height": 2290,
+          "alt": "Gemini Generated Image: A well-dressed man in a black turtleneck and suit jacket is posing against a red background. He is looking directly at the camera."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670253",
+      "title": "The Turtleneck Suit",
+      "slug": "the-turtleneck-suit",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Cinematic portrait of a sophisticated man sitting confidently in a modern gray armchair by a large window with soft natural light streaming through sheer curtains. He wears a sleek black suit paired with a black turtleneck and polished black dress shoes. His posture is calm and composed, one leg crossed, hands relaxed, gazing thoughtfully toward the light. The background features elegant gray walls and dark curtains, creating a minimalist luxury interior aesthetic. Shot in 8K ultra-realistic quality, soft directional lighting, shallow depth of field, moody yet refined color palette, professional editorial composition, cinematic tone with natural contrast and elegant atmosphere.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 41,
+      "view_count": 1665,
+      "copy_count": 4349,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251203_202329.jpg",
+          "local_path": "images/photogrphy/IMG_20251203_202329.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251203_202329.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251203_202329.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251203_202329.jpg",
+          "width": 1696,
+          "height": 2459,
+          "alt": "Ai Generated Image: A man in a black suit and turtleneck is seated in a grey armchair."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670252",
+      "title": "In the Limelight",
+      "slug": "in-the-limelight",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "A hyper-realistic cinematic editorial half body portrait of the uploaded person (preserve face 100%). HE stands tall in a dark MAROON moody studio, surrounded by soft drifting black white smoke under a dramatic spotlight. \nOutfit:Fit white luxury suit with fit-leg trousers, paired with a slightly unbuttoned white silk shirt. Both hands tucked casually in pockets, shoulders relaxed, confident expression, head tilted slightly upward.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 76,
+      "view_count": 2149,
+      "copy_count": 6601,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251203_200441.jpg",
+          "local_path": "images/photogrphy/IMG_20251203_200441.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251203_200441.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251203_200441.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251203_200441.jpg",
+          "width": 1888,
+          "height": 2267,
+          "alt": "Gemini AI Generated Image: a handsome man wearing a white suit and an open-collar white shirt. He is standing under a spotlight, with a dark, smoky background. His hands are in his pockets, and he is looking directly at the viewer."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267024d",
+      "title": "Cream and Confidence",
+      "slug": "cream-and-confidence",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Ultra-clean studio portrait of a handsome young man (use uploaded face — 100% facial accuracy, no changes). He wears a cream jacket over a white t-shirt, giving a modern and sophisticated aesthetic. The subject stands with both hands casually slipped into his pockets, body angled slightly to the side while his head turns toward the opposite direction, giving a calm, reflective expression.\nLighting:\nSoft diffused beauty-light, even brightness across the face, smooth shadows, no harsh contrast. Skin texture natural and highly detailed, captured in crisp 8K DSLR quality with a 50mm f/1.4 lens. Eyes sharp with natural catchlights.\nComposition:\nMid-shot portrait (waist-up), camera angle eye-level. Background soft neutral gray, ultra-clean, minimal, and premium editorial style.\nMood:\nModern, confident, relaxed, high-end studio photography.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 38,
+      "view_count": 1185,
+      "copy_count": 3258,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251202_230327.jpg",
+          "local_path": "images/photogrphy/IMG_20251202_230327.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251202_230327.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251202_230327.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251202_230327.jpg",
+          "width": 1696,
+          "height": 2498,
+          "alt": "Gemini Generated Image: A young man in a cream/off-white blazer over a white t-shirt looking slightly off-camera."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267024c",
+      "title": "The Modern Gentleman",
+      "slug": "the-modern-gentleman",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the face from the reference image exactly - same facial structure, same skin tone, same eyes, same hairstyle.\nCreate a high-fashion cinematic portrait of a young man standing against a very dark matte background. He is wearing a black tailored suit with a crisp white shirt slightly unbuttoned, revealing a silver chain necklace. He holds a pair of black sunglasses in his hands, with rings, a bracelet, and an elegant cross earring adding detail. Catching subtle highlights and creating a dramatic, stylish atmosphere. Soft spotlight on the face, sharp contrast, smooth shadows, ultra-detailed skin texture, curly hair, model-like pose, luxury editorial photoshoot style, 8K ultra-realistic quality.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 1414,
+      "copy_count": 3552,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_l35vwpl35vwpl35v-1-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_l35vwpl35vwpl35v-1-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_l35vwpl35vwpl35v-1-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_l35vwpl35vwpl35v-1-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_l35vwpl35vwpl35v-1-1.png",
+          "width": 864,
+          "height": 1184,
+          "alt": "Ai Generated Images: A photograph of a handsome young man with dark, wavy hair, wearing a black suit jacket and an open white shirt. He is holding a pair of sunglasses and is accessorized with jewelry (rings, a chain necklace, and a cross earring). The background is solid black."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670249",
+      "title": "The White King",
+      "slug": "the-white-king",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "4K, ultra-realistic, cinematic lighting, professional studio photo, detailed textures. (100% replace face with uploaded person's face\"). \"Create a surreal cinematic portrait of a young man sitting confidently on a dark throne-like chair, wearing an elegant all-white suit with a white shirt underneath. His expression is calm and powerful, eyes closed, head slightly tilted back.\nHe is surrounded closely by multiple faceless figures draped in deep red cloaks, each wearing smooth white masks. The red velvet curtain in the background creates a dramatic, theatrical atmosphere.\nLighting is soft but focused on the subject's face and suit, adding high contrast against the dark surroundings. The masked figures appear mysterious and symmetrical around him. Ultra-detailed skin texture, luxury editorial photoshoot style, rich colors, deep shadows, 8K hyper-realistic quality.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 17,
+      "view_count": 617,
+      "copy_count": 935,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "width": 928,
+          "height": 1120,
+          "alt": "Gemini Generated Image: A young man in a white suit sits on a black, ornate throne with his eyes closed. He is surrounded by six figures wearing white, featureless masks and red hooded cloaks. The background is a deep red velvet curtain."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670246",
+      "title": "The Pink Plaid Power Suit",
+      "slug": "the-pink-plaid-power-suit",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Striking and modern advertisement features an attractive and elegant woman (use the uploaded image as a reference for the face) wearing glasses, sitting facing the camera with confidence on a modern and bold pink armchair. She wears a magenta suit with white, simple geometric patterns[horizontal and vertical lines], paired with thick white sneakers and white socks.\nThe background is a minimalist gray gradient, with clean studio lighting in a photography style. The aesthetic is minimalist, fun, and modern. The look is ultra-clean and vibrant, with an editorial style. Aspect ratio: 4:5 vertical.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 47,
+      "view_count": 2158,
+      "copy_count": 4516,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_8r36tl8r36tl8r36-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_8r36tl8r36tl8r36-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_8r36tl8r36tl8r36-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_8r36tl8r36tl8r36-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_8r36tl8r36tl8r36-1.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Gemini Generated Image: A woman with dark hair pulled back and wearing glasses is seated confidently in a vibrant pink mid-century modern armchair, wearing a tailored magenta suit with a thin yellow plaid pattern, a white tank top, white crew socks, and chunky white sneakers, all set against a neutral gray background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670245",
+      "title": "Electric Blue Style",
+      "slug": "electric-blue-style",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Ultra-realistic full-body portrait of the same young man (same face, 100% accuracy) with a focused, intense expression, set against a vibrant monochromatic electric-blue studio background.\nHe wears a tailored deep-blue suit, crisp white shirt, and blue Adidas sneakers with white triple-stripe branding.\nCasual lean at the corner of two blue walls, left hand in pocket, left leg crossed to highlight footwear.\nBackground: dynamic blue gradient with subtle horizontal line textures.\nDramatic left-side lighting builds a sharp, cool-toned shadow.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 2208,
+      "copy_count": 4454,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_7qwdpv7qwdpv7qwd-1-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_7qwdpv7qwdpv7qwd-1-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7qwdpv7qwdpv7qwd-1-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_7qwdpv7qwdpv7qwd-1-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_7qwdpv7qwdpv7qwd-1-1.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Gemini Generated Image: A fashion portrait shows a handsome young man with dark, wavy hair, standing in a corner against a bright blue wall, wearing a sharp royal blue suit with a white dress shirt and completing the look with casual blue sneakers with white stripes. His hands are in his pockets, and his legs are crossed, giving him a relaxed yet stylish appearance."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670241",
+      "title": "Silver Snowfall",
+      "slug": "silver-snowfall",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. Cinematic and hyper realistic portrait of a young white man standing in falling snow, wearing an oversized dark wool coat dusted with snowflakes over a black turtleneck and diamond earrings. The person stands confidently with hands in pockets, tilting his head slightly upward, striking a calm and contemplative pose. Shallow depth of field with blurred snow in the foreground, high detailed texture on the coat, captured with a professional DSLR lens in soft natural light, portrait taken from a side angle.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 1144,
+      "copy_count": 2733,
+      "is_premium": false,
+      "published_at": "2026-09-21T22:38:40.233Z",
+      "images": [
+        {
+          "filename": "1764599012067.png",
+          "local_path": "images/photogrphy/1764599012067.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764599012067.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764599012067.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764599012067.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Gemini AI Generated Image: A young man with short, silver-gray hair and an earring stands outside in a snowy environment, wearing a dark gray wool coat over a black turtleneck and looking upward, with blurred street lights visible in the background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267023d",
+      "title": "Straw Hat and Puff Sleeves",
+      "slug": "straw-hat-and-puff-sleeves",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. Then create a portrait of a woman in a sculptural beige ensemble with voluminous sleeves and a textured wrap-style design, exuding timeless elegance. She wears a wide-brimmed hat with intricate cut-out patterns, creating dramatic shadows across her face and clothing. The light passes through the lace-like structure of the hat, forming artistic, geometric patterns on her skin and fabric.\nThe composition captures a serene yet powerful mood, with the woman gazing thoughtfully into the distance. The setting is softly lit with natural sunlight filtering through architectural elements, giving the image a cinematic and ethereal quality.\nThe palette consists of muted beige and ivory tones, emphasizing the interplay of light and shadow. The focus is on texture, detail, and form — from the subtle weave of the fabric to the delicacy of the shadows.\nHigh-fashion editorial photography, ultra-detailed, photorealistic, 85mm portrait lens, shallow depth of field, soft directional lighting, minimalistic background, Vogue-style composition, emphasizing sophistication, calm strength, and artistic light play.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 1521,
+      "copy_count": 4194,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251201_001803.jpg",
+          "local_path": "images/photogrphy/IMG_20251201_001803.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251201_001803.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251201_001803.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251201_001803.jpg",
+          "width": 1888,
+          "height": 2231,
+          "alt": "Gemini Generated Image: A woman wearing a wide-brimmed, open-weave sun hat and a beige patterned dress with puff sleeves stands indoors, with shadows from the hat creating a striking striped pattern across her face and upper body."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670239",
+      "title": "The Minstrel and the Doves",
+      "slug": "the-minstrel-and-the-doves",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the uploaded reference image strictly as the ONLY face reference.\nCreate a high-resolution, ultra-realistic cinematic photograph of an individual seated directly on a weathered, light-gray stone railing (not behind it), positioned slightly to the left side of the frame. The setting is an ancient ruin environment with textured stone architecture and lush, deep-green overgrown ivy climbing the surfaces, softly fading into the background.\nSubject & Appearance:\nLong, layered chestnut-brown hair with natural volume and soft flow. Wearing a warm cinnamon-brown (terracotta/russet tone) chiffon dress with delicate layered ruffles and sheer, airy sleeves that gently move with a light breeze.\nPose & Action:\nSeated naturally on top of the stone railing, body angled slightly toward the camera. One leg relaxed along the ledge. Holding a polished natural-wood acoustic guitar across the lap, one hand forming a chord on the fretboard while the other rests near the strings, suggesting a soft playing moment.\nExpression & Gaze:\nSerene, calm, and softly engaged expression. Eyes gently directed toward the camera with a peaceful, introspective presence.\nEnvironment Details:\nOn the right side of the frame, two pure white doves are perched closely together on the same stone railing, positioned in a way that their heads and bodies subtly form a heart shape. They remain secondary in focus, slightly forward on the right edge, adding balance and storytelling.\nLighting & Mood:\nGolden hour sunlight entering from the top-right corner, creating a strong yet soft directional glow. Warm rim lighting highlights the hair and edges of the dress, while the face remains evenly illuminated with natural soft fill. Cinematic warm tones with gentle shadow falloff.\nComposition:\nSubject placed slightly left-of-center, seated directly on the railing. Right side reserved for the doves, creating visual balance. Full-body framing, with clean negative space and soft background blur.\nTechnical Details:\nUltra-realistic, 8K detail, sharp focus on subject, natural skin texture (no plastic or over-smoothing), high dynamic range, cinematic color grading, 85mm lens look, f/2.0–f/2.8 shallow depth of field.\nAspect Ratio: 4:5 vertical portrait.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 36,
+      "view_count": 1341,
+      "copy_count": 2633,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764518053431.png",
+          "local_path": "images/photogrphy/1764518053431.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764518053431.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764518053431.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764518053431.png",
+          "width": 928,
+          "height": 1120,
+          "alt": "Gemini generated image: A young woman wearing a flowing, ruffled, brown dress sits on a mossy stone wall, playing an acoustic guitar, illuminated by warm sunlight, with two white doves perched beside her."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670238",
+      "title": "Black Saree with Floral Embroidery",
+      "slug": "black-saree-with-floral-embroidery",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. Create A hyper-realistic medium shot portrait of a beautiful young Indian woman standing on a city street during the day. She is wearing a premium translucent black net saree adorned with glittering sequins and colorful floral embroidery (red, blue, green), paired with a solid black short-sleeved blouse. She wears a blue gemstone choker necklace, matching earrings, and a stack of blue bangles. She has a small black bindi, and her long wavy brown hair is parted in the middle. She is leaning casually against a black metal railing with her hands clasped. The background features blurred city architecture, brick buildings, and parked cars, creating a shallow depth of field. Soft, natural lighting, 8k resolution, high fidelity. Photorealistic style: The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 116,
+      "view_count": 4920,
+      "copy_count": 11863,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251130_151922.jpg",
+          "local_path": "images/photogrphy/IMG_20251130_151922.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_151922.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251130_151922.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251130_151922.jpg",
+          "width": 1849,
+          "height": 2304,
+          "alt": "Gemini Generated image of A beautiful woman with long brown hair, adorned in a black sari featuring colorful floral embroidery and sparkling blue jewelry and bangles, stands smiling on a city street beside a black railing"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670237",
+      "title": "Quiet Luxury Leisure Time",
+      "slug": "quiet-luxury-leisure-time",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Ultra-photorealistic 8K editorial full-body portrait of a handsome, stylish man (same face and perfectly styled hair from the uploaded photo); face slightly turned toward the camera, seated elegantly on a premium wicker armchair in a beautiful, luxurious garden outside a modern bungalow. Legs crossed, one hand holding an open Hindustan Times newspaper, the other resting casually on the armrest. Beside him sits a majestic white Samoyed dog, calm and elegant.\nUpdated Luxury Stylish Outfit:\nA cream-beige luxury designer shirt (soft satin texture, tailored fit, sleeves perfectly cuffed), paired with jet-black slim tailored trousers, white premium leather sneakers, a silver-and-black luxury wristwatch, and matte-black Wayfarer sunglasses, giving a rich, effortless, high-fashion look. Soft natural daylight, lush greenery, warm tones, cinematic depth-of-field, and a magazine-quality editorial composition.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 86,
+      "view_count": 2860,
+      "copy_count": 8550,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251130_145155.jpg",
+          "local_path": "images/photogrphy/IMG_20251130_145155.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_145155.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251130_145155.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251130_145155.jpg",
+          "width": 1696,
+          "height": 2518,
+          "alt": "Gemini Generated image of a well-dressed man wearing sunglasses, a beige shirt, and black trousers sits in a wicker chair, reading the Hindustan Times newspaper in a sunny garden with a large, fluffy white Samoyed dog sitting beside him"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670235",
+      "title": "Glimpse in the Shadow",
+      "slug": "glimpse-in-the-shadow",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the uploaded reference image strictly as the ONLY face reference.\nCreate a hyper-realistic, black-and-white studio portrait.\nComposition & Framing:\nWaist-up portrait. Subject positioned slightly angled in a three-quarter profile facing left, with the head gently turned toward the camera. Clean centered composition with balanced negative space. Ensure full head and upper torso are visible with no cropping.\nPose & Expression:\nCalm, poised, and confident expression. Neutral gaze toward the camera. Upright posture, shoulders relaxed, neck elongated.\nOutfit & Styling:\nFitted black high-neck turtleneck sweater with subtle fabric texture. Hair neatly tied back in a clean low bun. Minimal styling with small stud earrings.\nLighting:\nHigh-contrast cinematic lighting setup:\nStrong directional key light from the left side\nSmooth shadow falloff across the right side of the face and torso\nSoft fill to preserve facial detail (no crushed blacks)\nGeometric shadow pattern on the background (window-light effect)\nNo overexposure, maintain smooth grayscale transitions\nBackground:\nMinimalist soft gray studio backdrop with gentle gradient and soft shadow shapes. Clean and distraction-free.\nTexture & Detail:\nUltra-realistic skin with visible pores and natural highlights (no plastic or overly smooth skin). Crisp detail in eyes, lips, and fabric.\nCamera & Technical:\n85mm lens, f/2.0, shallow depth of field\nSharp subject focus, soft background blur\nHigh dynamic range, studio-grade clarity\n8K resolution, monochrome grading\nAspect ratio 4:5.\nStyle & Mood:\nTimeless, elegant, editorial fashion photography. Minimalist, cinematic, refined.\nNegative Prompt:\ncartoon, CGI, stylized, plastic skin, over-smooth, blur, distortion, extra limbs, low detail, color tones (keep strictly black and white), harsh shadow covering eyes",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 2880,
+      "copy_count": 7023,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_8vujhv8vujhv8vuj-1-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_8vujhv8vujhv8vuj-1-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_8vujhv8vujhv8vuj-1-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_8vujhv8vujhv8vuj-1-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_8vujhv8vujhv8vuj-1-1.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Gemini generated, A striking black and white portrait features a woman with her hair pulled back, wearing a black turtleneck and an earring, looking directly at the camera with strong shadow and light contrast on a gray background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267022a",
+      "title": "Casual stance powerful bike",
+      "slug": "casual-stance-powerful-bike",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Ultra-realistic 8K cinematic full-body portrait of a stylish young man, face and hairstyle exactly from the uploaded reference image, hairstyle perfectly styled and set, face directly toward the camera with a confident slight smile.\nHe has fair bright skin, age late teens to early twenties. He is leaning casually against a matte black Royal Enfield parked outdoors in natural daylight.\nOutfit: white fitted tank top, light pants, white sneakers, and a half white cargo jacket casually draped over his left arm.\nAccessories: bracelet, chain, and wristwatch reflecting soft daylight. Red sunglasses add contrast to his look.\nEnvironment: cinematic outdoor setting, with warm yellow-orange natural light, shallow depth of field, soft shadows, and smooth urban background bokeh.\nStyle: hyper-photorealistic, sharp details, glossy skin texture, magazine-quality tone, perfect lighting balance, DSLR-level clarity, premium lifestyle aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 91,
+      "view_count": 4985,
+      "copy_count": 11675,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:49:33.162Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_mpul1mpul1mpul1m-1.png",
+          "width": 864,
+          "height": 1184,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670227",
+      "title": "Biker on mountain road",
+      "slug": "biker-on-mountain-road",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "16K ultra-realistic cinematic full-body portrait of an 18-year-old handsome young man with the exact same face, hairstyle, and facial features as in the reference image - do not change or modify the face. He is standing on a mountain road beside a black mountain bike, with one hand firmly on the handlebar and the other casually in his pocket. His body is slightly turned toward the camera with a confident, composed expression. The mountain road stretches behind him, lined with green trees and illuminated by warm golden sunlight. The sky is bright with subtle cinematic lens flare for added depth and realism. He is wearing a white oversized printed t-shirt, light grey cargo pants, white sneakers, and a black cap. The image should capture ultra-detailed textures, lifelike lighting, and rich cinematic tones for a professional, premium look. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 1500,
+      "copy_count": 2705,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_man_stands_on_mountain_road.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_man_stands_on_mountain_road.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_man_stands_on_mountain_road.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_man_stands_on_mountain_road.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_man_stands_on_mountain_road.png",
+          "width": 928,
+          "height": 1120,
+          "alt": "Gemini AI Generated, cinematic full-body portrait of an 18-year-old handsome young man standing on a mountain road beside a black mountain bike, with one hand firmly on the handlebar and the other casually in his pocket"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670221",
+      "title": "Elegant winter portrait",
+      "slug": "elegant-winter-portrait",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. A young man of South Asian ethnicity, possibly in his late 20s, is the main subject, centrally positioned in the image. He is wearing a crisp, white coat, a beige scarf, and black aviator sunglasses. Use the face from the uploaded reference image for hair, beard and moustache. He is holding his scarf with his right hand. The background is a snowy landscape, with falling snowflakes visible, creating a winter atmosphere. The man is facing the viewer directly, exhibiting a composed expression. The lighting is soft and natural, with the snow providing overall brightness. The composition is balanced, and the style is a realistic photograph with a touch of elegance. The focus is sharp on the man, with the background slightly blurred to enhance depth.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 1302,
+      "copy_count": 2769,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ad4byzad4byzad4b-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_ad4byzad4byzad4b-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ad4byzad4byzad4b-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_ad4byzad4byzad4b-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_ad4byzad4byzad4b-1.png",
+          "width": 992,
+          "height": 1056,
+          "alt": "Ai generated image: A sharply dressed young South Asian man in a white coat, beige scarf, and black aviator sunglasses, with a composed expression, is centrally featured in a snowy outdoor setting while holding his scarf"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267021d",
+      "title": "Stylish rooftop city stride",
+      "slug": "stylish-rooftop-city-stride",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the uploaded reference image strictly as the ONLY face and identity reference — preserve exact facial structure, proportions, hairstyle, skin tone, and natural details. A stylish man is captured mid-stride walking confidently toward the camera on an open rooftop terrace (no roof above). His body faces forward in a natural walking motion, one leg stepping ahead, while his right hand is adjusting his dark sunglasses. His gaze is directed slightly downward and off to the side (not directly at the camera), giving a relaxed, confident, candid feel with a subtle smirk.\nHe is wearing a light pastel blue linen blazer over a clean white t-shirt neatly tucked into fitted dark blue jeans, paired with minimal white sneakers. A sleek wristwatch is visible on his wrist.\nThe environment is a modern rooftop terrace with wooden deck flooring, rectangular planters filled with greenery aligned along the sides, and minimalist outdoor benches. The background features a softly blurred city skyline with tall buildings, creating a premium urban lifestyle atmosphere. No roof or overhead structures visible.\nLighting is warm natural sunlight coming from the top-left, creating soft directional highlights on the hair, face, and blazer, while casting gentle shadows toward the bottom-right. The light has a subtle golden tone, enhancing depth and texture with a cinematic feel.\nShot from a slightly low-angle perspective, adding a subtle sense of confidence and presence. Full-body framing (head-to-toe visible, no cropping), with balanced negative space. Shallow depth of field with smooth, creamy background bokeh.\nUltra-realistic, photorealistic, 8K detail, natural skin texture with visible pores (no plastic or CGI look), sharp focus on subject, premium fashion editorial style. Shot on full-frame camera, 85mm lens, f/1.8 aperture, ISO 100, high dynamic range, subtle film color grading.\nAspect ratio 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 1278,
+      "copy_count": 3058,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_wg47vcwg47vcwg47-1.png",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_wg47vcwg47vcwg47-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_wg47vcwg47vcwg47-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_wg47vcwg47vcwg47-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_wg47vcwg47vcwg47-1.png",
+          "width": 992,
+          "height": 1056,
+          "alt": "Ai generated young man image, captured mid-stride, adjusting his dark sunglasses with a confident, slightly mischievous smirk, his head turned towards the camera."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670217",
+      "title": "Confident, stylish, seated portrait",
+      "slug": "confident-stylish-seated-portrait",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Convert this image so that the man is sitting in the center of a high-back armchair in a minimal, monochromatic studio setting. Replace the current background with a seamless wall and floor in a single solid color, either deep teal, slate blue, or forest green. Dress him in a matching jacket and pants in the same color, paired with a simple white T-shirt underneath. Keep his sneakers clean and white with subtle accents matching the outfit. Retain his wristwatch as an accessory. His posture should be upright and composed, with both feet flat on the ground and his hands gently clasped in his lap. The chair should match the overall color scheme to create a seamless monochrome effect. Lighting should be soft, even, and studio-style, with minimal shadows. The final image should be ultra-high-resolution, sleek, modern, and minimalist, in the style of high-fashion portrait photography.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 1605,
+      "copy_count": 5072,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764184474560.png",
+          "local_path": "images/photogrphy/1764184474560.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764184474560.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764184474560.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764184474560.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Ai generated image of man is sitting in the center of a high-back armchair in a minimal, monochromatic studio"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670213",
+      "title": "Woman plays acoustic guitar",
+      "slug": "woman-plays-acoustic-guitar",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a soft, natural, photorealistic outdoor portrait of a person seated on a simple wooden chair, gently playing an acoustic guitar in daylight. The subject is positioned slightly right of center, body angled subtly toward the left, with the head tilted downward and eyes focused on the guitar strings, conveying a calm, introspective mood.\nOutfit consists of a clean, minimal white sleeveless ribbed top paired with fitted light blue jeans, maintaining a simple and modern aesthetic. Hair is tied back in a neat low ponytail with a few soft strands framing the face, adding natural elegance. Expression is serene and focused, with a relaxed, peaceful feel.\nThe acoustic guitar features warm natural wood tones with visible grain texture, held comfortably across the lap, one hand forming chords on the fretboard while the other gently strums near the sound hole.\nBackground is a neutral gray wall with a smooth matte finish, clean and distraction-free, with absolutely no greenery, plants, or additional elements. The scene is outdoors, illuminated by soft natural daylight, creating gentle highlights and mild shadows without harsh contrast or overexposure.\nCamera angle is eye-level with a slight downward perspective, framed as a medium shot (waist-up), ensuring both the subject and guitar are clearly visible. Composition is minimal and balanced with subtle negative space.\nTechnical details: ultra-realistic, high resolution, natural color grading, soft contrast, shallow depth of field, 50mm lens look, f/2.8 aperture, crisp focus on subject, softly blurred background, lifestyle photography style. Aspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 44,
+      "view_count": 1473,
+      "copy_count": 2309,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764161793490.png",
+          "local_path": "images/photogrphy/1764161793490.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764161793490.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764161793490.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764161793490.png",
+          "width": 960,
+          "height": 1088,
+          "alt": "Ai generated image of Woman playing acoustic guitar"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670212",
+      "title": "Woman enjoys snowy view",
+      "slug": "woman-enjoys-snowy-view",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create an image. Reference image: uploaded photo Face: keep the same face from the reference image. Pose: model standing with left arm resting on railing, holding glass of red wine, body slightly leaned to side, looking away. Clothes: fluffy white faux-fur coat, tight black leggings. Accessories: transparent rectangular sunglasses. Background: snowy mountain terrace, heavy snow on railings, forest in background. Lighting: cold daylight softened by fog, natural reflections on glass. Camera: 50mm f/2.0, natural cinematic winter tone. Mood: luxury après-ski, calm sophistication. Format: portrait 2:3.Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 17,
+      "view_count": 1193,
+      "copy_count": 1837,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764151502891.png",
+          "local_path": "images/photogrphy/1764151502891.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764151502891.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764151502891.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764151502891.png",
+          "width": 960,
+          "height": 1088,
+          "alt": "Ai generated image of women enjoys snowy view"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670211",
+      "title": "Man standing in front of orange wall",
+      "slug": "man-standing-in-front-of-orange-wall",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Make this man stand against a vibrant orange large wall with dramatic shadows cast from a nearby window. He wears round eyeglasses. His outfit includes a black turtleneck layered with a dark blazer, creating a sleek and intellectual look. The lighting is bold and directional, highlighting the contours of his face and casting artistic shadows across the wall. The overall atmosphere is cinematic and moody, with a strong contrast between warm background tones and dark clothing, evoking a modern, editorial portrait style.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 1547,
+      "copy_count": 4246,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764150954502.png",
+          "local_path": "images/photogrphy/1764150954502.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764150954502.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764150954502.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764150954502.png",
+          "width": 864,
+          "height": 1184,
+          "alt": "AI generated image of Man stands against a vibrant orange wall with dramatic shadows cast"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670210",
+      "title": "Stylish man holds horse",
+      "slug": "stylish-man-holds-horse",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the uploaded reference photo for the exact face and hairstyle. Create an ultra-realistic cinematic portrait of an elegant man standing next to a majestic black horse in a snowy forest. The man wears a completely black outfit: a tailored coat, a high-neck sweater, gloves, and sunglasses, which gives him a mysterious and powerful aura. Snowflakes gently fall around her, resting on her coat and hair. while soft, fuzzy light creates a cool, melancholic winter atmosphere. The horse looks strong and elegant, with the snow-covered mane, and both subjects radiate sophistication and quiet mastery. Capture tone and composition with high detail, depth, and cinematic contrast for a luxurious, dramatic visual effect.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 170,
+      "view_count": 5066,
+      "copy_count": 14681,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764150488209.png",
+          "local_path": "images/photogrphy/1764150488209.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764150488209.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764150488209.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764150488209.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Ai generated image of a man standing next to a black horse in winter bakground"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267020f",
+      "title": "Woman stands by news",
+      "slug": "woman-stands-by-news",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a hyper-realistic black-and-white studio portrait using the uploaded image strictly as the ONLY face reference, preserving exact facial structure, proportions, skin texture, and identity. The subject is positioned center, body angled subtly toward the right, with the head turned back toward the camera in a soft over-the-shoulder pose. Expression is calm, confident, and introspective, with relaxed eyes and slightly parted lips.\nHair is styled in a wet, slicked-back look with a few natural strands falling across the face, adding a cinematic editorial feel. The outfit consists of a fitted white ribbed long-sleeve top, clean and minimal in design to maintain focus on the face and overall form. Background features a split composition: the left side is a smooth dark grey seamless studio wall, while the right side includes a collage of overlapping newspaper clippings arranged organically, slightly out of focus to keep attention on the subject.\nLighting is soft and directional from the front-left, creating gentle highlights across the face and cheekbones with smooth shadow falloff. A subtle rim light enhances separation from the background without overpowering the scene.\nCamera setup: eye-level angle, aspect ratio 4:5, medium close-up (mid-torso to above head), 85mm lens, shallow depth of field, ultra-sharp facial detail, natural skin texture (no over-smoothing). Monochrome cinematic grading with rich contrast and smooth tonal transitions. 8K resolution, editorial fashion photography style.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 58,
+      "view_count": 1467,
+      "copy_count": 3312,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_dmny0sdmny0sdmny.webp",
+          "local_path": "images/photogrphy/Gemini_Generated_Image_dmny0sdmny0sdmny.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_dmny0sdmny0sdmny.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_dmny0sdmny0sdmny.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_dmny0sdmny0sdmny.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267020d",
+      "title": "Man stands amidst chaos",
+      "slug": "man-stands-amidst-chaos",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a Hyper Realistic cinematic streetwear portrait of a young person standing alone on an urban road next to a gray concrete wall. The subject’s face is recreated with exact, natural details from the uploaded photo—no alterations to identity, skin tone, or expression. They wear matte black sunglasses, a loose-fit light gray sweatshirt with visible fabric texture, olive green cargo pants with defined stitching and pockets, and worn black-and-white Vans sneakers. Their hands rest casually in their pockets, projecting a calm, confident attitude as they gaze slightly upward toward the camera.Around them, crowds of people rush past in blurred motion, their movements captured with streaks of motion blur to emphasize speed and energy. The blurred figures partly overlap with the subject but they remain sharply in focus, standing still as the world moves around them. On the asphalt ground, there are scattered pieces of urban garbage—wrinkled paper, plastic cups, and cigarette butts—adding gritty realism to the street scene.The camera is positioned from a slightly elevated high angle, shooting down toward the subject, with a full-body framing. The ground texture is detailed with fine asphalt grain, faint cracks, and dirt. Lighting is natural daylight, soft and diffused, with cinematic shadows and muted tones.The overall mood is 8K hyperrealistic, urban cinematic, raw and editorial, combining sharp subject clarity with blurred, rushing pedestrians in motion. Aspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 136,
+      "view_count": 3702,
+      "copy_count": 10935,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764146449172.png",
+          "local_path": "images/photogrphy/1764146449172.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764146449172.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764146449172.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764146449172.png",
+          "width": 768,
+          "height": 1344,
+          "alt": "Ai generated image of Man stands amidst chaos"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267020b",
+      "title": "Man Sitting on Chair B&W Portrait AI Prompt",
+      "slug": "crossed-arms-man-sitting-bw-portrait",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. Well-groomed man seated on a wooden chair, his arms crossed casually over the back. He wears a simple black crew-neck t-shirt and square, black-framed eyeglasses. His hair is styled naturally with individual hair strands. Gazes directly at the viewer with a composed, neutral expression. His build is athletic and well-defined, and he appears to be in good physical condition. The background is a stark black, which emphasizes the subject's face and upper body. The lighting is soft and focused, creating a high-contrast black and white photograph with shadows. The composition is centered, placing the man firmly in the frame and suggesting a sense of formality and intimacy. The overall style is clean, modern, and slightly dramatic, resembling a professional portrait.\nAspect ratio 4:5",
+      "description": "Copy this AI prompt to generate dramatic B&W studio portraits. Create a custom face image of a man in a black t-shirt sitting on a wooden chair.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 101,
+      "view_count": 4843,
+      "copy_count": 12138,
+      "is_premium": false,
+      "published_at": "2026-08-10T16:46:19.373Z",
+      "images": [
+        {
+          "filename": "144d5ab3-ba20-4acf-a721-0832ad74aa20.webp",
+          "local_path": "images/photogrphy/144d5ab3-ba20-4acf-a721-0832ad74aa20.webp",
+          "original_url": "https://img.promptplum.com/promptImages/144d5ab3-ba20-4acf-a721-0832ad74aa20.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/144d5ab3-ba20-4acf-a721-0832ad74aa20.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/144d5ab3-ba20-4acf-a721-0832ad74aa20.webp",
+          "width": 1856,
+          "height": 2230,
+          "alt": "AI Photo Prompt: Black and white studio portrait of a well-groomed athletic man wearing a black t-shirt and square glasses, sitting with arms crossed over the back of a wooden chair against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267020a",
+      "title": "Man wears brown suit",
+      "slug": "man-wears-brown-suit",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a hyper-realistic studio fashion portrait using the uploaded image strictly as the ONLY face reference. The subject is seated on a tall chrome-base swivel stool, body facing forward in a relaxed yet confident posture, with one leg slightly extended forward and the other grounded, hands resting naturally near the thighs. The expression is calm, neutral, and composed, with direct eye contact toward the camera. The outfit consists of a tailored light brown suit (blazer and slim-fit trousers), paired with a crisp white button-up shirt slightly unbuttoned at the collar, and clean white minimalist sneakers. The background is a seamless studio backdrop with a warm brown-to-burnt red gradient, softly blended with a subtle vignette and no visible edges. Lighting features a strong directional spotlight from the top-right corner creating warm highlights on the right side of the body and background, combined with a balanced soft frontal fill light that fully illuminates the face evenly — ensuring both sides of the face are clearly visible with no harsh shadows or half-face darkness, preserving natural skin tones and facial details. The composition is a full-body vertical frame (4:5), with clean headroom and fully visible feet. Captured at eye-level using an 85mm lens with shallow depth of field, ultra-sharp focus, natural skin texture, high dynamic range, and 8K resolution, in a modern editorial fashion photography style with a clean, minimal, premium studio aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 2100,
+      "copy_count": 2985,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251126_114350-scaled.jpg",
+          "local_path": "images/photogrphy/IMG_20251126_114350-scaled.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251126_114350-scaled.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251126_114350-scaled.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251126_114350-scaled.jpg",
+          "width": 1432,
+          "height": 2560,
+          "alt": "Ai generated image of young man sitting on table with stylish outfit"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526701f7",
+      "title": "Young man with camera",
+      "slug": "young-man-with-camera",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create an 8K hyper-realistic cinematic outdoor portrait of a young man, face angled mostly toward the camera with a natural smile and relaxed, warm eyes, gazing softly toward the upper-right in a natural, candid glance (not a full head turn away from camera). He stands slightly to the right of centre in a lush outdoor garden, in a relaxed, natural standing pose, shoulders angled toward the camera.\n\nHe wears a loose black-to-maroon gradient button-up shirt with subtle vertical fabric texture, black on the upper chest and fading to deep maroon below. The collar is open and relaxed. The sleeves are rolled up naturally, showing maroon cuffs. Pair it with loose clean white pants. His left hand is casually inside the pants pocket. His right hand naturally holds a realistic Canon-style DSLR camera near the lower chest/waist area, slightly to the left side of his body. The camera strap hangs down loosely in a natural loop. Keep the camera size, lens, hands, fingers, and strap realistic.\n\nComposition: vertical 4:5 portrait, subject placed slightly lower and slightly right of center, visible from head to waist. Do not make it a close-up, but keep the face clearly visible, sharply detailed, and unobstructed — subject occupying around 60–70% of the frame height. Leave enough open blurred background space above and around the subject.\n\nImportant background and flowers: Do not create a full colorful flower wall behind the subject. The main flowers must be concentrated in the upper-left corner as hanging bougainvillea branches. Add a large vivid red flower cluster at the top-left, with smaller pink, magenta, yellow, and dark purple bougainvillea clusters hanging below it. Add only a small red flower branch near the upper-right area. Behind the subject, keep the background mostly blurred olive-green trees and foliage, not dense flowers.\n\nForeground and depth: Add a warm yellow-green blurred hedge or leaf layer across the lower foreground, creating dreamy depth. Keep the background heavily blurred with creamy bokeh, soft depth of field, and realistic DSLR portrait separation.\n\nColor tone must closely match: muted olive-green background, warm yellow-green foreground, soft dark-green cinematic garden atmosphere, slightly desaturated natural colors, gentle warm highlights, creamy bokeh, and natural skin tones. Preserve the subject's exact facial structure, proportions, and likeness with high fidelity. Avoid bright oversaturated colors, harsh contrast, dark shadows, plastic skin, over-sharpening, altered facial features, extra flowers around the body, text, or watermarks.\n\nProfessional outdoor portrait photography, 85mm lens look, f/1.8 shallow depth of field, soft cinematic lighting, premium DSLR quality.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 1271,
+      "view_count": 78513,
+      "copy_count": 132031,
+      "is_premium": false,
+      "published_at": "2026-08-09T17:41:21.049Z",
+      "images": [
+        {
+          "filename": "1763942330532.png",
+          "local_path": "images/photogrphy/1763942330532.png",
+          "original_url": "https://img.promptplum.com/promptImages/1763942330532.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1763942330532.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1763942330532.png",
+          "width": 960,
+          "height": 1088,
+          "alt": "Ai generated image of \"Men with camera\""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526701f5",
+      "title": "Urban Street Stylish Young Boy",
+      "slug": "urban-street-stylish-young-man",
+      "category": "Photoshoot",
+      "category_slug": "photogrphy",
+      "prompt": "Create a high-end cinematic lifestyle portrait of a stylish man with well-groomed hair, exuding a confident, cool, and composed personality. Use the uploaded image strictly as the ONLY face & identity reference. Preserve exact facial structure, proportions, skin tone, and natural texture.\nOutfit:\n\nA relaxed-fit maroon button-down shirt featuring bold white rose floral patterns, sleeves rolled up to mid-forearm, Shirt must be worn untucked (naturally draping over the waistband, not tucked in). Paired with light sky-grey relaxed tapered trousers (clean fall, tailored finish) and crisp white high-top leather sneakers with matching laces.\nPose & Expression:\n\nThe subject leans casually against a blue-framed glass window. His right arm raised with hand resting on the frame. Left leg crossed over the right in a relaxed stance. His left hand lightly touching the chin. Expression is focused and slightly intense, with a confident, smoldering gaze directed straight into the camera.\nComposition & Framing:\n\nFull-body vertical portrait (head-to-toe, feet fully visible, no cropping). Subject positioned slightly left of center following the rule of thirds. Maintain balanced negative space on both sides. Use the window frame and sidewalk lines as leading elements to create depth and perspective.\nEnvironment & Background:\n\nUrban street setting at dusk. Left side features a modern architectural building with a blue-grid glass facade. Background shows a softly blurred city street with yellow-black striped traffic barriers. Multiple streetlights recede into the distance forming a strong leading perspective, glowing as soft circular bokeh. The sky displays a rich cinematic sunset gradient — deep orange near the horizon transitioning into pink and subtle purple tones. Car headlights and distant city lights enhance the depth. No people visible in the background.\nLighting:\n\nGolden hour cinematic lighting with a vivid sunset sky acting as a natural backlight. A warm directional streetlight casts a soft golden glow across the subject’s face and upper body, creating natural highlights and depth. Strong subtle rim light from the horizon outlines the silhouette. Streetlights in the background contribute additional ambient glow and bokeh. Face illumination must feel realistic and balanced — soft falloff, no harsh shadows, no overexposure.\nCamera Angle & Lens:\n\nLow-to-mid eye-level angle with a slight upward perspective to enhance presence and stature. Shot using an 85mm lens for a compressed, cinematic look.\nTechnical Details:\n\nPhotorealistic, ultra-detailed, 8K resolution. Shallow depth of field (f/1.8–f/2.8) creating creamy background bokeh, especially from streetlights and headlights. High texture fidelity on fabric, skin, and surfaces. Teal-and-orange cinematic color grading with realistic dynamic range.\nAspect Ratio:\n\n2:3 vertical composition.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 141,
+      "view_count": 6804,
+      "copy_count": 15005,
+      "is_premium": false,
+      "published_at": "2026-07-25T17:59:26.260Z",
+      "images": [
+        {
+          "filename": "1763939105311.png",
+          "local_path": "images/photogrphy/1763939105311.png",
+          "original_url": "https://img.promptplum.com/promptImages/1763939105311.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1763939105311.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1763939105311.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "AI Generated Stylish Young Man Image"
+        },
+        {
+          "filename": "192d1017-6a53-4296-a4e6-b52313d02ad5.webp",
+          "local_path": "images/photogrphy/192d1017-6a53-4296-a4e6-b52313d02ad5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/192d1017-6a53-4296-a4e6-b52313d02ad5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/192d1017-6a53-4296-a4e6-b52313d02ad5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/192d1017-6a53-4296-a4e6-b52313d02ad5.webp",
+          "width": 848,
+          "height": 1264,
+          "alt": "Urban Twilight Portrait of Boy AI Photo Editing Prompt. AI generated portrait of a stylish boy leaning against a glass window at dusk on a city sidewalk, wearing a maroon floral shirt and grey chinos."
+        }
+      ]
+    }
+  ]
+}

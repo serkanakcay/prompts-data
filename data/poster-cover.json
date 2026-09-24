@@ -1,0 +1,971 @@
+{
+  "category": "Poster / Cover",
+  "slug": "poster-cover",
+  "total_prompts": 27,
+  "updated_at": "2026-09-24T13:11:28Z",
+  "prompts": [
+    {
+      "id": "6ab2a05442ae1b78ac9a7f1a",
+      "title": "Low-Angle Cinematic Suit Portrait AI Prompt",
+      "slug": "low-angle-cinematic-suit-portrait",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "High-quality semi-realistic digital portrait of a uploaded man, preserving the exact facial structure and age from the reference image. Calm, confident expression with natural masculinity. Wearing round, dark-tinted sunglasses with subtle reflections, a tailored black suit, a crisp white shirt, and a black tie. One hand in his pocket, the other adjusting his sunglasses. Ultra low-angle cinematic shot (35mm), dramatic high-contrast rim lighting, noir mood, clean minimal dark black background. Sleek movie-poster aesthetic, ultra-sharp detail, professional color grading, premium finish. Aspect ratio 4:5. Negative: cartoon, anime, flat style, blur, soft lighting, plastic skin, over-smoothing. Replicate the face exactly, pixel-perfect 1:1.",
+      "description": "Use this prompt to generate a low-angle cinematic noir portrait of a confident man in a black suit adjusting his sunglasses against a dark background.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 4,
+      "view_count": 476,
+      "copy_count": 392,
+      "is_premium": false,
+      "published_at": "2026-09-22T15:35:48.182Z",
+      "images": [
+        {
+          "filename": "a76384d6-96e3-4a00-bd8c-bd8ba869a31c.webp",
+          "local_path": "images/poster-cover/a76384d6-96e3-4a00-bd8c-bd8ba869a31c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a76384d6-96e3-4a00-bd8c-bd8ba869a31c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/a76384d6-96e3-4a00-bd8c-bd8ba869a31c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/a76384d6-96e3-4a00-bd8c-bd8ba869a31c.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "AI Photo Prompt: Dramatic low-angle cinematic portrait of a young man in a tailored black suit and tie, adjusting his round dark sunglasses against a minimal black background."
+        }
+      ]
+    },
+    {
+      "id": "6a8db1d446d4207dc21e147b",
+      "title": "Dark Aesthetic Birthday Portrait",
+      "slug": "dark-theme-birthday-poster-prompt",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Use the uploaded reference image strictly as the facial identity reference only. Ignore the original pose, clothing, framing, lighting, expression, and background. Create a premium, ultra-realistic professional birthday studio portrait matching the composition and atmosphere described below.\n\nIDENTITY LOCK\nThe subject must remain clearly recognizable as the person in the uploaded reference.\nPreserve accurately:\nfacial structure, jawline, cheekbones, chin\neye shape, spacing, eyebrows, nose, lips\nnatural skin tone and realistic skin texture\nhairline and natural hairstyle characteristics\nbeard/moustache only if present in the reference\nglasses only if present in the reference\nDo not beautify, reshape, stylize, age, or alter the face. Avoid an exaggerated smile that could change facial identity. Use a subtle, relaxed, confident expression with lips naturally closed or a very slight soft smile.\n\nSUBJECT & POSE\nShow the subject seated comfortably and confidently in a large luxurious black velvet armchair with deep cushioning, broad upholstered arms, subtle channel detailing, and an elegant brushed-gold metal frame.\nPose:\nseated naturally in the center-right portion of the composition\ntorso facing mostly toward the camera\nrelaxed upright posture, slightly leaning back into the chair\nshoulders open and natural\nboth forearms resting comfortably on the armrests\nhands relaxed with realistic finger anatomy\nlegs naturally separated\nfeet firmly positioned on the floor\ncalm direct eye contact with the camera\nThe pose should look like a professionally directed birthday portrait, not a corporate headshot or stiff catalogue pose.\n\nCLOTHING\nDress the subject in an elegant all-black monochromatic outfit:\npremium black button-up shirt\nsoft natural fabric with realistic folds\ncollar casually open by one or two buttons\nsleeves neatly rolled to approximately the forearms\ntailored black trousers\nblack socks\npolished black leather lace-up dress shoes\nThe clothing should feel sophisticated, modern, luxurious, and appropriate for an upscale birthday celebration.\n\nBIRTHDAY STUDIO SET\nCreate a dark luxury photography studio with a sophisticated black-and-champagne-gold birthday theme.\nBackground:\nmatte charcoal-black / deep black paneled wall\nelegant decorative wall moulding\nsubtle architectural depth\nno distracting furniture or unrelated decorations\nBehind the subject, prominently display a warm glowing birthday sign.\nThe text must read exactly:\nHappy\nBirthday\nNAME\nin a large elegant handwritten cursive neon-style script, glowing in warm champagne-gold light.\nKeep it centered beneath “Happy Birthday,” similar in prominence to a professionally designed birthday backdrop.\n\nBALLOONS & DECORATION\nArrange sophisticated balloons around both sides of the scene:\nglossy black balloons\npearl/champagne balloons\ndifferent natural sizes and heights\nthin elegant gold balloon strings\ncurled metallic champagne-gold ribbons\nKeep the balloons mostly around the outer edges so they frame the subject without covering the face, chair, birthday lettering, or cake.\nAdd a few tasteful curled ribbons and small pieces of metallic gold-and-black confetti on the floor. Decoration should feel intentional and premium, not crowded or childish.\n\nBIRTHDAY CAKE\nPlace a small elegant round side table on the lower-left side of the subject, positioned beside the chair.\nTable:\nslim black frame\nrefined circular champagne-gold tabletop or gold trim\nluxury minimalist styling\nOn the table place a compact premium birthday cake:\ncylindrical black cake\nsmooth professional finish\nelegant champagne-gold drip decoration\nsubtle fine gold detailing near the base\nseveral slim lit birthday candles arranged neatly across the top\nThe candle flames should create tiny warm highlights while remaining realistic.\n\nCOMPOSITION\nVertical 4:5 portrait orientation.\nUse a polished full-body editorial composition:\nsubject fully visible from head to shoes\nchair fully readable\nshoes not cropped\ncomfortable headroom\nbirthday lettering clearly visible above and slightly behind the subject\ncake clearly visible at lower left\nballoons framing both sides\nbalanced amount of negative space\nno elements awkwardly cut by the image borders\nPlace the subject slightly right of center so the cake and decorations balance the left side of the frame.\nCamera approximately at seated chest/eye level, with a natural professional portrait perspective.\n\nLIGHTING\nUse realistic high-end studio photography lighting rather than artificial CGI illumination.\nLighting setup:\nlarge soft key light from front-left at approximately 45°\ngentle fill from camera-right\nsubtle warm rim/separation light around the hair and shoulders\nwarm glow from the birthday sign\nsoft candlelight accents\ncontrolled highlights on balloons and gold metal\nnatural shadow falloff beneath the chair and subject\ndeep blacks while retaining fabric texture and shadow detail\nSkin must retain realistic pores, fine texture, natural tonal variation, and believable highlights.\n\nCAMERA & IMAGE QUALITY\nPhotographed as if using a professional full-frame camera with an 85mm portrait lens around f/2.8–f/4, ISO 100, high dynamic range, accurate focus and realistic depth of field.\nThe face and eyes must be extremely sharp, while the background receives only subtle natural depth separation.\nPremium professional birthday photography, realistic lens rendering, finely resolved hair strands, detailed fabric, realistic hands, natural skin, physically believable balloons, accurate reflections, premium materials, subtle cinematic contrast, clean highlight roll-off, and extremely high facial detail.\nThe final image should resemble a real luxury birthday studio photoshoot produced by an experienced portrait photographer and professional set designer, not an AI-generated birthday poster.\n\nAvoid: plastic skin, over-smoothing, excessive facial symmetry, identity drift, exaggerated smile, distorted hands, extra fingers, waxy balloons, floating decorations, fake-looking neon, oversaturated gold, crushed black clothing, CGI textures, unrealistic reflections, artificial bokeh, excessive glow, cartoonish cake, cluttered composition, cheap party decorations, cropped shoes, warped chair geometry, misspelled text, duplicate balloons, or modern corporate-office aesthetics.",
+      "description": "Use this AI prompt to generate an elegant black and gold themed birthday portrait featuring a custom glowing neon name sign, celebratory balloons, and a cake.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 2719,
+      "copy_count": 2192,
+      "is_premium": false,
+      "published_at": "2026-08-25T15:16:36.709Z",
+      "images": [
+        {
+          "filename": "afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "local_path": "images/poster-cover/afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/afeebeb7-699e-4390-917f-be2cadb9517d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_9bs29i9bs29i9bs2"
+        },
+        {
+          "filename": "e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "local_path": "images/poster-cover/e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/e6207987-4338-4ed1-bcbb-59b8c51b38d7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_herws4herws4herw"
+        }
+      ]
+    },
+    {
+      "id": "6a837d5d4bbdbe2cf559e5c6",
+      "title": "Girl Double Exposure Movie Poster",
+      "slug": "instagram-girl-double-exposure-portrait",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "A high-fashion cinematic double-exposure portrait of a beautiful young woman with naturally wavy hair, glowing natural skin, and soft confident expression. The composition features a massive semi-transparent close-up portrait in the background wearing stylish black round sunglasses, softly looking sideways with dramatic golden rim lighting. In the foreground, a full-body pose of the same woman standing confidently on a subtle floating platform, wearing a dusty rose oversized button-down shirt with rolled sleeves, elegant white high-waisted trousers, and clean white sneakers. Moody dark background with warm cinematic orange highlights, floating dust particles, soft smoke atmosphere, ultra-realistic lighting, luxury editorial fashion photography, shallow depth of field, studio-quality sharp details, rich shadows, glowing highlights, Instagram aesthetic, 85mm lens, ultra-detailed 8K, vertical, photorealistic, premium color grading, cinematic composition, high contrast, soft hair movement, elegant and modern fashion magazine style.",
+      "description": "Use this Instagram trending double exposure portrait prompt to create a surreal cinematic image of a girl in a pink shirt layered over a giant sunglasses face.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 44,
+      "view_count": 2860,
+      "copy_count": 2629,
+      "is_premium": false,
+      "published_at": "2026-08-17T21:30:05.361Z",
+      "images": [
+        {
+          "filename": "4e6962ba-bdb3-4dc9-8ade-132969389ecc.webp",
+          "local_path": "images/poster-cover/4e6962ba-bdb3-4dc9-8ade-132969389ecc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4e6962ba-bdb3-4dc9-8ade-132969389ecc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/4e6962ba-bdb3-4dc9-8ade-132969389ecc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/4e6962ba-bdb3-4dc9-8ade-132969389ecc.webp",
+          "width": 1746,
+          "height": 2432,
+          "alt": "Double Exposure Woman Portrait AI Photo Editing Prompt. AI generated surreal portrait of a blonde woman on a platform layered over a giant close-up face with black sunglasses."
+        },
+        {
+          "filename": "26e02def-de5e-46ca-99d0-fd3240777a07.webp",
+          "local_path": "images/poster-cover/26e02def-de5e-46ca-99d0-fd3240777a07.webp",
+          "original_url": "https://img.promptplum.com/promptImages/26e02def-de5e-46ca-99d0-fd3240777a07.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/26e02def-de5e-46ca-99d0-fd3240777a07.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/26e02def-de5e-46ca-99d0-fd3240777a07.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Double Exposure Portrait prompt for Indian girl"
+        },
+        {
+          "filename": "d74d3c47-3e03-41f9-8f52-a13218c9c5ff.webp",
+          "local_path": "images/poster-cover/d74d3c47-3e03-41f9-8f52-a13218c9c5ff.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d74d3c47-3e03-41f9-8f52-a13218c9c5ff.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/d74d3c47-3e03-41f9-8f52-a13218c9c5ff.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/d74d3c47-3e03-41f9-8f52-a13218c9c5ff.webp",
+          "width": 1792,
+          "height": 2390,
+          "alt": "Surreal double exposure AI portrait of blonde woman in pink shirt and sunglasses, giant face background"
+        },
+        {
+          "filename": "e217dbb4-ff9c-4ccf-b963-dc6646b99ed9.webp",
+          "local_path": "images/poster-cover/e217dbb4-ff9c-4ccf-b963-dc6646b99ed9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e217dbb4-ff9c-4ccf-b963-dc6646b99ed9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/e217dbb4-ff9c-4ccf-b963-dc6646b99ed9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/e217dbb4-ff9c-4ccf-b963-dc6646b99ed9.webp",
+          "width": 1600,
+          "height": 2668,
+          "alt": "AI-generated digital illustration of a young woman in a pink shirt and white trousers, layered over a dramatic close-up double-exposure portrait of her face in sunglasses with golden backlighting."
+        }
+      ]
+    },
+    {
+      "id": "6a6fc32b4bbdbe2cf57deeda",
+      "title": "Dramatic Red Character Collage Prompt",
+      "slug": "dramatic-red-character-collage-poster",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a dramatic tribute poster with a bold red monochrome background. ” The background should feature a faint, large close-up of a man’s eyes blended into the red texture for intensity. In the center, design a collage layout with five vertical rectangular panels showing black-and-white portraits of the same stylish man(reference image), in different poses and expressions (serious, smiling, side profile, casual stance). Overlaying the panels in the foreground, place a larger, full-color cutout of the actor pointing confidently toward the viewer. He should have styled hair, a well groomed appearance, and wear a dark brown shirt with a charismatic expression. At the bottom, add a bold handwritten script-style signature text reading “Jhon” in large white brush lettering, Add subtle cinematic lighting, high contrast, sharp details, and a modern fan-made poster aesthetic. The overall mood should be powerful, celebratory, and stylish with a strong red-and-black theme.",
+      "description": "Cinematic Movie Poster AI Prompt: Use this ChatGPT prompt to create an intense character collage of a man pointing against a gritty red background.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 80,
+      "view_count": 3258,
+      "copy_count": 4002,
+      "is_premium": false,
+      "published_at": "2026-08-03T00:00:00.017Z",
+      "images": [
+        {
+          "filename": "43bfec7b-25ab-4886-9bec-5d15ae7ce460.webp",
+          "local_path": "images/poster-cover/43bfec7b-25ab-4886-9bec-5d15ae7ce460.webp",
+          "original_url": "https://img.promptplum.com/promptImages/43bfec7b-25ab-4886-9bec-5d15ae7ce460.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/43bfec7b-25ab-4886-9bec-5d15ae7ce460.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/43bfec7b-25ab-4886-9bec-5d15ae7ce460.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "Dramatic character collage poster ChatGPT AI Prompt. AI generated cinematic poster of a curly-haired young man pointing forward against a dark red background featuring multiple portrait panels and the word Thon."
+        },
+        {
+          "filename": "f95e97b3-b04c-425c-917b-d9c1cbacfde5.webp",
+          "local_path": "images/poster-cover/f95e97b3-b04c-425c-917b-d9c1cbacfde5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f95e97b3-b04c-425c-917b-d9c1cbacfde5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/f95e97b3-b04c-425c-917b-d9c1cbacfde5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/f95e97b3-b04c-425c-917b-d9c1cbacfde5.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "Red Collage Poster ChatGPT AI Photo Editing Prompt. AI generated digital portrait of a man pointing against a red background with multiple poses."
+        }
+      ]
+    },
+    {
+      "id": "6a6e6d2a4bbdbe2cf55b6656",
+      "title": "Quiet Luxury Men's Fashion Magazine",
+      "slug": "mens-fashion-magazine-cover",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "> **Create a hyper-realistic, luxury men's fashion magazine cover portrait of a young man sitting confidently on a studio floor. He is wearing a premium ribbed knit polo shirt in rich chocolate brown and beige color blocks with a short zipper collar, paired with tailored dark brown trousers and elegant suede Chelsea boots in taupe. Add a luxury silver wristwatch. The pose is relaxed and stylish, with one knee raised and one arm resting naturally, making direct eye contact with the camera with a calm, confident expression. Thick, naturally wavy hair, clean skin, sharp facial details, natural proportions, and preserve the uploaded person's facial identity accurately (strong face match).**\n\n> **Background:** seamless warm mocha-brown studio backdrop with a soft gradient, matching wooden floor, clean luxury editorial look.\n\n> **Magazine Design:** Large elegant serif title ** in the background, small heading **\"MEN'S FASHION\"** at the top, multiple text groups on the sides, modern editorial typography, premium fashion magazine layout, minimal text blocks, balanced composition, luxury branding style.\n\n> **Lighting:** soft cinematic studio lighting, large softbox, warm golden highlights, gentle shadows, high dynamic range, realistic skin tones, subtle rim light, premium fashion photography.\n\n> **Camera:** Full-body portrait, eye-level angle, 85mm lens, f/2.0, ultra-sharp focus, shallow depth of field, professional composition.\n\n> **Quality:** ultra-realistic, 8K, HDR, photorealistic, magazine cover quality, luxury editorial, premium color grading, highly detailed fabric texture, realistic skin pores, natural hands, crisp focus, no distortion, no blur, no noise, no watermark, no logo artifacts, masterpiece, best quality.\n\nAspect ratio 3:4\n\n**Negative Prompt:**\n\n> low quality, blurry, cartoon, CGI, painting, bad anatomy, extra fingers, missing fingers, deformed hands, duplicate body parts, distorted face, wrong face, low resolution, overexposed, underexposed, oversaturated, watermark, logo, text errors, cropped body, unnatural pose, plastic skin, noise, artifacts, out of frame.",
+      "description": "Men's Fashion Magazine Prompt: Use this prompt to create a realistic editorial cover featuring a stylish man in autumn knitwear sitting on a wooden floor.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 5,
+      "view_count": 394,
+      "copy_count": 382,
+      "is_premium": false,
+      "published_at": "2026-08-01T23:30:00.011Z",
+      "images": [
+        {
+          "filename": "ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "local_path": "images/poster-cover/ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Men's Fashion Magazine Cover AI Photo Editing Prompt. AI generated studio portrait of a male model in brown knitwear sitting on a wooden floor with a magazine cover layout."
+        },
+        {
+          "filename": "9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "local_path": "images/poster-cover/9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Men's Fashion Magazine Cover AI Photo Editing Prompt"
+        },
+        {
+          "filename": "46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "local_path": "images/poster-cover/46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Magazine Cover Photo AI Prompt. AI generated studio portrait of a young man in brown knitwear and suede Chelsea boots sitting on a wooden floor."
+        }
+      ]
+    },
+    {
+      "id": "6a6e506b4bbdbe2cf559d963",
+      "title": "High-End Men's Fashion Editorial Photography",
+      "slug": "fashion-editorial-magazine-cover",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "> **Create a hyper-realistic luxury fashion portrait of the uploaded person, preserving their exact facial features, hairstyle, skin tone, and identity with a highly accurate face match.** The subject is casually leaning against a glossy black luxury sports car parked in front of a modern five-star hotel entrance with elegant glass architecture and warm golden ambient lighting. The subject wears a premium chocolate-brown suede bomber jacket over a crisp white crew-neck T-shirt, tailored high-waisted beige trousers, clean white luxury leather sneakers, a sophisticated silver wristwatch, and stylish black designer sunglasses. The pose is confident, relaxed, and effortless, with hands in pockets and one leg crossed naturally.\n>\n> The composition is editorial and cinematic with a luxury lifestyle aesthetic. Include soft golden-hour lighting, realistic reflections on the car, shallow depth of field, creamy bokeh, premium color grading, ultra-sharp facial details, realistic fabric textures, natural skin tones, and high-end fashion magazine quality. Place elegant magazine style typography on the left side: Use gold, white, and black typography in a clean editorial layout.\n>\n> **Ultra-realistic, photorealistic, 8K UHD, HDR, DSLR quality, 85mm lens, f/1.8 aperture, cinematic lighting, luxury lifestyle photography, Vogue editorial, premium composition, razor-sharp focus, highly detailed, realistic shadows, natural perspective, masterpiece, award-winning fashion photography, face perfectly matched to the uploaded photo.**\n\n**Negative Prompt:**\n\n> low quality, blurry, cartoon, anime, painting, CGI, overexposed, underexposed, distorted face, bad anatomy, extra fingers, duplicate body parts, watermark, logo, text errors, low resolution, noise, oversaturated colors, unrealistic skin, cropped face, out of frame, artifacts, deformed hands, poor lighting, inaccurate face match.\n\n--- Aspect ratio 3:4",
+      "description": "Men's Fashion Magazine Cover Prompt: Use this premium prompt to create a realistic editorial portrait of a stylish man leaning against a black luxury sports car.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 1290,
+      "copy_count": 6,
+      "is_premium": true,
+      "published_at": "2026-08-01T20:00:43.449Z",
+      "images": [
+        {
+          "filename": "cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "local_path": "images/poster-cover/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "local_path": "images/poster-cover/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "local_path": "images/poster-cover/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "width": 896,
+          "height": 1200,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-1"
+        }
+      ]
+    },
+    {
+      "id": "6a31994761276f872ab36114",
+      "title": "The Golden Football Champion",
+      "slug": "2026-football-championship-poster",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a hyper-realistic 3:4 vertical world football championship 2026 promotional poster using the uploaded image only for face and identity reference. Preserve the person’s facial identity, face shape, hairstyle, beard, skin texture, eyes, and natural expression with high accuracy.\n\nThe subject stands confidently in the center, shown from waist to head, facing the camera with a serious, calm, leadership expression. He wears a premium bright yellow football jersey with realistic fabric texture and a black-and-white captain armband on one arm. Both hands hold a glowing metallic golden football at chest level, with realistic fingers, grip, highlights, and reflections.\n\nBehind him, create a large cinematic double-exposure side-profile portrait of the same person, facing toward the right horizon with a determined and ambitious look. Add huge soft-gold “2026” typography in the background, clean dark black-and-gold poster layout, luxury sports branding style, and a small trophy-inspired icon near the top. Add vertical championship text along the right side and a small bottom slogan: “BELIEVE. CONQUER. LEAD.”\n\nUse golden energy particles, sparks, light streaks, lens glow, and dynamic championship atmosphere around the football and subject. Lighting should be dramatic but clean, with sharp focus on the face, realistic skin detail, natural beard texture, detailed hair, premium retouching, and high-end sports magazine poster quality. Keep the design symmetrical, polished, cinematic, and professional, with a dark black-and-gold background and elite athlete advertising style.",
+      "description": "Cinematic Sports Poster Prompt: Copy & paste this prompt to create an epic 2026 championship poster of a soccer captain holding a glowing golden football.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 1129,
+      "copy_count": 1054,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "local_path": "images/poster-cover/075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "original_url": "https://img.promptplum.com/promptImages/075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/075c4d5b-29f7-41b8-b552-654ce061c070.webp",
+          "width": 896,
+          "height": 1200,
+          "alt": "Soccer Player 2026 Championship Poster AI Photo Editing Prompt. AI generated digital illustration of a soccer captain in a yellow jersey holding a glowing golden ball against a dramatic 2026 background."
+        }
+      ]
+    },
+    {
+      "id": "6a2a61db61276f872a2e2bc8",
+      "title": "Club Football Splash",
+      "slug": "football-player-poster-splatter-art",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference.\nCreate an ultra-realistic, cinematic 8K sports poster featuring a confident football player representing [TEAM_NAME]. The subject stands in a strong, confident pose, centered in the frame, making direct eye contact with the camera. He wears premium team apparel inspired by [TEAM_NAME], crest, and signature design elements.\nDynamic Theme Adaptation:\nReplace all colors with the official colors of [TEAM_NAME].\nReplace background flag, symbols, paint splashes, and visual effects with elements representing [TEAM_NAME].\nReplace the crest, jersey details, typography accents, and football graphics with [TEAM_NAME] branding.\nStadium lighting, crowd atmosphere, and visual energy should match the identity and spirit of [TEAM_NAME].\nComposition: Mid-thigh-up portrait, centered in the frame. Captured from an eye-level camera angle, with the subject fully visible and no head cropping.\nPose & Expression:\nThe subject stands strong upright posture, shoulders squared. Right arm is bent naturally at the elbow, securing a soccer ball against his hip, while the left arm hangs relaxed by his side. Calm, determined, championship-winning expression. Direct eye contact conveying confidence, pride, and leadership(no smile).\nOutfit:\nPremium [TEAM_NAME] Themed Matching Jersey. Official team crest on the chest, sponsor-free design, realistic fabric textures, embroidered details, and authentic sportswear styling.\nBackground:\nMassive distressed typography displaying \"[TEAM_NAME]\" across the upper background. Behind the subject, a large dynamic flag representing [TEAM_NAME] emerges through explosive paint splashes, smoke effects, energy streaks, and flying particles. A packed stadium with dramatic floodlights fills the lower background.\nEffects:\nHigh-energy sports-poster aesthetic, paint splatter textures, dynamic brush strokes, glowing stadium lights, cinematic smoke, floating particles, dramatic contrast, premium advertising campaign quality.\nTypography:\nLarge distressed \"[TEAM_NAME]\" title at the top.\nLighting:\nDramatic stadium floodlights, cinematic rim lighting, volumetric atmosphere, warm highlights, deep shadows, high contrast sports-advertisement lighting.\nTechnical Details:\nUltra-realistic, hyper-detailed skin texture, sharp facial features, HDR, professional sports campaign photography, 85mm lens, shallow depth of field, cinematic color grading, poster-quality composition, premium FIFA-style promotional artwork, 8K resolution.\nAspect ratio 4:5.",
+      "description": "Cinematic Sports Poster Prompt: Copy & Paste this prompt to create a hyper-realistic poster art of a football player with dynamic splatter art in a stadium.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 38,
+      "view_count": 1662,
+      "copy_count": 1019,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "local_path": "images/poster-cover/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Real Madrid Splash Art AI Photo Editing Prompt. AI generated digital portrait of Bellingham holding a ball in a stadium with blue and gold paint splashes."
+        },
+        {
+          "filename": "cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "local_path": "images/poster-cover/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Manchester United Player Splash Art AI Photo Editing Prompt. AI generated digital illustration of a clean-shaven man in a red Manchester United jersey holding a football, set against a stadium backdrop with dynamic ink splashes and waving team flags."
+        },
+        {
+          "filename": "e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "local_path": "images/poster-cover/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dynamic Football Player Stadium Splash Art AI Photo Editing Prompt. AI generated digital illustration of a player in a blue Paris Saint-Germain kit holding a football, surrounded by dynamic red and white paint splashes against a stadium background."
+        },
+        {
+          "filename": "b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "local_path": "images/poster-cover/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI-generated sports portrait of a male soccer player in a Juventus kit holding a football in a crowded stadium with dramatic ink splashes and an Italian flag under a large \"JUVENTUS\" title."
+        },
+        {
+          "filename": "e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "local_path": "images/poster-cover/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital illustration of a bearded player in a Bayern Munich kit holding a soccer ball in a packed stadium against a red paint splash background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f2",
+      "title": "Modern Utility",
+      "slug": "male-fashion-magazine-graphic-art",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a premium high-fashion workwear magazine cover in a vertical 4:5 editorial poster format.\nA stylish male subject walks confidently toward the camera in a full-body runway-style pose, centered in the frame. His body is slightly in motion, one foot stepping forward, right hand casually inside the trouser pocket, left hand relaxed beside the body. His expression is calm, serious, and fashion-editorial. He wears narrow black sunglasses, slightly tousled dark hair, and a subtle layered silver chain necklace.\n\nOutfit\nOversized dark charcoal / black workwear jacket, worn open\nClean white crewneck sweatshirt with a small square heritage-style logo patch on the left chest\nLoose dark charcoal wide-leg pleated trousers with natural drape and folds\nChunky polished black leather shoes\nOverall styling should feel minimal, utilitarian, premium, and street-luxury\n\nScene & Lighting\nSet the subject in a dark grey studio environment with a smooth seamless backdrop and slightly reflective floor. Use soft directional studio lighting from the front-left, creating realistic shadows on the floor and adding depth to the clothing. The image should have a muted monochrome palette with crisp contrast, clean skin tones, and high-end fashion campaign quality.\n\nComposition\nFull-body framing, subject vertically centered\nSlightly low, straight-on editorial camera angle\nSubject overlaps the background typography naturally\nClean negative space around the upper and side areas for text\nPremium magazine-cover balance and hierarchy\n\nTypography & Graphic Layout\nDesign the image like a bold fashion magazine poster cover:\nAt the very top, oversized bold white text: “WIP”\nSmall condensed white text at the top-right: “HOMME”\nBehind the subject, huge dark semi-transparent text spanning the width: “CARHARTT”\nOn the right-middle side, large bold white number: “01”\nOn the lower-left side, four small editorial text blocks with bold headings and short subtext, laid out like magazine cover blurbs\nBottom-right corner, very large condensed white headline: “FASHION”\n\nVisual Style\nUltra-realistic fashion editorial photography, luxury streetwear campaign, magazine-cover graphic design, crisp fabric details, natural garment folds, sharp typography integration, professional studio shadows, premium workwear aesthetic, clean commercial retouching, high contrast, sophisticated and modern.",
+      "description": "Male Fashion Magazine Cover Art Prompt: Use this prompt to generate professional high-end editorial covers featuring a stylish man in premium charcoal streetwear with bold typography and a minimalist studio aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 67,
+      "view_count": 2102,
+      "copy_count": 5991,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "local_path": "images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Male Fashion Magazine Cover AI Photo Editing Prompt. AI generated digital graphic art of a male model wearing charcoal workwear and sunglasses in a high-fashion magazine layout."
+        },
+        {
+          "filename": "male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "local_path": "images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Modern Male Workwear Magazine Cover AI Photo Editing Prompt. AI generated digital fashion magazine cover featuring a man in a black chore jacket and white t-shirt walking on a studio runway."
+        },
+        {
+          "filename": "male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "local_path": "images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital fashion magazine cover of a man wearing a charcoal utility jacket and sunglasses walking forward in a professional studio setting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704d4",
+      "title": "Soul of the Katana",
+      "slug": "muscular-samurai-warrior-digital-art",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Ultra-realistic cinematic portrait of a battle-hardened samurai warrior standing in a powerful, grounded stance. He is shirtless, muscular, and heavily tattooed, with scars and blood marks across his body, conveying intensity and resilience. His head is slightly bowed, eyes downcast, giving a focused, meditative, warrior mindset.\nHe wears dark, tattered traditional samurai hakama pants with cloth wraps around his forearms. Multiple sheathed katana swords are strapped around his waist. He holds one drawn katana in each of his cloth-wrapped hands, which are poised in a confident and powerful dual-wielding stance. His hands firmly grip the hilt (tsuka) of each sword, and the two bared blades are crossed horizontally-downward at his hips.\nThe background is minimalist with a large, bold Japanese ink brush circle (enso) behind him, with splattered ink textures spreading outward. Subtle Japanese calligraphy is placed vertically on the side.\nLighting is dramatic and soft, with high contrast, emphasizing muscle definition and texture. Dust, smoke, ink particles, and grunge effects surround the lower frame, adding motion and atmosphere. Style: hyper-detailed, ultra-realistic, cinematic, 8K, sharp focus, high dynamic range, dramatic composition, moody tones, Japanese aesthetic, samurai warrior concept art.",
+      "description": "Cinematic Samurai Art Prompt: Copy & Paste this prompt to create a gritty illustration of a tattooed samurai with dual katanas. It generates a powerful, battle-worn warrior against a dramatic ink-wash background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 66,
+      "view_count": 1138,
+      "copy_count": 2340,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "muscular-scarred-samurai-holding-two-katanas-digital-art-by-promptplum.webp",
+          "local_path": "images/poster-cover/muscular-scarred-samurai-holding-two-katanas-digital-art-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/muscular-scarred-samurai-holding-two-katanas-digital-art-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/muscular-scarred-samurai-holding-two-katanas-digital-art-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/muscular-scarred-samurai-holding-two-katanas-digital-art-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Battle-Scarred Tattooed Samurai AI Photo Editing Prompt. AI generated cinematic digital illustration of a muscular, shirtless warrior with battle scars and tattoos holding crossed katanas against a background of smoke and a black ink Enso circle."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670453",
+      "title": "Self-Made",
+      "slug": "male-model-navy-suit-magazine-cover",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a hyper-realistic, high-end fashion editorial portrait of a stylish young male model styled like a luxury magazine cover.\nUse the uploaded image as a strict identity reference. The subject’s facial structure, proportions, skin tone, hairstyle, and natural features must remain 100% identical. No beautification, no stylization, no identity drift.\nFace Matching & Identity Accuracy\nPreserve exact:\n\nJawline structure and sharpness\nNatural skin texture with visible pores (no plastic smoothing)\nEye shape, spacing, and gaze direction\nNose proportions and facial symmetry\nHair: soft, slightly tousled, natural volume with realistic texture (not overly styled)\nExpression remains:\n\nCalm, confident, contemplative\nNeutral lips, subtle intensity\nEyes looking off-camera to the right\nPose & Body Language (VERY IMPORTANT — match precisely)\nStanding upright, close to a wall\nBody slightly angled to the left (~10–15°)\nHead turned to the right (~40–45°), forming a clean three-quarter profile\nChin slightly lifted for a sharp editorial jawline\nHands detail (critical):\n\nBoth hands positioned at the lower front of the jacket\nFingers gently holding and adjusting the middle button area\nGesture is natural, not posed — looks like mid-adjustment\nElbows slightly bent, relaxed but structured\nOverall posture:\n\nClean, controlled, editorial stance\nNo exaggerated posing — minimal, refined movement\nOutfit & Styling (Refined, Not Overly Rich)\nSuit: dark navy blue (#151821), muted and matte, not overly glossy or saturated\nFabric: modern, smooth, slightly soft texture (not heavy luxury shine)\nFit: slim, modern tailoring with clean structure\nShirt: crisp white, structured collar\nTie: deep dark forest green, low brightness, slightly desaturated, almost blending into the suit tone\nWatch: silver stainless steel with dark dial, minimal and elegant\n👉 Key note:\nOverall palette is controlled, and editorial.\nComposition & Framing\nVartical (4:5 aspect ratio)\nMedium portrait (mid-torso up)\nSubject centered\nOccupies ~60–70% of frame height\nHead and shoulders overlapping background typography (important layering effect)\nBackground & Typography (Critical Fix)\nSmooth Gray gradient studio backdrop\nLarge serif typography “MADE” behind subject\nTypography styling:\n\nColor: White\nElegant, high-fashion serif font\nWide letter spacing\nSubject partially covers letters → creates depth like a magazine cover\nDepth & Spatial Detail\nSubject positioned very close to background\nMinimal depth separation\nClean editorial flatness with subtle realism\nLighting Setup\nSoft, diffused professional studio lighting\nKey light:\n\nFront-right (his left), 45° angle\nSoft highlights on face and suit\nFill light:\n\nGentle front-left fill to retain facial detail\nShadow behavior:\n\nSoft shadow cast on wall (viewer’s left side)\nShadow follows head + shoulder silhouette naturally\nNo harsh contrast, no dramatic lighting — keep it refined and editorial\nCamera & Image Quality\n85mm portrait lens\nEye-level camera\nAperture: f/2.8\nSharp subject, slightly softened background\nUltra-high resolution (8K)\nHyper-realistic detail\nNatural skin texture\nCrisp fabric rendering\nPremium fashion editorial color grading (muted, controlled tones)\nStyle Keywords\nhigh-end fashion editorial, luxury magazine cover, minimalist styling, muted color palette, modern tailoring, clean composition, refined masculinity, soft studio lighting, premium realism",
+      "description": "Google Gemini AI Prompt to generate a professional magazine-style fashion portrait of a stylish young man in a tailored navy blue suit and green tie against a minimalist studio background with \"MADE\" typography.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 709,
+      "copy_count": 1047,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "local_path": "images/poster-cover/young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Fashion Photography Prompt. AI generated studio portrait of a young man in a dark navy suit and green tie adjusting his jacket button against a gray background with \"MADE\" text."
+        },
+        {
+          "filename": "young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "local_path": "images/poster-cover/young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Young Man in Navy Suit AI Photo Editing Prompt. AI generated studio portrait of a sharp-featured young man in a navy blue suit and dark green tie adjusting his jacket against a grey background with \"MADE\" typography."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267043b",
+      "title": "Power & Patience",
+      "slug": "man-suit-motivational-poster",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create an ultra-realistic, high-fashion editorial portrait in the style of a luxury menswear magazine cover. The subject is the man in image_0.png, with his exact features and likeness preserved. He is centered in the frame, wearing a sophisticated, highly textured charcoal grey suit jacket, a crisp white dress shirt, and a black silk tie. He is facing the camera, slightly in a three-quarter profile, looking directly into the lens with a serious, intense, and confident expression. One hand (his left) is actively adjusting the cuff of his right sleeve, conveying a dominant, composed posture. The portrait is illuminated by dramatic, low-key (chiaroscuro) studio lighting, creating strong contrasts between light and shadow that emphasize the fine texture of the suit fabric and the strong lines of his facial structure. The background is a minimalist, dark charcoal grey, maintaining a clean editorial aesthetic. The composition is designed specifically as a premium magazine cover layout.\nLayout and Typography Elements:\n\nMasthead: Across the top third of the image, the word \"ACHIEVE\" appears in white or off-white in a very large, bold, modern sans-serif typeface, with the man's head slightly obscuring the lower parts of the letters.\nLeft Side List: On the middle-left side of the cover, a vertical list is rendered in elegant, small, gold typography: PLAN, PRACTICE, PATIENCE, AND BELIEVE.\nBottom Left Corner: In the very bottom-left corner, a small, subtle vertical text block reads: PROMPT PLUM.\nTechnical Specifications:\n\nStyle: Editorial Magazine Photography, Cinematic, Dramatic Lighting.\nLens: 85mm (shallow depth of field).\nDetails: High contrast, extremely detailed textures (fabric weave, skin), sharp focus.\nResolution: 8K.\nFormat: Vertical magazine cover aspect ratio (4:5).",
+      "description": "AI Magazine Photo Editing Prompt: Use this Prompt to create a professional studio photograph of a sharp-dressed man in a grey suit adjusting his cufflinks, with a bold text \"ACHIEVE\" and a golden values list on a dark background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 787,
+      "copy_count": 1384,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-suit-adjusting-cuff-with-motivational-text-portrait-by-promptplum.webp",
+          "local_path": "images/poster-cover/man-in-suit-adjusting-cuff-with-motivational-text-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-suit-adjusting-cuff-with-motivational-text-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/man-in-suit-adjusting-cuff-with-motivational-text-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/man-in-suit-adjusting-cuff-with-motivational-text-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Grey Suit Magazine Poster Editing Prompt. AI generated studio portrait of a man in a formal grey suit adjusting his cuff with the word \"ACHIEVE\" and motivational text."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670433",
+      "title": "Umber & Onyx",
+      "slug": "mens-brown-suit-fashion-magazine",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a full-body cinematic studio portrait of a stylish man with a refined, confident aura. Use the attached reference image for precise facial identity matching. Preserve the exact facial structure and likeness, including the same jawline definition, cheekbone structure, eyebrow shape, nose proportions, lip shape, beard density (if present), haircut length and styling, and natural skin tone. He is wearing a tailored, slim-fit chocolate-brown two-piece buttoned suit over a black ribbed turtleneck sweater, accented by a crisp white pocket square. Black belt. A delicate gold curb chain necklace rests over the turtleneck, complemented by rimless gold-framed spectacles and a luxury gold wristwatch with a leather strap. He is shod in highly polished, mirror-finish black patent leather oxfords with black socks.\n\nPose & Expression: He stands in a relaxed yet commanding \"power lean\" with his legs crossed at the ankles. One hand is tucked into his trouser pocket, while the other lightly adjusts the lapel of his blazer. His expression is calm and stoic, with a sharp jawline, looking off-camera to the right in a contemplative profile view.\nComposition & Camera Angle: A full-body vertical composition shot at eye-level. The subject is centred, creating a strong vertical line against the minimalist backdrop.\nBackground: A smooth, seamless, dark grey matte studio backdrop, infinity curve, zero texture, no visible corners, with a subtle vignette effect to draw focus toward the subject. The floor is a matching dark grey, creating a \"limitless\" void effect.\nIn the upper frame, behind the subject, place a very large white coloured text \"MAGAZINE\". The typography features a bold, high-contrast serif font that is vertically elongated by 20-30% to create a sleek, compressed editorial aesthetic.\nLighting: Professional three-point studio lighting. A soft key light from the upper left creates gentle highlights on his face and the texture of the suit fabric, while a subtle rim light separates his silhouette from the dark background. Soft, diffused shadows emphasize the tailoring of the clothes.\nTechnical Details: Photorealistic, 8k resolution, shot on a Sony A7R IV with an 85mm f/1.8 lens for sharp focus and compression. Visible fabric textures (wool blend of the suit, fine knit of the turtleneck), realistic skin pores, and crisp reflections on the glasses and shoes. Aspect ratio 4:5.",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a sophisticated fashion magazine cover featuring a stylish man in a tailored brown suit and black turtleneck against a minimalist grey studio backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 517,
+      "copy_count": 733,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "local_path": "images/poster-cover/Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Brown Suit Magazine Style Photo Editing Prompt. AI generated studio portrait of a young man wearing a brown suit and black turtleneck posing against a dark grey background with \"MAGAZINE\" text."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267042b",
+      "title": "Women’s Empowerment",
+      "slug": "international-womens-day-march-8-poster",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a high-end promotional poster for International Women’s Day, designed like a luxury editorial campaign combining professional studio photography with modern graphic design. Strictly use the uploaded reference image for strong face and identity matching, preserving the exact facial structure, proportions, skin tone, hairstyle, and natural expression so the subject remains clearly recognizable.\nComposition & Framing\nThe subject occupies 30-40% space of the frame.\nVertical 4:5 poster composition with a carefully balanced editorial layout.\nThe subject is positioned slightly left of center, leaving visual space on the right for the large symbolic element and maintaining strong poster balance.\nThe camera captures a three-quarter seated portrait (mid-thigh framing) rather than a full-body shot, ensuring the subject remains the primary focus while still showing the relaxed seated posture.\nThe subject sits comfortably in a modern plush red velvet armchair, angled slightly toward the camera.\n\nPose Details\nThe pose is relaxed, confident, and natural:\n• The subject sits upright but comfortably\n\n• Her back rests gently against the chair\n\n• Right leg crosses over the left leg in a natural seated posture\n\n• Her hands rest softly on her knee, fingers relaxed and elegant\n\n• Shoulders relaxed with a confident posture\nHer head is slightly tilted toward the camera, with a warm, natural smile that conveys confidence, inspiration, and positivity.\nSubject Appearance\nA confident woman with natural wavy hair cascading over one shoulder.\nHair has soft studio shine and natural movement.\nShe wears a minimalist elegant white pantsuit:\n• tailored white blazer\n\n• matching white trousers\n\n• clean white blouse underneath\nThe white suit creates strong visual contrast against the red environment, emphasizing empowerment and elegance.\nChair Placement\nThe red velvet armchair sits slightly angled toward camera left, with visible soft velvet texture and rounded armrests.\nThe chair color blends harmoniously with the red background while still remaining distinct through lighting and fabric texture.\nBackground & Symbolic Element\nBehind the chair, slightly to the right side of the frame, stands a large transparent acrylic/glass sculpture shaped like the number “8”, symbolizing March 8th.\nThe number 8 is nearly as tall as the seated subject, acting as a major graphic element.\nThe structure has clear reflective edges and soft studio reflections.\nIt is decorated with lush flowers arranged organically along the curves:\n• deep red roses\n\n• soft pink peonies\n\n• delicate light pink blossoms\n\n• natural green leaves\nThe flowers cluster mainly along the middle and lower curves of the number 8, creating a natural decorative composition.\nBackground Environment\nA rich monochromatic red studio environment.\nThe wall and floor blend seamlessly into a smooth red gradient, creating a modern luxury editorial backdrop.\nThe floor subtly reflects light, helping anchor the chair and subject.\nTypography Layout\nElegant modern poster typography integrated into the composition.\n\nTop Left Statement\nClean uppercase white text aligned left:\n“SHE IS STRENGTH,\n\nCOURAGE, AND\n\nINSPIRATION\n\nEVERY DAY”\nMinimalist sans-serif font.\nLower Headline Section\nAbove the main title:\n“HAPPY INTERNATIONAL WOMEN’S DAY”\nSmall uppercase typography.\nMain Title\n“WOMAN”\nVery large bold white block letters, spanning across the lower portion of the poster.\nOverlaying this headline is a stylized red handwritten script “Woman”, diagonally crossing the block typography for a modern graphic effect.\nBottom Text\nCentered minimalist text:\n“08 . MARCH”\nWide letter spacing with elegant simplicity.\nLighting\nProfessional studio lighting setup.\n• soft frontal key light for smooth skin tones\n\n• gentle side fill light to avoid harsh shadows\n\n• subtle rim light outlining the subject and chair\nThe glass number 8 catches highlights along its edges, emphasizing transparency.\nVisual Effects\nAdd subtle cinematic prism lens flares / rainbow light leaks appearing in the corners and lower foreground of the poster.\nThese soft rainbow reflections enhance the editorial luxury aesthetic.\nTextures & Detail\nHighly detailed materials:\n• velvet fabric of the red armchair\n\n• reflective transparent glass of the number 8\n\n• soft natural petals and leaves of the flowers\n\n• smooth tailored texture of the white suit\nDepth of Field\nThe subject and the floral number 8 are sharp and detailed, while the red studio background fades into a soft gradient blur, creating subtle depth.\nStyle & Rendering\nLuxury advertising poster aesthetic.\nPhotorealistic studio photography combined with high-end digital compositing and graphic design.\nVibrant cinematic color grading, polished editorial finish.\n8K ultra-high resolution, professional poster design, vertical 4:5 aspect ratio.\nNo repeated titles.",
+      "description": "Google Gemini AI Graphic Design Editing Prompt: Use this prompt to generate a sophisticated International Women's Day poster featuring a professional woman in a white suit seated beside a floral glass \"8\" on a bold red background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 56,
+      "view_count": 738,
+      "copy_count": 1267,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-in-white-suit-international-womens-day-poster-by-promptplum.webp",
+          "local_path": "images/poster-cover/woman-in-white-suit-international-womens-day-poster-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-in-white-suit-international-womens-day-poster-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/woman-in-white-suit-international-womens-day-poster-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/woman-in-white-suit-international-womens-day-poster-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini said International Women's Day Poster AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a white suit sitting in a red armchair next to a large glass number eight decorated with pink and red flowers."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267042a",
+      "title": "Women's Day Power",
+      "slug": "womens-day-girl-power-poster",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a high-quality International Women’s Day promotional poster combining professional studio photography with modern graphic design. The final result should look like a polished social media banner or campaign poster with a clean, empowering aesthetic.\nAspect Ratio: 4:5 vertical\nResolution: ultra-high detail, professional commercial design quality.\nIdentity & Face Matching (Important)\nUse the uploaded reference image as the primary source of identity.\nPreserve the subject’s identity with strong facial accuracy:\nDo not change the face, beautify excessively, or replace it with a generic model.\n\nThe generated image must clearly resemble the same person from the reference photo.\nSubject & Pose\nA confident woman stands centered in the frame.\nExpression: calm, confident, empowered expression while looking directly into the camera.\nPose: classic power pose with both hands placed firmly on her hips, shoulders back and posture strong, conveying leadership and confidence.\nHair: natural-length wavy hair with natural volume.\nWardrobe\nModern professional monochromatic outfit:\n\nlavender tailored blazer worn open\ndark plum / burgundy silk camisole underneath\nmatching lavender trousers forming a coordinated suit\ndelicate thin gold necklace around the neck\nThe outfit should look clean, elegant, and corporate-professional.\nGraphic Elements & Typography\nTop Text\n\n\"GIRL POWER\" written in bold uppercase dark-purple sans-serif typography, arranged in a gentle arched shape above the subject’s head.\nNeon Strength Illustration\n\nBehind the subject’s shoulders appear two glowing neon-style flexed biceps outlines (white / soft purple glow).\n\nThey are symmetrical and positioned so they look like powerful arms emerging behind her.\nBanner Text\n\nAt the bottom of the poster place a white ribbon-style banner with dark purple outline.\nInside the ribbon:\nWOMEN’S DAY\n\nbold uppercase clean typography\ncentered within the ribbon\nBelow the ribbon write:\n08ᵀᴴ MARCH\nwith the “TH” in superscript and clean modern lettering.\nBackground Design\nSolid light lavender background with subtle decorative elements:\n\nthin-line floral illustrations (leaves and petals)\nslightly darker purple outlines\nplaced lightly in the corners and edges to add texture without distracting from the subject.\nLighting & Visual Style\nProfessional studio lighting:\n\nsoft diffused light on the face\ngentle shadows for depth\nvisible catchlight in the eyes\nsubtle glow halo around the subject to separate her from the background\nColor Palette\nMonochromatic purple palette using multiple tones:\n\npale lavender\nlilac\norchid\ndeep plum / dark purple\nThe palette should feel clean, modern, and consistent with International Women’s Day branding (justice, dignity, empowerment).\nComposition\nHighly symmetrical layout:\n\nsubject centered\nneon arms balanced on both sides\ntop text arched above\nribbon banner centered below\nfloral decorations evenly distributed\nStyle\nModern social media campaign poster, clean graphic design, professional commercial photography, subtle glow effects, empowering aesthetic.",
+      "description": "Google Gemini AI Poster Graphic Editing Prompt: Use this prompt to create an empowering International Women's Day poster featuring a confident woman in a purple suit, stylized neon muscle icons, and bold \"Girl Power\" typography on a soft floral background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 540,
+      "copy_count": 745,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-3.webp",
+          "local_path": "images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Girl Power Women's Day Poster AI Photo Editing Prompt. AI generated digital illustration poster of a woman in a purple suit standing confidently with neon flexing arm graphics and Women's Day text."
+        },
+        {
+          "filename": "Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-1.webp",
+          "local_path": "images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Women's Day Girl Power Poster AI Prompt. AI generated digital illustration of a confident woman in a purple suit with neon flexed arm outlines and International Women's Day text."
+        },
+        {
+          "filename": "Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-2.webp",
+          "local_path": "images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Womens-Day-Girl-Power-Purple-Suit-Poster-Image-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Women's Day Purple Suit Poster AI Photo Editing Prompt. AI generated digital illustration of a confident older woman in a lavender suit with neon flexed muscle outlines and \"GIRL POWER\" text for International Women's Day."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703e8",
+      "title": "Belief in Focus",
+      "slug": "if-you-think-you-can-do-it-poster",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "**\"Based on the reference image, a hyper-realistic monochrome editorial poster with a precise 50/50 central vertical split.\nRIGHT HALF: A photorealistic black-and-white portrait of the subject, cropped exactly down the center line, facing forward with a calm, confident gaze directly into the lens. Extreme focus on macro-level epidermal texture: visible pores, natural beard density showing individual hairs, and naturally styled textured hair. Wearing a matte black crew-neck tee. Soft, frontal studio lighting emphasizing skin texture without harsh shadows. Ultra-sharp eye detail with distinct iris patterns and catchlights.\nLEFT HALF: Pure white background featuring bold, heavy-weight, modern sans-serif typography stacked vertically: 'IF\\nYOU\\nTHINK\\nYOU CAN\\nDO IT\\nYOU\\nCAN'.\nCRITICAL DETAIL (TYPOGRAPHY MASKING): The letters act as cut-out windows revealing faded, anatomically correct grayscale fragments of the subject's missing left face inside them, showing continuous skin and beard texture across the split. 8K resolution, 4:5 aspect ratio, flawless editorial finish.\"**",
+      "description": "Google Gemini AI Typography Portrait Editing Prompt: Create a striking black-and-white motivational poster featuring a split-face design. This prompt generates a high-contrast close-up portrait merged with bold, impactful text for a professional and cinematic aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 57,
+      "view_count": 913,
+      "copy_count": 1541,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "split-face-motivational-typography-poster-by-promptplum2.webp",
+          "local_path": "images/poster-cover/split-face-motivational-typography-poster-by-promptplum2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/split-face-motivational-typography-poster-by-promptplum2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/split-face-motivational-typography-poster-by-promptplum2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/split-face-motivational-typography-poster-by-promptplum2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Split Face Motivational Typography AI Photo Editing Prompt. AI generated digital portrait of a man's face split with bold uppercase text reading \"IF YOU THINK YOU CAN DO IT YOU CAN\" in a black and white aesthetic."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670375",
+      "title": "White on White",
+      "slug": "white-on-white",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a high-fashion Vogue magazine editorial cover on a clean white studio background. Use the uploaded image as a facial reference only — preserve the subject’s exact identity, facial structure, proportions, skin tone, eyes, nose, lips, jawline, and natural expression.\n\n❌ No beautification, no face reshaping, no age change.\nThe subject is a person of any gender or age, posed in a classic Vogue editorial stance, facing the camera with a calm, confident, neutral expression. One hand is raised gracefully, fingers softly touching the side of the face near the cheek and temple, partially framing the face. The other arm crosses naturally across the body for a balanced, elegant silhouette.\nThey are wearing a feminine white blouse or refined white top with subtle texture and soft volume, conveying luxury minimalism. A sleek metallic wristwatch is clearly visible on the raised wrist, elegant and understated. Small refined earrings may be present.\nThe subject wears thin metal-frame fashion sunglasses or eyeglasses with clear or lightly tinted lenses, featuring subtle realistic reflections while keeping the eyes visible.\nHair is styled neatly (pulled back or cleanly arranged), and makeup is natural Vogue editorial beauty with a slight glossy, radiant skin finish — soft highlights on cheekbones and lips, realistic skin texture (no plastic or over-smooth look).\nLighting is soft, high-key studio lighting with even illumination, minimal shadows, and a modern luxury mood.\n\nLarge black serif “VOGUE” typography appears at the top, partially behind the head for an authentic magazine cover layout.\nUltra-realistic fashion photography, premium editorial quality, sharp focus, high detail.\nAspect ratio: 4:5",
+      "description": "Create professional editorial photography with this AI prompt. Generate a hyper-realistic Vogue magazine cover featuring a female model in a minimalist white outfit with glasses. Copy the prompt to achieve sharp details and perfect skin texture.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 41,
+      "view_count": 964,
+      "copy_count": 2020,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_pb7negpb7negpb7n.jpg",
+          "local_path": "images/poster-cover/Gemini_Generated_Image_pb7negpb7negpb7n.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_pb7negpb7negpb7n.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Gemini_Generated_Image_pb7negpb7negpb7n.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Gemini_Generated_Image_pb7negpb7negpb7n.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated: A stylish woman in glasses and a white blouse poses for a Vogue cover."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670324",
+      "title": "Controlled Burn",
+      "slug": "controlled-burn",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create an ultra-high-resolution vertical portrait (aspect ratio 4:5) with a gritty urban, hip-hop album cover aesthetic, using the attached image as the absolute visual and identity reference.\nSTRICT FACE MATCH (CRITICAL)\nThe central subject’s face must match the reference image exactly.\n\nDo not change facial structure, skin tone, jawline, nose, lips, tattoos, or proportions.\n\nIdentity lock must be 100% preserved across foreground and background images.\nComposition & Camera\nEye-level framing\n\nCenter-aligned subject\nEntire background fully black-and-white only (no color anywhere behind the subject)\n\nStrong depth separation between subject and background collage\nCentral Subject (Pose & Action – VERY IMPORTANT)\nA young man stands facing the camera with a calm, serious, stoic expression.\nHand Pose (Exact):\nBoth hands are held close to each other at chest height, side-by-side and slightly cupped, not stacked or overlapping, with a small natural gap between them. Fingers relaxed and symmetrical.\n\nHands remain separate with a small natural gap between them\n\nFingers relaxed and symmetrical\n\nA small flame is burning naturally ABOVE and BETWEEN his palms, as if self-ignited\n\nNo lighter, no match, no object — the fire appears to exist on its own\n\nFlame is vertical, soft, organic, not explosive\n🔥 Lighting\nThere is NO white light, NO neutral light, NO studio light, NO sunlight present anywhere in the scene\nThe flame in the hands is the ONLY illumination source\nFire light characteristics:\nWarm orange–amber tone\n\nNatural falloff\n\nSoft but focused intensity\n\nRealistic fire glow, not exaggerated\nFire light falls perfectly and naturally on:\nInner palms and fingertips (brightest point)\n\nFront of the leather jacket (center chest and folds)\n\nJacket collar edges closest to the flame\n\nSilver chains and bracelets (warm metallic reflections)\n\nLower face, lips, chin, jawline, and neck tattoos\nFace lighting behavior:\nWarm fire glow rises upward from the hands\n\nLight softly wraps the lower half of the face\n\nNo cool highlights on cheeks or nose\n\nNo white specular highlights on skin\nUpper face remains dark because:\nBucket hat brim blocks upward light\n\nSunglasses absorb and kill reflections\nNo part of the face or jacket is lit by white or neutral light\n\nAll highlights are fire-colored only\nShadow & Darkness Behavior\nThe environment is dark and enclosed\n\nNatural black shadow surrounds the subject on all sides\n\nEdges and corners of the frame fall into deep shadow\nShadows are:\nSoft\n\nGradual\n\nOrganic\n\nNot studio-shaped\nBackground photos remain unaffected by fire light\n\nNo spill, no glow, no bounce onto background\nContrast:\nMedium–high\n\nDark shadows preserved\n\nNo HDR look\nLeather jacket:\nHeavy\n\nThick\n\nVintage\n\nMatte, non-reflective\n\nSlightly distressed texture\nSkin texture:\nNatural pores visible\n\nNo smoothing\n\nWarmth strictly from fire glow\nWardrobe & Accessories\nDark olive / brown bucket hat pulled low\n\nDark wrap-around sunglasses\n\nThick silver Cuban-link chain + thinner chain beneath\n\nSilver bracelets on both wrists\n\nOversized brown leather bomber jacket\n\nBlack inner layer visible\n\nDetailed tattoos visible on neck and hands\nBackground (Very Important Detail)\nRough concrete / graffiti-style wall texture\n\nCovered with chaotically arranged pure black-and-white photo prints\n\nPhotos appear taped with white masking tape\n\nAngles are uneven and slightly overlapping\nBackground Photos (Same Person – Face Match Required):\nSame man in every photo\nSome images:\nWearing black balaclava (eyes visible only)\n\nCircular pendant necklace visible in masked shots\nMany poses include:\nHand partially covering mouth\n\nTattoos on fingers and hand clearly visible\nOutfit variations:\nBlack hoodie\n\nBlack leather jacket\nAll background images are:\nHigh-contrast\n\nStrictly monochrome (black-and-white only)\n\nStudio-style portraits\nMood & Theme\nIntense\n\nMysterious\n\nPowerful\n\nStreet-inspired\nThemes of:\n\nIdentity\n\nAnonymity\n\nControl\n\nInner fire\n\nSelf-made power\nQuality & Finish\nPhotorealistic textures\n\nCinematic contrast\n\nEditorial / album-cover level finish\n\nSharp foreground focus, slightly flattened background collage\nNo props\n\nNo text\n\nNo logos\n🔒 Absolute Lighting Constraints\nNo white light\n\nNo neutral light\n\nNo sunlight\n\nNo studio softbox\n\nNo rim light\n\nNo backlight\n\nNo HDR glow\n\nNo color cast other than fire",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 702,
+      "copy_count": 793,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "local_path": "images/poster-cover/Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: a striking, cinematic portrait of a young man holding a small, controlled flame in his cupped hands. He is dressed in an edgy, streetwear-inspired ensemble consisting of a distressed brown leather bomber jacket, a dark olive bucket hat, and dark sunglasses, accessorized with layered silver Cuban link chains and visible neck tattoos. The background is a textured gray concrete wall plastered with various black-and-white photographs taped up haphazardly; these photos depict other male figures, some wearing balaclavas or ski masks, contributing to a gritty, underground atmosphere. The lighting is dramatic, centering on the warm glow of the fire in his palms, which contrasts sharply with the cool, muted tones of the industrial setting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267031b",
+      "title": "Strategic Vision",
+      "slug": "strategic-vision",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Using the uploaded reference image of the same young man, preserve 100% exact facial identity. Do not alter face shape, skin tone, facial structure, hairstyle, beard density, or identity in any way.\nCreate a high-contrast, editorial-style portrait poster with a modern, edgy, motivational design.\nSubject & Framing\n\nA young man is centered in the frame, facing straight toward the camera with direct eye contact. Expression is serious, calm, focused, and neutral. The portrait is tightly framed (head and upper shoulders only) for strong visual impact. Facial structure is sharp and well-defined. Hair is thick, dark, naturally textured, styled high on top with a slightly messy but intentional look.\nStyling\n\nHe wears thin, minimal eyeglasses with metallic or semi-transparent frames, slightly rounded at the bottom for a modern, intellectual feel. Outfit includes a black leather (or faux leather) jacket with a visible collar over a dark crew-neck t-shirt. A thin silver chain necklace is subtly visible.\nLighting (Asymmetric Editorial Lighting)\n\nDirectional studio lighting with intentional imbalance: the right side of the face is brighter, softly illuminated with clean highlights, while the left side falls into deeper shadow, creating a dramatic, sculpted editorial look. Subtle shadows appear under the nose and lower lip. Smooth tonal transitions, no harsh spill, magazine-quality lighting.\nColor Treatment\n\nEntire image is monochrome / grayscale. Skin tones transition smoothly from deep shadow to soft highlight. Hair and jacket remain deep charcoal to near-black. Background is neutral gray with subtle texture.\nOnly accent color: bold, saturated red (#FF0000).\nGraphic Overlays (IMPORTANT)\n\nA bold asymmetrical red eye overlay is placed over the subject’s right eye. It is not a full rectangle and has no complete outline—only one strong bold edge on the left side, with other sides open or implied. The red shape partially covers the right eye, allowing facial features and glasses to remain visible beneath a subtle red tint. The effect feels like a cropped, futuristic targeting mark.\n\nA second minimal red geometric element (partial bracket or line segment) floats near the right side of the head, adding balance and tension. Overlays are sharp, minimal, editorial, and intentionally incomplete.\nTypography & Layout\n\nBehind the subject on the left side, vertical background typography runs upward in large, bold, condensed sans-serif letters in dark gray or black, partially hidden by the face. Visible fragments include: “PAUL”, “SOM”, “NDRA”, “AL”.\n\nForeground text in the bottom-right corner reads:\nWORK\nSMART\n\nAll caps, bold condensed sans-serif, stacked layout, colored in the same vibrant red.\nLogo\n\nA small stylized red “S” logo, italicized and blocky, positioned near the subject’s right shoulder (viewer’s left).\nMood & Concept\n\nFocus, intelligence, precision, ambition, and modern thinking. The lighting contrast reinforces duality—calm vs power, logic vs intensity. The red eye overlay symbolizes vision, targeting, and strategy.\nAspect Ratio & Quality\n\nVertical poster format 4:5. Ultra-sharp details, clean edges, professional graphic design finish.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 996,
+      "copy_count": 1706,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "local_path": "images/poster-cover/Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Gemini_Generated_Image_2duuao2duuao2duu.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: a striking, high-contrast portrait of a young man with messy dark hair, wearing round wire-rimmed glasses and a black leather jacket. The image creates a bold, editorial aesthetic by combining a black-and-white base with vivid red graphical accents. A red rectangular overlay covers his left eye, suggesting a futuristic or cybernetic theme, while large, vertical black typography frames the left side. In the bottom right corner, the motivational phrase \"WORK SMART\" is displayed in bold red letters along with a small logo."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702f7",
+      "title": "The Soundtrack of Peace",
+      "slug": "the-soundtrack-of-peace",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Hyper-realistic cinematic fashion portrait, ultra-high resolution 8K, RAW 16-bit look, vertical 4:5 aspect ratio, premium editorial photography.\nFraming & Body Pose (very important):\n\nThe subject is shown from upper chest to just above the head, with both shoulders fully visible in the frame. The body is facing slightly forward, shoulders relaxed and level.\nThe head is tilted gently backward, neck elongated and clearly visible, chin lifted slightly upward. The posture feels open and effortless, as if the subject is leaning subtly into the sound.\nEyes are fully closed, lips softly pressed together, facial expression calm, peaceful, and emotionally immersed in music.\nFace & Identity (locked to reference):\n\nUse the exact facial features, beard shape, hair volume, hairline, skin tone, and proportions from the reference image. No facial modification.\nHe wears thin translucent clear-frame glasses with soft reflections and modern white over-ear wired headphones. Ear cushions appear plush and realistic; the cable falls naturally down the neck and across the chest.\nClothing & Styling:\n\nMinimalist editorial fashion.\n\nAn off-white linen button-down shirt, worn open at the collar, relaxed fit, visible linen weave, fine wrinkles, soft folds, and natural buttons.\n\nUnderneath, a clean light-colored t-shirt with smooth cotton texture. Clothing looks light, breathable, and premium.\nLighting & Light Interaction (explicit):\n\nThe lighting simulates late-afternoon sunlight filtered through leaves or patterned glass.\n• Dappled golden light falls across the forehead, cheeks, nose bridge, beard, neck, collarbones, and shoulders\n\n• Soft pink/magenta reflections subtly mix with the warm highlights, especially on the jawline, neck, and shirt\n\n• Light travels downward, creating a natural gradient from face → neck → chest\n\n• Shadows are soft and creamy, never harsh, with smooth falloff\n\n• A gentle rim light outlines the hair, headphones, and shoulders, separating the subject from the background\n\n• Subtle specular highlights appear on the glasses and headphone edges\nBackground & Typography:\n\nBackground is pure deep black, clean and textureless.\nBehind the subject’s head, place large, bold, uppercase white typography reading “MUSIC”.\n• The text is centered horizontally\n\n• Letters are oversized and partially hidden behind the head and headphones\n\n• Typeface is bold, modern sans-serif, clean edges, high contrast\n\n• Text sits clearly in the background layer, not touching the subject\n\n• Strong graphic poster/editorial feel, like a magazine cover or album artwork\nCamera & Optics:\n\nFull-frame look, 85mm lens, f/1.4, ISO 100, 1/250s shutter.\n\nExtremely shallow depth of field with critical focus on skin texture, beard, lips, glasses, and headphone details.\nTexture & Realism:\n\nMaximum realism — visible skin pores, natural skin glow, individual beard hairs, realistic fabric fibers, satin-matte headphone material. No smoothing, no plastic skin, no CGI look.\nColor Grading & Mood:\n\nCinematic editorial color grading with warm highlights, controlled cool shadows, rich blacks, medium-high contrast, subtle analog film grain.\n\nMood is intimate, immersive, calm, and musical, like a high-end fashion/music magazine cover.\nQuality Rules:\n\nPhotorealistic only. Professional studio realism. Physically accurate lighting (PBR).\n\nNo illustration, no cartoon, no painterly or artificial look.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 870,
+      "copy_count": 1723,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_b1cfyrb1cfyrb1cf-1.jpeg",
+          "local_path": "images/poster-cover/Gemini_Generated_Image_b1cfyrb1cfyrb1cf-1.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_b1cfyrb1cfyrb1cf-1.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Gemini_Generated_Image_b1cfyrb1cfyrb1cf-1.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Gemini_Generated_Image_b1cfyrb1cfyrb1cf-1.jpeg",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini AI Generated Image: A close-up of a relaxed young man wearing clear glasses and white wired headphones with his eyes closed, appearing immersed in sound. He wears a light cream button-down shirt. Behind his head, the word 'MUSIC' is displayed in large, bold white text against a black background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ef",
+      "title": "Shades of Success",
+      "slug": "shades-of-success",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Use the uploaded face strictly as the facial identity reference (do not alter facial structure, proportions, or expression).\nCreate a hyper-realistic cinematic black-and-white fashion portrait of a stylish young man seated confidently on a modern dark velvet sofa inside a luxurious, classic interior.\n\nSubject & Pose (Locked)\nThe man is seated in a relaxed yet powerful editorial pose:\n\nSitting deep into the sofa\nOne arm casually stretched across the backrest\nThe other hand resting naturally on his thigh\nLegs slightly apart, grounded and confident\nUpright posture with a calm, commanding presence\nExpression: composed, confident, masculine, fashion-editorial gaze directed at the camera\nOutfit & Styling\nHe wears a bold luxury fashion ensemble:\n\nA striped button-down shirt with the top buttons open\nLayered metallic necklaces visible at the chest\nSlim, tailored dark trousers\nPolished dark leather ankle boots with a subtle shine\nA dark casual jacket worn over the shirt, adding relaxed elegance\nFabrics must appear ultra-detailed and realistic, with visible texture and depth.\n\nEnvironment & Background\nInterior is refined and upscale, inspired by European luxury apartments\nDecorative wall panels behind the sofa, symmetrical and elegant\nBackground remains minimal, clean, and premium—no clutter\nSofa is dark velvet, soft-textured, and modern\nFloor is dark and matte, enhancing contrast\nBrand Elements\nOn the floor beside the sofa (near the subject’s feet), place a shopping bag based on the reference image\nThe bag is monochrome black with “ZABA” written in metallic gold\nThe gold lettering is the only colored element, softly glowing for emphasis\nAbove the subject, across the entire width of the frame, place the ZABA logo in pure white\nThe logo should feel like a luxury magazine cover masthead or high-fashion billboard\nClean, sharp typography with perfect alignment\nLighting & Color Tone\nEntire image is deep black-and-white, high contrast\nLighting is cinematic and directional:\nSoft key light on the face and torso\nGentle shadows sculpting cheekbones and jawline\nDeeper shadows in the background for drama\nMoody editorial tone, not flat grayscale\nOnly the gold “ZABA” text remains in color\nCamera & Quality\nFashion editorial camera angle, eye-level\nMedium-wide framing showing full seated posture\nShallow depth of field (DSLR look)\nCinematic HDR lighting\nUltra-sharp focus\n8K ultra-realistic photography quality\nAspect ratio 4:5\nOverall Mood\nLuxury, confidence, power, minimalism, modern masculinity\n\nFeels like a high-end ZABA global campaign cover",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 58,
+      "view_count": 2296,
+      "copy_count": 6842,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_30tjf730tjf730tj-1.jpeg",
+          "local_path": "images/poster-cover/Gemini_Generated_Image_30tjf730tjf730tj-1.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_30tjf730tjf730tj-1.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Gemini_Generated_Image_30tjf730tjf730tj-1.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Gemini_Generated_Image_30tjf730tjf730tj-1.jpeg",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Gemini AI Generated Image: A black and white editorial-style image showing a man with a beard sitting on a velvet sofa in a paneled room. He wears a jacket, striped shirt, trousers, and Chelsea boots. The word \"ZARA\" overlays the top of the image in large white letters, and a black shopping bag with a gold Zara logo rests on the carpet near his feet."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702ed",
+      "title": "Issue 05: Urban Vanguard",
+      "slug": "issue-05-urban-vanguard",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Use my face reference exactly as always (100% identical).\n\nPreserve facial structure, beard shape, skin tone, hairline, eyes, and natural expression precisely.\nNo beautification, no stylization, no facial changes.\n\nPose, Body Language & Attitude (LOCKED)\nMedium shot (mid-torso up)\nSubject stands upright with a relaxed but confident posture\nBody angled slightly sideways, with the right shoulder closer to the camera\nRight shoulder dominant, left shoulder slightly relaxed\nTorso subtly turned toward camera\nChin slightly lifted\nHead slightly tilted back\nExpression: calm, self-assured, slight attitude\nEyes looking directly into the camera with a strong editorial gaze\nOverall vibe: modern, confident, premium fashion presence\nOutfit – Jacket Details (STRICT)\nOversized solid-yellow utility jacket, styled asymmetrically.\nRight shoulder (important):\n\nBlack vertical utility strap\nBold white “929” printed on the strap\nStructured right-shoulder silhouette\nBlack circular metal ring attached near chest strap\nAdditional details:\n\nYellow geometric “22” patch on sleeve\nLarge white “03” patch on lower front\nSmall black label reading “Yellow Bust / 2 Kaerry”\nJacket partially open with editorial drape\nFabric color: mustard yellow, not neon\nInner Outfit\nBlack fitted long-sleeve top\nBright yellow “22” graphic on chest\nSubtle orange-white accent lines\nClean, modern athletic fit\nBackground & NEW Text Layout (ALL TEXT CHANGED)\nBright and Solid yellow background,\nSmooth, evenly lit studio backdrop\nLarge white typography behind subject:\n\n“005”\n\n(Oversized, cropped, magazine-cover style)\nLeft-side text (replace fully):\n\n\nMODERN FORM\nUTILITY EDIT\nSTYLE & MOTION\nCREATIVE VISUALS\nBY STUDIO NOVA\nRight-side element:\n\nMinimal black-and-white abstract symbol (geometric, modern)\nText below symbol:\n\nDESIGN BY STUDIO NOVA\nCREATIVE SYSTEMS\nAll text is sharp, clean, aligned, and editorial.\nLighting & Color Tone (MATCH REFERENCE)\nSolid yellow cinematic color grading\nHigh contrast with shadows\nRich midtones\nNatural warm skin tones\nDeep matte blacks\nSoft directional studio lighting\nPremium fashion-editorial mood\nCamera & Quality\nEye-level camera\n50mm or 85mm prime look\nUltra-sharp focus on face and jacket texture\nHigh-resolution, photorealistic\nMagazine-cover quality\nAspect ratio 4:5\nStyle Keywords\nPhotorealistic, fashion editorial, modern utility wear, subtle attitude pose, cinematic contrast, premium magazine layout\nNegative Prompts\nSmiling expression, exaggerated pose, stiff posture, washed-out yellow, neon tones, low contrast, blurry face, altered facial features, distorted text, cartoon style, painterly look, clutter, watermark, extra logos",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 24,
+      "view_count": 833,
+      "copy_count": 1326,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_gt0uz4gt0uz4gt0u-1-1.jpg",
+          "local_path": "images/poster-cover/Gemini_Generated_Image_gt0uz4gt0uz4gt0u-1-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_gt0uz4gt0uz4gt0u-1-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Gemini_Generated_Image_gt0uz4gt0uz4gt0u-1-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Gemini_Generated_Image_gt0uz4gt0uz4gt0u-1-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A vertical editorial fashion image resembling a magazine cover, featuring a male model with brown hair and stubble. He is wearing a mustard-yellow techwear utility jacket with a black strap reading \"929\" and a black compression shirt with the number \"22\". The background is a matching solid yellow with a large white \"05\" layered behind the model's head. Additional graphic design text on the left reads \"MODERN FORM UTILITY EDIT,\" and a geometric logo with \"DESIGN BY STUDIO NOVA\" appears on the right."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702eb",
+      "title": "Pencil & Polyester",
+      "slug": "pencil-polyester",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Use the provided reference image to maintain strict facial identity and likeness. The subject in both the pencil sketch and the photorealistic cutout must share the exact facial features of the reference image.\nCore Image: A premium street-fashion editorial poster with a vertical layout on a textured white paper background.\nBackground (Artistic Layer): A large, highly detailed, realistic black-and-white pencil sketch close-up of the [Reference Subject's] face centered in the background. The sketch features intricate cross-hatching and shading, overlayed with artistic grey watercolor washes and ink splatter effects to create a raw, creative vibe.\nForeground (Realism Layer): In the bottom right corner, a full-body, photorealistic color cutout of the [Same Reference Subject]. He is posing confidently with hands at his sides, wearing a modern all-black tech-wear outfit: a black bomber jacket with straps and pockets, a dark grey t-shirt, black cargo pants, and black combat boots. Apply a thick white stroke (sticker outline) and a soft drop shadow around the figure to create a collage effect.\nTypography:\n\nTop: Large, bold sans-serif text \"STREET EDIT\" (STREET in white/light grey, EDIT in black).\nTop Sides: Small subtext \"PREMIUM STREET-FASHION\" and \"EDITORIAL\".\nBottom Left: Large bold black text \"URBAN LEGEND\" stacked vertically.\nBelow \"URBAN LEGEND\": A small paragraph of light-colored quote text matching the aesthetic.\nStyle: Clean, edgy, minimalist, high-fashion collage. \nAspect ratio 4:5 or 2:3",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 924,
+      "copy_count": 1549,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_pemdhypemdhypemd-1.jpg",
+          "local_path": "images/poster-cover/Gemini_Generated_Image_pemdhypemdhypemd-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_pemdhypemdhypemd-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Gemini_Generated_Image_pemdhypemdhypemd-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Gemini_Generated_Image_pemdhypemdhypemd-1.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: A magazine cover design titled \"STREET EDIT\" featuring a large, detailed pencil sketch portrait of a young man’s face with artistic watercolor splatters in the background. In the lower right corner, a realistic full-body photo of the same model stands as a cutout, wearing a black bomber jacket, dark t-shirt, black cargo pants, and boots. Large bold text at the bottom reads \"URBAN LEGEND,\" followed by a quote about street style."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267027e",
+      "title": "Create Your Own Spark",
+      "slug": "create-your-own-spark",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Use the uploaded photo as a face reference and create A high-quality, semi-realistic digital illustration of a smiling young Indian woman with a radiant expression. She has dark curly hair pulled back into a messy bun with loose tendrils framing her face, a small black bindi, and distinct dark eyebrows. She is wearing a dark navy blue half-sleeve blouse and a white saree with a dark ikat-patterned border. She wears a chunky oxidized silver and turquoise choker necklace with hanging beads and matching earrings. Her left hand is gently raised, resting on her upper chest/collarbone area. The background is a white grid notebook paper texture filled with colorful, hand-drawn motivational typography and doodles. Key elements include the text \"DREAM BIG\" in yellow and blue 3D bubble letters, \"INSPIRE\" in red, \"CREATE\" in green, and \"SHINE\" in yellow. Surrounding the woman are doodles of yellow stars, red hearts, lightning bolts, blue swirls, and arrows drawn in a marker style. Photorealistic style. The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 621,
+      "copy_count": 624,
+      "is_premium": false,
+      "published_at": "2026-09-03T11:46:48.432Z",
+      "images": [
+        {
+          "filename": "IMG_20251206_222214.jpg",
+          "local_path": "images/poster-cover/IMG_20251206_222214.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251206_222214.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/IMG_20251206_222214.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/IMG_20251206_222214.jpg",
+          "width": 1856,
+          "height": 2291,
+          "alt": "Gemini Generated: a colorful, stylized illustration of a beautiful young woman (who appears to be South Indian, possibly a known actress) wearing a saree and traditional jewelry. Around her, bold, bright text with decorative elements encourages a positive message: \"DREAM BIG\", \"INSPIRE\", \"CREATE\", and \"SHINE\". The background resembles notebook paper."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670267",
+      "title": "Vogue Cover Muse",
+      "slug": "vogue-cover-muse",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "A white background Vogue fashion editorial cover of the portrait of me. I wear a loose oversized white shirt with long sleeves, huge golden earrings. Aspect ratio: 4:5 vertical. My dark blonde hair is slicked back, red lips. I'm standing next to the wall, close-shot, editorial fashion shoot style, ultra high resolution, realistic photography quality, sharp focus, shot with Canon EOS R5, 85mm f/1.2 lens. Shooting in the style of Terry Richardson. Text: only Vogue. Mood: Positive attitude. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 616,
+      "copy_count": 713,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251205_113058.jpg",
+          "local_path": "images/poster-cover/IMG_20251205_113058.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_113058.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/IMG_20251205_113058.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/IMG_20251205_113058.jpg",
+          "width": 1856,
+          "height": 2292,
+          "alt": "Gemini Generated Image: a portrait of a woman wearing a white shirt and gold hoop earrings, with slicked-back, wet-look hair and bright red lipstick. The word \"VOGUE\" in large red letters is visible at the top."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670259",
+      "title": "Limited Edition Style",
+      "slug": "limited-edition-style",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Ultra-high-resolution black-and-white Vogue-style fashion editorial magazine cover featuring a young male model standing in a confident, composed pose. The model has natural dark hair with natural texture and soft movement. His facial structure is sharp and youthful, with piercing blue eyes that remain subtly color-accented against the monochrome palette, drawing immediate focus to his gaze. Expression is calm, serious, and fashion-editorial—emotionless yet magnetic.\nPose & Body Language:\n\nThe model faces the camera frontally. The model’s left elbow is raised horizontally across the half of the chest, bent at approximately a 60-degree angle, with the forearm crossing just below the chin and partially obscuring the lower face and neck. The elbow points outward toward the left side of the frame, creating a strong editorial line. The wrist is subtly rotated outward so the metallic wristwatch is fully visible and intentionally showcased, positioned the left side of the frame. The hand remains relaxed, fingers loosely curled, not clenched. This pose feels deliberate, elegant, and fashion-forward, emphasizing attitude and luxury styling rather than motion.\n\nThe right arm hangs naturally downward, with the right hand placed inside the trouser pocket, reinforcing a relaxed yet confident Vogue editorial stance.\nOutfit & Styling:\n\nHe wears a crisp white button-down shirt, lightweight fabric, slightly loose fit, with the top buttons undone for effortless sophistication. Sleeves are rolled neatly to mid-forearm, exposing the wristwatch. The shirt is tucked cleanly into tailored black dress trousers with a smooth matte finish. Overall styling is minimalist, timeless, and luxury-oriented—classic “classy dressy” fashion.\nLighting & Texture:\n\nSoft, controlled studio lighting with gentle contrast—highlights on cheekbones, nose bridge, and shirt folds; subtle shadow definition along jawline and curls. Skin texture remains natural with visible pores and smooth tonal transitions. The lighting enhances fabric texture without harsh reflections.\nBackground & Composition:\n\nMinimalist flat gray studio background, evenly lit, with no visible texture or environment distractions. Clean negative space allows typography to dominate. The subject is centered slightly right of frame, leaving space for magazine text overlays.\nTypography & Magazine Layout:\n\nLarge, bold “VOGUE” masthead at the top in high-fashion serif typography, white lettering, partially overlapped by the model’s hair and head for depth. Below it, “FASHION” appears in tall, elegant serif capitals, spaced widely across the upper background.\n\nOn the left side, smaller italic serif text reads “The Classy Dressy”, placed mid-frame. On the lower right corner, refined serif text reads “Limited Edition”, accompanied by a small minimal diamond/star icon. All text is white or off-white, cleanly aligned, magazine-accurate placement.\nOverall Style & Quality:\n\nLuxury editorial aesthetic, Vogue Paris / Vogue Italia inspired. High contrast black-and-white photography with selective eye color pop. 8K ultra-detailed, cinematic sharpness, professional fashion photography, premium magazine cover realism, timeless elegance, modern masculine couture mood.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 61,
+      "view_count": 2077,
+      "copy_count": 5033,
+      "is_premium": false,
+      "published_at": "2026-08-06T12:06:11.362Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_jngaeojngaeojnga-1-1.png",
+          "local_path": "images/poster-cover/Gemini_Generated_Image_jngaeojngaeojnga-1-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_jngaeojngaeojnga-1-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/Gemini_Generated_Image_jngaeojngaeojnga-1-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/Gemini_Generated_Image_jngaeojngaeojnga-1-1.png",
+          "width": 896,
+          "height": 1152,
+          "alt": "Gemini Generated Image: This is a black and white image styled like a Vogue Fashion magazine cover. It features a young man with curly hair, wearing an unbuttoned white shirt and dark trousers, showing off a wristwatch on his left arm. The text includes phrases like \"VOGUE FASHION,\" \"The Classy Dressy,\" and \"Limited Edition.\""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670243",
+      "title": "Stranger Things Fan Poster",
+      "slug": "stranger-things-fan-poster",
+      "category": "Poster / Cover",
+      "category_slug": "poster-cover",
+      "prompt": "Create a high-quality, ultra-realistic photo using the face from the reference without any changes or distortions — maintain all original facial features exactly. Stranger Things–style character poster. Dark, eerie forest from the Upside Down, twisted tree silhouettes, blue-black atmosphere. A large glowing red neon number ‘5’ behind the character, casting strong red rim-light on edges. Cinematic dramatic lighting on the face, moody expression. Character standing centered, wearing a grey padded jacket and black shirt. High-contrast shadows, soft volumetric fog in background.\nRetro neon typography at bottom: ‘STRANGER THINGS’ in signature red glow. Additional subtitle text: ‘ONE LAST ADVENTURE. VOL. 1 — NOV 26, THE FINALE.’\n4K resolution, ultra-realistic poster design, Netflix series aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 671,
+      "copy_count": 586,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251201_123416.jpg",
+          "local_path": "images/poster-cover/IMG_20251201_123416.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251201_123416.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/poster-cover/IMG_20251201_123416.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/poster-cover/IMG_20251201_123416.jpg",
+          "width": 1696,
+          "height": 2501,
+          "alt": "Gemini Generated: A man with a beard and intense gaze, wearing a quilted jacket, stands centered in a dark, forested scene under a large, glowing red neon number \"5,\" with the text \"STRANGER THINGS,\" \"ONE LAST ADVENTURE,\" and date information below, suggesting a promotional poster for the final season of the series."
+        }
+      ]
+    }
+  ]
+}

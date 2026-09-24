@@ -1,0 +1,47 @@
+{
+  "category": "Profession",
+  "slug": "profession",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T13:11:30Z",
+  "prompts": [
+    {
+      "id": "6ab3084442ae1b78aca144ac",
+      "title": "Gritty Mechanic Editorial Portrait AI Prompt",
+      "slug": "gritty-mechanic-editorial-portrait",
+      "category": "Profession",
+      "category_slug": "profession",
+      "prompt": "Generate an image of the person from the attached photo. Preserve exact facial likeness. The image should be a gritty and dramatic fashion editorial-style portrait, set in a dimly lit auto repair garage. The composition is a low-angle medium shot, making the subject appear powerful and statuesque. The subject is wearing a tight-fitting white tank top, stained with grease and dirt, and leaning against a red and white industrial pillar. The pose is dynamic—torso twisted, head tilted back, looking upwards and away from the camera. The lighting is crucial: employ dramatic, high-contrast chiaroscuro lighting, with a strong key light from the side that carves out the form of the body, highlights hyper-detailed muscle definition on the arms, and casts deep shadows. The visible skin on the face, neck, and arms must have a realistic oily sheen and be smudged with grease. The subject also wears grey mechanic's coveralls unfastened and tied around the waist, and worn, dirty work gloves. One hand rests on a car tire in the foreground. The color palette is muted, dominated by dark greens and greys, with the bright white of the tank top and the warm, golden light on the skin creating strong focal points. The final image should be sharp, high-resolution, and exude an aura of raw, masculine energy.",
+      "description": "Use this ChatGPT prompt to generate a cinematic, gritty portrait of an intense muscular mechanic in a greasy white tank top and dark auto garage.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 2,
+      "view_count": 226,
+      "copy_count": 145,
+      "is_premium": false,
+      "published_at": "2026-09-22T22:59:16.405Z",
+      "images": [
+        {
+          "filename": "a2c0c112-88bc-4211-9141-4af9412ae79e.webp",
+          "local_path": "images/profession/a2c0c112-88bc-4211-9141-4af9412ae79e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a2c0c112-88bc-4211-9141-4af9412ae79e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profession/a2c0c112-88bc-4211-9141-4af9412ae79e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profession/a2c0c112-88bc-4211-9141-4af9412ae79e.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "AI Photo Editing Prompt: Gritty editorial portrait of a muscular man with a mustache and sunglasses, wearing a grease-stained white tank top and mechanic coveralls in an auto garage."
+        },
+        {
+          "filename": "e6201343-c8b0-46b1-9472-a7b33b882a72.webp",
+          "local_path": "images/profession/e6201343-c8b0-46b1-9472-a7b33b882a72.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e6201343-c8b0-46b1-9472-a7b33b882a72.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profession/e6201343-c8b0-46b1-9472-a7b33b882a72.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profession/e6201343-c8b0-46b1-9472-a7b33b882a72.webp",
+          "width": 1086,
+          "height": 1448,
+          "alt": "ChatGPT AI Photo Prompt: Dramatic low-angle portrait of a young muscular man with a beard, wearing a dirty white tank top and mechanic gloves, leaning against a red and white pillar."
+        }
+      ]
+    }
+  ]
+}
