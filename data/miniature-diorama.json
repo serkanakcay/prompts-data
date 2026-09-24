@@ -1,0 +1,600 @@
+{
+  "category": "Miniature Diorama",
+  "slug": "miniature-diorama",
+  "total_prompts": 8,
+  "updated_at": "2026-09-24T13:09:29Z",
+  "prompts": [
+    {
+      "id": "6a590ef2a3af6f1220c3032a",
+      "title": "A Miniature with Chocolate",
+      "slug": "miniature-man-chocolate",
+      "category": "Miniature Diorama",
+      "category_slug": "miniature-diorama",
+      "prompt": "Create a hyper-realistic macro portrait of the uploaded handsome person transformed into a tiny, cute chibi-style miniature. Maintain the recognizable facial identity and glasses if present. Give the miniature an oversized semi-realistic head, a very small body, chibi body proportions, and extremely short hands and legs, while keeping the face cute and adorable.\nShow the miniature standing on an off-white round tabletop and tightly hugging an extra-oversized red KitKat bar that is significantly taller and wider than his entire body. Both tiny arms should wrap firmly around the chocolate bar as if he refuses to let it go. The KitKat must look like a real wrapped chocolate bar with natural crumpled folds, a torn-open top, and partially eaten chocolate fingers clearly showing crisp wafer layers.\nAdd realistic chocolate smudges around his mouth, across his fingertips, and on both hands, suggesting he was just eating it. A huge realistic human hand enters from the upper-right corner, gently pinching the back collar of his jacket without covering his face or the KitKat.\nDress him in a dark navy hoodie, white T-shirt, dark slim-fit jeans, and clean matching sneakers. Give him a playful, lovable smile while looking directly at the camera.\nUse a tight vertical 4:5 macro composition where the oversized head, miniature, and enormous KitKat dominate the frame. Add a few chocolate crumbs and small melted chocolate drops on the tabletop. Use a soft light-grey bokeh background, soft bright studio lighting, shallow depth of field, outfit texture, and chocolate textures, natural wrapper reflections, and a whimsical premium advertising-photography aesthetic. Avoid adult body proportions, simple background and realistic head.",
+      "description": "3D Caricature Illustration Prompt: Use this prompt to create a miniature smiling man holding a giant KitKat Chocolate while a large hand reaches down for him.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 2595,
+      "copy_count": 1883,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
+          "local_path": "images/miniature-diorama/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Miniature Kit Kat Scene AI Photo Editing Prompt.\nAI generated Whimsical Conceptual Product Art of a smiling, miniature man with glasses and messy chocolate on his face, holding a giant Kit Kat bar while being lifted by a large human hand."
+        },
+        {
+          "filename": "bf889f63-8013-47c6-bc26-fdae40915092.webp",
+          "local_path": "images/miniature-diorama/bf889f63-8013-47c6-bc26-fdae40915092.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bf889f63-8013-47c6-bc26-fdae40915092.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/bf889f63-8013-47c6-bc26-fdae40915092.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/bf889f63-8013-47c6-bc26-fdae40915092.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated surreal photo manipulation of a smiling miniature man with an oversized head holding a large, partially eaten KitKat bar and being pinched by a giant human hand."
+        },
+        {
+          "filename": "70f20281-da79-4527-a927-2863a197663b.webp",
+          "local_path": "images/miniature-diorama/70f20281-da79-4527-a927-2863a197663b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/70f20281-da79-4527-a927-2863a197663b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/70f20281-da79-4527-a927-2863a197663b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/70f20281-da79-4527-a927-2863a197663b.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "miniature-man-holding-giant-kitkat-ai-art-prompt-by-promptplum-3"
+        }
+      ]
+    },
+    {
+      "id": "6a4eaa957877e7a4d76166a2",
+      "title": "3D Couple Miniature",
+      "slug": "3d-couple-miniature-photo",
+      "category": "Miniature Diorama",
+      "category_slug": "miniature-diorama",
+      "prompt": "Create a cute premium 3D animated collectible figurine scene of the uploaded couple, using their photo only as the identity reference. Turn them into an adorable husband and wife standing close together on a small round display base. Preserve their recognizable age, facial features, hairstyle, glasses if present, skin tone, and warm loving expressions, but render them in a soft Pixar-style / clay-toy figurine look.\n\nThe man stands on the left with a gentle smile, one arm lovingly around the woman’s shoulder, while the woman stands on the right, smiling warmly up at him. Their pose should feel affectionate, calm, and lifelong-romantic.\nDress both subjects in outfits inspired by their own cultural background, keeping the clothing elegant, traditional or semi-traditional, age-appropriate, modest, and visually harmonious. The outfits should feel authentic to the couple’s culture rather than generic Western clothing. For example, use culturally relevant garments, layering, patterns, jewelry, and overall styling that suit the couple naturally, while still keeping the look soft, premium, and simplified for a collectible figurine design. Avoid exaggerated costumes; keep the styling tasteful, warm, and realistic to their background.\n\nPlace a vintage black street lamp beside them with a warm glowing lantern. Attach wooden arrow signboards to the lamp post with clean readable engraved text: “MARRIED SINCE”, “HUSBAND NAME”, and “WIFE NAME”. On the front of the round base, add elegant golden text: “ENDLESS ♥ LOVE”.\n\nSet the figurine on a wooden tabletop inside a cozy softly blurred living room, with warm golden lighting, shallow depth of field, premium miniature-diorama feel, soft shadows, smooth toy-like textures, detailed fabric, and realistic lamp glow. Keep the composition centered, heartwarming, clean, and gift-like. Square aspect ratio 1:1.",
+      "description": "3D Couple Miniature Art Prompt: Use this prompt to create a personalized 3D Pixar-style diorama of a romantic couple by a street lamp with custom signboards.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 68,
+      "view_count": 3895,
+      "copy_count": 2287,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "local_path": "images/miniature-diorama/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Miniature Couple Photo Prompt: AI generated 3D miniature art of a stylized couple standing next to a lit street lamp with signs reading Names, on a base with a plaque saying 'ENDLESS ♥ LOVE', in a warm interior setting."
+        },
+        {
+          "filename": "726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "local_path": "images/miniature-diorama/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "original_url": "https://img.promptplum.com/promptImages/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling couple holding hands next to a vintage street lamp with custom name signboards on a wooden base."
+        },
+        {
+          "filename": "469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "local_path": "images/miniature-diorama/469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "original_url": "https://img.promptplum.com/promptImages/469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/469c3c91-a09b-4838-b569-b80623de5f63.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Nostalgic 3D Diorama AI Photo Editing Prompt. AI generated 3D miniature of a heartwarming elderly couple embracing by a lit vintage lamp."
+        },
+        {
+          "filename": "cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "local_path": "images/miniature-diorama/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Indian Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling Indian couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
+        },
+        {
+          "filename": "efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "local_path": "images/miniature-diorama/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "original_url": "https://img.promptplum.com/promptImages/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated 3d miniature diorama of a loving bride and groom embracing by a warm vintage lamp."
+        },
+        {
+          "filename": "a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "local_path": "images/miniature-diorama/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Arab Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling senior Arab couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
+        },
+        {
+          "filename": "2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "local_path": "images/miniature-diorama/2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/2590b80e-033a-4a3b-a527-1855721d1672.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Joyful Traditional 3D Couple Miniature Photo Prompt. AI generated diorama of a happy couple in Bavarian attire smiling by a warm vintage lamp."
+        },
+        {
+          "filename": "decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "local_path": "images/miniature-diorama/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Indonesian Couple Miniature Art AI Photo Editing Prompt"
+        },
+        {
+          "filename": "fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "local_path": "images/miniature-diorama/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "original_url": "https://img.promptplum.com/promptImages/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
+          "width": 1814,
+          "height": 1946,
+          "alt": "AI generated 3d miniature art diorama of a loving couple in embroidered attire by a cozy vintage lamp."
+        },
+        {
+          "filename": "1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "local_path": "images/miniature-diorama/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Pixar-Style Senior Muslim Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling senior Muslim couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
+        },
+        {
+          "filename": "c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "local_path": "images/miniature-diorama/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Romantic Miniature Art AI Photo Editing Prompt. AI generated 3D diorama of a cute couple embracing by a lit vintage street lamp."
+        },
+        {
+          "filename": "a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "local_path": "images/miniature-diorama/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Couple Miniature Art Photo Prompt"
+        }
+      ]
+    },
+    {
+      "id": "6a3c44f5bf79ee5252c41073",
+      "title": "3D Football Player Caricature",
+      "slug": "3d-football-player-caricature",
+      "category": "Miniature Diorama",
+      "category_slug": "miniature-diorama",
+      "prompt": "Use the uploaded image only for the male subject’s facial identity.\n\nCreate a premium high-end CGI render of the subject as a clearly miniature football character in a vertical 4:5 composition. He must not look like a normal adult footballer. Give him a compact mascot-style body with a slightly oversized head, short athletic limbs, a short torso, and a clearly miniaturized full-body appearance.\n\nDress him in the accurate home kit of [TEAM NAME] [FIFA World Cup 2026], including the correct jersey colors, pattern, shorts, socks, and football boots. Show him in a cool, stylish, confident pose with one foot resting on a FIFA football. Make the football relatively large compared to his body so the miniature scale is obvious.\n\nKeep the expression cool, playful, and confident, with a subtle smirk or relaxed stylish smile.\n\nScene: seamless pure white studio background with a white floor and soft contact shadows. Full body visible, centered, and dominant in frame.\n\nRendering: ultra-premium realistic CGI, sharp and clean, with natural matte skin, realistic eyes, detailed hair strands, refined facial hair, realistic sportswear fabric, visible stitching, natural folds, detailed boots, and high-end studio lighting.\n\nAvoid: normal adult body proportions, bad anatomy, life-size look, plastic toy look, bobblehead, waxy skin, glossy surfaces, cheap cartoon style, low-detail rendering, awkward anatomy, or generic football kit.",
+      "description": "3D Caricature Art Prompt: Use this prompt to create a stylized, miniature portrait of football player in team kits against a clean white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 1247,
+      "copy_count": 916,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "local_path": "images/miniature-diorama/9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/9d89da75-de01-4314-a787-9578eb7a6d8d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-5"
+        },
+        {
+          "filename": "b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "local_path": "images/miniature-diorama/b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/b347ff84-daf1-41d5-aa7c-3d0911a3af2d.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-8"
+        },
+        {
+          "filename": "bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "local_path": "images/miniature-diorama/bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/bf373d4c-87c2-4c81-bda3-dd672a5ea405.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-7"
+        },
+        {
+          "filename": "1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "local_path": "images/miniature-diorama/1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/1d3d94b4-e236-4845-b484-430e89dd284a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-4"
+        },
+        {
+          "filename": "742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "local_path": "images/miniature-diorama/742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/742bd4f7-ba54-4cc2-b1c6-61ab4f6d034f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-3"
+        },
+        {
+          "filename": "b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "local_path": "images/miniature-diorama/b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/b8bb3f03-b1e4-4586-8b6d-0eee34eb8cb7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-6"
+        },
+        {
+          "filename": "e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "local_path": "images/miniature-diorama/e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/e656bf9d-0ed8-4581-a010-3efe25e53f89.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3d-football-player-caricature-illustration-by-promptplum-2"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f5",
+      "title": "Mini Avatar Collection",
+      "slug": "3d-chibi-boy-character-sheet",
+      "category": "Miniature Diorama",
+      "category_slug": "miniature-diorama",
+      "prompt": "Create a square 1:1 collage featuring six premium 3D chibi-style renders of the same subject, arranged in a clean 3-column × 2-row grid. The subject should be reusable for any person, so use the uploaded/reference person as the base subject and transform them into a cute stylized 3D chibi character while keeping the same subject identity consistent across all six panels.\n\nThe character should have a charming animated look with an oversized head, large glossy eyes, soft rounded facial features, rosy cheeks, a small nose, a warm smile, and thick fluffy hair adapted from the subject. Keep the same subject consistent in all six panels, while changing only the outfit, pose, and expression according to each scene below.\n\nUse soft studio lighting, rich vivid smooth gradient backgrounds with clean saturated color depth, where the outer area stays more solid and colorful while the area near the subject becomes lighter and softer, subtle floor shadows, crisp fabric textures, detailed hair strands, and a clean high-resolution polished finish. Add a soft subtle rim light along the outer edges of the subject, especially around the hair, shoulders, arms, and clothing silhouette, so the character stays clearly separated from the background without looking overlit.\n\nPanel 1 — Top Left:\nA full-body subject standing calmly with both hands inside the hoodie pocket, gentle friendly smile, looking at the camera.\nOutfit: olive green hoodie, dark charcoal jogger pants, white low-top sneakers, small pendant necklace and wrist bracelet.\nBackground: a rich vivid gradient with sky-blue as the more solid outer color, becoming a lighter warm peach glow near the subject.\n\nPanel 2 — Top Middle:\nA confident stylish subject standing with hands in pockets, one eye winking, cheerful smile.\nOutfit: backward dark baseball cap, blue denim jacket, black-and-white striped t-shirt, black slim jeans with rolled cuffs, black-and-white sneakers, headphones resting around the neck, wristwatch.\nBackground: a rich vivid gradient with bright aqua-to-teal as the more solid outer color, becoming lighter near the subject.\n\nPanel 3 — Top Right:\nA joyful energetic subject laughing with eyes closed, both arms raised in celebration.\nOutfit: bright yellow sweatshirt with bold “PLAY” text, loose black joggers, colorful sporty sneakers.\nBackground: a rich vivid gradient with warm golden yellow and coral pink as the more solid outer colors, becoming lighter near the subject.\n\nPanel 4 — Bottom Left:\nA thoughtful subject standing in a cute thinking pose, one hand touching the chin, soft serious expression.\nOutfit: dark bomber jacket, white graphic t-shirt, tan cargo pants, high-top black-and-white sneakers, small backpack straps visible.\nBackground: a rich vivid gradient with lavender and soft pink as the more solid outer colors, becoming lighter near the subject.\n\nPanel 5 — Bottom Middle:\nA relaxed subject sitting on a small wooden stool, holding a smartphone in one hand, calm pleasant smile.\nOutfit: cream oversized sweatshirt, soft blue joggers, clean white sneakers, subtle bracelets.\nBackground: a rich vivid gradient with pastel green and pale yellow as the more solid outer colors, becoming lighter near the subject.\n\nPanel 6 — Bottom Right:\nA cool fashionable subject standing with one hand in pocket and the other making a peace sign, confident playful smile.\nOutfit: dark knit beanie, beige-and-black plaid overshirt over a black t-shirt, layered silver chain necklace, ripped black jeans, chunky sneakers, wristwatch and bracelet.\nBackground: a rich vivid gradient with blush pink and mint as the more solid outer colors, becoming lighter near the subject.\n\nOverall style: ultra-clean premium 3D cartoon render, cute chibi proportions, detailed realistic clothing materials, expressive faces, smooth soft shading, polished cinematic character design, vibrant pastel color harmony, adorable social-media avatar aesthetic.",
+      "description": "3D Chibi Character Illustration Prompt: Copy & Paste this prompt to create a collection of stylish 3D chibi boy characters featuring trendy outfits and expressive poses.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 41,
+      "view_count": 934,
+      "copy_count": 1569,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Chibi Boy Character Grid AI Photo Editing Prompt. AI generated 3D digital illustration of a cute chibi boy featuring six stylish outfits and expressive poses on colorful backgrounds."
+        },
+        {
+          "filename": "six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-1.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "Six Cute Boy Character Variations AI Photo Editing Prompt. AI generated 3D digital illustration of a 2x3 grid featuring a cute chibi-style boy in various stylish outfits and expressive poses against colorful pastel backgrounds."
+        },
+        {
+          "filename": "six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/six-cute-boy-character-variations-3d-illustration-by-promptplum-3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated 3D digital illustration featuring a grid of six adorable boy characters wearing diverse trendy outfits and displaying various expressive poses against vibrant pastel backgrounds."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704d9",
+      "title": "The Tiny Pout",
+      "slug": "miniature-grumpy-woman-palm-cheek-pinch",
+      "category": "Miniature Diorama",
+      "category_slug": "miniature-diorama",
+      "prompt": "Create a stylized big-head miniature portrait in a 1:1 aspect ratio. Person appears as a tiny character with a slightly enlarged head and small body, sitting inside a large human hand. \n\nPose: seated cross-legged, hands crossed, slightly pouty, angry but very cute expression, looking at the camera.\n\nEnvironment: blurred city night background with bokeh lights.\nAdd a second hand gently pinching/adjusting the person’s cheek for a playful effect.\n\nOutfit: casual t-shirt, pants, sandals.\n\nLighting: soft cinematic light, shallow depth of field, high detail, ultra-realistic, clean focus.",
+      "description": "Miniature Prompt: Copy & Paste this prompt to generate a creative image of a tiny, grumpy woman sitting in a giant human palm with a playful cheek-pinch against a night city bokeh.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 121,
+      "view_count": 2427,
+      "copy_count": 7525,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "local_path": "images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-4.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Tiny Grumpy Woman in Palm AI Photo Editing Prompt. AI generated 3D digital illustration of a miniature woman with crossed arms sitting in a human palm while her cheek is pinched against a bokeh city background."
+        },
+        {
+          "filename": "tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "local_path": "images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-3.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Tiny Pouty Woman Miniature Prompt. AI generated digital illustration of a miniature grumpy woman sitting in a giant palm with her cheek being pinched against a blurred night city background."
+        },
+        {
+          "filename": "tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "local_path": "images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/tiny-grumpy-woman-sitting-in-palm-with-pinched-cheek-illustration-by-promptplum-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated digital illustration of a miniature grumpy woman with glasses sitting cross-legged in a giant palm while a hand pinches her cheek against a bokeh night city background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704a7",
+      "title": "Miniature Me",
+      "slug": "person-holding-miniature-cartoon-avatar",
+      "category": "Miniature Diorama",
+      "category_slug": "miniature-diorama",
+      "prompt": "Use the uploaded photo ONLY for facial and identity reference. The main subject must look exactly like the person in the uploaded image, preserving identical facial structure, proportions, skin tone, hairstyle, eye shape, nose shape, lips, jawline, and overall identity. Do not beautify, alter, or replace facial features.\n\nCreate a 4:5 aspect-ratio, cinematic, ultra-detailed scene of the subject smiling naturally in studio settings. The subject is gently holding a tiny animated cartoon miniature version of the same person standing on her open palm, balanced naturally on the hand. The miniature character is a Pixar / Disney-style 3D version of the same person, with exaggerated cute proportions, large expressive eyes, an open joyful mouth, raised arms, and a lively, playful pose. The miniature must clearly resemble the same person and wear a matching outfit.\nThe main subject is looking at the tiny character with surprise, delight, and affection, creating a whimsical, heart-warming interaction. Lighting is warm professional studio lighting with soft rim light, shallow depth of field, and a smooth golden bokeh background. The real person’s skin texture is photorealistic, while the miniature character has clean Pixar-style materials, soft shading, and polished 3D surfaces.\n\nCinematic color grading, high contrast, sharp focus, premium portrait composition, 50mm lens look, f/1.8 depth of field, ultra-high realism blended with stylized animation, 8K quality, cinematic finish.\n\nNegative Prompt\nanime, 2D illustration, comic style, flat shading, low poly, plastic skin, waxy face, face swap, different identity, face morphing, beauty filters, over-smoothing, blur, low resolution, grain, noise, distortion, deformed face, wrong facial proportions, extra fingers, missing fingers, duplicated hands, floating objects, bad anatomy, inconsistent lighting, harsh shadows, neon colors, cold blue tones, washed-out colors, over-saturation, watermark, text, logo, cropped head, out-of-frame face",
+      "description": "3D Character Interaction Portrait Prompt: Use this prompt to generate a professional studio photo of a smiling person holding a miniature 3D cartoon version of themselves in their palm against a warm bokeh background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 84,
+      "view_count": 1068,
+      "copy_count": 2866,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "person-holding-miniature-3d-avatar-digital-art-by-promptplum-2.webp",
+          "local_path": "images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-holding-miniature-3d-avatar-digital-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Tiny 3D Avatar AI Photo Editing Prompt. AI generated creative portrait of a smiling man with glasses holding a miniature 3D cartoon version of himself in his palm against a warm bokeh background."
+        },
+        {
+          "filename": "person-holding-miniature-3d-avatar-digital-art-by-promptplum-1.webp",
+          "local_path": "images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-holding-miniature-3d-avatar-digital-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman with Tiny Cartoon Self AI Photo Editing Prompt. AI generated conceptual portrait of an Asian woman in a denim jacket smiling at a miniature cheering cartoon figure of herself in her palm."
+        },
+        {
+          "filename": "person-holding-miniature-3d-avatar-digital-art-by-promptplum-4.webp",
+          "local_path": "images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-holding-miniature-3d-avatar-digital-art-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Boy Holding Miniature 3D Avatar AI Photo Editing Prompt. AI generated digital illustration of a young boy in an olive green bomber jacket holding a cheerful, tiny 3D miniature version of himself on his open palm."
+        },
+        {
+          "filename": "person-holding-miniature-3d-avatar-digital-art-by-promptplum-3.webp",
+          "local_path": "images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-holding-miniature-3d-avatar-digital-art-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Girl Holding Miniature 3D Avatar AI Photo Editing Prompt. AI generated digital illustration of a smiling young girl looking at a miniature 3D cartoon version of herself standing on her palm against a golden bokeh background."
+        },
+        {
+          "filename": "person-holding-miniature-3d-avatar-digital-art-by-promptplum-5.webp",
+          "local_path": "images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/person-holding-miniature-3d-avatar-digital-art-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/person-holding-miniature-3d-avatar-digital-art-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Senior Man Holding Miniature 3D Avatar AI Photo Editing Prompt. AI generated digital art of a smiling elderly man with glasses holding a joyful miniature 3D character version of himself on his palm."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703ea",
+      "title": "Floating World Dioramas",
+      "slug": "3d-country-map-landmarks-illustration",
+      "category": "Miniature Diorama",
+      "category_slug": "miniature-diorama",
+      "prompt": "Create a 1:1 or 4:5 aspect-ratio, ultra-HD, hyper-realistic cinematic aerial poster of a floating miniature island shaped exactly like the real geographic outline of [COUNTRY NAME], suspended naturally above a vast sea of soft, volumetric clouds.\nThe island must look like a physical miniature diorama with realistic terrain thickness, layered geological cross-sections, cliffs, rock strata, soil layers, grass, and natural elevation depth visible along the island edges.\nAutomatically generate and place the most iconic landmarks, architecture, terrain features, and cultural elements of [COUNTRY NAME] in their geographically correct regions. Terrain must accurately reflect real biome distribution including mountains, rivers, coastlines, beaches, forests, deserts, or lakes depending on the country.\nIf the country has ocean borders or coastline, include ultra-realistic water with:\n• crystal-clear turquoise shallow water near shores\n\n• deep blue ocean gradients in deeper areas\n\n• visible underwater terrain and shoreline fade\n\n• realistic reflections, refraction, and light absorption\n\n• gentle waves, foam, and coastal interaction\n\n• subsurface scattering and transparency\nEmbed massive bold white 3D letters spelling \"[COUNTRY NAME]\" into the terrain, physically integrated with ground elevation, casting soft natural shadows.\nAdd realistic environmental storytelling elements:\n• native animals and birds\n\n• trees and biome-accurate vegetation\n\n• roads, bridges, cities, or villages\n\n• waterfalls, rivers, mist, and environmental depth\nLighting must be cinematic golden hour with:\n• strong warm sunlight from horizon\n\n• visible volumetric god rays passing through clouds\n\n• atmospheric haze and aerial perspective\n\n• soft light scattering\n\n• realistic cloud shadows on terrain\n\n• glowing sunlight reflections on water\nAtmosphere must include volumetric clouds, depth fog, subtle mist, and realistic atmospheric perspective to enhance scale and realism.\nCamera view: high-altitude aerial 3/4 perspective, slightly angled, centered composition, entire island fully visible.\nColor grading: rich cinematic colors, vibrant but natural tones, high dynamic range, travel-poster quality.\nRendering quality: ultra-photorealistic, Unreal Engine 5, Octane render, physically based rendering (PBR), global illumination, ambient occlusion, subsurface scattering, ultra-detailed textures, sharp focus, 8K resolution.\nStyle: hyper-real miniature world, cinematic travel poster, ultra clean, premium, professional.",
+      "description": "Google Gemini AI 3D Illustration Prompt: Use this prompt to generate cinematic isometric maps of countries featuring iconic landmarks, realistic textures, and bold 3D typography floating above a sea of clouds.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 72,
+      "view_count": 1617,
+      "copy_count": 1823,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "local_path": "images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Philippines Map with Landmarks AI Art Prompt. AI generated 3D digital illustration of the Philippine archipelago featuring lush islands, a volcano, and bold white typography over a cinematic ocean."
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "local_path": "images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "local_path": "images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": ""
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "local_path": "images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "local_path": "images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "China 3D Map and Iconic Landmarks AI Art Prompt. AI generated 3D map illustration of a floating island shaped like China's borders, featuring the Great Wall, pandas, and city landmarks surrounded by a sea of clouds and ocean."
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "local_path": "images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267034b",
+      "title": "Meet Mini-Me",
+      "slug": "meet-mini-me",
+      "category": "Miniature Diorama",
+      "category_slug": "miniature-diorama",
+      "prompt": "Use the uploaded photo as the ONLY facial and identity reference. The main subject must look exactly like the person in the uploaded image, preserving identical facial structure, proportions, skin tone, hairstyle, eye shape, nose shape, lips, jawline, and overall identity. Do not beautify, alter, or replace facial features.\nCreate a cinematic, ultra-detailed scene of the subject smiling naturally. The subject is gently holding a tiny animated cartoon miniature version of the same person by the hair between her fingers, like a playful puppet suspended in the air. The miniature character is a Pixar / Disney-style 3D version of the same person, with exaggerated cute proportions, large expressive eyes, an open joyful mouth, raised arms, and a lively, playful pose. The miniature must clearly resemble the same person and wear a matching outfit.\nThe main subject is looking at the tiny character with surprise, delight, and affection, creating a whimsical, heart-warming interaction. Lighting is warm professional studio lighting with soft rim light, shallow depth of field, and a smooth golden bokeh background. The real person’s skin texture is photorealistic, while the miniature character has clean Pixar-style materials, soft shading, and polished 3D surfaces.\nCinematic color grading, high contrast, sharp focus, premium portrait composition, 50mm lens look, f/1.8 depth of field, ultra-high realism blended with stylized animation, aspect ratio 4:5, 8K quality, cinematic finish.\nNegative Prompt\nanime, 2D illustration, comic style, flat shading, low poly, plastic skin, waxy face, face swap, different identity, face morphing, beauty filters, over-smoothing, blur, low resolution, grain, noise, distortion, deformed face, wrong facial proportions, extra fingers, missing fingers, duplicated hands, floating objects, bad anatomy, inconsistent lighting, harsh shadows, neon colors, cold blue tones, washed-out colors, over-saturation, watermark, text, logo, cropped head, out-of-frame face",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 216,
+      "view_count": 8411,
+      "copy_count": 16158,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "local_path": "images/miniature-diorama/Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/Gemini_Generated_Image_mgpkzpmgpkzpmgpk.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated photorealistic portrait captures a playful moment where a young man interacts with a stylized, miniature 3D version of himself. The man, featuring curly dark hair and wearing a textured blue button-down shirt, smiles warmly while holding the tiny animated character by its hair. The miniature figure, rendered in a cute, wide-eyed animation style, mimics the man's appearance with matching curly hair and a blue shirt but adds white trousers and a dynamic, jumping pose. The background is washed in a soft, golden bokeh, creating a festive and magical atmosphere. The lighting is professional, highlighting the realistic skin texture of the man against the smooth, rendered surface of the doll, blending the real world with digital art seamlessly."
+        },
+        {
+          "filename": "Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "local_path": "images/miniature-diorama/Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/Gemini_Generated_Image_hrab7whrab7whrab-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated photorealistic portrait of a cheerful young woman with long blonde hair, dressed in a stylish soft pink coat and a white ribbed turtleneck. She is smiling broadly while holding a small, adorable 3D animated figurine of herself suspended in front of her face. The miniature character mirrors her appearance perfectly, wearing the same outfit, but is designed in a cute, wide-eyed cartoon style with outstretched arms and a joyful expression. The woman interacts playfully with the doll, gently holding it by the hair. The background is a soft, out-of-focus wash of warm golden tones and bokeh lights, creating a cozy atmosphere that highlights the whimsical connection between the realistic subject and her animated counterpart."
+        },
+        {
+          "filename": "Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "local_path": "images/miniature-diorama/Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/Gemini_Generated_Image_3iwj863iwj863iwj.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated of a smiling man in a leather jacket holds a tiny, cute 3D cartoon version of himself."
+        },
+        {
+          "filename": "Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "local_path": "images/miniature-diorama/Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/Gemini_Generated_Image_7peqi27peqi27peq.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image of a smiling girl holds a tiny, 3D animated cartoon version of herself."
+        },
+        {
+          "filename": "Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "local_path": "images/miniature-diorama/Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/miniature-diorama/Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/miniature-diorama/Gemini_Generated_Image_4kv0zl4kv0zl4kv0.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image of a young woman amusingly holds a tiny, smiling 3D cartoon version of herself by the hair."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "category": "Macro / Close-up",
+  "slug": "macro-close-up",
+  "total_prompts": 4,
+  "updated_at": "2026-09-24T13:09:03Z",
+  "prompts": [
+    {
+      "id": "6a9314a846d4207dc296a707",
+      "title": "Close-up Portrait of a Man with Leaf Shadows",
+      "slug": "aesthetic-nature-portrait-male",
+      "category": "Macro / Close-up",
+      "category_slug": "macro-close-up",
+      "prompt": "Create a cinematic close-up portrait of a stylish man with natural hair, wearing round vintage gold-wire sunglasses with dark brown tinted lenses. He is wearing a black crew-neck T-shirt. His head is slightly tilted downward and subtly turned to the left side, chin naturally lowered, with his gaze directed slightly downward through the sunglasses. Calm, confident, introspective expression with relaxed lips.\nWarm golden sunlight filtering through dense green leaves creates natural dappled leaf shadows across his face. Soft blurred green foliage fills the lower foreground and background, with some leaves partially obscuring the lower frame and creating depth. Warm highlights on the skin and hair, rich earthy brown and deep green tones, moody luxury fashion editorial aesthetic.\nComposition: extremely tight close-up, face dominating the frame, cantered composition, intimate perspective, natural foreground foliage framing the portrait. Aspect ratio 4:5.\nCamera: eye-level to slightly elevated camera angle, 85mm portrait lens, f/1.8 aperture, very shallow depth of field, sharp focus on facial features and sunglasses, creamy natural bokeh, cinematic depth, realistic skin pores and hair detail.\nLighting: warm late-afternoon natural sunlight, soft directional sunlight from the side, high-quality golden-hour illumination, intricate organic leaf-shadow patterns, gentle highlights and deep natural shadows, no artificial studio look.\nStyle: photorealistic, cinematic color grading, premium fashion photography, rich contrast, ultra-detailed skin texture, visible pores, atmospheric, 8k ultra-high details.\nNegative prompt: no eye contact, distorted face, deformed sunglasses, unnatural skin, plastic skin, flat lighting, low resolution, blurry face, bad anatomy.",
+      "description": "Cinematic Nature Portrait Prompt: Copy & Paste this Prompt to create a highly realistic, close-up outdoor photograph of a handsome bearded man wearing round sunglasses and a black t-shirt, featuring beautiful leaf shadows across his face.",
+      "ai_tools": [],
+      "like_count": 10,
+      "view_count": 1355,
+      "copy_count": 1160,
+      "is_premium": false,
+      "published_at": "2026-08-29T17:19:36.673Z",
+      "images": [
+        {
+          "filename": "0efc0382-904f-4944-ae56-fce924268ed4.jpeg",
+          "local_path": "images/macro-close-up/0efc0382-904f-4944-ae56-fce924268ed4.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/0efc0382-904f-4944-ae56-fce924268ed4.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/macro-close-up/0efc0382-904f-4944-ae56-fce924268ed4.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/macro-close-up/0efc0382-904f-4944-ae56-fce924268ed4.jpeg",
+          "width": 1067,
+          "height": 1600,
+          "alt": "Man with round sunglasses and leaf shadows outdoor portrait AI Photo Editing Prompt. AI generated photorealistic portrait of a handsome bearded young man wearing a black t-shirt and shades, standing among green leaves with aesthetic dappled sunlight across his face."
+        }
+      ]
+    },
+    {
+      "id": "6a3bb22dbf79ee5252c3c0cb",
+      "title": "Sunstrip",
+      "slug": "cinematic-monochrome-golden-light-portrait",
+      "category": "Macro / Close-up",
+      "category_slug": "macro-close-up",
+      "prompt": "Use the uploaded photo strictly only for subject’s facial identity reference. Preserve the person’s natural face shape, facial proportions, skin tone, eyes, eyebrows, nose, lips, facial hair if present, and overall likeness. Do not beautify, reshape, masculinize, feminize, or change the person’s identity.\n\nCreate an ultra-realistic cinematic fine-art portrait in a vertical 4:5 composition.\n\nShow the subject in a tight head-and-neck portrait, nearly front-facing with only a subtle three-quarter turn toward camera-left. Keep the head still and natural, with the gaze directed slightly past the camera toward camera-left. The expression is calm, serious, introspective, and intense, with relaxed facial muscles and closed lips—never smiling or exaggerated.\n\nHair should appear naturally textured, with realistic individual strands and a few loose strands falling across the forehead. Preserve the subject’s natural hair color from the uploaded photo.\n\nLighting is the main visual feature: render the portrait almost entirely in deep monochrome black, charcoal, and muted cool gray tones. A single narrow horizontal strip of warm golden-amber light passes cleanly across both eyes, the bridge of the nose, and the upper cheeks, as though direct sunlight is entering through a very narrow window slit. The light band must have crisp, clearly defined top and bottom edges, remain narrow, and create a strong contrast against the surrounding darkness.\n\nThe golden light should reveal detailed eyelashes, eye reflections, eyebrow texture, pores, and subtle cheek texture, but it must not make the eyes look supernatural or change their natural iris color. Keep all warmth strictly inside this narrow light strip; the rest of the face, hair, neck, clothing, and background should remain heavily desaturated and shadowy.\n\nFrame the face large in the composition, with the eyes placed near the upper third. Let the hair occupy the upper frame naturally, while the jaw, neck, and shoulders gradually disappear into rich black shadow. The subject wears a plain black collared shirt or dark jacket that blends softly into the darkness.\n\nBackground: pure seamless black with no visible objects, texture, light sources, or environmental detail.\n\nRendering quality: extremely realistic skin pores, subtle natural imperfections, detailed facial hair or stubble where applicable, sharp eyelashes, realistic hair strands, controlled micro-contrast, rich blacks, deep shadow retention, and premium editorial retouching. Preserve realistic skin texture; do not smooth the face excessively.\n\nCamera style: tight 85mm portrait lens, eye-level camera with a very subtle low-angle feel, f/2.0, shallow depth of field, ISO 100, studio-quality sharpness, cinematic high dynamic range.\n\nMood and style: mysterious, powerful, luxurious, dark editorial fashion photography, cinematic black-and-gold fine-art portrait.\n\nAvoid: colorful lighting outside the eye band, broad sunlight across the full face, glowing or fantasy eyes, harsh face paint effect, overexposed gold highlights, flat lighting, visible background details, soft blurry eyes, artificial skin smoothing, exaggerated expression, smile, accessories, glasses, hats, jewelry, text, watermark, logo, cartoon, CGI, illustration, painting, lens distortion, low-resolution details.",
+      "description": "Cinematic Monochrome Photography Prompt: Use this prompt to create a dark, moody studio portrait of a person with a golden light streak across her eyes.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 32,
+      "view_count": 1441,
+      "copy_count": 2054,
+      "is_premium": false,
+      "published_at": "2026-08-10T15:04:34.961Z",
+      "images": [
+        {
+          "filename": "e8adde6f-f360-4683-bbb5-e0606bba3014.webp",
+          "local_path": "images/macro-close-up/e8adde6f-f360-4683-bbb5-e0606bba3014.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e8adde6f-f360-4683-bbb5-e0606bba3014.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/macro-close-up/e8adde6f-f360-4683-bbb5-e0606bba3014.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/macro-close-up/e8adde6f-f360-4683-bbb5-e0606bba3014.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Dramatic Light AI Photo Editing Prompt. AI generated digital artistic portrait of a young man in monochrome, with a horizontal band of golden light illuminating his eyes against a dark backdrop."
+        },
+        {
+          "filename": "7d68e67a-4bbe-41a0-8f67-53984f949e89.webp",
+          "local_path": "images/macro-close-up/7d68e67a-4bbe-41a0-8f67-53984f949e89.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7d68e67a-4bbe-41a0-8f67-53984f949e89.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/macro-close-up/7d68e67a-4bbe-41a0-8f67-53984f949e89.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/macro-close-up/7d68e67a-4bbe-41a0-8f67-53984f949e89.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Golden Light Streak Portrait of Woman AI Photo Editing Prompt. AI generated dramatic portrait of a young woman with a sharp, horizontal band of golden light across her eyes against a dark, low-key background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670407",
+      "title": "Saturated",
+      "slug": "dramatic-black-white-wet-portrait",
+      "category": "Macro / Close-up",
+      "category_slug": "macro-close-up",
+      "prompt": "Create a striking, high-contrast, close-up black-and-white portrait using the uploaded image as the primary facial reference.\nFace Accuracy (Critical)\n\nMatch the face with 100% identity accuracy. Preserve exact facial structure, bone anatomy, jawline, cheekbones, forehead proportions, eyebrow thickness and shape, eye size and spacing, nose structure, lip shape, chin contour, and natural skin texture. Maintain natural asymmetry and authentic pores. Do not beautify, stylize, or alter proportions. Remove all accessories. The subject must remain clearly recognizable.\nFraming & Composition\n\nVertical 2:3 aspect ratio.\n\nExtreme close-up framed from slightly above the forehead to just below the chin.\n\nOnly the left half of the face is illuminated and fully visible; the right half disappears into deep obsidian shadow.\n\nEye positioned near the upper-right rule-of-thirds intersection.\n\nSubject fills approximately 70–75% of the frame with negative space on the shadow side.\n\nBackground pure black, seamless, textureless.\n\nMood intimate, intense, claustrophobic.\nExpression & Gaze\n\nSolemn, piercing expression.\n\nDirect eye contact.\n\nHead straight, no tilt.\n\nLips slightly parted.\n\nEmotion neutral but haunting.\nWater & Skin Detail\n\nFace covered in abundant water droplets — mix of fine mist and larger spherical beads.\n\nPhysically accurate droplets with strong specular highlights, some merging into micro-streaks.\n\nMoist reflective sheen across skin.\n\nUltra-detailed pores, natural grain, crisp eyebrow texture.\n\nFine moisture on lips.\n\nCatchlight sharp in iris; eye in perfect focus.\nLighting (Chiaroscuro – Critical)\n\nSingle directional light from camera-right, angled slightly downward.\n\nNo fill, no rim light.\n\nStrong shadow falloff into pure black.\n\nDeep crushed blacks with bright specular highlights on droplets.\n\nSculptural three-dimensional modeling of facial planes.\nOptics & Quality\n\n85mm–100mm macro portrait lens equivalent.\n\nShallow depth of field (f/2–f/2.8 feel).\n\nEye and nearby droplets razor sharp; ear softly fading.\n\nPure monochrome greyscale with full tonal range.\n\nUltra-realistic 8K studio photography, high micro-contrast, very subtle fine film grain, no digital artifacts.",
+      "description": "Google Gemini AI Portrait Editing Prompt: Use this prompt to generate dramatic, high-contrast black and white photography. It creates a realistic close-up of a woman’s face featuring water droplets and intense, moody lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 875,
+      "copy_count": 1828,
+      "is_premium": false,
+      "published_at": "2026-08-08T20:13:47.652Z",
+      "images": [
+        {
+          "filename": "bw-wet-skin-close-up-portrait-by-promptplum.webp",
+          "local_path": "images/macro-close-up/bw-wet-skin-close-up-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bw-wet-skin-close-up-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/macro-close-up/bw-wet-skin-close-up-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/macro-close-up/bw-wet-skin-close-up-portrait-by-promptplum.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Woman with Water Droplets AI Photo Editing Prompt. AI generated high-contrast portrait of a woman's face covered in realistic water droplets with dramatic chiaroscuro lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703a2",
+      "title": "Golden Iris",
+      "slug": "black-and-white-male-portrait-amber-eye",
+      "category": "Macro / Close-up",
+      "category_slug": "macro-close-up",
+      "prompt": "Reference & Identity (STRICT)\n\nUse the uploaded image as a strict facial identity reference.\n\nThe subject’s face must remain 100% identical to the reference.\nPreserve exactly:\n\nFacial structure, bone anatomy, jawline, cheekbones\nEye shape, spacing, eyelids, gaze\nNose bridge, nostrils, lips, mouth shape\nBeard/mustache density and pattern (if present)\nSkin tone, undertone, pores, scars, micro-details\nHairline, hairstyle, density\n❌ No beautification\n\n❌ No stylization\n\n❌ No face reshaping\n\n❌ No identity drift\n🎬 MAIN CONCEPT\nCreate a striking, high-contrast, extreme close-up (ECU) portrait that blends gritty realism with cinematic stylization.\n\nThe image must feel raw, intense, dramatic, and emotionally charged.\nThe mood should evoke:\nendurance, struggle, focus, apex-predator energy.\n📐 COMPOSITION & FRAMING\nShot Type: Extreme Close-Up (ECU)\nFraming:\n\nThe frame is filled entirely by the central facial features:\nBridge of the nose\nOne visible eye (viewer’s left)\nMouth and upper lip\nPerspective: Eye-level, confrontational\nSymmetry:\n\nSlightly asymmetrical — wet strands of hair cut across the face, obscuring the opposite eye for mystery and chaos.\n💡 LIGHTING & COLOR PROFILE\nColor Style: Selective desaturation\nEntire image in deep grayscale\nOnly the visible iris remains in glowing amber / burnt orange\nLighting:\n\nHigh-contrast directional light from the top-right\nCreates deep chiaroscuro shadows\nStrong sculpting across the nose bridge and orbital bone\nHighlights:\n\nSpecular reflections on water droplets and skin, giving a wet metallic sheen\n🔬 TEXTURE & MICRO DETAIL\nSkin:\n\nExtreme micro-contrast — pores, fine lines, follicles clearly visible\n\nCovered in water droplets of different sizes, refracting light\nEye:\n\nUltra-detailed iris with radial patterns and Fuchs’ crypts\n\nSubtle sclera veins visible\nHair:\n\nWet, dark strands — thick, sharp, obsidian-like\nBeard / Mustache:\n\nCoarse, individual bristles, sharply defined\n🎨 POST-PROCESSING STYLE\nHeavy clarity / structure enhancement\nHyper-real texture, tactile realism\nSharp cinematic contrast\nNo blur, no softness, no glow haze\n🏷 TYPOGRAPHY & BRANDING\nBottom-left watermark:\nPrimary:\n\nPromptPlum.com (clean sans-serif)\nSecondary (small, stylized):\n\nAll prompts are freely available\n🧠 AESTHETIC SUMMARY\nA gritty cinematic apex portrait — raw, intense, powerful.\n\nMonochrome world + glowing amber eye = supernatural dominance.\n⚠️ Negative Prompt\nLow resolution, blur, smooth skin, plastic texture, beauty filter, soft lighting, flat lighting, color bleeding, extra eyes, distorted face, wrong identity, cartoon, anime, oil painting, over-stylization, fantasy skin.",
+      "description": "Generate hyper-realistic black and white portraits with a glowing amber eye and wet skin droplets. This AI prompt creates moody, cinematic art with professional-grade textures and extreme detail.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 141,
+      "view_count": 3289,
+      "copy_count": 7803,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "black-and-white-male-portrait-with-glowing-amber-eye-ai-prompt.webp",
+          "local_path": "images/macro-close-up/black-and-white-male-portrait-with-glowing-amber-eye-ai-prompt.webp",
+          "original_url": "https://img.promptplum.com/promptImages/black-and-white-male-portrait-with-glowing-amber-eye-ai-prompt.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/macro-close-up/black-and-white-male-portrait-with-glowing-amber-eye-ai-prompt.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/macro-close-up/black-and-white-male-portrait-with-glowing-amber-eye-ai-prompt.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Cinematic B&W close-up of a man's face with glistening water droplets. A single, glowing amber eye pierces through the monochrome. Moody and hyper-realistic."
+        }
+      ]
+    }
+  ]
+}

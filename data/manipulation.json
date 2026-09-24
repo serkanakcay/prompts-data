@@ -1,0 +1,196 @@
+{
+  "category": "Manipulation",
+  "slug": "manipulation",
+  "total_prompts": 2,
+  "updated_at": "2026-09-24T13:09:09Z",
+  "prompts": [
+    {
+      "id": "6a63bf0db99e3a48ae8f1282",
+      "title": "Trending Doodle Shadow",
+      "slug": "real-photo-doodle-art-portrait",
+      "category": "Manipulation",
+      "category_slug": "manipulation",
+      "prompt": "Use the uploaded character reference image as the strict identity and outfit reference. Preserve the reference character’s face identity, facial proportions, eye shape, nose, lips, skin tone, hairstyle, hair color, visible accessories, overall recognizable vibe, outfit and styling shown in the reference image\n\nDo not hardcode any specific character traits that are not present in the uploaded reference.\nAll identity, hairstyle, accessories, and clothing details must be inferred directly from the uploaded reference image.\n\nCreate a high-quality mixed-style vertical portrait showing:\n1. a realistic full-body version of the uploaded character/person\n2. a black hand-drawn doodle-shadow version of the same character/person on the wall beside them\n\nCore concept:\nThe real person and their doodle-shadow are doing a playful mischievous pose together.\nThe real person performs a cute realistic version of the pose, while the doodle-shadow performs a much more exaggerated, chaotic, cartoonish version of the same pose idea.\nThe mood should feel cute, playful, mischievous, stylish, funny, and social-media-friendly.\n\nReal person:\n- Must remain realistic and photogenic\n- Must wear the same outfit style and key visible details from the uploaded reference image\n- Do not replace the reference styling with unrelated fashion\n- Expression should be cute, slightly confused, mildly embarrassed, playful, as if thinking: “Why am I doing this with my shadow?”\n- The real person should not stand stiffly\n- The real person should actively participate in the pose, but in a natural realistic way\n\nDoodle-shadow:\n- Must be a black hand-drawn sketch version of the same person, drawn directly on the wall\n- Not a realistic second person\n- Not a normal physical shadow\n- Not a full-color anime character\n- Black sketch line-art only\n- Should resemble the person through hairstyle silhouette, accessories, outfit silhouette, and pose structure\n- The doodle-shadow should look more energetic, sillier, and more chaotic than the real person\n- Add manga-like motion lines, hearts, stars, sparkles, and comic marks around the doodle if helpful\n\nRandom mischievous pose rule:\nThe pose must NOT be fixed.\nFor each generation, invent a new playful mischievous pose for both the real person and the doodle-shadow.\nThe real person and the doodle-shadow should share the same general pose idea, but they do not need to match perfectly.\nThe real person performs a cute realistic version.\nThe doodle-shadow performs a much more exaggerated, chaotic, cartoonish version.\n\nDo not repeatedly use pointing poses.\nDo not repeatedly use finger-gun poses.\nDo not repeatedly use the same standing pose.\nDo not always make both figures simply point at each other.\n\nCreate a different mischievous pose each time.\n\nPossible pose directions are loose inspiration only, not a fixed menu:\n- playful idol pose\n- silly dance pose\n- leaning sideways with one arm curved overhead\n- making a big heart pose\n- cheeky wink pose\n- hands near cheeks in a cute teasing pose\n- exaggerated “that's it!” pose\n- mock surprise pose\n- playful running-in-place pose\n- mischievous tiptoe pose\n- arms stretched in opposite directions\n- pretending to sneak away\n- cute troublemaker pose\n- dramatic overreaction pose\n- goofy victory pose\n- playful balance pose\n- playful peekaboo pose\n- shy but mischievous pose\n- cute overconfident pose\n\nThe final pose should feel fresh, cute, mischievous, and slightly chaotic.\nThe real person should look like they are reluctantly playing along.\nThe doodle-shadow should look like it is having way too much fun.\n\nComposition:\n- vertical 3:4 or 2:3\n- show the real person in full-body or nearly full-body framing\n- place the real person on one side of the frame\n- place the black doodle-shadow on a clean wall beside them\n- the doodle-shadow should be roughly the same height or slightly taller\n- keep enough space around both figures so the full pose is visible\n- the connection between the real person and the doodle-shadow must be clear at a glance\n\nBackground:\n- simple clean indoor studio wall or minimal room corner\n- white, cream, or pale gray wall\n- clean floor\n- soft natural sunlight patch or gentle wall shadow allowed\n- keep the background uncluttered\n\nLighting:\n- soft natural studio lighting\n- bright, clean, polished, playful mood\n- keep the real person’s face clearly visible\n\nStyle quality:\n- realistic human photography\n- black hand-drawn doodle-shadow on wall\n- matching mischievous pose interaction\n- strong identity resemblance\n- outfit and styling faithfully based on the uploaded reference\n- cute and stylish mixed-media portrait\n- clean composition\n- social-media-friendly\n- no obvious AI artifacts\n\nNegative prompt:\nOutfit change unrelated to reference, realistic second person, normal reflection, normal shadow only, solid black monster shadow, horror shadow, creepy shadow, full-color illustration, cartoon human, anime human, weak resemblance, unrelated sketch character, messy wall, cluttered background, repeated pointing pose, repeated finger-gun pose, same pose every time, fixed pose, boring mirrored pose, stiff pose, identical pose repetition, real person not matching shadow pose, text, watermark, logo, distorted body, extra limbs, extra fingers, bad hands.",
+      "description": "Trending Instagram Doodle Art AI Prompt: Use this prompt to create a realistic studio portrait of a person with an expressive 2D comic doodle on a white wall.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 77,
+      "view_count": 2913,
+      "copy_count": 2018,
+      "is_premium": false,
+      "published_at": "2026-07-24T19:37:49.373Z",
+      "images": [
+        {
+          "filename": "996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "local_path": "images/manipulation/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-10"
+        },
+        {
+          "filename": "74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "local_path": "images/manipulation/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "original_url": "https://img.promptplum.com/promptImages/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Conceptual Photo Doodle AI Photo Editing Prompt. AI generated conceptual portrait of a young man in a white pinstripe shirt poking his cheeks, standing next to a large line-art doodle of his fearfully screaming self with 'EEK!' and 'RAWR!' text."
+        },
+        {
+          "filename": "7b187122-7775-421e-baec-58288223dfe9.webp",
+          "local_path": "images/manipulation/7b187122-7775-421e-baec-58288223dfe9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7b187122-7775-421e-baec-58288223dfe9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/7b187122-7775-421e-baec-58288223dfe9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/7b187122-7775-421e-baec-58288223dfe9.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Real Photo with Doodle Art AI Prompt. AI generated mixed media portrait of a woman adjusting her glasses beside a playful black-and-white doodle sketch."
+        },
+        {
+          "filename": "ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "local_path": "images/manipulation/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-7"
+        },
+        {
+          "filename": "2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "local_path": "images/manipulation/2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/2a91574c-416c-48b3-a174-544278df60fa.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Photo and Comic Sketch Composite AI Photo Editing Prompt. AI generated digital illustration and photo composite portrait of a smiling woman in black and brown clothing next to a hand-drawn comic sketch version of herself"
+        },
+        {
+          "filename": "9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "local_path": "images/manipulation/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Real Photo with Doodle Art AI Photo Editing Prompt. AI generated mixed-media illustration of a smiling man peeking from behind a white wall next to an excited black-and-white cartoon line drawing of himself."
+        },
+        {
+          "filename": "985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "local_path": "images/manipulation/985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "original_url": "https://img.promptplum.com/promptImages/985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/985ea714-dbe5-4358-a138-98d787d81387.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Real Photo and Doodle Art AI Photo Editing Prompt. AI generated mixed media portrait of a winking woman in a pink sweater standing next to a playful black-and-white line illustration."
+        },
+        {
+          "filename": "b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "local_path": "images/manipulation/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Doodle Art Photography AI Photo Editing Prompt. AI generated mixed media portrait of a smiling young man posing beside an excited cartoon doodle giving him bunny ears."
+        },
+        {
+          "filename": "b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "local_path": "images/manipulation/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Woman with Doodle Art Overlay AI Photo Editing Prompt. AI generated mixed media portrait of a smiling woman in a blue cardigan and jeans posing beside her cartoon line art sketch."
+        },
+        {
+          "filename": "24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "local_path": "images/manipulation/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "original_url": "https://img.promptplum.com/promptImages/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Cartoon Doodle Art AI Photo Editing Prompt. AI generated mixed media portrait of a smiling woman in an orange top posing next to an excited black-and-white line art sketch of herself on a white wall."
+        },
+        {
+          "filename": "614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "local_path": "images/manipulation/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "original_url": "https://img.promptplum.com/promptImages/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "AI generated photo-illustration shows a man making a shush gesture against a wall featuring a matching black line art sketch."
+        },
+        {
+          "filename": "ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "local_path": "images/manipulation/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-11"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670496",
+      "title": "Global Wanderlust",
+      "slug": "woman-traveling-world-landmarks-tiny-planet",
+      "category": "Manipulation",
+      "category_slug": "manipulation",
+      "prompt": "Use the uploaded image strictly as the ONLY face and identity reference. No beautification or identity drift.\nCreate an ultra-realistic, vibrant cinematic “tiny planet” (stereographic projection) portrait of a woman standing at the center of a miniature spherical world.\nSubject & Expression:\n\nA cheerful woman with natural length, voluminous wavy brunette hair, looking directly at the camera with a genuine and confident smile. Expression feels lively, friendly, and energetic — not posed or artificial.\nOutfit:\n\nCasual modern outfit — blue denim jacket over a plain white crew-neck t-shirt, fitted blue jeans (slight distress on one knee), and clean white sneakers. Brown leather backpack straps visible on shoulders.\nProps:\n\nRight hand holding a white disposable coffee cup with lid and sleeve, subtle steam rising.\n\nLeft hand holding a smartphone angled toward the camera, showing a colorful abstract map/navigation interface (no readable text).\nComposition & Camera:\n\nExtreme wide-angle fisheye / 360° stereographic “tiny planet” perspective.\n\nCamera positioned slightly above eye level, angled downward.\n\nSubject occupies dominant foreground (~70–80% frame), with the spherical world wrapping around beneath her feet.\n\nAspect ratio 2:3.\nEnvironment (Tiny Planet):\n\nA small, curved spherical ground covered in vibrant green grass with tiny white details (flowers or path markers).\n\nAround the sphere’s edge, seamlessly integrated global landmarks arranged in circular panorama:\n\nEiffel Tower\n\nBurj Al Arab\n\nBig Ben (Elizabeth Tower)\n\nTaipei 101\n\nSt. Basil’s Cathedral\n\nAdditional subtle European-style domes and towers\nLighting (CRITICAL):\n\nBright, cinematic daylight with soft HDR balance.\n\nPrimary light source from top-left with subtle sun flare.\n\nSoft, diffused shadows on the right side of face and clothing.\n\nEven exposure across highlights and shadows (no harsh clipping).\nColor & Style:\n\nHighly saturated, vibrant color palette — rich greens, deep sky blues, warm skin tones, and natural denim texture.\n\nHyper-realistic yet slightly polished AI-rendered aesthetic (smooth skin, refined detail, clean edges).\n\nMaintain depth, clarity, and sharpness across entire frame.\nAdditional Notes:\n\nKeep all elements physically stylized but visually believable.\n\nNo text, watermark, or branding.\n\nTiny Planet not cropped.\n\nEnsure strong depth and curvature effect of the tiny planet.",
+      "description": "Surreal 3D Digital Illustration Prompt: Use this prompt to create a vibrant miniature world image of a smiling traveler surrounded by iconic global landmarks on a grassy globe.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 954,
+      "copy_count": 1735,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-1.webp",
+          "local_path": "images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-1.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Girl on Tiny Planet with Global Landmarks AI Photo Editing Prompt. AI generated digital illustration of a young woman holding coffee and a smartphone while standing atop a miniature grassy globe surrounded by iconic world landmarks."
+        },
+        {
+          "filename": "woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-2.webp",
+          "local_path": "images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-2.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Woman on Tiny Planet with World Landmarks Prompt. AI generated digital illustration of a playful woman holding coffee and a smartphone while standing on a grassy tiny planet surrounded by famous global landmarks."
+        },
+        {
+          "filename": "woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-3.webp",
+          "local_path": "images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/manipulation/woman-on-tiny-planet-with-world-landmarks-digital-illustration-by-promptplum-3.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "AI generated digital illustration of a smiling woman standing on a grassy mini-globe surrounded by iconic international landmarks while holding a coffee and a smartphone."
+        }
+      ]
+    }
+  ]
+}

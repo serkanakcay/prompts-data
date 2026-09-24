@@ -1,0 +1,379 @@
+{
+  "category": "Magazine Cover Art",
+  "slug": "magazine-cover-art",
+  "total_prompts": 9,
+  "updated_at": "2026-09-24T13:09:04Z",
+  "prompts": [
+    {
+      "id": "6a6e6d2a4bbdbe2cf55b6656",
+      "title": "Quiet Luxury Men's Fashion Magazine",
+      "slug": "mens-fashion-magazine-cover",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "> **Create a hyper-realistic, luxury men's fashion magazine cover portrait of a young man sitting confidently on a studio floor. He is wearing a premium ribbed knit polo shirt in rich chocolate brown and beige color blocks with a short zipper collar, paired with tailored dark brown trousers and elegant suede Chelsea boots in taupe. Add a luxury silver wristwatch. The pose is relaxed and stylish, with one knee raised and one arm resting naturally, making direct eye contact with the camera with a calm, confident expression. Thick, naturally wavy hair, clean skin, sharp facial details, natural proportions, and preserve the uploaded person's facial identity accurately (strong face match).**\n\n> **Background:** seamless warm mocha-brown studio backdrop with a soft gradient, matching wooden floor, clean luxury editorial look.\n\n> **Magazine Design:** Large elegant serif title ** in the background, small heading **\"MEN'S FASHION\"** at the top, multiple text groups on the sides, modern editorial typography, premium fashion magazine layout, minimal text blocks, balanced composition, luxury branding style.\n\n> **Lighting:** soft cinematic studio lighting, large softbox, warm golden highlights, gentle shadows, high dynamic range, realistic skin tones, subtle rim light, premium fashion photography.\n\n> **Camera:** Full-body portrait, eye-level angle, 85mm lens, f/2.0, ultra-sharp focus, shallow depth of field, professional composition.\n\n> **Quality:** ultra-realistic, 8K, HDR, photorealistic, magazine cover quality, luxury editorial, premium color grading, highly detailed fabric texture, realistic skin pores, natural hands, crisp focus, no distortion, no blur, no noise, no watermark, no logo artifacts, masterpiece, best quality.\n\nAspect ratio 3:4\n\n**Negative Prompt:**\n\n> low quality, blurry, cartoon, CGI, painting, bad anatomy, extra fingers, missing fingers, deformed hands, duplicate body parts, distorted face, wrong face, low resolution, overexposed, underexposed, oversaturated, watermark, logo, text errors, cropped body, unnatural pose, plastic skin, noise, artifacts, out of frame.",
+      "description": "Men's Fashion Magazine Prompt: Use this prompt to create a realistic editorial cover featuring a stylish man in autumn knitwear sitting on a wooden floor.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 5,
+      "view_count": 394,
+      "copy_count": 382,
+      "is_premium": false,
+      "published_at": "2026-08-01T23:30:00.011Z",
+      "images": [
+        {
+          "filename": "ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "local_path": "images/magazine-cover-art/ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/ebfea188-7068-4ccc-95bf-f40c3a43f60a.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Men's Fashion Magazine Cover AI Photo Editing Prompt. AI generated studio portrait of a male model in brown knitwear sitting on a wooden floor with a magazine cover layout."
+        },
+        {
+          "filename": "9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "local_path": "images/magazine-cover-art/9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/9d707e7c-5a30-4c95-8ee8-722a90e213df.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Men's Fashion Magazine Cover AI Photo Editing Prompt"
+        },
+        {
+          "filename": "46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "local_path": "images/magazine-cover-art/46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/46a81975-7884-480d-a0bf-0291bd768f8c.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Magazine Cover Photo AI Prompt. AI generated studio portrait of a young man in brown knitwear and suede Chelsea boots sitting on a wooden floor."
+        }
+      ]
+    },
+    {
+      "id": "6a6e506b4bbdbe2cf559d963",
+      "title": "High-End Men's Fashion Editorial Photography",
+      "slug": "fashion-editorial-magazine-cover",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "> **Create a hyper-realistic luxury fashion portrait of the uploaded person, preserving their exact facial features, hairstyle, skin tone, and identity with a highly accurate face match.** The subject is casually leaning against a glossy black luxury sports car parked in front of a modern five-star hotel entrance with elegant glass architecture and warm golden ambient lighting. The subject wears a premium chocolate-brown suede bomber jacket over a crisp white crew-neck T-shirt, tailored high-waisted beige trousers, clean white luxury leather sneakers, a sophisticated silver wristwatch, and stylish black designer sunglasses. The pose is confident, relaxed, and effortless, with hands in pockets and one leg crossed naturally.\n>\n> The composition is editorial and cinematic with a luxury lifestyle aesthetic. Include soft golden-hour lighting, realistic reflections on the car, shallow depth of field, creamy bokeh, premium color grading, ultra-sharp facial details, realistic fabric textures, natural skin tones, and high-end fashion magazine quality. Place elegant magazine style typography on the left side: Use gold, white, and black typography in a clean editorial layout.\n>\n> **Ultra-realistic, photorealistic, 8K UHD, HDR, DSLR quality, 85mm lens, f/1.8 aperture, cinematic lighting, luxury lifestyle photography, Vogue editorial, premium composition, razor-sharp focus, highly detailed, realistic shadows, natural perspective, masterpiece, award-winning fashion photography, face perfectly matched to the uploaded photo.**\n\n**Negative Prompt:**\n\n> low quality, blurry, cartoon, anime, painting, CGI, overexposed, underexposed, distorted face, bad anatomy, extra fingers, duplicate body parts, watermark, logo, text errors, low resolution, noise, oversaturated colors, unrealistic skin, cropped face, out of frame, artifacts, deformed hands, poor lighting, inaccurate face match.\n\n--- Aspect ratio 3:4",
+      "description": "Men's Fashion Magazine Cover Prompt: Use this premium prompt to create a realistic editorial portrait of a stylish man leaning against a black luxury sports car.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 1290,
+      "copy_count": 6,
+      "is_premium": true,
+      "published_at": "2026-08-01T20:00:43.449Z",
+      "images": [
+        {
+          "filename": "cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "local_path": "images/magazine-cover-art/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "local_path": "images/magazine-cover-art/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "local_path": "images/magazine-cover-art/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "width": 896,
+          "height": 1200,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-1"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f2",
+      "title": "Modern Utility",
+      "slug": "male-fashion-magazine-graphic-art",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "Create a premium high-fashion workwear magazine cover in a vertical 4:5 editorial poster format.\nA stylish male subject walks confidently toward the camera in a full-body runway-style pose, centered in the frame. His body is slightly in motion, one foot stepping forward, right hand casually inside the trouser pocket, left hand relaxed beside the body. His expression is calm, serious, and fashion-editorial. He wears narrow black sunglasses, slightly tousled dark hair, and a subtle layered silver chain necklace.\n\nOutfit\nOversized dark charcoal / black workwear jacket, worn open\nClean white crewneck sweatshirt with a small square heritage-style logo patch on the left chest\nLoose dark charcoal wide-leg pleated trousers with natural drape and folds\nChunky polished black leather shoes\nOverall styling should feel minimal, utilitarian, premium, and street-luxury\n\nScene & Lighting\nSet the subject in a dark grey studio environment with a smooth seamless backdrop and slightly reflective floor. Use soft directional studio lighting from the front-left, creating realistic shadows on the floor and adding depth to the clothing. The image should have a muted monochrome palette with crisp contrast, clean skin tones, and high-end fashion campaign quality.\n\nComposition\nFull-body framing, subject vertically centered\nSlightly low, straight-on editorial camera angle\nSubject overlaps the background typography naturally\nClean negative space around the upper and side areas for text\nPremium magazine-cover balance and hierarchy\n\nTypography & Graphic Layout\nDesign the image like a bold fashion magazine poster cover:\nAt the very top, oversized bold white text: “WIP”\nSmall condensed white text at the top-right: “HOMME”\nBehind the subject, huge dark semi-transparent text spanning the width: “CARHARTT”\nOn the right-middle side, large bold white number: “01”\nOn the lower-left side, four small editorial text blocks with bold headings and short subtext, laid out like magazine cover blurbs\nBottom-right corner, very large condensed white headline: “FASHION”\n\nVisual Style\nUltra-realistic fashion editorial photography, luxury streetwear campaign, magazine-cover graphic design, crisp fabric details, natural garment folds, sharp typography integration, professional studio shadows, premium workwear aesthetic, clean commercial retouching, high contrast, sophisticated and modern.",
+      "description": "Male Fashion Magazine Cover Art Prompt: Use this prompt to generate professional high-end editorial covers featuring a stylish man in premium charcoal streetwear with bold typography and a minimalist studio aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 67,
+      "view_count": 2102,
+      "copy_count": 5991,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "local_path": "images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Male Fashion Magazine Cover AI Photo Editing Prompt. AI generated digital graphic art of a male model wearing charcoal workwear and sunglasses in a high-fashion magazine layout."
+        },
+        {
+          "filename": "male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "local_path": "images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Modern Male Workwear Magazine Cover AI Photo Editing Prompt. AI generated digital fashion magazine cover featuring a man in a black chore jacket and white t-shirt walking on a studio runway."
+        },
+        {
+          "filename": "male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "local_path": "images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/male-fashion-magazine-cover-graphic-art-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital fashion magazine cover of a man wearing a charcoal utility jacket and sunglasses walking forward in a professional studio setting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704b8",
+      "title": "Lunar Luxe",
+      "slug": "high-fashion-magazine-style-portrait-woman-blazer",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "Create a high-fashion editorial magazine cover with a centered, symmetrical medium close-up (chest-up). The subject faces forward with a natural, relaxed posture, chin slightly lifted and gaze subtly directed downward through the lenses, creating a cool, confident, stylish editorial vibe without stiffness.\nIdentity preservation: keep the same person’s facial structure, proportions, and unique features consistent with the input image. Maintain likeness naturally. Avoid altering face shape or key features. Do not over-modify or stylize the face.\nThe subject wears oversized gold aviator sunglasses with deep amber-brown gradient lenses. Lenses include clean, high-contrast white studio reflections.\nAccessories are clearly visible: small gold hoop earrings and a delicate gold chain necklace with a centered crescent moon pendant resting naturally on the chest.\nThe outfit is a perfectly tailored deep black satin blazer (true black). The fabric appears smooth, soft, and premium, with subtle light reflections and clean structure. No wrinkles, no stiffness, no faded tones.\nMakeup detail: lips feature a soft terracotta-nude semi-gloss lipstick, smooth and refined with gentle highlights, maintaining a natural editorial finish.\nHairstyle is a clean tied-back updo, neatly pulled away from the face with slight crown volume. A few soft loose strands near the ears add natural elegance.\nBackground is a rich deep ochre-gold with warm brown undertones, with a subtle radial gradient slightly brighter behind the head.\nLarge serif text “STYLE” appears behind the subject in a muted metallic gold tone, softly integrated into the background. The subject slightly overlaps the text for natural depth.\nLighting is soft yet directional and premium:\n\na gentle key light from front-right creating warm highlights,\n\nsoft shadows under the jawline and blazer,\n\na subtle rim light for separation.\nThe overall image should feel rich, deep, and editorial, with balanced contrast and no flat lighting.\n4K, Ultra-realistic, sharp details, luxury fashion magazine aesthetic.\n--ar 4:5",
+      "description": "Fashion Magazine Photography Prompt: Copy & Paste this prompt to generate a professional studio portrait of a stylish woman wearing aviator sunglasses and a black blazer for a magazine cover.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 824,
+      "copy_count": 2157,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-2.webp",
+          "local_path": "images/magazine-cover-art/woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Stylish Woman in Black Blazer AI Photo Editing Prompt. AI generated fashion studio portrait of a woman wearing aviator sunglasses and a black blazer against a golden background with \"STYLE\" typography."
+        },
+        {
+          "filename": "woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-1.webp",
+          "local_path": "images/magazine-cover-art/woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/woman-in-aviator-sunglasses-and-black-blazer-fashion-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated fashion portrait of a blonde woman wearing aviator sunglasses and a black blazer against a golden background with \"STYLE\" typography."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670453",
+      "title": "Self-Made",
+      "slug": "male-model-navy-suit-magazine-cover",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "Create a hyper-realistic, high-end fashion editorial portrait of a stylish young male model styled like a luxury magazine cover.\nUse the uploaded image as a strict identity reference. The subject’s facial structure, proportions, skin tone, hairstyle, and natural features must remain 100% identical. No beautification, no stylization, no identity drift.\nFace Matching & Identity Accuracy\nPreserve exact:\n\nJawline structure and sharpness\nNatural skin texture with visible pores (no plastic smoothing)\nEye shape, spacing, and gaze direction\nNose proportions and facial symmetry\nHair: soft, slightly tousled, natural volume with realistic texture (not overly styled)\nExpression remains:\n\nCalm, confident, contemplative\nNeutral lips, subtle intensity\nEyes looking off-camera to the right\nPose & Body Language (VERY IMPORTANT — match precisely)\nStanding upright, close to a wall\nBody slightly angled to the left (~10–15°)\nHead turned to the right (~40–45°), forming a clean three-quarter profile\nChin slightly lifted for a sharp editorial jawline\nHands detail (critical):\n\nBoth hands positioned at the lower front of the jacket\nFingers gently holding and adjusting the middle button area\nGesture is natural, not posed — looks like mid-adjustment\nElbows slightly bent, relaxed but structured\nOverall posture:\n\nClean, controlled, editorial stance\nNo exaggerated posing — minimal, refined movement\nOutfit & Styling (Refined, Not Overly Rich)\nSuit: dark navy blue (#151821), muted and matte, not overly glossy or saturated\nFabric: modern, smooth, slightly soft texture (not heavy luxury shine)\nFit: slim, modern tailoring with clean structure\nShirt: crisp white, structured collar\nTie: deep dark forest green, low brightness, slightly desaturated, almost blending into the suit tone\nWatch: silver stainless steel with dark dial, minimal and elegant\n👉 Key note:\nOverall palette is controlled, and editorial.\nComposition & Framing\nVartical (4:5 aspect ratio)\nMedium portrait (mid-torso up)\nSubject centered\nOccupies ~60–70% of frame height\nHead and shoulders overlapping background typography (important layering effect)\nBackground & Typography (Critical Fix)\nSmooth Gray gradient studio backdrop\nLarge serif typography “MADE” behind subject\nTypography styling:\n\nColor: White\nElegant, high-fashion serif font\nWide letter spacing\nSubject partially covers letters → creates depth like a magazine cover\nDepth & Spatial Detail\nSubject positioned very close to background\nMinimal depth separation\nClean editorial flatness with subtle realism\nLighting Setup\nSoft, diffused professional studio lighting\nKey light:\n\nFront-right (his left), 45° angle\nSoft highlights on face and suit\nFill light:\n\nGentle front-left fill to retain facial detail\nShadow behavior:\n\nSoft shadow cast on wall (viewer’s left side)\nShadow follows head + shoulder silhouette naturally\nNo harsh contrast, no dramatic lighting — keep it refined and editorial\nCamera & Image Quality\n85mm portrait lens\nEye-level camera\nAperture: f/2.8\nSharp subject, slightly softened background\nUltra-high resolution (8K)\nHyper-realistic detail\nNatural skin texture\nCrisp fabric rendering\nPremium fashion editorial color grading (muted, controlled tones)\nStyle Keywords\nhigh-end fashion editorial, luxury magazine cover, minimalist styling, muted color palette, modern tailoring, clean composition, refined masculinity, soft studio lighting, premium realism",
+      "description": "Google Gemini AI Prompt to generate a professional magazine-style fashion portrait of a stylish young man in a tailored navy blue suit and green tie against a minimalist studio background with \"MADE\" typography.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 709,
+      "copy_count": 1047,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "local_path": "images/magazine-cover-art/young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/young-man-in-navy-blue-suit-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Fashion Photography Prompt. AI generated studio portrait of a young man in a dark navy suit and green tie adjusting his jacket button against a gray background with \"MADE\" text."
+        },
+        {
+          "filename": "young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "local_path": "images/magazine-cover-art/young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/young-man-in-navy-blue-suit-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Young Man in Navy Suit AI Photo Editing Prompt. AI generated studio portrait of a sharp-featured young man in a navy blue suit and dark green tie adjusting his jacket against a grey background with \"MADE\" typography."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670452",
+      "title": "The Editorial Edge",
+      "slug": "magazine-professional-menswear-style",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "Create a hyper-realistic, high-end fashion editorial portrait of a male model styled like a luxury magazine cover.\nUse the uploaded image as a strict identity reference. The subject’s facial structure, proportions, skin tone, hairstyle, and natural features must remain 100% identical. No beautification, no stylization, no identity drift.\nFace Matching & Identity Accuracy\nPreserve exact:\n\nJawline structure and sharpness\nNatural skin texture with visible pores (no plastic smoothing)\nEye shape, spacing, and gaze direction\nNose proportions and facial symmetry\nHair: soft, slightly tousled, natural volume with realistic texture (not overly styled)\nExpression remains:\n\nCalm, confident, contemplative\nNeutral lips, subtle intensity\nEyes looking off-camera to the right\nPose & Body Language (VERY IMPORTANT — match precisely)\nStanding upright, close to a wall\nBody slightly angled to the left (~10–15°)\nHead turned to the right (~40–45°), forming a clean three-quarter profile\nChin slightly lifted for a sharp editorial jawline\nHands detail (critical):\n\nBoth hands positioned at the lower front of the jacket\nFingers gently holding and adjusting the middle button area\nGesture is natural, not posed — looks like mid-adjustment\nElbows slightly bent, relaxed but structured\nOverall posture:\n\nClean, controlled, editorial stance\nNo exaggerated posing — minimal, refined movement\nOutfit & Styling (Refined, Not Overly Rich)\nSuit: dark navy blue (#151821), muted and matte, not overly glossy or saturated\nFabric: modern, smooth, slightly soft texture (not heavy luxury shine)\nFit: slim, modern tailoring with clean structure\nShirt: crisp white, structured collar\nTie: deep dark forest green, low brightness, slightly desaturated, almost blending into the suit tone\nWatch: silver stainless steel with dark dial, minimal and elegant\n👉 Key note:\nOverall palette is controlled, muted, and editorial — not loud luxury.\nComposition & Framing\nVartical (4:5 aspect ratio)\nMedium portrait (mid-torso up)\nSubject centered\nOccupies ~60–70% of frame height\nHead and shoulders overlapping background typography (important layering effect)\nBackground & Typography (Critical Fix)\nClean white studio wall\nLarge serif typography “MADE” behind subject\nTypography styling:\n\nColor: same as tie tone but slightly darker and deeper\nNot pure black — use a deep muted green-black tone\nElegant, high-fashion serif font\nWide letter spacing\nSubject partially covers letters → creates depth like a magazine cover\nDepth & Spatial Detail\nSubject positioned very close to background\nMinimal depth separation\nClean editorial flatness with subtle realism\nLighting Setup\nSoft, diffused professional studio lighting\nKey light:\n\nFront-right (his left), 45° angle\nSoft highlights on face and suit\nFill light:\n\nGentle front-left fill to retain facial detail\nShadow behavior:\n\nSoft shadow cast on wall (viewer’s left side)\nShadow follows head + shoulder silhouette naturally\nNo harsh contrast, no dramatic lighting — keep it refined and editorial\nCamera & Image Quality\n85mm portrait lens\nEye-level camera\nAperture: f/2.8\nSharp subject, slightly softened background\nUltra-high resolution (8K)\nHyper-realistic detail\nNatural skin texture\nCrisp fabric rendering\nPremium fashion editorial color grading (muted, controlled tones)\nStyle Keywords\nhigh-end fashion editorial, luxury magazine cover, minimalist styling, muted color palette, modern tailoring, clean composition, refined masculinity, soft studio lighting, premium realism",
+      "description": "Google Gemini AI Photography Prompt: Use this prompt to generate a professional fashion magazine cover featuring a man in a navy suit and dark green tie. It creates high-quality studio portraits with elegant typography and a minimalist aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 33,
+      "view_count": 869,
+      "copy_count": 1297,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-navy-suit-adjusting-button-portrait-by-promptplum.webp",
+          "local_path": "images/magazine-cover-art/man-in-navy-suit-adjusting-button-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-navy-suit-adjusting-button-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/man-in-navy-suit-adjusting-button-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/man-in-navy-suit-adjusting-button-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Navy Suit AI Photo Editing Prompt. AI generated studio portrait of a sharp-dressed man in a navy suit and dark green tie adjusting his jacket against a white background with \"MADE\" typography."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670433",
+      "title": "Umber & Onyx",
+      "slug": "mens-brown-suit-fashion-magazine",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "Create a full-body cinematic studio portrait of a stylish man with a refined, confident aura. Use the attached reference image for precise facial identity matching. Preserve the exact facial structure and likeness, including the same jawline definition, cheekbone structure, eyebrow shape, nose proportions, lip shape, beard density (if present), haircut length and styling, and natural skin tone. He is wearing a tailored, slim-fit chocolate-brown two-piece buttoned suit over a black ribbed turtleneck sweater, accented by a crisp white pocket square. Black belt. A delicate gold curb chain necklace rests over the turtleneck, complemented by rimless gold-framed spectacles and a luxury gold wristwatch with a leather strap. He is shod in highly polished, mirror-finish black patent leather oxfords with black socks.\n\nPose & Expression: He stands in a relaxed yet commanding \"power lean\" with his legs crossed at the ankles. One hand is tucked into his trouser pocket, while the other lightly adjusts the lapel of his blazer. His expression is calm and stoic, with a sharp jawline, looking off-camera to the right in a contemplative profile view.\nComposition & Camera Angle: A full-body vertical composition shot at eye-level. The subject is centred, creating a strong vertical line against the minimalist backdrop.\nBackground: A smooth, seamless, dark grey matte studio backdrop, infinity curve, zero texture, no visible corners, with a subtle vignette effect to draw focus toward the subject. The floor is a matching dark grey, creating a \"limitless\" void effect.\nIn the upper frame, behind the subject, place a very large white coloured text \"MAGAZINE\". The typography features a bold, high-contrast serif font that is vertically elongated by 20-30% to create a sleek, compressed editorial aesthetic.\nLighting: Professional three-point studio lighting. A soft key light from the upper left creates gentle highlights on his face and the texture of the suit fabric, while a subtle rim light separates his silhouette from the dark background. Soft, diffused shadows emphasize the tailoring of the clothes.\nTechnical Details: Photorealistic, 8k resolution, shot on a Sony A7R IV with an 85mm f/1.8 lens for sharp focus and compression. Visible fabric textures (wool blend of the suit, fine knit of the turtleneck), realistic skin pores, and crisp reflections on the glasses and shoes. Aspect ratio 4:5.",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a sophisticated fashion magazine cover featuring a stylish man in a tailored brown suit and black turtleneck against a minimalist grey studio backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 517,
+      "copy_count": 733,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "local_path": "images/magazine-cover-art/Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/Man-in-brown-suit-magazine-style-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Brown Suit Magazine Style Photo Editing Prompt. AI generated studio portrait of a young man wearing a brown suit and black turtleneck posing against a dark grey background with \"MAGAZINE\" text."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703eb",
+      "title": "Obsidian Noir",
+      "slug": "mens-fashion-magazine-portrait",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "IDENTITY & STYLING (TOP PRIORITY): Hyper-realistic editorial portrait based strictly on the reference image’s facial identity, skin texture (pores/micro-detail), and exact grooming. Subject wears a matte black ribbed turtleneck and black Wayfarer sunglasses with opaque reflective lenses. 25° body angle, head facing forward, slightly left-of-center.\nEDITORIAL TYPOGRAPHY (BACKGROUND LAYER): The background is a dense, edge-to-edge professional magazine layout.\n\nMASTHEAD: Large bold 'MODEL' and 'PROMPTPLUM' in uppercase modern condensed sans-serif.\nEDITORIAL FILL: Structured vertical columns of mixed-size text (PARIS, LONDON, NEW YORK, 2026, EXCLUSIVE, etc.) in flat white and light gray ink.\nCRITICAL LAYERING: The subject is strictly in the FOREGROUND; all typography is 100% positioned BEHIND the subject, naturally blocked and interrupted by his silhouette.\nLIGHTING & COMPOSITION: Low-key cinematic studio lighting. Soft diffused key-light from camera-left creating high-contrast depth and smooth shadow transitions. No empty background gaps; text fills the entire frame behind the subject.\nTECHNICAL SPECS: 85mm portrait lens, shallow depth of field, 4:5 aspect ratio. 4K professional editorial magazine quality, ultra-sharp focus on facial skin and fabric texture. No text-overlap on face.",
+      "description": "Google Gemini AI Magazine Portrait Editing Prompt: Use this prompt to create a professional high-fashion magazine cover featuring a stylish man in a black turtleneck and sunglasses. The image showcases a sleek editorial design with bold typography and a sophisticated aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 18,
+      "view_count": 478,
+      "copy_count": 618,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "fashion-magazine-cover-portrait-by-promptplum.webp",
+          "local_path": "images/magazine-cover-art/fashion-magazine-cover-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/fashion-magazine-cover-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/fashion-magazine-cover-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/fashion-magazine-cover-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Fashion Magazine Cover AI Prompt. AI generated high-fashion portrait of a man wearing black sunglasses and a turtleneck, set against a dark background with bold white typography and PromptPlum branding."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703cb",
+      "title": "Fashion Forward",
+      "slug": "male-model-white-suit-red-wine-fashion",
+      "category": "Magazine Cover Art",
+      "category_slug": "magazine-cover-art",
+      "prompt": "Create a 4K photorealistic studio fashion portrait using the provided reference image to preserve the subject’s identity, facial features, face structure, skin tone, hairstyle, hairline, grooming details, pose proportions, camera angle, and color relationships. Ensure accurate face matching and hairstyle matching from the uploaded image, maintaining a realistic likeness to the same person.\nPose:\n\nSubject seated upright but relaxed in a chair\n\nTorso upright but slightly leaned back into the chair\n\nRight hand resting on thigh\n\nLeft hand holding a wine glass\n\nGold wristwatch visible on the left wrist while holding the glass\n\nLegs slightly apart\nChair:\n\nModern mid-century style lounge chair with smooth curved silhouette\n\nFully upholstered in warm terracotta / burnt-orange fabric matching the background palette\n\nSoft rounded armrests and seat cushion\n\nSlim metal legs in a muted bronze or brushed metal finish\n\nChair color slightly deeper and richer than the background for separation while remaining monochromatic\nWardrobe:\n\nBright white tailored suit jacket\n\nWhite crew-neck T-shirt\n\nSlim white trousers\n\nWhite leather Oxford shoes\n\nGold wristwatch worn on the left wrist\n\nThin round metal eyeglasses\nBackground:\n\nSeamless studio backdrop in a rich terracotta / burnt-orange gradient tone with subtle tonal variation\n\nLarge-scale typography positioned behind the subject reading “FASHION” in oversized capital letters\n\nTypography style: bold modern sans-serif with sharp edge-cut detailing and contemporary editorial styling\n\nLetters are matte white or off-white, spanning horizontally across the background and partially obscured by the subject to create depth\n\nTypography integrated as part of the studio set design rather than floating text\nLighting:\n\nSoft, controlled studio key light from front-left illuminating face and torso evenly\n\nGentle fill light from front-right to maintain detail in white clothing without flattening contrast\n\nSoft shadow falloff beneath chair and legs\n\nSubtle rim separation from background to enhance subject depth\n\nClean editorial lighting preserving fabric texture, skin realism, and material detail in white clothing\nFacial Expression:\n\nCalm, confident, and composed expression\n\nNeutral mouth with a subtle closed-lip confidence\n\nRelaxed jawline and natural facial tension\n\nEyes looking directly toward camera with steady, self-assured gaze\n\nExpression conveys modern luxury fashion editorial mood — poised, controlled, and quietly confident without smiling\nAtmosphere:\n\nClean studio environment with no smoke, haze, or mist effects\nCamera / Composition:\n\nEye-level camera angle\n\nCentered composition\n\nFull-body framing\n\nPortrait-lens perspective (~85mm)\nStyle:\n\nLuxury fashion editorial photography\n\nUltra-realistic, magazine-quality image\n\n4K resolution\n\nAspect ratio: 4:5 vertical",
+      "description": "Get the ultimate high-fashion AI prompt to create stunning magazine cover visuals. This prompt generates a photorealistic male model in a crisp white suit, seated in a terracotta armchair with a glass of red wine. Perfect for designers seeking cinematic lighting, minimalist backgrounds, and bold typography aesthetics.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 939,
+      "copy_count": 1571,
+      "is_premium": false,
+      "published_at": "2026-09-21T22:18:49.946Z",
+      "images": [
+        {
+          "filename": "male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "local_path": "images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Chic male model in a white suit and glasses, holding red wine in a terracotta chair. Bold 'FASHION' text anchors this sleek, monochromatic orange editorial."
+        },
+        {
+          "filename": "male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "local_path": "images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "A stylish man in a white suit and glasses sits in a terracotta chair holding a red drink. Bold \"FASHION\" text frames this sleek, high-fashion editorial portrait."
+        },
+        {
+          "filename": "male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "local_path": "images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "local_path": "images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/magazine-cover-art/male-model-in-white-suit-holding-red-wine-fashion-photography-ai-prompt-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Bearded man in a sharp white suit lounging in a rust-orange chair with wine. Bold \"FASHION\" text anchors this sleek, high-contrast editorial shot. Minimalist and sophisticated."
+        }
+      ]
+    }
+  ]
+}
