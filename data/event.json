@@ -1,0 +1,514 @@
+{
+  "category": "Event",
+  "slug": "event",
+  "total_prompts": 14,
+  "updated_at": "2026-09-24T12:55:11Z",
+  "prompts": [
+    {
+      "id": "6a60f1984e919e1ec242ee8c",
+      "title": "A Grand Celebration",
+      "slug": "indian-couple-reception-portrait",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create a stunning, high-end wedding reception portrait of a couple standing closely together beneath a magnificent crystal chandelier in a luxurious banquet hall. The portrait is captured from an eye-level camera angle in a waist-up composition. The woman is wearing an elegant navy-blue sequined lehenga with sparkling embellishments, cold-shoulder sleeves adorned with beaded fringe tassels. Her hair is styled in a soft modern hairstyle, complemented by glamorous makeup, bright pink lipstick, and delicate dangling earrings. She smiles warmly while looking directly at the camera.\n\nThe man stands beside her with one arm wrapped around her waist, wearing a sophisticated black textured sherwani with a mandarin collar paired with a luxurious gold wristwatch on his left wrist. He has neatly styled hair, and a confident, composed expression while looking directly into the camera.\n\nThe couple is posed affectionately, embracing each other in a romantic, elegant stance. Above them hangs a large crystal chandelier with glowing warm lights and sparkling crystal droplets, creating a luxurious atmosphere. The background features a lavish indoor event venue with dreamy golden bokeh lights, and ambient reception lighting.\n\nUltra-realistic photography, luxury wedding editorial style, shallow depth of field, creamy bokeh, warm golden lighting, cinematic ambiance, crystal reflections, premium fashion portrait, highly detailed facial features, ultra-detailed skin texture, vibrant colors, professional wedding photography, 85mm lens, f/1.8 aperture, sharp focus on the couple, soft background blur, HDR, 8K resolution, vertical composition, elegant and romantic mood. Aspect ratio 4:5.",
+      "description": "Elegant Portrait Photography Prompt: Copy & paste this prompt to create a glamorous photo of an Indian couple in formal attire under crystal chandeliers.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 51,
+      "view_count": 2287,
+      "copy_count": 2420,
+      "is_premium": false,
+      "published_at": "2026-07-22T16:36:40.299Z",
+      "images": [
+        {
+          "filename": "be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
+          "local_path": "images/event/be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Indian Couple in Formal Attire AI Photo Editing Prompt. AI generated portrait of a smiling Indian couple in coordinated formal dark blue embellished gown and a black sherwani jacket posing under large crystal chandeliers."
+        }
+      ]
+    },
+    {
+      "id": "6a591996a3af6f1220c4f5fe",
+      "title": "The Birthday Girl in Pastel Purple",
+      "slug": "lavender-anarkali-birthday-portrait",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create a hyper-realistic cinematic full-body portrait of a beautiful woman standing gracefully at an elegant outdoor garden birthday celebration during golden hour. She is wearing a luxurious lavender embroidered Anarkali suit with intricate silver zari work, a matching embroidered dupatta draped over one shoulder, silver jhumka earrings, bangles, and soft glamorous makeup with long wavy hair. She faces the camera with a warm natural smile, hands gently clasped in front, creating a confident yet elegant pose.\nThe background features a lavish floral birthday setup with pastel pink, peach, and white roses surrounding a decorative backdrop, glowing red \"Happy Birthday\" neon lettering, colorful balloons, hanging paper lanterns, vintage lantern lights, pastel ribbons, fairy string lights, a decorated cake table with flowers and gift boxes, blooming rose gardens, and lush green landscaping. Warm sunset light streams through the trees, producing beautiful golden rim lighting, dreamy bokeh, and a festive luxury atmosphere.\nMedium full-body shot, eye-level camera angle, centered composition, ultra-detailed facial features, realistic skin texture, intricate fabric embroidery, natural folds in the dress, vibrant colors, cinematic color grading, HDR, volumetric lighting, soft depth of field, creamy background blur, ultra-photorealistic, 8K resolution, shot on a Sony A1 with an 85mm lens at f/1.6, professional fashion photography, no text, no watermark, no logo, no distortion, no blur, no plastic skin, aspect ratio 4:5.",
+      "description": "Lifestyle Portrait Prompt: Copy & paste this prompt to generate a stunning outdoor photo of a woman in a lavender ethnic suit at a birthday party setup.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 73,
+      "view_count": 10244,
+      "copy_count": 8066,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "d765e879-ca29-4277-a2ad-209ca1e96326.jpeg",
+          "local_path": "images/event/d765e879-ca29-4277-a2ad-209ca1e96326.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/d765e879-ca29-4277-a2ad-209ca1e96326.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/d765e879-ca29-4277-a2ad-209ca1e96326.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/d765e879-ca29-4277-a2ad-209ca1e96326.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Lavender Indian Outfit Birthday Portrait AI Photo Editing Prompt. AI generated lifestyle portrait of a smiling woman in a lavender embroidered suit against a floral arch and neon sign in a decorated golden-hour garden."
+        }
+      ]
+    },
+    {
+      "id": "6a3ac528bf79ee5252c368bf",
+      "title": "Candlelit Evening on a Floral Woven Heart Swing",
+      "slug": "romantic-swing-photo-portrait",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create a Photorealistic, ultra-high-resolution portrait of an elegant woman seated gracefully on a rustic wooden swing, perfectly centered within a giant illuminated heart-shaped wreath crafted from intertwined branches and wrapped in warm golden fairy lights. She wears a flowing ivory-white one-shoulder evening gown with delicate floral appliqué detailing on the shoulder, complemented by sparkling diamond earrings, necklace, bracelets, and rings. Her long, softly curled hair cascades over her shoulders as she gazes directly at the camera with a gentle, confident smile. Her pose is poised and graceful, sitting upright with relaxed shoulders, hands gently resting on her lap, and one leg elegantly crossed forward. The composition is perfectly centered and balanced, emphasizing symmetry between the illuminated heart wreath and the subject. The scene is set in a luxurious outdoor garden at night, surrounded by lush greenery and glowing decorative lights, with glowing candles placed along the ground. The background is rendered with a creamy shallow depth of field and rich golden bokeh, creating a romantic and dreamy atmosphere. Eye-level composition, full-body shot, cinematic warm lighting, sharp focus on the subject, natural skin tones, professional portrait photography, highly detailed fabric textures, realistic lighting and shadows, premium wedding editorial style, 8K resolution, 85mm portrait lens, f/1.8, photorealistic quality.\nAspect ratio: 4:5.",
+      "description": "Romantic Portrait Photography Prompt: Copy and paste this prompt to generate a stunning, high-quality image of an elegant woman in a white gown posing on a romantic, fairy-light-decorated heart swing in a candlelit garden.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 1532,
+      "copy_count": 2672,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
+          "local_path": "images/event/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Romantic Heart Swing Portrait AI Photo Editing Prompt. AI generated realistic portrait of an elegant woman in a white gown sitting on a wooden swing under a large, glowing heart-shaped arch decorated with fairy lights and foliage in a candlelit garden."
+        },
+        {
+          "filename": "b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
+          "local_path": "images/event/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Romantic Heart Swing Portrait AI Photo Editing Prompt. AI generated realistic portrait of an elegant woman in a white gown sitting on a wooden swing under a large, glowing heart-shaped arch decorated with fairy lights and foliage in a candlelit garden."
+        }
+      ]
+    },
+    {
+      "id": "6a2d773761276f872a68ea59",
+      "title": "Blue-Themed Birthday Celebration",
+      "slug": "woman-birthday-blue-theme-portrait",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Use the uploaded image only for face and identity reference. Preserve the subject’s real facial identity, face shape, skin tone, hairstyle, natural smile, and overall likeness accurately.\n\nCreate an ultra-realistic 4:5 vertical birthday celebration portrait of a reference female subject standing indoors in front of a luxury birthday decoration setup. She is centered in the frame, shown from head to full dress, smiling naturally while holding a round blue birthday cake with white and blue cream flowers on top.\n\nThe subject wears an elegant royal-blue sleeveless party gown with a glittery fitted bodice and a flowing satin skirt. Add realistic fabric shine, soft folds, premium stitching, and a graceful party look. She has long, softly curled hair styled over one shoulder, elegant earrings, and a very subtle glam makeup.\n\nBackground: dark charcoal wall decorated with warm fairy lights hanging vertically, surrounded by a large balloon arch made of metallic silver, deep blue, and light blue balloons. Behind the subject, place a glowing neon sign that clearly reads “Happy Birthday To You” in bright soft blue-white light. Keep the sign slightly behind her head but readable.\n\nLighting should be soft cinematic party lighting with a gentle glow from the neon sign and fairy lights, realistic skin texture, natural shadows, shallow depth of field, polished DSLR photography look, high detail, clean composition, premium birthday photoshoot mood.\n\nAvoid distorted hands, extra fingers, unreadable text, plastic skin, cartoon look, over-smoothing, messy balloons, wrong cake shape, extra people, harsh shadows, or AI-generated artefacts.",
+      "description": "Birthday Photography Prompt: Copy & Paste this Prompt to create a vibrant studio portrait of a smiling woman in a blue dress holding a cake against a festive neon background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 63,
+      "view_count": 5524,
+      "copy_count": 5032,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "local_path": "images/event/28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "original_url": "https://img.promptplum.com/promptImages/28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/28a2709c-c024-41e2-9b4d-bea7057ea7f8.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "Blue Theme Birthday Celebration AI Photo Editing Prompt. AI generated studio portrait of a smiling blonde woman in a blue dress holding a blue floral cake against a neon sign and balloon backdrop."
+        },
+        {
+          "filename": "cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "local_path": "images/event/cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/cb9569ff-b588-494c-80ff-bfe7471f49cc.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Birthday Celebration AI Photo Editing Prompt. AI generated portrait of a woman in a blue dress holding a birthday cake against a backdrop of blue and silver balloons and a glowing neon sign."
+        },
+        {
+          "filename": "35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "local_path": "images/event/35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "original_url": "https://img.promptplum.com/promptImages/35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/35f29d77-b8e0-451a-a7e0-7ed4b4c16f94.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a smiling young woman in a blue dress holding a floral cake, standing in front of a blue and silver balloon arch and a neon Happy Birthday sign."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704fb",
+      "title": "The Lavender Princess",
+      "slug": "woman-birthday-celebration-purple-theme",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create a photorealistic 4:5 vertical birthday portrait of the uploaded woman seated gracefully at a decorated birthday table, recreating this luxurious lavender celebration scene.\n\nSubject Consistency & Age Preservation\nUse the uploaded woman as the main subject reference and keep her recognizable overall likeness consistent. Preserve her natural facial structure, face shape, skin tone, eye shape, eyebrows, nose, lips, and overall appearance so she clearly looks like the same woman. Also preserve her natural age and age-appropriate facial maturity from the uploaded image. Do not make her look noticeably younger or older. Avoid identity drift, facial distortion, beauty-filter effects, overly artificial facial changes, or generic doll-like beauty.\n\nSubject & Pose\nShow the woman from the waist up, sitting slightly angled toward the camera with a warm, natural smile. Her posture is elegant and relaxed, with both arms resting softly near the table. She should look directly at the camera with a cheerful, graceful birthday expression.\n\nOutfit & Styling\nDress her in a glittering lavender-purple elegant off-shoulder birthday gown with a fitted bodice and subtle sparkling fabric texture. Add a delicate silver crystal tiara on her head. Her hair should be styled in soft, voluminous waves flowing over one shoulder, with refined party-ready makeup and a polished, feminine look.\n\nBirthday Table Setup\nIn front of her, place a round white birthday cake on a lavender tablecloth. The cake should be elegant and minimal, decorated with soft white frosting drapes and small purple rose accents. On top of the cake, add elegant birthday candles with warm flames. Keep the cake clearly visible in the foreground.\n\nBackground & Decorations\nCreate a dreamy indoor birthday setup filled with:\nLavender, lilac, and deep purple balloons\nSoft floral arrangements of pink, purple, and cream roses\nWarm glowing candles in the background\nA white vintage chair partially visible behind her\nGentle gold and purple confetti falling through the air\n\nLighting & Mood\nUse soft warm cinematic lighting with a cozy candlelit glow, flattering highlights on the face, and subtle sparkle on the gown and tiara. The scene should feel luxurious, festive, feminine, and emotionally warm. Keep the background softly blurred with a premium shallow depth of field.\n\nVisual Quality\nUltra-realistic, high-detail skin texture, natural facial proportions, elegant color harmony, rich lavender birthday aesthetic, polished editorial photography look, no cartoon style, no over-smoothed plastic skin, no distorted hands, no text errors, no extra candles or duplicate objects.",
+      "description": "Woman Birthday Celebration Prompt: Copy & Paste this Prompt to create a stunning studio portrait of a beautiful woman celebrating her birthday with a rose-decorated cake and purple balloons against a purple-themed background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 77,
+      "view_count": 3105,
+      "copy_count": 5815,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "local_path": "images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman in Tiara with Birthday Cake AI Photo Editing Prompt. AI generated studio portrait of a young woman in a sparkling purple dress and tiara sitting behind a lit birthday cake surrounded by purple balloons and fairy lights."
+        },
+        {
+          "filename": "young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "local_path": "images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman in Purple Gown Celebrating Birthday AI Photo Editing Prompt. AI generated studio portrait of a smiling woman wearing a tiara and glittery purple gown next to a birthday cake and balloons."
+        },
+        {
+          "filename": "young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "local_path": "images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Birthday Celebration Prompt. AI generated studio portrait of a smiling young woman wearing a tiara and glittery purple dress behind a birthday cake surrounded by purple balloons."
+        },
+        {
+          "filename": "young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "local_path": "images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/young-woman-purple-birthday-celebration-cake-portrait-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated portrait of a smiling young woman in a sparkly purple gown and tiara celebrating with a floral cake, balloons, and confetti."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267047d",
+      "title": "Gold Standard",
+      "slug": "man-luxury-birthday-celebration",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Use the uploaded image as the ONLY facial and identity reference. The subject must look exactly like the person in the reference—preserve identical facial structure, proportions, skin tone, hairstyle, grooming details, and overall identity. Do not beautify, stylize, or alter facial features. Maintain natural skin texture, pores, and subtle asymmetry.\nCreate a high-resolution, cinematic birthday portrait of a confident adult man in a luxurious indoor setting.\nComposition & Framing\nAbove-knee to head visible (not full body), 4:5 aspect ratio, vertical composition.\n\nSubject centered, slightly leaning back in a relaxed, confident stance.\n\nOne leg straight, the other slightly bent and crossed casually in front\n\nBody weight shifted to one side (natural relaxed lean)\n\nRight hand holding the cake slightly forward at mid-torso level\n\nLeft hand raised slightly near chest in a natural conversational gesture\n\nFace directed toward the camera with a subtle happy, confident expression (soft smile, birthday vibe, not overly exaggerated).\nAttire & Styling:\n\nFormal monochrome black outfit:\n\nTailored black blazer with sharp structure\n\nBlack button-down shirt with top buttons open\n\nBlack trousers, perfectly fitted\n\nStatement belt with a metallic eagle-shaped buckle\n\nMinimal accessories, clean luxury styling\nBirthday Cake:\n\nA two-tier matte black cake held in one hand.\n\nElegant white/silver royal icing patterns on both tiers.\n\n8 thin lit candles on top, emitting warm glow and soft flicker light illuminating the subject’s face.\nEnvironment & Background:\n\nA luxurious, warm-toned interior:\n\nMetallic gold foil balloons spelling “HAPPY BIRTHDAY” across the upper background\n\nAdditional gold star-shaped balloons floating around\n\nClassic white fireplace behind the subject with a soft glowing fire\n\nLeft side: stacked gift boxes wrapped in beige/gold paper with deep red ribbons\n\nRight side: a dark wooden round table with a silver ice bucket holding champagne bottles and a filled flute\nLighting (CRITICAL):\n\nCinematic low-key lighting:\n\nPrimary warm key light from front-left (soft, directional, shaping face)\n\nCandlelight acting as practical light source adding flicker highlights\n\nFireplace providing subtle warm rim light from behind\n\nSoft shadows, no harsh highlights, smooth falloff\nColor & Mood:\n\nLuxury gold + deep black color palette\n\nWarm amber tones, rich contrast, premium cinematic feel\n\nNo oversaturation — maintain realistic, slightly muted tones\nDepth & Quality:\n\nShallow depth of field (background softly blurred)\n\nUltra-detailed textures:\n\nMetallic reflections on balloons\n\nMatte cake frosting\n\nFabric realism in suit\n\nSoft ambient glow from fire\nStyle Keywords:\n\ncinematic, ultra-realistic, luxury editorial, high-end portrait, 85mm lens look, shallow depth of field, soft volumetric lighting, 8k detail",
+      "description": "Luxury Birthday Portrait Prompt: Use this Prompt to generate a professional studio photograph of a stylish young man celebrating with a black multi-tiered cake, gold balloons, and a cozy fireplace backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 182,
+      "view_count": 9892,
+      "copy_count": 15909,
+      "is_premium": false,
+      "published_at": "2026-09-21T22:34:41.799Z",
+      "images": [
+        {
+          "filename": "young-man-holding-black-birthday-cake-in-suit-portrait-by-promptplum.webp",
+          "local_path": "images/event/young-man-holding-black-birthday-cake-in-suit-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-holding-black-birthday-cake-in-suit-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/young-man-holding-black-birthday-cake-in-suit-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/young-man-holding-black-birthday-cake-in-suit-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Birthday Cake AI Photo Editing Prompt. AI generated portrait of a young man in a black suit holding a two-tier black cake with lit candles in a room decorated with gold balloons and a fireplace."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670451",
+      "title": "Birthday Bouquet",
+      "slug": "woman-holding-rose-bouquet-birthday",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Use the uploaded image as a strict identity reference. The subject’s face, proportions, skin tone, facial features, and core hairstyle structure must remain identical.\nHair should be naturally enhanced (not changed) — maintain the same hairstyle, but improve grooming, softness, volume, and flow for a polished, well-styled look.\n\nNo beautification, no stylization, no identity drift.\nScene & Mood\nCreate an ultra-realistic, high-key birthday celebration portrait with a soft, feminine, cheerful, emotionally warm mood.\nFraming & Camera\nVertical 4:5\n\nMedium-full portrait (lower-thigh up)\n\nSubject centered, body slightly angled to the left\n\nEye-level camera, natural perspective\nPose (Improved – More Natural & Emotional)\nStanding with a relaxed, elegant posture\n\nWeight slightly shifted to one leg for a natural stance\n\nShoulders relaxed and slightly angled\nBouquet Interaction (Important):\n\nHolding the bouquet tightly with both hands at chest–waist level\n\nBouquet slightly tilted toward the camera for visibility\nDirect eye contact with a warm, genuine smile\n\nExpression should feel candid, soft, and joyful (not posed or forced)\nSubject & Outfit\nSame woman (strict identity match)\nHair (Refined):\n\nNatural soft wavy hair over shoulders\n\nFront strands softly framing the face\n\nSlight added volume and smoothness\n\nHealthy shine, clean separation of strands\n\nNo frizz, no stiffness, no artificial styling\nNatural makeup (fresh, glowing skin, soft blush, subtle lip color — lipstick visible but not heavy)\nWhite higher neckline dress with pink/red/yellow floral print\n\nSoft fabric flow, visible texture, natural folds\nBouquet\nLarge rose bouquet (red, yellow, cream white)\n\nWrapped in soft pastel pink paper\n\nWhite ribbon bow tied neatly\n\nGreen stems subtly visible\n\nFull, fresh, well-arranged (not messy)\nBackground & Theme\nSoft pink metallic tinsel curtain\n\nBirthday party setup\nSoft pink, white, metallic pink balloons (round + heart-shaped)\n\n“HAPPY BIRTHDAY” banner (white flags, gold letters — clean and readable)\nRight side: cream teddy bear with red bow placed on a light sofa\nLighting\nHigh-key soft studio lighting\n\nDiffused, even illumination\n\nMinimal shadows\nSoft highlights on hair and face\n\nClean skin tones\n\nNatural catchlights in eyes\nTone & Color\nBright, pastel, festive, feminine\n\nPink + white + gold dominant\n\nRed/yellow/green accents from bouquet\nClean, polished, commercial photoshoot look\nFocus\nFace and bouquet tack sharp\n\nBackground softly blurred (shallow depth of field)\nQuality\nUltra-realistic, DSLR-level detail\n\n8K clarity\n\nSharp, clean output\n\nNo artifacts\nNegative\nNo identity change\n\nNo hairstyle change (only refinement)\n\nNo extra people\n\nNo distortions\n\nNo text errors\n\nNo dark tones or harsh shadows\n\nNo stiff pose or unnatural hands",
+      "description": "Birthday Portrait Prompt: Use this prompt to create a professional birthday celebration photo of a woman holding a rose bouquet, featuring festive pink balloons and a cheerful party atmosphere.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 77,
+      "view_count": 3931,
+      "copy_count": 6694,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-3.webp",
+          "local_path": "images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman with Rose Bouquet Birthday Portrait AI Photo Editing Prompt. AI generated birthday celebration portrait of a smiling woman in a floral dress holding a bouquet of colorful roses against a pink balloon and banner backdrop."
+        },
+        {
+          "filename": "woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-1.webp",
+          "local_path": "images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman with Birthday Rose Bouquet AI Photo Editing Prompt. AI generated portrait of a smiling woman in a floral dress holding a bouquet of roses against a festive pink balloon backdrop."
+        },
+        {
+          "filename": "woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-2.webp",
+          "local_path": "images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/woman-holding-rose-bouquet-birthday-celebration-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman with Birthday Rose Bouquet AI Photo Editing Prompt. AI generated portrait of a smiling woman in a floral dress holding a bouquet of roses against a pink birthday backdrop."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267040b",
+      "title": "The Golden Milestone",
+      "slug": "man-birthday-celebration",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create a hyper-realistic 8K vertical portrait (4:5 aspect ratio) with medium-long framing from mid-thigh upward, depicting a man celebrating his birthday in a stylish indoor setting. Eye-level camera angle with a professional DSLR 85mm portrait lens look.\nThe subject occupies only 40–45% of the frame, leaving generous negative space and clean headroom for a premium editorial composition.\nIdentity Accuracy (CRITICAL)\nUse the provided reference image for face and identity matching.\n\nPreserve identical facial structure, jawline, eyes, nose, lips, eyebrows, skin tone, and natural texture. Do not beautify or alter identity.\nHairstyle must match the reference exactly — same length, volume, texture, and styling direction.\nSubject & Styling\nNatural complexion with realistic skin detail\nNatural joyful smile, direct eye contact\nFitted matte black t-shirt\nThin silver chain necklace\nGold metal wristwatch\nSubtle black wristband on opposite wrist\nRight hand holding a champagne flute at chest height (natural grip, correct anatomy)\nCake & Foreground Setup\nFront-right: luxurious two-tier chocolate cake on a white cake stand over a white table.\nDetails:\n\nSmooth dark chocolate frosting\nGlossy golden caramel drip\nChocolate bar chunks\nCaramel popcorn clusters\nFour tall lit candles\nWarm candlelight glow on cake surface.\n\nColorful rectangular confetti scattered on table and frozen mid-air.\nBackground\nSemi-circular balloon arch:\n\nMatte white\nMetallic gold\nMetallic silver\nCentered neon sign reading:\n\n“HAPPY BIRTHDAY”\nSoft golden-yellow diffused neon glow.\nLighting & Look\nSoft diffused studio lighting\nBalanced warm-neutral tones\nSubtle rim light separation\nHigh dynamic range\nCinematic color grading\nShallow depth of field\nSubject and cake razor sharp.\n\nBackground softly blurred with creamy bokeh.\nMood: Luxurious, joyful, modern, premium editorial birthday celebration.",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a vibrant birthday celebration scene featuring a smiling man with a chocolate drip cake, elegant gold and silver balloon arch, and festive confetti.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 3317,
+      "copy_count": 4367,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-birthday-celebration-portrait-by-promptplum.webp",
+          "local_path": "images/event/man-birthday-celebration-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-birthday-celebration-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/man-birthday-celebration-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/man-birthday-celebration-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Birthday Celebration AI Photo Editing Prompt. AI generated studio portrait of a smiling man holding a champagne glass next to a chocolate drip cake against a festive balloon arch and neon birthday sign."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670401",
+      "title": "Amber Glow Birthday",
+      "slug": "birthday-card-template-woman-gold-floral",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create a vertical, ultra-realistic celebratory birthday poster in 4:5 aspect ratio. The composition should feel like a luxury editorial birthday card with integrated modern graphic design elements. Medium shot framing showing subject from approximately mid-thigh to slightly above head.\nFace Matching Requirement:\n\nUse the provided reference image for accurate face and Identity matching. Preserve the subject’s exact facial structure, proportions, skin tone, eye shape, eyebrow shape, lip shape, nose structure, and overall identity. Maintain realism and likeness accuracy while enhancing lighting and cinematic quality. Do not alter core facial features.\nSubject Description\nA woman with a radiant, flawless natural complexion. She maintains a gentle, serene smile and direct eye contact with the viewer. Her expression is calm, welcoming, and confident.\n\nNatural facial contours\nNatural hair voluminous cascading to her collarbones and down her back\nIndividual hair strands should be sharply detailed and realistic\nMakeup is soft and natural\nSkin should appear naturally luminous, not overly airbrushed\nPose & Styling\nShe stands in an elegant three-quarter pose:\n\nBody angled slightly to her right\nHead turned forward facing camera\nHands delicately clasped at lower waist\nShe wears a flowing, long-sleeved white Anarkali-style gown made of satin or silk-blend fabric with a soft sheen. mid sleevs.\nDetails:\n\nTone-on-tone pale gold floral and vine embroidery across bodice, neckline, and sleeve cuffs\nHeavy natural pleats in the skirt\nRealistic fabric folds and soft shadowing\nAccessories:\n\nDelicate gold teardrop dangling earrings\nThin intricately linked gold bracelet on left wrist\nBackground & Graphic Design\nBase background: textured cream/off-white canvas.\nBehind her head & shoulders:\n\nA perfectly solid, vibrant yellow circle creating a modern halo effect with vignette effect. no overlays inside.\n\nDecorative overlays:\nMonochromatic botanical line-art illustrations (leaves, stems, large flowers) in pale gold, beige, bronze\nSubtle metallic gold brushstroke textures in the corners\nTypography:\n\nLeft side: “21 | 03” in bold metallic gold sans-serif font\nRight side (vertical orientation): “– HAPPY BIRTHDAY – [NAME]” in bold metallic gold sans-serif font\nText should appear premium, slightly embossed or metallic\nLighting & Rendering\nSoft cinematic directional lighting from top-left\nGentle highlights on left side of face and hairs\nSubtle shadowing on right side\nSoft drop shadow behind her right shoulder\nColor palette:\n\nCreamy whites\nVibrant golden-yellow\nMetallic gold accents\nWarm skin tones\nDeep dark hair contrast\nRendering style:\n\n8K-Ultra-realistic\nCinematic\nHigh dynamic range\nCrisp embroidery details\nVisible hair strand definition\nSharp focus across subject and typography\nDeep depth of field\nCommercial editorial quality",
+      "description": "AI Graphic Art Editing Prompt: Use this prompt to create an elegant birthday greeting poster featuring a woman in a gold-embroidered white dress with minimalist floral patterns.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 2531,
+      "copy_count": 3256,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Birthday-Portrait-Illustration-by-promptplum.webp",
+          "local_path": "images/event/Birthday-Portrait-Illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Birthday-Portrait-Illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/Birthday-Portrait-Illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/Birthday-Portrait-Illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Birthday Greeting Prompt. AI generated digital illustration of a woman in an embroidered cream dress featuring a yellow circular backdrop and golden floral details."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703c7",
+      "title": "Valentine’s Evening",
+      "slug": "romantic-valentines-day-candlelight-dinner-couple",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create a high-end, photorealistic romantic Valentine’s Day dinner scene captured in a professional photography style. Use the provided reference images for strict facial identity matching for both subjects, preserving facial structure, proportions, skin tone, age, and natural expressions without stylization or alteration.\n\nComposition & Subjects\nA young couple sits closely together at an elegant dining table, perfectly centered and naturally aligned within the frame from both sides. Their foreheads gently lean toward each other, creating an intimate and romantic moment. Both subjects are clearly visible, sharply in focus, and evenly composed with balanced spacing and natural posture.\nThe man wears a tailored black suit with a crisp white shirt and deep burgundy tie, styled neatly with a soft, genuine smile. The woman wears an off-shoulder burgundy velvet dress with elegant jewelry including a diamond necklace and drop earrings. Her hair falls in soft waves, and her expression is calm, affectionate, and romantic.\n\nLighting (Key Focus)\nSoft, warm cinematic lighting with professional studio control. The lighting is diffused and flattering, illuminating both faces evenly while maintaining gentle shadows for depth. Warm practical light sources such as candles and string lights create a natural glow without overexposure, ensuring clear subject visibility and smooth skin tones. Soft highlight roll-off and subtle rim lighting enhance separation from the background.\n\nForeground Elements\nA bouquet of deep red roses rests on the table, alongside a decorative burgundy Valentine’s card with gold lettering. Two champagne flutes and a candle add warm reflections and realism without distracting from the subjects.\n\nBackground & Depth\nShallow depth of field with smooth bokeh from warm string lights. The background features elegant layered curtains: deep burgundy velvet drapes positioned on both sides framing the scene, with a soft cream or warm beige sheer curtain panel in the center. Warm fairy string lights hang vertically behind the sheer fabric, creating soft golden circular bokeh highlights. The curtain textures remain subtle and softly blurred, reinforcing focus on the couple while maintaining a luxurious, intimate restaurant or romantic studio atmosphere.\n\nColor & Mood\nA cohesive palette of deep reds, burgundy, gold, and warm neutrals. The overall mood is romantic, elegant, and cinematic — resembling a luxury lifestyle or jewelry advertisement.\n\nQuality Tags\nProfessional photography, soft cinematic lighting, shallow depth of field, natural skin texture, premium romantic atmosphere, 4:5 aspect ratio, ultra-detailed, high dynamic range, 4K–8K quality.",
+      "description": "Create photorealistic Valentine's Day dinner images with this AI image prompt. Use 'cinematic lighting' and 'intimate atmosphere' for stunning scenes with roses and luxury decor.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 64,
+      "view_count": 1759,
+      "copy_count": 4967,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
+          "local_path": "images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "A romantic couple in formal attire shares an intimate moment over a candlelit Valentine's dinner, featuring red roses, champagne, and a warm, dreamy bokeh glow."
+        },
+        {
+          "filename": "romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
+          "local_path": "images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "A romantic couple shares an intimate moment at a candlelight Valentine's dinner with roses, champagne, and a greeting card. Warm, cinematic lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267030a",
+      "title": "Black Tie",
+      "slug": "black-tie",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Use the uploaded face as a 100% exact reference. Preserve facial identity with absolute precision. Do not alter face shape, bone structure, beard pattern, jawline, eye spacing, nose, lips, skin tone, or proportions. Maintain a realistic head-to-body ratio and natural human anatomy.\nCreate a hyper-realistic cinematic gala photograph with the subject standing confidently at the center of the frame, captured in crystal-clear focus like a luxury editorial shoot.\n\nSubject & Styling\nThe man wears a pristine white dinner jacket with sharp tailoring and visible fabric texture, paired with a classic black bow tie, crisp white shirt, and a single red boutonnière pinned on the left lapel. His hair is neatly styled with natural volume, and his beard is cleanly groomed. One hand rests casually in his pocket while the other holds a clear champagne flute filled with pale golden champagne.\n\nExpression & Presence\nHis expression is calm, confident, and charismatic—subtle smile, relaxed eyes, and composed posture. He looks directly toward the camera, projecting quiet authority and refined leadership without exaggeration.\n\nEnvironment & Crowd\nThe setting is a luxury black-tie gala inside a grand hall. The background is filled with men in black tuxedos and women wearing elegant black evening dresses, creating a refined monochrome contrast against the white suit. Guests appear naturally out of focus using real optical depth-of-field only, preserving realism.\nAbove, ornate crystal chandeliers sparkle softly, adding depth and prestige. Reflections from glassware, jewelry, and polished surfaces enhance the upscale atmosphere.\n\nLighting & Color Tone\nApply soft, frontal key lighting to ensure the subject’s face and physique are clearly visible, evenly lit, and naturally contoured. No harsh shadows on the face.\n\nOverall color grading is warm, rich, and cinematic, with golden highlights from chandelier lighting balanced by neutral skin tones. Whites remain clean and detailed; blacks stay deep and elegant without crushing.\nCamera & Image Quality\nCaptured in a high-resolution full-frame DSLR style, shallow depth of field, natural lens compression, ultra-sharp facial detail, and professional luxury color grading. The image should resemble a high-end fashion or luxury magazine cover.\n\nStrict Realism Constraints\nNo CGI\nNo 3D rendering\nNo illustration or artificial art styles\nNo cartoon or painterly effects\nAchieve realism through expert-level photographic compositing and Photoshop-style retouching only\nCreate a powerful, unforgettable cinematic portrait with absolute realism, elegant lighting, premium color tone, and complete visual focus on the subject as the dominant figure in the scene.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 841,
+      "copy_count": 1768,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_qtdiuvqtdiuvqtdi-2.png",
+          "local_path": "images/event/Gemini_Generated_Image_qtdiuvqtdiuvqtdi-2.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_qtdiuvqtdiuvqtdi-2.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/Gemini_Generated_Image_qtdiuvqtdiuvqtdi-2.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/Gemini_Generated_Image_qtdiuvqtdiuvqtdi-2.png",
+          "width": 928,
+          "height": 1120,
+          "alt": "Gemini AI Generated Image: A handsome man in a sharp white tuxedo jacket with a black bow tie and a red carnation boutonniere stands at a formal gala. He is holding a glass of champagne and smiling subtly at the camera. In the blurred background, other guests in black-tie attire mingle in an opulent, high-ceilinged ballroom illuminated by grand crystal chandeliers."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670302",
+      "title": "The Guest of Honor",
+      "slug": "the-guest-of-honor",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create an ultra-realistic cinematic portrait of a confident, elegant man standing in a luxurious ballroom under a magnificent crystal chandelier, surrounded by people in formal attire. The man exudes sophistication and dominance, dressed in a perfectly tailored black tuxedo with a satin lapel and a crisp white shirt. Replace the original face with the face from the provided reference, ensuring perfect lighting adaptation, seamless skin blending, and natural reflections consistent with the golden chandelier light.\n​Outfit: black tuxedo with impeccable tailoring, a silk black bow tie, and a subtle pocket square. Include a luxury wristwatch with metallic reflection, visible cufflinks, and a champagne glass in hand. The fabric of the suit must display fine details — light sheen on satin, realistic stitching, and subtle shadow gradients that emphasize volume and structure.\n​Lighting: warm and golden cinematic lighting radiating from the chandelier above, creating highlights on the hair, forehead, and cheekbones while keeping soft, elegant shadows around the jawline. Add HDR reflections on glass surfaces and metallic jewelry, with a soft ambient glow diffused across the ballroom.\n​Environment: grand ballroom with people dancing in the background, blurred with shallow depth of field to focus on the man. Gold streamers or ribbons falling subtly in the background add a festive luxury tone. The chandelier should sparkle realistically, refracting light with gentle bokeh around the subject.\n​Camera: medium close-up, 85mm lens, slightly low angle for power and dominance. Focus sharply on the face and upper body; background softly diffused with cinematic blur.\n​Mood: refined, confident, magnetic — a man of mystery and class, blending sophistication and quiet power.\n​Style: 8K ultra-realistic cinematic portrait, luxury editorial tone, golden warm color grading, deep contrast, GQ x James Bond aesthetic, perfect facial integration, flawless detail on lighting and suit textures.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 17,
+      "view_count": 644,
+      "copy_count": 1162,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_frfgvifrfgvifrfg-1.jpg",
+          "local_path": "images/event/Gemini_Generated_Image_frfgvifrfgvifrfg-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_frfgvifrfgvifrfg-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/Gemini_Generated_Image_frfgvifrfgvifrfg-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/Gemini_Generated_Image_frfgvifrfgvifrfg-1.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: A medium shot of a handsome man in his early 30s with short dark hair and a groomed beard, dressed in a classic black tuxedo, white shirt, and black bowtie. He is standing in the center of a grand, opulent ballroom, holding a glass of champagne and looking directly at the camera with a slight, confident smile. Behind him, a large, glowing crystal chandelier hangs from the ceiling, casting a warm light over a blurred crowd of people in formal attire dancing and socializing. Golden streamers hang from the ceiling, adding to the festive, high-end gala atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267029e",
+      "title": "Holiday Cheer in a Glass",
+      "slug": "holiday-cheer-in-a-glass",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "A full-body, eye-level shot captures a male character(slightly smiling) rendered in a highly detailed caricature style, featuring a disproportionately large head and a smaller, cartoonish body. The character's face is uploaded 100% face as reference, complemented by short dark hair and a neatly trimmed dark beard. He is dressed in a vibrant red Santa suit, perfectly wearing a red Santa hat adorned with white fur trim and a pom-pom, a red jacket featuring white fur trim on the collar and cuffs with gold buttons, a black belt with a prominent gold buckle, red pants, and black boots. The character stands with his left arm raised, holding a clear-stemmed wine glass filled with dark red wine, and his right arm bent, holding a green wine bottle with a red top and a blank label. To his lower right, a large, plush red Santa sack rests on the ground, overflowing with several green wine bottles, some with visible labels. The sack features a gold drawstring and the phrase 'Merry Christmas' in elegant white script with small heart details. The composition is centered, set against a clean, bright light blue to white gradient background. The image is rendered with cinematic lighting, vibrant colors, and highly detailed textures, aiming for an 8k resolution hyper-realistic caricature.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 7,
+      "view_count": 393,
+      "copy_count": 140,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "local_path": "images/event/Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "width": 1299,
+          "height": 1590,
+          "alt": "Gemini Generated Image: A cartoon or caricature of a young, bearded man wearing a Santa suit and hat and glasses. He is holding a glass of red wine in one hand and a bottle of wine in the other. There is also a red sack full of wine bottles next to him with the words \"Merry Christmas\" written on it."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670291",
+      "title": "The Birthday Girl and Her Cake",
+      "slug": "the-birthday-girl-and-her-cake",
+      "category": "Event",
+      "category_slug": "event",
+      "prompt": "Create an ultra-realistic, cinematic birthday celebration portrait in a vertical 4:5 aspect ratio. The subject is positioned in a mid-to-full body composition, centered and gracefully interacting with a decorated cake, with no cropping of the dress or head. The face must match the uploaded reference image exactly, preserving identity, facial structure, skin texture, and natural details with high fidelity.\nThe subject is wearing a luxurious, floor-length ball gown in vibrant pink tones, featuring a voluminous layered tulle skirt and a detailed, embellished bodice with subtle sparkle. A delicate tiara rests on the head, and a soft pastel “Birthday Girl” sash is draped diagonally across the torso. Hair is styled in soft, flowing waves, enhancing an elegant and celebratory look.\nPose is gentle and natural: slightly leaning forward while placing or adjusting a cake on a decorative stand, with a soft, genuine smile and gaze directed downward toward the cake. Expression conveys joy, warmth, and a calm celebratory mood.\nIn the foreground is an ornate, antique-style golden bicycle-shaped dessert stand with two tiers.\n\n– The top tier holds a white frosted birthday cake decorated with pink brushstroke-style frosting, fresh berries (raspberries, blueberries), and a small crown topper.\n\n– A second cake appears on the same bicycle structure in a different position, maintaining visual balance.\n\n– The lower tier contains neatly arranged cupcakes topped with soft pink frosting swirls.\nBackground is an outdoor garden party setting with shallow depth of field (strong background blur). A decorative balloon arch in pink, white, and soft metallic tones frames the scene. Warm string lights hang across the background, along with soft party banners, creating a dreamy, festive ambiance.\nLighting is soft natural daylight combined with warm ambient highlights from string lights, producing even skin tones, soft shadows, and a glowing celebratory atmosphere. No harsh contrast.\nCamera settings: eye-level or slightly above eye-level angle, 50mm or 85mm portrait lens look, shallow depth of field (f/1.8–f/2.8), sharp focus on subject and cake, background smoothly blurred. Ultra-high resolution, 8K detail, natural skin texture, no CGI, no over-smoothing, no artificial plastic look.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 12,
+      "view_count": 895,
+      "copy_count": 830,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "local_path": "images/event/Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/Gemini_Generated_Image_mwfsamwfsamwfsam.jpg",
+          "width": 1209,
+          "height": 1702,
+          "alt": "Gemini generated image: A young woman in a pink ball gown and a tiara is smiling as she sets a white birthday cake on a tiered, gold bicycle-shaped display. The setting is outdoors with pink, white, and silver balloons forming an archway behind her. She is also wearing a sash that says \"Birthday Girl."
+        },
+        {
+          "filename": "Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "local_path": "images/event/Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/Screenshot-2025-12-09-at-7.21.04-PM.jpg",
+          "width": 355,
+          "height": 450,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

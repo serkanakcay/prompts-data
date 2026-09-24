@@ -1,0 +1,584 @@
+{
+  "category": "Emotion & Expression",
+  "slug": "emotional-expression",
+  "total_prompts": 14,
+  "updated_at": "2026-09-24T12:55:08Z",
+  "prompts": [
+    {
+      "id": "6a906b6e46d4207dc25bf532",
+      "title": "Street Style Portrait with Inspirational Graffiti Quotes",
+      "slug": "chalk-wings-graffiti-portrait-prompt",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Create a photorealistic cinematic full-body fashion portrait of a stylish man. Preserve the reference subject’s facial features, hairstyle, and overall appearance with maximum identity accuracy. He is standing casually against a textured dark gray concrete wall covered with hand-drawn motivational doodles and typography, including wings behind him, a crown above his head, stars, lightning bolts, an hourglass, and phrases such as “BE YOUR OWN HERO,” “FOCUS,” “JUST DO IT,” and “GOOD THINGS TAKE TIME.” He has slightly tousled black hair, black rectangular sunglasses, and a calm, confident expression, while gazing slightly off-camera toward the left. He wears a black half-zip sweatshirt with rolled-up sleeves, relaxed-fit white trousers, a black wristwatch, and clean white airforce sneakers. Casual relaxed pose with one hand in his pocket and the other hanging naturally, one leg straight while the other crosses casually in front. Strong natural sunlight creates dramatic diagonal highlights and soft shadows across the wall and subject. Urban editorial aesthetic, ultra-detailed skin texture, detailed fabric, natural proportions, sharp focus, cinematic color grading, subtle depth of field, 85mm lens, f/1.8, high dynamic range, ultra-detailed, photorealistic, 8K resolution, 4:5 aspect ratio. No identity change, no anatomy errors, no blurry details, no distorted clothing, no pose error, no lighting error.",
+      "description": "Motivational Street Art Portrait Prompt: Copy & paste this prompt to create a stylish AI-generated portrait of a man in a black quarter-zip sweatshirt and white pants standing confidently against a chalk-art wall of angel wings and inspirational quotes.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 1383,
+      "copy_count": 1200,
+      "is_premium": false,
+      "published_at": "2026-08-27T16:53:02.069Z",
+      "images": [
+        {
+          "filename": "526bb8b8-6bfd-427e-b36f-ca694d9ae22e.jpeg",
+          "local_path": "images/emotional-expression/526bb8b8-6bfd-427e-b36f-ca694d9ae22e.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/526bb8b8-6bfd-427e-b36f-ca694d9ae22e.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/526bb8b8-6bfd-427e-b36f-ca694d9ae22e.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/526bb8b8-6bfd-427e-b36f-ca694d9ae22e.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man with Angel Wings Mural in Black Streetwear AI Photo Editing Prompt. AI generated urban portrait of a stylish man in a black quarter-zip sweatshirt and white pants standing against a chalk-art wall featuring angel wings and motivational quotes."
+        }
+      ]
+    },
+    {
+      "id": "6a5225a97877e7a4d78bf6fa",
+      "title": "The Weight of Thought",
+      "slug": "thoughtful-man-portrait",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Create a photorealistic, ultra-detailed black-and-white portrait of a man(face match) in a contemplative pose, captured in a vertical medium close-up from the chest upward. He has a natural skin texture with realistic pores. His head is slightly bowed, eyes looking downward, conveying a calm, introspective expression. His left hand is gently raised near his forehead, showcasing a minimalist silver wristwatch with a black leather strap. He is wearing a premium black ribbed-knit crewneck sweater with visible fabric texture. Dramatic soft side lighting from the left creates deep shadows, emphasizing facial contours and adding cinematic depth. The background is a dark, seamless studio backdrop with a subtle gradient and soft blur, keeping full focus on the subject. Monochrome photography, high contrast, shallow depth of field, ultra-sharp focus on the face and watch, 85mm lens, f/1.8, professional editorial portrait, 8K resolution, hyper-realistic skin and fabric details, timeless fine-art aesthetic. Aspect ratio 4:5.",
+      "description": "Monochrome Studio Portrait Prompt: Copy & paste this prompt to create a professional black and white photo of a pensive Black man wearing a minimalist watch.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 767,
+      "copy_count": 788,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "e1bc77df-5789-4048-8ebd-4ba9f78832b7.jpeg",
+          "local_path": "images/emotional-expression/e1bc77df-5789-4048-8ebd-4ba9f78832b7.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/e1bc77df-5789-4048-8ebd-4ba9f78832b7.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/e1bc77df-5789-4048-8ebd-4ba9f78832b7.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/e1bc77df-5789-4048-8ebd-4ba9f78832b7.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Pensive Black Man with Watch Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a Black man with a beard and ribbed-knit sweater, looking down at a minimalist watch on his raised left arm."
+        }
+      ]
+    },
+    {
+      "id": "6a30f0a961276f872aa52adb",
+      "title": "Six Shades of Emotion",
+      "slug": "3d-character-six-emotions",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Use the provided reference image to accurately replicate the subject’s identity & facial structure.\nCreate a high-end 3D stylized character collage featuring the same male character displayed in six square panels arranged in a clean 2×3 grid(2 rows × 3 columns). The character has large expressive eyes, thick eyebrows, voluminous dark hair, a smooth skin with realistic subsurface scattering, and a premium Pixar/Disney-inspired collectible-figure aesthetic. He wears a simple black textured knit sweater in all panels.\nPanel 1 (Top Left – Joy): Bright yellow background. The character is laughing enthusiastically with eyes closed, mouth wide open in a joyful smile, and both arms raised high in celebration.\nPanel 2 (Top Center – Surprise): Vibrant blue background. The character displays a shocked expression with wide-open eyes, mouth agape, and both hands pressed against his cheeks.\nPanel 3 (Top Right – Anger): Bold red background. The character has furrowed brows, an intense frown, and crossed arms, conveying irritation and determination.\nPanel 4 (Bottom Left – Affection): Soft pink background. The character smiles gently while holding a small fluffy brown puppy close to his chest, creating a warm and friendly mood.\nPanel 5 (Bottom Center – Confidence): Rich purple background. The character wears a confident smirk, one eyebrow slightly raised, with one hand resting on his hip in a self-assured pose.\nPanel 6 (Bottom Right – Approval): Fresh green background. The character smiles warmly, and gives a thumbs-up gesture.\nStyle & Rendering: Premium 3D character design, Pixar-quality animation aesthetic, cute yet sophisticated proportions, oversized head, expressive facial features, ultra-detailed hair strands, realistic fabric textures, smooth skin shading, soft studio lighting, vibrant saturated colors, clean gradient backgrounds, global illumination, depth of field, Octane Render, Unreal Engine 5 quality, ultra-sharp 8K render, collectible toy-quality finish, polished and professional social-media avatar pack.\nAspect ratio 1:1.",
+      "description": "3D Character Design Prompt: Copy & Paste this prompt to create a high-quality 3D avatar grid of a young man in a black sweater showing six distinct facial expressions.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 12,
+      "view_count": 404,
+      "copy_count": 385,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "ee9e23ff-0bcc-48e1-ae13-521f71eaa889.jpeg",
+          "local_path": "images/emotional-expression/ee9e23ff-0bcc-48e1-ae13-521f71eaa889.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/ee9e23ff-0bcc-48e1-ae13-521f71eaa889.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/ee9e23ff-0bcc-48e1-ae13-521f71eaa889.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/ee9e23ff-0bcc-48e1-ae13-521f71eaa889.jpeg",
+          "width": 1600,
+          "height": 1600,
+          "alt": "3d-avatar-expressions-illustration-by-promptplum"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267050a",
+      "title": "The Perfect Pout",
+      "slug": "cute-sad-3d-girl-cartoon",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Use the uploaded female subject as the identity reference and transform her into an extremely cute chibi-style 3D digital illustration while preserving her recognizable facial identity, hairstyle essence, skin tone, eye shape, and overall character likeness. The final character must closely follow the reference style: oversized round head, tiny seated body, big glossy innocent eyes looking slightly upward, sad but adorable pout expression, softly raised worried eyebrows, tiny rounded nose, chubby rosy cheeks, subtle freckles, and a heart-melting cute emotional mood. Keep the expression sad and pouty, but not crying, no tears, no dramatic sadness.\nCreate a full-body seated pose exactly like the reference: the character sitting cross-legged on the floor, body centered, knees bent outward, small hands gently resting together in front of the feet, shy and innocent posture, head slightly large and tilted naturally. Keep the composition clean and minimal with the full character visible, not cropped, placed in the lower-middle of the frame with plenty of white empty space around her.\nHair should be stylized from the uploaded subject, but rendered in the same soft detailed chibi illustration style with fine individual strands, soft volume, natural shine, and loose wispy hairs around the face. If the reference subject has long hair, convert it into a cute messy high bun or a soft childlike chibi hairstyle while keeping the subject’s identity cues. Outfit should stay simple and close to the reference style: dusty pink oversized t-shirt and mustard-yellow loose cropped pants, soft fabric folds, natural cartoon proportions, no sweater, no leggings, no shoes unless the uploaded subject strongly requires them.\nUse a clean pure white background only, with no room, no wall corner, no window, no wooden floor, no furniture, no props, no decorative elements. Add only a very soft contact shadow under the seated body. Rendering style should be premium soft 3D cartoon mixed with polished digital painting, high-quality storybook character illustration, smooth but not plastic, detailed hair strands, soft skin texture, warm gentle lighting, crisp focus, high-resolution finish, adorable emotional charm. No text, no signature, no watermark, no logo. Aspect ratio 4:5.",
+      "description": "3D Pixar-Style Character Prompt: Copy & Paste this prompt to create a cute, sad little girl sitting cross-legged with big brown eyes against a white background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 68,
+      "view_count": 1227,
+      "copy_count": 3189,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "local_path": "images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Sad 3D Cartoon Girl AI Photo Editing Prompt. AI generated 3D digital illustration of a cute, sad little girl with big brown eyes and a messy bun sitting in a pink shirt and yellow pants."
+        },
+        {
+          "filename": "sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "local_path": "images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Sad Cute 3D Cartoon Girl AI Prompt. AI generated 3D digital illustration of an adorable, sad little girl with big brown eyes, a messy bun, and silver jhumkas sitting cross-legged in a pink t-shirt."
+        },
+        {
+          "filename": "sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "local_path": "images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/sad-cute-little-girl-3d-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated 3D digital illustration of a cute, sad little girl with big eyes and a messy bun sitting cross-legged on a white background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704e9",
+      "title": "The Smirking Pair",
+      "slug": "cute-3d-couple-pixar-style",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Ultra-detailed stylized 3D character render of a playful young couple (male and female), designed with exaggerated chibi proportions (oversized heads, compact bodies), large expressive eyes, soft smooth skin, and highly detailed hair strands with natural color, natural flow and subtle flyaways.\nCharacters:\nFemale: long straight or slightly tousled hair, natural volume, optional minimal hair clip\nMale: short to medium stylized hair, soft texture with clean strand detail, and grooming details\nFacial Expression (IMPORTANT):\nBoth characters have a mischievous, slightly defiant expression\nEyebrows slightly lowered\nEyes looking sharply to the side (side-eye)\nNose subtly scrunched\nLips pressed into a tight playful smirk\nPose (IMPORTANT — match exactly for BOTH):\nStanding back-to-back, close together\nFeet close and pointing forward\nArms relaxed straight down at their sides\nEyes looking sideways (same direction or slightly toward each other)\ncompact posture\nInteraction Detail:\nTheir backs lightly touching, giving a subtle cute couple vibe, but both maintain the same pose (no hugging or hand-holding)\nClothing:\nOversized long-sleeve cream beige sweatshirts, and maching trousers (minimal design, soft folds, chest pocket)\nSimple socks and casual sneakers\nSlight color contrast between male and female outfits\nLighting:\nSoft studio lighting\nGentle directional key light\nSmooth soft shadows\nSubtle ambient fill\nSoft highlight transitions\nRendering Style:\nHigh-end 3D stylized realism (Pixar-like quality)\nUltra-clean textures\nSoft subsurface scattering\nCinematic depth of field\nBackground:\nClean, soft bokeh seamless studio backdrop with warm tones. No objects in the background.\nComposition:\n4:5 aspect ratio\nVertical portrait\nFull body, centered\nCinematic poster layout\nBalanced spacing between characters",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 109,
+      "view_count": 3013,
+      "copy_count": 8575,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_583un6583un6583u.webp",
+          "local_path": "images/emotional-expression/Gemini_Generated_Image_583un6583un6583u.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_583un6583un6583u.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/Gemini_Generated_Image_583un6583un6583u.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/Gemini_Generated_Image_583un6583un6583u.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "local_path": "images/emotional-expression/Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/Gemini_Generated_Image_mr79cemr79cemr79.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704e1",
+      "title": "Chibi Girl Expression Pack",
+      "slug": "3d-chibi-girl-kawaii-sticker-sheet",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Style & Format:\nPremium 3D kawaii chibi sticker-sheet in a vertical 4:5 format. Clean 3x3 layout on a soft white-to-light-blue gradient. Each character must be a glossy die-cut sticker: thick rounded white border, subtle lifted paper edge, soft drop shadow, and high-quality toy-like 3D rendering.\nCharacter Specs:\nMaintain 100% identity accuracy for a single character. Miniature girl with an oversized head, tiny body, rosy cheeks, big sparkling brown eyes, and shiny brown hair with detailed highlights and soft bangs. No flat anime/vector style or adult proportions.\nThe 3x3 Grid (9 Poses & Outfits):\n\nThumbs up: Pink hoodie, rolled jeans, sneakers.\nSitting (hands on cheeks): Blue hoodie, white pants.\nJumping (peace sign): Purple oversized top, sneakers.\nWinking: Denim overalls, round glasses.\nHeart hands: Soft pink dress.\nOne fist raised: Pink varsity jacket, cap.\nHugging bunny plush with closed eyes: Pink bunny pajamas, bunny slippers.\nPainting: Cream painter apron, beret, palette.\nLaptop task: Yellow hoodie, sitting at desk.\nText & FX:\nAdd 9 rounded white sticker speech bubbles with pastel outlines. Phrases: “Awesome!”, “Nice one!”, “HAHAHA!”, “Thank you!”, “You’re the best!”, “Good job!”, “So cute!”, “Well done!”, and “Keep it up!”. Use one solid text color per bubble (pink, blue, purple, orange, or teal). Add floating hearts, stars, and sparkles.\nRendering:\nGlossy, high-detail, soft-shaded 3D cartoon style. Polished highlights, clean pastel colors, and detailed fabric folds. All stickers must be evenly spaced and fully visible within their grid areas.",
+      "description": "3D Kawaii Chibi Sticker Art Prompt: Copy & Paste this prompt to create a set of cute, expressive 3D girl character stickers with vibrant colors and positive text bubbles.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 711,
+      "copy_count": 1162,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "local_path": "images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cute Chibi Girl Figures AI Photo Editing Prompt. AI generated digital illustration of a grid collection featuring nine distinct adorable chibi girl figures, each presenting a different pose, costume, and positive text reaction bubble."
+        },
+        {
+          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "local_path": "images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        },
+        {
+          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "local_path": "images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        },
+        {
+          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "local_path": "images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704db",
+      "title": "Vibrant Mood Board",
+      "slug": "3d-cartoon-girl-character-expression-sheet-pixar-style",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Create a high-quality collage composed of six equal panels arranged in a 3×2 grid, featuring six stylized 3D character portraits of the same person.\n\nCollage layout:\nVertical 4:5 canvas\nSix equal panels in 3 columns × 2 rows\nNo spacing between panels\nClean, tight social-media grid\n\nIdentity consistency (CRITICAL)\nSame character across all panels\nSame face shape, proportions, skin tone\nSame hairstyle, volume, and texture\nNo identity drift\nOnly pose, expression, and outfit change\n\nFraming (STRICT)\nWaist-up framing in all panels\nUpper thighs slightly visible in every panel\nConsistent camera angle\nSubject occupies ~65–75% frame\nCentered composition\n\nCharacter Style (VERY IMPORTANT — LOCK THIS)\nStylized semi-chibi 3D character\nHead slightly larger than realistic proportions (~10–15% larger)\nBig expressive eyes, soft rounded cheeks\nSmall refined nose, smooth jawline\nCompact, slightly shorter torso proportion\nSoft, youthful anatomy (not realistic adult proportions)\nHighly appealing, cute but premium look\n\nExpression Style (CRITICAL)\nExpressions must feel playful, lively, and charming\nNot extreme cartoon distortion\nSubtle realism + stylized exaggeration balance\nEyes highly expressive and alive\n\nPanel definitions (LOCKED)\nPanel 1 — Friendly / Confident\nArms crossed naturally\nRelaxed shoulders\nWarm playful smile\nOutfit: fitted white t-shirt, black bead necklace, blue jeans\nPanel 2 — Thinking / Curious\nRight index finger on chin\nHead slightly tilted\nEyes looking slightly upward\nSoft curious smile\nOutfit: Blue denim jacket and dark jeans\nPanel 3 — Playful / Energetic (DEPTH CRITICAL)\nRight hand showing peace sign\nHand extended toward camera with slight foreshortening\nOne eye wink, big playful smile\nOutfit: black leather jacket over red top, black pants\nPanel 4 — Excited / Delighted\nBoth hands pressed to cheeks\nEyes wide, joyful expression\nOpen smile\nOutfit: pink hoodie, blue jeans\nPanel 5 — Calm / Content\nEyes gently closed\nSoft relaxed smile\nHands behind back (not visible)\nOutfit: purple hoodie, white pants\nPanel 6 — Soft / Elegant\nHead slightly tilted\nGentle smile\nRelaxed posture\nOutfit: light green floral dress\n\nRendering Style\nUltra high-quality 3D render\nPixar-style / Disney-style character finish\nSmooth, polished surfaces\nSoft subsurface scattering (skin glow)\nClean global illumination\nSoft shadows, no noise\nHighly detailed hair strands with volume\nGlossy, premium material response\n\nLighting\nSoft studio lighting\nEven illumination on face\nSubtle rim light for separation\nBright, clean exposure (no moody lighting)\n\nBackground\nSolid vibrant colors per panel\nYellow, Blue, Red, Pink, Purple, Green\nFlat or subtle gradient\nNo environment\n\nRendering Quality\nUltra sharp\nClean edges\nNo artifacts\n4K quality\nProfessional social-media ready output",
+      "description": "3D Animated Character Expression Sheet Prompt: Use this prompt to generate high-quality stylized character designs featuring a young woman in various outfits and expressive poses against vibrant, colorful backgrounds.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 835,
+      "copy_count": 1353,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "local_path": "images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Female Character Expression Grid AI Photo Editing Prompt. AI generated 3D digital illustration showcasing a stylized woman with various facial expressions and outfits against vibrant, solid-colored backgrounds."
+        },
+        {
+          "filename": "3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "local_path": "images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-3.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "3D Animated Girl Expressions AI Photo Editing Prompt. AI generated 3D digital illustration of a girl in six different outfits and poses displayed in a vibrant six-panel colorful grid."
+        },
+        {
+          "filename": "3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "local_path": "images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/3d-animated-girl-six-poses-outfits-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital illustration featuring a grid of six expressive female character variations with wavy dark hair and stylish outfits against vibrant solid-color backgrounds."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267048d",
+      "title": "Expressive Girl Sticker Pack",
+      "slug": "cartoon-girl-expression-sticker-sheet",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Create a premium 4×4 animated sticker pack in 2:3 aspect ratio, featuring 16 unique designs based on reference image. Each sticker includes a high-end 3D cartoon render with specific expressions, matching bold text, and colorful outfits.\n\nUse the uploaded image as the ONLY and exclusive facial identity reference. The female character must be instantly recognizable as the same person, preserving exact facial structure, proportions, hairstyle, and grooming. Do not alter identity.\n\n🎯 Character Style (PREMIUM)\nChibi-style body (small body, big head ~65–70%)\nSlightly half-curved / dynamic pose (not stiff front-facing)\nRounded, soft, cute proportions\nExpressive face with exaggerated emotions (but identity preserved)\nSmooth high-end 3D cartoon rendering (Pixar-level polish)\nClean white outline stroke around each sticker (WhatsApp style)\n\n👕 Clothing (IMPORTANT)\n\nReplace plain outfit with colorful modern clothing\nHoodies, jackets, casual streetwear\nBright but aesthetic color palette (blue, purple, orange, teal)\nClothing varies slightly per sticker but stays consistent in style\n\n✍️ Text Styling (PREMIUM FEATURE)\nEach sticker must include bold, colorful text ABOVE the character (top placement only):\nText is curved slightly or arched for style\nBright gradient colors (blue → purple, orange → red, etc.)\nThick white outline + soft shadow for readability\nFun emoji accents (💧✨🔥💥💖 etc.)\nExample texts:\nHAPPY, SAD, LOL, SORRY, NO!, YES!, SEE YA!, COOL, BUSY, WAIT!, YAWN, OH NO!, OMG, WOW!, EWW!, REALLY?\n\n😄 Expressions & Gestures\nEach sticker must have unique pose + emotion + hand gesture, including:\nWaving, thumbs up, facepalm, shrug, pointing, holding phone, sleepy pose, shocked reaction, etc.\nHands must look natural (no broken anatomy)\n\n💡 Lighting & Rendering\nSoft studio lighting with slight rim light for separation\nBright, clean, vibrant look (premium emoji quality)\nHigh detail but not over-textured\nSoft shadow under character for depth\n\n🎨 Background\nClean minimal background (white)\nAdd small floating elements (sparkles, hearts, sweat drops, motion lines)\n\n📦 Consistency Rules\nSame character identity across all 16 stickers\nSame face, same glasses, same grooming style\nConsistent rendering quality and proportions\nPerfect 4×4 grid alignment (no messy layout)\nAspect ratio 2:3\n\n❌ Negative Prompt:\nno face mismatch, no identity change, no realistic body proportions, no stiff pose, no dull colors, no messy layout, no text overlap on face, no broken hands, no extra fingers, no blur, no low quality, no inconsistent style, no watermark, no extra stickers",
+      "description": "3D Cartoon Emoji Sticker Sheet Prompt: Use this prompt to create a vibrant collection of expressive character stickers featuring a cute girl with various moods and colorful text labels.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 687,
+      "copy_count": 1117,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-3.webp",
+          "local_path": "images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-3.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Cartoon Girl Expression Sticker Sheet AI Photo Editing Prompt. AI generated digital illustration of a young girl with short brown hair in 16 different sticker poses displaying various emotions and reaction text."
+        },
+        {
+          "filename": "girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-4.webp",
+          "local_path": "images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-4.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "3D Girl Emotion Sticker Pack Prompt. AI generated 3D digital illustration of a sticker sheet featuring a cartoon girl with glasses displaying sixteen diverse facial expressions and moods with text labels."
+        },
+        {
+          "filename": "girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-1.webp",
+          "local_path": "images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-1.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "AI generated 3D digital illustration of a curly-haired girl with glasses showcasing sixteen unique facial expressions in a sticker pack layout."
+        },
+        {
+          "filename": "girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-2.webp",
+          "local_path": "images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/girl-emotions-sticker-pack-3d-digital-illustration-by-promptplum-2.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Emotion Sticker Pack Generation Prompt. AI generated digital illustration of a blonde girl character expressing sixteen diverse emotions in a stylized 3D sticker collection with colorful text labels."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267048c",
+      "title": "3D Avatar Sticker Pack",
+      "slug": "male-avatar-expression-sticker-pack",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Using the uploaded image as the ONLY and exclusive facial identity reference, generate a premium-quality animated sticker pack. The character must be instantly recognizable as the same person, preserving exact facial structure, proportions, hairstyle, and grooming. Do not alter identity.\nCreate a 4×4 grid (16 stickers total) in a strict 2:3 vertical aspect ratio, with clean spacing and perfect alignment.\n\n🎯 Character Style (PREMIUM)\nChibi-style body (small body, big head ~65–70%)\nSlightly half-curved / dynamic pose (not stiff front-facing)\nRounded, soft, cute proportions\nExpressive face with exaggerated emotions (but identity preserved)\nSmooth high-end 3D cartoon rendering (Pixar-level polish)\nClean white outline stroke around each sticker (WhatsApp style)\n\n👕 Clothing (IMPORTANT)\n\nReplace plain outfit with colorful modern clothing\nHoodies, jackets, casual streetwear\nBright but aesthetic color palette (blue, purple, orange, teal)\nClothing varies slightly per sticker but stays consistent in style\n\n✍️ Text Styling (PREMIUM FEATURE)\nEach sticker must include bold, colorful text ABOVE the character (top placement only):\nText is curved slightly or arched for style\nBright gradient colors (blue → purple, orange → red, etc.)\nThick white outline + soft shadow for readability\nFun emoji accents (💧✨🔥💥💖 etc.)\nExample texts:\nHAPPY, SAD, LOL, SORRY, NO!, YES!, SEE YA!, COOL, BUSY, WAIT!, YAWN, OH NO!, OMG, WOW!, EWW!, REALLY?\n\n😄 Expressions & Gestures\nEach sticker must have unique pose + emotion + hand gesture, including:\nWaving, thumbs up, facepalm, shrug, pointing, holding phone, sleepy pose, shocked reaction, etc.\nHands must look natural (no broken anatomy)\n\n💡 Lighting & Rendering\nSoft studio lighting with slight rim light for separation\nBright, clean, vibrant look (premium emoji quality)\nHigh detail but not over-textured\nSoft shadow under character for depth\n\n🎨 Background\nClean minimal background (white)\nAdd small floating elements (sparkles, hearts, sweat drops, motion lines)\n\n📦 Consistency Rules\nSame character identity across all 16 stickers\nSame face, same glasses, same grooming style\nConsistent rendering quality and proportions\nPerfect grid alignment (no messy layout)\n\n❌ Negative Prompt:\nno face mismatch, no identity change, no realistic body proportions, no stiff pose, no dull colors, no messy layout, no text overlap on face, no broken hands, no extra fingers, no blur, no low quality, no inconsistent style, no watermark, no extra stickers",
+      "description": "3D Character Sticker Sheet Prompt: Use this prompt to create a collection of expressive, cartoon-style 3D stickers featuring a bearded man with glasses in various emotional poses and reactions.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 161,
+      "view_count": 2164,
+      "copy_count": 4011,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_bj5kcfbj5kcfbj5k.png",
+          "local_path": "images/emotional-expression/Gemini_Generated_Image_bj5kcfbj5kcfbj5k.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_bj5kcfbj5kcfbj5k.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/Gemini_Generated_Image_bj5kcfbj5kcfbj5k.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/Gemini_Generated_Image_bj5kcfbj5kcfbj5k.png",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Cartoon Man Expression Sticker Set AI Photo Editing Prompt. AI generated digital illustration of a 16-piece sticker sheet featuring a bearded man with glasses displaying various emotions and reactions with colorful text labels."
+        },
+        {
+          "filename": "cartoon-sticker-pack-illustration-by-promptplum-3.webp",
+          "local_path": "images/emotional-expression/cartoon-sticker-pack-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cartoon-sticker-pack-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/cartoon-sticker-pack-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/cartoon-sticker-pack-illustration-by-promptplum-3.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Cartoon Boy Sticker Pack Prompt. AI generated digital illustration of a young boy in colorful hoodies displaying sixteen different emotional expressions and reactions in a sticker format."
+        },
+        {
+          "filename": "cartoon-sticker-pack-illustration-by-promptplum-1.webp",
+          "local_path": "images/emotional-expression/cartoon-sticker-pack-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cartoon-sticker-pack-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/cartoon-sticker-pack-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/cartoon-sticker-pack-illustration-by-promptplum-1.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "AI generated digital illustration of sixteen expressive cartoon stickers featuring a young man with glasses in various poses and emotional states."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267041d",
+      "title": "9 Faces of Character",
+      "slug": "3d-cartoon-character-emotions-grid",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Create a high-quality square collage composed of nine equal panels arranged in a 3×3 grid, featuring nine stylized 3D cute caricature portraits of the same male character.\nThe collage must resemble a clean, modern social-media style character grid inside a 1:1 canvas.\nCollage Layout\nFinal canvas aspect ratio: 1:1\nNine equal square panels\nArranged in 3 columns × 3 rows\nPanels are NOT edge-to-edge\nVisible thin white spacing between panels\nSubtle outer white margin around the entire grid\nClean modern UI-style layout\nSlight rounded corners on each tile\nEach tile fills its own square proportionally\nCharacter centered in each tile\nHead-and-upper-torso framing\nIdentity Consistency (Critical)\nThe character must clearly look like the same person in all nine panels.\nMaintain:\n\nSame face shape\nSame hairstyle (thick brown)\nSame hairline\nSame skin tone with subtle blush\nSame eye shape and eyebrow thickness\nSame nose and lips\nSame jawline and cheek structure\nOnly change:\n\nExpression\nPose\nOutfit\nMinor accessories\nPanel-by-Panel Breakdown\nPanel 1 — Joyful / Celebratory (Yellow)\nBright yellow gradient background\nArms raised\nEyes closed\nBig open laugh\nEnergetic posture\nPanel 2 — Shocked (Blue)\nBlue gradient background\nHands on cheeks\nWide eyes\nOpen mouth\nRaised brows\nPanel 3 — Serious / Stern (Red)\nRed background\nArms crossed\nFurrowed brows\nNeutral tight lips\nWearing dark hoodie\nPanel 4 — Affectionate (Pink)\nSoft pink gradient\nHolding small brown puppy\nGentle smile\nCozy knit sweater\nPanel 5 — Confident / Sassy (Purple)\nPurple gradient background\nOne hand on hip\nSlight smirk\nGraphic t-shirt\nRelaxed stance\nPanel 6 — Friendly / Casual Approval (Green)\nGreen gradient background\nWearing cap + denim jacket\nThumbs-up\nRelaxed smile\nPanel 7 — Sad / Emotional (Gray)\nGray gradient background\nSlight downward gaze\nEyebrows slightly raised in center\nLips slightly curved downward\nSoft teary or emotional expression\nMore inward posture (shoulders slightly pulled in)\nCozy sweater remains\nPanel 8 — Curious / Thinking (Blue)\nBlue gradient background\nOne hand on chin\nBright curious smile\nYellow shirt with green long sleeves layered underneath\nPanel 9 — Professional / Corporate (Orange)\nClean orange gradient background\nNo sparkle element\nWearing:\nSmart blazer with white shirt\nCalm confident smile\nUpright posture\nHands crossed in professional stance\nCorporate-ready expression\nSlightly sharper posture than casual panel\nStyle & Rendering\nPremium 3D designer-toy caricature\nSlightly exaggerated head proportions\nSmooth rounded geometry\nSoft cheek volume\nSubsurface scattering\nSoft studio lighting\nGentle rim lighting\nSoft contact shadows\nClean glossy material finish\nModern animated film quality\n4K ultra-high-resolution render\nClean edges\nNo texture noise\nBackground Rules\nBold solid colors:\nYellow\nBlue\nRed\nPink\nPurple\nGreen\nSubtle radial or vertical gradient allowed\nNo environmental objects\nOnly prop allowed: puppy\nBackground color must reflect mood\nStrict Consistency Rules\nSame eye-level camera angle\nSame focal length\nSame lighting direction\nSame framing scale\nCentered composition\nWaist-up crop\nClean professional collage presentation\nEven panel spacing",
+      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to generate a grid of expressive character avatars with diverse emotions and styles. This 3x3 collage features a stylized male character showcasing various moods—from joy to sadness—against vibrant, colorful backgrounds.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 42,
+      "view_count": 865,
+      "copy_count": 1088,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "local_path": "images/emotional-expression/3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/3d-character-expressions-grid-illustration-by-promptplum.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "3D Character Expression Grid AI Prompt. AI generated digital illustration featuring a 3x3 grid of a young man displaying various facial expressions and outfits against colorful backgrounds."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670416",
+      "title": "The Weight of Thought",
+      "slug": "serious-man-thinking-bw-portrait",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Create a striking, ultra-detailed, high-contrast monochrome (black-and-white) portrait based on the uploaded reference image. The subject’s facial structure and identity must match the reference precisely — accurately replicate bone structure, eye shape, nose proportions, jawline definition, beard density (if present), hairline, and overall facial symmetry. Maintain authentic skin texture and natural features without artificial smoothing.\nSubject & Expression\nA mature, confident man with a strong facial structure and deep-set eyes looking directly into the camera. Expression should be serious, contemplative, and quietly authoritative. Preserve natural skin details such as pores, fine lines, and subtle texture for realism. The gaze should feel focused and introspective, not aggressive.\nFacial Hair (Adaptive)\nIf facial hair is present in the reference image, replicate it exactly — density, length, shape, and edges. Maintain natural tonal variation (including salt-and-pepper graying if applicable). Beard lines should be clean and structured.\n\nIf clean-shaven, preserve realistic skin texture and jaw definition.\nHairstyle (Adaptive)\nMatch the hairstyle from the reference image exactly — volume, direction, hairline, and texture. Hair should look natural with visible strand detail and subtle specular highlights from overhead directional lighting.\nPose\nClassic “thinker” pose. One hand raised to the chin with thumb along the jawline and index finger slightly curled. Knuckles and tendons subtly defined for realism. Hand in sharp focus with visible skin texture and natural tonal gradation.\n🔥 Lighting & Technical Style (Accurately Customized)\nLow-key fine-art studio photography with controlled high-contrast sculpting.\n• Primary key light positioned slightly above eye level and slightly toward the viewer’s left, angled downward to create strong top-plane highlights.\n\n• Light is soft but directional (large softbox or diffused beauty dish), producing crisp edge definition without harsh clipping.\n\n• Strong highlight concentration on forehead center, nose bridge, upper cheekbones, beard texture, and the top planes of the hand.\n\n• Subtle shadow shaping under the brow ridge and cheekbones to enhance bone structure.\n\n• The shadow side of the face remains deep but not fully crushed — maintaining controlled midtone detail.\n\n• Minimal fill light from front-center to retain facial symmetry while preserving depth.\n\n• Very subtle rim separation along hair edges and outer shoulder to prevent blending into background.\n\n• Catchlights centered and natural — small, soft rectangular reflection in both eyes.\n\n• Background is fully black with zero visible texture, absorbing all spill light.\nContrast ratio should be high but refined — not blown highlights, not muddy blacks. Clean tonal roll-off.\nComposition\nTight vertical head-and-shoulders crop (portrait orientation, 4:5 ratio recommended). Subject centered symmetrically for a formal, balanced presence. Background is pure crushed black with no visible texture.\nColor & Tonality\nPure black and white conversion with neutral tonal balance (no color tint).\n\nWide dynamic range — deep true blacks, bright clean highlights, and smooth midtone transitions.\n\nMicro-contrast enhancement to emphasize skin and beard texture.\nDepth of Field\nShallow depth of field with razor-sharp focus on eyes and front hand. Slight softness toward ears and far shoulder.\nWardrobe\nDark black crewneck sweater or minimalist top with matte texture that absorbs light and blends into background. Subtle rim separation on shoulder edge.\nQuality & Mood\nCinematic fine-art portrait. Ultra-realistic. Editorial studio quality. 8K resolution. Sharp micro-details. Mood: powerful, introspective, refined, quietly dominant.",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a sophisticated black and white studio portrait. It features a middle-aged man with a groomed beard in a contemplative pose, captured with dramatic high-contrast lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 40,
+      "view_count": 974,
+      "copy_count": 2141,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "bw-thoughtful-man-portrait-by-promptplum-2.webp",
+          "local_path": "images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bw-thoughtful-man-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Black and White Thoughtful Man AI Photo Editing Prompt. AI generated black and white studio portrait of a middle-aged man with a groomed beard posing with his hand on his chin."
+        },
+        {
+          "filename": "bw-thoughtful-man-portrait-by-promptplum-3.webp",
+          "local_path": "images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bw-thoughtful-man-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Thoughtful Bearded Man B&W AI Photo Editing Prompt. AI generated high-contrast studio portrait of an elderly bald man with a full white beard resting his hand on his chin."
+        },
+        {
+          "filename": "bw-thoughtful-man-portrait-by-promptplum-1.webp",
+          "local_path": "images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bw-thoughtful-man-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/bw-thoughtful-man-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Thoughtful Mature Man AI Photo Editing Prompt. AI generated black and white studio portrait of a pensive bearded man resting his hand on his chin against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703d2",
+      "title": "3D Boy Sticker Pack",
+      "slug": "3d-cartoon-boy-sticker-pack-multiple-expressions",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "A high-quality 3D digital sticker pack featuring a cute, expressive cartoon boy, rendered in the Pixar-style and chibi aesthetic, based on the reference image image_0.png.\nFace Match & Character Consistency (Important)\n\nUse the reference image image_0.png as a strict identity and face reference. Maintain consistent facial structure, eye shape, hairstyle, hair color, glasses shape, skin tone, and overall character identity across all stickers. Do not change facial proportions or redesign the character. Expressions should vary while preserving the same recognizable character face in every sticker.\nCharacter Design\n\nThe character has dark brown hair, green, thick-rimmed glasses, and wears a sky blue hoodie with pink drawstrings, and the yellow and pink “PROMPT PLUM” logo is clearly visible on the chest.\nSticker Layout & Composition (Strict Requirement)\n\nThe image must be created in a strict vertical 4:5 aspect ratio (1080×1350).\n\nThe canvas contains a clean grid layout of 16 individual stickers (4×4 arrangement) evenly spaced, each with a clean white outline. Background must remain plain white. All stickers must fit comfortably within the frame without cropping or touching the edges.\nSticker Poses\nTop Row:\n\nWaving excitedly\nNeutral smile\nGasping in surprise with wide eyes\nShivering with a blue blanket\nSecond Row:\n\nLaughing while holding a slice of pizza\nLooking at a tablet with a star on the screen\nConfident thumbs-up\nPumping fists in celebration with sparkle effects\nThird Row:\n\nCrying into a handkerchief\nPeeking from behind a stack of books\nHolding a small tabby cat plush toy\nWinking and giving a peace sign\nBottom Row:\n\nFeeling sick with a thermometer in her mouth\nThoughtful expression with a hand on her chin\nSleeping with “Zzz” above her head\nCheerful “OK” hand gesture with sparkles\nLighting & Rendering Style\n\nSoft studio-quality lighting with subtle rim lighting. Smooth, polished 3D textures, soft shadows, appealing material finish, and clean sticker-style rendering matching the quality and style of image_0.png. High detail, vibrant but soft color palette, professional sticker pack presentation.",
+      "description": "Get the ultimate 3D cartoon boy sticker pack AI prompt! Generate high-quality character stickers with multiple expressions and poses for your creative projects.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 104,
+      "view_count": 1226,
+      "copy_count": 2417,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-cartoon-boy-sticker-pack-with-multiple-expressions-ai-prompt.webp",
+          "local_path": "images/emotional-expression/3d-cartoon-boy-sticker-pack-with-multiple-expressions-ai-prompt.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-cartoon-boy-sticker-pack-with-multiple-expressions-ai-prompt.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/3d-cartoon-boy-sticker-pack-with-multiple-expressions-ai-prompt.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/3d-cartoon-boy-sticker-pack-with-multiple-expressions-ai-prompt.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "16 expressive 3D cartoon stickers of a boy with green glasses and a 'PROMPT PLUM' hoodie, showcasing various moods and actions like waving, eating pizza, and sleeping."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703c9",
+      "title": "Mood Board 2.0",
+      "slug": "3d-character-emotions-pack",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Create a high-quality square collage composed of six equal panels arranged in a 3×2 grid, featuring six stylized 3D caricature portraits. The collage layout should match a clean social-media style character collage, with evenly sized tiles aligned in a tight grid inside a 1:1 canvas.\n\nCollage framing requirements:\nFinal image canvas aspect ratio 1:1\nSix equal square panels\narranged in 3 columns × 2 rows\npanels aligned edge-to-edge in a clean grid\nno spacing between panels\nEach tile fills its grid cell completely\ncharacter-centred in every tile\nbold, solid-colour backgrounds per tile\n\nThe character must maintain strong facial identity consistency and accurate face matching across all six panels, preserving the same recognizable person while only changing expression, pose, outfit and minor accessories.\n\nFace identity requirements:\nconsistent face shape and proportions\nmatching hairstyle, hairline, and hair texture\nconsistent skin tone and facial structure\nsame eye shape, nose shape, and lip structure\npreserve defining facial features (jawline, cheekbones, eyebrows, etc.)\ncharacter must clearly look like the same person in every panel\n\nEach portrait should closely match the following specific poses and expressions, using horizontal framing:\nPanel 1 — Joyful / Celebratory\nArms raised, big open smile, energetic posture.\nPanel 2 — Surprised / Shocked\nHands on cheeks, wide eyes, raised eyebrows, open mouth.\nPanel 3 — Serious / Stern\nArms crossed, slightly furrowed brows, composed posture.\nPanel 4 — Cute / Affectionate\nHolding a small dog or cat close to the chest, with a soft smile.\nPanel 5 — Sassy / Confident\nOne hand on hip, slight smirk, relaxed stance.\nPanel 6 — Confident / Approving\nThumbs-up gesture, relaxed smile, optional hat accessory.\n\nEach portrait features a different modern outfit, reflecting the subject's mood.\n\nStyle the character as a stylized 3D caricature with:\nslightly exaggerated facial proportions\nsmooth rounded geometry\npolished skin shading\nsoft subsurface scattering\ncollectable designer-toy aesthetic\n\nRendering and quality:\nsoft ambient studio lighting\ngentle rim lighting\nsmooth shadows\nglossy but realistic materials\n4K ultra-high-resolution rendering\nclean edges and high-detail textures\n\nBackgrounds:\nbold, vibrant, solid colors per tile (yellow, blue, red, pink, purple, green)\nsimple gradient or flat background\nno environmental scene elements\n\nEnsure:\nconsistent camera angle across all panels\nwaist-up framing\ncentered composition\nmodern animation-studio character quality\nclean, minimal, professional collage presentation",
+      "description": "Generate stunning stylized 3D character avatars with this versatile AI art prompt. Create a high-quality character grid featuring 6 different emotions, vibrant backgrounds, and a clean Pixar-inspired 3D style.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 867,
+      "copy_count": 1415,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-1.webp",
+          "local_path": "images/emotional-expression/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-1.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "A 6-panel grid of a stylized 3D character showcasing diverse emotions (joy, shock, anger, affection, confidence, and approval) against vibrant, solid-colored backgrounds."
+        },
+        {
+          "filename": "stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-2.webp",
+          "local_path": "images/emotional-expression/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-2.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267039a",
+      "title": "Behind the Smile",
+      "slug": "split-face-happy-sad-woman-portrait",
+      "category": "Emotion & Expression",
+      "category_slug": "emotional-expression",
+      "prompt": "Use the uploaded photo as a strict identity reference. The subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain identical.\nThis is one single subject (not two people, not two faces).\n\nOnly the style and emotion changes across the split.\nNo beautification. No reshaping. No stylization. No identity drift.\nMain Concept\nCreate a 4:5 aspect ratio, ultra-realistic cinematic studio portrait with DSLR realism, 8K sharp detail, natural skin texture, soft focus, and shallow depth of field.\nA conceptual duality portrait: public persona vs hidden emotion.\nComposition & Framing\nVertical, centered portrait\nSubject perfectly centered, facing forward, direct eye contact\nOne continuous face across the split\nA jagged white torn-paper seam runs vertically down the exact center\nHead-and-shoulders framing, subject fills most of the frame\nMatte black studio background\nSubject\nA slender adult woman wearing a black turtleneck sweater.\n\nNatural wavy hair with realistic texture and shine.\nLeft Side (Color) — Public Persona\nFull color (ONLY left side)\nWarm, glowing complexion\nVibrant red lipstick\nConfident closed-mouth smile\nLighting: warm and flattering, highlights hair shine and skin glow\nRight Side (Black & White) — Private Reality\nPure monochrome / black-and-white (ONLY right side)\nSame exact face and hair (no duplication)\nSomber, melancholic expression\nLips neutral, slightly parted\nA single visible tear running down near the center seam\nLighting: soft but moody, more shadow depth under the eyes\nRealism & Texture\nPhotorealistic DSLR look, visible pores, natural skin texture, no smoothing, no artificial glow.\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo face morphing\n\nNo painting/illustration/anime/cartoon / 3D\n\nNo plastic skin\n\nNo over-softening",
+      "description": "Create powerful visual storytelling with this split-face portrait AI prompt. Generate realistic happy vs. sad images featuring a torn paper effect, vibrant colors, and cinematic black and white crying details.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 52,
+      "view_count": 1374,
+      "copy_count": 2563,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
+          "local_path": "images/emotional-expression/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Split portrait: one side is vibrant and smiling, the other is grayscale and tearful. A torn paper edge dramatically separates these two moods against a deep black backdrop."
+        },
+        {
+          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
+          "local_path": "images/emotional-expression/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emotional-expression/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emotional-expression/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

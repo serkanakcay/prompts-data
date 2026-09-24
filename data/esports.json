@@ -1,0 +1,37 @@
+{
+  "category": "Esports",
+  "slug": "esports",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:55:09Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca152670400",
+      "title": "Elite Stat Card",
+      "slug": "esports-profile-card",
+      "category": "Esports",
+      "category_slug": "esports",
+      "prompt": "Use the uploaded reference image as the primary identity source. The generated portrait must match the same person exactly, preserving precise facial structure, head shape, jawline, cheekbones, eyes, nose, lips, hairstyle, glasses style, skin tone, and overall proportions. Maintain true identity fidelity and strong facial recognition accuracy. Do not beautify, stylize, or alter facial features. Preserve natural asymmetry, skin texture, and authentic likeness.\nCreate a highly stylized, ultra-detailed futuristic e-sports gaming profile card or “leader card” with a legendary-tier competitive aesthetic. The composition is in vertical 4:5 aspect ratio, centered, symmetrical, and designed like a premium digital character card from a modern competitive video game.\nCentral Portrait & Pose\n\nThe subject is centered in the frame, shown from mid-torso upward, facing forward with direct eye contact. He is making a confident “shushing” gesture, holding his right index finger vertically against his lips, conveying a calm, dominant, and quietly confident persona. His posture is upright and composed, with relaxed shoulders and balanced framing.\nHe is wearing a professional e-sports athletic jersey in black and electric blue, featuring realistic fabric texture, subtle stitching, breathable mesh panels, and modern competitive gaming uniform styling.\nBackground & Aura\n\nBehind the subject’s head is a glowing circular digital halo or energy portal in bright neon blue, perfectly centered and symmetrical. The halo emits soft radial light rays and contains subtle sci-fi elements such as faint hexagonal grid patterns, floating digital particles, glowing data fragments, and atmospheric sparkles. The background fades into a deep dark blue and black gradient with depth, cinematic glow, and futuristic ambiance.\nCard Frame & Border Design\n\nThe entire portrait is enclosed within a thick, metallic, futuristic frame with layered dimensional structure. The frame is made of brushed silver metal with illuminated neon accents in electric blue and subtle gold/yellow highlights. The corners are angular, geometric, and industrial, with glowing seams, reflective metallic edges, and sci-fi panel detailing. Soft light reflections and glow effects enhance the premium, legendary card appearance.\nTypography & Branding\n\nAt the top center of the card, display the name:\n“JACK XP”\nin large, bold, futuristic sans-serif typography, white with bright blue neon glow, subtle metallic reflections, and soft bloom lighting.\nDirectly below it, display the title:\n“LEADER”\nin smaller, clean teal or cyan futuristic font with subtle glow.\nOn the subject’s chest area, overlay a shield-shaped crest logo with metallic gold and blue textures. The crest reads:\nJACK XP\n\nLEADER\n\nARMY\nwith layered typography, glowing accents, beveled metallic edges, and premium emblem styling.\nGaming Statistics Panel\n\nAt the bottom of the card, include a sleek futuristic stats panel with glowing borders and dark metallic background. Display the following performance metrics in high-contrast, bold, futuristic font:\nHEADSHOT RATE: 97%\n\nK/D RATIO: 5.2\n\nWIN RATE: 93%\nThe numbers should be large, bright, and glowing in electric blue, with smaller white labels above them.\nLighting & Rendering Style\n\nUse cinematic studio lighting combined with futuristic neon rim lighting. The face must remain clearly visible with realistic skin tone and proper exposure. Add soft blue rim light around the edges of the subject to integrate him naturally into the sci-fi environment. Include subtle glow bloom, volumetric light, and atmospheric depth.\nColor Palette\n\nDominant colors: electric blue, deep navy blue, black, metallic silver\n\nAccent colors: neon cyan, subtle gold/yellow highlights\n\nMaintain high contrast, rich saturation, and premium digital finish.\nRendering Quality\n\nUltra-realistic, hyper-detailed, 8K resolution, professional e-sports character card, sharp focus, clean edges, cinematic contrast, advanced glow effects, realistic materials, and premium competitive gaming aesthetic.",
+      "description": "AI Esports Profile Card Prompt: Use this prompt to create a futuristic eSports player profile card featuring professional gaming stats, a cinematic portrait, and glowing neon blue graphics.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 691,
+      "copy_count": 453,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "esports-card-illustration-by-promptplum.webp",
+          "local_path": "images/esports/esports-card-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/esports-card-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/esports/esports-card-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/esports/esports-card-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Esports Profile Card Prompt. AI generated digital illustration of a young gamer with glasses making a shushing gesture on a futuristic blue player card with high-performance gaming stats."
+        }
+      ]
+    }
+  ]
+}

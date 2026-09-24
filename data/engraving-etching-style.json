@@ -1,0 +1,57 @@
+{
+  "category": "Engraving & Etching Style",
+  "slug": "engraving-etching-style",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:55:09Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca1526704f1",
+      "title": "Waves of Thought",
+      "slug": "black-white-engraved-portrait-man",
+      "category": "Engraving & Etching Style",
+      "category_slug": "engraving-etching-style",
+      "prompt": "Create a premium ultra-detailed monochrome line-art portrait of the uploaded subject in a dense hand-drawn engraving and topographic contour style. The final image must look like a luxury editorial portrait illustration, not a simple vector sketch.\n\nComposition:\nCreate a tight bust-length portrait in a vertical 4:5 aspect ratio. The subject should fill most of the frame from upper chest to head, with the head large and prominent. Keep the subject centered and slightly turned in a subtle three-quarter pose, while the face remains mostly front-facing. The head is upright, posture composed, shoulders relaxed, and the portrait feels calm, confident, elegant, and premium.\n\nExpression:\nThe subject should not look sad, tired, angry, or emotionally heavy. Keep the expression calm, confident, pleasant, composed, and naturally self-assured. Eyes should look softly forward or slightly off-camera with a refined, alert, dignified presence. Lips should be closed with a neutral-to-subtle pleasant expression, not downturned.\n\nSubject details:\nAdapt the facial structure naturally to the uploaded subject, suitable for any person of any age. Preserve the person’s natural face shape, hairstyle, facial hair if present, brow shape, nose structure, lips, jawline, ears, and overall personality. Make the face realistic and highly dimensional using only flowing contour lines. Do not beautify the subject into a generic model. Do not make the subject younger, older, sadder, or more stylized than necessary.\n\nFacial linework:\nThe entire face must be sculpted with dense flowing cross-contour lines that wrap around the anatomy like topographic map lines. Use line direction and spacing to describe the forehead, brow ridge, eyelids, under-eye area, nose bridge, nostrils, cheeks, lips, chin, jawline, neck, and subtle expression lines. The face should have rich dimensional form, with shadows created only by tighter line density and highlights created by wider line spacing. No solid black fills and no grayscale shading.\n\nEyes:\nMake the eyes one of the sharpest focal points. Render the eyelids, pupils, iris detail, under-eye contours, and brow structure with precise black ink linework. The eyes should feel alive, calm, and naturally expressive, not blank or cartoonish.\n\nHair:\nRender the subject’s natural hairstyle with extremely dense, premium, layered ink strands. Hair should be detailed, polished, and dimensional, with visible directional flow, volume, hair mass, crown structure, side texture, hairline, and individual curved strand groups. Use darker, tighter line clusters in shadowed hair areas, but avoid flat black fill.\n\nClothing:\nDress the subject in a structured tailored blazer or formal jacket over an open-collar button-up shirt, regardless of the original casual clothing. The outfit should feel refined, timeless, and editorial. Show clear lapels, jacket seams, collar folds, shirt opening, fabric tension, shoulder structure, and chest-level garment detail. Render the blazer and shirt with very dense engraving-style hatching and crosshatching, creating a premium woven fabric texture. Clothing should look detailed and formal, not like a sweater or plain T-shirt.\n\nBackground:\nUse a clean white background with abstract flowing contour-line formations around the head and shoulders. The background lines should look like smoke, vapor, organic waves, or topographic currents, but they must stay secondary to the portrait. They should blend naturally around the hair and shoulders without overpowering the subject. Keep the background elegant, minimal, and spacious, but not empty.\n\nLine style:\nUse ultra-fine black ink strokes with subtle line-weight variation. Combine continuous contour lines, fingerprint-like grooves, engraved hatching, and sculptural cross-contour mapping. The portrait should be built entirely through black line density, spacing, rhythm, and curvature. Use many more fine lines on the face, hair, jacket, and shirt than in a simple outline drawing.\n\nQuality target:\nThe final artwork should look highly premium, intricate, museum-worthy, hypnotic, and editorial. It should feel like a master engraving mixed with modern generative topographic line art. Keep the portrait realistic, detailed, elegant, and visually rich.\n\nAvoid:\nDo not create a simple vector portrait.\nDo not create sparse linework.\nDo not make the subject too small in the frame.\nDo not show too much torso.\nDo not use casual sweater clothing.\nDo not use flat black fills.\nDo not use grayscale shading.\nDo not make the expression sad, tired, angry, or melancholic.\nDo not make the background more detailed than the face.\nDo not turn the image into cartoon, anime, caricature, or minimal logo-style art.\nDo not simplify the hair, face, blazer, or shirt.",
+      "description": "Vintage Engraving Style Illustration Prompt: Copy & paste this detailed prompt to generate a classic, intricate black and white etching portrait of a man in a suit against a wavy topographic pattern background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 34,
+      "view_count": 633,
+      "copy_count": 1606,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "local_path": "images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Engraved Man Portrait AI Photo Editing Prompt. AI generated digital illustration of a detailed line art portrait of a bearded man in a textured suit against a topographic background."
+        },
+        {
+          "filename": "man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "local_path": "images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Engraved Young Man Portrait AI Photo Editing Prompt. AI generated detailed line art illustration of a young man with thick wavy hair in a textured blazer, featuring radiating background lines."
+        },
+        {
+          "filename": "man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "local_path": "images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/engraving-etching-style/man-in-suit-engraving-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated engraving-style digital illustration portrait of a sharp-looking man in a textured suit, set against a swirling line pattern background."
+        }
+      ]
+    }
+  ]
+}

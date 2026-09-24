@@ -1,0 +1,748 @@
+{
+  "category": "Dramatic",
+  "slug": "dramatic",
+  "total_prompts": 22,
+  "updated_at": "2026-09-24T12:55:01Z",
+  "prompts": [
+    {
+      "id": "6aa02eae46d4207dc2b43eed",
+      "title": "High-Contrast Suit Portrait",
+      "slug": "high-contrast-male-portrait-prompt",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create a photorealistic cinematic black-and-white studio portrait of a man wearing a perfectly tailored black suit, a crisp white dress shirt, and a classic black tie. He has neatly styled, naturally detailed hair.\n\nHe faces the camera directly with a serious, calm, and confident expression, neutral lips, and intense eye contact. Tight chest-up composition, centered framing, and a straight-on camera angle.\n\nUse a dark, seamless clean studio background. A strong, soft key light positioned behind the subject creates dramatic rim and backlighting, producing a bright, clean outline around the hair and shoulders. A soft fill light from the left gently illuminates the face, while natural shadows fall across the left side of the face, creating striking high-contrast monochrome tones. Preserve realistic skin texture, natural facial details, and finely defined hair.\n\nShot with an 85mm portrait lens at f/1.6, producing a shallow depth of field and cinematic separation from the background. High dynamic range, refined tonal contrast, realistic lighting, ultra-detailed skin and hair texture, photorealistic quality, 8K resolution, vertical 4:5 aspect ratio.\n\nNegative Prompt: No facial distortion, no identity changes, no facial reshaping, no blurry or low-quality details, no anatomy errors, no flat lighting, no text, no watermark, and no unwanted background objects.",
+      "description": "Black and White Studio Portrait Prompt. Copy and paste this prompt to generate a highly realistic, high-contrast monochrome photograph of a handsome young man with curly hair wearing a classic black suit and tie.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 674,
+      "copy_count": 495,
+      "is_premium": false,
+      "published_at": "2026-09-08T15:50:06.852Z",
+      "images": [
+        {
+          "filename": "86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "local_path": "images/dramatic/86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Black and white studio portrait of a man in a suit AI Photo Editing Prompt. AI generated studio portrait of a handsome young man with curly hair wearing a classic black suit, white shirt, and black tie against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a9edd4346d4207dc29738a6",
+      "title": "Urban Night Street Portrait in the Rain",
+      "slug": "rain-photography-portrait-prompt",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "A photorealistic cinematic portrait of a handsome man standing on a rainy city street at night, shown in a close-up three-quarter profile. He has naturally, wet hair falling loosely over his forehead, defined facial features, and a calm, serious, and intense expression while looking directly toward the camera. His face and skin are covered with realistic rain droplets.\nHe is wearing a black leather jacket, completely wet and glossy from the rain, with subtle reflections across the shoulders and collar. Warm orange streetlights illuminate the scene from behind and the left side, creating dramatic rim lighting on his wet hair, face, and jacket. The background is a busy urban street at night with heavy rainfall, warm orange glowing street lamps, colorful traffic lights, and blurred city lights creating beautiful circular bokeh. Wet pavement reflects the warm orange and red lights, adding depth and atmosphere.\nComposition: tight chest-up portrait, subject positioned slightly left of center, eye-level camera angle, shallow depth of field, strong subject separation. Lighting: cinematic warm tungsten/orange lighting, soft highlights, deep shadows, realistic reflections, atmospheric rain. Camera: 85mm lens, f/1.4, shallow depth of field, natural perspective, high dynamic range. Style: ultra-realistic photography, cinematic color grading, ultra-detailed skin texture, realistic wet hair and fabric, moody nighttime atmosphere, 8K resolution, vertical 4:5 composition, no identity change, no anatomy error, realistic anatomy, no distortion, no extra fingers, no text, no watermark.",
+      "description": "Cinematic Night Portrait Photography Prompt. Copy and paste this prompt to generate a highly realistic, moody portrait of a handsome man with wet hair in a black leather jacket standing on a rainy city street at night with colorful neon bokeh.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 9,
+      "view_count": 1025,
+      "copy_count": 613,
+      "is_premium": false,
+      "published_at": "2026-09-07T15:50:27.420Z",
+      "images": [
+        {
+          "filename": "a7d05a5a-ff64-4b49-849f-30291536a3d6.jpeg",
+          "local_path": "images/dramatic/a7d05a5a-ff64-4b49-849f-30291536a3d6.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/a7d05a5a-ff64-4b49-849f-30291536a3d6.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/a7d05a5a-ff64-4b49-849f-30291536a3d6.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/a7d05a5a-ff64-4b49-849f-30291536a3d6.jpeg",
+          "width": 1067,
+          "height": 1600,
+          "alt": "Indian Man in Leather Jacket on Rainy City Street Cinematic Portrait AI Photo Editing Prompt. AI generated cinematic portrait of a handsome man with wet hair wearing a black leather jacket standing in the rain at night with colorful neon city bokeh."
+        }
+      ]
+    },
+    {
+      "id": "6a522f667877e7a4d78c881c",
+      "title": "Monochrome Editorial Split Background Woman Portrait",
+      "slug": "split-background-woman-editorial-portrait",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create a high-fashion black-and-white close-up portrait of the uploaded woman, preserving her recognizable facial identity, natural skin tone, and facial proportions. Frame her from the upper chest upward in a vertical 4:5 composition. She rests one forearm horizontally across the white table, while her other arm rises vertically through the center of the frame, covering one half of her face; the wrist bends softly above her forehead with relaxed fingers. Keep her uncovered eye sharply focused on the camera with a calm, intense expression.\nStyle her hair in a loose, voluminous messy updo with soft strands falling naturally around the face. Dress her in a fitted black high-neck top with sheer mesh sleeves, allowing the arms to remain subtly visible through the fabric. Add a wide minimalist metallic cuff bracelet around the raised wrist. Use a clean vertically split studio background—deep black behind the left side and bright white behind the right—creating strong graphic contrast. Soft directional studio lighting, smooth grayscale tones, realistic skin texture, crisp focus on the visible eye, subtle shadows, shallow depth of field, premium monochrome fashion-editorial photography, no text, no extra accessories.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 45,
+      "view_count": 3319,
+      "copy_count": 3927,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "919e0645-ca7f-4a55-aa5c-30ac92ba4a17.webp",
+          "local_path": "images/dramatic/919e0645-ca7f-4a55-aa5c-30ac92ba4a17.webp",
+          "original_url": "https://img.promptplum.com/promptImages/919e0645-ca7f-4a55-aa5c-30ac92ba4a17.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/919e0645-ca7f-4a55-aa5c-30ac92ba4a17.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/919e0645-ca7f-4a55-aa5c-30ac92ba4a17.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "dramatic-split-background-woman-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "419be7b4-906d-493e-b9f0-d6529e9ad262.webp",
+          "local_path": "images/dramatic/419be7b4-906d-493e-b9f0-d6529e9ad262.webp",
+          "original_url": "https://img.promptplum.com/promptImages/419be7b4-906d-493e-b9f0-d6529e9ad262.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/419be7b4-906d-493e-b9f0-d6529e9ad262.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/419be7b4-906d-493e-b9f0-d6529e9ad262.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "dramatic-split-background-woman-portrait-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "b4ae1417-8982-4969-a96a-44abe1e10552.webp",
+          "local_path": "images/dramatic/b4ae1417-8982-4969-a96a-44abe1e10552.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b4ae1417-8982-4969-a96a-44abe1e10552.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/b4ae1417-8982-4969-a96a-44abe1e10552.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/b4ae1417-8982-4969-a96a-44abe1e10552.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "dramatic-split-background-woman-portrait-prompt-by-promptplum-4"
+        }
+      ]
+    },
+    {
+      "id": "6a2e149b61276f872a7238c6",
+      "title": "Adjusting the Half-Windsor",
+      "slug": "dramatic-black-white-man-suit-portrait",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Use the uploaded image strictly only for the face and Identity reference.\nCreate an ultra-realistic black-and-white studio portrait of a refined man wearing a tailored black suit, crisp white dress shirt, and dark tie. Show him in a right-facing three-quarter profile, with his face turned toward the right side of the frame and his gaze looking slightly into the distance. Keep his expression calm, serious, and composed, with closed lips and a naturally confident presence.\nFrame the portrait from the lower chest upward in a vertical 4:5 composition. Position him slightly left of center, leaving clean deep-black negative space on the right. One hand is raised naturally to adjust the tie knot, with realistic fingers, hand anatomy, cuff detail, and a relaxed elegant gesture.\nUse dramatic low-key studio lighting: a large soft key light from the upper camera-right/front softly illuminates the face, forehead, cheekbone, eye, collar, and hand. Let the far side of the face, neck, suit, and background fall into rich controlled shadow. Add a faint rim light along the hair, ear, shoulder, and suit edge to separate him from the black background.\nKeep the background pure black and seamless. Render sharp realistic eyes, natural skin texture, subtle pores, defined jawline, detailed hair strands, realistic suit fabric, clean shirt collar, and a refined tie texture. 8k resolution, Monochrome fine-art editorial photography, cinematic contrast, elegant shadow falloff, 85mm portrait lens look, shallow depth of field, crisp facial detail, premium luxury portrait quality.",
+      "description": "Black and White Portrait Prompt: Copy & Paste this prompt to create a dramatic monochrome studio photograph of a man in a suit adjusting his tie from a side profile.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 42,
+      "view_count": 1341,
+      "copy_count": 2098,
+      "is_premium": false,
+      "published_at": "2026-08-10T16:11:58.293Z",
+      "images": [
+        {
+          "filename": "ab8f4c21-e7a9-411b-8d04-ce7500b98618.webp",
+          "local_path": "images/dramatic/ab8f4c21-e7a9-411b-8d04-ce7500b98618.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ab8f4c21-e7a9-411b-8d04-ce7500b98618.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/ab8f4c21-e7a9-411b-8d04-ce7500b98618.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/ab8f4c21-e7a9-411b-8d04-ce7500b98618.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Black and White Man in Suit Portrait AI Photo Editing Prompt. AI generated monochrome studio portrait of a handsome man in a dark suit adjusting his tie from a side profile."
+        }
+      ]
+    },
+    {
+      "id": "6a2be1f861276f872a49fdb9",
+      "title": "Barefoot in the Fog",
+      "slug": "moody-portrait-smoke-background",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference.\nCreate a ultra-realistic 8K cinematic portrait of a contemplative person seated on a simple black wooden stool in a dark studio environment. The subject is positioned in a graceful side-profile pose, facing toward the left of the frame, with one knee drawn up toward the chest and both hands gently resting around the shin. While the opposite leg extends downward in a relaxed manner, with the foot lightly resting against the stool's lower rung. The posture is relaxed, introspective, and emotionally expressive, conveying quiet strength and deep thought.\nComposition: Full-body vertical portrait with no feet cropped, the subject centered in the frame. Strong use of negative space surrounds the subject, enhancing visual impact. The stool remains fully visible, creating a balanced and elegant composition.\nOutfit: Minimalist monochromatic styling consisting of a fitted long-sleeve black top and loose, flowing brown trousers. Barefoot, adding a natural and vulnerable aesthetic.\nExpression & Gaze: Calm, thoughtful, and slightly melancholic expression. Soft facial features with a distant gaze directed off-camera toward the left, creating a reflective and cinematic mood.\nBackground: Deep black seamless studio backdrop filled with dramatic swirling atmospheric smoke. Dense layers of illuminated fog surround the subject, creating depth, mystery, and a dreamlike atmosphere.\nLighting: Moody low-key studio lighting with a powerful warm amber tube light positioned directly behind the subject. The tube light and its stand are not visible within the frame. Strong backlighting creates a luminous halo around the hair and shoulders, while subtle side fill lighting reveals facial contours. Volumetric light rays interact with the surrounding smoke, producing cinematic depth, dramatic contrast, and rich chiaroscuro effects.\nCamera Angle: Eye-level camera angle with a slight three-quarter side perspective, emphasizing the subject's profile and sculptural form.\nTechnical Details: Ultra-realistic photography, photorealistic 8K resolution, DSLR-quality image, 85mm lens, f/1.8 aperture, shallow depth of field, cinematic color grading, warm amber highlights, deep shadows, volumetric smoke effects, realistic skin texture, sharp facial details, soft background falloff, high dynamic range, premium editorial portrait photography, fine-art cinematic aesthetic, masterpiece quality, ultra-detailed, dramatic storytelling, professional studio production.\nAspect ratio 4:5.",
+      "description": "Cinematic Portrait Prompt: Copy & paste this prompt to create a moody studio photograph of a barefoot woman sitting on a stool amidst backlit golden smoke.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 36,
+      "view_count": 1271,
+      "copy_count": 2243,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "7490a82c-d3f5-478b-9319-08f0e0e686c0.webp",
+          "local_path": "images/dramatic/7490a82c-d3f5-478b-9319-08f0e0e686c0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7490a82c-d3f5-478b-9319-08f0e0e686c0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/7490a82c-d3f5-478b-9319-08f0e0e686c0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/7490a82c-d3f5-478b-9319-08f0e0e686c0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "woman-stool-golden-smoke-portrait-image-by-promptplum"
+        },
+        {
+          "filename": "7da28f4a-b444-4efd-bf27-236c496a9dc6.webp",
+          "local_path": "images/dramatic/7da28f4a-b444-4efd-bf27-236c496a9dc6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7da28f4a-b444-4efd-bf27-236c496a9dc6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/7da28f4a-b444-4efd-bf27-236c496a9dc6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/7da28f4a-b444-4efd-bf27-236c496a9dc6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_g0l777g0l777g0l7"
+        },
+        {
+          "filename": "fd887eda-d2b4-48ba-8044-100822235440.webp",
+          "local_path": "images/dramatic/fd887eda-d2b4-48ba-8044-100822235440.webp",
+          "original_url": "https://img.promptplum.com/promptImages/fd887eda-d2b4-48ba-8044-100822235440.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/fd887eda-d2b4-48ba-8044-100822235440.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/fd887eda-d2b4-48ba-8044-100822235440.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_rb3696rb3696rb36"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670508",
+      "title": "Split Focus",
+      "slug": "double-exposure-sunset-portrait",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create a cinematic vertical 4:5 portrait of the reference person. The subject is shown in a chest up, facing side profile, with the head slightly lowered and the body standing in a calm, introspective pose. The subject should appear mostly as a dark silhouette, with only a subtle rim light defining the hairline, forehead, nose bridge, lips, jawline, and edge of the face.\nUse a warm sunset gradient background with deep orange and red tones behind the subject, softly fading into a muted greenish-gray tone near the top. Add soft atmospheric haze, a dreamy glow, and gentle film-like diffusion. Create a long-exposure motion-blur effect with a faint translucent ghost-like duplicate of the head trailing behind the subject, while keeping the main profile readable and emotionally strong.\nThe composition should be minimal, cinematic, and contemplative, with high contrast, moody lighting, soft focus, shallow depth of field, and an editorial film-photography aesthetic. No text, no logo, no extra objects, no harsh details, no over-sharpening. Aspect ratio 4:5.",
+      "description": "Double Exposure Portrait Prompt: Copy & Paste this prompt to create a cinematic silhouette of a person with a motion blur effect against a vibrant sunset.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 70,
+      "view_count": 1202,
+      "copy_count": 3237,
+      "is_premium": false,
+      "published_at": "2026-08-10T16:43:00.643Z",
+      "images": [
+        {
+          "filename": "double-exposure-sunset-silhouette-portrait-by-promptplum-2.webp",
+          "local_path": "images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/double-exposure-sunset-silhouette-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Double Exposure Sunset Silhouette AI Photo Editing Prompt. AI generated double exposure portrait of a young man's dark silhouette layered against a warm orange sunset sky."
+        },
+        {
+          "filename": "double-exposure-sunset-silhouette-portrait-by-promptplum-1.webp",
+          "local_path": "images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/double-exposure-sunset-silhouette-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Sunset Double Exposure Portrait AI Photo Editing Prompt. AI generated cinematic portrait of a woman's side profile featuring a faded ghosting effect against a warm orange sunset sky."
+        },
+        {
+          "filename": "double-exposure-sunset-silhouette-portrait-by-promptplum-3.webp",
+          "local_path": "images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/double-exposure-sunset-silhouette-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/double-exposure-sunset-silhouette-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated artistic digital illustration of a young man's silhouette profile with a double-exposure effect against a dramatic orange and red sunset."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704fc",
+      "title": "Quiet Intensity",
+      "slug": "serious-man-neon-portrait",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create a photorealistic 4:5 vertical cinematic portrait of the uploaded male subject, framed from the mid-chest upward in a refined, premium editorial style.\n\nComposition & Pose\nShow the subject in a chest-up / upper-torso portrait.\nThe pose must be a clear three-quarter side pose, not front-facing. His torso should be noticeably angled to one side, while his face is turned downward in the same direction. The subject should feel naturally turned, not squared toward the camera.\nThe shoulders must not appear flat or perfectly level. Keep a natural asymmetry in the shoulders, with the body softly slanted so the pose feels elegant and realistic. Avoid a straight, centered, passport-like posture.\n\nExpression — Very Important\nThe subject should have a quiet, introspective, deeply focused expression — calm lips, relaxed facial muscles, slightly lowered eyelids, and a subtle sense of concentration or reflection. He should look serious and emotionally present, not sad, not smiling, not blank, and not overly dramatic.\n\nStyling\nDress him in a black high-neck turtleneck layered under a dark brown blazer with clean structure and soft premium fabric texture. Add black rectangular eyeglasses with a polished frame, sitting naturally on the face.\n\nLighting & Neon Halo\nBehind the subject’s head, place a large glowing circular neon ring light in a vivid orange-red tone, positioned like a luminous halo and clearly visible around the head and shoulders.\nUse this neon ring as the key visual element:\nStrong warm orange rim light along the hair edges, ear, cheek contour, jawline, neck, and blazer shoulder\nSoft warm reflections on the eyeglass frame and lens edges\nControlled highlights on the skin without overexposure\nDeep, rich shadows on the front and lower parts of the outfit for a dramatic cinematic contrast\nFace, Skin & Detail Quality\nRender the subject with crisp realistic facial detail, natural skin texture, subtle pores, fine facial hair detail where present, clean eyebrow definition, realistic hair strands, and sharp optical clarity around the eyes, glasses, and nose bridge. The image should feel like a high-end studio portrait, not smooth, plastic, or AI-stylized.\n\nBackground\nUse a dark moody studio background in deep black and charcoal tones, with a soft atmospheric falloff around the glowing neon ring. Keep the background minimal and uncluttered so the neon circle and subject remain dominant. Do not add smoke, haze, fog, texture buildup, or extra atmospheric effects.\n\nVisual Style\nPremium cinematic portrait photography, dramatic low-key lighting, neon editorial aesthetic, ultra-detailed, sharp focus on face and glasses, realistic depth of field, polished high-end color grading, rich contrast, sophisticated masculine mood.",
+      "description": "Cinematic Photography Prompt: Copy & Paste this prompt to create a dramatic studio portrait of a serious man with glasses against a glowing orange neon circle.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 469,
+      "copy_count": 965,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "local_path": "images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Neon Halo AI Photo Editing Prompt. AI generated cinematic portrait of a serious man with glasses and a brown blazer, backlit by a glowing orange neon circle."
+        },
+        {
+          "filename": "serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "local_path": "images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Neon Halo AI Photo Editing Prompt. AI generated studio portrait of a serious young man in glasses, a black turtleneck, and a grey blazer in front of a glowing orange neon circle."
+        },
+        {
+          "filename": "serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "local_path": "images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/serious-man-with-glasses-neon-circle-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a serious young man in a brown blazer and turtleneck, illuminated by a glowing orange neon ring against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703fe",
+      "title": "The Glass Halo",
+      "slug": "man-shattered-glass-red-background",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create a 4K high-end cinematic portrait of a man featuring a shattered glass foreground. The subject must remain exactly the same person as in the reference image — preserve identical facial structure, skin tone, hairstyle, and overall identity. Do not modify, alter, or invent any facial features or elements.\nThe subject is dressed exclusively in black clothing, styled in a bold, high-fashion editorial manner, maintaining a dark and elegant aesthetic.\nThe composition is a mid close-up shot captured from an overhead shot angle, framed closely around the subject’s face and shoulders. Directly looking into the camera. The background should be clean and minimal, preferably a deep solid red tone that strongly contrasts with the black clothing and natural skin tones, without any distractions.\nRealistic shattered glass fragments are suspended strictly around the outer borders of the frame only. The central facial area must remain completely unobstructed and crystal clear — no glass shards, reflections, or distortions should cover or overlap the subject’s eyes, nose, mouth, or any primary facial features. Each glass shard must accurately reflect and refract portions of the original reference image — including fragments of the subject’s face, eyes, skin, clothing, and lighting — creating multiple distorted yet optically correct reflections of the same subject. Reflections must demonstrate realistic refraction, mirrored angles, light bending, depth variation, sharp glass edges, and accurate optical distortion.\nThe subject behind the glass remains sharp, powerful, and emotionally intense, with the face fully visible and unobstructed, while the reflections in the shards echo the same identity from different angles.\nLighting is cinematic and dramatic, with controlled highlights on the glass, soft sculpted shadows on the subject, and professional film-grade color grading. Maintain ultra-realistic skin texture with visible pores and natural imperfections, along with realistic fabric detail.\nStyle: cinematic movie poster, psychological drama, premium photography, hyperrealism, ultra-detailed, professional lighting, sharp focus, 4K resolution, no distortion.\nAspect Ratio: 4:5 (vertical portrait).\nImage Quality: ultra-high resolution, photorealistic, editorial finish.\nNegative Prompt:\nFace cropped, eye-level front shot, low angle shot, low quality, smiling expression, open mouth.",
+      "description": "AI Photo Editing Prompt: Create a dramatic cinematic photo of a man surrounded by shattered glass shards that reflect his face from multiple angles against a bold red background for a fragmented, high-fashion look.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 16,
+      "view_count": 497,
+      "copy_count": 630,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "local_path": "images/dramatic/cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/cinematic-portrait-man-broken-glass-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Broken Glass Reflections AI Photo Editing Prompt. AI generated cinematic studio portrait of a man in black attire surrounded by shattered mirror fragments on a deep red backdrop."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526703f8",
+      "title": "Chiaroscuro",
+      "slug": "black-and-white-woman-portrait-upward-gaze",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create a hyper-realistic, high-contrast black-and-white low-key studio portrait of a young woman in a tight vertical composition. Use a three-quarter side profile view, with her head tilted slightly upward (about 20–30 degrees) toward an unseen light source above and in front of her. Her expression must feel calm, introspective, and contemplative.\nLighting (Critical):\n\nUse a single hard directional key light positioned above and slightly to the front-left. This creates dramatic chiaroscuro lighting with strong highlights along the forehead, nose bridge, lips, and chin, while the opposite side of the face, neck, and background fall into deep pure black shadow. Maintain extreme tonal contrast with clean highlight separation and crushed blacks.\nSkin and Micro-Detail:\n\nRender ultra-detailed, natural skin texture with visible pores, fine vellus hairs (peach fuzz), and realistic tonal transitions. Preserve authentic epidermal detail without smoothing or beautification. Skin must appear natural, not plastic.\nEyes and Lips:\n\nThe visible eye must be razor sharp with clear iris detail and a realistic catchlight reflection matching the light source. Eyelashes must be individually defined. Lips should be slightly parted with natural texture, fine lines, and soft realistic highlights.\nHair and Focus:\n\nHair near the face must show individual strands with sharp detail. Hair and neck farther from the focal plane should gradually fall into soft blur, creating shallow depth of field.\nLens and Technical Characteristics:\n\nSimulate an 85mm or 105mm macro portrait lens. Maintain natural facial proportions with no distortion. Use shallow depth of field with sharp focus on the eye, nose bridge, cheek, and lips.\nBackground:\n\nPure black seamless background with no visible texture or objects.\nStyle and Quality:\n\nLow-key photography, monochrome fine art portrait, dramatic studio lighting, cinematic chiaroscuro, hyper-realistic detail, professional editorial photography, 8K resolution, 2:3 aspect ratio, ultra-sharp focus, clean tonal range.",
+      "description": "Google Gemini AI Portrait Editing Prompt: Use this prompt to generate a dramatic black and white close-up of a woman looking up, featuring cinematic low-key lighting and sharp facial details.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 48,
+      "view_count": 1446,
+      "copy_count": 2879,
+      "is_premium": false,
+      "published_at": "2026-08-08T20:14:05.266Z",
+      "images": [
+        {
+          "filename": "cinematic-bw-woman-portrait-by-promptplum.webp",
+          "local_path": "images/dramatic/cinematic-bw-woman-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cinematic-bw-woman-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/cinematic-bw-woman-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/cinematic-bw-woman-portrait-by-promptplum.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "Dramatic Close-up Woman Portrait AI Photo Editing Prompt. AI generated cinematic black and white portrait of a young woman gazing upwards with high-contrast lighting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267039e",
+      "title": "Midnight Blue Formal",
+      "slug": "businessman-dark-suit-blue-rim-light",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Use the uploaded image as a strict face and identity reference.\n\nThe subject’s facial structure, proportions, skin tone, eye shape, hairline, hairstyle, and overall likeness must remain extremely close to the reference.\n\nNo face reshaping, no beautification, no stylization, no identity drift.\nMain Concept\nCreate a highly realistic, cinematic medium-shot studio portrait of a confident man with a strong, composed presence.\nSubject & Expression\nAdult South Asian male\nWell-groomed beard (if present in reference image)\nClean, sharp hairline with neatly styled, brushed-back hair\nNatural, realistic skin texture (no plastic smoothing)\nCalm, confident, serious expression\nEyes looking directly into the camera\nUpright, relaxed posture conveying authority and professionalism\nWardrobe\nTailored dark charcoal gray suit with a cool bluish undertone (not warm gray)\nFront buttons fastened\nBlack dress shirt\nMatte black tie\nBlack belt visible\nModern metallic wristwatch on the left wrist\nLeft hand in trouser pocket\nRight arm resting naturally by his side\nLighting\nKey light: cool-neutral white from front-right, highlighting facial contours and suit texture\nFill shadow: soft falloff on the left side of face and body\nNeon rim light: cool electric cyan-blue glow from behind, outlining shoulders and head\nLighting style: premium cinematic studio lighting with clean contrast\nBackground \nSmooth dark gradient background\nTransitions from deep navy blue → near-black\nSubtle blue edge glow behind the subject to separate him from the background\nColor Tone & Mood\nOverall tone: cool, cinematic, high-contrast, professional\nNo warm color grading\nClean, modern editorial look\nCamera & Quality\nMedium shot, vertical framing\nShallow depth of field\nPhotorealistic\nUltra-high detail\nSharp focus\nNatural skin texture\nPremium editorial studio photography look\nAspect Ratio\n4:5 (vertical)\nNegative Prompt\nAvoid:\n\nFace distortion or identity change\nSmiling or exaggerated expressions\nDifferent hairstyle or beard\nCartoon, anime, or illustrated styles\nHarsh lighting\nOverexposure\nMotion blur or softness\nLogos, watermarks, or text",
+      "description": "Create cinematic AI portraits with this prompt for a 'businessman in a dark grey suit' featuring dramatic 'blue rim lighting'. Get this professional prompt on PromptPlum.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 74,
+      "view_count": 1540,
+      "copy_count": 3324,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "businessman-in-dark-grey-suit-with-blue-rim-lighting-ai-prompt.jpg",
+          "local_path": "images/dramatic/businessman-in-dark-grey-suit-with-blue-rim-lighting-ai-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/businessman-in-dark-grey-suit-with-blue-rim-lighting-ai-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/businessman-in-dark-grey-suit-with-blue-rim-lighting-ai-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/businessman-in-dark-grey-suit-with-blue-rim-lighting-ai-prompt.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "A cinematic portrait of a bearded man in a charcoal suit and black tie, featuring dramatic blue rim lighting against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670354",
+      "title": "Harmony in Motion",
+      "slug": "harmony-in-motion",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Use the uploaded image only for face and identity reference only. Preserve exact facial structure, proportions, and identity. No beautification, stylization, or identity drift.\nScene\n\nA hyper-realistic, cinematic low-angle wide shot capturing a surreal moment inside the curling barrel of a massive breaking ocean wave.\nSubject\n\nA single human subject occupying approximately two-thirds of the frame, wearing a black wetsuit, sitting on a very small table (table not visible) and intensely playing a large wooden double bass with a bow.\n\nExpression and body language show focus, calm power, and determination, with full eye contact and attention on the bow.\n\nThe subject is partially submerged in turbulent ocean water.\nInstrument (Double Bass)\n\nLarge upright wooden double bass, stable and balanced despite chaos, with clearly visible wood grain, F-holes, bridge, strings, tuning pegs, and scroll, appearing to defy gravity.\nEnvironment & Action\n\nTurquoise-blue water explodes into white foam, mist, and suspended droplets.\n\nThe wave towers over the subject, emphasizing epic scale and danger.\n\nWater motion is frozen with extreme clarity and realism.\nLighting & Mood\n\nDramatic cinematic lighting with a hidden sun breaking through a moody cloudy sky.\n\nStrong rim light outlining the subject, instrument, and wave crest.\n\nHigh-contrast, epic cinematic atmosphere with sparkling highlights on water spray.\nVisual Style & Composition\n\nHyper-realistic, 8K detail, ultra-sharp textures (water, wood, wetsuit).\n\nPhysically believable lighting and reflections, no painterly look.\n\nLow-angle perspective with wide framing capturing the full wave curl.\nNegative Prompt\n\nNo blur, no motion smear, no cartoon/illustration style, no extra limbs, no warped anatomy, no floating artifacts, no broken instrument parts, no text, no watermark, no logo, no AI distortion, no identity mismatch.",
+      "description": "Surreal Conceptual Photography Prompt: Use this prompt to create an intensely dramatic portrait of a man playing a cello inside a powerful ocean wave.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 859,
+      "copy_count": 788,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_5tgluq5tgluq5tgl.jpg",
+          "local_path": "images/dramatic/Gemini_Generated_Image_5tgluq5tgluq5tgl.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_5tgluq5tgluq5tgl.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/Gemini_Generated_Image_5tgluq5tgluq5tgl.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/Gemini_Generated_Image_5tgluq5tgluq5tgl.jpg",
+          "width": 1276,
+          "height": 1635,
+          "alt": "Cello Player in Ocean Waves Surreal Portrait AI Photo Editing Prompt. AI generated dynamic conceptual portrait of a young man in a black wetsuit playing a large wooden cello, seated directly within a massive, curling turquoise wave."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670324",
+      "title": "Controlled Burn",
+      "slug": "controlled-burn",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create an ultra-high-resolution vertical portrait (aspect ratio 4:5) with a gritty urban, hip-hop album cover aesthetic, using the attached image as the absolute visual and identity reference.\nSTRICT FACE MATCH (CRITICAL)\nThe central subject’s face must match the reference image exactly.\n\nDo not change facial structure, skin tone, jawline, nose, lips, tattoos, or proportions.\n\nIdentity lock must be 100% preserved across foreground and background images.\nComposition & Camera\nEye-level framing\n\nCenter-aligned subject\nEntire background fully black-and-white only (no color anywhere behind the subject)\n\nStrong depth separation between subject and background collage\nCentral Subject (Pose & Action – VERY IMPORTANT)\nA young man stands facing the camera with a calm, serious, stoic expression.\nHand Pose (Exact):\nBoth hands are held close to each other at chest height, side-by-side and slightly cupped, not stacked or overlapping, with a small natural gap between them. Fingers relaxed and symmetrical.\n\nHands remain separate with a small natural gap between them\n\nFingers relaxed and symmetrical\n\nA small flame is burning naturally ABOVE and BETWEEN his palms, as if self-ignited\n\nNo lighter, no match, no object — the fire appears to exist on its own\n\nFlame is vertical, soft, organic, not explosive\n🔥 Lighting\nThere is NO white light, NO neutral light, NO studio light, NO sunlight present anywhere in the scene\nThe flame in the hands is the ONLY illumination source\nFire light characteristics:\nWarm orange–amber tone\n\nNatural falloff\n\nSoft but focused intensity\n\nRealistic fire glow, not exaggerated\nFire light falls perfectly and naturally on:\nInner palms and fingertips (brightest point)\n\nFront of the leather jacket (center chest and folds)\n\nJacket collar edges closest to the flame\n\nSilver chains and bracelets (warm metallic reflections)\n\nLower face, lips, chin, jawline, and neck tattoos\nFace lighting behavior:\nWarm fire glow rises upward from the hands\n\nLight softly wraps the lower half of the face\n\nNo cool highlights on cheeks or nose\n\nNo white specular highlights on skin\nUpper face remains dark because:\nBucket hat brim blocks upward light\n\nSunglasses absorb and kill reflections\nNo part of the face or jacket is lit by white or neutral light\n\nAll highlights are fire-colored only\nShadow & Darkness Behavior\nThe environment is dark and enclosed\n\nNatural black shadow surrounds the subject on all sides\n\nEdges and corners of the frame fall into deep shadow\nShadows are:\nSoft\n\nGradual\n\nOrganic\n\nNot studio-shaped\nBackground photos remain unaffected by fire light\n\nNo spill, no glow, no bounce onto background\nContrast:\nMedium–high\n\nDark shadows preserved\n\nNo HDR look\nLeather jacket:\nHeavy\n\nThick\n\nVintage\n\nMatte, non-reflective\n\nSlightly distressed texture\nSkin texture:\nNatural pores visible\n\nNo smoothing\n\nWarmth strictly from fire glow\nWardrobe & Accessories\nDark olive / brown bucket hat pulled low\n\nDark wrap-around sunglasses\n\nThick silver Cuban-link chain + thinner chain beneath\n\nSilver bracelets on both wrists\n\nOversized brown leather bomber jacket\n\nBlack inner layer visible\n\nDetailed tattoos visible on neck and hands\nBackground (Very Important Detail)\nRough concrete / graffiti-style wall texture\n\nCovered with chaotically arranged pure black-and-white photo prints\n\nPhotos appear taped with white masking tape\n\nAngles are uneven and slightly overlapping\nBackground Photos (Same Person – Face Match Required):\nSame man in every photo\nSome images:\nWearing black balaclava (eyes visible only)\n\nCircular pendant necklace visible in masked shots\nMany poses include:\nHand partially covering mouth\n\nTattoos on fingers and hand clearly visible\nOutfit variations:\nBlack hoodie\n\nBlack leather jacket\nAll background images are:\nHigh-contrast\n\nStrictly monochrome (black-and-white only)\n\nStudio-style portraits\nMood & Theme\nIntense\n\nMysterious\n\nPowerful\n\nStreet-inspired\nThemes of:\n\nIdentity\n\nAnonymity\n\nControl\n\nInner fire\n\nSelf-made power\nQuality & Finish\nPhotorealistic textures\n\nCinematic contrast\n\nEditorial / album-cover level finish\n\nSharp foreground focus, slightly flattened background collage\nNo props\n\nNo text\n\nNo logos\n🔒 Absolute Lighting Constraints\nNo white light\n\nNo neutral light\n\nNo sunlight\n\nNo studio softbox\n\nNo rim light\n\nNo backlight\n\nNo HDR glow\n\nNo color cast other than fire",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 702,
+      "copy_count": 793,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "local_path": "images/dramatic/Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/Gemini_Generated_Image_ogf09ogf09ogf09o.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: a striking, cinematic portrait of a young man holding a small, controlled flame in his cupped hands. He is dressed in an edgy, streetwear-inspired ensemble consisting of a distressed brown leather bomber jacket, a dark olive bucket hat, and dark sunglasses, accessorized with layered silver Cuban link chains and visible neck tattoos. The background is a textured gray concrete wall plastered with various black-and-white photographs taped up haphazardly; these photos depict other male figures, some wearing balaclavas or ski masks, contributing to a gritty, underground atmosphere. The lighting is dramatic, centering on the warm glow of the fire in his palms, which contrasts sharply with the cool, muted tones of the industrial setting."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267026a",
+      "title": "A Classic Look for a Golden Day",
+      "slug": "a-classic-look-for-a-golden-day",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create an ultra-realistic retro-modern cinematic fashion portrait with soft film grain, warm golden-hour color grading, and a dreamy indie-movie atmosphere.\n\nSTRICT FACE LOCK (CRITICAL)\n\nUse the exact face identity from the uploaded reference image.\nDo not change facial structure, proportions, skin tone, eye shape, nose, lips, jawline, hairstyle or expression.\nKeep natural skin texture, visible pores, and realistic highlights (no beauty filters).\n\nSubject + Exact Pose\n\nA stylish young man is standing beside and lightly leaning against a tall vintage street lamp.\n\nHis upper body is slightly turned toward the camera, but his face looks off-frame to the right (viewer’s right) with a calm, thoughtful expression.\n\nLeft shoulder closer to the lamp post, posture relaxed and elegant.\n\nRight hand tucked inside his trouser pocket (casual confidence).\n\nLeft hand holding a closed vintage book down near his thigh, fingers relaxed.\n\nLegs straight with a subtle weight shift: one leg slightly forward, the other carrying most of the weight (natural fashion stance).\n\nWardrobe + Styling (Exact)\n\nOversized maroon button-up shirt, slightly silky, soft folds, relaxed fit, collar open.\n\nShirt is half-tucked into high-waist off-white wide-leg trousers with clean tailoring and smooth fabric drape.\n\nSlim brown belt with a simple buckle.\n\nChunky neutral designer sneakers (beige/grey tones), modern streetwear feel.\n\nCrossbody bag with a thin strap going diagonally across the chest, small pouch resting near the hip.\n\nLayered minimalist silver necklaces (2–3 layers).\n\nSubtle rings on one hand (fashion detail).\n\nHair\n\nMedium-length dark brown wavy hair, messy-windswept volume, editorial casual look.\n\n🎥 Camera + Lens + Composition (Critical)\n\nFull-body shot, subject fully visible head-to-toe.\n\nVertical composition (3:4).\n\nCamera angle slightly low (gentle hero angle) to add presence, but still natural and editorial.\n\nLens: 50mm–85mm portrait lens look, shallow depth of field.\n\nSubject placed slightly left of center, street lamp on the left side framing him.\n\n🌅 Lighting + Mood (Very Specific)\n\nGolden-hour sunlight beams streaming diagonally through trees from the upper-right background.\n\nStrong volumetric light rays and soft haze in the air.\n\nWarm rim light outlining hair and shoulders.\n\nThe street lamp glows softly, adding warm highlights and a subtle romantic contrast.\n\nSoft cinematic contrast: bright sun rays + deep warm shadows, but no harsh blown highlights.\n\n🍂 Background Details (Exact Scene)\n\nOutdoor park pathway at sunset with dense autumn trees.\n\nLeaves are warm amber/golden-brown, background heavily blurred with creamy bokeh.\n\nAutumn leaves floating mid-air, some motion blur as they swirl around the subject.\n\nLight fog/haze for dreamy atmosphere, cinematic depth layering.\n\nBackground is clean, no crowds, no cars, no city clutter — just trees, warm air, soft light.\n\n✅ Output Quality Keywords\n\nPhotorealistic, cinematic editorial fashion portrait, high-end Instagram aesthetic, ultra-detailed textures, natural skin pores, film grain, soft bokeh, volumetric sunlight, warm color grade, 8k, sharp subject focus.\n\n🚫 Negative Prompt (Strong)\n\nNegative prompt:\nlow quality, low resolution, blurry face, blurry eyes, deformed hands, extra fingers, missing fingers, bad anatomy, warped limbs, incorrect proportions, cartoon, anime, CGI, 3D render, plastic skin, waxy skin, airbrushed face, over-smooth skin, beauty filter, face altered, wrong identity, different person, face mismatch, unrealistic eyes, cross-eyed, lazy eye, asymmetrical face, distorted jawline, oversized head, stretched body, wide-angle distortion, fisheye lens, noisy artifacts, oversharpened, harsh contrast, blown highlights, underexposed, flat lighting, incorrect shadows, messy background, clutter, crowds, cars, buildings, text, watermark, logo, frame, border, duplicate subject, twin, multiple people.",
+      "description": "Cinematic Autumn Portrait Prompt: Use this prompt to create a aesthetic golden hour photograph of a stylish boy leaning on a vintage lamppost holding a book.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 270,
+      "view_count": 17098,
+      "copy_count": 32072,
+      "is_premium": false,
+      "published_at": "2026-08-04T18:03:17.079Z",
+      "images": [
+        {
+          "filename": "6cdf65b1-ab2f-4c17-9c7b-84faa2ec4c45.webp",
+          "local_path": "images/dramatic/6cdf65b1-ab2f-4c17-9c7b-84faa2ec4c45.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6cdf65b1-ab2f-4c17-9c7b-84faa2ec4c45.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/6cdf65b1-ab2f-4c17-9c7b-84faa2ec4c45.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/6cdf65b1-ab2f-4c17-9c7b-84faa2ec4c45.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Cinematic Autumn Man Portrait AI Photo Editing Prompt. AI generated portrait of a young man leaning against a vintage lamppost holding a book amidst falling golden leaves."
+        },
+        {
+          "filename": "2529eacb-73dc-4e8a-a841-f5665d770625.webp",
+          "local_path": "images/dramatic/2529eacb-73dc-4e8a-a841-f5665d770625.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2529eacb-73dc-4e8a-a841-f5665d770625.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/2529eacb-73dc-4e8a-a841-f5665d770625.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/2529eacb-73dc-4e8a-a841-f5665d770625.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Aesthetic AI generated portrait of a handsome young man leaning against a vintage lamppost in an autumn park during golden hour, wearing a burgundy shirt and holding a book."
+        },
+        {
+          "filename": "623e709d-d86c-498f-8f25-1f184c7fb950.jpg",
+          "local_path": "images/dramatic/623e709d-d86c-498f-8f25-1f184c7fb950.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/623e709d-d86c-498f-8f25-1f184c7fb950.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/623e709d-d86c-498f-8f25-1f184c7fb950.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/623e709d-d86c-498f-8f25-1f184c7fb950.jpg",
+          "width": 1432,
+          "height": 2048,
+          "alt": "Gemini AI Generated Image: A man with brown, wavy hair is standing next to a vintage street lamp in an autumnal setting. He is wearing a burgundy button-down shirt tucked into light cream or off-white trousers with a brown belt. He has several silver necklaces, a small crossbody bag, and is holding a book. The background features warm, golden light filtering through autumn leaves, with some leaves seemingly falling around him."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702b7",
+      "title": "My Own Weather",
+      "slug": "my-own-weather",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Under a brooding overcast sky, a young man stands in close side profile, his dark baseball cap edged with a subtle red accent snug against windswept, thick hair. Black over-ear headphones rest lightly above his sick, rain-kissed skin, where shimmering droplets catch the muted coastal light. His contemplative gaze stretches toward the rainy horizon, evoking a quiet intensity within the pensive stillness. A cool palette of subdued greys and navy melds seamlessly with the gentle crimson hints, while the damp fabric of his cap, the slick sheen of his skin, and the tousled hair stirred by a cool sea breeze offer vivid texture contrasts. Soft natural shadows contour his features, enhanced by a tightly cropped composition and a gentle background blur that draws focus to tactile details. The scene conveys a poised moment of introspection, bathed in diffused, melancholic light.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 26,
+      "view_count": 828,
+      "copy_count": 1453,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
+          "local_path": "images/dramatic/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
+          "width": 1276,
+          "height": 1635,
+          "alt": "Gemini Generated Image: A man wearing a dark baseball cap and headphones is shown in a close-up profile shot while rain falls on his face and cap. He appears to be outdoors by the water on a cloudy day."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267026f",
+      "title": "The Digital Octopus",
+      "slug": "the-digital-octopus",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "A cinematic sci-fi shot of a young man with visible mechanical tentacle-like robotic arms emerging from his back, set in an outdoor nighttime scene with a modern background.\nThe man is wearing round sunglasses, a dark turtleneck sweater, a charcoal heavy coat, and a white Apple Watch. His head is tilted slightly backward as one of the metallic tentacles, featuring red eyes and claws, approaches his face.\nThe robotic arms are made of segmented, weathered steel with visible joints, wires, and clamps, giving them a powerful and futuristic appearance.\nDo not alter the facial features; keep them 100% identical to the reference.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 10,
+      "view_count": 438,
+      "copy_count": 339,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "1764949799386.png",
+          "local_path": "images/dramatic/1764949799386.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764949799386.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/1764949799386.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/1764949799386.png",
+          "width": 960,
+          "height": 1088,
+          "alt": "Gemini Generated image of a stylish man in a black turtleneck and overcoat wearing round sunglasses and a smartwatch, standing on a rainy, futuristic city street at night. He is dramatically framed by several metallic, tentacle-like mechanical arms extending from behind him."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670263",
+      "title": "Imaginary Walk",
+      "slug": "imaginary-walk",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Realistic style, me and neon girl walking on diamy street road, me holding neon girl hand, wearing white hoodie and black jeans, white sneakers. appears a Golden glowing, neon-style illustration of a girl. The neon girl emits a soft golden light, contrasting against the dark, blurry background of city lights in the distance. The atmosphere feels calm, melancholic, and slightly surreal, blending reality and imagination. 100% accurate my face.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 81,
+      "view_count": 3204,
+      "copy_count": 4917,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251204_161936.jpg",
+          "local_path": "images/dramatic/IMG_20251204_161936.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_161936.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/IMG_20251204_161936.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/IMG_20251204_161936.jpg",
+          "width": 1760,
+          "height": 2399,
+          "alt": "Ai Generated Image: The image shows a young man walking down a wet, dark city street at night, holding hands with a glowing, neon-yellow outline of a girl. It has a surreal, romantic, or fantasy feel."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267025e",
+      "title": "Sepia Stare",
+      "slug": "sepia-stare",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Create an ultra-realistic studio portrait of a person seated casually on a vintage metal folding chair in a seamless dark burnt-orange studio environment (floor and background fully merged, no horizon line).\nComposition & Framing:\nFull-body portrait, vertical 4:5 aspect ratio. Subject centered slightly left. Feet fully visible, no cropping. Balanced negative space on the right side. Eye-level camera angle with a slight cinematic depth.\nPose & Expression:\nRelaxed seated pose with one leg crossed over the other. One arm resting casually on the chair’s backrest, the other relaxed near the lap. Body slightly angled, head turned to the side (off-camera gaze). Expression calm, confident, and introspective.\nOutfit & Styling:\nMinimal modern outfit: fitted black t-shirt, loose black denim jeans (baggy fit), and polished black leather boots. Clean, monochrome styling with a contemporary aesthetic.\nLighting:\nSoft, directional studio lighting from the front-left creating gentle highlights on the face and upper body. Subtle shadow falloff with defined, moody shadows on the floor and backdrop. Warm tonal harmony with the orange background, no harsh overexposure.\nBackground & Environment:\nSeamless dark burnt-orange studio backdrop, infinity wall studio with a matte finish. No props except the chair. Clean, minimal, editorial fashion look.\nCamera & Technical Details:\nShot on 85mm lens, f/2.8 aperture, shallow depth of field. High dynamic range, sharp details, natural skin texture (no smoothing or plastic look). 8K resolution, cinematic color grading, soft contrast.\nStyle:\nModern editorial fashion photography, minimal, moody, and refined aesthetic.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 57,
+      "view_count": 2346,
+      "copy_count": 5656,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251204_143539.jpg",
+          "local_path": "images/dramatic/IMG_20251204_143539.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_143539.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/IMG_20251204_143539.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/IMG_20251204_143539.jpg",
+          "width": 1856,
+          "height": 2299,
+          "alt": "Gemini Ai Generated Image: A man wearing a black t-shirt and dark jeans sits on a metal folding chair against a warm, reddish-brown background. He is looking to his left, and his legs are crossed. He is also wearing black boots."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670258",
+      "title": "Dramatic Split Lighting Portrait",
+      "slug": "dramatic-split-lighting-portrait",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Render an 8K ultra-realistic close shot of a woman (face characteristics 100% same as the uploaded image) with windswept hair partially covering one eye. A sharp diagonal natural light beam illuminates her elevated gaze, showcasing her irises, high cheekbones, and glossy lips. Deep shadows envelop the rest of her face and the environment, creating a dark, cinematic, editorial mood.",
+      "description": "Cinematic Studio Portrait Prompt: Copy & paste this prompt to create a hyper-realistic close-up photo of a woman with dramatic shadows across her face.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 183,
+      "view_count": 7561,
+      "copy_count": 16249,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "local_path": "images/dramatic/Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/Gemini_Generated_Image_y8svswy8svswy8sv-1.png",
+          "width": 896,
+          "height": 1152,
+          "alt": "Woman Cinematic Shadow Portrait AI Photo Editing Prompt. AI generated close-up portrait of a dark-haired woman featuring dramatic diagonal lighting across her face."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670250",
+      "title": "Riding the Wind",
+      "slug": "riding-the-wind",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Cinematic 3/4 side-angle action shot of a young man (100% identical face, matching beard) riding a powerful black horse at full speed through hill fields.\nHis gaze is focused on the path ahead, not the camera.\nOutfit: bright white jacket, white t-shirt, black cargo pants.\nBehind him, black and white horses run through dried grass under a dramatic sunlit sky.\nEpic, high-contrast, ultra-realistic 8K action mood riding a powerful black horse at full speed through hill fields.\nHis gaze is focused on the path ahead, not the camera.\nOutfit: bright white jacket, white t-shirt, black cargo pants.\nBehind him. Slightly blurred black and white horses run through dried grass under a dramatic sunlit sky.\nEpic, high-contrast, ultra-realistic 8K action mood.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 45,
+      "view_count": 1315,
+      "copy_count": 3250,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_5yiddj5yiddj5yid-1.png",
+          "local_path": "images/dramatic/Gemini_Generated_Image_5yiddj5yiddj5yid-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_5yiddj5yiddj5yid-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/Gemini_Generated_Image_5yiddj5yiddj5yid-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/Gemini_Generated_Image_5yiddj5yiddj5yid-1.png",
+          "width": 832,
+          "height": 1248,
+          "alt": "Gemini Generated Image: This is an image of a man riding a black horse through a dry, grassy field. The man is wearing a white jacket and looks forward confidently. Several other horses are visible in the blurred background. The sunlight is golden, creating a warm, dusty atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267024b",
+      "title": "The Frontman's Stare",
+      "slug": "the-frontmans-stare",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "“Use the face from the reference image, same hairstyle, same skin tone, same facial structure.”\n“Create a dramatic cinematic portrait of a young man standing in a dark futuristic room illuminated with red neon lights. He is wearing a sleek black leather tactical suit with sharp seams and a high collar. His expression is intense and confident. Behind him, several masked guards stand in red hooded jumpsuits with black face masks displaying white geometric symbols (circle, triangle, square). The atmosphere is mysterious, tense, and high-contrast like a dystopian survival game. Ultra-detailed skin texture, realistic lighting, sharp focus, glossy leather material, deep shadows, 8K quality, moody sci-fi tone.”",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 549,
+      "copy_count": 583,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251202_220851.jpg",
+          "local_path": "images/dramatic/IMG_20251202_220851.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251202_220851.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/IMG_20251202_220851.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/IMG_20251202_220851.jpg",
+          "width": 1728,
+          "height": 2364,
+          "alt": "Gemini Generated Images: a handsome man in a black leather jacket standing in a dark, red-lit corridor. Behind him, four figures in red hooded jumpsuits and black masks (like those from the show Squid Game), each displaying a circle, triangle, or square shape, are standing out of focus. The overall mood is intense and dramatic."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670249",
+      "title": "The White King",
+      "slug": "the-white-king",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "4K, ultra-realistic, cinematic lighting, professional studio photo, detailed textures. (100% replace face with uploaded person's face\"). \"Create a surreal cinematic portrait of a young man sitting confidently on a dark throne-like chair, wearing an elegant all-white suit with a white shirt underneath. His expression is calm and powerful, eyes closed, head slightly tilted back.\nHe is surrounded closely by multiple faceless figures draped in deep red cloaks, each wearing smooth white masks. The red velvet curtain in the background creates a dramatic, theatrical atmosphere.\nLighting is soft but focused on the subject's face and suit, adding high contrast against the dark surroundings. The masked figures appear mysterious and symmetrical around him. Ultra-detailed skin texture, luxury editorial photoshoot style, rich colors, deep shadows, 8K hyper-realistic quality.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 17,
+      "view_count": 617,
+      "copy_count": 935,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "local_path": "images/dramatic/Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/Gemini_Generated_Image_r5rrmkr5rrmkr5rr-1.png",
+          "width": 928,
+          "height": 1120,
+          "alt": "Gemini Generated Image: A young man in a white suit sits on a black, ornate throne with his eyes closed. He is surrounded by six figures wearing white, featureless masks and red hooded cloaks. The background is a deep red velvet curtain."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670248",
+      "title": "Leather & Lens Flare",
+      "slug": "leather-lens-flare",
+      "category": "Dramatic",
+      "category_slug": "dramatic",
+      "prompt": "Use the uploaded image strictly as the ONLY face reference. Create an ultra-realistic cinematic portrait of a person leaning out of the open window of a bright red vintage car, resting both arms naturally on the door. The subject has long, straight dark hair, defined eyebrows, smooth warm skin, and a calm, confident neutral expression. Outfit includes a deep burgundy leather jacket and oversized black angular sunglasses. Composition is a medium close-up shot from a slightly low side angle using a 35–50mm lens, maintaining natural proportions and sharp facial detail. Lighting is soft directional sunlight with clean shadows and subtle highlights enhancing skin texture and jacket sheen. Background is a dark, minimal urban street with shallow depth of field and no distractions, ensuring full focus on the subject. Ultra-detailed, photorealistic, cinematic color grading, high dynamic range, 8K quality. Aspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 39,
+      "view_count": 1247,
+      "copy_count": 2665,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251202_213206-1.jpg",
+          "local_path": "images/dramatic/IMG_20251202_213206-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251202_213206-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/IMG_20251202_213206-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/IMG_20251202_213206-1.jpg",
+          "width": 1632,
+          "height": 2208,
+          "alt": "Gemini Generated Image: A stylish young woman wearing dark sunglasses and a maroon/burgundy jacket leans out the window of a red car. She is looking directly at the camera."
+        }
+      ]
+    }
+  ]
+}

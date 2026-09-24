@@ -1,0 +1,205 @@
+{
+  "category": "Ethereal Photography",
+  "slug": "ethereal-photography",
+  "total_prompts": 3,
+  "updated_at": "2026-09-24T12:55:10Z",
+  "prompts": [
+    {
+      "id": "6a711dd24bbdbe2cf59e42ff",
+      "title": "Serene Woman in Wind Green Field",
+      "slug": "serene-woman-wind-green-field-portrait",
+      "category": "Ethereal Photography",
+      "category_slug": "ethereal-photography",
+      "prompt": "Use the exact facial features from the attached photo with 100% accuracy — preserve facial structure, skin texture, nose shape, lips, eyes, eyebrow shape, and natural expression with zero modification. No beautification, no stylization, no facial reinterpretation. The face must remain completely identical to the uploaded image.\n\nCreate a photorealistic cinematic photograph of the same woman standing alone in a vast field of tall green grass, captured from a slightly elevated high-angle perspective. The camera looks down at her gently, creating an intimate, reflective mood. The tall grass surrounds her and bends dynamically in the wind like soft waves, with visible motion blur in the grass while her face remains softly and naturally in focus.\n\nPose & Expression: She is standing with her body turned slightly sideways to the camera. One hand gently holds the edge of her outfit near her collarbone, while the other hand rests loosely by her side, brushing against the moving grass. Her head is tilted slightly upward instead of downward, eyes softly closed as if feeling the wind. Her expression is calm, peaceful, and introspective — conveying quiet emotional depth.\n\nOutfit (Changed): She wears a long, flowing sage-green linen dress with subtle texture and natural folds. The dress moves organically with the wind, creating elegant motion.\nThe fabric is lightweight and slightly translucent at the edges where sunlight touches it. Sleeves are loose and mid-length, gently rippling in the breeze. No accessories, no jewellery — minimal and natural styling.\n\nHair: hair, naturally windblown, slightly more lifted by the wind, with soft loose strands crossing her forehead and cheeks in a realistic way.\n\nEnvironment: Endless rolling green grass with no buildings, roads, or people. Rich layered green tones from deep forest green to pale sage.\nThe grass has strong directional motion blur due to wind and slower shutter speed.\n\nLighting: Natural diffused cloudy daylight. Soft highlights and smooth shadows across her real skin texture and fabric fibers. Atmospheric depth in background layers.\n\nPhotography Style: True-to-life cinematic fine-art photography. Shallow depth of field. Organic motion. Subtle film grain. Real skin pores, real fabric fibers, real grass detail.\nNo illustration, no CGI, no 3D, no painting — this must look like an authentic editorial photograph.\n\nCamera & Technical Settings: Camera: Full-frame mirrorless camera\nLens: 135mm telephoto lens\nAperture: f/2.8\nShutter Speed: 1/60s (to create grass motion blur)\nISO: 200\nWhite Balance: Cloudy daylight\nFocus: Face softly sharp, grass layered blur\nLighting: Natural ambient light\nAspect Ratio: 4:5\nHigh-resolution editorial photography",
+      "description": "Cinematic Nature Portrait Prompt: Use this prompt to generate a serene, realistic photograph of a woman in a green linen dress standing in tall, windy grass.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 1918,
+      "copy_count": 1928,
+      "is_premium": false,
+      "published_at": "2026-08-04T02:30:00.011Z",
+      "images": [
+        {
+          "filename": "35189072-438f-41d8-bd90-430ff0fbaa63.webp",
+          "local_path": "images/ethereal-photography/35189072-438f-41d8-bd90-430ff0fbaa63.webp",
+          "original_url": "https://img.promptplum.com/promptImages/35189072-438f-41d8-bd90-430ff0fbaa63.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/35189072-438f-41d8-bd90-430ff0fbaa63.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/35189072-438f-41d8-bd90-430ff0fbaa63.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Windy Meadow Woman Nature Portrait AI Photo Editing Prompt. AI-generated cinematic portrait of a serene woman with closed eyes and wind-blown hair wearing a green linen dress in tall grass."
+        },
+        {
+          "filename": "fe56681e-2417-4227-b151-9dcd1c82ca3b.webp",
+          "local_path": "images/ethereal-photography/fe56681e-2417-4227-b151-9dcd1c82ca3b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/fe56681e-2417-4227-b151-9dcd1c82ca3b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/fe56681e-2417-4227-b151-9dcd1c82ca3b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/fe56681e-2417-4227-b151-9dcd1c82ca3b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Serene Woman Field Portrait AI Photo Editing Prompt. AI generated outdoor portrait of a red-haired woman in a green dress standing peacefully in a windy grass field."
+        },
+        {
+          "filename": "d2780359-fa07-402c-9363-a464ec01cb74.webp",
+          "local_path": "images/ethereal-photography/d2780359-fa07-402c-9363-a464ec01cb74.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d2780359-fa07-402c-9363-a464ec01cb74.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/d2780359-fa07-402c-9363-a464ec01cb74.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/d2780359-fa07-402c-9363-a464ec01cb74.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "serene-woman-in-windy-green-grass-field-portrait-ai-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "548f5033-9936-4af8-80aa-56cf00b633f4.webp",
+          "local_path": "images/ethereal-photography/548f5033-9936-4af8-80aa-56cf00b633f4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/548f5033-9936-4af8-80aa-56cf00b633f4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/548f5033-9936-4af8-80aa-56cf00b633f4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/548f5033-9936-4af8-80aa-56cf00b633f4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "serene-woman-in-windy-green-grass-field-portrait-ai-prompt-by-promptplum-3"
+        },
+        {
+          "filename": "1cb7cd02-b9ab-45ca-bc61-3d59800bf41a.webp",
+          "local_path": "images/ethereal-photography/1cb7cd02-b9ab-45ca-bc61-3d59800bf41a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/1cb7cd02-b9ab-45ca-bc61-3d59800bf41a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/1cb7cd02-b9ab-45ca-bc61-3d59800bf41a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/1cb7cd02-b9ab-45ca-bc61-3d59800bf41a.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "serene-woman-in-windy-green-grass-field-portrait-ai-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "2ed9f95d-c989-4c48-bbf7-627d2ceb1e16.webp",
+          "local_path": "images/ethereal-photography/2ed9f95d-c989-4c48-bbf7-627d2ceb1e16.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2ed9f95d-c989-4c48-bbf7-627d2ceb1e16.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/2ed9f95d-c989-4c48-bbf7-627d2ceb1e16.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/2ed9f95d-c989-4c48-bbf7-627d2ceb1e16.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "serene-woman-in-windy-green-grass-field-portrait-ai-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "27ddf56c-8491-4102-8258-2eb274e81b72.webp",
+          "local_path": "images/ethereal-photography/27ddf56c-8491-4102-8258-2eb274e81b72.webp",
+          "original_url": "https://img.promptplum.com/promptImages/27ddf56c-8491-4102-8258-2eb274e81b72.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/27ddf56c-8491-4102-8258-2eb274e81b72.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/27ddf56c-8491-4102-8258-2eb274e81b72.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "serene-woman-in-windy-green-grass-field-portrait-ai-prompt-by-promptplum-7"
+        },
+        {
+          "filename": "51cdf4ba-6898-4069-8e23-66365d90f320.webp",
+          "local_path": "images/ethereal-photography/51cdf4ba-6898-4069-8e23-66365d90f320.webp",
+          "original_url": "https://img.promptplum.com/promptImages/51cdf4ba-6898-4069-8e23-66365d90f320.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/51cdf4ba-6898-4069-8e23-66365d90f320.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/51cdf4ba-6898-4069-8e23-66365d90f320.webp",
+          "width": 1842,
+          "height": 2304,
+          "alt": "serene-woman-in-windy-green-grass-field-portrait-ai-prompt-by-promptplum-6"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704f6",
+      "title": "Monarch Muse",
+      "slug": "woman-butterfly-watercolor-art",
+      "category": "Ethereal Photography",
+      "category_slug": "ethereal-photography",
+      "prompt": "Create a 2:3 vertical premium mixed-media watercolor portrait on off-white cold-pressed watercolor paper.\nUse the uploaded image only as the subject reference. Keep the subject’s natural features, overall appearance, and recognizable look intact, but do not let the image turn into a generic painted character.\nShow the subject in a bust-length three-quarter profile, facing slightly toward the viewer’s right, with the gaze directed softly off-camera. Keep the expression calm, warm, serene, and naturally pleasant, with a subtle gentle smile and bright relaxed eyes. The mood should feel elegant, fresh, dreamy, and refined — not sad, blank, tired, or overly serious.\nKeep the face highly realistic and softly photorealistic, not fully painted, not sketch-like, and not cartoonish. The face should be the main focal point. Use soft diffused natural-looking light, similar to indirect window light, to gently illuminate the forehead, nose bridge, cheeks, lips, and jawline, with delicate depth and soft shadows. Render realistic eyes with soft catchlights, defined brows, natural lips, smooth skin transitions, and fine hair strands.\nStyle the hair in an elegant loose low updo / low messy bun at the nape, with a few soft tendrils framing the face and neck. Intertwine subtle rustic botanical accents in the hair — tiny dried wildflowers in muted yellow, white, and blue tones — delicate, understated, and premium.\nAdd several detailed Monarch butterflies with vivid orange wings, black veins, black borders, and tiny white spots. Keep them crisp, refined, and slightly dimensional. Place multiple butterflies naturally around the portrait: some resting in the hair, one near the upper-right side, and others floating around the shoulders and lower frame. Their warm orange color should stand out beautifully against the cool watercolor tones.\nCreate a strong mixed-media double-exposure effect where parts of the portrait dissolve into watercolor blooms. This effect must be clearly visible across selected parts of the cheek, temple, jawline, neck, shoulder, and lower clothing area — not only in the background. The watercolor should feel translucent and layered over the realistic portrait, so the subject remains clearly realistic underneath.\nUse expressive watercolor washes in muted teal, seafoam green, dusty blue, soft gray, charcoal, and deep navy tones. Let the washes bloom naturally into the paper with wet-on-wet behavior, soft transparent bleeding, irregular edges, subtle blooms, and a few darker pooled edges where pigment appears to have dried. Allow the watercolor to expand organically into the negative space while keeping the face as the sharpest and most detailed focal area.\nDress the subject in a simple deep navy-blue top / blouse with a high rounded neckline and soft gathered or finely pleated texture around the shoulders and upper chest. The garment should look minimal, elegant, matte, and plain, with no collar, no buttons, no printed pattern, and no decorative embellishments. Keep the outfit close to the reference look. Let the lower portion of the top gradually dissolve into blue-gray watercolor splashes.\nPreserve the contrast between hyper-detailed realism and loose abstract watercolor forms. The final artwork should feel like a luxury fine-art portrait print that combines:\n\nphotorealistic portraiture\nabstract watercolor fusion\nsoft ethereal surrealism\ncrisp butterfly detailing\ncool watercolor tones contrasted with vivid orange butterflies\ntextured watercolor paper and handcrafted mixed-media realism\nOverall, the result should feel poetic, airy, elegant, and premium, with the viewer’s eye drawn first to the realistic face, then to the translucent watercolor overlays and butterflies surrounding the subject.",
+      "description": "Watercolor Illustration Prompt: Copy & Paste this prompt to create a dreamy digital watercolor portrait of a woman adorned with monarch butterflies and delicate wildflowers.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 622,
+      "copy_count": 1338,
+      "is_premium": false,
+      "published_at": "2026-09-21T21:22:18.950Z",
+      "images": [
+        {
+          "filename": "woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "local_path": "images/ethereal-photography/woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/woman-with-butterflies-watercolor-portrait-art-by-promptplum-1.webp",
+          "width": 848,
+          "height": 1264,
+          "alt": "Woman with Butterflies Watercolor AI Photo Editing Prompt. AI generated digital illustration portrait of a woman adorned with monarch butterflies and wildflowers featuring soft watercolor splashes."
+        },
+        {
+          "filename": "woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "local_path": "images/ethereal-photography/woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/woman-with-butterflies-watercolor-portrait-art-by-promptplum-2.webp",
+          "width": 848,
+          "height": 1264,
+          "alt": "Woman with Butterflies Watercolor Art AI Photo Editing Prompt. AI generated digital illustration of a serene woman featuring monarch butterflies and wildflowers with artistic watercolor splashes."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670434",
+      "title": "The Golden Breath",
+      "slug": "woman-meditating-sunlit-forest-glowing-heart",
+      "category": "Ethereal Photography",
+      "category_slug": "ethereal-photography",
+      "prompt": "Create a highly detailed cinematic digital artwork of a woman meditating peacefully in a lush, sun-drenched forest environment. The scene should feel mystical, serene, and spiritually powerful, rendered with hyper-realistic lighting and cinematic depth.\nSubject & Composition\n\nA woman sits in a perfect Padmasana (Lotus position) at the centre of the frame. She occupies 25-35% of the canvas. Her eyes are closed, and her face shows deep calm and inner peace. Her hands rest gently on her knees in Gyan Mudra, with the thumb and index finger touching. Her posture is straight, balanced, and relaxed, conveying deep meditation.\nShe wears loose, breathable white meditation clothing made of linen or cotton, with natural folds and a soft, natural fabric texture. Subtle translucency appears along the edges where sunlight hits the cloth.\nThe woman sits on a cream carpet atop a large, ancient, moss-covered stone pedestal, naturally integrated into the forest floor. The stone surface is weathered and textured with thick green moss.\nLighting & Atmosphere\n\nBrilliant sunlight filters through tall forest trees, creating strong backlighting and rim lighting around the subject’s hair and shoulders. Warm golden god rays pass through the leaves, illuminating the scene and creating a soft halo effect.\nFrom the center of her chest or solar plexus, a powerful white-gold spiritual light radiates outward, acting as a secondary light source that illuminates her torso and the surrounding energy field.\nThe color palette blends deep forest greens, earthy browns, and moss textures, contrasted with glowing golden light and soft white tones from the subject and energy effects.\nEnergy Effects\n\nSwirling Golden Filaments: Ribbons of glowing, golden light that loop gracefully outward, resembling an ethereal, abstract wave around the subject.\n\nCentral Radiance: A bright, star-like glow emanating directly from her solar plexus, illuminating her clothing and face.\n\nLuminous Dust: Thousands of shimmering, magical light particles floating within the energy trails.\nDepth of Field & Camera Style\n\nThe image uses a shallow depth of field, similar to a full-frame camera shot at f/1.8–f/2.8. Foreground leaves and distant trees are softly blurred with natural bokeh, drawing attention to the subject and glowing energy rings.\nRendering Style\n\nUltra-high-resolution hyper-realistic rendering with extremely detailed textures: moss on stone, tree bark, forest foliage, and individual strands of hair. The scene should resemble a cinematic 3D render image photographed with a professional DSLR camera and enhanced with subtle VFX.\nAspect ratio: 4:5\nQuality: ultra detailed, cinematic lighting, 8K resolution",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a serene image of a woman meditating in a sun-drenched forest with radiant spiritual energy emanating from her heart center.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 18,
+      "view_count": 653,
+      "copy_count": 499,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-2.webp",
+          "local_path": "images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Meditating in Forest with Devine Light AI Photo Editing Prompt. AI generated digital illustration of a woman in white sitting in lotus pose on a mossy rock with golden energy beams emanating from her chest."
+        },
+        {
+          "filename": "woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-1.webp",
+          "local_path": "images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Meditating in Enchanted Forest AI Photo Editing Prompt. AI generated digital art of a woman in white sitting on a mossy stone with glowing energy at her heart in a sunlit woodland."
+        },
+        {
+          "filename": "woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-3.webp",
+          "local_path": "images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-3.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Woman Meditating in Sunlit Forest AI Photo Editing Prompt. AI generated digital art portrait of a woman in white meditating in a sunlit forest with radiant golden light emanating from her chest."
+        },
+        {
+          "filename": "woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-4.webp",
+          "local_path": "images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ethereal-photography/woman-meditating-in-sunlit-forest-with-glowing-heart-digital-art-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Meditating Woman in Sunlit Forest AI Photo Editing Prompt. AI generated digital illustration of a woman in white clothes meditating on a mossy rock with a glowing heart and swirling golden energy trails."
+        }
+      ]
+    }
+  ]
+}
