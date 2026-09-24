@@ -1,0 +1,37 @@
+{
+  "category": "Athleisure",
+  "slug": "athleisure",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:50:28Z",
+  "prompts": [
+    {
+      "id": "6a2934d161276f872a197b60",
+      "title": "Retro Green Tracksuit Portrait",
+      "slug": "mens-green-streetwear-style",
+      "category": "Athleisure",
+      "category_slug": "athleisure",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference.\nCreate an ultra-realistic, cinematic 8K fashion editorial portrait of a confident man seated backwards on a vintage dark walnut wooden chair in a modern studio setting. The composition is a full-body vertical portrait (4:5 aspect ratio), with the subject perfectly centered. The chair is positioned centrally, acting as both a visual anchor and a framing element.\nPose & Expression:\nThe subject sits facing the backrest of the chair, resting both forearms casually across the top rail. One hand hangs naturally downward while the other gently overlaps the opposite arm. His posture is relaxed yet commanding, with slightly lowered shoulders and a subtle forward lean. He maintains direct eye contact with the camera. His expression is neutral and composed, with a slight hint of attitude and understated confidence.\nOutfit & Styling:\nThe subject wears a premium emerald-green retro-inspired track jacket featuring white athletic stripe detailing along the sleeves, layered over a clean white hooded sweatshirt. The hoodie hood rests naturally around the neck and shoulders, adding visual depth and casual streetwear sophistication. He pairs the upper garments with oversized white parachute-style trousers featuring voluminous fabric folds and relaxed draping. On his feet are white-and-green leather low-top sneakers that coordinate harmoniously with the jacket. Background & Environment:\nThe setting features a seamless deep-emerald green studio backdrop extending smoothly from wall to floor, creating an infinity-wall effect. The highly reflective surface produces subtle reflections beneath the subject and chair. The environment is clean, minimal, and distraction-free, emphasizing the subject as the focal point.\nLighting:\nProfessional studio lighting with a large diffused key light positioned slightly camera-left creates soft, flattering illumination across the face and outfit.  A secondary fill light softens shadows while maintaining dimensionality. Subtle rim lighting separates the subject from the background, enhancing depth. The overall lighting is cinematic, soft, high-end, and editorial, with balanced contrast and smooth tonal transitions.\nCamera Angle & Composition:\nEye-level camera angle positioned directly in front of the subject. Symmetrical framing with perfect central alignment. Premium fashion-editorial look. Full-body composition with no cropping of shoes, chair, or head. Balanced negative space surrounds the subject, enhancing the luxury magazine-cover aesthetic.\nTechnical Details:\nUltra-realistic 8K photography, DSLR-level clarity, 85mm lens, f/2.0, shallow depth of field, sharp focus on the face and hands, realistic skin and fabric textures, natural color grading, HDR, cinematic contrast, subtle floor reflections, luxury editorial fashion aesthetic, studio-quality retouching, ultra-detailed, professional commercial campaign quality.",
+      "description": "Men's Streetwear Photography Prompt: Copy & Paste this prompt to create a high-quality studio portrait of a stylish man in green and white streetwear sitting backwards on a wooden chair against a solid green backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 1174,
+      "copy_count": 2552,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "9d1f80b4-e70f-447c-8481-cfee9b58e2af.webp",
+          "local_path": "images/athleisure/9d1f80b4-e70f-447c-8481-cfee9b58e2af.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9d1f80b4-e70f-447c-8481-cfee9b58e2af.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/athleisure/9d1f80b4-e70f-447c-8481-cfee9b58e2af.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/athleisure/9d1f80b4-e70f-447c-8481-cfee9b58e2af.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Young Man in Green Sportswear Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a young man sitting backward on a wooden chair, wearing a green striped jacket over a white hoodie and white pants against a green background."
+        }
+      ]
+    }
+  ]
+}

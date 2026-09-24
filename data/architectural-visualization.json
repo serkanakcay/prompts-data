@@ -1,0 +1,87 @@
+{
+  "category": "Architectural Visualization",
+  "slug": "architectural-visualization",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:50:25Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca1526703ea",
+      "title": "Floating World Dioramas",
+      "slug": "3d-country-map-landmarks-illustration",
+      "category": "Architectural Visualization",
+      "category_slug": "architectural-visualization",
+      "prompt": "Create a 1:1 or 4:5 aspect-ratio, ultra-HD, hyper-realistic cinematic aerial poster of a floating miniature island shaped exactly like the real geographic outline of [COUNTRY NAME], suspended naturally above a vast sea of soft, volumetric clouds.\nThe island must look like a physical miniature diorama with realistic terrain thickness, layered geological cross-sections, cliffs, rock strata, soil layers, grass, and natural elevation depth visible along the island edges.\nAutomatically generate and place the most iconic landmarks, architecture, terrain features, and cultural elements of [COUNTRY NAME] in their geographically correct regions. Terrain must accurately reflect real biome distribution including mountains, rivers, coastlines, beaches, forests, deserts, or lakes depending on the country.\nIf the country has ocean borders or coastline, include ultra-realistic water with:\n• crystal-clear turquoise shallow water near shores\n\n• deep blue ocean gradients in deeper areas\n\n• visible underwater terrain and shoreline fade\n\n• realistic reflections, refraction, and light absorption\n\n• gentle waves, foam, and coastal interaction\n\n• subsurface scattering and transparency\nEmbed massive bold white 3D letters spelling \"[COUNTRY NAME]\" into the terrain, physically integrated with ground elevation, casting soft natural shadows.\nAdd realistic environmental storytelling elements:\n• native animals and birds\n\n• trees and biome-accurate vegetation\n\n• roads, bridges, cities, or villages\n\n• waterfalls, rivers, mist, and environmental depth\nLighting must be cinematic golden hour with:\n• strong warm sunlight from horizon\n\n• visible volumetric god rays passing through clouds\n\n• atmospheric haze and aerial perspective\n\n• soft light scattering\n\n• realistic cloud shadows on terrain\n\n• glowing sunlight reflections on water\nAtmosphere must include volumetric clouds, depth fog, subtle mist, and realistic atmospheric perspective to enhance scale and realism.\nCamera view: high-altitude aerial 3/4 perspective, slightly angled, centered composition, entire island fully visible.\nColor grading: rich cinematic colors, vibrant but natural tones, high dynamic range, travel-poster quality.\nRendering quality: ultra-photorealistic, Unreal Engine 5, Octane render, physically based rendering (PBR), global illumination, ambient occlusion, subsurface scattering, ultra-detailed textures, sharp focus, 8K resolution.\nStyle: hyper-real miniature world, cinematic travel poster, ultra clean, premium, professional.",
+      "description": "Google Gemini AI 3D Illustration Prompt: Use this prompt to generate cinematic isometric maps of countries featuring iconic landmarks, realistic textures, and bold 3D typography floating above a sea of clouds.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 72,
+      "view_count": 1617,
+      "copy_count": 1823,
+      "is_premium": true,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "local_path": "images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-6.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Philippines Map with Landmarks AI Art Prompt. AI generated 3D digital illustration of the Philippine archipelago featuring lush islands, a volcano, and bold white typography over a cinematic ocean."
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "local_path": "images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-3.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "local_path": "images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-1.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": ""
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "local_path": "images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": ""
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "local_path": "images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-5.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "China 3D Map and Iconic Landmarks AI Art Prompt. AI generated 3D map illustration of a floating island shaped like China's borders, featuring the Great Wall, pandas, and city landmarks surrounded by a sea of clouds and ocean."
+        },
+        {
+          "filename": "3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "local_path": "images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/architectural-visualization/3d-country-map-landmarks-illustration-by-promptplum-4.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

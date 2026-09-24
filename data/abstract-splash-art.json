@@ -1,0 +1,418 @@
+{
+  "category": "Abstract Splash Art",
+  "slug": "abstract-splash-art",
+  "total_prompts": 10,
+  "updated_at": "2026-09-24T12:50:09Z",
+  "prompts": [
+    {
+      "id": "6aad95cb46d4207dc215955a",
+      "title": "High-Speed Powder Explosion Portrait",
+      "slug": "premium-powder-explosion",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Ultra-realistic high-speed medium close-up portrait of [replace with uploaded face] as vibrant orange powder explodes across the face from right side, eyes closed naturally at impact. Purple and magenta pigments surround subject, frozen particles with cinematic lighting warm key light right, cool purple rim left, dark studio background, sharp powder detail, shallow depth, 85mm lens, photorealistic, HDR, dramatic contrast. 4:5 aspect ratio.",
+      "description": "Unlock this premium AI prompt to generate ultra-realistic, high-speed portraits featuring a dramatic orange powder explosion and cinematic purple lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 1,
+      "view_count": 503,
+      "copy_count": 6,
+      "is_premium": true,
+      "published_at": "2026-09-18T19:49:31.869Z",
+      "images": [
+        {
+          "filename": "8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "local_path": "images/abstract-splash-art/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/8d870935-8008-4ebc-a761-8597bd58b876.webp",
+          "width": 1844,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_m3thjm3thjm3thjm"
+        },
+        {
+          "filename": "11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "local_path": "images/abstract-splash-art/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "original_url": "https://img.promptplum.com/promptImages/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/11ecc740-aee2-4d69-8447-49b87103f5ec.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_t6hjb6t6hjb6t6hj"
+        },
+        {
+          "filename": "8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "local_path": "images/abstract-splash-art/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/8af54e93-e2d3-4dd7-b7a6-7d351dbe3329.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_oqn115oqn115oqn1"
+        },
+        {
+          "filename": "465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "local_path": "images/abstract-splash-art/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/465374ec-7121-4cca-ae8f-f3132aafd3fc.webp",
+          "width": 1848,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_l6wpqbl6wpqbl6wp"
+        },
+        {
+          "filename": "654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "local_path": "images/abstract-splash-art/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/654137b4-0856-4cb2-a82a-8f7868bd858a.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_81mrr81mrr81mrr8"
+        }
+      ]
+    },
+    {
+      "id": "6aac29e246d4207dc2f98835",
+      "title": "Pop Art Portrait of a Man with Headphones",
+      "slug": "yellow-pop-art-avatar-digital-art",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Create a highly detailed comic-book / graphic-novel style digital illustration of a confident handsome man wearing large black over-ear headphones. He has neatly styled hair, blue eyes, strong eyebrows, defined facial features, and a calm, serious expression while looking directly at the camera.\nHe is dressed in a black leather jacket with realistic glossy folds and texture, layered over a plain black crew-neck T-shirt, with a thick silver Cuban-link chain necklace around his neck. Frame him as a centered chest-up portrait, with the head and shoulders occupying most of the composition.\nUse a bold bright yellow background with an energetic street-art / comic aesthetic. Add scattered black ink splashes, paint droplets, halftone dots, geometric abstract shapes, diagonal graphic accents, and subtle distressed texture around the subject. Use thin black comic outlines, sharp cel-shading, cross-hatching, stippling, and carefully detailed rendered skin and hair details.\nLighting should be dramatic but clean, with strong highlights on the face, hair, headphones, jacket, and necklace. Maintain a sophisticated modern graphic novel / premium editorial illustration appearance, combining realistic facial proportions with stylized comic rendering.\nComposition: symmetrical, straight-on camera angle, centered face, tight chest-up framing, strong visual hierarchy, crisp edges, high contrast.\nColor palette: vibrant yellow background, black and charcoal clothing, warm peach skin tones, cool blue eyes, metallic silver necklace.\nStyle: ultra-detailed comic book illustration, premium digital art, dynamic ink work, bold outlines, realistic anatomy, cel shading, halftone texture, cinematic lighting, sharp details, 8K quality.\nAspect ratio 4:5.",
+      "description": "Pop Art Digital Illustration Prompt: Copy and paste this prompt to create a vibrant comic-book style character portrait of a stylish young man wearing a leather jacket and headphones against a dynamic yellow halftone background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 5,
+      "view_count": 172,
+      "copy_count": 85,
+      "is_premium": false,
+      "published_at": "2026-09-17T17:56:50.261Z",
+      "images": [
+        {
+          "filename": "d486940f-7a44-46ff-bf79-db2ba005afb0.jpeg",
+          "local_path": "images/abstract-splash-art/d486940f-7a44-46ff-bf79-db2ba005afb0.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/d486940f-7a44-46ff-bf79-db2ba005afb0.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/d486940f-7a44-46ff-bf79-db2ba005afb0.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/d486940f-7a44-46ff-bf79-db2ba005afb0.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Pop art comic style illustration of a stylish man with headphones AI Photo Editing Prompt. AI generated digital illustration of a handsome young man wearing a black leather jacket and silver chain, listening to headphones against a vibrant yellow background with black splatters and halftone dots."
+        }
+      ]
+    },
+    {
+      "id": "6a8c5a7c4bbdbe2cf527d280",
+      "title": "Low Key Portrait of Man",
+      "slug": "cinematic-businessman-studio-portrait",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Create a hyper-realistic cinematic studio portrait of a man with naturally styled  hair, matching the reference face and identity accurately. He is standing straight 3/4 angled right and looking to the camera at eye level with a subtle confident and relaxed expression. He wears a sharp black tailored suit jacket over a slightly loose white dress shirt with the top buttons open, paired with a loosely hanging black necktie for a sophisticated yet effortless look.\nFrame the subject in a centered medium-to-full-body vertical composition, with his hands relaxed under his trouser pockets. Use a completely black seamless background for a dramatic high-contrast editorial aesthetic. Illuminate the face with Moody cinematic Lighting: soft frontal key light on the face, with a strong red backlight/edge light creating a glowing halo around the hair strands, ear, shoulder, and suit. A red side light illuminates the left side of the face, clothing, and hair.\nUltra-realistic skin texture, detailed hair, realistic fabric texture, deep blacks, controlled highlights, dramatic shadows, cinematic color grading, high contrast, professional fashion photography, 85mm lens, f/1.8, shallow depth of field, sharp focus on the eyes, HDR, 8K resolution, photorealistic, aspect ratio 4:5. No lighting error, no text, no watermark, no bad anatomy, no facial distortion, no identity change.",
+      "description": "Cinematic Studio Photography Prompt: Copy & paste this prompt to create a dramatic portrait of a grey-bearded man in a black suit and tie lit with moody red rim lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 1073,
+      "copy_count": 1073,
+      "is_premium": false,
+      "published_at": "2026-08-24T14:51:40.226Z",
+      "images": [
+        {
+          "filename": "1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "local_path": "images/abstract-splash-art/1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Black Suit with Dramatic Red Lighting AI Photo Editing Prompt. AI generated cinematic studio portrait of a mature grey-bearded man in a black suit and tie lit with moody red rim light against a black background."
+        }
+      ]
+    },
+    {
+      "id": "6a887ca64bbdbe2cf5cd7d4b",
+      "title": "Stylish Man Holding Rose Among Sunflowers",
+      "slug": "brown-sweater-man-flower-shop-portrait",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Create a ultra-detailed photorealistic cinematic fashion portrait of a stylish man standing inside a charming, cozy flower shop, surrounded by abundant sunflowers, roses, baby's breath, and colorful fresh flowers. He has a neatly styled look, black rectangular sunglasses, and a calm, confident expression.\nOutfit: oversized ribbed dark chocolate-brown crewneck sweater, relaxed-fit off-white cargo trousers. He holds a single delicate pale-pink rose naturally in one hand while the other hand rests casually inside his trouser pocket.\nComposition: vertical mid-to-full body portrait, subject positioned slightly off-center, relaxed fashion-model stance, natural body proportions, eye-level camera angle. The flower shop fills the background with layered floral arrangements and greenery, creating rich depth and visual texture.\nBackground: warm rustic boutique flower shop, wooden frames, vintage floral signs, hanging Edison-style bulbs, abundant sunflowers and roses, softly blurred background elements with cinematic bokeh.\nLighting: warm golden ambient lighting, soft directional light illuminating the face and clothing, gentle highlights on the flowers, subtle shadows, cozy romantic atmosphere, rich earthy color palette.\nCamera & quality: shot on an 85mm lens at f/1.6, shallow depth of field, creamy natural bokeh, cinematic color grading, realistic skin texture, highly detailed hair, detailed knit fabric texture, HDR, professional editorial fashion photography, ultra-photorealistic, 8K resolution, aspect ratio 4:5.",
+      "description": "Lifestyle Flower Shop Photography Prompt: Copy & paste this prompt to create a warm portrait of a stylish man in a brown ribbed sweater and sunglasses holding a pink rose amid a rustic, sunlit florist shop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 467,
+      "copy_count": 624,
+      "is_premium": false,
+      "published_at": "2026-08-21T16:28:22.296Z",
+      "images": [
+        {
+          "filename": "cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
+          "local_path": "images/abstract-splash-art/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Brown Sweater Holding Rose in Flower Shop Portrait AI Photo Editing Prompt. AI generated lifestyle portrait of a curly-haired man in sunglasses and a ribbed brown sweater holding a pink rose inside a cozy, string-lit flower shop."
+        }
+      ]
+    },
+    {
+      "id": "6a81e42c4bbdbe2cf5358dc0",
+      "title": "Orange Wall Fashion Shoot",
+      "slug": "stylish-woman-city-street-shoot",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Create a photorealistic, ultra-detailed fashion editorial portrait of a stunning woman exuding modern elegance. She is wearing a chic, tailored mint-green oversized pantsuit with a structured, fitted unbuttoned blazer and matching high-waisted pleated trousers. Underneath, a chocolate-brown cropped top. She is accessorized with layered delicate silver chain necklaces, long dangling silver earrings, and elegant rings. Her pose is confident and poised: her right hand rests gently against a vibrantly textured orange wall on the left, while her left hand is casually tucked into her trouser pocket. Her expression is striking and self-assured, looking directly at the viewer with a soft, piercing gaze. Flawless makeup with glowing skin, and natural lips. Her, silky, hair is parted in the middle and cascades over her shoulders. The background is split: the left side is a solid, warm, textured orange wall, and the right side is a smoothly blurred urban street (bokeh) with indistinct buildings, trees, and a clear blue sky. Bright, direct natural sunlight creates crisp, defined shadows against the orange wall, highlighting her facial features and the exquisite texture of the suit. Shot on 85mm f/1.4, eye-level medium portrait, shallow depth of field, 8k, highly detailed, Vogue editorial style, ultra-detailed skin and fabric texture, not blurry details, no text, no identity change, aspect ratio 4:5.",
+      "description": "Urban Fashion Photography Prompt. Copy & Paste this Prompt to create a highly realistic lifestyle portrait of a stylish woman wearing a mint green suit against a textured orange wall.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 36,
+      "view_count": 591,
+      "copy_count": 966,
+      "is_premium": false,
+      "published_at": "2026-08-16T16:24:12.219Z",
+      "images": [
+        {
+          "filename": "a72d052d-f58a-4157-a460-802d1b54b581.jpeg",
+          "local_path": "images/abstract-splash-art/a72d052d-f58a-4157-a460-802d1b54b581.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/a72d052d-f58a-4157-a460-802d1b54b581.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/a72d052d-f58a-4157-a460-802d1b54b581.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/a72d052d-f58a-4157-a460-802d1b54b581.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Woman in mint green suit urban fashion portrait AI Photo Editing Prompt. AI generated fashion portrait of a stylish brunette woman in a pastel mint blazer and brown crop top standing by an orange wall."
+        }
+      ]
+    },
+    {
+      "id": "6a808e4d4bbdbe2cf513f82c",
+      "title": "Luxury Lifestyle Portrait on a European City Street",
+      "slug": "luxury-lifestyle-vintage-car-street-photography",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Create an ultra-realistic luxury editorial fashion photograph of a man standing casually against the hood of a classic black vintage Porsche 356 on a quiet European city street. He is wearing a crisp white linen button-down shirt with the sleeves slightly rolled up, tailored off-white trousers, a black leather belt, and black-and-white designer-style sneakers. Preserve the exact facial features, and identity of the reference image.\nComposition: Full-body framing, subject positioned slightly right of center, casually leaning against the car with both hands in his trouser pockets and one leg crossed naturally over the other. The vintage Porsche occupies the lower-left and center of the frame.\nExpression: Relaxed, confident, looking directly toward the camera.\nBackground: Elegant European/Parisian-style stone architecture, tall windows with metal bars, clean sidewalks, zebra crossing, quiet asphalt street, sophisticated urban atmosphere.\nLighting: Soft warm late-afternoon sunlight, natural directional light, subtle reflections on the car, cinematic shadows, warm highlights, realistic ambient light.\nCamera & Technical: High-angle shot, camera positioned approximately 15–25 degrees above the subject, looking downward at a natural elevated perspective, 50mm lens, f/2, shallow depth of field, cinematic perspective, realistic proportions, ultra-detailed skin texture, detailed fabric, realistic car reflections, HDR, ultra-photorealistic, 8K resolution, premium luxury editorial color grading, distortion-free anatomy, no extra people, no extra car, no text, no watermark, aspect ratio 4:5.",
+      "description": "Street Style Fashion Photography Prompt: Copy & paste this prompt to create a high-quality portrait of a handsome, stylish man in a white linen shirt leaning against a classic black sports car on a European city street.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 24,
+      "view_count": 308,
+      "copy_count": 523,
+      "is_premium": false,
+      "published_at": "2026-08-15T16:05:33.941Z",
+      "images": [
+        {
+          "filename": "6e2799d1-bd7b-4f88-9cb8-b047cd7033d4.jpeg",
+          "local_path": "images/abstract-splash-art/6e2799d1-bd7b-4f88-9cb8-b047cd7033d4.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/6e2799d1-bd7b-4f88-9cb8-b047cd7033d4.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/6e2799d1-bd7b-4f88-9cb8-b047cd7033d4.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/6e2799d1-bd7b-4f88-9cb8-b047cd7033d4.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Stylish man with classic black car urban fashion portrait AI Photo Editing Prompt. AI generated street style portrait of a handsome man in a white linen shirt and cream trousers leaning against a vintage black sports car on a city street."
+        }
+      ]
+    },
+    {
+      "id": "6a2a61db61276f872a2e2bc8",
+      "title": "Club Football Splash",
+      "slug": "football-player-poster-splatter-art",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Use the uploaded image strictly ONLY for face matching and identity reference.\nCreate an ultra-realistic, cinematic 8K sports poster featuring a confident football player representing [TEAM_NAME]. The subject stands in a strong, confident pose, centered in the frame, making direct eye contact with the camera. He wears premium team apparel inspired by [TEAM_NAME], crest, and signature design elements.\nDynamic Theme Adaptation:\nReplace all colors with the official colors of [TEAM_NAME].\nReplace background flag, symbols, paint splashes, and visual effects with elements representing [TEAM_NAME].\nReplace the crest, jersey details, typography accents, and football graphics with [TEAM_NAME] branding.\nStadium lighting, crowd atmosphere, and visual energy should match the identity and spirit of [TEAM_NAME].\nComposition: Mid-thigh-up portrait, centered in the frame. Captured from an eye-level camera angle, with the subject fully visible and no head cropping.\nPose & Expression:\nThe subject stands strong upright posture, shoulders squared. Right arm is bent naturally at the elbow, securing a soccer ball against his hip, while the left arm hangs relaxed by his side. Calm, determined, championship-winning expression. Direct eye contact conveying confidence, pride, and leadership(no smile).\nOutfit:\nPremium [TEAM_NAME] Themed Matching Jersey. Official team crest on the chest, sponsor-free design, realistic fabric textures, embroidered details, and authentic sportswear styling.\nBackground:\nMassive distressed typography displaying \"[TEAM_NAME]\" across the upper background. Behind the subject, a large dynamic flag representing [TEAM_NAME] emerges through explosive paint splashes, smoke effects, energy streaks, and flying particles. A packed stadium with dramatic floodlights fills the lower background.\nEffects:\nHigh-energy sports-poster aesthetic, paint splatter textures, dynamic brush strokes, glowing stadium lights, cinematic smoke, floating particles, dramatic contrast, premium advertising campaign quality.\nTypography:\nLarge distressed \"[TEAM_NAME]\" title at the top.\nLighting:\nDramatic stadium floodlights, cinematic rim lighting, volumetric atmosphere, warm highlights, deep shadows, high contrast sports-advertisement lighting.\nTechnical Details:\nUltra-realistic, hyper-detailed skin texture, sharp facial features, HDR, professional sports campaign photography, 85mm lens, shallow depth of field, cinematic color grading, poster-quality composition, premium FIFA-style promotional artwork, 8K resolution.\nAspect ratio 4:5.",
+      "description": "Cinematic Sports Poster Prompt: Copy & Paste this prompt to create a hyper-realistic poster art of a football player with dynamic splatter art in a stadium.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 38,
+      "view_count": 1662,
+      "copy_count": 1019,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "local_path": "images/abstract-splash-art/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/0a12f09f-e8d1-49c0-8309-eba652881dda.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Real Madrid Splash Art AI Photo Editing Prompt. AI generated digital portrait of Bellingham holding a ball in a stadium with blue and gold paint splashes."
+        },
+        {
+          "filename": "cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "local_path": "images/abstract-splash-art/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/cd3d5cab-4488-4f10-a46d-e6fb4b5a5486.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Manchester United Player Splash Art AI Photo Editing Prompt. AI generated digital illustration of a clean-shaven man in a red Manchester United jersey holding a football, set against a stadium backdrop with dynamic ink splashes and waving team flags."
+        },
+        {
+          "filename": "e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "local_path": "images/abstract-splash-art/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/e38af051-7a1d-441f-93fb-8ec9c96e5a73.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Dynamic Football Player Stadium Splash Art AI Photo Editing Prompt. AI generated digital illustration of a player in a blue Paris Saint-Germain kit holding a football, surrounded by dynamic red and white paint splashes against a stadium background."
+        },
+        {
+          "filename": "b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "local_path": "images/abstract-splash-art/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/b71403f8-9d45-4962-94f3-b244db2b0af7.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI-generated sports portrait of a male soccer player in a Juventus kit holding a football in a crowded stadium with dramatic ink splashes and an Italian flag under a large \"JUVENTUS\" title."
+        },
+        {
+          "filename": "e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "local_path": "images/abstract-splash-art/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/e61f2f65-ec7e-4a4d-961f-7f007c9d83ac.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated digital illustration of a bearded player in a Bayern Munich kit holding a soccer ball in a packed stadium against a red paint splash background."
+        }
+      ]
+    },
+    {
+      "id": "6a17256b6205d846d59842d7",
+      "title": "Mid-Air Velocity",
+      "slug": "jumping-boy-splash-illustration",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Create a high-detail, stylized full-body digital illustration of a man, captured mid-air from a low-angle perspective in a dynamic, energetic action pose. The subject should appear suspended in motion as if jumping, with one leg bent upward and the other extended, creating a strong sense of movement, lightness, and elevation.\n\nCharacter Identity (Important):\nMatch the face and identity with high accuracy from the reference image. Do not alter identity or beautify excessively—preserve natural features.\n\nPose & Expression:\nThe man is shown in a fluid mid-air jump with the torso slightly twisted to create motion and balance. One arm is extended outward, while the other remains more relaxed. Both legs are posed naturally in a dynamic jump: one knee lifted higher toward the torso, the other leg extending slightly downward to emphasize suspension and movement. His head is tilted slightly upward, with his gaze directed off-frame toward the upper side, conveying confidence, curiosity, and aspiration. His expression is relaxed with a subtle, self-assured smile.\n\nOutfit & Styling:\nHe wears a layered streetwear outfit consisting of a clean white t-shirt, a dark jacket, and oversized textured grey cargo pants with subtle neon yellow accents. Add modern black sneakers with a clean design and soft shadow definition. The outfit should show realistic fabric texture, folds, tension, and motion consistent with the jumping pose.\n\nHair & Details:\nDark naturally styled hair with volume and slight motion response. Keep subtle facial details clean and well-defined.\n\nBackground:\nA bold, vibrant blue background in the #1E79D2 range with a smooth gradient finish. Add abstract black and dark grey paint splatter effects radiating outward from behind the subject to enhance motion, impact, and energy.\n\nLighting & Rendering:\nUse high-contrast stylized lighting with soft highlights and sharp shadow edges. Add subtle rim lighting to separate the subject from the background. Emphasize fabric texture, folds, contours, and form. Include a slight glow from the neon accents for extra visual punch.\n\nStyle & Finish:\nModern digital illustration style blending comic, street-art, and semi-realistic rendering. Use crisp linework, painterly shading, and subtle texture overlays. The final image should feel dynamic, clean, energetic, and high-end, with ultra-clean high-resolution 8K-quality rendering.\n\nComposition:\nFull-body centered composition with balanced negative space. Use a low-angle, upward-tilted dynamic perspective to capture the subject mid-air and enhance depth, motion, and a sense of elevation. Keep a slight diagonal visual flow for added dynamism. The subject must remain clearly separated from the background, with the splatter effects functioning like motion trails.\n\nAspect Ratio: 1:1",
+      "description": "Dynamic Vector Illustration Prompt: Copy and paste this prompt to generate a high-energy digital artwork of a stylish man in streetwear jumping against a blue, ink-splattered background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 43,
+      "view_count": 560,
+      "copy_count": 2085,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "d6190394-a16e-4e88-a2c0-abdf46287bb9.webp",
+          "local_path": "images/abstract-splash-art/d6190394-a16e-4e88-a2c0-abdf46287bb9.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d6190394-a16e-4e88-a2c0-abdf46287bb9.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/d6190394-a16e-4e88-a2c0-abdf46287bb9.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/d6190394-a16e-4e88-a2c0-abdf46287bb9.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Jumping Guy in Streetwear Vector Art AI Prompt. AI generated digital illustration of a smiling young man in a black jacket and grey cargo pants jumping dynamically against a bright blue background with black ink splatters."
+        },
+        {
+          "filename": "b8955f7c-f955-45c7-85a6-1b4862502849.webp",
+          "local_path": "images/abstract-splash-art/b8955f7c-f955-45c7-85a6-1b4862502849.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b8955f7c-f955-45c7-85a6-1b4862502849.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/b8955f7c-f955-45c7-85a6-1b4862502849.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/b8955f7c-f955-45c7-85a6-1b4862502849.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated digital illustration of a smiling bearded man jumping mid-air in a black jacket and grey cargo pants against a bright blue background with black ink splatters."
+        },
+        {
+          "filename": "d0e1a55b-6d3e-4930-9cdf-8631c9ad5aef.webp",
+          "local_path": "images/abstract-splash-art/d0e1a55b-6d3e-4930-9cdf-8631c9ad5aef.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d0e1a55b-6d3e-4930-9cdf-8631c9ad5aef.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/d0e1a55b-6d3e-4930-9cdf-8631c9ad5aef.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/d0e1a55b-6d3e-4930-9cdf-8631c9ad5aef.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "Jumping Man Illustration AI Photo Editing Prompt. AI generated digital illustration of a young man in a black jacket and cargo pants jumping mid-air against a blue background with ink splatters."
+        },
+        {
+          "filename": "e7d21b09-e8ba-4f49-8c0c-224021ca6246.webp",
+          "local_path": "images/abstract-splash-art/e7d21b09-e8ba-4f49-8c0c-224021ca6246.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e7d21b09-e8ba-4f49-8c0c-224021ca6246.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/e7d21b09-e8ba-4f49-8c0c-224021ca6246.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/e7d21b09-e8ba-4f49-8c0c-224021ca6246.webp",
+          "width": 1024,
+          "height": 1024,
+          "alt": "Jumping Guy in Streetwear AI Photo Editing Prompt. AI generated digital illustration of a young man leaping mid-air in a denim jacket and cargo pants against a blue background with black paint splatters."
+        }
+      ]
+    },
+    {
+      "id": "6a16cbe86205d846d587d12e",
+      "title": "A Stoic Profile",
+      "slug": "watercolor-portrait-man-orange-splash",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Create an 8k ultra-high-resolution mixed-media portrait illustration that blends photorealistic character rendering with expressive watercolor and architectural sketch techniques.\nFace Matching & Identity Accuracy:\nMatch the face and identity with high accuracy from the provided reference image.\nSubject & Expression:\nSubject is very confident. His facial features are sharp and realistic with detailed skin texture and defined cheekbones. His expression is serious, focused, and contemplative, with a subtle furrow in his brow. His gaze looks upward and off-camera, suggesting determination and forward vision.\nPose:\nChest-up portrait. The torso is angled slightly toward the viewer’s left while the head turns upward toward the right side of the frame. This twist in the shoulders and neck creates a dynamic, heroic stance.\nOutfit:\nA dark charcoal-black short-sleeve polo shirt with a ribbed collar and a two-button placket. The shirt is rendered with painterly shading and sketch-style cross-hatching that gradually dissolves into watercolor textures toward the lower part of the portrait.\nComposition & Camera Angle:\nMedium close-up (chest-up). Slight low-angle “hero shot” perspective that emphasizes the jawline and gives the subject a powerful presence. The subject is placed slightly off-center, leaving negative space around the head and shoulders.\nLighting:\nDramatic directional lighting from the upper left side. The light highlights the forehead, nose bridge, and cheekbones while casting deeper shadow along the opposite side of the face and neck, creating strong contrast and depth.\nBackground & Artistic Style:\nClean white background with no physical environment. Behind the subject are expressive orange watercolor splashes, ink drips, and paint blooms forming an energetic halo. Thin architectural pencil construction lines and sketch marks intersect across the composition, adding structure and motion.\nArtistic Medium & Texture:\nA hybrid style combining photorealistic digital painting, loose watercolor washes, ink splatter effects, and raw sketch linework. The face remains highly detailed and realistic while the shoulders and lower areas transition into unfinished painterly strokes and abstract watercolor textures.\nColor Palette:\nNatural warm skin tones contrasted with a dark black shirt and vibrant watercolor hues of burnt orange, amber, and sienna against a bright white canvas.\nTechnical Details:\nUltra-detailed digital illustration, 8K resolution, sharp facial focus, painterly brush textures, watercolor bloom effects, ink splashes, architectural sketch lines, soft fade-out edges.\nAspect ratio 4:5",
+      "description": "Artistic Watercolor Portrait Prompt: Copy & paste this prompt to create an expressive sketch illustration of a handsome man with vibrant orange splashes.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 117,
+      "view_count": 1513,
+      "copy_count": 6759,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "44362567-ac20-40e9-b3eb-8a4e6b824e69.webp",
+          "local_path": "images/abstract-splash-art/44362567-ac20-40e9-b3eb-8a4e6b824e69.webp",
+          "original_url": "https://img.promptplum.com/promptImages/44362567-ac20-40e9-b3eb-8a4e6b824e69.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/44362567-ac20-40e9-b3eb-8a4e6b824e69.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/44362567-ac20-40e9-b3eb-8a4e6b824e69.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Orange Watercolor Man Sketch AI Photo Editing Prompt. AI generated mixed media illustration of a bearded man in a black polo shirt surrounded by orange watercolor splashes and sketch lines."
+        },
+        {
+          "filename": "64c8496c-7c5c-4630-99be-7d83d4504e99.webp",
+          "local_path": "images/abstract-splash-art/64c8496c-7c5c-4630-99be-7d83d4504e99.webp",
+          "original_url": "https://img.promptplum.com/promptImages/64c8496c-7c5c-4630-99be-7d83d4504e99.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/64c8496c-7c5c-4630-99be-7d83d4504e99.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/64c8496c-7c5c-4630-99be-7d83d4504e99.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Mixed Media Art Sketch AI Prompt. AI generated digital illustration of a young man in a black polo shirt surrounded by vibrant orange watercolor splashes and sketch lines."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704d5",
+      "title": "Vivid Streetscape",
+      "slug": "digital-art-man-splatter-background",
+      "category": "Abstract Splash Art",
+      "category_slug": "abstract-splash-art",
+      "prompt": "Create a vibrant stylized digital painting portrait of a young man in a bold editorial street-art aesthetic. The subject is shown from the chest up in a vertical 4:5 composition, slightly turned in a natural three-quarter angle with shoulders subtly angled away from the camera. His head is gently tilted upward, and he is looking directly at the viewer with a calm, confident, and composed expression.\nHe has natural, well-defined male facial features with realistic proportions, clear eyes, and structured brows. His hairstyle should feel organic and slightly tousled with natural volume, not overly styled. Skin tone appears warm and sunlit with subtle natural texture, avoiding any artificial smoothing or plastic look.\nHe is wearing a glossy dark painter-style cap, a clean white crewneck shirt, and an oversized hoodie featuring bold color blocking in teal, orange, yellow, red, and navy. The hoodie includes visible zipper details and crisp white drawstrings, with fabric that feels slightly painterly but still structured and dimensional.\nThe lighting is warm and cinematic, softly directional, creating gentle highlights across the face, neck, cap, and clothing. Contrast should be controlled to add depth without introducing harsh shadows or losing detail.\nThe background is an energetic abstract graffiti-style painted wall, filled with expressive brush strokes, paint splashes, drips, and layered textures. Colors include turquoise, orange, yellow, cobalt blue, cream, and red. The composition should use dynamic diagonal movement and splatter effects to create energy behind the subject, with a rough, textured, clearly painted feel rather than a clean or flat digital background.\nThe overall style must be a high-detail digital painting with visible brushwork and a textured canvas feel. The face should remain clean and refined, while the background stays raw and expressive. The final result should feel like a modern street-art inspired painted portrait with vibrant, saturated colors and strong editorial composition, suitable for magazine-cover quality output.\nNegative prompt: photorealistic, vector art, flat illustration, blurry, low detail, distorted face, extra limbs, bad anatomy, dull colors, flat lighting, overly cartoonish, plastic skin, harsh shadows, text, watermark, logo, cropped face, deformed eyes",
+      "description": "Artistic Digital Portrait Prompt: Copy & paste this prompt to create a vibrant, street-art-style illustration of a stylish man wearing a colorful hoodie and cap against a dynamic, abstract paint-splatter background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 37,
+      "view_count": 567,
+      "copy_count": 1125,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "young-man-in-colorful-hoodie-with-abstract-paint-splatter-portrait-illustration-by-promptplum.webp",
+          "local_path": "images/abstract-splash-art/young-man-in-colorful-hoodie-with-abstract-paint-splatter-portrait-illustration-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-in-colorful-hoodie-with-abstract-paint-splatter-portrait-illustration-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/young-man-in-colorful-hoodie-with-abstract-paint-splatter-portrait-illustration-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/young-man-in-colorful-hoodie-with-abstract-paint-splatter-portrait-illustration-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Color-Block Hoodie with Cap AI Photo Editing Prompt. AI generated stylized digital illustration portrait of a young man with a dark leather cap and a vibrant color-block hoodie, standing against a dynamic abstract background of paint splashes and brushstrokes."
+        }
+      ]
+    }
+  ]
+}

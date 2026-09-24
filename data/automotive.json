@@ -1,0 +1,544 @@
+{
+  "category": "Automotive",
+  "slug": "automotive",
+  "total_prompts": 15,
+  "updated_at": "2026-09-24T12:50:31Z",
+  "prompts": [
+    {
+      "id": "6a8fd74546d4207dc24d9c73",
+      "title": "Boy Stylish portrait with SUV and panda",
+      "slug": "stylish-man-white-suv-panda-portrait",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Cinematic full-body portrait of a [young man] with [naturally styled hair, and aviator sunglasses], wearing a white leather biker jacket over a black t-shirt, thin silver chain necklace, white slim-fit trousers, and brown leather loafers with no socks. He leans casually against the front driver-side fender of a white luxury SUV (Range Rover style), one leg crossed over the other, one hand in his pocket, gazing off to the side with a confident, relaxed expression.\n\nThe SUV faces the camera at a slight three-quarter angle. Headlights blazing a saturated golden-yellow with visible bloom and lens flare. Metallic gold multi-spoke alloy wheels, black accent trim on the doors and hood vents, dark tinted panoramic roof, custom license plate \"[MF 007]\". Underglow lighting is physically integrated into the vehicle: a hidden LED strip is mounted flush beneath the rocker panels and front splitter, tucked directly against the underside of the car body so the light source itself is not visible — only its glow is. This creates a tight, sharp pool of saturated yellow-gold light emanating from directly under the chassis, hugging the contours of the front splitter and side skirts, with the light visibly touching and wrapping the lower edge of the car body (no gap or floating line between the car and the light). The glow bleeds outward onto the damp asphalt in a soft gradient, brightest right at the point of contact with the tires and rocker panels, fading within a short radius — concentrated and vivid, not a separate glowing bar.\n\nBeside the man, a small fluffy giant panda stands upright on the asphalt, playfully raising one paw toward him, its fur catching a warm rim of yellow light from the underglow.\n\nSetting: a smooth, slightly damp asphalt road curving through hills, deep blue hour just after sunset. Flowering trees arch fully over the road forming a dense canopy across the top of the frame, thick with vivid magenta-pink bougainvillea and bright golden-yellow blossoms intermixed on the same branches, petals scattered on the road. Hazy blue mountain ridges in the far background. The sky is deep saturated twilight blue, not grey or foggy.\n\nLighting and color grade: strong teal-and-orange / blue-and-gold split. Ambient light is cool, deep cobalt blue filling all shadows and the road surface. All warm light comes only from the car — headlights, underglow, and its reflections — creating high contrast between cool environment and warm accents. Rich, punchy saturation on the flowers, wheels, and lights. Slightly lifted blacks with a blue tint, high clarity, crisp micro-contrast. Dramatic rim lighting on the subject and panda. No fog, no haze in the foreground, no muted or washed-out tones. Skin tones natural with a subtle cool cast, realistic skin pores and subsurface scattering.\n\nStyle: hyper-realistic high-end automotive editorial photography, full-frame camera, 35mm lens at f/2.8, subject and car tack-sharp with softly blurred background, 8K, ultra-detailed, cinematic color grading, moody atmosphere, luxury lifestyle photography, editorial fashion shoot, GQ magazine style, high-end commercial advertisement look, subtle film-grain texture, rich contrast, professional color science, shot on ARRI Alexa / Sony A7R V aesthetic, hyperdetailed textures on fabric and fur, true-to-life reflections, atmospheric depth of field, polished automotive commercial finish, masterpiece, best quality, award-winning photography.\n\nSquare 1:1 aspect-ratio.\n\nNegative prompt: foggy, overcast, hazy, grey sky, desaturated, washed out, flat lighting, dim headlights, diffuse underglow, floating light strip, detached glow, light bar separate from vehicle, neon line not touching car, daytime, blurry, simple suv design, distorted hands, extra limbs, deformed face, text artifacts, watermark, cartoonish, low quality, low resolution, overexposed, underexposed, plastic skin, artificial looking.",
+      "description": "Stylish Range Rover portrait prompt with a glowing underglow SUV, a friendly panda, and blooming flowers — create this eye-catching cinematic look free!",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 1855,
+      "copy_count": 1896,
+      "is_premium": false,
+      "published_at": "2026-08-27T06:20:53.732Z",
+      "images": [
+        {
+          "filename": "4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
+          "local_path": "images/automotive/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "AI generated cinematic portrait of a young man in a white leather jacket leaning on a white Range Rover Sport with glowing yellow underglow, posing beside a panda under blooming bougainvillea flowers at dusk."
+        },
+        {
+          "filename": "eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
+          "local_path": "images/automotive/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Gemini_Generated_Image_sa47m0sa47m0sa47"
+        },
+        {
+          "filename": "15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
+          "local_path": "images/automotive/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
+          "original_url": "https://img.promptplum.com/promptImages/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Gemini_Generated_Image_7qz1ei7qz1ei7qz1"
+        }
+      ]
+    },
+    {
+      "id": "6a73a1114bbdbe2cf5de03ed",
+      "title": "Stylish Man Walking in a Luxury City Street",
+      "slug": "man-walking-luxury-city-street-portrait",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "> Create a hyper-realistic, ultra-HD fashion portrait of a stylish young man walking confidently on a modern luxury city street during golden hour. He is captured in a full-body shot with one leg naturally crossing in front of the other, both hands casually inside his trouser pockets, head slightly turned to the right, looking away from the camera with a calm, confident expression. He has naturally styled hair and wears black premium sunglasses.\n>\n> Outfit: a perfectly fitted black full-sleeve button-up shirt with the top two buttons open, sleeves rolled to the forearms, tucked neatly into slim-fit cream/beige tailored trousers with a black leather belt. White luxury minimalist sneakers, a premium silver wristwatch on the left wrist, and a thin silver chain around the neck.\n>\n> Background: a luxurious urban downtown street with elegant dark stone buildings, cinematic architecture, soft warm glowing window lights, subtle reflections on the pavement, shallow depth of field, creamy bokeh, and a blurred black luxury sports car with bright LED headlights visible behind him on the right side. No people in the background.\n>\n> Lighting: warm golden-hour sunlight mixed with soft cinematic ambient lighting, dramatic shadows, realistic skin tones, natural highlights on the face and clothes, premium editorial fashion photography.\n>\n> Camera: full-body composition, eye-level angle, 85mm lens, f/1.8 aperture, DSLR quality, razor-sharp focus on the subject, highly detailed fabric texture, realistic hair strands, photorealistic skin, HDR, ultra-detailed, 8K resolution, magazine cover quality, luxury lifestyle aesthetic.\n>\n> **Remove all text, logos, captions, watermarks, movie clapper icon, and graphic elements from the image.** Keep only the subject and the cinematic background. No typography anywhere in the frame. Premium color grading, high contrast, natural depth, realistic proportions, professional fashion campaign, ultra-photorealistic.\n\n**Negative Prompt:**\n\n> text, letters, logo, watermark, banner, caption, movie clapper, poster design, low quality, blurry, cartoon, CGI, painting, illustration, extra fingers, deformed hands, bad anatomy, duplicate body parts, oversaturated colors, noise, artifacts, cropped feet, distorted face, unrealistic lighting, low resolution, overexposed, underexposed. Aspect ratio 4:5",
+      "description": "Use this prompt to create a hyper-realistic portrait of a stylish man in a black shirt and chinos against a luxury city street with a sports car.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 35,
+      "view_count": 2492,
+      "copy_count": 2721,
+      "is_premium": false,
+      "published_at": "2026-08-06T12:38:47.422Z",
+      "images": [
+        {
+          "filename": "e2b2f652-9146-42f5-95ce-03368efedbe1.webp",
+          "local_path": "images/automotive/e2b2f652-9146-42f5-95ce-03368efedbe1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e2b2f652-9146-42f5-95ce-03368efedbe1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/e2b2f652-9146-42f5-95ce-03368efedbe1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/e2b2f652-9146-42f5-95ce-03368efedbe1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Urban Fashion Photography AI Photo Editing Prompt. AI generated portrait of a stylish man in a black shirt and beige chinos walking on a luxury city street near a sports car."
+        },
+        {
+          "filename": "84882959-a169-43e0-a11b-2baa77912375.webp",
+          "local_path": "images/automotive/84882959-a169-43e0-a11b-2baa77912375.webp",
+          "original_url": "https://img.promptplum.com/promptImages/84882959-a169-43e0-a11b-2baa77912375.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/84882959-a169-43e0-a11b-2baa77912375.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/84882959-a169-43e0-a11b-2baa77912375.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated professional fashion portrait of a man walking in a black shirt and beige chinos on a city sidewalk at dusk."
+        }
+      ]
+    },
+    {
+      "id": "6a6e506b4bbdbe2cf559d963",
+      "title": "High-End Men's Fashion Editorial Photography",
+      "slug": "fashion-editorial-magazine-cover",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "> **Create a hyper-realistic luxury fashion portrait of the uploaded person, preserving their exact facial features, hairstyle, skin tone, and identity with a highly accurate face match.** The subject is casually leaning against a glossy black luxury sports car parked in front of a modern five-star hotel entrance with elegant glass architecture and warm golden ambient lighting. The subject wears a premium chocolate-brown suede bomber jacket over a crisp white crew-neck T-shirt, tailored high-waisted beige trousers, clean white luxury leather sneakers, a sophisticated silver wristwatch, and stylish black designer sunglasses. The pose is confident, relaxed, and effortless, with hands in pockets and one leg crossed naturally.\n>\n> The composition is editorial and cinematic with a luxury lifestyle aesthetic. Include soft golden-hour lighting, realistic reflections on the car, shallow depth of field, creamy bokeh, premium color grading, ultra-sharp facial details, realistic fabric textures, natural skin tones, and high-end fashion magazine quality. Place elegant magazine style typography on the left side: Use gold, white, and black typography in a clean editorial layout.\n>\n> **Ultra-realistic, photorealistic, 8K UHD, HDR, DSLR quality, 85mm lens, f/1.8 aperture, cinematic lighting, luxury lifestyle photography, Vogue editorial, premium composition, razor-sharp focus, highly detailed, realistic shadows, natural perspective, masterpiece, award-winning fashion photography, face perfectly matched to the uploaded photo.**\n\n**Negative Prompt:**\n\n> low quality, blurry, cartoon, anime, painting, CGI, overexposed, underexposed, distorted face, bad anatomy, extra fingers, duplicate body parts, watermark, logo, text errors, low resolution, noise, oversaturated colors, unrealistic skin, cropped face, out of frame, artifacts, deformed hands, poor lighting, inaccurate face match.\n\n--- Aspect ratio 3:4",
+      "description": "Men's Fashion Magazine Cover Prompt: Use this premium prompt to create a realistic editorial portrait of a stylish man leaning against a black luxury sports car.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 1290,
+      "copy_count": 6,
+      "is_premium": true,
+      "published_at": "2026-08-01T20:00:43.449Z",
+      "images": [
+        {
+          "filename": "cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "local_path": "images/automotive/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/cb2e5ae7-e359-4abc-888d-6bfea9379dbb.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "local_path": "images/automotive/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/6a384175-616b-46eb-bb64-176833ba1265.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "local_path": "images/automotive/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/e4665eee-653b-4c03-8216-dbd3df261186.webp",
+          "width": 896,
+          "height": 1200,
+          "alt": "luxury-lifestyle-magazine-cover-man-portrait-prompt-by-promptplum-1"
+        }
+      ]
+    },
+    {
+      "id": "6a398a68bf79ee5252c2e2ba",
+      "title": "Off-Grid Elegance",
+      "slug": "aura-man-black-suv",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Use the uploaded image strictly only for the male subject’s face and identity reference. Preserve his natural facial features and overall likeness with high accuracy.\nCreate an ultra-realistic 8K cinematic fashion editorial photograph in a vertical 4:5 aspect ratio. Show the man seated deep inside the open driver-side doorway of a black vintage luxury SUV inspired by an old Mercedes G-Class, parked in a rough open countryside field with tall, dry, muted wild grass.\nThe composition must feel dark, restrained, atmospheric, and visually heavy. Keep the man partially swallowed by the dark SUV interior instead of making him brightly exposed or overly separated from the vehicle. The black car, shadowed cabin, charcoal outfit, and dark trousers should merge into one rich, moody visual mass, while subtle soft daylight reveals only the essential contours of his face, jacket, hands, boots, and the SUV edges.\nHe wears a short loose charcoal textured jacket, not a long coat, layered over a black shirt, with relaxed wide-leg dark trousers, slim black rectangular sunglasses, and polished dark brown leather ankle boots. The fabric should look heavy, soft, slightly worn, and naturally folded rather than tailored or overly polished.\nPose him in a quiet, imperfect, editorial posture: seated low at the edge of the driver seat, body slightly slouched forward, head lowered and angled down toward one side, face partly hidden by the sunglasses and shadow. One elbow rests loosely inside near the steering wheel or dashboard, with the hand hanging naturally. The other hand rests low near the knee. Keep one leg bent inside the vehicle while the other leg extends diagonally downward into the grass, creating an asymmetric and relaxed silhouette. Avoid a symmetrical seated pose, straight posture, direct camera gaze, or a clean fashion-model stance.\nThe open driver door must rise prominently through the left side of the frame and feel large, close, and graphic. The SUV body should fill the right side with dark glossy panels, chrome trim, tinted windows, realistic rugged tire detail, and a shadowy vintage interior. Keep the subject placed slightly right of center and lower in the doorway, not standing outside and not centered like a catalogue portrait.\nUse a slightly low, close documentary-editorial camera angle with a full-frame 35mm lens, around f/2.8, ISO 100, 1/500s. Frame from the tall open door down to the boots in the grass, with a large clean pale overcast sky above. The perspective should feel natural, intimate, and slightly raw, not wide commercial automotive photography.\nLighting should be soft, cloudy, low-contrast daylight with deep shadow retention. Do not brighten the face excessively. Keep the SUV interior nearly black, with only subtle muted reflections on the paint and soft texture visible in the jacket. The sky should be pale gray-white, the grass faded olive and brown-green, and the blacks deep but detailed.\nThe mood must feel quiet luxury, introspective masculinity, subdued old-money countryside style, slightly melancholic, mysterious, and effortlessly cool. Use a strongly muted, desaturated cinematic grade with low saturation, soft grain, dark tonal depth, restrained highlights, and no glossy commercial look.\nUltra-realistic skin texture, natural hand anatomy, realistic sunglasses, detailed black vehicle interior, lifelike wild grass, subtle film grain, premium editorial finish. No text, no watermark, no logo, no inset portrait, no extra people, no bright green grass, no long overcoat, no polished catalogue pose, no overly visible face.",
+      "description": "Editorial Outdoor Prompt: Copy & paste this AI prompt to create a high-aura portrait of a stylish man in sunglasses sitting in the open door of a black SUV.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 46,
+      "view_count": 3732,
+      "copy_count": 7528,
+      "is_premium": false,
+      "published_at": "2026-08-10T16:09:48.826Z",
+      "images": [
+        {
+          "filename": "b343e50d-a449-447b-8eb0-eb68f26f9f15.webp",
+          "local_path": "images/automotive/b343e50d-a449-447b-8eb0-eb68f26f9f15.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b343e50d-a449-447b-8eb0-eb68f26f9f15.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/b343e50d-a449-447b-8eb0-eb68f26f9f15.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/b343e50d-a449-447b-8eb0-eb68f26f9f15.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Aura Farming Black SUV Portrait AI Photo Editing Prompt. AI generated editorial outdoor portrait of a stylish man in sunglasses, dark jacket, loose dark trousers, and brown boots sitting by the open door of a black SUV."
+        }
+      ]
+    },
+    {
+      "id": "6a22a53447805064ac3290c8",
+      "title": "Man in Plaid Suit Against Luxury Car",
+      "slug": "businessman-suit-luxury-car",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Use the uploaded reference image strictly only for face and identity matching. Preserve the same facial structure, skin tone, age, hairstyle, hairline, beard pattern (if present), and overall natural likeness with high accuracy. Do not beautify excessively and do not change identity.\nCreate a hyper-realistic cinematic full-body portrait of the same man leaning casually against the front hood of a black Rolls-Royce Ghost. The car must be shown from a perfect frontal angle, with the iconic silver chrome grille centered directly behind the subject. The subject stands exactly in the middle, creating a strong symmetrical composition.\nHe wears a charcoal grey three-piece suit with a subtle light-grey windowpane check pattern, including an open two-button blazer, fitted waistcoat, matching tailored trousers, a crisp white dress shirt, black tie, and polished black Oxford shoes. His pose is calm and confident: both hands inside trouser pockets, torso upright, shoulders slightly back, and legs crossed at the ankles (right over left). His head is turned slightly to his left (viewer’s right) with a calm, poised, off-camera gaze.\nThe scene is set on a modern urban street surrounded by tall blue-glass skyscrapers on both sides. The background should be softly blurred with shallow depth of field, but still show subtle hints of traffic, streetlights, and a faint yellow taxi, without distracting from the subject. No pedestrians should be visible. The Rolls-Royce headlights must be on, and the glossy black paint should reflect the surrounding city buildings.\nUse a slightly low camera angle around waist level to enhance presence and authority. Frame it in a vertical 4:5 portrait, full body from head to toe, with the subject and car occupying most of the frame and very little unnecessary side space. The overall mood should feel luxury, modern, editorial, premium, and cinematic, with cool natural daylight, soft diffused light, realistic reflections, sharp subject focus, shallow background blur, and ultra-detailed textures.\nImportant: keep the composition tightly centered, the street modern and upscale, the lighting cool and clean, the car symmetrical, and the subject’s identity highly accurate.",
+      "description": "Luxury Lifestyle Prompt: Copy & paste this prompt to create a high-end urban portrait of a stylish businessman in a suit leaning on a black luxury car.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 73,
+      "view_count": 3689,
+      "copy_count": 5353,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "29b1e378-48d3-4aa4-86fa-f009b4373a1f.webp",
+          "local_path": "images/automotive/29b1e378-48d3-4aa4-86fa-f009b4373a1f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/29b1e378-48d3-4aa4-86fa-f009b4373a1f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/29b1e378-48d3-4aa4-86fa-f009b4373a1f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/29b1e378-48d3-4aa4-86fa-f009b4373a1f.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Luxury Lifestyle AI Photo Editing Prompt. AI generated photorealistic portrait of a businessman in a grey three-piece windowpane suit leaning on a black luxury car on a modern city street."
+        },
+        {
+          "filename": "9d264dee-4a67-495a-bca8-2d0c998f1404.webp",
+          "local_path": "images/automotive/9d264dee-4a67-495a-bca8-2d0c998f1404.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9d264dee-4a67-495a-bca8-2d0c998f1404.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/9d264dee-4a67-495a-bca8-2d0c998f1404.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/9d264dee-4a67-495a-bca8-2d0c998f1404.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated realistic street style portrait of a young man in a grey three-piece plaid suit leaning against a black Rolls-Royce with legs crossed on a busy city street."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704e2",
+      "title": "Mustang Convertible",
+      "slug": "quiet-luxury-man-sports-car-photography",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Create a hyper-realistic, ultra-detailed 8K high-angle lifestyle portrait, captured in a vertical 4:5 aspect ratio.\nOutfit:\nHe is wearing a plain black hoodie (no logos, clean and smooth fabric, no creases), paired with slightly loose black denim jeans and crisp white low-top sneakers. Accessories include sleek black sunglasses. The outfit must appear clean, structured, and premium with visible fabric texture and natural folds.\nPose & Expression:\nHe stands with a relaxed posture, slightly leaning back against the car’s front right headlight. Both hands are tucked inside the hoodie pocket. Legs are casually crossed at the ankles. His head is tilted slightly upward, looking directly toward the camera with a calm, confident, neutral expression.\nComposition & Framing:\nHigh-angle elevated shot (~60° downward), camera positioned above subject, looking diagonally down. Full-body framing with no cropping of head or feet. Subject is centered in the lower-middle of the frame, with the car occupying the background diagonally. Maintain balanced negative space around the subject and clear visual hierarchy (subject first, car second).\nVehicle Details:\nA detailed blue Ford Mustang GT Convertible positioned behind the subject at a slight diagonal angle. The car features a contrasting red fabric soft top, black multi-spoke alloy wheels, visible front grille with the Mustang emblem, and subtle hood vents. The paint should have realistic reflections and gloss.\nEnvironment & Background:\nGround is composed of clean, interlocking hexagonal stone pavement. On the left side, a strip of green grass bordered by a smooth concrete curb. Subtle modern architectural elements visible in the background. Palm tree leaves partially enter from the top corners, naturally framing the shot.\nLighting:\nNatural daylight (not too bright) with soft, even illumination; no harsh shadows or underexposure. Light reflections should appear naturally on the car surface. Face and outfit must remain clearly visible with balanced exposure.\nCamera & Quality:\nShot on a high-end DSLR or Sony A7R V, sharp focus, realistic depth, natural color grading, ultra-detailed textures, cinematic clarity, no distortion.\nNo eye-level or low-angle shots; angles below 60° are not allowed.",
+      "description": "Cinematic Lifestyle Photography Prompt: Copy and paste this prompt to generate high-quality realistic images of a stylish young man in a black hoodie leaning against a luxury blue convertible.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 84,
+      "view_count": 2397,
+      "copy_count": 8579,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "young-man-leaning-on-blue-mustang-convertible-portrait-by-promptplum.webp",
+          "local_path": "images/automotive/young-man-leaning-on-blue-mustang-convertible-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-leaning-on-blue-mustang-convertible-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/young-man-leaning-on-blue-mustang-convertible-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/young-man-leaning-on-blue-mustang-convertible-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Stylish Man Leaning on Blue Mustang AI Photo Editing Prompt. AI generated outdoor portrait of a young man in sunglasses and a black hoodie leaning against a blue Ford Mustang convertible on a paved driveway with palm trees."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704c4",
+      "title": "Heritage Drive",
+      "slug": "vintage-car-photoshoot-men",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Use the uploaded image strictly ONLY for face and identity reference.\nHyper-realistic fashion editorial portrait of a man seated cross-legged on a seamless studio floor, directly in front of and slightly leaning back against the front of a classic vintage luxury mustang car. The entire scene follows a deep monochromatic crimson and burgundy color palette.\nComposition & Framing (STRICT)\nPerfectly centered, symmetrical composition.\nBoth the subject and the car must be fully visible and centered in the frame.\nNo cropping, no cut-off body parts, no part of the car out of frame.\nThe subject sits in the foreground while the car is perfectly aligned behind him in the middle ground.\nThe entire front of the car — headlights, grille, hood, windshield, bumper, and both edges — must remain fully visible within frame.\nThe subject’s full body (head, hands, legs, boots) must be completely inside the frame.\nMaintain generous, balanced negative space above the car and around the subject, preserving a clean studio look.\nFloor and backdrop blend seamlessly with no horizon line.\nPose\nThe subject is seated cross-legged, slightly reclining backward so his back subtly rests against the front bumper/lower grille of the car.\nOne arm rests casually over his knee while the other hand relaxes near his lap.\nRelaxed yet confident posture.\nOutfit\nPremium burgundy leather café racer jacket over a dark charcoal gray crewneck sweater.\nDeep wine-colored corduroy trousers.\nHighly polished dark mahogany leather Chelsea boots.\nSilver luxury wristwatch with a black dial.\nExpression\nCalm, confident, direct gaze toward the camera with a subtle, understated smirk.\nBackground\nSeamless matte crimson-red studio environment blending wall and floor into a single continuous surface.\nNo visible edges, distractions, or props.\nLighting\nProfessional studio lighting with large softboxes.\nSoft, even illumination across the subject and car.\nControlled highlights on the car’s curves and chrome details.\nMinimal harsh shadows, clean reflections, subtle floor gradient for depth.\nCamera Angle (HIGH-LEVEL PERSPECTIVE)\nElevated high-angle shot, camera positioned clearly above eye level, looking down toward the subject and car.\nMaintain a controlled top-down perspective without distortion.\nTechnical Details\nAspect ratio 4:5.\nShot on Sony A7R IV with an 85mm prime lens.\nAperture f/2.0–f/2.8 (slightly deeper depth for full-body + car clarity).\nISO 100, ultra-high resolution, crisp detail.\nSharp textures in leather, corduroy, skin, chrome, and paint.\nHigh-end commercial photography, minimalist luxury, editorial aesthetic.",
+      "description": "Editorial Studio Photography Prompt: Copy and paste this prompt to create professional studio photos of men with vintage cars. This image features a stylish man in burgundy posing with a matching classic Ford Mustang.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 47,
+      "view_count": 663,
+      "copy_count": 1698,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-with-burgundy-mustang-portrait-image-by-promptplum-3.png",
+          "local_path": "images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-3.png",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-burgundy-mustang-portrait-image-by-promptplum-3.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-3.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-3.png",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Vintage Red Mustang AI Photo Editing Prompt. AI generated studio portrait of a stylish man in a maroon leather jacket and corduroy pants sitting cross-legged in front of a classic red Ford Mustang against a matching monochrome background."
+        },
+        {
+          "filename": "man-with-burgundy-mustang-portrait-image-by-promptplum-2.png",
+          "local_path": "images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-2.png",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-burgundy-mustang-portrait-image-by-promptplum-2.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-2.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-2.png",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man with Burgundy Vintage Car AI Photo Editing Prompt. AI generated studio portrait of a stylish man in a burgundy leather jacket sitting in front of a matching classic vintage car."
+        },
+        {
+          "filename": "man-with-burgundy-mustang-portrait-image-by-promptplum-1.png",
+          "local_path": "images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-1.png",
+          "original_url": "https://img.promptplum.com/promptImages/man-with-burgundy-mustang-portrait-image-by-promptplum-1.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-1.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/man-with-burgundy-mustang-portrait-image-by-promptplum-1.png",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a stylish man in a burgundy leather jacket and matching apparel sitting cross-legged in front of a classic vintage car."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670444",
+      "title": "The Gold Standard",
+      "slug": "man-luxury-fashion-black-g-wagon-night",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "SUBJECT\n[Reference Image Identity Preservation: High Priority] Full-body cinematic portrait of the man from the reference image. Pose: Casual lean against vehicle; right forearm resting on SUV hood, left hand partially submerged in jean pocket. Weight centered on right leg, left leg crossed at the ankle with toe-ground contact. Expression: Stoic, calm confidence, looking slightly off-axis. Attire: Layered tan suede shearling jacket with high-pile off-white fleece trim over a heavy-gauge ribbed white turtleneck. Black distressed slim-fit denim with articulated knee blowouts. Wheat-colored nubuck high-top lug-sole boots. Accessories: 14k gold curb-link chain, matte black tactical chronograph (left wrist), subtle wooden bead bracelet (right wrist), gold-rimmed geometric aviators.\n\nVEHICLE & ENVIRONMENT\nVehicle: Matte-black modified luxury 4x4 (G-Wagon silhouette). Features: illuminated circular LED halo DRLs, heavy-duty winch-integrated bumper, low-profile roof rack with integrated LED light bar, 20-inch multi-spoke satin black wheels on aggressive A/T tires. Environment: Modernist luxury plaza with dark-grey basalt stone paving. Background: Colossal futuristic toroid-shaped (ring) skyscraper with central void, wrapped in horizontal golden electroluminescent bands. Dramatic deep-blue metropolitan skyline.\n\nCOMPOSITION & LIGHTING\nFraming: Eye-level 4:5 vertical fashion editorial. Lighting: Chiaroscuro-inspired urban night scheme. Soft-box diffused key light (3200K) at 45-degree camera-left for facial modeling. High-intensity golden architectural backlighting creating a sharp rim-glow on the shearling texture and subject silhouette. Reflections: Specular highlights on stone ground and matte vehicle surfaces. Teal-and-orange color science with deep blacks and vibrant golden accents.\n\nTECHNICAL SPECS\nOptics: Shot on 85mm f/1.4 prime lens. Texture: Macro-level epidermal resolution; visible skin pores, individual eyebrow follicles, and realistic beard stubble. No skin smoothing. Depth: Shallow depth-of-field with creamy architectural bokeh. Rendering: Subsurface scattering on skin, high-fidelity textile weaving, 8K resolution, ray-traced reflections, chromatic consistency, photorealistic fashion editorial aesthetic.\n\nNEGATIVE PROMPT\nLow-resolution, airbrushed skin, plastic texture, face-swap artifacts, distorted anatomy, cross-eyed, blurry facial features, flat lighting, overexposed highlights, CGI aesthetic, poorly rendered hands, messy fur texture, floating accessories, inconsistent lighting shadows.",
+      "description": "AI Photo Editing Prompt: Use this prompt to generate a cinematic urban, luxury fashion portrait featuring a stylish man and a matte black G-Wagon against a glowing futuristic backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 34,
+      "view_count": 1540,
+      "copy_count": 2751,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-leaning-on-black-g-wagon-night-cityscape-image-by-promptplum.webp",
+          "local_path": "images/automotive/man-leaning-on-black-g-wagon-night-cityscape-image-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-leaning-on-black-g-wagon-night-cityscape-image-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/man-leaning-on-black-g-wagon-night-cityscape-image-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/man-leaning-on-black-g-wagon-night-cityscape-image-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man and Matte Black G-Wagon AI Photo Editing Prompt. AI generated cinematic portrait of a bearded man in a tan shearling jacket leaning against a matte black Mercedes-Benz G-Wagon in front of a glowing futuristic building at night."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267041b",
+      "title": "Vintage Drive",
+      "slug": "man-leather-jacket-classic-mercedes",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Create a high-definition, hyper-realistic professional studio photograph based strictly on the provided reference image. The subject’s face and identity must match the reference exactly — preserve precise bone structure, eye shape, nose proportions, lip shape, jawline definition, facial symmetry, skin tone, hairline, and overall likeness. Do not beautify, stylize, or alter facial features. Maintain natural skin texture and realistic detail.\nScene & Composition\nA minimalist high-key studio setup featuring a man confidently posing with a vintage luxury car. The environment uses a seamless white “infinity” background with no visible horizon line, creating a clean, boundless space.\nVertical (portrait) orientation. The subject and vehicle are perfectly centered for strong symmetry and balance. Full front view of the car aligned straight toward the camera. The man is leaning centrally on the hood, forming a strong vertical axis through the frame.\nSubject: Pose & Expression\nHe is leaning confidently on the centre front of the car’s hood.\n\nLeft leg crossed casually over the right.\nOne hand resting naturally on the car's hood, the other relaxed near the knee.\nUpper body upright with relaxed shoulders.\nMake eye contact with the camera.\nCalm, confident, slightly attitude expression.\nNo exaggerated emotion.\nPosture communicates quiet confidence and editorial fashion energy.\nWardrobe Styling\nOuterwear:\n\nClassic black leather biker jacket with silver-toned hardware (zippers, snaps, lapel studs). Leather texture clearly visible with subtle natural creasing.\nTop:\n\nCrew-neck t-shirt with bold horizontal black and white stripes.\nBottom:\n\nSlim-fit black denim jeans (clean silhouette, modern fit).\nFootwear:\n\nTan/cognac leather low-top sneakers with white rubber soles. These act as a warm focal contrast against the monochrome palette.\nAppearance\nDark, neatly groomed hair styled naturally with subtle volume.\nClean-shaven face.\nNatural skin texture retained (no artificial smoothing).\nVehicle Details: Vintage Mercedes-Benz W123\nClassic Mercedes-Benz W123 (1976–1986 era).\nColor:\n\nMetallic silver with high-gloss finish and visible metallic flake detail.\nFront Features:\n\nLarge chrome radiator grille centered (partially obscured by subject).\nSignature quad headlight configuration (two circular lamps per side inside rectangular housing).\nBright amber turn signal indicators on the outer edges.\nHeavy chrome bumper with black rubber impact strip.\nClean, blank silver license plate mount.\nInterior:\n\nThrough the windshield, light tan (“palomino”) interior visible, including headrests.\nLighting & Technical Execution\nHigh-key lighting setup using large diffused softboxes or scrims.\n\nSoft, evenly distributed illumination.\nNo harsh highlights.\nVery subtle, diffused shadows beneath the vehicle and shoes.\nClean shadow transitions.\nControlled reflections on chrome and metallic paint.\nSharp focus on leather jacket texture and metallic car finish.\nColor palette:\n\nPrimarily monochrome (white, silver, black) with warm accent tones from:\nTan shoes\nAmber signal lights\nCamera & Quality\n4:5 aspect ratio\n8k resolution professional studio capture.\nEditorial lifestyle/fashion aesthetic.\nUltra-sharp detail.\nCrisp edge definition.\nBalanced contrast.\nStudio-grade clarity.\n85mm lens look, eye-level angle.\nClean commercial photography finish.",
+      "description": "AI Photo Editing Prompt: Use this prompt to generate a professional studio photo of a stylish man in a black leather jacket leaning against a classic silver Mercedes-Benz.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 730,
+      "copy_count": 1082,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-leaning-on-classic-car-portrait-by-promptplum.webp",
+          "local_path": "images/automotive/man-leaning-on-classic-car-portrait-by-promptplum.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-leaning-on-classic-car-portrait-by-promptplum.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/man-leaning-on-classic-car-portrait-by-promptplum.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/man-leaning-on-classic-car-portrait-by-promptplum.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man and Vintage Silver Car Photography Prompt. AI generated studio portrait of a stylish man in a black leather jacket leaning against a classic silver car."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670393",
+      "title": "Velvet Authority",
+      "slug": "man-in-burgundy-suit-luxury-supercar",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Create a cinematic luxury fashion editorial portrait of a confident adult man, with high-fidelity facial matching to the uploaded reference image.\n\nPreserve accurate face structure, skin tone, hairstyle, and facial hair(if present) as much as possible.\nPose & Composition\n\nThe man is leaning casually against a luxury supercar in an underground parking garage\nBody angled slightly left, head turned right, looking off-camera\nCandid, paparazzi-style luxury aesthetic\nBoth hands relaxed inside trouser pockets\nAppearance\n\nPerfectly tailored monochromatic three-piece suit in deep burgundy / maroon\nFitted blazer\nDouble-breasted waistcoat with dark buttons\nMatching trousers\nUnderneath: crisp black dress shirt with a slim black tie\nHair: short, natural styling, subtle side part, slight volume at the front\nAccessories:\nDark square-framed sunglasses, partially obscuring the eyes\nLarge silver wristwatch with a dark dial on the left wrist\nCar Details\n\nHigh-end supercar with aggressive, angular design lines\nVisible rear quarter panel and rear air intake\nGlossy metallic maroon paint, closely matching the suit\nBlack multi-spoke alloy wheel with low-profile tire partially visible\nEnvironment\n\nModern indoor parking garage\nConcrete pillars, low ceiling\nOverhead fluorescent strip lights forming glowing horizontal bars\nLight reflections visible on the car’s polished surface\nLighting & Camera\n\nMoody, cinematic lighting with rich contrast\nCool gray-blue industrial tones in the background\nShallow depth of field, heavy background blur\nSubject separation: Very strong (subject is tack-sharp, background fully defocused)\nUltra-realistic, high-detail fashion photography\nEditorial composition, professional color grading\n85mm lens look, f/1.8\nTechnical\n\nAspect Ratio: 4:5\nStyle: Photorealistic, cinematic, luxury editorial\nIdentity Preservation: High\nNegative Prompt\nblurry face, missing car, no car in background, incorrect facial structure, identity mismatch, distorted hands, extra fingers, extra limbs, unrealistic anatomy, cartoon or illustration style, CGI look, low resolution, excessive sharpening, overexposed lighting, washed-out colors, flat lighting, unrealistic proportions",
+      "description": "Create an image of a handsome man in a burgundy three-piece suit leaning on a luxury supercar. This AI prompt generates photorealistic 8K images with cinematic underground parking lighting, sunglasses, and a high-end fashion aesthetic.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 26,
+      "view_count": 872,
+      "copy_count": 1427,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-burgundy-suit-leaning-on-luxury-supercar-ai-prompt.jpg",
+          "local_path": "images/automotive/man-in-burgundy-suit-leaning-on-luxury-supercar-ai-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-burgundy-suit-leaning-on-luxury-supercar-ai-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/man-in-burgundy-suit-leaning-on-luxury-supercar-ai-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/man-in-burgundy-suit-leaning-on-luxury-supercar-ai-prompt.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "A stylish man in a burgundy three-piece suit and sunglasses leans against a red luxury supercar in a garage."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267038c",
+      "title": "Grey Suit & Classic Curves",
+      "slug": "man-charcoal-suit-vintage-luxury-car-ai-prompt",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Prompt Title\nHigh-End Fashion Editorial Studio Portrait with Vintage Luxury Car\nSubject\nConfident man\nFace match / reference face enabled\nPreserve facial structure, hairstyle, expression, and overall likeness\nCalm, serious, self-assured expression\nDirect eye contact with the camera\nNatural style hair with classic volume\nLight stubble visible\nPose & Body Language\nLeaning against a vintage luxury car\nPositioned slightly right of center\nArms crossed\nShoulders squared\nOne leg straight, the other slightly bent\nBody language conveys relaxed authority and confidence\nWardrobe & Styling\nPerfectly tailored charcoal gray suit\nCrisp white dress shirt\nSlim dark tie\nPolished black leather dress shoes\nClean, refined, luxury fashion styling\nVehicle\nPristine mid-20th-century dark, metallic gunmetal grey vintage luxury car\nRounded front\nCircular headlights\nChrome accents\nSculpted side vents\nPolished alloy wheels\nFront half of the car visible in frame\nBackground\nStudio setting\nBackground: It is a solid, matte slate grey. It is slightly lighter and flatter than the car's paint, providing a smooth, neutral studio backdrop that allows the metallic sheen of the car and the suit to stand out.\nBold graphic contrast\nLighting\nSoft, controlled, cinematic lighting\nPrimary light source from front-right\nEven illumination on subject and car\nSubtle shadows shaping:\nJawline\nSuit folds\nCar contours\nCamera & Composition\nSlightly low-angle shot\nMedium focal length (50–85mm)\nVertical framing\nFull body visible\nFront half of the car included\nDeep focus\nUltra-sharp, high-detail image quality\nMood & Aesthetic\nTimeless\nMasculine\nLuxurious\nMinimalist\nEvokes success, refinement, and quiet power\nStyle Keywords\nLuxury fashion campaign\nStudio photography\nCinematic lighting\nMinimalist background\nBold color blocking\nTimeless masculinity\nUltra-detailed\nPhotorealistic\nEditorial polish\nTechnical Parameters\nFace match / reference face: Enabled\nAspect ratio: 4:5",
+      "description": "Get the exact AI prompt to generate a cinematic man in a charcoal suit leaning on a vintage luxury car. Create photorealistic, high-end old-money aesthetic images with this detailed google gemini ai prompt.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 874,
+      "copy_count": 1613,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "local_path": "images/automotive/man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/man-in-charcoal-suit-leaning-on-vintage-luxury-car-ai-prompt.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Google Gemini AI Prompt Generated Image: A sophisticated man in a charcoal suit leaning against a vintage luxury car with arms crossed, set against a minimalist grey studio backdrop."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267021f",
+      "title": "Matte G-Wagon looks sleek",
+      "slug": "matte-g-wagon-looks-sleek",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Preserve the uploaded person’s natural facial identity and proportions.\nA hyper-realistic ultra-detailed 8K full-body portrait of the same man leaning casually against a luxurious matte black Mercedes G-Wagon SUV, parked on an open road with a dramatic mountain range and blue sky with scattered clouds in the background. The setting is outdoors in bright daylight, giving a cinematic and bold atmosphere. The man stands in a relaxed pose, his left arm resting casually on the car’s hood near the wheel, while his right hand is slipped into his trouser pocket.\nHis posture is confident yet effortless, giving a composed, fashionable vibe. Full body shot, camera is angle low (gentle hero angle) to add presence, with the man looking confidently toward the camera side, adding direct engagement to the portrait. He is dressed in an all-black outfit: a textured, button-up shirt with rolled-up sleeves to his elbows, the top buttons left open for a casual, stylish look, paired with relaxed-fit cream trousers, and he wears crisp white sneakers. 1:1 aspect ratio. Do not alter face and identity.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 191,
+      "view_count": 8441,
+      "copy_count": 23207,
+      "is_premium": false,
+      "published_at": "2026-08-04T22:03:19.256Z",
+      "images": [
+        {
+          "filename": "3124e88a-7805-43d3-8bed-3dad7c305dbc.webp",
+          "local_path": "images/automotive/3124e88a-7805-43d3-8bed-3dad7c305dbc.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3124e88a-7805-43d3-8bed-3dad7c305dbc.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/3124e88a-7805-43d3-8bed-3dad7c305dbc.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/3124e88a-7805-43d3-8bed-3dad7c305dbc.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Ai generated image: portrait of a stylish young man leaning casually against a luxurious matte black Mercedes G-Wagon SUV, parked on an open road with a dramatic mountain range and blue sky with scattered clouds in the background"
+        },
+        {
+          "filename": "946fd085-4b6a-43d3-acd7-9988859fe354.webp",
+          "local_path": "images/automotive/946fd085-4b6a-43d3-acd7-9988859fe354.webp",
+          "original_url": "https://img.promptplum.com/promptImages/946fd085-4b6a-43d3-acd7-9988859fe354.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/946fd085-4b6a-43d3-acd7-9988859fe354.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/946fd085-4b6a-43d3-acd7-9988859fe354.webp",
+          "width": 2048,
+          "height": 2048,
+          "alt": "Gemini_Generated_Image_ygyzu3ygyzu3ygyz"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670214",
+      "title": "Man sits on motorcycle",
+      "slug": "man-sits-on-motorcycle",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Create a hyper-realistic, cinematic full-body portrait of a stylish man sitting confidently on a modern customized white-and-black Ducati XDiavel V4 motorcycle, using the uploaded image strictly as the ONLY face reference (preserve exact facial structure, proportions, skin tone, and hairstyle). The subject is seated upright on the bike, legs relaxed on either side, with both hands resting casually on a glossy black helmet placed on the fuel tank. He wears a fitted khaki hoodie, slim black pants, clean white sneakers, and sleek black rectangular sunglasses. His expression is calm, confident, and slightly serious, looking straight toward the camera.\nThe environment is an urban outdoor setting with modern architecture in the background, softly blurred with shallow depth of field. Background features cool neutral tones (gray/blue buildings) with subtle streetlight bokeh creating contrast. No warm color cast on the subject — maintain natural, slightly cool cinematic color grading.\nLighting is soft, diffused natural light (overcast daylight), evenly illuminating the face and outfit with no harsh shadows, combined with subtle ambient reflections from surroundings. No golden-hour warmth — keep tones neutral to slightly cool.\nCamera angle is eye-level, slightly front-facing with a strong centered composition. Full-body framing (no crop at head or feet), with balanced negative space. Shot on 85mm lens, shallow depth of field, ultra-sharp subject focus, smooth background blur. The entire motorcycle must be fully visible in frame — no cropping of front wheel, rear wheel, handlebars, mirrors, or tail section.\nUltra-realistic, 8K resolution, natural skin texture (visible pores, no smoothing), high detail in clothing fabric, motorcycle materials, and reflections.\nAspect ratio: 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 92,
+      "view_count": 2807,
+      "copy_count": 7405,
+      "is_premium": false,
+      "published_at": "2026-09-13T15:46:29.261Z",
+      "images": [
+        {
+          "filename": "b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "local_path": "images/automotive/b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/b5af40ac-f96f-41e2-9694-41874ce18b48.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Ai generated image of a Man sits on Ducati XDiavel V4 motorcycle"
+        },
+        {
+          "filename": "83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "local_path": "images/automotive/83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/83165b9c-cbeb-483a-98ec-c088e69ea4c2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_4ntxvx4ntxvx4ntx"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670205",
+      "title": "Car at night",
+      "slug": "car-at-night",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Create a hyper-realistic, cinematic full-body portrait in 8K resolution using the uploaded image as the ONLY face reference.\nA stylish man is leaning casually against the a sleek modern metallic sports car at night. His body is slightly angled, one leg crossed casually in front of the other, one arm resting confidently on the car roof, and the other hand relaxed by his side. His posture conveys calm confidence and effortless elegance.\nOutfit & Styling\nHe is wearing a perfectly tailored navy blue button-up shirt (fully buttoned), paired with slim-fit black tailored trousers and polished black formal shoes. Accessories include sleek rectangular black sunglasses. Hair is neatly styled with natural volume, clean and sharp.\nExpression & Gaze:\nNeutral, composed expression with a confident, slightly serious demeanor. Gaze directed slightly off-camera.\nEnvironment & Background:\nUrban nighttime city setting with blurred high-rise buildings, streetlights, and neon accents in the background. Soft bokeh lights create depth and a premium cinematic feel. No crowd distraction.\nLighting:\nCinematic urban night lighting — primary illumination from streetlights and ambient city glow, soft diffused key light on subject, cool blue tones in shadows with subtle warm highlights from nearby street lamps, realistic night contrast, no daylight.\nComposition & Camera:\nFull-body vertical composition (4:5 aspect ratio), subject centered. Shot at eye-level with a slight low-angle perspective for a powerful presence. 85mm lens, shallow depth of field, ultra-sharp focus on subject.\nStyle & Quality:\nUltra-realistic, high-end editorial fashion photography, crisp textures, natural skin detail, realistic reflections, cinematic color grading.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 34,
+      "view_count": 1639,
+      "copy_count": 4143,
+      "is_premium": false,
+      "published_at": "2026-09-20T19:44:00.575Z",
+      "images": [
+        {
+          "filename": "1764079828443.png",
+          "local_path": "images/automotive/1764079828443.png",
+          "original_url": "https://img.promptplum.com/promptImages/1764079828443.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/1764079828443.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/1764079828443.png",
+          "width": 768,
+          "height": 1344,
+          "alt": "Ai generated image of young men and car"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526701f1",
+      "title": "Man Leaning on Vintage Car",
+      "slug": "stylish-man-vintage-car",
+      "category": "Automotive",
+      "category_slug": "automotive",
+      "prompt": "Use the uploaded image ONLY for face and identity reference. Maintain the same face as the reference — no alteration or beautification.\nCreate a cinematic, fashionable portrait of a stylish man leaning casually against the front hood of a vintage dark green car (classic Ford Falcon style). He is wearing a deep navy blue button-down shirt with the top buttons casually open, sleeves rolled up to the forearms for a relaxed yet refined vibe. The shirt is paired with crisp white slim-fit trousers, creating a strong contrast and polished aesthetic. A sleek black leather belt adds structure to the outfit. The look is completed with black sunglasses, enhancing the stylish, confident appearance, paired with stylish sunglasses.\nComposition & Framing:\nMid-thigh to waist-up shot (above-knee framing), centred composition with balanced negative space. Subject occupies ~65% of frame height.\nPose & Expression:\nRelaxed stance with both hands in pockets, body slightly angled. Head turned to the left with an off-camera gaze, a confident and calm expression.\nBackground & Environment:\nPalm-lined boulevard stretching into the distance, creating strong depth and symmetry. Vibrant pink bougainvillaea flowers on the right side for colour contrast. Background softly blurred with cinematic bokeh.\nLighting:\nWarm golden hour sunlight with soft highlights on the face and clothing. Natural shadows with subtle rim light from behind.\nStyle & Quality:\nUltra-realistic, cinematic, vintage aesthetic, soft grain, rich tones, shallow depth of field, 8K detail.\nAspect Ratio: 4:5",
+      "description": "Old Money Aesthetic Photography Prompt: Use this prompt to generate a realistic outdoor portrait of a man leaning on a vintage green car under palm trees.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 60,
+      "view_count": 2442,
+      "copy_count": 5859,
+      "is_premium": false,
+      "published_at": "2026-07-24T13:50:16.288Z",
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_6h5llm6h5llm6h5l.webp",
+          "local_path": "images/automotive/Gemini_Generated_Image_6h5llm6h5llm6h5l.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_6h5llm6h5llm6h5l.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/automotive/Gemini_Generated_Image_6h5llm6h5llm6h5l.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/automotive/Gemini_Generated_Image_6h5llm6h5llm6h5l.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Stylish Man with Vintage Green Car Cinematic Portrait AI Prompt. AI generated realistic portrait of a well-dressed man in a navy blue linen shirt and white pants leaning against a vintage dark green Ford Falcon on a palm-lined street."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "category": "Artwork",
+  "slug": "artwork",
+  "total_prompts": 19,
+  "updated_at": "2026-09-24T12:50:28Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca15267026e",
+      "title": "Inner Prism",
+      "slug": "inner-prism",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Create a highly detailed 4K digital illustration of a male subject presented as a close-up portrait (upper chest and above), photographed at eye level, facing directly forward. The composition is centered and symmetrical, with the subject positioned in the middle of a clean, cool white background. The framing must include the full head and upper torso with no head crop, maintaining a balanced 4:5 aspect ratio.\nThe subject has naturally dark, thick, slightly messy hair with clearly defined strands and realistic texture. He wears distinct black-framed glasses, rendered with sharp detail and natural reflections.\nThe subject maintains a calm, resolute expression with a direct and thoughtful gaze.\nThe overall aesthetic combines a grayscale monochrome base for the skin and clothing with dynamic, vibrant multicolored light accents appearing across the face, neck, shoulders, and upper chest. These colors include reds, oranges, yellows, greens, blues, and purples, appearing as if painted or projected light rather than solid paint. The colored lighting should follow facial contours naturally, enhancing depth and structure.\nLighting style is cinematic and high-contrast, with the subject illuminated noticeably brighter than the background to create strong visual separation and focus. The face and upper torso should appear clean, luminous, and evenly lit, with controlled high brightness that enhances facial clarity without overexposure or loss of detail. Highlights should feel crisp and modern while preserving natural skin texture, smooth tonal transitions, and readable shadow depth. The brightness should emphasize facial structure, eyes, and contours, making the subject the clear visual focal point while maintaining balanced contrast.\nThe effect should resemble a modern graphic-novel or high-end vector illustration, with clean edges, sharp lines, and highly refined textures in hair, glasses, and fabric.\nThe subject wears a dark ribbed t-shirt, rendered with realistic material texture while remaining consistent with the stylized illustration approach. Eyes should retain a naturally enhanced color intensity without appearing artificial.\nThe final artwork should feel modern, bold, and visually striking, blending monochrome realism with neon color illumination while maintaining high clarity, precision, and professional illustration quality.\nNegative Prompt:\nNo realistic image\nNo any color tone on background",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 54,
+      "view_count": 1139,
+      "copy_count": 2396,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_srsp9hsrsp9hsrsp.webp",
+          "local_path": "images/artwork/Gemini_Generated_Image_srsp9hsrsp9hsrsp.webp",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_srsp9hsrsp9hsrsp.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_srsp9hsrsp9hsrsp.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_srsp9hsrsp9hsrsp.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Grayscale digital portrait of a man with glasses, featuring vibrant prismatic rainbow light reflections across his face and dark hair. A clean, modern, and stylized illustration."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670343",
+      "title": "The Hibiscus Portrait",
+      "slug": "the-hibiscus-portrait",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Use the uploaded image as the only face reference.\n\nCreate a stylized digital watercolor illustration of a young woman with soft yet realistic facial features, expressive almond-shaped eyes, and natural skin tones. Her Natural color hair is loosely tied back, with a few gentle strands framing her face. She wears a traditional red Indian sari/blouse with subtle gold floral detailing, paired with delicate gold jewelry including small jhumka earrings, a thin necklace, and a tiny red bindi on her forehead.\nLarge red hibiscus flowers with lush green leaves surround her head and shoulders, organically blending into the background using watercolor washes, ink splashes, and soft brush textures. The flowers feel integrated into the portrait rather than placed separately, creating a natural, flowing composition.\nThe background is light, textured off-white paper, with visible watercolor bleeding, soft stains, and painterly imperfections. The overall mood is dreamy, poetic, and elegant, with a slightly tilted composition that enhances the artistic feel.\n\nStyle emphasizes hand-painted watercolor illustration, soft edges, layered pigments, and gentle contrast—no photorealism.\nAspect ratio: 2:3 (vertical)",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 1108,
+      "copy_count": 1768,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_odmzi2odmzi2odmz.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_odmzi2odmzi2odmz.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_odmzi2odmzi2odmz.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_odmzi2odmzi2odmz.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_odmzi2odmzi2odmz.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Image: captivating watercolor portrait features a young woman radiating elegance in a traditional red saree adorned with gold motifs. Her brown hair is pulled back, accented by a large, vibrant red hibiscus flower, which mirrors the blooms framing her lower bodice. She wears gold jhumka earrings, a delicate heart necklace, and a red bindi. The illustration is set against a textured off-white background with artistic paint splatters, creating a soft, serene, and culturally rich aesthetic."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267033d",
+      "title": "Ink-Splattered Dreams",
+      "slug": "ink-splattered-dreams",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Create a vibrant, expressive portrait illustration using the provided reference image as the strict identity source.\nPreserve the subject’s face with 100% accuracy — exact facial structure, skin tone, beard (if present), jawline, nose, lips, eyes, and proportions. Do not stylize, beautify, or alter identity in any way.\nFraming & Composition\n\nVertical 4:5 aspect ratio. Tight portrait (upper chest to head). Subject slightly off-center (rule of thirds). Face occupies ~65% of the frame with clean negative space.\nCamera & Pose\n\nSlight low-angle perspective. Head gently tilted upward (~10–15°), chin slightly raised. Gaze directed upward and slightly off-camera. Expression calm, thoughtful, and inspired. Natural relaxed posture.\nOutfit & Accessories\n\nSimple dark shirt. Oversized orange-red sunglasses with warm gradient lenses and soft realistic reflections.\nArt Style\n\nBlend semi-realistic digital painting with expressive ink illustration. Face rendered with high realism (clean shading, visible skin texture), while edges and surroundings use bold black sketch strokes for an artistic poster feel.\nBackground\n\nVintage newspaper collage texture (off-white, slightly faded). Add dynamic blue and orange paint strokes radiating diagonally. Include subtle ink splatters and brush textures. Do not overlap or distort the face.\nLighting & Color\n\nSoft, even facial lighting with warm highlights. Strong contrast between neutral background and saturated colors. Balanced palette of warm oranges/reds and cool blues.\nQuality & Detail\n\nUltra-sharp, high-resolution output. Crisp facial details (pores, beard texture, clean edges). No blur, no noise, no artifacts. Poster-ready finish.\nMood\n\nCreative, modern, expressive, inspirational.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 41,
+      "view_count": 1577,
+      "copy_count": 2442,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_edr38edr38edr38e-1.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_edr38edr38edr38e-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_edr38edr38edr38e-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_edr38edr38edr38e-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_edr38edr38edr38e-1.jpg",
+          "width": 1276,
+          "height": 1612,
+          "alt": "Gemini AI Generated: a vibrant, mixed-media style portrait features a young man with a hopeful, upward-gazing expression. He has voluminous, styled brown hair and a well-groomed beard, and is wearing oversized aviator sunglasses with bright orange-red gradient lenses. The artwork blends semi-realistic facial rendering with bold, graphic elements, set against a background of vintage newspaper text. Dynamic splashes of electric blue and tangerine orange paint, along with scattered black ink blots, frame his head, creating an energetic and artistic composition that feels both modern and expressive."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670257",
+      "title": "Cozy Vibes and Cartoon Cool",
+      "slug": "cozy-vibes-and-cartoon-cool",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Use the uploaded reference photo as the absolute facial identity source.\n\nThe face must be 100% identical to the reference image, with no alteration to facial proportions, structure, skin texture, eye shape, eyelashes, lips, or expression. Preserve the same realistic skin details and natural softness of the face exactly as in the reference.\nSubject & Pose\nA young female subject standing upright in a relaxed, confident posture.\n\nOne hand rests lightly on her hip\nThe other arm hangs naturally by her side\nShoulders relaxed\nHead turned slightly toward the viewer\nExpression is calm, confident, and gentle\n(The pose does NOT need to match the reference image, only the face.)\n\nHair & Expression\nHair styled in a messy bun with soft, loose strands framing the face\nHair texture is naturally tousled and slightly wavy\nFacial expression remains soft, calm, and confident\nClothing & Accessories\nTop: White cropped T-shirt with a snug crop fit, featuring a “Bratz Rock Angelz” graphic on the chest\nOuterwear: Beige knitted cardigan, loose fit, casually falling slightly off the shoulders\nBottoms: Olive or dark-green joggers with a relaxed fit and soft fabric\nAccessories:\nThin silver chain necklace with a small pendant\nMinimal stud earrings\nIllustration Style\nVibrant semi-realistic illustration\nFace rendered realistically\nBody illustrated with soft, subtle cartoon outlines\nSmooth semi-realistic shading blended with stylized line art\nLighting is soft, warm indoor light with gentle shadows\nBackground & Design\nA digital scrapbook collage aesthetic background featuring:\n\nTorn paper edges\nTape strips\nLayered notebook textures\nPastel color blocks\nDecorated with hand-drawn doodles such as:\n\nSmall clouds\nTiny stars\nLightning bolts\nSparkles\nHand-drawn hearts\nInclude hand-written text elements:\n\n“IMAGINE!” in a crayon-like scribble style\n“NOW!” in bold marker handwriting\nComposition & Framing\nFull standing character portrait, framed from head to below the knees\nStraight-on perspective\nPrimary focus on perfect facial match\nOverall style feels like an illustrated scrapbook character study\nAesthetic & Color Palette\nMood: creative, expressive, soft yet bold\nColor palette includes: warm browns, creamy beige, soft pinks, muted greens, with vibrant red accents\nOverall vibe: artsy digital scrapbook energy\nOutput Quality\nUltra high-resolution\nSemi-realistic illustrated portrait\nClean, vibrant, and polished finish",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 23,
+      "view_count": 741,
+      "copy_count": 821,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_qalfgwqalfgwqalf.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated: a stylish, digital illustration of a young woman presented in a creative scrapbook or collage aesthetic. The subject stands centrally with a confident, casual pose, one hand resting on her hip, and is framed by a thick white outline that gives her the appearance of a die-cut sticker. She is dressed in a \"Bratz Rock Angelz\" white cropped graphic t-shirt layered under a slouchy, oatmeal-colored knit cardigan, paired with comfortable olive green drawstring joggers. Her brown hair is styled in a voluminous, messy high bun with loose strands framing her face, and she wears a simple silver pendant necklace. The background mimics a mood board, incorporating textures of ripped graph paper, masking tape, and a vertical color palette strip. Surrounding the figure are playful hand-drawn doodles of clouds, lightning bolts, stars, and hearts, along with the motivational words \"IMAGINE!\" scribbled in the upper left and \"NOW!\" in bold lettering at the bottom right."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670209",
+      "title": "Purple smoke artwork",
+      "slug": "purple-smoke-artwork",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Use the uploaded image as a reference[100% face match from upload image] to Create a 8K realistic close-up portrait of a young individual with a rugged yet captivating face, their strong jawline and sharp, beard, expressive eyes identical to those in the uploaded image, glowing with a faint mystical blue to convey deep contemplation and hidden secrets, their gaze directed slightly upward. Their dark, wavy hair, styled as in the uploaded images, is voluminous and slightly disheveled, lending a wild, untamed quality to their persona. The background features a textured grey wall with a rough, stone-like texture, illuminated by a single soft light source from the right, casting deep, dramatic shadows on the left side of their face, creating a high-contrast, engraved effect reminiscent of vintage lithographs. They wear premium rectangular sunglasses with frame black colour, clear lenses and a black velvet jacket over an open-collared shirt, the fabric catching the light to reveal its luxurious texture, their posture slightly tilted as if in mid-thought, slightly looking upward and relax moody. A faint aura of purple mist swirls back their shoulders, enhancing the mystical theme, with the image rendered in a bold monochrome style with fine, etched details that give it the appearance of a classic artwork masterpiece.",
+      "description": "",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 29,
+      "view_count": 1070,
+      "copy_count": 2248,
+      "is_premium": false,
+      "published_at": "2026-08-10T17:58:11.754Z",
+      "images": [
+        {
+          "filename": "IMG_20251126_103532.jpg",
+          "local_path": "images/artwork/IMG_20251126_103532.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251126_103532.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/IMG_20251126_103532.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/IMG_20251126_103532.jpg",
+          "width": 1975,
+          "height": 2144,
+          "alt": "Ai generated artwork of men"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702e8",
+      "title": "Radha’s Grace",
+      "slug": "radhas-grace",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Use the uploaded image ONLY as the facial identity reference.\n\nPreserve the woman’s exact facial structure, proportions, skin tone, eyes, nose, lips, and overall likeness with high accuracy.\n\nDo not beautify, stylize, or alter facial features in any way.\n\nHer expression must remain calm, divine, and slightly smiling — peaceful, compassionate, and serene.\nAll other elements (pose, outfit, jewelry, hair, props, background, lighting, atmosphere, camera, and color tone) must follow the description below.\nScene Concept\nCreate an ultra-realistic, cinematic divine portrait inspired by Radha–Krishna aesthetics, portraying the woman as a goddess-like Radha figure with devotional realism.\nBackground & Environment\nA grand Vrindavan-style temple and palace complex fills the background, softly blurred yet clearly recognizable with domes, arches, carved stone details, and sacred architecture.\n\nThe temple is illuminated by warm golden and amber oil-lamp light, creating a glowing spiritual aura.\n\nFloating diyas, soft golden bokeh orbs, and subtle light particles surround the scene.\n\nThe night sky is a deep indigo-blue, enhancing contrast and divinity.\n\nA faint mist adds a celestial presence without overpowering realism.\nDivine Lighting\nWarm golden temple lighting combined with a soft ethereal glow around the subject.\n\nA gentle frontal key light clearly illuminates the face.\n\nA soft rim light outlines her silhouette, forming a subtle halo effect.\n\nShadows remain smooth and natural.\n\nOverall tone is devotional, golden, cinematic, with realistic skin texture and fabric highlights.\nPose & Composition\nVertical portrait, 4:5 aspect ratio.\n\nMedium framing from mid-torso upward.\n\nShe stands gracefully with relaxed shoulders.\n\nHead slightly tilted, eyes looking directly at the viewer.\n\nPosture conveys devotion, grace, and divine calm.\nOutfit (Radha-Inspired)\nShe wears a white and gold embroidered lehenga or anarkali, symbolizing purity and divinity.\n\nA soft pink dupatta with heavy gold borders is draped elegantly over one shoulder and flows naturally along her side.\n\nFabric appears rich, flowing, and finely detailed with realistic embroidery.\nJewelry & Divine Adornments\nTraditional handcrafted gold jewelry including:\n\n– A delicate gold necklace\n\n– Ornate gold earrings\n\n– Stacked bangles\n\n– A centered maang tikka\n\nJewelry looks sacred and artisanal, not overly glossy.\nHair & Floral Details\nHair styled in a long side braid resting over the shoulder.\n\nThe braid is adorned with white jasmine flowers and soft pink blossoms.\n\nA single peacock feather is subtly placed near the crown or braid, symbolizing Krishna’s presence.\nSacred Props\nShe gently holds a wooden bansuri (Krishna’s flute) at mid-torso height.\n\nPeacock feathers rest naturally against the flute.\n\nHands are relaxed and devotional, not performing or playing.\nMood & Style\nDivine • Serene • Devotional • Mythological realism\n\nUltra-realistic cultural photography\n\nCinematic depth of field\n\nSharp facial focus\n\nSoft glowing background\n\nRich warm color palette\n\nAuthentic Radha–Krishna inspired sacred Indian aesthetic",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 69,
+      "view_count": 2193,
+      "copy_count": 3488,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_x9s53nx9s53nx9s5-1.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_x9s53nx9s53nx9s5-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_x9s53nx9s53nx9s5-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_x9s53nx9s53nx9s5-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_x9s53nx9s53nx9s5-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A hyper-realistic digital illustration of a smiling young woman in traditional Indian attire, reminiscent of Radha. She wears a white blouse with gold embroidery and a pink drape, adorned with gold jewelry including a necklace, earrings, and a maang tikka. Her long braid is decorated with white jasmine and pink flowers, with a peacock feather tucked into her hair. She holds a bamboo flute and peacock feathers in her hands. The background is filled with a warm, golden glow, featuring floating oil lamps (diyas) and blurred temple silhouettes, creating a festive and divine atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267020e",
+      "title": "GTA V Artwork",
+      "slug": "gta-v-artwork",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Create a GTA V loading-screen style illustration using the uploaded photo as 100% exact face match (no changes to facial structure/skin/beard/eyes). A young man crouches on a cracked rooftop, one arm resting on his knee, looking directly at the camera. Outfit: black textured sweatshirt, dark jeans, bright red high-top sneakers.\n\nColor tone & graphics: vibrant sunset gradient sky (orange/yellow near horizon → pink/purple → deep blue), warm golden backlight from the left, plus a cool cyan rim light outline around the character. Use bold comic-style outlines, clean cel-shading, sharp highlights, high-contrast poster look, hyper-detailed textures.\n\nBackground: Los Santos–style skyline, palm trees, graffiti wall, urban rooftop details. Add “GTA FIVE” logo at the top-left. Ultra-sharp, HD.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 1484,
+      "copy_count": 1163,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_17f70217f70217f7-1.jpg",
+          "width": 1344,
+          "height": 1545,
+          "alt": "Gemini AI Generated: a stylized digital illustration designed to mimic the iconic art style found on the cover and loading screens of the video game Grand Theft Auto V. It features a young man with dark, swept-back hair and a neatly trimmed beard crouching in the center foreground. He is dressed in casual urban attire, wearing a black crew-neck sweater, dark blue jeans, and bright red high-top sneakers. He is positioned on a cracked concrete rooftop detailed with colorful graffiti tags and scattered debris like crushed cans. Behind him, a vibrant cityscape stretches out, bathed in the warm, gradient hues of a sunset that transitions from orange to purple. The background includes tall skyscrapers and palm trees, evoking a Los Angeles-inspired atmosphere. The official \"gta FIVE\" logo is prominently displayed in the top-left corner, and the artwork utilizes the game’s signature heavy black outlines and high-contrast, cel-shaded coloring technique."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670316",
+      "title": "Pastel Reverie",
+      "slug": "pastel-reverie",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Create a hyper-realistic, high-fashion editorial portrait using the uploaded person’s face and body as an exact identity reference.\nDo not alter, beautify, reinterpret, or stylize the facial structure in any way. Preserve the exact bone structure, facial proportions, skin tone, facial symmetry, nose shape, lips, eyes, and overall identity from the uploaded image.\nComposition & Framing\n\nWaist-up portrait (not full body)\nVertical 4:5 Instagram-ready aspect ratio\nSubject positioned slightly turned to the side with shoulders angled\nHead gently tilted downward, eyes softly lowered (looking down, calm and serene expression)\nElegant, graceful posture with relaxed shoulders\nSharp focus on face, hair, butterflies, and flowers\nNo vignette, no distortion, no exaggerated depth blur\nSubject Styling & Hair\n\nLong, silky natural dark hair styled in soft, flowing waves\nHair parted cleanly at the center\nHair adorned with delicate pastel pink flowers and thin floral branches\nSmall, elegant white butterflies nestled symmetrically in the hair, blending naturally into the hairstyle\nHair texture realistic, glossy, and lightweight, flowing naturally\nMakeup (Professional MUA – Ethereal Editorial Style)\n\nSoft pink glitter eyeshadow with smooth gradient blending\nSubtle shimmer on eyelids, no harsh lines\nLong, curled lashes with refined definition\nSoft rosy blush with natural warmth\nHighlighted cheekbones with a luminous glow\nGlossy, natural pink lips (not overfilled, realistic texture)\nSkin & Texture\n\nSmooth, luminous skin with realistic pores\nSubtle body shimmer / micro-glitter glow on shoulders and collarbone\nNatural light reflection on skin, no plastic or over-retouched look\nOutfit\n\nLuxurious pastel pink high-fashion gown\nSoft tulle or chiffon fabric with flowing, airy texture\nOff-shoulder or strapless fairy-tale silhouette\nFabric appears lightweight, layered, and elegant\nOutfit complements the floral palette without overpowering the subject\nAccessories & Details\n\nSmall white butterflies gently resting on shoulders and upper arm\nButterflies appear delicate, lightweight, and naturally placed\nNo oversized or cartoon elements\nLighting\n\nProfessional studio lighting setup\nSoft, glowing illumination with gentle highlights\nEven light distribution across face and body\nEnhances skin glow, hair shine, and fabric texture\nNo harsh shadows, no dramatic contrast\nBackground & Environment\n\nDreamy studio set filled with lush pink and white flowers\nFloral elements surround the subject softly, framing without clutter\nBackground slightly diffused for depth but still detailed\nMagical, fairy-tale atmosphere while remaining fashion-editorial\nNo visible studio edges, seamless environment\nOverall Mood & Style\n\nEthereal, dreamy, romantic, elegant\nHigh-fashion editorial quality\nEnchanting fairy-inspired aesthetic\nCinematic softness with ultra-realistic detail\nImportant Constraints (Strict)\n\nDo NOT change the face\nDo NOT stylize facial features\nDo NOT exaggerate proportions\nKeep identity 100% accurate to the uploaded person",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 1167,
+      "copy_count": 1798,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_2zxue32zxue32zxu.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_2zxue32zxue32zxu.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_2zxue32zxue32zxu.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_2zxue32zxue32zxu.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_2zxue32zxue32zxu.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A close-up, ethereal portrait of a young woman with long, wavy brown hair adorned with small pink blossoms and white butterflies. She wears a soft pink, off-the-shoulder tulle dress and features dewy, glowing makeup with shimmering pink eyeshadow. Her eyes are cast downward in a serene expression, set against a background of blurred white and pink flowers."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670225",
+      "title": "Silent Noise",
+      "slug": "silent-noise",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Create a hyper-realistic, high-detail portrait illustration using the uploaded image as the absolute facial reference. The subject’s face must remain 100% identical to the reference photo — no changes to facial structure, proportions, skin tone, beard shape, jawline, nose, lips, eyes, or expression.\n\nThe artwork features a half-body portrait of a young man with a rugged yet refined look, captured in a dramatic close-up framing with a slightly low-angle perspective. His expression is intense, thoughtful, and emotionally charged, with subtle tension in the brows and a focused gaze directed straight at the viewer.\n\nHair & Grooming:\nHis dark hair is windswept and dynamic, styled with natural volume and movement, individual strands sharply defined to convey motion. He has a well-groomed short beard and mustache, with realistic density and natural edges.\n\nHands & Details:\nOne hand is raised near the chin in a casual, contemplative pose. The hand features detailed black ink tattoos on the fingers and wrist, rendered with sharp line clarity and realistic skin interaction.\n\nClothing:\nHe is wearing an oversized black hoodie, matte fabric with soft folds and natural drape. The hoodie should feel realistic, slightly loose, and well-integrated into the portrait without distracting from the face.\n\nLighting & Texture:\nUse bright, even studio lighting with soft highlights that enhance facial contours. Skin texture must be clearly visible, including fine pores, subtle freckles, natural blemishes, and gentle shadow transitions. Eyes should have vivid reflections and lifelike depth, adding intensity and realism.\n\nBackground & Color:\nSet the subject against a solid, bold, vibrant yellow background, clean and seamless, creating strong contrast with the black hoodie and skin tones. The background should be flat and graphic, enhancing poster-style impact.\n\nStyle & Quality:\nBlend semi-photorealistic and semi-illustrative aesthetics, characteristic of modern high-end poster art. Emphasize clarity, sharp edges, rich color saturation, and dynamic energy. Ultra-high resolution, crisp details, smooth gradients, professional illustration finish.\n\nDo not alter the subject. Use the uploaded image strictly as reference.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 50,
+      "view_count": 1680,
+      "copy_count": 3722,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_j3o6wfj3o6wfj3o6.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_j3o6wfj3o6wfj3o6.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_j3o6wfj3o6wfj3o6.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_j3o6wfj3o6wfj3o6.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_j3o6wfj3o6wfj3o6.jpg",
+          "width": 1254,
+          "height": 1657,
+          "alt": "Gemini AI Generated Image: a close-up portrait of a young man with a rugged appearance, set against a vibrant, solid yellow background. He possesses voluminous, windswept dark hair and a well-groomed beard, framing a face characterized by intense hazel eyes and a slightly furrowed brow that conveys a serious or contemplative mood. Clad in a simple black hoodie that contrasts sharply with the background, he holds one hand near his neck, showcasing intricate tattoos on his fingers and the back of his hand. The art style blends realism with illustrative graphics, utilizing sharp lines and high-contrast shading to create a bold, modern aesthetic."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702e4",
+      "title": "Blue Ballpoint Portrait",
+      "slug": "blue-ballpoint-portrait",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Use the uploaded image strictly as a visual reference for facial structure, proportions, hairstyle flow, and expression. Preserve the realism and identity cues while translating them into an illustrative style.\nCreate a highly detailed portrait rendered in a monochromatic blue ballpoint pen drawing style. The artwork should feature intricate, swirling, thread-like pen lines, especially in the hair, where dense, flowing, chaotic strokes partially overlap and interact with the face. The linework should feel organic and expressive yet precisely controlled, with no randomness.\nFacial features must remain realistic and well-defined, smoothly emerging from the dense linework through subtle variations in pen pressure and line density. Use only deep indigo / blue ink tones, no other colors.\nBackground must be clean white, untouched, allowing strong contrast with the blue ink. Create depth and volume using cross-hatching, layered strokes, and natural gradients formed only by line density, not shading or color fills.\nOverall look: elegant, hand-drawn, fine-art ballpoint illustration, contemporary yet timeless.\nAspect ratio: 4:5 (vertical portrait)\nNo text, no borders, no extra elements.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 751,
+      "copy_count": 1151,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_biit1fbiit1fbiit-1.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_biit1fbiit1fbiit-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_biit1fbiit1fbiit-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_biit1fbiit1fbiit-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_biit1fbiit1fbiit-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A detailed pen sketch portrait, rendered in blue ink on white paper, showing a smiling young woman with long, wavy hair and freckles. The drawing style uses cross-hatching and line work to create shade and texture."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702e1",
+      "title": "Stunning Visuals in Wood",
+      "slug": "stunning-visuals-in-wood",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Use the uploaded image as the exact facial reference. Preserve the person’s facial features, skin tone, hairstyle, beard grooming, and calm with precise accuracy. Do not stylize or change identity.\nCreate an ultra-realistic wooden relief portrait sculpture, carved into a premium solid walnut panel. The face must look deeply carved with refined chisel textures, realistic depth, subtle tool marks, and a smooth hand-polished finish. Emphasize natural walnut grain flowing across the carved surface.\nColor tone / grading (must match):\n\nKeep the overall image color tone warm, cinematic, and premium, with golden-hour amber highlights, soft warm browns, and deep walnut/chocolate shadows. Maintain a slightly matte luxury look (no neon colors, no oversaturation, no cold/blue tint). The scene should feel cozy, high-end, and sunset-lit, with gentle contrast and clean clarity.\nPlace the walnut relief on a matching walnut stand on an executive desk inside a luxurious modern office with dark wood tones and minimal décor. Illuminate with warm cinematic sunset light coming through tall floor-to-ceiling windows. Add a soft-focus city skyline in the distance. Lighting should highlight the carving depth and wood texture without harsh shadows.\nAdd clean, sharp engraved text carved into the wood beneath the portrait:\nPromptPlum.Com | Prompt Library\nTurning ideas into stunning visuals with AI.\n\nAspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 717,
+      "copy_count": 886,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_a2bdla2bdla2bdla-1.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_a2bdla2bdla2bdla-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_a2bdla2bdla2bdla-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_a2bdla2bdla2bdla-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_a2bdla2bdla2bdla-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini AI Generated Image: A detailed, realistic wooden bas-relief carving of a bearded man's face displayed upright on an office desk. The carving captures intricate textures of hair and skin within a wooden frame. The background features a blurred city skyline seen through a window during golden hour. Text engraved on the base of the frame reads: 'Promptplum.Com | Prompt Library Turning ideas into stunning visuals with AI."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702c2",
+      "title": "Celestial Entanglement",
+      "slug": "celestial-entanglement",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "A mesmerizing, hyper-realistic digital art close-up profile of a woman with her eyes closed, expression serene and dreamlike. She is engulfed in a chaotic web of glowing electric purple and neon magenta strands that look like liquid fiber optics or bioluminescent tendrils. Her skin texture is ethereal, speckled with glittering stardust and tiny points of light. The scene is filled with floating bokeh particles and sparkling dots against a deep, dark void background. The lighting is dramatic and volumetric, emanating from the purple strands, creating a surreal, cyberpunk fantasy atmosphere. High contrast, 8k resolution, intricate detail. Aspect ratio 4:5.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 491,
+      "copy_count": 415,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_ddv6dfddv6dfddv6-1.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_ddv6dfddv6dfddv6-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ddv6dfddv6dfddv6-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_ddv6dfddv6dfddv6-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_ddv6dfddv6dfddv6-1.jpg",
+          "width": 1299,
+          "height": 1612,
+          "alt": "Gemini Generated Image: a close-up profile of a woman with her eyes closed, appearing peaceful and serene. Her skin shimmers with glittering specks like stardust, and she is surrounded by swirling, neon purple strands of light that look like glowing hair or energy lines. Set against a dark background with floating soft lights, the scene feels ethereal, futuristic, and magical."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526702b5",
+      "title": "Drawn to Life",
+      "slug": "drawn-to-life",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Use the uploaded photo as a face reference and create a hyper-realistic 3D anamorphic optical illusion artwork featuring a beautiful young Asian woman emerging from an open-lined notebook. She has long, wavy brown hair with distinct, vibrant pink and blue highlights and is wearing a cozy beige cable-knit sweater. She appears to be popping out of the paper from the waist up, with a torn paper effect, leaning her arms and steadying herself naturally on the ripped paper edges. To blur the line between 2D sketch and 3D reality, include a real human hand holding a yellow pencil, actively sketching her shoulder. The notebook rests on a wooden table. Use a high-angle, top-down shot with cinematic lighting—soft studio lighting on the subject and natural lighting on the desk—rendered in 8k resolution with photorealistic skin texture and intricate details. Aspect ratio 4:5",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 55,
+      "view_count": 946,
+      "copy_count": 1976,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_w9z86lw9z86lw9z8-1.jpeg",
+          "local_path": "images/artwork/Gemini_Generated_Image_w9z86lw9z86lw9z8-1.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_w9z86lw9z86lw9z8-1.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_w9z86lw9z86lw9z8-1.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_w9z86lw9z86lw9z8-1.jpeg",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini Generated Image: A drawing of a young woman with pink and blue streaked hair wearing a knit sweater appears to be coming out of a hole in a lined notebook. A hand is holding a yellow pencil near the drawing."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267029e",
+      "title": "Holiday Cheer in a Glass",
+      "slug": "holiday-cheer-in-a-glass",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "A full-body, eye-level shot captures a male character(slightly smiling) rendered in a highly detailed caricature style, featuring a disproportionately large head and a smaller, cartoonish body. The character's face is uploaded 100% face as reference, complemented by short dark hair and a neatly trimmed dark beard. He is dressed in a vibrant red Santa suit, perfectly wearing a red Santa hat adorned with white fur trim and a pom-pom, a red jacket featuring white fur trim on the collar and cuffs with gold buttons, a black belt with a prominent gold buckle, red pants, and black boots. The character stands with his left arm raised, holding a clear-stemmed wine glass filled with dark red wine, and his right arm bent, holding a green wine bottle with a red top and a blank label. To his lower right, a large, plush red Santa sack rests on the ground, overflowing with several green wine bottles, some with visible labels. The sack features a gold drawstring and the phrase 'Merry Christmas' in elegant white script with small heart details. The composition is centered, set against a clean, bright light blue to white gradient background. The image is rendered with cinematic lighting, vibrant colors, and highly detailed textures, aiming for an 8k resolution hyper-realistic caricature.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 7,
+      "view_count": 393,
+      "copy_count": 140,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_2ct36x2ct36x2ct3.jpg",
+          "width": 1299,
+          "height": 1590,
+          "alt": "Gemini Generated Image: A cartoon or caricature of a young, bearded man wearing a Santa suit and hat and glasses. He is holding a glass of red wine in one hand and a bottle of wine in the other. There is also a red sack full of wine bottles next to him with the words \"Merry Christmas\" written on it."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267029c",
+      "title": "Gentleman Rebel",
+      "slug": "gentleman-rebel",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "A hyper-realistic 8k ultra-detailed portrait rendered in a high-contrast graphic novel style with striking selective color, captured with a close-up, slightly low-angle perspective. The primary subject, with uploaded face as reference, is depicted wearing a dark fedora hat and clear-rimmed glasses, featuring a meticulously detailed beard and mustache. The character is dressed in a vibrant red turtleneck sweater, showcasing highly detailed ribbed textures. The composition prominently features a large hand in the foreground, making a \"rock on\" or \"devil horns\" gesture, adorned with two intricately designed rings on the middle and ring fingers. A subtle wisp of smoke or a small spark emanates from the tip of the raised index finger. The scene is illuminated by dramatic chiaroscuro lighting, with a strong, directional light source from the upper left creating deep, defined shadows and accentuating the detailed line art and textures of the skin, hat, and fabric. The background is a solid, pure black, enhancing the visual impact of the monochromatic subject and the vivid selective red elements, resulting in a powerful, cinematic lighting effect with highly detailed textures throughout.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 1032,
+      "copy_count": 977,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_k60dbnk60dbnk60d.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_k60dbnk60dbnk60d.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_k60dbnk60dbnk60d.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_k60dbnk60dbnk60d.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_k60dbnk60dbnk60d.jpg",
+          "width": 1299,
+          "height": 1590,
+          "alt": "Gemini Generated Image: a black, white, and red illustration of a man wearing a fedora and glasses with a beard, a red turtleneck sweater, and rings on his fingers. He is holding up his index finger, which has a small spark and smoke rising from the tip."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca15267027e",
+      "title": "Create Your Own Spark",
+      "slug": "create-your-own-spark",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Use the uploaded photo as a face reference and create A high-quality, semi-realistic digital illustration of a smiling young Indian woman with a radiant expression. She has dark curly hair pulled back into a messy bun with loose tendrils framing her face, a small black bindi, and distinct dark eyebrows. She is wearing a dark navy blue half-sleeve blouse and a white saree with a dark ikat-patterned border. She wears a chunky oxidized silver and turquoise choker necklace with hanging beads and matching earrings. Her left hand is gently raised, resting on her upper chest/collarbone area. The background is a white grid notebook paper texture filled with colorful, hand-drawn motivational typography and doodles. Key elements include the text \"DREAM BIG\" in yellow and blue 3D bubble letters, \"INSPIRE\" in red, \"CREATE\" in green, and \"SHINE\" in yellow. Surrounding the woman are doodles of yellow stars, red hearts, lightning bolts, blue swirls, and arrows drawn in a marker style. Photorealistic style. The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 621,
+      "copy_count": 624,
+      "is_premium": false,
+      "published_at": "2026-09-03T11:46:48.432Z",
+      "images": [
+        {
+          "filename": "IMG_20251206_222214.jpg",
+          "local_path": "images/artwork/IMG_20251206_222214.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251206_222214.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/IMG_20251206_222214.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/IMG_20251206_222214.jpg",
+          "width": 1856,
+          "height": 2291,
+          "alt": "Gemini Generated: a colorful, stylized illustration of a beautiful young woman (who appears to be South Indian, possibly a known actress) wearing a saree and traditional jewelry. Around her, bold, bright text with decorative elements encourages a positive message: \"DREAM BIG\", \"INSPIRE\", \"CREATE\", and \"SHINE\". The background resembles notebook paper."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670276",
+      "title": "The Rose Oracle",
+      "slug": "the-rose-oracle",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "A hyper-realistic studio portrait of a young woman(upload image), wearing a deep crimson/burgundy hooded cloak that frames her face. Her eyes are gently closed, creating a serene, mysterious atmosphere. Dramatic vibrant red smoky eye makeup, rich dark red lipstick. One elegant hand raised softly near her chest or shoulder, with slender graceful fingers.\n\nA huge velvety red rose positioned at the center bottom of the frame, detailed layered petals glowing under soft highlights; smaller roses integrated into the hood near her face. The cloak fabric appears thick, soft, and flowing, forming dramatic folds around her and in the background, with deep red gradients from illuminated scarlet to dark wine shadows.\n\nGold henna-like filigree ornaments or tattoo patterns on her visible shoulder and forearm, adding warm contrast.\n\nLow-key studio lighting, strong directional light illuminating her face and the main rose, while the background fades into dark shadows and swirling deep-red abstract shapes reminiscent of flowing fabric. Highly cinematic, gothic yet romantic, rich atmosphere of passion, elegance, and mystery.\n\nphotorealistic, ultra-detailed skin texture, high-end beauty editorial, 85mm lens, f/1.8, soft diffusion, crisp highlights, dramatic mood, 8K, masterpiece",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 714,
+      "copy_count": 916,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251206_141017.jpg",
+          "local_path": "images/artwork/IMG_20251206_141017.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251206_141017.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/IMG_20251206_141017.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/IMG_20251206_141017.jpg",
+          "width": 1696,
+          "height": 2494,
+          "alt": "Gemini Generated Image: a striking portrait of a woman with her eyes closed, enveloped in a deep red hood and surrounded by red roses. She has dramatic red makeup and lipstick, and her right hand displays gold henna or temporary tattoos. She holds a single, large red rose near her chest. The overall feeling is one of romance, mystery, and intense color."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670268",
+      "title": "The Lined Notebook Portrait",
+      "slug": "the-lined-notebook-portrait",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Create a photo-style line drawing/ ink sketch of a face identical to the uploaded reference image - keep every facial feature, proportion, and expression exactly the same.\n\nUse black and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background.\n\nShow a right hand holding a pen and an eraser near the sketch, as if the artist is still working.\n\nUse the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 27,
+      "view_count": 749,
+      "copy_count": 936,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "Gemini_Generated_Image_1pcex11pcex11pce-1.jpg",
+          "local_path": "images/artwork/Gemini_Generated_Image_1pcex11pcex11pce-1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_1pcex11pcex11pce-1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/Gemini_Generated_Image_1pcex11pcex11pce-1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/Gemini_Generated_Image_1pcex11pcex11pce-1.jpg",
+          "width": 1187,
+          "height": 1769,
+          "alt": "Gemini AI Generated Sketch Art Image"
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670233",
+      "title": "Culture and Corporate Power",
+      "slug": "culture-and-corporate-power",
+      "category": "Artwork",
+      "category_slug": "artwork",
+      "prompt": "Generate an 8k resolution, ultra-realistic portrait of the subject from the attached image, portraying her as an enigmatic woman standing at the crossroads of tradition and modernity. The concept features a striking vertical split down her center.\nOn the traditional half, she is adorned in a richly embroidered Indian lehenga choli with intricate Kundan jewelry. Her hair on this side is styled in a traditional Indian braid cascading over her shoulder, and her hand gracefully holds a small, lit, ornate diya (traditional Indian lamp). The background on this side is a bustling, vibrant Indian market scene illuminated by warm, dramatic golden hues.\nOn the modern half, she wears a sleek, contemporary Western pantsuit with sharp tailoring and minimalist silver accessories. Her hair on this side features a sophisticated, straight, and smooth look, and her hand rests casually in her pocket. The background on this side is a minimalist modern skyscraper skyline highlighted by cool, crisp light.\nThe overall image should be a seamless yet striking juxtaposition, rich in detail, color, and cultural symbolism, reflecting a powerful fusion of dual identities.",
+      "description": "",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 25,
+      "view_count": 832,
+      "copy_count": 883,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "IMG_20251129_231727.jpg",
+          "local_path": "images/artwork/IMG_20251129_231727.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/IMG_20251129_231727.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artwork/IMG_20251129_231727.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artwork/IMG_20251129_231727.jpg",
+          "width": 1696,
+          "height": 2515,
+          "alt": "Gemini generated images: composite image portrays a woman split vertically, showing her traditional Indian attire (lehenga, jewelry, and a lit diya) on the left side set against a bustling street market, and her modern professional attire (black blazer) on the right side set against a backdrop of towering city skyscrapers."
+        }
+      ]
+    }
+  ]
+}

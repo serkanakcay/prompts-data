@@ -1,0 +1,1578 @@
+{
+  "category": "AI Photo Editing",
+  "slug": "ai-photo-editing",
+  "total_prompts": 32,
+  "updated_at": "2026-09-24T12:50:05Z",
+  "prompts": [
+    {
+      "id": "6aa342c446d4207dc21b952d",
+      "title": "80s Best Friends Studio Photo",
+      "slug": "80s-best-friends-studio-photo",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Using the uploaded photo as the identity reference for all people, ignore its original pose, clothing, hairstyle, framing and background. Recreate us as best friends in the 1980s. Keep every face recognizable, give us authentic 80s hair and fashion, and show us standing together in a vintage studio photoshoot. Use warm analog colors, subtle film grain, soft vintage lighting, and a real 1980s photo feel.",
+      "description": "Curious how your squad would look in the 1980s? Copy this exact ChatGPT prompt to generate a realistic vintage studio photoshoot with your best friends.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 4260,
+      "copy_count": 1919,
+      "is_premium": false,
+      "published_at": "2026-09-10T23:52:36.137Z",
+      "images": [
+        {
+          "filename": "98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "local_path": "images/ai-photo-editing/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "original_url": "https://img.promptplum.com/promptImages/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_02_01 AM"
+        },
+        {
+          "filename": "bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "local_path": "images/ai-photo-editing/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_36_49 AM"
+        },
+        {
+          "filename": "99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "local_path": "images/ai-photo-editing/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_36_57 AM"
+        },
+        {
+          "filename": "bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "local_path": "images/ai-photo-editing/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_37_05 AM"
+        },
+        {
+          "filename": "f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "local_path": "images/ai-photo-editing/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_37_10 AM"
+        },
+        {
+          "filename": "6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "local_path": "images/ai-photo-editing/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "original_url": "https://img.promptplum.com/promptImages/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 04_37_14 AM"
+        }
+      ]
+    },
+    {
+      "id": "6aa328b946d4207dc21a781c",
+      "title": "80s Vintage Couple Portrait",
+      "slug": "80s-vintage-couple-portrait",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Using the uploaded photo as the identity reference for both people, recreate us as a stylish couple in the 1980s. Keep both faces recognizable, give us authentic 80s hair and fashion, and make it look like a real vintage couple photo with warm analog colors, subtle film grain, and a nostalgic 1980s feel.",
+      "description": "Turn your modern picture into a classic 80s masterpiece! Copy this AI prompt to create a stunning vintage couple portrait featuring retro denim and film grain.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 46,
+      "view_count": 12079,
+      "copy_count": 7370,
+      "is_premium": false,
+      "published_at": "2026-09-10T22:01:29.183Z",
+      "images": [
+        {
+          "filename": "2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "local_path": "images/ai-photo-editing/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_01_18 AM"
+        },
+        {
+          "filename": "ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "local_path": "images/ai-photo-editing/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
+          "width": 1128,
+          "height": 1394,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_10_19 AM"
+        },
+        {
+          "filename": "5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "local_path": "images/ai-photo-editing/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_12_37 AM"
+        },
+        {
+          "filename": "8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "local_path": "images/ai-photo-editing/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 11, 2026, 02_05_25 AM"
+        }
+      ]
+    },
+    {
+      "id": "6aa30a7346d4207dc2181a8c",
+      "title": "80s Women's Vintage Car Portrait",
+      "slug": "80s-womens-vintage-car-photo",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Using the uploaded photo as facial identity only; ignore its original pose, clothing, hairstyle, framing and background. Recreate the person as a stylish young woman in a genuine mid-1980s photograph. Keep her face recognizable and natural. Show a vertical near-full-body portrait outdoors, casually leaning against the front corner of a vintage black European luxury sedan, one hand resting naturally on the hood and the other tucked into her jeans pocket, legs loosely crossed at the ankles, relaxed posture, head turned and looking off to the left with a subtle smile. Give her thick, long, voluminous curly 1980s hair. Dress her in an oversized light acid-wash denim jacket with rolled sleeves over a fitted bright pink top, tucked into very high-waisted loose acid-wash blue jeans with a brown leather belt and white retro sneakers. Add large pink hoop earrings, a delicate necklace and subtle bracelets. Show the car’s chrome grille, hood ornament and rectangular headlight prominently. Place her outside a warm cream-colored residential villa with a dark wooden doorway, vintage wall lantern, tropical greenery and pink bougainvillea. Warm late-afternoon natural daylight, soft golden highlights, faded analog colors, gentle contrast, fine 35mm film grain, subtle haze and softness. Add aged scanned-print texture, dust, scratches, heavily worn cream-colored photo edges and a small orange-red 1986 date stamp in the lower corner. Authentic amateur 1980s photograph, not a modern cinematic or retro-filtered photoshoot.",
+      "description": "Join the viral \"What would I look like in the '80s\" trend! Use this ChatGPT prompt for a retro women's portrait featuring a vintage car and acid-wash denim.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 53,
+      "view_count": 7968,
+      "copy_count": 4655,
+      "is_premium": false,
+      "published_at": "2026-09-10T19:52:19.974Z",
+      "images": [
+        {
+          "filename": "12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "local_path": "images/ai-photo-editing/12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/12907c03-8ee7-400e-9fcc-af8377cf9ea7.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "80s retro women's portrait leaning on vintage car in acid wash denim ai prompt"
+        },
+        {
+          "filename": "c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "local_path": "images/ai-photo-editing/c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/c3ce0b77-c653-42c7-8b54-5099e397c825.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "80s-womens-vintage-car-denim-portrait-ai-prompt-by-promptplum-1"
+        }
+      ]
+    },
+    {
+      "id": "6aa2c1b646d4207dc208cc78",
+      "title": "80s Women's Red Blazer Portrait",
+      "slug": "80s-womens-red-blazer-portrait",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Use the uploaded image as the face reference. Create an ultra-realistic 1980s vintage portrait of the same woman with voluminous feathered hair, bold gold hoop earrings, soft winged eyeliner and muted berry lipstick. She wears a deep pink/red oversized padded-shoulder blazer over a black top with a vintage pendant necklace, posing in a confident three-quarter profile while looking to the side. Warm cinematic lighting, 35mm analog film, soft focus, faded colors, subtle grain, dust and scratches, authentic nostalgic 1980s photography.",
+      "description": "Join the viral Instagram trend! Use this ChatGPT prompt to turn your photo into an authentic 1980s portrait featuring a classic red padded blazer and feathered hair.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 20,
+      "view_count": 3507,
+      "copy_count": 2262,
+      "is_premium": false,
+      "published_at": "2026-09-10T14:41:58.704Z",
+      "images": [
+        {
+          "filename": "c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "local_path": "images/ai-photo-editing/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/c363d17c-ea40-4d53-b0d6-b6cf55ac6f5e.webp",
+          "width": 1086,
+          "height": 1448,
+          "alt": "80s retro women's portrait in red padded blazer ai prompt"
+        },
+        {
+          "filename": "8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "local_path": "images/ai-photo-editing/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/8090a95d-7db4-4c20-ae66-ad85181e4055.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 10, 2026, 07_46_56 PM"
+        },
+        {
+          "filename": "7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "local_path": "images/ai-photo-editing/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/7c3d5f26-080e-404a-8897-83c6024a70d6.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 10, 2026, 07_29_10 PM"
+        }
+      ]
+    },
+    {
+      "id": "6aa1deab46d4207dc2e614e1",
+      "title": "80s Men's Vintage Car Portrait",
+      "slug": "80s-mens-vintage-car-portrait",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Using the uploaded photo as facial identity only; ignore its original pose, clothing, hairstyle and background. Recreate the person as a stylish young man in a genuine 1980s photograph. Vertical 4:5 near-full-body portrait, casually leaning his hip against the front corner of a vintage black European luxury sedan with dual round headlights, one hand flat on the hood, the other in his pocket, legs loosely crossed, looking off to the left. Thick curly 80s mullet hair. Oversized colorful geometric-print shirt, partly unbuttoned with rolled sleeves, tucked into very high-waisted, slightly pleated, light-blue acid-wash jeans with a wide through the thighs, finished with a brown leather belt. Add white retro sneakers, metal wristwatch and small pendant necklace. Warm cream-stucco residential villa behind him with a dark wooden doorway, wall lantern, bougainvillea and softly blurred greenery. Warm late-afternoon daylight, faded analog colors, soft contrast, fine 35mm grain, slight haze and softness, aged scanned-print texture with worn scratched edges. Authentic 1980s snapshot, not a modern retro-filtered photo.",
+      "description": "Want a classic 1980s look? Use this viral ChatGPT AI prompt to transform your photo into a retro men's portrait featuring a vintage luxury car and 80s fashion.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 140,
+      "view_count": 29060,
+      "copy_count": 14465,
+      "is_premium": false,
+      "published_at": "2026-09-09T22:33:15.594Z",
+      "images": [
+        {
+          "filename": "b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "local_path": "images/ai-photo-editing/b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/b59c295a-f229-495f-8564-1bac6564dd42.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "80s retro men's portrait leaning on vintage luxury car ai prompt"
+        }
+      ]
+    },
+    {
+      "id": "6aa18ba946d4207dc2dad860",
+      "title": "Beautiful Indian Woman Saree Pencil Sketch",
+      "slug": "saree-woman-pencil-sketch-prompt",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create an 8K ultra-detailed, realistic graphite pencil portrait drawing of an elegant woman, based closely on the reference image. She is shown in a graceful three-quarter portrait composition, from approximately the chest up, with her body angled slightly to the side while her face turns naturally toward the viewer.\nShe has long, thick, naturally dark hair, swept over one shoulder and cascading down in soft, voluminous waves. Her facial features are delicate and realistic, with detailed eyes, naturally defined eyebrows, soft lips, and a small traditional bindi centered on her forehead. Maintain natural facial proportions and realistic anatomy.\nShe wears an elegant, traditional dark-colored saree, with the fabric draped naturally across her shoulder and chest. Add subtle traditional jewelry, including ornate jhumka earrings, a delicate necklace, and thin bangles on her wrist. A small arrangement of white jasmine flowers is tucked behind her ear and partially visible among her hair.\nHer pose is graceful and feminine: one hand is gently raised near her chin/neck, with relaxed fingers and a natural wrist position. She has a soft, calm, serene expression with a subtle closed-mouth smile, gazing slightly toward the side rather than directly at the camera.\nRender the entire image as a hand-drawn, highly detailed graphite pencil sketch on clean white paper, using highly refined pencil strokes, delicate cross-hatching, realistic tonal shading, ultra-detailed facial detailing, carefully detailed rendered hair strands, and fabric texture. Use strong but soft graphite values to create dimensionality in the face, hair, jewellery, hand, and saree while preserving the white paper background.\nThe composition should have an elegant unfinished-sketch effect, with some areas of the saree and lower portrait gradually fading into loose, expressive pencil strokes rather than having a hard edge. Keep the background completely clean and minimal, with subtle natural graphite marks only.\nStyle: photorealistic graphite portrait, luxury pencil artwork, traditional hand-drawn illustration, highly detailed, sophisticated, delicate shading, realistic anatomy, fine pencil texture, monochrome black-and-white, museum-quality drawing, white paper background. Aspect ratio 4:5.",
+      "description": "Pencil Sketch Illustration Prompt: Copy & paste this prompt to create a beautiful, highly detailed black and white pencil drawing of a traditional Indian woman wearing a saree and ethnic jewelry.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 15,
+      "view_count": 960,
+      "copy_count": 572,
+      "is_premium": false,
+      "published_at": "2026-09-09T16:39:05.612Z",
+      "images": [
+        {
+          "filename": "796b7539-aafc-46ce-a0d1-25663e311fd0.jpeg",
+          "local_path": "images/ai-photo-editing/796b7539-aafc-46ce-a0d1-25663e311fd0.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/796b7539-aafc-46ce-a0d1-25663e311fd0.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/796b7539-aafc-46ce-a0d1-25663e311fd0.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/796b7539-aafc-46ce-a0d1-25663e311fd0.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Beautiful Indian woman in saree pencil sketch AI Photo Editing Prompt. AI generated pencil sketch illustration of a traditional Indian woman wearing a saree, ethnic jewelry, and a bindi, with a gajra in her hair."
+        },
+        {
+          "filename": "9aa2858f-b16e-4419-a971-fdc823ed25a5.jpeg",
+          "local_path": "images/ai-photo-editing/9aa2858f-b16e-4419-a971-fdc823ed25a5.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/9aa2858f-b16e-4419-a971-fdc823ed25a5.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/9aa2858f-b16e-4419-a971-fdc823ed25a5.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/9aa2858f-b16e-4419-a971-fdc823ed25a5.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Beautiful Indian woman in saree pencil sketch AI Photo Editing Prompt. AI generated pencil sketch illustration of a traditional Indian woman wearing a saree, ethnic jewelry, and a bindi, with a gajra in her hair."
+        }
+      ]
+    },
+    {
+      "id": "6aa170e446d4207dc2d51339",
+      "title": "1980s AI Photo Trend Girl & Woman",
+      "slug": "1980s-ai-photo-trend-girl-woman",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance.  Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text.",
+      "description": "Want a 1980s photo of yourself? Try these ChatGPT prompts for Instagram’s latest AI trend. Transform your photos into stylish retro portraits.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 61,
+      "view_count": 13337,
+      "copy_count": 6898,
+      "is_premium": false,
+      "published_at": "2026-09-09T14:44:52.725Z",
+      "images": [
+        {
+          "filename": "54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "local_path": "images/ai-photo-editing/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "original_url": "https://img.promptplum.com/promptImages/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/54433e3b-bdad-4413-bb79-997099b41703.webp",
+          "width": 1086,
+          "height": 1448,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_38_14 PM"
+        },
+        {
+          "filename": "54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "local_path": "images/ai-photo-editing/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/54c3a5b1-475f-453b-869a-dd02de4fc10c.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_29_14 PM"
+        },
+        {
+          "filename": "d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "local_path": "images/ai-photo-editing/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/d2b580f7-2f40-4d08-bdbb-244f9f8dfe07.webp",
+          "width": 1121,
+          "height": 1403,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_48_01 PM"
+        },
+        {
+          "filename": "0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "local_path": "images/ai-photo-editing/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/0e1d0e8d-4b29-4c23-b6cd-43ed751a1223.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_47_55 PM"
+        },
+        {
+          "filename": "93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "local_path": "images/ai-photo-editing/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/93da892e-ede0-4652-89b1-a76b9eab4ffb.webp",
+          "width": 1086,
+          "height": 1449,
+          "alt": "ChatGPT Image Sep 9, 2026, 07_45_14 PM"
+        }
+      ]
+    },
+    {
+      "id": "6aa092f646d4207dc2bcfbe3",
+      "title": "Nostalgic 1980s Bedroom Portrait Prompt",
+      "slug": "instagrams-80s-trend",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Using the uploaded photo as the identity reference, recreate the person as they might have looked in the 1980s. Keep the facial identity recognizable and realistic. Give them an authentic voluminous 80s hairstyle and era-appropriate casual fashion. Place them in a cozy retro 1980s room with vintage posters, a boombox/cassette player, warm lamp lighting and subtle period details. Use warm analog colors, soft flash, fine film grain, slightly faded tones and a worn vintage photo-print texture. The result should look like a genuine candid 1980s photograph, not a modern image with a retro filter.",
+      "description": "Use this ChatGPT prompt to turn your photo into a classic 1980s retro portrait and recreate the viral “What would I look like in the 80's?” Instagram AI trend.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 119,
+      "view_count": 27902,
+      "copy_count": 13717,
+      "is_premium": false,
+      "published_at": "2026-09-08T22:57:58.747Z",
+      "images": [
+        {
+          "filename": "15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "local_path": "images/ai-photo-editing/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "original_url": "https://img.promptplum.com/promptImages/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/15127de9-87ad-41f7-b285-aa2103379572.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 04_09_37 AM"
+        },
+        {
+          "filename": "e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "local_path": "images/ai-photo-editing/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/e7333cde-5ffd-4bf9-9557-55efed4f76b0.webp",
+          "width": 1145,
+          "height": 1374,
+          "alt": "ChatGPT Image Sep 9, 2026, 04_08_27 AM"
+        },
+        {
+          "filename": "d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "local_path": "images/ai-photo-editing/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/d632f639-9907-4105-bcce-79856ce3051d.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "ChatGPT Image Sep 9, 2026, 06_07_25 AM"
+        }
+      ]
+    },
+    {
+      "id": "6aa0832d46d4207dc2bc6ef7",
+      "title": "Object Remover Gemini AI Prompt",
+      "slug": "remove-object-from-photo",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Remove only the [Person/object] from the [Center-right]. Reconstruct the covered objects, area, and background naturally so the edited area blends seamlessly with the original image. Preserve the main portrait exactly as it is—do not change the face, hair, clothing, lighting, framing, colors, or any other detail.",
+      "description": "Copy this powerful AI prompt to seamlessly remove any person or object from your photos. Reconstruct backgrounds perfectly while keeping portraits intact.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 3,
+      "view_count": 370,
+      "copy_count": 39,
+      "is_premium": true,
+      "published_at": "2026-09-08T21:50:37.345Z",
+      "images": [
+        {
+          "filename": "b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "local_path": "images/ai-photo-editing/b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/b59e2cc9-c268-4ff8-8b38-fabb77161df2.webp",
+          "width": 2816,
+          "height": 1536,
+          "alt": "Before and after of seamless object removal using AI prompt"
+        }
+      ]
+    },
+    {
+      "id": "6aa02eae46d4207dc2b43eed",
+      "title": "High-Contrast Suit Portrait",
+      "slug": "high-contrast-male-portrait-prompt",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a photorealistic cinematic black-and-white studio portrait of a man wearing a perfectly tailored black suit, a crisp white dress shirt, and a classic black tie. He has neatly styled, naturally detailed hair.\n\nHe faces the camera directly with a serious, calm, and confident expression, neutral lips, and intense eye contact. Tight chest-up composition, centered framing, and a straight-on camera angle.\n\nUse a dark, seamless clean studio background. A strong, soft key light positioned behind the subject creates dramatic rim and backlighting, producing a bright, clean outline around the hair and shoulders. A soft fill light from the left gently illuminates the face, while natural shadows fall across the left side of the face, creating striking high-contrast monochrome tones. Preserve realistic skin texture, natural facial details, and finely defined hair.\n\nShot with an 85mm portrait lens at f/1.6, producing a shallow depth of field and cinematic separation from the background. High dynamic range, refined tonal contrast, realistic lighting, ultra-detailed skin and hair texture, photorealistic quality, 8K resolution, vertical 4:5 aspect ratio.\n\nNegative Prompt: No facial distortion, no identity changes, no facial reshaping, no blurry or low-quality details, no anatomy errors, no flat lighting, no text, no watermark, and no unwanted background objects.",
+      "description": "Black and White Studio Portrait Prompt. Copy and paste this prompt to generate a highly realistic, high-contrast monochrome photograph of a handsome young man with curly hair wearing a classic black suit and tie.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 11,
+      "view_count": 674,
+      "copy_count": 495,
+      "is_premium": false,
+      "published_at": "2026-09-08T15:50:06.852Z",
+      "images": [
+        {
+          "filename": "86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "local_path": "images/ai-photo-editing/86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/86274829-aaa3-4eed-9969-805a0dddd58c.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Black and white studio portrait of a man in a suit AI Photo Editing Prompt. AI generated studio portrait of a handsome young man with curly hair wearing a classic black suit, white shirt, and black tie against a dark background."
+        }
+      ]
+    },
+    {
+      "id": "6a9897b146d4207dc21184d5",
+      "title": "Lord Krishna Blessing Boy AI Prompt",
+      "slug": "krishna-hand-flute-photo-editing-background",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Canon camera 8k HDR low-angle dramatic portrait of a young man with black sunglasses, wearing a beige damask-patterned shirt with sleeves rolled to the elbows and high-waisted black pleated wide-leg trousers, standing with one hand in pocket. A divine blue hand, adorned with gold and red bangles, rudraksha bead strands, a gold ring, and draped red cloth with a pearl tassel, holds a carved wooden bansuri flute above him, with a peacock feather behind it. Flowing sheer red chiffon ribbons swirl dynamically around both the flute and the man, creating strong movement. Background of weathered ancient stone fort ruins in warm beige tones, golden dust particles floating in cinematic light. Face same as reference image. Aspect ratio 4:5.",
+      "description": "Use this Janmashtami photo editing prompt to create a devotional portrait of a young man beneath Lord Krishna's blue hand holding a flute, at a fort backdrop.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 19,
+      "view_count": 2965,
+      "copy_count": 2013,
+      "is_premium": false,
+      "published_at": "2026-09-02T21:40:01.570Z",
+      "images": [
+        {
+          "filename": "9fb8eb62-9597-462f-b640-331a8efb4d08.webp",
+          "local_path": "images/ai-photo-editing/9fb8eb62-9597-462f-b640-331a8efb4d08.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9fb8eb62-9597-462f-b640-331a8efb4d08.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/9fb8eb62-9597-462f-b640-331a8efb4d08.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/9fb8eb62-9597-462f-b640-331a8efb4d08.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Krishna Blessing 3D Art AI Photo Editing Prompt. AI generated digital portrait of a modern boy under a giant blue hand holding a flute and peacock feather."
+        },
+        {
+          "filename": "f4809547-8f2c-49d0-8882-edb466075b07.webp",
+          "local_path": "images/ai-photo-editing/f4809547-8f2c-49d0-8882-edb466075b07.webp",
+          "original_url": "https://img.promptplum.com/promptImages/f4809547-8f2c-49d0-8882-edb466075b07.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/f4809547-8f2c-49d0-8882-edb466075b07.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/f4809547-8f2c-49d0-8882-edb466075b07.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI-generated fantasy portrait of a modern young man posing in ancient fort ruins with a large blue-skinned hand holding a decorated flute and red scarves floating above him."
+        },
+        {
+          "filename": "097d83dd-ba5e-43b9-a23f-4aeeb83c9203.webp",
+          "local_path": "images/ai-photo-editing/097d83dd-ba5e-43b9-a23f-4aeeb83c9203.webp",
+          "original_url": "https://img.promptplum.com/promptImages/097d83dd-ba5e-43b9-a23f-4aeeb83c9203.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/097d83dd-ba5e-43b9-a23f-4aeeb83c9203.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/097d83dd-ba5e-43b9-a23f-4aeeb83c9203.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Creative Lord Krishna Themed Photography AI Photo Editing Prompt. AI generated photo devotional portrait of a young indian man in a patterned shirt and sunglasses standing in a stone fort, with a divine blue hand holding a peacock feather flute over him."
+        }
+      ]
+    },
+    {
+      "id": "6a8f10ff46d4207dc23f401d",
+      "title": "Grey Suit Birthday Celebration Portrait",
+      "slug": "stylish-man-birthday-portrait-prompt",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "A photorealistic cinematic full-body birthday portrait of a stylish man seated confidently on a black wooden stool in a dark studio decorated for his birthday. He has naturally styled hair and is confidently looking at the camera.\n\nHe is wearing a sophisticated light-gray tailored suit with a white open-collar dress shirt, white Air Force sneakers, and a luxury wristwatch on his left wrist. He is seated upright on a tall black wooden stool, with one foot extended on the floor and the other bent and resting on the stool's lower support, facing the camera, holding an elegant champagne bottle with both hands in front of him. Behind him are large metallic silver foil balloons forming the number \"25,\" creating a celebratory backdrop. Colorful confetti falls throughout the scene and is scattered across the dark floor, with subtle metallic streamers along the sides. The background is deep black, creating strong contrast with the silver balloons, light-gray suit, and vibrant confetti.\n\nDramatic studio flash lighting with soft frontal illumination, crisp highlights on the metallic balloons, subtle rim lighting, realistic shadows, cinematic contrast, rich blacks, natural skin tones, and premium editorial color grading. Eye-level camera angle, centered composition, subject occupying most of the frame, full-body portrait, 85mm lens, f/2.0, shallow depth of field, sharp focus on the subject, sharp facial details, realistic fabric and skin texture, ultra-detailed, photorealistic, 8K resolution, high dynamic range, professional luxury birthday photography, vertical composition, 3:4 aspect ratio.\n\nNo identity change, no facial distortion, no anatomy errors, no blurry subject, no overexposure, no artificial-looking skin, and not both feet resting on the stool's support.\n\nThe subject is clearly recognizable.",
+      "description": "25th Birthday Portrait Prompt: Copy & Paste this Prompt to create a stylish portrait of a man in a grey suit with champagne, confetti, and silver \"25\" balloons.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 21,
+      "view_count": 2540,
+      "copy_count": 1590,
+      "is_premium": false,
+      "published_at": "2026-08-26T16:14:55.213Z",
+      "images": [
+        {
+          "filename": "52b0c24f-3eb7-46ca-9818-a1dd91222ed2.webp",
+          "local_path": "images/ai-photo-editing/52b0c24f-3eb7-46ca-9818-a1dd91222ed2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/52b0c24f-3eb7-46ca-9818-a1dd91222ed2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/52b0c24f-3eb7-46ca-9818-a1dd91222ed2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/52b0c24f-3eb7-46ca-9818-a1dd91222ed2.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_u5i6aau5i6aau5i6"
+        },
+        {
+          "filename": "5734350c-8f88-463e-b2bd-182413e61e0b.webp",
+          "local_path": "images/ai-photo-editing/5734350c-8f88-463e-b2bd-182413e61e0b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/5734350c-8f88-463e-b2bd-182413e61e0b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/5734350c-8f88-463e-b2bd-182413e61e0b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/5734350c-8f88-463e-b2bd-182413e61e0b.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_s8a799s8a799s8a7"
+        },
+        {
+          "filename": "331e6a9b-ebec-45ba-b20a-e96cc5703433.webp",
+          "local_path": "images/ai-photo-editing/331e6a9b-ebec-45ba-b20a-e96cc5703433.webp",
+          "original_url": "https://img.promptplum.com/promptImages/331e6a9b-ebec-45ba-b20a-e96cc5703433.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/331e6a9b-ebec-45ba-b20a-e96cc5703433.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/331e6a9b-ebec-45ba-b20a-e96cc5703433.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_zhkuxnzhkuxnzhku"
+        },
+        {
+          "filename": "0d9b6ac2-d07c-4c11-b717-69b278d1c49c.webp",
+          "local_path": "images/ai-photo-editing/0d9b6ac2-d07c-4c11-b717-69b278d1c49c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0d9b6ac2-d07c-4c11-b717-69b278d1c49c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/0d9b6ac2-d07c-4c11-b717-69b278d1c49c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/0d9b6ac2-d07c-4c11-b717-69b278d1c49c.webp",
+          "width": 1792,
+          "height": 2400,
+          "alt": "Gemini_Generated_Image_vd9wexvd9wexvd9w"
+        }
+      ]
+    },
+    {
+      "id": "6a8c5a7c4bbdbe2cf527d280",
+      "title": "Low Key Portrait of Man",
+      "slug": "cinematic-businessman-studio-portrait",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a hyper-realistic cinematic studio portrait of a man with naturally styled  hair, matching the reference face and identity accurately. He is standing straight 3/4 angled right and looking to the camera at eye level with a subtle confident and relaxed expression. He wears a sharp black tailored suit jacket over a slightly loose white dress shirt with the top buttons open, paired with a loosely hanging black necktie for a sophisticated yet effortless look.\nFrame the subject in a centered medium-to-full-body vertical composition, with his hands relaxed under his trouser pockets. Use a completely black seamless background for a dramatic high-contrast editorial aesthetic. Illuminate the face with Moody cinematic Lighting: soft frontal key light on the face, with a strong red backlight/edge light creating a glowing halo around the hair strands, ear, shoulder, and suit. A red side light illuminates the left side of the face, clothing, and hair.\nUltra-realistic skin texture, detailed hair, realistic fabric texture, deep blacks, controlled highlights, dramatic shadows, cinematic color grading, high contrast, professional fashion photography, 85mm lens, f/1.8, shallow depth of field, sharp focus on the eyes, HDR, 8K resolution, photorealistic, aspect ratio 4:5. No lighting error, no text, no watermark, no bad anatomy, no facial distortion, no identity change.",
+      "description": "Cinematic Studio Photography Prompt: Copy & paste this prompt to create a dramatic portrait of a grey-bearded man in a black suit and tie lit with moody red rim lighting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 20,
+      "view_count": 1073,
+      "copy_count": 1073,
+      "is_premium": false,
+      "published_at": "2026-08-24T14:51:40.226Z",
+      "images": [
+        {
+          "filename": "1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "local_path": "images/ai-photo-editing/1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/1d0e8f84-105c-4332-8ec6-17aa71700a63.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Black Suit with Dramatic Red Lighting AI Photo Editing Prompt. AI generated cinematic studio portrait of a mature grey-bearded man in a black suit and tie lit with moody red rim light against a black background."
+        }
+      ]
+    },
+    {
+      "id": "6a89cd694bbdbe2cf5ed83dd",
+      "title": "Walking Pose Red Background Portrait",
+      "slug": "men-walking-pose-fashion-prompt",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a photorealistic full-body studio portrait of a man captured naturally in a relaxed mid-stride walking pose against a deep crimson-red seamless studio background. Matching the reference image’s overall facial structure. Preserve the subject’s identity.\nComposition: Full-body portrait, subject positioned centred, entire head and body fully visible with both shoes clearly in frame. Clean, polished editorial composition, 4:5 aspect ratio.\nPose: The subject is captured mid-stride towards right. One leg is stepping forward while the other crosses naturally behind, creating a dynamic walking motion. His left hand is casually tucked into his trouser pocket, while his right hand hangs naturally by his side. Shoulders relaxed, posture confident and effortless. His face is turned toward the camera with a calm, confident, natural expression.\nOutfit: Black crew-neck T-shirt layered under an oversized off-white/cream baseball-style jersey featuring thin vertical black pinstripes, black piping along the V-shaped neckline, button placket, and sleeve cuffs. Loose black cargo-style pants with multiple utility pockets, paired with black-and-white low-top sneakers.\nBackground: A rich deep crimson-red seamless studio backdrop with a subtle gradient, slightly brighter behind the subject and gradually darker toward the edges. Clean, minimal studio environment with no visible props or distractions.\nLighting: Soft, warm professional studio lighting illuminating the subject evenly, with gentle highlights on the face and clothing and subtle natural shadows for depth. Cinematic yet clean editorial lighting.\nCamera & Quality: Professional fashion editorial photography, eye-level camera, 85mm portrait lens, f2.0, sharp subject detail, realistic skin texture, accurate clothing textures, high dynamic range, photorealistic, ultra-detailed, 8K quality.\nNegative Prompt: Static standing pose, distorted anatomy, unrealistic proportions, blurry details, plastic skin, harsh shadows, text, logos, watermark, additional people.",
+      "description": "Streetwear Fashion Photography Prompt: Copy & paste this prompt to create a studio photo of a man in a cream pinstripe baseball jersey and black cargo pants walking against a bold maroon background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 28,
+      "view_count": 364,
+      "copy_count": 482,
+      "is_premium": false,
+      "published_at": "2026-08-22T16:25:13.902Z",
+      "images": [
+        {
+          "filename": "60d864c7-117c-411b-99b2-6dd726f43d47.jpeg",
+          "local_path": "images/ai-photo-editing/60d864c7-117c-411b-99b2-6dd726f43d47.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/60d864c7-117c-411b-99b2-6dd726f43d47.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/60d864c7-117c-411b-99b2-6dd726f43d47.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/60d864c7-117c-411b-99b2-6dd726f43d47.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Pinstripe Baseball Jersey Fashion Photo AI Photo Editing Prompt. AI generated studio fashion photograph of a man in a cream pinstripe jersey, black t-shirt, and black cargo pants walking against a maroon backdrop."
+        }
+      ]
+    },
+    {
+      "id": "6a8483444bbdbe2cf5702108",
+      "title": "Rule Your Own Story",
+      "slug": "men-attitude-status-image-prompt",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a high-end cinematic fashion editorial portrait of a stylish man wearing a monochromatic deep-red outfit: an oversized red hooded jacket layered over a red top and tailored red trousers. He is captured in a dynamic three-quarter pose, with his body turned away from the camera while looking back over his shoulder toward the viewer. His head is subtly turned toward the camera, creating a confident, intense editorial gaze. His naturally tousled hair with a few loose strands falling across his forehead.\nThe oversized jacket flows dramatically behind him, creating strong movement and visual depth. One arm extends naturally downward and forward, with a metallic chain bracelet visible on his wrist, while the other arm remains integrated naturally into the flowing jacket. The pose feels spontaneous, powerful, and fashion-forward.\nUse a rich dark burgundy-red studio background that closely complements the red clothing, creating a bold monochromatic visual aesthetic. Dramatic soft studio lighting with controlled highlights and deep shadows emphasizes the facial features, fabric texture, folds, and silhouette. Premium luxury fashion campaign aesthetic, cinematic contrast, sophisticated color grading, realistic skin texture, highly detailed fabric, natural anatomy, photorealistic finish.\nComposition: vertical medium-body fashion portrait, subject positioned slightly right of center with generous negative space on the left for typography. Eye-level camera perspective, dynamic three-quarter rear angle, strong silhouette, balanced framing, editorial magazine campaign layout, 4:5 aspect ratio.\nAdd elegant bold condensed white typography on the left side reading “DON’T FOLLOW,” and subtle supporting small text beneath: “LEAD YOUR OWN WAY. RULE YOUR OWN STORY.” Clean premium graphic design, refined spacing, strong visual hierarchy, luxury fashion advertising aesthetic. Ensure all typography remains entirely within the empty background area on the left and never overlaps, covers, or is placed on top of the subject.\nUltra-photorealistic, cinematic, high-end fashion photography, crisp details, realistic skin and hair, natural fabric texture, dramatic composition, premium editorial finish, 8K details, aspect ratio 4:5.\nNegative prompt: distorted anatomy, malformed hands, duplicate body parts, distorted face, plastic skin, blurry details, low resolution, overexposure, harsh artificial skin, awkward pose, incorrect clothing structure, cluttered background, warped typography, misspelled text, cropped subject.",
+      "description": "Attitude Portrait Prompt: Copy & Paste this Prompt to create a bold studio portrait of a confident man in a red outfit featuring motivational typography.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 40,
+      "view_count": 520,
+      "copy_count": 741,
+      "is_premium": false,
+      "published_at": "2026-08-18T16:07:32.006Z",
+      "images": [
+        {
+          "filename": "27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "local_path": "images/ai-photo-editing/27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/27ad31e4-3dfb-4ae8-86d2-b39b988826d3.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in Red in Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a man in a red outfit looking back, featuring large 'DON'T FOLLOW' text and smaller motivational phrases."
+        }
+      ]
+    },
+    {
+      "id": "6a8091314bbdbe2cf5145f08",
+      "title": "Dark Moody Portrait with Gold Ring Design",
+      "slug": "man-city-reflection-sunglasses-portrait",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create an ultra-realistic, premium cinematic portrait of a handsome man, preserving the exact facial features, identity, skin tone, and natural facial proportions of the reference image. He is wearing stylish black rectangular sunglasses with realistic reflections of a modern city skyline, along with a rugged black high-collar utility jacket with visible zippers, metal snaps, and detailed fabric texture.\nComposition: Tight vertical close-up portrait, with the body angled in a 3/4 pose while he looks toward the camera. The subject is centered and fills most of the frame, with the head and shoulders prominently visible. Eye-level camera perspective, strong facial presence, and balanced framing.\nBackground: Dramatic dark urban cityscape blended with an artistic distressed circular golden-bronze halo, grunge paint splashes, black textured brush strokes, subtle skyscraper silhouettes, and atmospheric cinematic depth.\nLighting: Warm golden rim light from the left and behind, dramatic directional highlights across the face and hair, deep cinematic shadows, rich amber and black color palette, subtle glow and atmospheric haze.\nStyle: Photorealistic luxury editorial portrait combined with sophisticated urban grunge artwork, highly detailed skin pores, realistic hair strands, sunglasses reflections, jacket material, cinematic contrast, premium color grading, natural film grain, HDR, ultra-detailed, 8K resolution, vertical composition, 4:5 aspect ratio.\nNegative Prompt:\ncartoon, anime, distorted face, altered identity, unnatural skin, plastic skin, bad anatomy, asymmetrical eyes, blurry face, low resolution, warped reflections, text, watermark, logo, unwanted typography, artificial-looking background.",
+      "description": "Cinematic Portrait Photography Prompt: Copy & Paste this Prompt to create a moody digital portrait of a bearded man in a black jacket, wearing sunglasses that reflect a city skyline, framed by a golden circular design against a dark grunge background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 29,
+      "view_count": 544,
+      "copy_count": 799,
+      "is_premium": false,
+      "published_at": "2026-08-15T16:17:53.617Z",
+      "images": [
+        {
+          "filename": "55022c04-4f11-4572-b4e8-08d4e7e79a7b.jpeg",
+          "local_path": "images/ai-photo-editing/55022c04-4f11-4572-b4e8-08d4e7e79a7b.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/55022c04-4f11-4572-b4e8-08d4e7e79a7b.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/55022c04-4f11-4572-b4e8-08d4e7e79a7b.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/55022c04-4f11-4572-b4e8-08d4e7e79a7b.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Bearded Man in Black Jacket with City Reflection Sunglasses AI Photo Editing Prompt. AI generated digital portrait of a bearded man wearing black sunglasses reflecting a city skyline, dressed in a black jacket against a dark background with a golden circular design and grunge splatter effects."
+        }
+      ]
+    },
+    {
+      "id": "6a7db16e4bbdbe2cf5c9fcda",
+      "title": "Impasto Oil Portrait of a Handsome Man",
+      "slug": "expressive-brushstroke-male-portrait",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "A highly detailed, expressive oil painting portrait of a man shown in right-facing three-quarter profile, with naturally styled hair, round vintage eyeglasses. He wears an olive-green rugged jacket. His expression is calm, thoughtful. Classic fine-art composition with the head and shoulders filling the frame, centered subject, natural facial proportions, and strong painterly character. Thick impasto brushstrokes, visible layered oil paint texture, expressive palette-knife details, warm beige and muted olive tones, soft neutral abstract background with swirling circular brushwork, subtle directional lighting, realistic skin tones, deep shadows, rich highlights, museum-quality traditional oil painting aesthetic, highly textured canvas, sophisticated classical portraiture, ultra-detailed, photorealistic facial structure blended with expressive painterly strokes, 8K quality, vertical composition, no text, no watermark. aspect ratio 4:5.",
+      "description": "Fine Art Oil Painting Prompt. Copy & paste this prompt to create a beautiful, expressive impasto oil painting portrait of a bearded man with glasses in an olive jacket.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 2906,
+      "copy_count": 1657,
+      "is_premium": false,
+      "published_at": "2026-08-13T11:58:38.812Z",
+      "images": [
+        {
+          "filename": "70163d28-7f74-42a5-ae36-7c4dc3a1d588.webp",
+          "local_path": "images/ai-photo-editing/70163d28-7f74-42a5-ae36-7c4dc3a1d588.webp",
+          "original_url": "https://img.promptplum.com/promptImages/70163d28-7f74-42a5-ae36-7c4dc3a1d588.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/70163d28-7f74-42a5-ae36-7c4dc3a1d588.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/70163d28-7f74-42a5-ae36-7c4dc3a1d588.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_batjsebatjsebatj"
+        },
+        {
+          "filename": "ea35c153-be4f-4a59-8062-d169aacc69f1.webp",
+          "local_path": "images/ai-photo-editing/ea35c153-be4f-4a59-8062-d169aacc69f1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ea35c153-be4f-4a59-8062-d169aacc69f1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/ea35c153-be4f-4a59-8062-d169aacc69f1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/ea35c153-be4f-4a59-8062-d169aacc69f1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_uwjtgouwjtgouwjt"
+        },
+        {
+          "filename": "740414b8-e540-4287-b2c9-4ef77ac2f70b.webp",
+          "local_path": "images/ai-photo-editing/740414b8-e540-4287-b2c9-4ef77ac2f70b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/740414b8-e540-4287-b2c9-4ef77ac2f70b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/740414b8-e540-4287-b2c9-4ef77ac2f70b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/740414b8-e540-4287-b2c9-4ef77ac2f70b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Gemini_Generated_Image_v1wlnwv1wlnwv1wl"
+        },
+        {
+          "filename": "a0d45182-8ca3-442b-a069-f73e03623a3b.jpg",
+          "local_path": "images/ai-photo-editing/a0d45182-8ca3-442b-a069-f73e03623a3b.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/a0d45182-8ca3-442b-a069-f73e03623a3b.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/a0d45182-8ca3-442b-a069-f73e03623a3b.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/a0d45182-8ca3-442b-a069-f73e03623a3b.jpg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Oil painting portrait of a bearded man with glasses in an olive jacket AI Photo Editing Prompt. AI generated oil painting portrait of a handsome bearded man wearing round glasses and a textured olive jacket with thick impasto brushstrokes."
+        }
+      ]
+    },
+    {
+      "id": "6a7ab9ca4bbdbe2cf58074ec",
+      "title": "Aesthetic Sad Boy Rain Photo Prompt",
+      "slug": "sad-boy-rain-photo",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a highly realistic, premium 8K cinematic full-body portrait using the uploaded reference photo as the identity reference. Preserve the subject’s exact facial identity, facial structure, skin tone, hairstyle, grooming, beard details, and natural appearance. Do not alter, beautify, or stylize the face unnaturally.\nRecreate the scene with the same overall composition, camera angle, pose, environment, lighting, mood, perspective, and framing as the reference image.\n\nSubject & Pose\nA young man is seated naturally on a classic dark wooden bench with black metal supports in a city park during a rainy evening. Position him slightly toward the right side of the frame.\nHe sits in a relaxed, thoughtful posture with his upper body upright but comfortable. Both hands rest naturally near his lap, with one hand gently placed over the other. His legs are naturally spaced apart, with both feet firmly planted on the wet pavement.\nHis head is slightly raised and turned to the side as he looks upward toward the rainy sky. His expression should feel calm, introspective, slightly emotional, and natural, without exaggerated posing.\n\nOutfit\nDress him in:\n\nPremium light-gray oversized casual jacket/shacket with realistic fabric texture\nSimple black crew-neck T-shirt\nFitted black trousers\nClean, minimal white low-top sneakers\nRender realistic fabric folds, stitching, seams, wrinkles, thickness, and natural clothing proportions.\n\nEnvironment\nSet the scene in a beautiful, atmospheric urban park during rainfall.\nPlace a tall vintage black street lamp on the LEFT side of the frame, featuring an elegant classic lantern design with a warm yellow-orange glow. The lamp should provide a subtle warm visual contrast against the cool blue-gray rainy environment.\nThe background should include a dark cloudy blue-gray overcast sky, soft mist, blurred trees, distant park scenery, and subtle warm bokeh lights. Keep the background strongly defocused with cinematic depth of field while retaining enough recognizable detail to establish the park setting.\n\nRain & Ground\nShow fine, natural rain streaks throughout the scene with a convincing wet atmosphere. Add subtle water droplets and moisture to the subject’s clothing, bench, and surroundings.\nThe pavement must appear wet and reflective, with shallow puddles naturally reflecting the glowing street lamp and distant ambient lights. Include scattered wet autumn leaves, especially across the foreground.\n\nComposition\nVertical 4:5 aspect ratio\nFull-body seated portrait\nSubject positioned slightly right of center\nStreet lamp clearly visible on the left\nGenerous negative space above the subject\nCinematic low-to-medium camera angle\nNatural perspective and realistic scale\nBalanced visual separation between the subject and street lamp\nMatch the reference image’s composition and framing as closely as possible\nLighting & Color\nUse dramatic yet natural cinematic rainy-evening lighting. Combine cool, desaturated blue-gray ambient light with the warm golden-orange illumination from the street lamp.\nUse soft directional light across the face, subtle rim lighting around the subject, realistic shadows, controlled highlights, moderate contrast, and sophisticated cinematic color grading.\nAvoid excessive orange tones, crushed shadows, artificial HDR, or overly dramatic AI-style lighting.\n\nCamera & Photorealism\nProfessional full-frame DSLR/mirrorless photography, 50mm lens look, realistic optical depth of field, tack-sharp focus on the subject and face, softly blurred foreground and background, and natural optical bokeh.\nPreserve:\n\nRealistic skin pores and natural skin texture\nIndividual hair strands\nDetailed beard and grooming texture\nAccurate fabric fibers\nNatural hands and fingers\nRealistic feet and footwear\nCorrect anatomy and body proportions\nPhysically realistic reflections, shadows, rain, and wet surfaces\nThe final result should look like a luxury fashion/editorial photograph captured by a professional photographer on a rainy evening — photorealistic, cinematic, sophisticated, atmospheric, natural, emotionally subtle, and highly detailed.\nNo artificial AI appearance, plastic skin, facial distortion, incorrect anatomy, malformed hands, unnatural body proportions, excessive smoothing, fake reflections, or exaggerated cinematic effects.\nAspect ratio: 4:5.",
+      "description": "Use this cinematic rain photography prompt to create a moody portrait of a thoughtful man sitting on a wet park bench under a glowing streetlamp.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 32,
+      "view_count": 2203,
+      "copy_count": 2011,
+      "is_premium": false,
+      "published_at": "2026-08-22T02:58:05.138Z",
+      "images": [
+        {
+          "filename": "783aad6d-066d-4871-b99d-1b8ecd61de63.webp",
+          "local_path": "images/ai-photo-editing/783aad6d-066d-4871-b99d-1b8ecd61de63.webp",
+          "original_url": "https://img.promptplum.com/promptImages/783aad6d-066d-4871-b99d-1b8ecd61de63.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/783aad6d-066d-4871-b99d-1b8ecd61de63.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/783aad6d-066d-4871-b99d-1b8ecd61de63.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Moody Rainy Evening Portrait AI Photo Editing Prompt. AI generated cinematic portrait of a thoughtful young man sitting on a park bench in the rain."
+        },
+        {
+          "filename": "42bc13e8-70ff-4927-a3a1-12d91261e536.webp",
+          "local_path": "images/ai-photo-editing/42bc13e8-70ff-4927-a3a1-12d91261e536.webp",
+          "original_url": "https://img.promptplum.com/promptImages/42bc13e8-70ff-4927-a3a1-12d91261e536.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/42bc13e8-70ff-4927-a3a1-12d91261e536.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/42bc13e8-70ff-4927-a3a1-12d91261e536.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cinematic Portrait on Park Bench AI Photo Editing Prompt. AI generated photorealistic photograph of a man in a grey shacket and white sneakers sitting on a wooden bench in a rainy park next to a glowing vintage lamp post."
+        },
+        {
+          "filename": "830576eb-b5b2-470b-85b0-20273214ebfb.webp",
+          "local_path": "images/ai-photo-editing/830576eb-b5b2-470b-85b0-20273214ebfb.webp",
+          "original_url": "https://img.promptplum.com/promptImages/830576eb-b5b2-470b-85b0-20273214ebfb.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/830576eb-b5b2-470b-85b0-20273214ebfb.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/830576eb-b5b2-470b-85b0-20273214ebfb.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Cinematic Rainy Bench Portrait AI Photo Prompt. AI generated cinematic portrait of a curly-haired young man in a grey jacket sitting thoughtfully on a park bench in the rain under a glowing lamp post."
+        }
+      ]
+    },
+    {
+      "id": "6a7a742b4bbdbe2cf57b4b76",
+      "title": "Couple Photo Editing ChatGPT Prompt",
+      "slug": "viral-instagram-couple-photo",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Use the uploaded male and female images as identity references only. Preserve both faces, hairstyles, skin tone, and facial features accurately. Create an ultra-realistic vertical close-up indoor portrait where the male stands in the foreground on the left, wearing a light white/pink textured linen shirt. Only part of his face is visible in a cinematic crop. The female stands closely behind him, playfully peeking over his shoulder with only one expressive eye and part of her forehead visible. Bright minimal room, large window, soft natural daylight, creamy skin tones, shallow depth of field, 85mm lens, f/1.8, DSLR-quality, realistic fabric texture, cinematic color grading, Instagram aesthetic, HDR, 8K, photorealistic, clean background. Negative: blurry, distorted anatomy, duplicate people, watermark, text, logo, CGI, cartoon.",
+      "description": "Simply open ChatGPT, upload your photo with your partner's, and paste this viral Instagram prompt to create a candid couple photo peeking behind the shoulder.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 112,
+      "view_count": 10986,
+      "copy_count": 12424,
+      "is_premium": false,
+      "published_at": "2026-08-11T01:00:27.827Z",
+      "images": [
+        {
+          "filename": "ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "local_path": "images/ai-photo-editing/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
+          "width": 1023,
+          "height": 1537,
+          "alt": "viral-instagram-couple-editing-ai-prompt-1"
+        },
+        {
+          "filename": "8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "local_path": "images/ai-photo-editing/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
+          "width": 1023,
+          "height": 1537,
+          "alt": "viral-instagram-couple-editing-ai-prompt-6"
+        },
+        {
+          "filename": "ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "local_path": "images/ai-photo-editing/ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "original_url": "https://img.promptplum.com/promptImages/ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/ae941492-494a-4b99-b7c6-030b9607442a.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "viral-instagram-couple-editing-ai-prompt-4"
+        },
+        {
+          "filename": "cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "local_path": "images/ai-photo-editing/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "original_url": "https://img.promptplum.com/promptImages/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
+          "width": 1023,
+          "height": 1537,
+          "alt": "viral-instagram-couple-editing-ai-prompt-3"
+        },
+        {
+          "filename": "e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "local_path": "images/ai-photo-editing/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
+          "width": 1024,
+          "height": 1536,
+          "alt": "Candid couple photography AI photo editing prompt. AI generated portrait of a boyfriend in a white shirt with his girlfriend playfully peeking behind his collar."
+        },
+        {
+          "filename": "e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "local_path": "images/ai-photo-editing/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
+          "width": 1049,
+          "height": 1500,
+          "alt": "Candid couple photography AI photo editing prompt. AI generated close-up selfie of a boyfriend in a pink shirt with his girlfriend peeking behind his shoulder.\""
+        }
+      ]
+    },
+    {
+      "id": "6a7754cf4bbdbe2cf535761c",
+      "title": "Warm Studio Light Male Portrait",
+      "slug": "moody-portrait-photography-men",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a cinematic, ultra-realistic editorial portrait photograph of a man wearing a premium textured light beige/cream crew-neck sweater and round, thin-metal-framed eyeglasses with lightly tinted lenses. He has, neatly styled hair, with individual strands clearly visible. The subject is shown in a tight chest-up portrait, positioned slightly right of center, with his body facing mostly toward the camera while his head is turned subtly toward the right side of the frame. His expression is calm, serious, and slightly contemplative, with his gaze directed off-camera to the right. Use dramatic low-key cinematic lighting. A strong warm golden-orange key light from the left side of the frame illuminates the left side of his face, ear, hair, neck, and sweater, creating rich amber highlights and deep natural shadows. The right side of his face gradually falls into shadow, producing a striking chiaroscuro effect. Preserve realistic skin texture, subtle pores, fine facial details, natural imperfections, and detailed hair rendering. The background is extremely dark, nearly black, with very shallow depth of field and subtle warm out-of-focus light highlights. In the extreme foreground on the left side, include the blurred silhouette of another person, visible only as an indistinct very dark shoulder/head shape, creating a layered over-the-shoulder cinematic composition. Keep this foreground figure heavily out of focus so the main subject remains the clear visual focus.\nCamera: eye-level perspective, 85mm portrait lens, approximately f/2, shallow depth of field, natural perspective, cinematic bokeh. Composition: vertical portrait, chest-up framing, main subject dominant in frame, realistic proportions.\nStyle: premium cinematic photography, intimate film still, warm moody color grading, realistic skin and fabric texture, soft highlight roll-off, deep blacks, high dynamic range, photorealistic, ultra-detailed, 8K quality. Aspect ratio 4:5.",
+      "description": "Cinematic Portrait Photography Prompt: Copy & paste this prompt to create a moody studio photograph of a pensive man with round glasses and a beige sweater.",
+      "ai_tools": [
+        "ChatGPT"
+      ],
+      "like_count": 66,
+      "view_count": 3219,
+      "copy_count": 3397,
+      "is_premium": false,
+      "published_at": "2026-08-08T16:09:51.927Z",
+      "images": [
+        {
+          "filename": "a97ff52d-78f0-403a-a1b7-1bd2da0fb8a4.webp",
+          "local_path": "images/ai-photo-editing/a97ff52d-78f0-403a-a1b7-1bd2da0fb8a4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/a97ff52d-78f0-403a-a1b7-1bd2da0fb8a4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/a97ff52d-78f0-403a-a1b7-1bd2da0fb8a4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/a97ff52d-78f0-403a-a1b7-1bd2da0fb8a4.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "man-cream-sweater-round-glasses-chiaroscuro-lighting-portrait-ai-prompt-by-promptplum-4"
+        },
+        {
+          "filename": "9f13bc28-adde-41b0-ab91-b6e9a9ef3b9c.webp",
+          "local_path": "images/ai-photo-editing/9f13bc28-adde-41b0-ab91-b6e9a9ef3b9c.webp",
+          "original_url": "https://img.promptplum.com/promptImages/9f13bc28-adde-41b0-ab91-b6e9a9ef3b9c.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/9f13bc28-adde-41b0-ab91-b6e9a9ef3b9c.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/9f13bc28-adde-41b0-ab91-b6e9a9ef3b9c.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "man-cream-sweater-round-glasses-chiaroscuro-lighting-portrait-ai-prompt-by-promptplum-8"
+        },
+        {
+          "filename": "56d76fc1-cc32-4d01-a841-14bdad2bc76b.webp",
+          "local_path": "images/ai-photo-editing/56d76fc1-cc32-4d01-a841-14bdad2bc76b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/56d76fc1-cc32-4d01-a841-14bdad2bc76b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/56d76fc1-cc32-4d01-a841-14bdad2bc76b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/56d76fc1-cc32-4d01-a841-14bdad2bc76b.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "man-cream-sweater-round-glasses-chiaroscuro-lighting-portrait-ai-prompt-by-promptplum-7"
+        },
+        {
+          "filename": "27bd6d90-fa17-44c9-9c30-2043edd2a207.webp",
+          "local_path": "images/ai-photo-editing/27bd6d90-fa17-44c9-9c30-2043edd2a207.webp",
+          "original_url": "https://img.promptplum.com/promptImages/27bd6d90-fa17-44c9-9c30-2043edd2a207.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/27bd6d90-fa17-44c9-9c30-2043edd2a207.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/27bd6d90-fa17-44c9-9c30-2043edd2a207.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "man-cream-sweater-round-glasses-chiaroscuro-lighting-portrait-ai-prompt-by-promptplum-6"
+        },
+        {
+          "filename": "bb37c29c-7bff-4353-a2c8-0a879b3826b6.webp",
+          "local_path": "images/ai-photo-editing/bb37c29c-7bff-4353-a2c8-0a879b3826b6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/bb37c29c-7bff-4353-a2c8-0a879b3826b6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/bb37c29c-7bff-4353-a2c8-0a879b3826b6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/bb37c29c-7bff-4353-a2c8-0a879b3826b6.webp",
+          "width": 1122,
+          "height": 1402,
+          "alt": "man-cream-sweater-round-glasses-chiaroscuro-lighting-portrait-ai-prompt-by-promptplum-5"
+        },
+        {
+          "filename": "901c134e-88fd-4948-9aed-c1d0c81d8e79.jpg",
+          "local_path": "images/ai-photo-editing/901c134e-88fd-4948-9aed-c1d0c81d8e79.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/901c134e-88fd-4948-9aed-c1d0c81d8e79.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/901c134e-88fd-4948-9aed-c1d0c81d8e79.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/901c134e-88fd-4948-9aed-c1d0c81d8e79.jpg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man with Round Glasses in a Cinematic Portrait AI Photo Editing Prompt. AI generated cinematic studio portrait of a pensive man wearing round, gold-rimmed glasses and a beige knit sweater, looking to the right with a dramatic warm glow, with a blurred silhouette in the immediate left foreground."
+        }
+      ]
+    },
+    {
+      "id": "6a735fe64bbdbe2cf5d6e0be",
+      "title": "Stylish Man in a Golden Hour Flower Garden",
+      "slug": "man-portrait-golden-hour-garden",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a photorealistic, cinematic medium portrait of a handsome, man standing outdoors during golden hour. He has natural hair. He is dressed in a premium  button-up shirt featuring a smooth yellow-to-charcoal black vertical gradient fade, sleeves rolled up, worn untucked with the top two buttons open for a relaxed, modern look. He pairs it with tailored black trousers. Accessories include round, vintage-style sunglasses with black lenses and thin wire frames, and a wristwatch with a black leather band on his left arm. He is standing with a confident, stoic posture, left hand casually tucked into his pocket, his head turned to his right, looking intensely off-camera. The background features a dense, lush wall of vibrant magenta and pink bougainvillea flowers on the right, contrasting with a softly blurred paved pathway and green tropical foliage on the left. Ethereal golden hour lighting with a strong, warm sun flare from the top left creating a glowing rim light on his hair and shoulder. Shot on an eye-level, 85mm portrait lens, f/1.4 aperture, shallow depth of field, creamy bokeh, 8k resolution, razor-sharp focus on the subject, masterpiece, ultra-detailed skin and hair texture, highly detailed, aspect ratio 4:5.",
+      "description": "Cinematic Men’s Fashion Photography Prompt: Copy and paste this prompt to create a stylish outdoor portrait of a young man wearing sunglasses and a gradient shirt beside vibrant pink flowers in warm golden-hour light.",
+      "ai_tools": [
+        "ChatGPT",
+        "Gemini"
+      ],
+      "like_count": 34,
+      "view_count": 691,
+      "copy_count": 778,
+      "is_premium": false,
+      "published_at": "2026-08-05T16:08:06.915Z",
+      "images": [
+        {
+          "filename": "8e7fff7f-a1fa-4a05-8f17-7ff02591aace.jpeg",
+          "local_path": "images/ai-photo-editing/8e7fff7f-a1fa-4a05-8f17-7ff02591aace.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/8e7fff7f-a1fa-4a05-8f17-7ff02591aace.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/8e7fff7f-a1fa-4a05-8f17-7ff02591aace.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/8e7fff7f-a1fa-4a05-8f17-7ff02591aace.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Stylish Man in Flower Garden Fashion Portrait AI Photo Editing Prompt. AI generated cinematic fashion portrait of a stylish young man wearing sunglasses and a gradient shirt beside vibrant pink flowers in warm golden-hour light."
+        }
+      ]
+    },
+    {
+      "id": "6a6ce48d4bbdbe2cf5333673",
+      "title": "Large 3D Name Sign Portrait",
+      "slug": "boy-3d-glowing-name-letters-photo",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a premium, ultra-realistic full-body studio fashion portrait of the uploaded man, preserving his natural facial identity, skin tone, age, hairstyle and existing facial hair. Dress him in a relaxed deep chocolate-brown button-down shirt made from soft brushed cotton with an open collar, rolled sleeves and natural folds, paired with tapered black trousers, clean white low-top sneakers, black rectangular sunglasses and a silver wristwatch. Position him closely beside the installation with relaxed shoulders, ankles casually crossed, one hand inside his trouser pocket and the other holding a second pair of thin-framed sunglasses near his waist. His body faces slightly toward the camera while his head turns naturally toward camera right with a calm, confident expression.\nTo his left, place separate oversized three-dimensional letters vertically stacked in open space, spelling “NAME” exactly from top to bottom. Each letter must have a smooth, continuous warm-white illuminated front face with thick black extruded sides, supported invisibly above a minimal black floor base. Do not use a backing panel, frame, column or visible marquee bulbs. Make the complete letter installation approximately the same height as the subject.\nUse a seamless deep-black studio background and dark reflective floor. Let the illuminated letters act as the dominant warm side light, casting a soft amber glow across the subject, outlining his clothing and creating a concentrated reflection beneath the installation. Add only subtle frontal fill to preserve natural facial detail and rich shadows. Eye-level 50mm perspective, realistic proportions, cinematic low-key editorial photography, clean composition without additional text or logos, 4:5 or 3:4 aspect ratio. Letters vertically stacked, No gap between the letters.",
+      "description": "Custom 3D Name Prompt: Use this prompt to create a realistic studio photo of a stylish boy standing next to large, glowing 3D letters featuring your own name.",
+      "ai_tools": [
+        "Gemini",
+        "ChatGPT"
+      ],
+      "like_count": 59,
+      "view_count": 4708,
+      "copy_count": 4331,
+      "is_premium": false,
+      "published_at": "2026-07-31T18:08:13.309Z",
+      "images": [
+        {
+          "filename": "3d2dee56-2fb2-4bfe-9f6f-94295048842b.webp",
+          "local_path": "images/ai-photo-editing/3d2dee56-2fb2-4bfe-9f6f-94295048842b.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3d2dee56-2fb2-4bfe-9f6f-94295048842b.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/3d2dee56-2fb2-4bfe-9f6f-94295048842b.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/3d2dee56-2fb2-4bfe-9f6f-94295048842b.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "3D Glowing Typography Portrait AI Photo Editing Prompt. AI generated studio portrait of a man in sunglasses and a brown shirt standing beside large glowing letters spelling NAME."
+        },
+        {
+          "filename": "3e37d4df-e183-4a04-aee6-e0a14243be41.webp",
+          "local_path": "images/ai-photo-editing/3e37d4df-e183-4a04-aee6-e0a14243be41.webp",
+          "original_url": "https://img.promptplum.com/promptImages/3e37d4df-e183-4a04-aee6-e0a14243be41.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/3e37d4df-e183-4a04-aee6-e0a14243be41.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/3e37d4df-e183-4a04-aee6-e0a14243be41.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Glowing 3D Letters Studio Photography AI Photo Editing Prompt. AI generated studio portrait of a stylish young man with sunglasses standing beside large glowing letters spelling JACK."
+        },
+        {
+          "filename": "19ef2baf-ba44-47ba-a10a-00fdce112019.webp",
+          "local_path": "images/ai-photo-editing/19ef2baf-ba44-47ba-a10a-00fdce112019.webp",
+          "original_url": "https://img.promptplum.com/promptImages/19ef2baf-ba44-47ba-a10a-00fdce112019.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/19ef2baf-ba44-47ba-a10a-00fdce112019.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/19ef2baf-ba44-47ba-a10a-00fdce112019.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated studio portrait of a dark-haired man in a brown shirt and black pants wearing sunglasses and holding a second pair, standing next to a large illuminated sign spelling out LIAM."
+        },
+        {
+          "filename": "39f404bb-c03b-4751-8f6e-09013f1b6d4e.webp",
+          "local_path": "images/ai-photo-editing/39f404bb-c03b-4751-8f6e-09013f1b6d4e.webp",
+          "original_url": "https://img.promptplum.com/promptImages/39f404bb-c03b-4751-8f6e-09013f1b6d4e.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/39f404bb-c03b-4751-8f6e-09013f1b6d4e.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/39f404bb-c03b-4751-8f6e-09013f1b6d4e.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Leaning on Illuminated Name Sign Fashion Portrait AI Prompt. AI generated studio portrait of a man in a brown shirt and black pants holding sunglasses next to stacked, glowing letters spelling 'James'."
+        },
+        {
+          "filename": "fc9aa6ff-4f1d-4af5-bdf8-8bfc56284397.webp",
+          "local_path": "images/ai-photo-editing/fc9aa6ff-4f1d-4af5-bdf8-8bfc56284397.webp",
+          "original_url": "https://img.promptplum.com/promptImages/fc9aa6ff-4f1d-4af5-bdf8-8bfc56284397.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/fc9aa6ff-4f1d-4af5-bdf8-8bfc56284397.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/fc9aa6ff-4f1d-4af5-bdf8-8bfc56284397.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Fashion Studio Photography with 'DEVIL' Sign AI Photo Editing Prompt. AI generated studio portrait of a young man in a brown shirt and sunglasses standing next to a large illuminated vertical sign spelling 'DEVIL'."
+        }
+      ]
+    },
+    {
+      "id": "6a593062a3af6f1220c7e351",
+      "title": "Stylish Boy Prompt for Instagram",
+      "slug": "romantic-boy-love-bokeh-photo",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create an ultra-realistic cinematic portrait of a stylish young man sitting cross-legged in a grassy field. He is wearing a black-and-grey plaid button-up shirt with rolled sleeves, faded grey jeans, a black smartwatch, a trendy bracelet, and trendy black sunglasses. Give him messy, naturally styled hair, and a confident smile. One hand gently touches the side of his neck as he looks slightly away from the camera.\nUse dramatic orange-and-black colour grading with a selective-colour effect: keep the man outfit, grass, and most of the surroundings in soft monochrome, while the orange flowers, foliage, glowing hearts, skin tone and decorative elements remain vibrant. Add floating transparent soap bubbles, warm orange heart-shaped bokeh, and a romantic sunset atmosphere.\nPlace a small, cute, hand-drawn cartoon couple kissing on the left side, with elegant handwritten “Love” typography and glowing hearts. Keep the background creamy and softly blurred, with sharp focus on the subject, realistic skin texture, soft sunset lighting, premium DSLR fashion photography, an 85mm portrait-lens look, shallow depth of field, and a vertical 4:5 composition.",
+      "description": "Romantic Portrait Photography Prompt: Use this prompt to create a realistic photograph of a stylish boy sitting in a sunset meadow with floating love bubbles.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 90,
+      "view_count": 9750,
+      "copy_count": 7692,
+      "is_premium": false,
+      "published_at": "2026-08-04T13:42:34.213Z",
+      "images": [
+        {
+          "filename": "8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
+          "local_path": "images/ai-photo-editing/8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Stylish Man Love Edit Portrait AI Photo Editing Prompt. AI generated digital composite portrait of a smiling man with sunglasses in a field, surrounded by heart bokeh, bubbles, and \"Love\" text."
+        },
+        {
+          "filename": "20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
+          "local_path": "images/ai-photo-editing/20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
+          "original_url": "https://img.promptplum.com/promptImages/20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "smiling-man-with-heart-bokeh-and-bubbles-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
+          "local_path": "images/ai-photo-editing/8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "smiling-man-with-heart-bokeh-and-bubbles-portrait-prompt-by-promptplum-3"
+        }
+      ]
+    },
+    {
+      "id": "6a56a975a3af6f12209d39f2",
+      "title": "Stylish Man Walking Double Exposure Photo",
+      "slug": "stylish-boy-walking-double-exposure-photo",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Generate an ultra-realistic vertical 2:3 fashion portrait of the uploaded young man walking confidently along the center line of an empty road, both hands inside his pockets. Show his complete body from head to shoes using a slightly low, camera angle and a centered symmetrical composition. He wears a yellow-to-white gradient linen shirt, light-blue cargo joggers, clean white sneakers, a black smartwatch, and pink-tinted sunglasses.\nBehind him, create an enormous close-up portrait of the same subject looking back over his shoulder with a soft smile. Keep the large portrait clearly visible but softly blended into the misty background, while the walking subject remains sharply focused and visually dominant. Add messy voluminous hair with a clean shaved line on one side.\nThe road should stretch naturally into the distance, surrounded by green trees on both sides, with soft yellow-green foliage, atmospheric fog, and a gently blurred background. Use fresh yellow, pastel blue, lush green, and soft grey tones, natural diffused daylight, subtle depth, realistic fabric and skin details, and a premium cinematic fashion-photography finish, no distorted face.",
+      "description": "Double Exposure Prompt: Use this prompt to generate a stylish photo of a young man walking on a highway with his faded portrait blended in the background.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 378,
+      "view_count": 62374,
+      "copy_count": 57179,
+      "is_premium": false,
+      "published_at": "2026-08-07T23:04:55.711Z",
+      "images": [
+        {
+          "filename": "0da65a38-ab34-47de-91bf-39f8afc92775.webp",
+          "local_path": "images/ai-photo-editing/0da65a38-ab34-47de-91bf-39f8afc92775.webp",
+          "original_url": "https://img.promptplum.com/promptImages/0da65a38-ab34-47de-91bf-39f8afc92775.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/0da65a38-ab34-47de-91bf-39f8afc92775.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/0da65a38-ab34-47de-91bf-39f8afc92775.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "man-walking-on-foggy-road-with-face-overlay-portrait-prompt-by-promptplum-1"
+        },
+        {
+          "filename": "699e238f-2360-4b0b-b8df-9eb9d25b553f.webp",
+          "local_path": "images/ai-photo-editing/699e238f-2360-4b0b-b8df-9eb9d25b553f.webp",
+          "original_url": "https://img.promptplum.com/promptImages/699e238f-2360-4b0b-b8df-9eb9d25b553f.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/699e238f-2360-4b0b-b8df-9eb9d25b553f.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/699e238f-2360-4b0b-b8df-9eb9d25b553f.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "man-walking-on-foggy-road-with-face-overlay-portrait-prompt-by-promptplum-2"
+        },
+        {
+          "filename": "4f474b09-b7c9-49d5-b97a-a03fa4fec329.webp",
+          "local_path": "images/ai-photo-editing/4f474b09-b7c9-49d5-b97a-a03fa4fec329.webp",
+          "original_url": "https://img.promptplum.com/promptImages/4f474b09-b7c9-49d5-b97a-a03fa4fec329.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/4f474b09-b7c9-49d5-b97a-a03fa4fec329.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/4f474b09-b7c9-49d5-b97a-a03fa4fec329.webp",
+          "width": 1696,
+          "height": 2528,
+          "alt": "man-walking-on-foggy-road-with-face-overlay-portrait-prompt-by-promptplum-3"
+        }
+      ]
+    },
+    {
+      "id": "6a5110897877e7a4d77edf06",
+      "title": "Man in White Shirt and Tie",
+      "slug": "corporate-man-sunglasses-portrait",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a photorealistic, ultra-detailed formal fashion portrait of a handsome man in a centered medium-full shot, standing confidently in an elegant luxury interior. He has neatly styled hair, and black rectangular sunglasses with thin frames. His expression is calm, confident, and maintaining direct gaze with the camera.\nHe is dressed a crisp white tailored long-sleeve dress shirt with a crisp collar, a slim black satin necktie, perfectly fitted black trousers, and a black leather belt with a polished metallic buckle. A premium golden luxury wristwatch is visible on his left wrist. He casually carries a black suit jacket draped over his left forearm while his right hand rests naturally near his belt, creating an effortless executive-style pose.\nThe background features rich dark walnut wood paneling with intricate vertical detailing, cream-colored textured wall inlays, and ornate classical molding, evoking the atmosphere of a historic executive residence. The composition is perfectly symmetrical, with the subject positioned directly in the center of the frame.\nLighting is soft, natural, and diffused, creating flattering highlights on the face while preserving realistic skin texture, visible pores, and subtle facial contours. The polished wood surfaces display rich grain patterns and warm reflections. The clothing exhibits realistic fabric texture, natural folds, and premium tailoring details.\nProfessional editorial fashion photography, luxury menswear campaign, sophisticated corporate aesthetic, ultra-realistic skin textures, crisp fabric details, cinematic depth, shallow depth of field, natural color grading, neutral tones, exceptional sharpness, HDR, 85mm portrait lens, f/1.8, eye-level camera angle, magazine-quality composition, premium lifestyle photography, 8K resolution, photorealistic rendering.\nAspect Ratio: 4:5",
+      "description": "Corporate Portrait Photography Prompt: Copy & Paste this Prompt to create a realistic photograph of a stylish man in a white shirt and black tie holding a jacket.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 759,
+      "copy_count": 918,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "aa3c6d6e-aa85-47b3-9c2b-a52481ead326.jpeg",
+          "local_path": "images/ai-photo-editing/aa3c6d6e-aa85-47b3-9c2b-a52481ead326.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/aa3c6d6e-aa85-47b3-9c2b-a52481ead326.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/aa3c6d6e-aa85-47b3-9c2b-a52481ead326.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/aa3c6d6e-aa85-47b3-9c2b-a52481ead326.jpeg",
+          "width": 1288,
+          "height": 1600,
+          "alt": "Man in White Shirt and Tie Portrait AI Photo Editing Prompt."
+        }
+      ]
+    },
+    {
+      "id": "6a3ad8cbbf79ee5252c372db",
+      "title": "Cinematic Night Glow Restyle",
+      "slug": "cinematic-night-glow-restyle",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Use the uploaded image as the main base image and preserve the subject’s original pose, framing, composition, camera angle, crop, body position, hand placement, facial identity, hairstyle, clothing, accessories, and overall subject details. Keep the aspect ratio the same as the original image. Do not change the pose or expression. Only transform the lighting, background mood, and atmosphere.\nConvert the scene into a dark, moody nighttime portrait with a deep muted background fading into near-black shadows. Replace the original background with a soft, out-of-focus night environment featuring faint silhouettes, subtle bokeh lights, and cinematic dusk-to-night tones. Add a strong backlight directly behind the subject to create a bright white rim light around the hair, shoulders, arms, hands, clothing edges, and full body outline. Add a soft luminous bloom aura around the subject, especially around the outer edges, to create a dreamy glowing silhouette effect. The glow should feel natural, atmospheric, and cinematic, not overly artificial or neon.\nKeep the subject clearly visible while allowing the background to remain dark and subdued. Maintain realistic skin texture, realistic clothing texture, and natural facial features. The final image should feel like an ultra-realistic editorial night portrait shot with an 85mm DSLR lens using soft flash diffusion, with shallow depth of field, subtle halation, bloom glow, gentle flash-lit contrast, and a dreamy low-light atmosphere.\nStyle keywords: cinematic rim light, glowing body aura, halation effect, bloom glow, dreamy silhouette glow, moody night portrait, soft flash diffusion, dusk bokeh background, CCD camera aesthetic, disposable flash mood, Instagram lofi night tones, shallow depth of field, photorealistic, ultra-detailed, 4K.",
+      "description": "AI Portrait Restyle Prompt: Use this viral Instagram filter prompt to retouch and restyle any of your own images into a glowing nighttime portrait.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 63,
+      "view_count": 3638,
+      "copy_count": 6286,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "local_path": "images/ai-photo-editing/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "original_url": "https://img.promptplum.com/promptImages/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/7328d3c1-8afb-4569-a1a9-e787bb7c95c0.webp",
+          "width": 2258,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-1"
+        },
+        {
+          "filename": "8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "local_path": "images/ai-photo-editing/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "original_url": "https://img.promptplum.com/promptImages/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/8f55d9e9-d1c2-48f1-b412-27db871199df.webp",
+          "width": 2051,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-2"
+        },
+        {
+          "filename": "2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "local_path": "images/ai-photo-editing/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "original_url": "https://img.promptplum.com/promptImages/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/2ff9c17b-da54-4b2a-a03a-3e0ca2c79a92.webp",
+          "width": 1703,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-5"
+        },
+        {
+          "filename": "59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "local_path": "images/ai-photo-editing/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "original_url": "https://img.promptplum.com/promptImages/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/59d874dd-3e26-4c01-a30a-a727c95c3e94.webp",
+          "width": 1921,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-4"
+        },
+        {
+          "filename": "71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "local_path": "images/ai-photo-editing/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "original_url": "https://img.promptplum.com/promptImages/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/71c3df73-0d07-4175-ab48-a95f38966b58.webp",
+          "width": 1792,
+          "height": 2560,
+          "alt": "cinematic-night-glow-portrait-by-promptplum-3"
+        }
+      ]
+    },
+    {
+      "id": "6a2c3b5d61276f872a52a622",
+      "title": "Smiling Brunette with Custom Doll",
+      "slug": "personalized-mini-me-figurine",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create a ultra-realistic, warm and cozy lifestyle portrait of a woman seated comfortably on a sofa in a welcoming living room. Medium shot composition, centered in the frame, capturing a candid and joyful moment. She wears a thick beige ribbed-knit button-up cardigan layered over a black top, paired with dark blue jeans. She displays a genuine, heartwarming smile while looking downward at a small collectible figure she is holding.\nHer right hand gently lifts a cute stylized vinyl doll by a small loop attached to its hair. The doll is designed as a miniature cartoon version of her, featuring oversized expressive eyes, matching hair, rosy cheeks, and a cheerful smile. It wears an identical beige cardigan and black top, with both arms raised in a playful waving gesture. Two delicate gold rings are visible on the woman's fingers, adding subtle detail.\nExpression: Genuine happiness, warm smile, relaxed facial muscles, eyes focused affectionately on the miniature figure, conveying delight, nostalgia, and emotional connection.\nBackground: Cozy living-room environment with  a mustard-yellow accent cushion nearby. Behind her is a wooden bookshelf filled with books and decorative objects, interspersed with lush green houseplants. Warm golden fairy lights create beautiful circular bokeh highlights throughout the background, enhancing the inviting atmosphere.\nLighting: Soft natural sunlight entering from a window on the left side of the frame, creating gentle highlights along her hair and face. Warm ambient interior lighting blends seamlessly with the daylight, producing a golden, comforting glow. Delicate rim lighting enhances separation from the background while maintaining a natural appearance.\nCamera & Composition: Eye-level camera angle, straight-on perspective, medium portrait framing. Subject occupies the majority of the frame while preserving environmental context. Balanced composition with the vinyl figure positioned prominently in the foreground as a focal point.\nTechnical Details: Ultra-realistic photography, professional lifestyle editorial style, 8K resolution, DSLR-quality image, 85mm lens, f/1.8 aperture, shallow depth of field, creamy bokeh, sharp focus on the woman's face and the miniature figure, realistic skin texture, detailed knit fabric rendering, natural color grading, high dynamic range, soft contrast, photorealistic lighting, premium commercial photography quality, crisp details, cinematic warmth, authentic candid moment.\nAspect ratio 4:5",
+      "description": "3D Mini-Me Avatar Prompt: Copy & Paste this prompt to create a hyper-realistic portrait of a smiling young woman holding her matching custom chibi doll.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 14,
+      "view_count": 365,
+      "copy_count": 557,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "4dd0a17d-2137-4ba6-91ec-bcd5fe0b56f1.jpg",
+          "local_path": "images/ai-photo-editing/4dd0a17d-2137-4ba6-91ec-bcd5fe0b56f1.jpg",
+          "original_url": "https://img.promptplum.com/promptImages/4dd0a17d-2137-4ba6-91ec-bcd5fe0b56f1.jpg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/4dd0a17d-2137-4ba6-91ec-bcd5fe0b56f1.jpg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/4dd0a17d-2137-4ba6-91ec-bcd5fe0b56f1.jpg",
+          "width": 825,
+          "height": 1024,
+          "alt": "Woman and Miniature Doll Lifestyle Portrait AI Photo Editing Prompt. AI generated realistic portrait of a smiling woman in a beige cardigan sitting cross-legged on a sofa holding a cute cartoon vinyl doll of herself."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704ff",
+      "title": "Instagram Flash Restyle",
+      "slug": "instagram-flash-restyle",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Apply only an Instagram Flash filter-style effect to the uploaded image. Do not regenerate, redesign, crop, reframe, beautify, retouch, or change any content. Preserve the exact same person, face, expression, pose, outfit, hairstyle, objects, background, framing, and composition. Change only the filter treatment: night conversion, direct flash behavior, color grading, visible noise, and film grain.\nConvert the image into a darker night-like / low-light version of the same scene. Make the environment cooler, moodier, and richer, with a strong green-cyan / teal ambience and deeper night density, while keeping the original scene recognizable. The background should become darker and cooler than the subject, but not muddy or fully black.\nThe subject treatment is critical: light the subject with a strong direct on-camera frontal flash that is clearly visible in the result. The flash must dominate the subject more than the ambient light. The face, skin, hair, and clothing facing the camera should look brighter, flatter, more directly flash-lit, and slightly lifted in exposure. The subject should appear more illuminated and more separated from the surroundings, like a real camera-flash snapshot, not a softly relit portrait. Keep the skin warm, bright, glowing, and flash-washed, while the surroundings stay cooler and darker.\nIf reflective, glossy, metallic, leather, glass, polished, or shiny surfaces are present, show realistic small flash reflections / specular pops where appropriate. If the scene geometry naturally allows it, include a believable subtle hard-edged flash shadow behind the subject or nearby objects, but only where it would occur naturally.\nMatch the overall look of a rich Instagram Flash-style photo: stronger night mood, cooler green-cyan ambience, brighter flash-lit subject, slightly punchier contrast, and a more obvious filtered look. Add visible digital noise and fine 35mm color-negative film grain across the whole image. Keep the noise and grain clearly visible, especially in darker areas, smooth surfaces, and the background. If the original image already contains noise or compression texture, do not clean it up — blend it naturally into the overall grain structure.\nThe final result should look like the same original photo captured at night with a strong direct camera flash, featuring richer green-cyan ambience, a much more obviously flash-lit subject, visible film grain, visible noise, and a filtered Instagram Flash look.\nAvoid: soft studio lighting, weak flash on the subject, polished portrait lighting, over-clean denoising, overly neutral colors, dull flat skin, muddy blacks, or changing the image content.",
+      "description": "Instagram Flash Restyle Prompt: Copy & Paste this prompt to convert photos into a retro Instagram flash filter style.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 53,
+      "view_count": 2220,
+      "copy_count": 2331,
+      "is_premium": false,
+      "published_at": "2026-09-23T23:57:10.904Z",
+      "images": [
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-5.webp",
+          "local_path": "images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-5.webp",
+          "width": 1728,
+          "height": 2468,
+          "alt": "Flash Filter AI Photo Editing Prompt. AI generated portrait of a young woman in a silk camisole adjusting her pearl necklace, styled with a retro Instagram flash effect."
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-2.webp",
+          "local_path": "images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-4.webp",
+          "local_path": "images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-4.webp",
+          "width": 1842,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-6.webp",
+          "local_path": "images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-6.webp",
+          "width": 1240,
+          "height": 1618,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-1.webp",
+          "local_path": "images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        },
+        {
+          "filename": "instagram-flash-restyle-image-by-promptplum-3.webp",
+          "local_path": "images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/instagram-flash-restyle-image-by-promptplum-3.webp",
+          "width": 1792,
+          "height": 2390,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704e3",
+      "title": "Unspoken Words",
+      "slug": "aesthetic-men-portrait-poses-sunset",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Composition & Layout:\nA vertically stacked three-frame cinematic triptych (top → middle → bottom), perfectly aligned with equal width and seamless transitions between panels.\nNO borders, NO gaps, NO dividers — the three panels must appear as one continuous stacked composition.\nEach panel represents a different crop of the SAME subject, SAME environment, SAME lighting conditions, and SAME moment in time.\nFinal output aspect ratio: 4:5 vertical.\nEnvironment & Background:\nA vast open dry golden field stretching toward a soft horizon with distant rolling hills.\nSky features a warm sunset gradient—soft orange, peach, and subtle pink tones blending into muted twilight.\nNo buildings, no modern elements, no extra people. Pure natural landscape.\nBackground remains consistent across all panels (only depth of field changes).\nLighting:\nGolden hour lighting with the sun positioned low near the horizon.\nSoft cinematic backlight combined with subtle front fill to avoid underexposure on face and outfit.\nWarm tones, diffused light, gentle highlights on hair and skin.\nNo harsh shadows, no overexposure, no lighting inconsistency across panels.\nOutfit & Styling:\nMaroon/burgundy textured jacket (corduroy-like), worn open over an off-white/cream t-shirt.\nMinimal silver chain necklace visible.\nNatural fabric texture clearly visible—fine details, no unrealistic shine.\nAccessories: subtle silver ring.\nHair slightly messy, natural movement—no over-styling.\nPanel Breakdown\nPanel 1 (Top – Wide / Medium Shot):\nFraming: Chest-up to mid-torso shot with environmental context visible\nPose: Subject turned slightly away from camera, head tilted looking toward the horizon (off-frame sun)\nExpression: Calm, contemplative, thoughtful\nComposition: Subject centered, maintaining cinematic negative space\nBackground: Clear view of field and distant hills\nPanel 2 (Middle – Medium Close Shot):\nFraming: Tight waist-up / chest-up portrait\nPose: Head tilted downward, Right hand running through hair naturally\nExpression: Introspective, slightly emotional, grounded\nDetail: Ring visible on fingers, natural hand tension\nFocus: Balanced between face, hand, and outfit texture\nPanel 3 (Bottom – Tight Close-Up Profile):\nFraming: Close-up side profile\nPose: Subject looking downward/right, holding a small dried flower delicately near face\nExpression: Quiet, reflective, intimate mood\nDepth of Field: Very shallow (strong background blur)\nFocus: Sharp on face + object, soft cinematic bokeh in background\nCamera & Technical Details:\nCamera: Full-frame mirrorless (Canon EOS R5 / Sony A7R V equivalent)\nLens: 35mm for top panel, 50mm feel for middle, ~85mm close-up compression for bottom\nAperture: f/2.0 – f/2.8 (shallow depth of field progression)\nISO: 100–200\nShutter: ~1/400 – 1/800\nUltra-sharp focus on subject, natural falloff in background\nColor & Style:\nCinematic, film-like color grading\nWarm earthy palette: maroon, golden yellow, amber, soft orange, muted sky tones\nSubtle natural grain (not heavy)\nHigh dynamic range but soft contrast (no harsh clipping)\nStrict Rules:\nSAME face, SAME background, SAME lighting across all panels\nONLY change: framing + pose + crop\nNo extra subjects\nNo artificial effects, no over-stylization\nMaintain realism, texture, and natural imperfections",
+      "description": "Cinematic Golden Hour Photography Prompt: Copy and paste this prompt to generate a stunning three-panel lifestyle shoot of a man in a wheat field at sunset.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 87,
+      "view_count": 2530,
+      "copy_count": 6159,
+      "is_premium": false,
+      "published_at": "2026-09-21T22:37:16.744Z",
+      "images": [
+        {
+          "filename": "young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-1.webp",
+          "local_path": "images/ai-photo-editing/young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man in Sunset Field Collage AI Photo Editing Prompt. AI generated collage portrait photograph of a young man with a burgundy shirt, posed in three views: looking right, hand-in-hair, and smelling a dry wildflower in a golden sunset field."
+        },
+        {
+          "filename": "young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-2.webp",
+          "local_path": "images/ai-photo-editing/young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/young-man-in-wheat-field-at-sunset-cinematic-portrait-by-promptplum-2.webp",
+          "width": 928,
+          "height": 1152,
+          "alt": "AI generated portrait series of a young man wearing a burgundy corduroy shirt posing in a golden wheat field at sunset, presented in three stacked panels showing him looking off-camera, adjusting his hair, and holding a dried flower."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704af",
+      "title": "Blurry to 4K AI Upscale",
+      "slug": "upscale-blurry-images",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Enhance the portrait while preserving the subject’s exact identity.\n\nMaintain accurate facial structure, proportions, and natural features. Do not alter face shape, expression, or identity. Only apply subtle cleanup to improve clarity while keeping the person fully recognizable.\nKeep the original background exactly as it is. Do not replace, modify, or add anything. The environment, framing, and composition must remain unchanged.\nRecreate the image with a premium full-frame camera look, similar to a Sony A1 with an 85mm f/1.4 lens. Use shallow depth of field with sharp focus on the face and smooth natural background blur. Maintain realistic lens behavior and natural perspective.\nMatch the original lighting direction and mood, then refine it into a cinematic, subject-focused look. Use soft directional light with gentle contrast, controlled highlights, and clean shadows. Avoid harsh lighting or artificial glow.\nMaintain natural skin texture with fine detail. Avoid over-smoothing or plastic appearance. Use balanced color tones with a subtle cinematic contrast and realistic saturation.\nOutput should feel like a high-end editorial portrait with improved clarity, depth, and tonal range, while keeping the original scene and identity fully intact.\n\nNegative constraints:\nDo not change background.\nDo not alter face or expression.\nNo artificial glow or over-processing.\nNo unrealistic lighting.\nNo skin smoothing or texture loss.",
+      "description": "Transform your low-quality, blurry images into sharp, high-resolution masterpieces. Use this powerful AI prompt to upscale photos, remove noise, and restore lost details instantly.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 52,
+      "view_count": 1886,
+      "copy_count": 1831,
+      "is_premium": false,
+      "published_at": "2026-09-08T22:10:16.963Z",
+      "images": [
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "local_path": "images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-5.webp",
+          "width": 1497,
+          "height": 2560,
+          "alt": "AI-enhanced portrait showing the transformation from a blurry low-resolution image to a sharp high-definition photo."
+        },
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "local_path": "images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-2.webp",
+          "width": 1706,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "local_path": "images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-3.webp",
+          "width": 1866,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "local_path": "images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-4.webp",
+          "width": 2560,
+          "height": 2552,
+          "alt": ""
+        },
+        {
+          "filename": "upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "local_path": "images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/upscale-blurry-low-quality-image-to-hd-quality-by-promptplum-1.webp",
+          "width": 2560,
+          "height": 2560,
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca1526704b0",
+      "title": "Amber Insight",
+      "slug": "artistic-watercolor-portrait-prompt",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "Create an expressive, high-end artistic portrait of a person looking slightly upward and off to one side, capturing a sense of curiosity, wonder, and thoughtful imagination. The gaze is directed just above the frame, with wide, reflective eyes and a subtle emotional intensity.\nThe subject wears oversized, bold orange eyeglasses with a slightly translucent frame. The lenses have a soft warm tint that gently diffuses light and creates natural reflections without obscuring the eyes.\nThe face is illustrated in a semi-realistic style using dynamic black ink sketch lines combined with painterly color work. Linework should be loose yet controlled, with visible strokes, cross-hatching, and contour lines that enhance depth and structure. Skin rendering should feel organic and textured, not smooth or plastic — maintaining a balance between realism and expressive illustration.\nHair is styled in a slightly messy, voluminous updo with natural strands and sketch lines extending outward, blending into the surrounding paint splashes for a cohesive artistic flow.\nThe background is a layered collage of vintage newspaper textures, partially visible and abstracted into the composition. Text must not be sharp or readable — only used as a subtle graphic texture integrated with the artwork.\nAdd energetic paint splashes and ink bursts in vivid blue, orange, and hints of yellow around the head, radiating outward. These splashes should feel spontaneous, layered, and physically interacting with the portrait — some overlapping hair and edges to create depth and motion.\nLighting is soft yet directional, coming from slightly above and to one side, enhancing facial structure and creating gentle highlights on the glasses, nose bridge, and cheekbones. Shadows should be painterly and blended, not harsh.\nComposition is a clean head-and-neck portrait. The framing includes the full head and neck with slight breathing space around the hair. No clothing details should distract — only minimal suggestion of the neckline. Maintain balanced negative space while allowing paint splashes to break the boundary naturally.\nStyle blends editorial illustration, ink sketch art, and abstract expressionism. High contrast, rich saturation, textured brushwork, and fine-art quality.\nUltra-detailed, sharp focus, visible brush textures, natural skin tones.\nNo text, no watermark, no logos.\nAspect ratio: 4:5 vertical.",
+      "description": "Mixed-Media Watercolor Portrait Prompt: Copy and paste this prompt to generate artistic illustrations of stylish individuals featuring vibrant ink splashes and vintage newspaper collage elements.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 56,
+      "view_count": 850,
+      "copy_count": 1924,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "young-man-orange-glasses-messy-hair-watercolor-portrait-illustration-by-promptplum-2.webp",
+          "local_path": "images/ai-photo-editing/young-man-orange-glasses-messy-hair-watercolor-portrait-illustration-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/young-man-orange-glasses-messy-hair-watercolor-portrait-illustration-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/young-man-orange-glasses-messy-hair-watercolor-portrait-illustration-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/young-man-orange-glasses-messy-hair-watercolor-portrait-illustration-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Artistic Man with Glasses AI Photo Editing Prompt. AI generated mixed-media digital illustration of a young man with messy hair and orange-framed glasses looking upward amidst vibrant watercolor splashes and newspaper collage elements."
+        },
+        {
+          "filename": "Gemini_Generated_Image_lrtz00lrtz00lrtz.png",
+          "local_path": "images/ai-photo-editing/Gemini_Generated_Image_lrtz00lrtz00lrtz.png",
+          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_lrtz00lrtz00lrtz.png",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/Gemini_Generated_Image_lrtz00lrtz00lrtz.png",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/Gemini_Generated_Image_lrtz00lrtz00lrtz.png",
+          "width": 1856,
+          "height": 2304,
+          "alt": "AI generated mixed media digital illustration of a man with messy hair and orange-framed glasses looking upward against a background of newspaper clippings and vibrant paint splashes."
+        }
+      ]
+    },
+    {
+      "id": "6a15472c564f4ca152670409",
+      "title": "Old Photo Restoration",
+      "slug": "old-photo-restoration",
+      "category": "AI Photo Editing",
+      "category_slug": "ai-photo-editing",
+      "prompt": "SUBJECT\nIdentity Lock: Absolute preservation of facial geometry and body proportions; Identity Similarity Threshold $\\ge 0.95$.\nEpidermal Fidelity: Execute macro-level epidermal texture synthesis to avoid \"plastic\" smoothing. Restore natural material skin-pore structures, textile weaves, and era-specific surfaces.\nClassification & Damage: Autonomous Origin Detection (Real/Synthetic/Ambiguous). Apply DamageScore (0–100) and RegionConfidence (RC).\nRC $\\ge 70$: Context-guided high-detail reconstruction.\nRC 30–69: Coarse-to-medium structural restoration; zero semantic invention.\nRC $< 30$: Era-consistent silhouette/texture fill only.\nSafe Reconstruction Logic: Area-based constraints: $< 10\\%$ (Guided inpainting), $10\\text{--}40\\%$ (Structural geometry synthesis), $> 40\\%$ (Texture-only pass).\nCOMPOSITION\nFrame Integrity: Strict adherence to original aspect ratio, framing, and semantic positioning. No object injection or removal.\nPerspective & Scale: Enforce rigorous vanishing point alignment and geometric continuity.\nSpatial Physics: Validate structural synthesis against surrounding geometry to ensure physical plausibility. Revert to \"Safe Fill\" if PhysicsCheck fails.\nLIGHTING\nGlobal Illumination: Restore Chiaroscuro-level lighting depth while maintaining consistent shadow direction and luminance gradients.\nMaterial Reflectance: Physically accurate reconstruction of light interaction with surfaces (specular highlights, matte finishes).\nChromatic Consistency: Restore faded tones to era-correct palettes with modern High Dynamic Range (HDR). Maintain vintage warmth/analog character through spectral-aware color fidelity.\nTECHNICAL SPECS\nRestoration Pipeline: Sub-pixel deconvolution, motion-blur neutralization, and chromatic aberration correction.\nSuper-Resolution: Execute Multi-stage 4x+ Super-Resolution with an anti-artifact refinement pass.\nNoise Management: Intelligent separation of sensor noise vs. compression artifacts; preserve original analog grain structure while removing degradational \"noise.\"\nOutput Parameters: Lossless 16-bit PNG/TIFF; Archival and sRGB color space integration; Metadata/EXIF preservation. Zero watermarks/logos/identifying marks altered.",
+      "description": "Old Photo Restoration Prompt. Restore vintage photos with Google Gemini AI. Use our detailed prompt to remove scratches, enhance 4K details, and colorize old photographs authentically.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 79,
+      "view_count": 1249,
+      "copy_count": 1446,
+      "is_premium": false,
+      "published_at": "2026-09-08T22:09:28.657Z",
+      "images": [
+        {
+          "filename": "old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "local_path": "images/ai-photo-editing/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/old-photo-restoration-by-promptplum-2.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "local_path": "images/ai-photo-editing/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/old-photo-restoration-by-promptplum-3.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "local_path": "images/ai-photo-editing/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/old-photo-restoration-by-promptplum-4.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        },
+        {
+          "filename": "old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "local_path": "images/ai-photo-editing/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "original_url": "https://img.promptplum.com/promptImages/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-photo-editing/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-photo-editing/old-photo-restoration-by-promptplum-5.jpg.jpeg",
+          "width": 2194,
+          "height": 2560,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

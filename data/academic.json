@@ -1,0 +1,47 @@
+{
+  "category": "Academic",
+  "slug": "academic",
+  "total_prompts": 1,
+  "updated_at": "2026-09-24T12:50:09Z",
+  "prompts": [
+    {
+      "id": "6a15472c564f4ca1526703da",
+      "title": "Library Solitude",
+      "slug": "man-reading-book-library-bookshelves",
+      "category": "Academic",
+      "category_slug": "academic",
+      "prompt": "Create a 4K photorealistic cinematic portrait of a man reading a book in a quiet library aisle, standing beside a tall wooden bookshelf filled with hardcover books. He is gently leaning his left shoulder and upper back against the bookshelf in a relaxed posture.\nMatch the face, hairstyle, and beard (if present) from the reference image. He has black rectangular eyeglasses, and a calm academic appearance.\nHe is wearing:\n\na taupe chunky rib-knit cardigan with large buttons\na light blue Oxford button-down shirt\nbeige chino trousers\na dark brown leather belt\nThe man is holding an open hardcover book with both hands at chest level, looking down at the pages with a focused, neutral expression.\nLighting:\n\nSoft indoor library lighting, overhead fluorescent or LED strip lights providing even illumination, gentle top-down light on subject’s face and hands, minimal shadows, neutral-to-warm color temperature, softly lit bookshelves in background, shallow depth of field, calm academic atmosphere, natural ambient interior lighting, realistic cinematic photography.\nComposition details:\n\nEye-level camera angle\nThree-quarter view\n50mm portrait lens\nf/1.8 aperture\nShallow depth of field\nThe left bookshelf appears slightly out of focus in the foreground, creating foreground depth blur.\n\nThe subject remains sharply in focus.\nCeiling dark blue green color.\nThe background contains blurred bookshelves and ceiling lights with creamy bokeh, creating a warm academic atmosphere with cinematic realism.\nNo other people present in the scene. Empty library aisle.\nNatural color grading, ultra-detailed, photorealistic, 4K quality.\nAspect ratio: 4:5",
+      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a realistic scholarly portrait of a man reading a book in a cozy, warm-lit library setting.",
+      "ai_tools": [
+        "Gemini"
+      ],
+      "like_count": 30,
+      "view_count": 634,
+      "copy_count": 964,
+      "is_premium": false,
+      "published_at": null,
+      "images": [
+        {
+          "filename": "man-reading-in-library-portrait-by-promptplum-1.webp",
+          "local_path": "images/academic/man-reading-in-library-portrait-by-promptplum-1.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-reading-in-library-portrait-by-promptplum-1.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/academic/man-reading-in-library-portrait-by-promptplum-1.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/academic/man-reading-in-library-portrait-by-promptplum-1.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": "Man Reading in Library AI Photo Editing Prompt. AI generated cinematic portrait of a bearded man in a cardigan reading a book among library bookshelves."
+        },
+        {
+          "filename": "man-reading-in-library-portrait-by-promptplum-2.webp",
+          "local_path": "images/academic/man-reading-in-library-portrait-by-promptplum-2.webp",
+          "original_url": "https://img.promptplum.com/promptImages/man-reading-in-library-portrait-by-promptplum-2.webp",
+          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/academic/man-reading-in-library-portrait-by-promptplum-2.webp",
+          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/academic/man-reading-in-library-portrait-by-promptplum-2.webp",
+          "width": 1856,
+          "height": 2304,
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}
