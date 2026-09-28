@@ -1,58 +1,9 @@
 {
   "category": "Emoji & Sticker",
   "slug": "emoji-sticker",
-  "total_prompts": 14,
+  "total_prompts": 12,
   "updated_at": "2026-09-24T12:55:08Z",
   "prompts": [
-    {
-      "id": "6a2021851fbf616cf07dad1e",
-      "title": "3D Girl Avatar Sticker Sheet Grid",
-      "slug": "3d-girl-avatar-sticker-sheet-grid",
-      "category": "Emoji & Sticker",
-      "category_slug": "emoji-sticker",
-      "prompt": "Use the uploaded female image strictly only for face and identity reference. Preserve the same feminine identity across all panels.\nThe final result must look like the same woman transformed into a premium cute 3D chibi character in every panel.\nCreate a high-end, ultra-clean, premium-quality 3D chibi character sheet in a vertical 4:5 aspect ratio, showing the same female character in exactly 9 different expressions / poses, arranged in a clean 3x3 grid only.\nDo not add extra rows, extra panels, duplicates, or missing stickers.\n\nOverall Visual Style\nCute 3D chibi / doll-like illustration\nPremium polished rendering, crisp details, smooth finish\nBig glossy expressive eyes, soft cheeks, tiny nose, cute lips\nRounded face, adorable proportions, charming feminine look\nKeep the same face shape, same skin tone, same hair color, same hairstyle in all 9 panels\nHair should remain soft, slightly voluminous, and neatly styled like the reference female\nEvery character should appear as if popping out through torn white paper\nUse realistic ripped paper edges, soft drop shadows, and subtle depth\nBackground must be clean light grey\nUse thin clean white dividers between all 9 panels\nKeep a neat, balanced, symmetrical composition\nOverall result should feel like a premium polished 3D character board\n\nImportant style correction\nThe character must emerge directly from the torn paper opening.\n\nDo not add any white sticker outline, die-cut border, cutout edge, outer contour stroke, or separate decal-like border around the character.\n\nDo not create a sticker pasted on top of the panel.\n\nOnly the torn paper hole should frame the character.\nRendering Quality\nUltra-detailed 3D rendering\nSharp facial details\nClear clothing textures\nClean edges\nSoft studio lighting\nSmooth shading\nhigh-definition output\npolished premium finish\nno blur, no muddy textures, no low-detail simplification\n\nFraming\nExactly 9 panels only\n3 columns × 3 rows\nVertical 4:5 composition\nEach panel shows the character in a bust-up / waist-up view\nCharacter centered inside each paper-tear opening\nSimilar scale and spacing across all panels\n\nPanel-by-Panel Details\nTop-left\n\nSame female wearing large black round/oversized glasses, a white button-up shirt with visible collar and sleeves, and high-waisted blue jeans visible at the waistline.\nPose: smiling sweetly, one hand on waist, the other hand pointing outward playfully.\nTop-center\n\nSame female wearing a beige blazer over a light inner top.\nPose: calm, confident, pleasant smile, one hand resting under chin in a thoughtful, professional pose.\nTop-right\n\nSame female wearing a pastel rainbow striped sweater.\nPose: joyful laughing expression, eyes happily closed, mouth open in a big cheerful laugh, both hands raised excitedly.\nMiddle-left\n\nSame female wearing a soft pink sweater and pink cat-ear headband.\nPose: eyes closed, sleepy / pouty cute expression, both hands tucked gently under chin.\nMiddle-center\n\nSame female wearing a purple sleeveless top.\nPose: holding a turquoise-blue drink cup with straw, sipping the drink, wide innocent eyes, cute relaxed expression.\nMiddle-right\n\nSame female wearing a light blue button-up shirt.\nPose: cheerful wink, smiling, one hand raised in a friendly wave, the other hand resting near waist.\nBottom-left\n\nSame female wearing black round glasses and a mustard-yellow / warm yellow top.\nPose: curious thinking expression, one finger touching near cheek/temple, thoughtful but cute.\nBottom-center\n\nSame female wearing a white knitted cable-knit sweater.\nPose: slightly thoughtful / mildly confused expression, one finger raised upward as if thinking of an idea.\nBottom-right\n\nSame female wearing a rainbow knitted beanie, a pink inner top, and purple dungaree-style overalls.\nPose: cute kiss / pout expression, playful and adorable.\n\nImportant Accuracy Rules\nThe same female identity must appear in all 9 panels\nMaintain the same hair color exactly like the uploaded female reference\nMaintain the same hairstyle and facial proportions\nDo not turn her into different women\nDo not simplify the outfits too much\nKeep clothing details clear and recognizable\nKeep all 9 stickers visually consistent\nKeep the torn-paper effect in every panel\nKeep the overall look close to a premium polished 3D character sheet\nKeep the output crisp, detailed, and high quality\nExactly 9 stickers only\n3x3 grid only\n4:5 aspect ratio only\n\nNegative Instructions\nDo not generate low-detail characters, blurred rendering, flat cartoon style, low-quality textures, extra fingers, distorted hands, wrong outfit colors, missing accessories, different hairstyles, different identities, extra rows, duplicate stickers, text, logos, watermark, messy composition, cropped-off characters, white sticker outline, die-cut border, outer white stroke, pasted sticker effect, or cutout border around the character.",
-      "description": "3D Chibi Avatar Prompt: Copy & Paste this prompt to create a 9-panel sticker sheet of a cute 3D girl with different expressions peeking through torn paper.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 70,
-      "view_count": 3284,
-      "copy_count": 2936,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "2e48f100-021b-4820-9caf-558febd7d8f6.webp",
-          "local_path": "images/emoji-sticker/2e48f100-021b-4820-9caf-558febd7d8f6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2e48f100-021b-4820-9caf-558febd7d8f6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emoji-sticker/2e48f100-021b-4820-9caf-558febd7d8f6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emoji-sticker/2e48f100-021b-4820-9caf-558febd7d8f6.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "3D Girl Avatar Peeking Paper AI Photo Editing Prompt. AI generated 3D digital illustration grid of a cartoon girl with various expressions peeking through torn paper holes."
-        },
-        {
-          "filename": "4c996518-1973-4240-b0c1-74fe37245454.webp",
-          "local_path": "images/emoji-sticker/4c996518-1973-4240-b0c1-74fe37245454.webp",
-          "original_url": "https://img.promptplum.com/promptImages/4c996518-1973-4240-b0c1-74fe37245454.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emoji-sticker/4c996518-1973-4240-b0c1-74fe37245454.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emoji-sticker/4c996518-1973-4240-b0c1-74fe37245454.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "3D Girl Avatar Grid in Paper Holes AI Photo Editing Prompt. AI generated digital illustration grid of a 3D girl avatar in diverse outfits and expressions, each seen through a tear in white paper."
-        },
-        {
-          "filename": "3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
-          "local_path": "images/emoji-sticker/3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emoji-sticker/3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emoji-sticker/3a9bbf77-8d97-4c19-88d0-5756de3c7605.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated 3D character illustrations of a girl with a bindi displaying various expressions and outfits peeking through torn paper."
-        }
-      ]
-    },
     {
       "id": "6a15472c564f4ca15267050a",
       "title": "The Perfect Pout",
@@ -148,65 +99,6 @@
           "width": 2048,
           "height": 2048,
           "alt": "AI generated 3D digital illustration featuring a grid of six adorable boy characters wearing diverse trendy outfits and displaying various expressive poses against vibrant pastel backgrounds."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704e1",
-      "title": "Chibi Girl Expression Pack",
-      "slug": "3d-chibi-girl-kawaii-sticker-sheet",
-      "category": "Emoji & Sticker",
-      "category_slug": "emoji-sticker",
-      "prompt": "Style & Format:\nPremium 3D kawaii chibi sticker-sheet in a vertical 4:5 format. Clean 3x3 layout on a soft white-to-light-blue gradient. Each character must be a glossy die-cut sticker: thick rounded white border, subtle lifted paper edge, soft drop shadow, and high-quality toy-like 3D rendering.\nCharacter Specs:\nMaintain 100% identity accuracy for a single character. Miniature girl with an oversized head, tiny body, rosy cheeks, big sparkling brown eyes, and shiny brown hair with detailed highlights and soft bangs. No flat anime/vector style or adult proportions.\nThe 3x3 Grid (9 Poses & Outfits):\n\nThumbs up: Pink hoodie, rolled jeans, sneakers.\nSitting (hands on cheeks): Blue hoodie, white pants.\nJumping (peace sign): Purple oversized top, sneakers.\nWinking: Denim overalls, round glasses.\nHeart hands: Soft pink dress.\nOne fist raised: Pink varsity jacket, cap.\nHugging bunny plush with closed eyes: Pink bunny pajamas, bunny slippers.\nPainting: Cream painter apron, beret, palette.\nLaptop task: Yellow hoodie, sitting at desk.\nText & FX:\nAdd 9 rounded white sticker speech bubbles with pastel outlines. Phrases: “Awesome!”, “Nice one!”, “HAHAHA!”, “Thank you!”, “You’re the best!”, “Good job!”, “So cute!”, “Well done!”, and “Keep it up!”. Use one solid text color per bubble (pink, blue, purple, orange, or teal). Add floating hearts, stars, and sparkles.\nRendering:\nGlossy, high-detail, soft-shaded 3D cartoon style. Polished highlights, clean pastel colors, and detailed fabric folds. All stickers must be evenly spaced and fully visible within their grid areas.",
-      "description": "3D Kawaii Chibi Sticker Art Prompt: Copy & Paste this prompt to create a set of cute, expressive 3D girl character stickers with vibrant colors and positive text bubbles.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 53,
-      "view_count": 711,
-      "copy_count": 1162,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "local_path": "images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Cute Chibi Girl Figures AI Photo Editing Prompt. AI generated digital illustration of a grid collection featuring nine distinct adorable chibi girl figures, each presenting a different pose, costume, and positive text reaction bubble."
-        },
-        {
-          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "local_path": "images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": ""
-        },
-        {
-          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "local_path": "images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": ""
-        },
-        {
-          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "local_path": "images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/emoji-sticker/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
         }
       ]
     },

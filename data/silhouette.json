@@ -1,7 +1,7 @@
 {
   "category": "Silhouette",
   "slug": "silhouette",
-  "total_prompts": 7,
+  "total_prompts": 5,
   "updated_at": "2026-09-24T13:12:21Z",
   "prompts": [
     {
@@ -218,114 +218,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "AI generated artistic digital illustration of a young man's silhouette profile with a double-exposure effect against a dramatic orange and red sunset."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704a1",
-      "title": "Family Silhouette",
-      "slug": "family-silhouette-art-with-quote",
-      "category": "Silhouette",
-      "category_slug": "silhouette",
-      "prompt": "Use the uploaded image ONLY for face and identity reference of all subjects. Do not alter facial structure, skin tone, age, or likeness. Maintain accurate identity for each person.\nCreate a 4:5 aspect ratio, high-contrast black-and-white cinematic silhouette portrait of a family (mother, father, and child) in an intimate, emotional composition.\n\nComposition & Pose:\nThree subjects in close proximity forming a triangular composition\nChild positioned in the center, facing slightly upward to the mother\nMother on one side and father on the other, both gently leaning toward the child\nParents’ faces angled downward toward the child, creating a soft, loving connection\nCapture only side profiles / semi-profiles (no full frontal face)\n\nLighting (CRITICAL):\nStrong backlight source (bright circular/oval light) directly behind subjects\nSubjects appear as dark silhouettes with soft glowing edge highlights (rim light)\nNo front lighting — faces remain mostly in shadow\nClean separation between subjects and background using light halo\n\nStyle & Mood:\nMinimal, emotional, timeless family moment\nDeep blacks, bright whites, no mid-tone clutter\nSoft gradients around light source, rest pure black\nStudio-like controlled environment\nDetails:\nSubtle visible outlines of hair, nose, lips, and clothing edges\nNatural posture, not stiff or posed\nKeep clothing simple and non-distracting\n\nText (optional, centered bottom):\n“FAMILY” in bold uppercase with wide character spacing\nSubtext: “Where life begins & love never ends”\n\nQuality:\nUltra-realistic, sharp edges, cinematic photography, high contrast, 8K feel\n\nNegative Prompt:\ncolor, flat lighting, front-lit faces, smiling directly at camera, cartoon, illustration, blur, distortion, extra people, shoulder crops, bad anatomy",
-      "description": "Artistic Silhouette Photography Prompt: Use this prompt to generate a minimalist, high-contrast image of a family silhouette against a glowing circular backdrop to capture an intimate moment of eternal love.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 78,
-      "view_count": 2776,
-      "copy_count": 5612,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "local_path": "images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Silhouette Family Portrait AI Photo Editing Prompt. AI generated artistic silhouette portrait of a father, mother, and baby looking at each other against a glowing circular light."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "local_path": "images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Silhouette with Quote AI Photo Editing Prompt. AI generated minimalist studio portrait of a mother, father, and child in silhouette looking at each other against a soft circular backlight."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "local_path": "images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated digital silhouette portrait of a father, mother, and young child facing each other against a bright circular glow with a sentimental quote."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "local_path": "images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/silhouette/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670437",
-      "title": "Eternal Silhouette",
-      "slug": "endless-love-silhouette-couple",
-      "category": "Silhouette",
-      "category_slug": "silhouette",
-      "prompt": "Use the provided reference images to match the identity, age, and facial features of both subjects. Preserve their natural facial structure, proportions, hairline, and overall likeness. Do not beautify, stylize, or alter their identities in any way. Ensure the silhouettes still reflect the correct face shape and recognizable profile of each subject.\nCreate a dramatic black-and-white high-contrast silhouette portrait of a couple standing extremely close to each other in an almost-kiss pose.\nComposition & Framing\nVertical composition, 4:5 aspect ratio.\nClose-up framing from the chest or shoulders upward. The couple is centered in the frame, facing each other in profile.\nMan (left side): Facing right. He has short, neatly styled hair and light stubble, wearing a formal blazer with a collared shirt. His head is slightly tilted downward toward the woman.\nWoman (right side): Facing left. She has naturally long, wavy hair with a floral hairpiece positioned on the upper side of her head, small earrings, and an elegant outfit with subtle decorative details. Her head is slightly tilted upward toward the man.\nTheir noses are almost touching and their foreheads nearly meet. They maintain direct eye contact with each other, creating a romantic and intimate moment.\nLighting & Style\nThe couple appears as deep black silhouettes against a pure bright white backlit background. Strong rim lighting clearly defines the contours of their faces, hair, and bodies, creating a sharp separation between the subjects and the background.\nThe image should resemble professional cinematic studio silhouette photography with crisp edges, smooth gradients, and strong contrast. Render the image in high-contrast monochrome with high-key lighting and absolutely no color.\nTypography\nPlace the text centered at the top of the image with clear spacing from the edge.\nTitle: “ENDLESS LOVE” in a large, elegant serif font.\nSubtitle below the title:\n“Loved you yesterday, love you still, always have, always will.”\nUse a thin, spaced grey font for the subtitle.",
-      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a professional monochrome silhouette of a romantic couple featuring elegant \"Endless Love\" typography and a minimalist white background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 73,
-      "view_count": 3599,
-      "copy_count": 4959,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "local_path": "images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette Portrait AI Photo Editing Prompt. AI generated studio portrait of a man and woman in a romantic silhouette profile against a white background with \"Endless Love\" text."
-        },
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "local_path": "images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette Endless Love AI Photo Editing Prompt. AI generated minimalist studio portrait of a man and woman in profile facing each other against a white background with romantic \"Endless Love\" typography."
-        },
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "local_path": "images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/silhouette/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette AI Photo Editing Prompt. AI generated studio portrait of a man and woman in silhouette profile facing each other against a bright white background featuring romantic typography."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Minimalist Photography",
   "slug": "minimalist-photography",
-  "total_prompts": 26,
+  "total_prompts": 22,
   "updated_at": "2026-09-24T13:09:32Z",
   "prompts": [
     {
@@ -109,66 +109,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Grey Coat \"STILL\" Text Portrait AI Photo Editing Prompt. AI generated studio portrait of a serious young man with blue eyes in a grey overcoat and navy turtleneck, featuring large light blue \"STILL\" brush-stroke text."
-        }
-      ]
-    },
-    {
-      "id": "6a53efc47877e7a4d7a82d4b",
-      "title": "Monochrome Family Profile Portrait",
-      "slug": "black-and-white-family-studio-profile",
-      "category": "Minimalist Photography",
-      "category_slug": "minimalist-photography",
-      "prompt": "Use the uploaded family photos as identity references and create an elegant vertical black-and-white family portrait featuring a father, mother, and young child arranged in overlapping side profiles. Place the father slightly behind on the left, the mother in the center, and the child in front on the right, with each face clearly visible and naturally layered without merging or distortion. All three should gaze softly upward toward the same off-camera direction, creating a hopeful and emotional expression.\nShow only their head, neck, and upper shoulders, dressed in simple dark clothing that blends smoothly into a pure black background. Illuminate their faces with soft directional light from the left, creating bright facial highlights, gentle shadows, realistic skin texture, crisp eyes, and a dramatic high-contrast monochrome look. Fade the outer edges of their hair, shoulders, and clothing gradually into the darkness for a seamless cinematic composition.\nKeep generous black negative space around the family. In the lower portion, add the word “FAMILY” in white, using one oversized elegant serif letter “F”, followed by “AMILY” in a thin handwritten uppercase style. Fine-art studio photography, emotional family poster aesthetic, clean composition, realistic facial proportions, sharp facial focus, smooth tonal gradients, vertical 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 58,
-      "view_count": 4842,
-      "copy_count": 3893,
-      "is_premium": false,
-      "published_at": "2026-07-29T21:35:38.567Z",
-      "images": [
-        {
-          "filename": "cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "local_path": "images/minimalist-photography/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "local_path": "images/minimalist-photography/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "original_url": "https://img.promptplum.com/promptImages/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "width": 928,
-          "height": 1152,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "local_path": "images/minimalist-photography/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "local_path": "images/minimalist-photography/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-4"
         }
       ]
     },
@@ -486,55 +426,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704ab",
-      "title": "The Weighted Bloom",
-      "slug": "double-exposure-couple-portrait",
-      "category": "Minimalist Photography",
-      "category_slug": "minimalist-photography",
-      "prompt": "Create an artistic and emotionally powerful grey-and-white prewedding photograph using a refined double exposure technique.\nThe composition features two merged profile portraits forming a single harmonious silhouette.\nOn the left side, the woman is shown in an elegant side profile, facing left. Her hair is styled softly with natural flow (loose waves or gently tucked behind the ear). She wears a modest, refined bridal gown with delicate fabric textures. Her expression carries a gentle, sincere smile with soft, hopeful eyes.\nOn the right side, the man appears in a side profile facing right, with his gaze slightly lowered. His expression is calm and filled with quiet admiration and love. He is dressed in a well-tailored formal suit.\nBoth profiles blend seamlessly into each other, creating a romantic and balanced double exposure effect. The edges should merge smoothly without harsh transitions, forming a unified silhouette.\nThe background is clean, light gray with faint hints of natural scenery subtly visible within the exposure. Lighting is soft yet dramatic, enhancing facial contours, hair texture, and gentle shadows to emphasize depth and emotion.\nStyle should feel like a timeless studio portrait with a modern artistic touch — highly detailed, clean, and natural, avoiding any artificial or overly processed look.\n--grey and white --double exposure --high detail --emotional --studio style --aspect ratio 4:5",
-      "description": "Double Exposure Fine Art Photography Prompt: Use this prompt to create emotive black and white portraits of a man and woman standing back-to-back with surreal nature overlays.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 107,
-      "view_count": 2688,
-      "copy_count": 5437,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "local_path": "images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated artistic digital portrait of a man and woman standing back-to-back in a black and white double exposure style featuring nature silhouettes."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "local_path": "images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Monochrome Couple Double Exposure Portrait Prompt. AI generated double exposure portrait of a man in a suit and a woman in a lace dress looking in opposite directions in black and white."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "local_path": "images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated monochrome double exposure portrait of a man and woman standing back-to-back with a serene forest landscape layered over their profiles."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267049e",
       "title": "Geometric Poise",
       "slug": "man-grey-suit-smart-casual-fashion",
@@ -729,55 +620,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670437",
-      "title": "Eternal Silhouette",
-      "slug": "endless-love-silhouette-couple",
-      "category": "Minimalist Photography",
-      "category_slug": "minimalist-photography",
-      "prompt": "Use the provided reference images to match the identity, age, and facial features of both subjects. Preserve their natural facial structure, proportions, hairline, and overall likeness. Do not beautify, stylize, or alter their identities in any way. Ensure the silhouettes still reflect the correct face shape and recognizable profile of each subject.\nCreate a dramatic black-and-white high-contrast silhouette portrait of a couple standing extremely close to each other in an almost-kiss pose.\nComposition & Framing\nVertical composition, 4:5 aspect ratio.\nClose-up framing from the chest or shoulders upward. The couple is centered in the frame, facing each other in profile.\nMan (left side): Facing right. He has short, neatly styled hair and light stubble, wearing a formal blazer with a collared shirt. His head is slightly tilted downward toward the woman.\nWoman (right side): Facing left. She has naturally long, wavy hair with a floral hairpiece positioned on the upper side of her head, small earrings, and an elegant outfit with subtle decorative details. Her head is slightly tilted upward toward the man.\nTheir noses are almost touching and their foreheads nearly meet. They maintain direct eye contact with each other, creating a romantic and intimate moment.\nLighting & Style\nThe couple appears as deep black silhouettes against a pure bright white backlit background. Strong rim lighting clearly defines the contours of their faces, hair, and bodies, creating a sharp separation between the subjects and the background.\nThe image should resemble professional cinematic studio silhouette photography with crisp edges, smooth gradients, and strong contrast. Render the image in high-contrast monochrome with high-key lighting and absolutely no color.\nTypography\nPlace the text centered at the top of the image with clear spacing from the edge.\nTitle: “ENDLESS LOVE” in a large, elegant serif font.\nSubtitle below the title:\n“Loved you yesterday, love you still, always have, always will.”\nUse a thin, spaced grey font for the subtitle.",
-      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a professional monochrome silhouette of a romantic couple featuring elegant \"Endless Love\" typography and a minimalist white background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 73,
-      "view_count": 3599,
-      "copy_count": 4959,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "local_path": "images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette Portrait AI Photo Editing Prompt. AI generated studio portrait of a man and woman in a romantic silhouette profile against a white background with \"Endless Love\" text."
-        },
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "local_path": "images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette Endless Love AI Photo Editing Prompt. AI generated minimalist studio portrait of a man and woman in profile facing each other against a white background with romantic \"Endless Love\" typography."
-        },
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "local_path": "images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette AI Photo Editing Prompt. AI generated studio portrait of a man and woman in silhouette profile facing each other against a bright white background featuring romantic typography."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267042c",
       "title": "The Orange Lens",
       "slug": "monochrome-woman-orange-glasses-portrait",
@@ -859,35 +701,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Woman with Water Droplets AI Photo Editing Prompt. AI generated high-contrast portrait of a woman's face covered in realistic water droplets with dramatic chiaroscuro lighting."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670404",
-      "title": "Family Sequence",
-      "slug": "black-and-white-family-profile-portrait",
-      "category": "Minimalist Photography",
-      "category_slug": "minimalist-photography",
-      "prompt": "Create a classic low-key black-and-white studio portrait of a family of four arranged in a staggered side-profile composition, all facing right. Maintain accurate identity and face matching to the provided reference image for all four subjects — preserve exact facial structure, proportions, skin texture, hairlines.\nMid-chest shot (cropped from mid chest upward), tight vertical composition. All four subjects are wearing solid matte black t-shirts with no logos, no reflective elements — blending subtly into shadow while maintaining garment structure.\nDiagonal alignment from front-left (father closest to camera) to back-right (youngest child farthest). Overlapping layered composition.\nCRITICAL — Natural Height-Based Staggered Arrangement:\n\nSubjects must be arranged in realistic descending height order consistent with a natural family hierarchy. The father (foreground) is the tallest, followed slightly behind by the mother, who is slightly shorter. Behind her stands the first child, clearly shorter than the mother, and, in the far background, the second child, the shortest of all. The top of each subject’s head forms a gradual downward diagonal slope from left (tallest father) to right (shortest child). Eye levels must also progressively lower in the same sequence. This height progression must appear anatomically natural and realistic, not artificially aligned or equalized. Maintain accurate proportional scaling and perspective depth consistent with real-world height differences.\nTrue monochrome (black and white), high contrast, deep blacks, smooth midtone transitions. Dramatic chiaroscuro lighting with a single directional key light from camera-right, slightly above eye level, no equipment/object visible in frame. Strong shadow falloff into pure black background. Deep negative space on the left.\nSharp catchlights in all eyes from a small gridded softbox. Crisp highlight definition on nose bridges, cheekbones, lips, and jawlines.\nFather (foreground, sharpest focus): His expression appears steady and confident with a subtle smile. His gaze is fixed forward, conveying strength and leadership. Visible individual hairs, strong skin micro-contrast, wear a black t-shirt fading into shadow.\nMother (second): She has a soft, graceful smile (upper teeth visible). Long voluminous wavy hair, subtle earrings, smooth skin, and wear a black outfit.\nChild (third): Her expression shows youthful curiosity and positivity, with a subtle smile (upper teeth visible), slightly pulled-back natural hair, and a simple black outfit.\nChild (background): He looks calm and thoughtful. His face carries innocence and quiet confidence, as if observing something meaningful ahead.\nLens look: 85mm–135mm telephoto compression, no distortion.\n\nAperture look: f/5.6–f/8 layered depth, foreground sharpest with subtle gradual falloff.\nUltra-detailed skin texture, realistic pores, cinematic tonal grading, professional studio photography, timeless, museum-quality.\n4K resolution detail, ultra-sharp, high micro-contrast, refined tonal range.\n\nAspect ratio 4:5\nNegative prompt:\n\nlow quality, blur, head crop, frame crop, over exposure, visible equipment, equal head height, flat alignment, incorrect height proportions, unrealistic scaling",
-      "description": "Family Photo Editing Prompt: Use this prompt to create a professional black and white studio portrait of a family of four in side profile against a dark, minimalist background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 211,
-      "view_count": 6936,
-      "copy_count": 17648,
-      "is_premium": false,
-      "published_at": "2026-08-08T20:13:38.649Z",
-      "images": [
-        {
-          "filename": "black-white-family-profile-portrait-by-promptplum.webp",
-          "local_path": "images/minimalist-photography/black-white-family-profile-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/black-white-family-profile-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-photography/black-white-family-profile-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-photography/black-white-family-profile-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Profile in Monochrome AI Photo Editing Prompt. AI generated studio portrait of a father, mother, and two children in black t-shirts, arranged by height in a side-profile composition against a dark background."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Surrealism / Photorealism",
   "slug": "surrealism-photorealism",
-  "total_prompts": 33,
+  "total_prompts": 26,
   "updated_at": "2026-09-24T13:12:44Z",
   "prompts": [
     {
@@ -50,55 +50,6 @@
           "width": 1792,
           "height": 2400,
           "alt": "AI Photo Prompt: Film grain noir style image of a man in a double-breasted coat with a crow on his shoulder and another landing on his raised gloved hand."
-        }
-      ]
-    },
-    {
-      "id": "6a8fd74546d4207dc24d9c73",
-      "title": "Boy Stylish portrait with SUV and panda",
-      "slug": "stylish-man-white-suv-panda-portrait",
-      "category": "Surrealism / Photorealism",
-      "category_slug": "surrealism-photorealism",
-      "prompt": "Cinematic full-body portrait of a [young man] with [naturally styled hair, and aviator sunglasses], wearing a white leather biker jacket over a black t-shirt, thin silver chain necklace, white slim-fit trousers, and brown leather loafers with no socks. He leans casually against the front driver-side fender of a white luxury SUV (Range Rover style), one leg crossed over the other, one hand in his pocket, gazing off to the side with a confident, relaxed expression.\n\nThe SUV faces the camera at a slight three-quarter angle. Headlights blazing a saturated golden-yellow with visible bloom and lens flare. Metallic gold multi-spoke alloy wheels, black accent trim on the doors and hood vents, dark tinted panoramic roof, custom license plate \"[MF 007]\". Underglow lighting is physically integrated into the vehicle: a hidden LED strip is mounted flush beneath the rocker panels and front splitter, tucked directly against the underside of the car body so the light source itself is not visible — only its glow is. This creates a tight, sharp pool of saturated yellow-gold light emanating from directly under the chassis, hugging the contours of the front splitter and side skirts, with the light visibly touching and wrapping the lower edge of the car body (no gap or floating line between the car and the light). The glow bleeds outward onto the damp asphalt in a soft gradient, brightest right at the point of contact with the tires and rocker panels, fading within a short radius — concentrated and vivid, not a separate glowing bar.\n\nBeside the man, a small fluffy giant panda stands upright on the asphalt, playfully raising one paw toward him, its fur catching a warm rim of yellow light from the underglow.\n\nSetting: a smooth, slightly damp asphalt road curving through hills, deep blue hour just after sunset. Flowering trees arch fully over the road forming a dense canopy across the top of the frame, thick with vivid magenta-pink bougainvillea and bright golden-yellow blossoms intermixed on the same branches, petals scattered on the road. Hazy blue mountain ridges in the far background. The sky is deep saturated twilight blue, not grey or foggy.\n\nLighting and color grade: strong teal-and-orange / blue-and-gold split. Ambient light is cool, deep cobalt blue filling all shadows and the road surface. All warm light comes only from the car — headlights, underglow, and its reflections — creating high contrast between cool environment and warm accents. Rich, punchy saturation on the flowers, wheels, and lights. Slightly lifted blacks with a blue tint, high clarity, crisp micro-contrast. Dramatic rim lighting on the subject and panda. No fog, no haze in the foreground, no muted or washed-out tones. Skin tones natural with a subtle cool cast, realistic skin pores and subsurface scattering.\n\nStyle: hyper-realistic high-end automotive editorial photography, full-frame camera, 35mm lens at f/2.8, subject and car tack-sharp with softly blurred background, 8K, ultra-detailed, cinematic color grading, moody atmosphere, luxury lifestyle photography, editorial fashion shoot, GQ magazine style, high-end commercial advertisement look, subtle film-grain texture, rich contrast, professional color science, shot on ARRI Alexa / Sony A7R V aesthetic, hyperdetailed textures on fabric and fur, true-to-life reflections, atmospheric depth of field, polished automotive commercial finish, masterpiece, best quality, award-winning photography.\n\nSquare 1:1 aspect-ratio.\n\nNegative prompt: foggy, overcast, hazy, grey sky, desaturated, washed out, flat lighting, dim headlights, diffuse underglow, floating light strip, detached glow, light bar separate from vehicle, neon line not touching car, daytime, blurry, simple suv design, distorted hands, extra limbs, deformed face, text artifacts, watermark, cartoonish, low quality, low resolution, overexposed, underexposed, plastic skin, artificial looking.",
-      "description": "Stylish Range Rover portrait prompt with a glowing underglow SUV, a friendly panda, and blooming flowers — create this eye-catching cinematic look free!",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 1855,
-      "copy_count": 1896,
-      "is_premium": false,
-      "published_at": "2026-08-27T06:20:53.732Z",
-      "images": [
-        {
-          "filename": "4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "local_path": "images/surrealism-photorealism/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "original_url": "https://img.promptplum.com/promptImages/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "AI generated cinematic portrait of a young man in a white leather jacket leaning on a white Range Rover Sport with glowing yellow underglow, posing beside a panda under blooming bougainvillea flowers at dusk."
-        },
-        {
-          "filename": "eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "local_path": "images/surrealism-photorealism/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Gemini_Generated_Image_sa47m0sa47m0sa47"
-        },
-        {
-          "filename": "15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "local_path": "images/surrealism-photorealism/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "original_url": "https://img.promptplum.com/promptImages/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Gemini_Generated_Image_7qz1ei7qz1ei7qz1"
         }
       ]
     },
@@ -158,192 +109,6 @@
           "width": 1600,
           "height": 2668,
           "alt": "AI-generated digital illustration of a young woman in a pink shirt and white trousers, layered over a dramatic close-up double-exposure portrait of her face in sunglasses with golden backlighting."
-        }
-      ]
-    },
-    {
-      "id": "6a7a5efc4bbdbe2cf57a9d36",
-      "title": "Girl Walking with Glowing Boy",
-      "slug": "neon-boyfriend-ai-photo",
-      "category": "Surrealism / Photorealism",
-      "category_slug": "surrealism-photorealism",
-      "prompt": "A cinematic night-scene portrait of a woman walking alone on an empty, dimly lit city road, illuminated by distant streetlights. His hair flows naturally, and her face is clearly visible with soft, glowing skin and a soft, elegant expression as she glances to the side. She wears an oversized black t-shirt, loose black jogger pants, and clean white sneakers, with a bracelet on her wrist. Beside her, holding her hand, walks a glowing neon-style imaginary figure of a man — made entirely of continuous golden-amber light outlines, with no visible skin or texture, just a soft glowing silhouette. He holds a large, realistic bouquet of vibrant red roses in his outlined hand. The neon figure emits a warm golden-white glow that contrasts dramatically against the cool, dark, foggy city background filled with soft bokeh streetlights and wet, reflective asphalt. The mood is romantic, calm, melancholic, and dreamlike, blending photorealism with imagination. Shallow depth of field, soft fog, moody cinematic lighting, realistic shadows, ultra-detailed, high realism, dreamy neon aesthetic, cinematic composition, 4K quality, vertical 4:5 portrait orientation. No text, no watermark, no logo, no captions anywhere in the image.",
-      "description": "Use this neon aesthetic photography prompt to create a surreal portrait of a girl holding hands with a glowing neon outline of a boyfriend carrying red roses.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 25,
-      "view_count": 946,
-      "copy_count": 1063,
-      "is_premium": false,
-      "published_at": "2026-08-10T23:30:04.141Z",
-      "images": [
-        {
-          "filename": "04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "local_path": "images/surrealism-photorealism/04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "original_url": "https://img.promptplum.com/promptImages/04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated image of a girl in black streetwear walking beside a glowing neon outline of a boyfriend holding red roses on a foggy night street."
-        },
-        {
-          "filename": "23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "local_path": "images/surrealism-photorealism/23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Neon Aesthetic Street Photography AI Photo Editing Prompt. AI generated photo of a girl in black streetwear walking beside a glowing neon outline of a boyfriend holding red roses."
-        },
-        {
-          "filename": "d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "local_path": "images/surrealism-photorealism/d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "girl-walking-neon-boyfriend-holding-roses-photo-ai-prompt-by-promptplum-4"
-        },
-        {
-          "filename": "8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "local_path": "images/surrealism-photorealism/8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "girl-walking-neon-boyfriend-holding-roses-photo-ai-prompt-by-promptplum-1"
-        }
-      ]
-    },
-    {
-      "id": "6a76bac94bbdbe2cf5250f3d",
-      "title": "Cliffside Couple Sculpture AI Prompt",
-      "slug": "mountain-face-carving-couple-art",
-      "category": "Surrealism / Photorealism",
-      "category_slug": "surrealism-photorealism",
-      "prompt": "A professional dual portrait of a man and a veiled woman side-by-side from the head and shoulders up, their features perfectly identical to the reference images. Both of their profiles are beautifully carved into a massive coastal mountain overlooking the sea. The man features a neatly trimmed mossy beard and rocky hair, while the woman wears a hijab formed from elegant, flowing layers of grey granite rock. Patches of green alpine vegetation and moss accent their stone features. The background is a vast ocean landscape with deep teal water and towering sea cliffs under clear daylight, keeping a unified cool color palette. Calm expression. 3:4 aspect ratio.",
-      "description": "Use this Epic Fantasy Landscape Prompt to generate cinematic photos of colossal stone couple faces carved into towering sea cliffs, overlooking a dramatic fjord.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 440,
-      "copy_count": 419,
-      "is_premium": false,
-      "published_at": "2026-08-08T05:12:41.060Z",
-      "images": [
-        {
-          "filename": "c0519664-a873-457d-a777-3317e89831a6.webp",
-          "local_path": "images/surrealism-photorealism/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Epic Sea Cliff Carvings AI Photo Editing Prompt. An AI-generated digital illustration of a giant stone couple faces carved into a coastal cliff."
-        }
-      ]
-    },
-    {
-      "id": "6a68de334bbdbe2cf5c7597c",
-      "title": "Double Exposure B&W Couple By Lake Portrait",
-      "slug": "bw-double-exposure-couple-lake-portrait",
-      "category": "Surrealism / Photorealism",
-      "category_slug": "surrealism-photorealism",
-      "prompt": "Create a cinematic double-exposure black-and-white romantic portrait of a couple standing back-to-back while holding hands, both with their eyes gently closed and peaceful expressions, symbolizing love, trust, and emotional connection. Captured in an eye-level camera angle with a medium composition. The woman wears an elegant sleeveless flowing black dress with long wavy hair, while the man wears a fitted black button-up shirt and dark trousers with a neatly styled hair. Large, soft-faded monochrome side-profile portraits of both faces are blended into the cloudy sky above, creating a dreamy, emotional composition. The background features a calm mountain lake surrounded by misty hills, soft fog, and an overcast sky. Fine-art monochrome photography, subtle film grain, soft diffused lighting, smooth tonal contrast, ultra-realistic skin texture, cinematic depth, shallow depth of field, perfectly balanced composition, emotional storytelling, high dynamic range, 85mm lens, f/2, 8K resolution, photorealistic, masterpiece quality, no text, no watermark, no distortion. Aspect ratio 4:5.",
-      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a moody B&W image of a couple holding hands back-to-back beneath fading faces in a cloudy sky.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 128,
-      "view_count": 8277,
-      "copy_count": 9975,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:52:03.908Z",
-      "images": [
-        {
-          "filename": "3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "local_path": "images/surrealism-photorealism/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "B&W Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated conceptual double-exposure portrait of a B&W couple, eyes closed, holding hands back-to-back over a misty mountain lake with large faded ghost profile faces in the cloudy sky."
-        },
-        {
-          "filename": "a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "local_path": "images/surrealism-photorealism/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Black and White Double Exposure Portrait AI Photo Editing Prompt. AI generated surreal double exposure portrait of a monochrome couple standing back-to-back with eyes closed by a misty lake, featuring larger versions of their profile faces superimposed over the cloudy sky."
-        },
-        {
-          "filename": "f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "local_path": "images/surrealism-photorealism/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Portrait AI Photo Editing Prompt. AI generated portrait art of a couple standing back-to-back with faded faces over a misty lake."
-        }
-      ]
-    },
-    {
-      "id": "6a590ef2a3af6f1220c3032a",
-      "title": "A Miniature with Chocolate",
-      "slug": "miniature-man-chocolate",
-      "category": "Surrealism / Photorealism",
-      "category_slug": "surrealism-photorealism",
-      "prompt": "Create a hyper-realistic macro portrait of the uploaded handsome person transformed into a tiny, cute chibi-style miniature. Maintain the recognizable facial identity and glasses if present. Give the miniature an oversized semi-realistic head, a very small body, chibi body proportions, and extremely short hands and legs, while keeping the face cute and adorable.\nShow the miniature standing on an off-white round tabletop and tightly hugging an extra-oversized red KitKat bar that is significantly taller and wider than his entire body. Both tiny arms should wrap firmly around the chocolate bar as if he refuses to let it go. The KitKat must look like a real wrapped chocolate bar with natural crumpled folds, a torn-open top, and partially eaten chocolate fingers clearly showing crisp wafer layers.\nAdd realistic chocolate smudges around his mouth, across his fingertips, and on both hands, suggesting he was just eating it. A huge realistic human hand enters from the upper-right corner, gently pinching the back collar of his jacket without covering his face or the KitKat.\nDress him in a dark navy hoodie, white T-shirt, dark slim-fit jeans, and clean matching sneakers. Give him a playful, lovable smile while looking directly at the camera.\nUse a tight vertical 4:5 macro composition where the oversized head, miniature, and enormous KitKat dominate the frame. Add a few chocolate crumbs and small melted chocolate drops on the tabletop. Use a soft light-grey bokeh background, soft bright studio lighting, shallow depth of field, outfit texture, and chocolate textures, natural wrapper reflections, and a whimsical premium advertising-photography aesthetic. Avoid adult body proportions, simple background and realistic head.",
-      "description": "3D Caricature Illustration Prompt: Use this prompt to create a miniature smiling man holding a giant KitKat Chocolate while a large hand reaches down for him.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 2595,
-      "copy_count": 1883,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "local_path": "images/surrealism-photorealism/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Miniature Kit Kat Scene AI Photo Editing Prompt.\nAI generated Whimsical Conceptual Product Art of a smiling, miniature man with glasses and messy chocolate on his face, holding a giant Kit Kat bar while being lifted by a large human hand."
-        },
-        {
-          "filename": "bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "local_path": "images/surrealism-photorealism/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated surreal photo manipulation of a smiling miniature man with an oversized head holding a large, partially eaten KitKat bar and being pinched by a giant human hand."
-        },
-        {
-          "filename": "70f20281-da79-4527-a927-2863a197663b.webp",
-          "local_path": "images/surrealism-photorealism/70f20281-da79-4527-a927-2863a197663b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/70f20281-da79-4527-a927-2863a197663b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/70f20281-da79-4527-a927-2863a197663b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/70f20281-da79-4527-a927-2863a197663b.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "miniature-man-holding-giant-kitkat-ai-art-prompt-by-promptplum-3"
         }
       ]
     },
@@ -729,55 +494,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526703dc",
-      "title": "Timeless Gaze",
-      "slug": "old-man-neon-halo-portrait",
-      "category": "Surrealism / Photorealism",
-      "category_slug": "surrealism-photorealism",
-      "prompt": "[USE THE UPLOADED IMAGE AS STRICT REFERENCE FOR SUBJECT & POSE]\nTask: Create a high-contrast, cinematic portrait of the specific male subject from the uploaded photo in a futuristic, cyberpunk/synthwave style.Composition: Vertical composition, 4:5 aspect ratio, framed from middle chest upward.Outfit: Wearing a black crew-neck t-shirt.\nSubject Identity & Pose (Strict Match):\nStrictly analyze the provided reference image to preserve the subject’s exact facial identity, bald head shape, and natural white beard structure. Recreate the exact pose: head turned slightly to the left, with a calm, intense, contemplative gaze directed off-camera to the left.\nGlasses / Eyewear:\nThe specific thick-framed black glasses with warm amber-tinted lenses seen in the reference. Neon lighting creates subtle reflections along the frame edges and lens surface without hiding the eyes.\nLighting & Color Behavior:\n\nLighting Style: Cinematic Triple-Light Setup. A vibrant neon circular halo behind the head (Primary), and a subtle, cool-toned overhead key light (Third Light) to define the crown of the head and forehead.\nColor Palette: High-contrast complementary scheme; intense Cyan-Teal from the left and fiery Amber-Orange from the right.\nLight Interaction: The cyan light creates a sharp 'edge-light' on the left silhouette. The amber light on the right is softer, kissing the edges of the shoulder and beard. The overhead light provides soft highlights on the bridge of the glasses, forehead, and cheekbones, revealing skin pores and micro-textures within the shadows.\nAtmosphere & Shadows:\nDeep Chiaroscuro effect; the center of the face remains in dramatic shadow with subtle subsurface scattering. Volumetric glow around the neon ring to add atmospheric haze and depth.\nTechnical Details:\nShallow depth of field. Eyes, glasses, and beard in sharp focus. Solid matte black background, clean and distraction-free. 8k resolution, photorealistic, highly detailed.",
-      "description": "Google Gemini AI Photo Editing Prompt: Create a cinematic digital portrait of an elderly man with a white beard and glasses, featuring a vibrant teal and orange neon halo against a dark, high-contrast background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 35,
-      "view_count": 884,
-      "copy_count": 1338,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "local_path": "images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Neon Halo Old Man Portrait AI Photo Editing Prompt. AI generated digital portrait of an elderly man with a white beard and glasses featuring a glowing cyan and orange neon halo."
-        },
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "local_path": "images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "local_path": "images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703c6",
       "title": "Red Alert",
       "slug": "woman-red-outfit-newspaper-room",
@@ -989,45 +705,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "A woman in a sheer blue lace gown stands with eyes closed, enveloped in mystical teal smoke against a dark background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267039a",
-      "title": "Behind the Smile",
-      "slug": "split-face-happy-sad-woman-portrait",
-      "category": "Surrealism / Photorealism",
-      "category_slug": "surrealism-photorealism",
-      "prompt": "Use the uploaded photo as a strict identity reference. The subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain identical.\nThis is one single subject (not two people, not two faces).\n\nOnly the style and emotion changes across the split.\nNo beautification. No reshaping. No stylization. No identity drift.\nMain Concept\nCreate a 4:5 aspect ratio, ultra-realistic cinematic studio portrait with DSLR realism, 8K sharp detail, natural skin texture, soft focus, and shallow depth of field.\nA conceptual duality portrait: public persona vs hidden emotion.\nComposition & Framing\nVertical, centered portrait\nSubject perfectly centered, facing forward, direct eye contact\nOne continuous face across the split\nA jagged white torn-paper seam runs vertically down the exact center\nHead-and-shoulders framing, subject fills most of the frame\nMatte black studio background\nSubject\nA slender adult woman wearing a black turtleneck sweater.\n\nNatural wavy hair with realistic texture and shine.\nLeft Side (Color) — Public Persona\nFull color (ONLY left side)\nWarm, glowing complexion\nVibrant red lipstick\nConfident closed-mouth smile\nLighting: warm and flattering, highlights hair shine and skin glow\nRight Side (Black & White) — Private Reality\nPure monochrome / black-and-white (ONLY right side)\nSame exact face and hair (no duplication)\nSomber, melancholic expression\nLips neutral, slightly parted\nA single visible tear running down near the center seam\nLighting: soft but moody, more shadow depth under the eyes\nRealism & Texture\nPhotorealistic DSLR look, visible pores, natural skin texture, no smoothing, no artificial glow.\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo face morphing\n\nNo painting/illustration/anime/cartoon / 3D\n\nNo plastic skin\n\nNo over-softening",
-      "description": "Create powerful visual storytelling with this split-face portrait AI prompt. Generate realistic happy vs. sad images featuring a torn paper effect, vibrant colors, and cinematic black and white crying details.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1374,
-      "copy_count": 2563,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "local_path": "images/surrealism-photorealism/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Split portrait: one side is vibrant and smiling, the other is grayscale and tearful. A torn paper edge dramatically separates these two moods against a deep black backdrop."
-        },
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "local_path": "images/surrealism-photorealism/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/surrealism-photorealism/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/surrealism-photorealism/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
         }
       ]
     },

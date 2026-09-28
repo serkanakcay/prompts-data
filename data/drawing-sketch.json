@@ -1,7 +1,7 @@
 {
   "category": "Drawing/Sketch",
   "slug": "drawing-sketch",
-  "total_prompts": 57,
+  "total_prompts": 48,
   "updated_at": "2026-09-24T12:55:03Z",
   "prompts": [
     {
@@ -69,35 +69,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Blue ballpoint pen sketch portrait of a bearded man AI Photo Editing Prompt. AI generated digital illustration of a handsome young man with textured hair and a short beard drawn in detailed blue ink crosshatching."
-        }
-      ]
-    },
-    {
-      "id": "6a85c5034bbdbe2cf58d3b4d",
-      "title": "Romantic Desi Couple Illustration with Floral Splash",
-      "slug": "indian-husband-wife-traditional-portrait",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "Create a highly detailed hand-painted watercolor illustration of a couple posing affectionately together, matching the reference image’s facial features.\nComposition: Vertical waist-up framing. The couple is positioned centrally, leaning naturally toward each other. The man stands slightly behind and to the left of the woman, gently embracing her with one arm around her shoulder and his other hand resting affectionately near her upper arm. The woman stands slightly in front, with one arm crossing naturally across her body and her other hand resting near her hair. Their bodies overlap naturally, creating an intimate romantic composition. Keep both faces clearly visible and prominently framed.\nMan: Handsome man with neatly styled hair swept back with natural volume. Natural masculine facial proportions and realistic facial structure. He wears a light sage-green casual button-up shirt with a soft fabric appearance, subtle folds, and an open collar. His expression is cheerful, loving, and relaxed toward the camera.\nWoman: Elegant woman with long, smooth hair flowing naturally over her shoulders, a small traditional red bindi. She wears elegant gold jhumka earrings, a delicate gold necklace, and multiple thin gold bangles. She is dressed in a beautiful pastel pink traditional Indian saree with intricate golden embroidered borders and subtle gold floral motifs. The saree has soft flowing folds and delicate watercolor detailing. Her expression is happy, affectionate, and natural toward the camera.\nBackground: Clean white textured watercolor paper background with soft pastel watercolor splashes behind the couple. Use subtle washes of powder blue, aqua, mint green, pale yellow, and soft lavender, blending organically with irregular brush edges, scattered watercolor droplets, and delicate paint splatters. Keep the background airy, bright, minimal, and uncluttered, with no scenery or distracting objects.\nArt Style: Premium hand-painted watercolor portrait, elegant contemporary Indian romantic illustration, realistic watercolor rendering combined with refined digital illustration. Detailed ink-like outlines, soft translucent watercolor washes, delicate brush textures, subtle color bleeding, layered pigments, gentle highlights, and beautifully controlled shading. Faces should remain highly detailed and expressive while retaining an authentic watercolor aesthetic.\nLighting & Color: Soft diffused studio-like illumination, bright high-key appearance, gentle highlights on the faces and hair, warm skin tones, pastel color palette, natural shadows, and harmonious pink, sage green, gold, blue, mint, and cream tones. Avoid harsh contrast.\nDetails: Highly detailed facial features, realistic eyes with natural reflections, individually defined hair strands, delicate saree embroidery, intricate gold jewelry, realistic fabric folds, watercolor pigment variation, detailed edges, organic brush strokes, and super quality hand-painted detailing.\nQuality: Ultra-detailed, polished professional watercolor artwork, realistic anatomy, natural proportions, expressive faces, clean linework, vibrant color harmony, high-resolution illustration, premium editorial-art quality, crisp facial details with detailed watercolor edges. Aspect ratio 4:5.",
-      "description": "Watercolor Couple Portrait Prompt: Copy & paste this prompt to create a traditional Indian couple illustration featuring a man in a green shirt and a woman in a gold-embroidered pink saree with jewelry, set against a soft pastel watercolor splash background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 2818,
-      "copy_count": 4477,
-      "is_premium": false,
-      "published_at": "2026-08-19T15:00:19.226Z",
-      "images": [
-        {
-          "filename": "b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "local_path": "images/drawing-sketch/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Pink Saree Watercolor Portrait AI Photo Editing Prompt. AI generated watercolor illustration of a smiling Indian couple, the man in a green shirt and the woman in a gold-embroidered pink saree with traditional jewelry, set against a soft pastel splash background."
         }
       ]
     },
@@ -330,155 +301,6 @@
       ]
     },
     {
-      "id": "6a65248d9d499d9af98afe47",
-      "title": "Colorful Scribble Art Family Portrait",
-      "slug": "colorful-scribble-art-family-portrait",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "Create an ultra-detailed hand-drawn scribble-art portrait using the uploaded family photo only as the reference for each person’s facial identity, age, gender, skin tone, hairstyle, and family members. Include exactly the same 3 or 4 people—do not add, remove, replace, or merge anyone. Do not copy the original pose, composition, background, or exact clothing.\nCreate a fresh, professionally arranged family pose. Place the entire family prominently in the center of a vertical composition, close together with warm, natural interaction. Position the parents behind or beside the children, gently leaning inward. For one child, place them centrally between or slightly in front of the parents; an infant or toddler may be held naturally. For two children of any age or gender, arrange both clearly in the center foreground or between the parents with balanced spacing and every face fully visible. Give everyone warm, natural expressions directed toward the viewer.\nRestyle the family in coordinated, elegant outfits suitable for their age, gender, and cultural appearance. If the reference clothing is very simple, enhance it with richer colors, tasteful patterns, refined fabric details, subtle embroidery, layering, or appropriate accessories. The outfits should look stylish and complementary without becoming overly formal. Do not reproduce the exact original clothes.\nRender the portrait using thousands of overlapping, free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red. Preserve recognizable facial features, realistic anatomy, expressive eyes, intricate crosshatching, delicate shading, and accurate proportions.\nUse clean white textured paper as the background. Keep the family sharply detailed and fully defined at the center, while the outer edges of their clothing and surrounding linework gradually dissolve into loose, colorful scribbles and softly fade into the white background on both sides. Maintain balanced negative space around the centered family.\nEye-level medium family portrait, gallery-quality traditional pen-and-ink illustration, vibrant artistic energy, ultra-sharp detail, vertical composition. Aspect ratio 4:5.",
-      "description": "Scribble Art Portrait Prompt: Use this prompt to create a colorful ballpoint pen sketch of a smiling family posing on textured white paper.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 3342,
-      "copy_count": 2437,
-      "is_premium": false,
-      "published_at": "2026-07-25T21:03:09.299Z",
-      "images": [
-        {
-          "filename": "7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "local_path": "images/drawing-sketch/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "original_url": "https://img.promptplum.com/promptImages/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Intricate Ballpoint Sketch Family Portrait AI Photo Editing Prompt. AI generated digital illustration art of a smiling woman and bearded man holding their baby against a white background."
-        },
-        {
-          "filename": "25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "local_path": "images/drawing-sketch/25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling mother and father holding their baby, drawn with colorful scribble lines."
-        },
-        {
-          "filename": "5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "local_path": "images/drawing-sketch/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated illustrative sketch art of a smiling Indian family with parents and baby in colorful traditional attire against a white background."
-        },
-        {
-          "filename": "011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "local_path": "images/drawing-sketch/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Happy Family Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling young family: father in a blue blazer, mother in a purple patterned dress, and baby in a fox sweater."
-        },
-        {
-          "filename": "34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "local_path": "images/drawing-sketch/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Colorful Scribble Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling husband and wife holding their baby girl in a vibrant ballpoint pen sketch style."
-        },
-        {
-          "filename": "eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "local_path": "images/drawing-sketch/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "original_url": "https://img.promptplum.com/promptImages/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Portrait Sketch Art AI Photo Editing Prompt. AI generated portrait illustration of a smiling Asian family of four, rendered in a textured, colorful scribble sketch art style."
-        },
-        {
-          "filename": "06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "local_path": "images/drawing-sketch/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "local_path": "images/drawing-sketch/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "original_url": "https://img.promptplum.com/promptImages/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-6"
-        },
-        {
-          "filename": "299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "local_path": "images/drawing-sketch/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "original_url": "https://img.promptplum.com/promptImages/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Colorful Scribble Art Family Portrait"
-        },
-        {
-          "filename": "725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "local_path": "images/drawing-sketch/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "original_url": "https://img.promptplum.com/promptImages/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-8"
-        },
-        {
-          "filename": "93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "local_path": "images/drawing-sketch/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "original_url": "https://img.promptplum.com/promptImages/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-11"
-        },
-        {
-          "filename": "c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "local_path": "images/drawing-sketch/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "local_path": "images/drawing-sketch/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "original_url": "https://img.promptplum.com/promptImages/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-9"
-        }
-      ]
-    },
-    {
       "id": "6a5d1ee1a3af6f12203a79aa",
       "title": "Textured Impasto Portrait of a Woman",
       "slug": "impasto-woman-oil-painting",
@@ -675,35 +497,6 @@
       ]
     },
     {
-      "id": "6a3ea9efe1ceda640e5afd45",
-      "title": "Safe Haven",
-      "slug": "realistic-couple-drawing",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "Create an ultra-detailed hyper-realistic traditional color pencil sketch of a couple sharing a peaceful, deeply affectionate embrace, illustrated on textured off-white watercolor paper with a refined fine-art aesthetic.\nComposition & Camera Angle:\nEye-level medium close-up portrait, framed from the waist-up in a perfectly centered composition. The couple fills most of the frame, creating an intimate emotional focus with balanced negative space around them. Natural sketch margins, faint construction guidelines, and subtle artist layout marks remain softly visible, enhancing the authentic handcrafted illustration feel.\nSubjects & Appearance:\nThe man has thick, voluminous hair styled with soft natural waves and detailed individual pencil strands, featuring subtle highlights and delicate flyaway hairs. He wears a black  fitted crew-neck short-sleeve t-shirt with realistic fabric tension, gentle wrinkles, soft folds, and natural stretching around the shoulders and upper arms. His facial features are defined yet soft, with closed eyes and a calm, content expression.\nThe woman has long, flowing wavy hair cascading naturally over her shoulders and down her back, rendered with layered graphite and colored pencil strokes, delicate highlights, and realistic texture. She wears a pink sleeveless top with a clean minimalist design, exposing her shoulders and upper arms. Her face is feminine and serene, and peacefully closed eyes.\nBoth subjects have a tan skin tone.\nPose & Emotion:\nThe couple shares a warm, emotionally intimate embrace. The man gently wraps one arm securely around the woman's waist while his other hand rests protectively on the top of her head, fingers softly spread through her hair in a comforting gesture. The woman leans completely into his chest, resting her head against him while wrapping both arms around his torso. Both have their eyes gently closed with faint, peaceful smiles, conveying unconditional love, trust, comfort, safety, and emotional serenity.\nLighting & Shading:\nSoft diffused studio-style lighting recreated entirely through masterful graphite and colored pencil rendering. Elegant chiaroscuro shading creates natural depth around the faces, hair, intertwined arms, and clothing folds. Smooth tonal gradients sculpt the cheekbones, jawline, neck, shoulders, and muscles with subtle realism. Fine hatching, cross-hatching, and layered color blending produce realistic skin texture, hair volume, and fabric dimension while maintaining a soft romantic atmosphere.\nBackground & Paper Texture:\nMinimalist clean background featuring visible watercolor paper grain with subtle organic texture. Faint horizontal and vertical construction sketch lines remain softly visible behind the couple, accompanied by delicate graphite smudges, erased guideline remnants, and authentic pencil imperfections that reinforce the appearance of a handcrafted fine-art sketchbook illustration.\nTechnical Details:\nHyper-realistic traditional color pencil drawing, ultra-fine graphite detailing, realistic line pressure variation, layered colored pencil blending, highly refined hatching and cross-hatching, museum-quality fine-art sketch aesthetic, photorealistic handcrafted illustration, crisp facial detailing, ultra-sharp focus, masterpiece-level craftsmanship, scanned professional artist sketchbook artwork, 8K ultra-high-resolution rendering.\nAspect Ratio: 4:5 vertical",
-      "description": "Couple Sketch Portrait Prompt: Use this prompt to create a natural, intimate digital illustration of a loving couple in a peaceful embrace within a sunlit forest.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 28,
-      "view_count": 1346,
-      "copy_count": 1886,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "local_path": "images/drawing-sketch/b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Embracing romantic couple in a realistic graphite pencil sketch illustration. AI Photo Editing Prompt. AI generated digital illustration of a realistic pencil sketch portrait of a man in a black t-shirt holding a woman in a pink top in a tender embrace with their eyes closed."
-        }
-      ]
-    },
-    {
       "id": "6a37fc71bf79ee5252c22de5",
       "title": "The Cafe Window",
       "slug": "girl-cafe-blue-pen-sketch",
@@ -762,46 +555,6 @@
       ]
     },
     {
-      "id": "6a2bab7161276f872a44fdb9",
-      "title": "The Scribble Sketch Portrait",
-      "slug": "scribble-sketch-portrait",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "Create a 8K highly detailed head-and-neck portrait illustration of a person. Use the attached image as the ONLY face-matching reference.\nComposition:\nThe composition includes the subject's head and shoulders, perfectly composed and perfectly centered. Maintain balanced negative space around the head and hair. The subject is looking directly into the camera with a strict eye-level, front-facing angle (no tilt). Expression should be calm, composed, and with lips gently closed. The subject is wearing a simple black round neck T-shirt, visible only at the shoulders and neckline.\nArt Style:\nRender the artwork as a raw, chaotic ink-style poster, constructed primarily from dense, curved black scribble strokes. The reference image is used strictly for accurate structure and likeness—do not stylize beyond recognition.\nLine Work & Form:\nBuild hair, facial shadows, and depth using layered, overlapping, uneven lines\nIncorporate rough cross-hatching techniques\nLines should feel organic, tangled, expressive, and slightly imperfect\nEmbrace a sense of controlled chaos and hand-drawn energy\nColor Palette (Strictly Minimal):\nSkin: flat beige tone only (no gradients, no realism)\nStructure & shading: deep black ink strokes only\nNo smooth blending or polished rendering\nStylistic Details:\nIntroduce slight asymmetry in line flow for a natural, raw feel\nSurround the subject with an irregular, abstract tangled aura made of loose scribbles\nEnhance the chaotic energy while maintaining structural clarity\nBackground:\nA solid, flat, vibrant yellow background, clean and uniform, creating strong contrast with the black ink work\nLighting:\nLighting should be implied only through line density—do not use realistic lighting or shading techniques\nOverall Look:\nHigh-contrast, graphic, poster-like aesthetic with a raw, expressive ink illustration style\nStrictly Avoid:\n3D effects\nRealistic rendering\nGradients\nSoft shading\nAny polished or clean digital finish\nStyle Direction:\nExpressive ink illustration / raw sketch poster / abstract line-art portrait\nOutput Quality:\n8K resolution\nAspect Ratio: 4:5",
-      "description": "Line Art Sketch Prompt: Copy & paste this prompt to create an intense black ink portrait of the person featuring scribbled lines against a bright yellow background.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 23,
-      "view_count": 851,
-      "copy_count": 1483,
-      "is_premium": false,
-      "published_at": "2026-08-10T16:24:32.589Z",
-      "images": [
-        {
-          "filename": "827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "local_path": "images/drawing-sketch/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man Scribble Sketch AI Photo Editing Prompt. AI generated digital illustration of a detailed sketch of a young man set against a solid yellow background with chaotic scribbles."
-        },
-        {
-          "filename": "53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "local_path": "images/drawing-sketch/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "original_url": "https://img.promptplum.com/promptImages/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Scribble Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration of a young woman with a messy updo drawn in detailed dark line art on a bright yellow background."
-        }
-      ]
-    },
-    {
       "id": "6a29159761276f872a16b618",
       "title": "Sketch and Splatter",
       "slug": "watercolor-batik-woman",
@@ -827,55 +580,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Watercolor Batik Woman Portrait AI Photo Editing Prompt. AI generated digital illustration of a young woman with a thoughtful gaze, against blue watercolor splashes and a grid pattern background."
-        }
-      ]
-    },
-    {
-      "id": "6a29056d61276f872a153717",
-      "title": "Creator and Creation",
-      "slug": "3d-boy-pencil-sketch",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "Create a highly polished, ultra-detailed 3D animated scene in a premium Pixar/Disney-inspired style, blending stylized character animation with traditional fine-art illustration. The composition features a charming man standing beside and leaning against a gigantic floor-to-ceiling sheet of textured, deckle-edged drawing paper mounted against a minimalist wall.\n\nThe man has expressive oversized eyes, voluminous dark hair, warm skin tones, and large red-rimmed eyeglasses. He stands in a relaxed, confident pose with his arms folded across his chest and his right leg casually crossed over his left ankle. He wears an olive-green round-neck T-shirt, fitted blue jeans with rolled cuffs, a simple dark wristwatch, and mustard-yellow high-top canvas sneakers. His expression is warm, proud, and slightly amused as he gazes upward toward the artwork beside him.\n\nThe massive paper displays an exquisitely detailed graphite-and-charcoal portrait of the exact exact same man (without eyeglasses), rendered in a realistic fine-art sketch style. The artwork is a chest-up portrait with the head held upright and no tilt. In the drawing, the man is captured with a warm smile, making direct eye contact with the viewer. The illustration features intricate pencil strokes, cross-hatching, realistic shading, visible paper grain, delicate line work, and masterful charcoal texture, creating the appearance of a hand-drawn museum-quality portrait.\n\nThe contrast between the dimensional 3D character and the flat traditional sketch is a central visual element. Warm cinematic golden-hour sunlight enters from the upper right, illuminating both subjects and creating soft highlights, realistic ambient occlusion, and long, natural shadows. The 3D boy casts a distinct shadow across the giant drawing, reinforcing the interaction between the real and illustrated worlds.\n\nThe environment consists of a minimalist textured taupe-grey wall and a smooth floor, with subtle surface imperfections and natural light falloff. The oversized artwork dominates the frame while the character occupies the lower-right portion, creating strong visual balance and storytelling depth.\n\nUltra-realistic lighting, global illumination, ray-traced shadows, cinematic color grading, shallow depth of field, high dynamic range, premium animated-film rendering, 8K resolution, DSLR-level clarity, hyper-detailed textures, crisp focus, masterpiece quality, seamless blend of 3D character design and traditional graphite illustration.\nUse the uploaded image strictly ONLY for 100% accurate face matching and identity reference.\nAspect ratio 4:5.",
-      "description": "3D Cartoon & Sketch Art Prompt: Copy and paste this prompt to create an animated 3D boy standing proudly beside a large realistic pencil portrait.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 43,
-      "view_count": 1256,
-      "copy_count": 2444,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "local_path": "images/drawing-sketch/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "original_url": "https://img.promptplum.com/promptImages/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 1"
-        },
-        {
-          "filename": "e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "local_path": "images/drawing-sketch/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 2"
-        },
-        {
-          "filename": "092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "local_path": "images/drawing-sketch/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "original_url": "https://img.promptplum.com/promptImages/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 3"
         }
       ]
     },
@@ -1545,45 +1249,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670470",
-      "title": "Cross-Hatched Mind",
-      "slug": "stylized-drawing-illustration",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "Create an 8K highly detailed head-and-neck portrait illustration of a person using the provided face reference. Preserve the exact facial proportions, identity, and unique features without alteration.\nComposition:\nThe frame must include only the head and neck, tightly composed and perfectly centered. Maintain balanced negative space around the head and hair. The subject is looking directly into the camera with a strict eye-level, front-facing angle (no tilt). Expression should be calm, composed, and neutral.\nArt Style:\nRender the artwork as a raw, chaotic ink-style poster, constructed primarily from dense, curved black scribble strokes. The reference image is used strictly for accurate structure and likeness—do not stylize beyond recognition.\nLine Work & Form:\nBuild hair, facial shadows, and depth using layered, overlapping, uneven lines\nIncorporate rough cross-hatching techniques\nLines should feel organic, tangled, expressive, and slightly imperfect\nEmbrace a sense of controlled chaos and hand-drawn energy\nColor Palette (Strictly Minimal):\nSkin: flat beige tone only (no gradients, no realism)\nStructure & shading: deep black ink strokes only\nNo smooth blending or polished rendering\nStylistic Details:\nIntroduce slight asymmetry in line flow for a natural, raw feel\nSurround the subject with an irregular, abstract, tangled aura made of loose scribbles\nEnhance the chaotic energy while maintaining structural clarity\nBackground:\nA solid, flat, vibrant orange background, clean and uniform, creating strong contrast with the black ink work\nLighting:\nLighting should be implied only through line density—do not use realistic lighting or shading techniques\nOverall Look:\nHigh-contrast, graphic, poster-like aesthetic with a raw, expressive ink illustration style\nStrictly Avoid:\nNo outfit visible\n3D effects\nRealistic rendering\nGradients\nSoft shading\nAny polished or clean digital finish\nStyle Direction:\nExpressive ink illustration / raw sketch poster / abstract line-art portrait\nOutput Quality:\n8K resolution\nAspect Ratio: 4:5",
-      "description": "Sketch Illustration Portrait Prompt: Use this prompt to generate a hand-drawn artistic sketch of a man or woman with a calm gaze against a solid orange background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 442,
-      "copy_count": 655,
-      "is_premium": false,
-      "published_at": "2026-09-21T21:14:38.751Z",
-      "images": [
-        {
-          "filename": "man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "local_path": "images/drawing-sketch/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/man-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man Sketch AI Photo Editing Prompt. AI generated digital sketch illustration of a man with curly hair and detailed facial features against a vibrant orange background."
-        },
-        {
-          "filename": "woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "local_path": "images/drawing-sketch/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/woman-orange-background-sketch-portrait-illustration-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman Sketch Portrait on Orange AI Photo Editing Prompt. AI generated digital sketch illustration of a woman with messy dark hair and cross-hatched details against a vibrant orange background."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267046d",
       "title": "Stern Command",
       "slug": "retro-rapper-sketch-boombox-illustration",
@@ -1639,35 +1304,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Neo-noir Ink Illustration Portrait Prompt. AI generated black and white ink illustration portrait of a bearded man with styled hair wearing a formal suit and tie featuring artistic splatters."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267044d",
-      "title": "Pencil & Promise",
-      "slug": "vintage-pencil-sketch-couple-portrait",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "Create a refined, digitally rendered graphite sketch of a young couple in a 4:5 aspect ratio, designed as a romantic yet formal commemorative artwork. The composition blends intimate portraiture with a classical emblem aesthetic, set on a textured cream parchment background.\nFace & Identity (Critical):\n\nUse the reference image(s) for exact facial likeness. Preserve true facial structure, proportions, jawline, eyes, nose, lips, and natural imperfections. Do not beautify, stylize, or alter identity.\nSubjects & Expression:\n\nThe woman (left) has her eyes closed with a soft, peaceful, romantic expression. Long, natural wavy hair flows smoothly with controlled pencil strokes. She wears a traditional dress, leaning into the man with her head resting on his chest. Her right hand gently rests on his chest with relaxed fingers.\n\nThe man (right) tilts his head and body slightly toward hers, eyes closed with a soft, protective, romantic expression. He wears a tailored suit jacket, button-down shirt, and neatly styled tie. Hair is clean and naturally styled.\nPose & Framing:\nSubjects occupy 70-80% of the frame.\nClose-up composition (upper torso and faces only). The pose forms a soft triangular balance, emphasizing emotional connection and intimacy. Subject's slightly fading to the lower sides.\nEmblem (Top Left):\n\nA classical circular crest featuring elegant script initials “A & L”. Below it, a drafting compass symbol. Surrounding wreath: oak leaves on the left and laurel leaves on the right. Beneath, “EST. 2023” in a refined serif font.\nRendering Style:\n\nMonochrome graphite + charcoal sketch.\n\n– Fine hatching on skin for subtle realism\n\n– Cross-hatching on clothing for depth\n\n– Soft top-left lighting with gentle highlights and natural shadow falloff\n\n– Rich grayscale contrast without harsh edges\nBackground & Texture:\n\nCream parchment with subtle grain. Light charcoal smudge near edges for realism. No modern or digital elements.\nBorder & Finish:\n\nThin double-line rectangular border, resembling premium printed artwork.\nOverall Mood:\n\nRomantic, timeless, emotionally intimate, and elegant — must feel like a hand-drawn sketch, not an AI-generated image.",
-      "description": "Google Gemini AI Sketch Editing Prompt: Use this prompt to generate a vintage-style pencil drawing of a couple in a tender embrace, featuring realistic shading and a personalized anniversary crest.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 66,
-      "view_count": 1568,
-      "copy_count": 2884,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "local_path": "images/drawing-sketch/sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Sketch with Crest AI Photo Editing Prompt. AI generated digital pencil sketch illustration of a romantic young couple in formal attire embracing, featuring a decorative monogram crest with the initials \"A&L\" and the text \"EST. 2023.\""
         }
       ]
     },
@@ -1916,35 +1552,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267040d",
-      "title": "Graphite Souls",
-      "slug": "pencil-sketch-man-woman-sketchbook",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "Create a high-resolution, ultra-detailed flat lay photograph of a creative workspace, centered around a spiral-bound sketchbook containing a hyper-realistic charcoal/graphite portrait.\n🔴 Face Match Requirement (CRITICAL)\nBoth drawn subjects must match the uploaded reference image with maximum identity accuracy.\nPreserve exact facial structure, bone anatomy, jawline definition, cheekbone placement, forehead proportions, eyebrow thickness and shape, eye size and spacing, nose bridge and tip structure, lip shape and volume, chin contour, grooming details, and natural asymmetry.\n\nDo not beautify, stylize, or alter proportions.\n\nMaintain authentic skin texture translated into graphite realism.\n\nBoth subjects must remain clearly recognizable.\n📖 Central Subject: The Drawing\nThe centerpiece is a spiral-bound sketchbook placed slightly tilted on a warm wooden desk.\nInside the sketchbook is a highly realistic hand-drawn portrait of two young people positioned back-to-back:\n\nLeft Subject (Female):\n\nShe faces slightly toward the camera with a soft, contemplative, emotionally neutral expression.\n\nLong, natural wavy hair cascading over her shoulders.\n\nCalm gaze directed outward, subtle vulnerability in the eyes.\n\nSoft but detailed shading defining cheekbones and lips.\nRight Subject (Male):\n\nShown in profile facing right.\n\nStrong, defined jawline, including grooming details if present, and make it well-groomed.\n\nMessy, textured hair with natural volume.\n\nFocused, distant expression.\n\nStructured nose profile and clean facial contour.\n✏ Artistic Style & Execution\nMedium: Charcoal / Graphite\nTechniques: Fine-line hatching, cross-hatching, smooth tonal blending\nHigh contrast between deep charcoal clothing and delicate skin shading\nUltra-realistic pencil textures visible\nPaper shows subtle off-white cream tone with visible tooth grain\nThe lower portion of the portrait dissolves into expressive diagonal pencil strokes, creating an unfinished “art study” aesthetic\nPencil strokes remain organic and dynamic, not digitally smooth\n🖼 Surrounding Environment (Flat Lay Composition)\nThe sketchbook rests on a warm-toned wooden desk with visible horizontal grain texture.\n\nTop Left:\nSmall green succulent in a clean white ceramic pot\nTop Right:\nBlack-rimmed eyeglasses\nA single gold paperclip nearby\nRight Side (Parallel Alignment):\nOne matte black pencil\nOne natural wood graphite pencil\nOne thick black marker or charcoal stick\nBottom Left:\nWhite ceramic mug filled with dark coffee\nVisible crema and small surface bubbles\nBottom Area:\nBlack binder clips\nScattered gold paperclips\nStack of pastel sticky notes (yellow, blue, orange)\nRectangular grey eraser resting on top\n💡 Lighting\nSoft, diffused top-down lighting\nGentle directional shadows cast slightly toward the right\nNatural depth and dimensionality on physical objects\nSubtle highlight reflections on glasses and coffee surface\n🎨 Color Palette\nWarm earthy browns (wood surface)\nCream paper tones\nGrayscale charcoal drawing\nVibrant green succulent accent\nSoft pastel sticky notes\nNeutral blacks and metallic gold accents\n📷 Technical & Camera Details\nUltra high resolution\n1:1 aspect ratio\nDeep depth of field (everything sharply in focus)\nEvery element crisp — from succulent leaf texture to graphite strokes\nNatural editorial photography realism\nNo blur, no vignette, no artificial filters\n📐 Composition\nSketchbook slightly angled for organic dynamism\nObjects arranged to frame and visually guide attention toward the portrait\nBalanced yet naturally scattered layout\nClean, premium creative workspace aesthetic",
-      "description": "Google Gemini AI Sketch Editing Prompt: Use this prompt to generate a realistic pencil drawing of a man and woman in a notebook, set on an aesthetic wooden workspace with coffee and stationery.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 78,
-      "view_count": 2083,
-      "copy_count": 5608,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "local_path": "images/drawing-sketch/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Couple Pencil Sketch AI Prompt. AI generated realistic pencil illustration of a young man and woman back-to-back on a spiral notebook page."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703f1",
       "title": "Graphite and Grace",
       "slug": "realistic-colored-pencil-man-portrait",
@@ -2155,35 +1762,6 @@
           "width": 1276,
           "height": 1612,
           "alt": "Gemini AI Generated: a vibrant, mixed-media style portrait features a young man with a hopeful, upward-gazing expression. He has voluminous, styled brown hair and a well-groomed beard, and is wearing oversized aviator sunglasses with bright orange-red gradient lenses. The artwork blends semi-realistic facial rendering with bold, graphic elements, set against a background of vintage newspaper text. Dynamic splashes of electric blue and tangerine orange paint, along with scattered black ink blots, frame his head, creating an energetic and artistic composition that feels both modern and expressive."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670328",
-      "title": "Brushstrokes of Serenity",
-      "slug": "brushstrokes-of-serenity",
-      "category": "Drawing/Sketch",
-      "category_slug": "drawing-sketch",
-      "prompt": "A striking digital expressionist portrait artwork created with strong likeness to the attached reference image. The subject is a young woman shown in a subtle three-quarter, near-frontal view. She has softly defined feminine facial features, expressive warm brown eyes, naturally arched eyebrows, and smooth, well-balanced facial proportions. Her expression is calm and confident with a gentle, relaxed smile, conveying warmth, elegance, and approachability.\nHer hair is thick and voluminous, styled in loose natural waves or soft curls that frame the face organically, adding movement and texture to the composition. Skin tones are warm and natural, rendered with painterly realism — visible brush texture, soft tonal layering, and no plastic smoothness.\nThe artwork blends stylized realism with expressive, textured brushwork. Facial structure is clearly defined using confident directional strokes and smooth color transitions, maintaining realistic anatomy while embracing an illustrated, fine-art finish.\nLighting is cinematic and painterly, featuring a balanced dual-tone color scheme: warm highlights softly illuminate one side of the face, enhancing cheekbones and facial contours, while cool blue undertones shape the opposite side, creating depth and visual contrast without harsh division. The lighting feels artistic rather than photographic.\nThe subject wears a simple, dark, minimal outfit with soft folds, painted in deep neutral tones to keep visual focus on the face and expression.\nThe background remains abstract and minimal, composed of loose sketch lines, expressive brush strokes, and fragmented paint textures in white, light grey, and muted blue shades. The background feels intentionally unfinished, adding energy and modern artistic character without distracting from the subject.\nOverall mood is modern, expressive, and refined — a contemporary digital painting with editorial illustration quality, rich surface texture, confident color blocking, and gallery-style sophistication.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 58,
-      "view_count": 1267,
-      "copy_count": 2145,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "local_path": "images/drawing-sketch/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/drawing-sketch/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/drawing-sketch/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "width": 1321,
-          "height": 1568,
-          "alt": "Gemini AI Generated Image: a striking digital portrait of a young woman rendered in an expressive, painterly style. She has voluminous, wavy dark brown hair that is dramatically lit by a warm, golden light source from the left, creating glowing amber highlights that contrast with the cooler, blue-tinged shadows on the right side of her face and neck. Her expression is gentle and engaging, featuring warm brown eyes and a subtle, closed-lip smile. She is wearing a simple dark charcoal or black top, which helps keep the focus on her face. The background is abstract and textured, composed of loose, sketchy brushstrokes in shades of white, light gray, and muted blue, giving the piece an artistic, energetic quality that frames the more detailed rendering of the subject."
         }
       ]
     },

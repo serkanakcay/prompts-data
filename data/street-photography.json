@@ -1,7 +1,7 @@
 {
   "category": "Street Photography",
   "slug": "street-photography",
-  "total_prompts": 46,
+  "total_prompts": 44,
   "updated_at": "2026-09-24T13:12:38Z",
   "prompts": [
     {
@@ -714,35 +714,6 @@
       ]
     },
     {
-      "id": "6a887ca64bbdbe2cf5cd7d4b",
-      "title": "Stylish Man Holding Rose Among Sunflowers",
-      "slug": "brown-sweater-man-flower-shop-portrait",
-      "category": "Street Photography",
-      "category_slug": "street-photography",
-      "prompt": "Create a ultra-detailed photorealistic cinematic fashion portrait of a stylish man standing inside a charming, cozy flower shop, surrounded by abundant sunflowers, roses, baby's breath, and colorful fresh flowers. He has a neatly styled look, black rectangular sunglasses, and a calm, confident expression.\nOutfit: oversized ribbed dark chocolate-brown crewneck sweater, relaxed-fit off-white cargo trousers. He holds a single delicate pale-pink rose naturally in one hand while the other hand rests casually inside his trouser pocket.\nComposition: vertical mid-to-full body portrait, subject positioned slightly off-center, relaxed fashion-model stance, natural body proportions, eye-level camera angle. The flower shop fills the background with layered floral arrangements and greenery, creating rich depth and visual texture.\nBackground: warm rustic boutique flower shop, wooden frames, vintage floral signs, hanging Edison-style bulbs, abundant sunflowers and roses, softly blurred background elements with cinematic bokeh.\nLighting: warm golden ambient lighting, soft directional light illuminating the face and clothing, gentle highlights on the flowers, subtle shadows, cozy romantic atmosphere, rich earthy color palette.\nCamera & quality: shot on an 85mm lens at f/1.6, shallow depth of field, creamy natural bokeh, cinematic color grading, realistic skin texture, highly detailed hair, detailed knit fabric texture, HDR, professional editorial fashion photography, ultra-photorealistic, 8K resolution, aspect ratio 4:5.",
-      "description": "Lifestyle Flower Shop Photography Prompt: Copy & paste this prompt to create a warm portrait of a stylish man in a brown ribbed sweater and sunglasses holding a pink rose amid a rustic, sunlit florist shop.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 27,
-      "view_count": 467,
-      "copy_count": 624,
-      "is_premium": false,
-      "published_at": "2026-08-21T16:28:22.296Z",
-      "images": [
-        {
-          "filename": "cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "local_path": "images/street-photography/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/street-photography/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/street-photography/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in Brown Sweater Holding Rose in Flower Shop Portrait AI Photo Editing Prompt. AI generated lifestyle portrait of a curly-haired man in sunglasses and a ribbed brown sweater holding a pink rose inside a cozy, string-lit flower shop."
-        }
-      ]
-    },
-    {
       "id": "6a81e42c4bbdbe2cf5358dc0",
       "title": "Orange Wall Fashion Shoot",
       "slug": "stylish-woman-city-street-shoot",
@@ -904,36 +875,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Gemini_Generated_Image_8h6mmg8h6mmg8h6m"
-        }
-      ]
-    },
-    {
-      "id": "6a78aa404bbdbe2cf554c1bb",
-      "title": "Joyful Crosswalk Stroll",
-      "slug": "casual-couple-streetwear-fashion",
-      "category": "Street Photography",
-      "category_slug": "street-photography",
-      "prompt": "Ultra-realistic candid street photography of a couple walking together across a city zebra crossing, photographed from a high overhead angle. The couple is laughing naturally and looking upward toward the camera, creating a joyful, spontaneous moment. The man wears a black baseball cap, dark scarf, blue-and-white striped oversized short-sleeve shirt layered over a black long-sleeve top, loose black pants, white sneakers, and a black backpack, carrying a brown paper shopping bag. His arm is casually around the woman’s shoulder. The woman wears an oversized charcoal-gray hoodie with a bright orange hood, orange inner layer, loose dark green knee-length cargo shorts, black crew socks, and white chunky sneakers. Both have genuine smiles and relaxed body language. Wide white zebra-crossing stripes surround them on textured gray asphalt, with a minimal urban background and no visible vehicles or crowd. Soft overcast daylight, muted cool-gray color palette with subtle warm orange accents, natural grain, soft contrast, realistic skin and fabric textures, authentic candid composition, 50mm street-photography look, high-angle perspective, sharp subjects with gentle background softness, cinematic framing, photorealistic, 8K, highly detailed. No text, no watermark, no extra people, no distorted anatomy, natural hands and faces. Aspect ratio 4:5.",
-      "description": "High-Quality Urban Candid Photo Prompt: Copy & Paste this Prompt to create a realistic photograph of a happy young couple in casual streetwear, smiling, walking, and holding a shopping bag on a city crosswalk.",
-      "ai_tools": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "like_count": 29,
-      "view_count": 598,
-      "copy_count": 939,
-      "is_premium": false,
-      "published_at": "2026-08-09T16:26:40.917Z",
-      "images": [
-        {
-          "filename": "6dcf51c7-4298-4dfb-ba9f-3359fef1d928.jpeg",
-          "local_path": "images/street-photography/6dcf51c7-4298-4dfb-ba9f-3359fef1d928.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/6dcf51c7-4298-4dfb-ba9f-3359fef1d928.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/street-photography/6dcf51c7-4298-4dfb-ba9f-3359fef1d928.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/street-photography/6dcf51c7-4298-4dfb-ba9f-3359fef1d928.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Smiling Couple on Street Crossing Photo AI Photo Editing Prompt. AI generated candid street portrait of a happy man in a striped shirt and cap, and a laughing woman in a grey and orange hoodie walking on a zebra crossing with a shopping bag."
         }
       ]
     },

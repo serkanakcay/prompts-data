@@ -1,7 +1,7 @@
 {
   "category": "Social Media Aesthetic",
   "slug": "social-media-aesthetic",
-  "total_prompts": 27,
+  "total_prompts": 25,
   "updated_at": "2026-09-24T13:12:22Z",
   "prompts": [
     {
@@ -823,56 +823,6 @@
       ]
     },
     {
-      "id": "6a32c59961276f872ac5c830",
-      "title": "Aesthetic Couple Wallpaper",
-      "slug": "aesthetic-couple-wallpaper",
-      "category": "Social Media Aesthetic",
-      "category_slug": "social-media-aesthetic",
-      "prompt": "Create an ultra-realistic iOS-style lockscreen wallpaper featuring the uploaded couple as the main characters. Use the uploaded image strictly for face and identity reference. Preserve both people’s exact facial features, face shape, skin tone, hairstyle, expressions, and overall identity without changing them.\nComposition: trendy fashion-campaign portrait of the couple shot from an extreme low-angle ground perspective, as if the camera is placed near the floor looking upward. Both subjects stand confidently in stylish matching outfits with clean white sneakers. Keep the pose natural, confident, and premium. Background should be a bright clear blue sky with vibrant daylight and natural shadows.\nAdd playful Pinterest-style graphic elements around the couple: colorful doodle flowers, sketch stars, sparkles, hearts, small sticker graphics, and hand-drawn accents. Add a clean yellow dashed outline surrounding both people together. Near the upper clock area, add tiny cute chibi versions of the same couple as decorative mini stickers.\nOverlay a realistic premium smartphone lockscreen UI: Dynamic Island at the top, small lock icon, large clean clock showing 09:41, date text Friday, June 5, battery indicator, small weather widget, and realistic soft notification cards near the lower area. Keep the UI elegant, minimal, readable, and Apple-keynote inspired.\nStyle: luxury lifestyle photography, ultra-realistic skin texture, photorealistic lighting, vibrant colors, sharp details, premium wallpaper quality, clean high-end mobile lockscreen design. Vertical 9:16 phone wallpaper ratio, ultra-sharp, 8K detail, polished Pinterest aesthetic.",
-      "description": "Aesthetic Lock Screen Prompt: Copy & paste to create a custom smartphone wallpaper of a stylish couple surrounded by playful doodles and UI notifications.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 45,
-      "view_count": 3109,
-      "copy_count": 3176,
-      "is_premium": false,
-      "published_at": "2026-08-10T16:25:03.320Z",
-      "images": [
-        {
-          "filename": "45ef93df-e629-4f3e-b123-a8b682fcb619.webp",
-          "local_path": "images/social-media-aesthetic/45ef93df-e629-4f3e-b123-a8b682fcb619.webp",
-          "original_url": "https://img.promptplum.com/promptImages/45ef93df-e629-4f3e-b123-a8b682fcb619.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/social-media-aesthetic/45ef93df-e629-4f3e-b123-a8b682fcb619.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/social-media-aesthetic/45ef93df-e629-4f3e-b123-a8b682fcb619.webp",
-          "width": 1536,
-          "height": 2752,
-          "alt": "Couple on Doodle iPhone Lock Screen AI Photo Editing Prompt. AI generated photo-illustration mockup of a young Asian couple on a personalized iPhone wallpaper design with hand-drawn star, heart, and floral doodles."
-        },
-        {
-          "filename": "5f03ba36-b43a-497e-939e-641d2579dd08.webp",
-          "local_path": "images/social-media-aesthetic/5f03ba36-b43a-497e-939e-641d2579dd08.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5f03ba36-b43a-497e-939e-641d2579dd08.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/social-media-aesthetic/5f03ba36-b43a-497e-939e-641d2579dd08.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/social-media-aesthetic/5f03ba36-b43a-497e-939e-641d2579dd08.webp",
-          "width": 1536,
-          "height": 2752,
-          "alt": "Couple Doodle Lock Screen Wallpaper Prompt. AI generated digital mockup of a stylish couple outlined with yellow dashes, surrounded by colorful flower doodles and phone notifications."
-        },
-        {
-          "filename": "5f111782-aa46-4553-a716-b04c6acb05ab.webp",
-          "local_path": "images/social-media-aesthetic/5f111782-aa46-4553-a716-b04c6acb05ab.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5f111782-aa46-4553-a716-b04c6acb05ab.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/social-media-aesthetic/5f111782-aa46-4553-a716-b04c6acb05ab.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/social-media-aesthetic/5f111782-aa46-4553-a716-b04c6acb05ab.webp",
-          "width": 768,
-          "height": 1376,
-          "alt": "AI generated digital illustration of a man and woman on a phone lock screen decorated with colorful cartoon stickers, flowers, and yellow dashed outlines."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526704f4",
       "title": "The Inspired Dreamer",
       "slug": "woman-inspirational-doodle-art-illustration",
@@ -908,46 +858,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Inspirational Woman with Doodles AI Photo Editing Prompt. AI generated digital illustration of a young woman in glasses sitting cross-legged on ruled paper surrounded by inspirational hand-drawn words and artistic doodles."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704c2",
-      "title": "Skyward Couple",
-      "slug": "couple-heart-hand-gesture-wallpaper",
-      "category": "Social Media Aesthetic",
-      "category_slug": "social-media-aesthetic",
-      "prompt": "Create an ultra-realistic cinematic low-angle couple portrait with a smartphone lockscreen UI overlay. Capture in 8K DSLR quality with extremely sharp focus, zero blur, no artificial smoothing, no CGI or cartoon look. Maintain hyper-realistic skin texture, detailed fabric, and crisp environment clarity.\n\nASPECT RATIO\n3:4 vertical\n\nSCENE\nOpen outdoor environment with a clean, minimal sky background.\nSoft light blue sky with subtle natural clouds filling the entire frame.\nNo buildings, no objects, no distractions.\n\nSUBJECT\nA couple leaning toward the camera from above, captured in a low-angle perspective, creating a modern selfie-style composition.\nFraming must clearly show both faces and hands.\n\nFACE & IDENTITY RULES (IMPORTANT)\nFaces must remain fully natural and identity-preserved.\nDo NOT beautify, reshape, or over-smooth skin.\nMaintain natural imperfections (pores, texture, subtle asymmetry).\nWorks for any couple.\n\nPOSE (STRICT)\nBoth subjects leaning slightly forward toward the camera\nHeads tilted slightly inward, close to each other\nEach subject one hand extended downward toward camera\nFingers forming a clear heart shape in the centre frame (thumbs + fingers touching)\nDirect eye contact with camera\n\nEXPRESSION\nSoft natural happy smiles (IMPORTANT)\nNatural, warm, romantic, friendly vibe\nNo exaggerated expressions\n\nOUTFIT (IMPORTANT)\nFemale: simple, minimal black t-shirt (soft fabric, natural drape)\nMale: white inner t-shirt with black casual shirt (natural folds), optional smartwatch\nClothing must look real with visible texture and folds\n\nLIGHTING\nNatural daylight from front-top direction\nSoft, even illumination on both faces\nNo harsh shadows\nNatural highlights on skin (cheeks, forehead)\nBalanced exposure with realistic tones\n\nBACKGROUND\nFull sky visible (light blue + soft clouds)\nClean minimal composition\nNo distractions\n\nCAMERA & COMPOSITION (STRICT)\nLow-angle shot (camera placed below, pointing upward)\nClose-up framing (faces + hands clearly visible)\n50mm realistic lens perspective\nHeart shape perfectly centered\nUltra-sharp focus on faces, hands, and sky\nNO blur anywhere\n\nSTYLE\nHyper-realistic outdoor couple photography\nModern, clean, social media aesthetic\nNatural color grading (no overprocessing)\n\nLOCKSCREEN UI OVERLAY\nTop center: “Sunday, 19 April” (minimal iOS-style font)\nBelow: large bold time “19:04”\nTop left: signal icon + “Verizon”\nTop right: battery icon (47%)\nClean, subtle smartphone lockscreen overlay\n\nNEGATIVE PROMPT\nblur, motion blur, depth of field, soft focus, background blur, CGI look, cartoon style, plastic skin, distorted hands, extra fingers, extra hands, wrong heart shape pose, bad anatomy, identity change, watermark, low resolution",
-      "description": "Romantic Couple Photography Prompt: Copy & Paste this prompt to generate high-quality images of a happy young couple making a hand-heart gesture against a clear blue sky background.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 354,
-      "view_count": 18648,
-      "copy_count": 40147,
-      "is_premium": false,
-      "published_at": "2026-08-10T16:40:07.585Z",
-      "images": [
-        {
-          "filename": "couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "local_path": "images/social-media-aesthetic/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/social-media-aesthetic/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/social-media-aesthetic/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Young Couple Making Heart Sign AI Photo Editing Prompt. AI generated cinematic portrait of a man and woman looking down at the camera while forming a heart gesture against a clear blue sky."
-        },
-        {
-          "filename": "couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "local_path": "images/social-media-aesthetic/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/social-media-aesthetic/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/social-media-aesthetic/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Couple heart hand gesture lock screen AI Photo Editing Prompt. AI generated digital photograph of a smiling couple forming a heart with their hands from a low angle, overlaid by a lock screen"
         }
       ]
     },

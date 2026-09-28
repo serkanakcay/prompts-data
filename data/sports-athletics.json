@@ -1,7 +1,7 @@
 {
   "category": "Sports & Athletics",
   "slug": "sports-athletics",
-  "total_prompts": 15,
+  "total_prompts": 14,
   "updated_at": "2026-09-24T13:12:24Z",
   "prompts": [
     {
@@ -295,55 +295,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Hyper Realistic Young Man in Grey Hoodie AI Prompt. AI generated studio portrait of a young man wearing a textured grey zip-up hoodie against a dark backdrop with a diagonal neon tube light."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670478",
-      "title": "Tropical Wave Riders",
-      "slug": "animated-couple-surfing-wave-barrel",
-      "category": "Sports & Athletics",
-      "category_slug": "sports-athletics",
-      "prompt": "Create a full-body high-quality 3D Pixar-style portrait image of a joyful couple surfing together inside the barrel of a massive, curling ocean wave.\nCharacter Identity (VERY IMPORTANT):\nMUST maintain accurate identity and face matching to the provided reference image for all subjects — preserve exact facial structure, proportions, skin-tone, hairlines. Adapt the features into a 3D Pixar-style aesthetic while strictly retaining recognizable likeness and unique facial characteristics.\nCharacters & Poses: Female: Natural, flowing hair catching the light, large expressive eyes, and a radiant, wide smile. She is balanced perfectly on an orange surfboard, leaning forward slightly.\nMale: Natural, textured hair, and a look of pure excitement. He is riding parallel to her on his own orange board, arms out for stability.\nOutfits: Matching professional-grade wetsuits. The woman’s suit features a vibrant geometric pattern of orange, yellow, and navy blue. The man’s suit is primarily navy with matching orange and yellow accents on the chest and sides.\nEnvironment & Background: The couple is \"getting tubed\" inside a stunning, translucent turquoise wave. The wave is curling perfectly overhead, with intricate water spray and white sea foam captured in mid-air. In the blurred background, a sun-drenched tropical beach with soft white sand and silhouettes of palm trees is visible.\nComposition & Camera Angle: A dynamic low-angle shot looking up at the couple from the water's surface. This perspective emphasizes the scale and power of the wave while keeping the characters as the central focus.\nLighting: Cinematic mid-afternoon lighting. The sun is slightly low on the horizon, creating a slightly warm, golden glow that illuminates the translucent water, adds rim lighting to the characters' hair, and creates sparkling highlights on every water droplet.\nTechnical Details: 8k resolution, Octane render, ray-tracing for realistic water reflections, hyper-detailed textures (fabric of the wetsuits, hair strands, water bubbles), vibrant and saturated color palette, shallow depth of field.\nAspect Ratio: 4:5",
-      "description": "3D Animated Illustration Prompt: Use this prompt to generate a vibrant, Pixar-style image of a happy couple surfing inside a massive turquoise ocean wave at a tropical beach.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 21,
-      "view_count": 386,
-      "copy_count": 406,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "local_path": "images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Gemini said Couple Surfing on a Wave AI Photo Editing Prompt. AI generated 3D digital illustration of a happy man and woman in colorful wetsuits surfing together inside the barrel of a turquoise ocean wave."
-        },
-        {
-          "filename": "couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "local_path": "images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "local_path": "images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/sports-athletics/couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
         }
       ]
     },

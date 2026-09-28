@@ -1,7 +1,7 @@
 {
   "category": "Nature",
   "slug": "nature",
-  "total_prompts": 48,
+  "total_prompts": 40,
   "updated_at": "2026-09-24T13:10:21Z",
   "prompts": [
     {
@@ -173,35 +173,6 @@
           "width": 1067,
           "height": 1600,
           "alt": "Man with round sunglasses and leaf shadows outdoor portrait AI Photo Editing Prompt. AI generated photorealistic portrait of a handsome bearded young man wearing a black t-shirt and shades, standing among green leaves with aesthetic dappled sunlight across his face."
-        }
-      ]
-    },
-    {
-      "id": "6a824a404bbdbe2cf53d46ef",
-      "title": "Romantic Couple Walking on Beach",
-      "slug": "romantic-couple-beach-walk-photo",
-      "category": "Nature",
-      "category_slug": "nature",
-      "prompt": "A romantic couple photoshoot on an overcast, moody beach. A young couple walks barefoot hand-in-hand along the wet shoreline toward the camera. The woman, on the left, wears a flowing white maxi dress with thin spaghetti straps, holding the skirt lightly with her free hand as it billows in the wind; her naturally wavy hair blows across her shoulder as she smiles softly, looking down. The man, on the right, wears a relaxed white linen shirt with sleeves rolled to the forearms, top buttons open, and loose white linen trousers; he gazes tenderly at her, natural hair tousled by the breeze, wearing a wristwatch.\nBackground: misty grey ocean with gentle white waves, fog-shrouded green mountains fading into haze, dark wet rocks along the right side of the shore. Soft diffused overcast lighting, muted grey and white color palette, wet reflective sand mirroring the couple's figures. Cinematic, editorial fashion photography style, shallow depth of field, high contrast, full-body shot, natural candid movement, serene and intimate mood. Shot on 85mm lens, 8k, high resolution.\nAspect ratio: 4:5",
-      "description": "Use this cinematic photography AI prompt to create a hyper-realistic portrait of a romantic couple walking barefoot on a misty beach in white outfits.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 33,
-      "view_count": 1641,
-      "copy_count": 2760,
-      "is_premium": false,
-      "published_at": "2026-08-16T23:39:44.989Z",
-      "images": [
-        {
-          "filename": "0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "local_path": "images/nature/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple on Beach Cinematic Photography AI Photo Editing Prompt. AI generated portrait photography of a couple holding hands and walking barefoot on a misty beach in white outfits."
         }
       ]
     },
@@ -452,35 +423,6 @@
       ]
     },
     {
-      "id": "6a6bf4964bbdbe2cf5164226",
-      "title": "Couple Walking on Tropical Beach",
-      "slug": "romantic-couple-beach-walk-portrait",
-      "category": "Nature",
-      "category_slug": "nature",
-      "prompt": "Create a premium, ultra-realistic tropical vacation portrait of the uploaded couple, preserving each person’s individual facial identity, skin tone, age, hairstyle and recognizable features without blending their features. Dress the woman in an airy beige linen V-neck midi dress with natural flowing movement, simple jewellery and a woven straw shoulder bag, leaving her barefoot. Dress the man in a lightweight white linen button-down shirt with rolled sleeves, tailored beige shorts and clean white low-top sneakers. Place them walking naturally side by side toward the camera along the shoreline, following a slightly diagonal path across the sand. They share relaxed body language, a gentle arm-around interaction and warm, cheerful expressions while looking at each other. Surround them with soft sand, turquoise water and towering green limestone cliffs, with a light ocean breeze moving their hair and clothing. Position the camera several metres ahead of them at eye level, capturing a natural frontal three-quarter full-body view. Use soft golden-hour sunlight, accurate skin exposure, realistic fabric and skin texture, an 85mm perspective and f/3.2 depth of field. Premium tropical travel lifestyle photography, 4:5 aspect ratio.",
-      "description": "Photorealistic Couple Photography Prompt: Use this to generate a realistic image of a romantic couple walking on a tropical beach near limestone cliffs.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 37,
-      "view_count": 2333,
-      "copy_count": 2520,
-      "is_premium": false,
-      "published_at": "2026-07-31T01:04:22.792Z",
-      "images": [
-        {
-          "filename": "2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "local_path": "images/nature/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Beach Couple Photography AI Photo Editing Prompt. AI generated photorealistic portrait of a smiling young couple strolling barefoot on a sandy tropical beach near turquoise water and limestone cliffs."
-        }
-      ]
-    },
-    {
       "id": "6a5e507ca3af6f12205b588a",
       "title": "Monsoon Pause",
       "slug": "rain-motorcycle-photography",
@@ -593,55 +535,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Aesthetic Saree Portrait in Mountain Meadow AI Photo Editing Prompt. AI generated realistic portrait of a smiling South Asian woman in an intricately embroidered yellow saree walking through a sunlit mountain wildflower meadow."
-        }
-      ]
-    },
-    {
-      "id": "6a4e843a7877e7a4d75f83bc",
-      "title": "Couple Autumn Walk",
-      "slug": "couple-autumn-walk",
-      "category": "Nature",
-      "category_slug": "nature",
-      "prompt": "Create a high-end realistic lifestyle photograph, full-body shot of a reference couple walking hand-in-hand along a narrow forest path fully covered in fallen autumn leaves. Use the attached reference photos for facial identity and preserve exact facial structure and proportions for both individuals. \nThey are walking naturally toward the camera while looking softly at each other with subtle warm smiles.\nThe man walks on the left with one hand casually inside his trouser pocket, wearing thin round eyeglasses, a rich rust-brown corduroy jacket with flap chest pockets over an olive-green turtleneck, tailored beige trousers, and dark brown leather ankle boots. The woman walks close beside him, gently holding his arm while their other hands are naturally joined, wearing a clean camel-tan double-breasted long coat over a dark forest-green ribbed turtleneck dress, paired with tall cognac leather boots. Her hair falls naturally around her shoulders.\n\nThe couple is framed slightly farther back with full bodies visible and soft space above them. The path is enclosed by autumn trees and branches, creating a natural woodland corridor filled with deep rust-red, burnt orange, amber, and muted golden-yellow leaves. Thick dry leaves carpet the ground, with small hints of the dark path visible beneath. Keep a softly bright, distant opening at the end of the trail while the surrounding foliage remains rich and immersive.\n\nSoft diffused autumn daylight filters evenly through the trees, giving the scene a gentle warm glow with controlled highlights, and soft contrast. Both subjects remain sharply focused while the dense autumn background falls into smooth subtle bokeh. Shot on an 85mm portrait lens, premium cinematic lifestyle photography, realistic fabric textures, sharp focus on face, 8k resolution, 3:4 aspect ratio.",
-      "description": "Romantic Autumn Photography Prompt: Use this prompt to create a warm, intimate cinematic portrait of a stylish couple walking on a path covered in autumn leaves.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 29,
-      "view_count": 2625,
-      "copy_count": 3667,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "local_path": "images/nature/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Romantic Autumn Couple Walk Portrait AI Photo Editing Prompt. AI generated realistic photo of a couple walking hand-in-hand and looking lovingly at each other on a forest path covered in autumn leaves."
-        },
-        {
-          "filename": "f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "local_path": "images/nature/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "width": 1792,
-          "height": 2390,
-          "alt": "Autumn Woods Cinematic Photography AI Photo Prompt. AI generated realistic photo of a stylish couple in autumnal outfits, holding hands and walking together in a dense forest path covered in fallen leaves."
-        },
-        {
-          "filename": "56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "local_path": "images/nature/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "AI generated lifestyle portrait of a young couple walking arm-in-arm and holding hands on a path covered with fallen brown leaves in a dense autumn forest."
         }
       ]
     },
@@ -1243,35 +1136,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670412",
-      "title": "The Sweetest Journey",
-      "slug": "romantic-couple-walking-nature-park",
-      "category": "Nature",
-      "category_slug": "nature",
-      "prompt": "Create a hyper-realistic, ultra-detailed 8K full-body portrait photograph of a romantic couple walking naturally toward the camera on a rustic wooden boardwalk during golden hour.\nUse the provided reference image to replicate both subjects’ identities and facial structures accurately. Maintain precise facial proportions, bone structure, hairstyle accuracy, and consistent natural skin tone.\n\nComposition & Framing\nVertical 4:5 aspect ratio\nFull-body framing (head to toe visible)\nNatural mid-step walking pose\nSymmetrical boardwalk perspective with strong leading lines\nSubjects-centred while allowing environmental depth\nEnvironment & Setting\nThe couple walks along a serene wooden boardwalk surrounded by lush greenery.\n\nThe boardwalk extends symmetrically into the distance.\nDense green plants and tall grass frame both sides naturally.\nArching trees create a soft canopy overhead.\nSunlight filters gently through leaves.\nGolden hour lighting produces warm, diffused backlight with soft atmospheric haze.\nThe background has a shallow depth of field with smooth bokeh.\nFoliage texture remains subtly visible (not overly blurred).\nOverall mood: peaceful, cinematic, romantic, naturally illuminated with warm, earthy tones.\nMale Subject\nWell-groomed man with neatly styled hair (exactly matching reference image).\nCrisp white button-down shirt (top buttons open).\nSleeves rolled to forearms.\nSlim-fit light khaki trousers.\nClean white full sneakers.\nA gold wristwatch on the left wrist.\nPose & Expression:\n\nLeft hand casually inside the trouser pocket.\nRight arm slightly bent.\nSoft, relaxed smile.\nFace turned 10–30 degrees toward the woman (not directly at the camera).\nSoft eye contact with a female.\nNatural candid intimacy.\nFemale Subject\nGraceful woman with natural hair styled in a neat bun (match reference precisely).\nSoft white/ivory midi dress.\nShort sleeves, square neckline.\nDress flowing naturally around the legs mid-walk.\nMinimal sandals.\nDelicate necklace.\nWristwatch.\nPose & Expression:\n\nHead gently resting against his shoulder.\nHolding his arm with both hands affectionately.\nGentle smile.\nEyes lowered / slightly closed.\nWarm, intimate body language.\nMood & Emotion\nRomantic, serene, intimate, natural connection.\n\nBody language expresses comfort, affection, and emotional closeness.\nLighting & Photography Specifications\nGolden hour natural backlighting\nSoft diffused frontal fill light for facial clarity\nSubtle soft key illumination on faces\nSlightly glossy, healthy skin finish\nNatural highlights on cheekbones and forehead\nWarm cinematic colour grading\nBalanced earthy browns and natural greens\nHigh dynamic range\nSharp focus on subjects\nShallow depth of field\nSoft background bokeh\nProfessional DSLR quality\n85mm lens look\nf/2.8 aperture\nRealistic fabric folds\nNatural walking motion captured mid-step\nSubtle wind movement in the dress\nUltra-detailed 8K skin texture\nNegative Prompt\nLow quality, blur, motion blur on faces, overexposed highlights, underexposed shadows, harsh lighting, flat lighting, direct eye contact with the camera, excessive golden-hour saturation, overly warm colour cast, unnatural skin tones, distortion, grain, noise, washed-out colours, plastic skin texture, stiff posing.",
-      "description": "Use this prompt to generate a high-quality lifestyle photograph of a romantic couple walking on a wooden boardwalk. It captures a man and woman in elegant casual attire, sharing a serene moment amidst lush greenery and warm golden hour lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 111,
-      "view_count": 4510,
-      "copy_count": 14838,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-walking-nature-portrait-by-promptplum.webp",
-          "local_path": "images/nature/couple-walking-nature-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-walking-nature-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/couple-walking-nature-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/couple-walking-nature-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple on Boardwalk AI Photo Editing Prompt. AI generated lifestyle portrait of a man in a white shirt and a woman in a cream dress walking together on a wooden path surrounded by sunlit greenery."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670388",
       "title": "Little Cherry Blossom",
       "slug": "little-cherry-blossom",
@@ -1336,35 +1200,6 @@
           "width": 736,
           "height": 1104,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670355",
-      "title": "Cozy Koala Cuddles",
-      "slug": "cozy-koala-cuddles",
-      "category": "Nature",
-      "category_slug": "nature",
-      "prompt": "A heartwarming, ultra-realistic cinematic portrait of a woman gently hugging a cute, fluffy koala character. Both have their eyes closed with peaceful, relaxed expressions, conveying comfort, warmth, trust, and a sense of magical friendship.\n\nThe koala is stylized as a Pixar-quality 3D character, featuring ultra-soft detailed fur, subtle blushing cheeks, expressive closed eyes, and a cozy yellow-and-white knitted scarf. It wears a tiny autumn jacket, adding charm and personality.\nThe woman’s face is lit with soft, natural cinematic lighting, preserving 100% real facial identity exactly as in the reference image. Skin texture is realistic and natural, hair is softly detailed with gentle falloff, and her expression shows calm warmth and emotional softness. She wears a casual green jacket that complements the autumn palette.\nThe background is a warm, softly blurred autumn forest with golden bokeh light, creating a dreamy, cozy, and emotionally comforting atmosphere.\nEmotion: Calm, pure, adorable, comforting, magical friendship\nStyle: 8K Pixar-level realism, cinematic framing, soft depth of field, ultra-detailed fur and skin texture, realistic knitted fabric details, warm autumn tones\nImportant: Keep the woman’s face fully realistic and unchanged from the reference image (no stylization, no beautification, no identity drift)",
-      "description": "Discover the exact AI image prompt to generate a heartwarming photorealistic portrait of a girl hugging a cute Koala in an autumn forest. This prompt is optimized for creating high-quality, emotive images with soft bokeh backgrounds and realistic fur textures.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 658,
-      "copy_count": 620,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_iq5wgviq5wgviq5w.jpg",
-          "local_path": "images/nature/Gemini_Generated_Image_iq5wgviq5wgviq5w.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_iq5wgviq5wgviq5w.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/Gemini_Generated_Image_iq5wgviq5wgviq5w.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/Gemini_Generated_Image_iq5wgviq5wgviq5w.jpg",
-          "width": 1187,
-          "height": 1769,
-          "alt": "Gemini AI Generated Image of A peaceful woman embraces a cute koala wearing a cozy scarf in a warm, sunlit autumn forest."
         }
       ]
     },
@@ -1543,64 +1378,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526702df",
-      "title": "Paradise found with you.",
-      "slug": "paradise-found-with-you",
-      "category": "Nature",
-      "category_slug": "nature",
-      "prompt": "Use the uploaded image strictly as a visual and facial reference. Preserve realistic facial structure, proportions, skin tone, and expressions. Do not stylize or alter faces.\nCreate an ultra-realistic travel selfie photograph of a couple standing on a narrow dirt hiking trail with wooden safety railings on both sides, located at Kelingking Beach, Nusa Penida, Bali.\n\nSubjects, Clothing & Accessories (Locked)\nA couple standing close together, smiling naturally.\nOne person holds the camera in an arm-extended wide-angle selfie.\nMan: wearing a loose white linen shirt, white shorts, beige sandals, and dark sunglasses.\nWoman: wearing a white tunic-style top, white pants, pearl-style sandals, and sunglasses.\nClothing is light, breathable, casual, and suitable for hiking.\nNatural posture, relaxed tourist vibe.\nScene & Background (Match Reference)\nThe iconic T-Rex–shaped limestone cliff formation is clearly visible behind them.\nA curved sandy beach appears below between the cliffs.\nThe ocean is deep blue to turquoise, with white waves crashing against the rocks.\nThe trail is surrounded by dense, lush tropical greenery, with rich green foliage covering the cliffside.\nNatural rock textures and vegetation are clearly defined.\nClear open sky and distant ocean horizon.\nLighting & Image Color Tone (Late Morning)\nShot in late-morning daylight.\nBright, clean natural light with the sun higher in the sky.\nSoft, short shadows.\nFresh, vibrant green tones in vegetation.\nCool, crisp ocean blues without golden color cast.\nNatural skin tones, evenly lit, no harsh contrast.\nCamera & Quality\nWide-angle selfie lens\nSlight edge distortion for realism\nDeep depth of field (subjects and background both sharp)\nTravel photography style\nDSLR-quality clarity\nUltra-realistic textures (skin, fabric, wood, rock, water)\nNo filters. No cinematic grading. No artificial glow.\nAspect ratio:\n\n– 4:5 vertical (Instagram)",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 146,
-      "view_count": 7106,
-      "copy_count": 16506,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "local_path": "images/nature/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A high-angle selfie of a smiling couple wearing matching white linen outfits and sunglasses, standing on a cliffside path with wooden railings. Behind them is the iconic Kelingking Beach in Nusa Penida, featuring a massive, green, T-Rex-shaped rock formation jutting out into vibrant turquoise ocean waters."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702c8",
-      "title": "Heart to Heart",
-      "slug": "heart-to-heart",
-      "category": "Nature",
-      "category_slug": "nature",
-      "prompt": "A dreamy, bohemian-style portrait of a young couple during golden hour. The man, wearing a light linen shirt unbuttoned slightly and a beaded necklace, gently holds the woman jawline as his other hand rests on her lower back. She wears a flowy off-shoulder beige dress with floral embroidery, gold hoop earrings, and minimal makeup. They share a quiet, emotional gaze under a warm sunset glow, with tall grass and wildflowers in the blurred background. Cinematic tones, Canon R6 with 85mm. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 84,
-      "view_count": 4038,
-      "copy_count": 11100,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "local_path": "images/nature/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: a romantic moment between a young couple standing close together in a field of tall grass at sunset. Bathed in warm, golden light, they gaze intensely into each other's eyes as the man gently cups the woman's face with his hand. Their casual, earth-toned clothing and intimate posture create a peaceful and affectionate atmosphere."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526702be",
       "title": "Beneath the Stone Gateway",
       "slug": "beneath-the-stone-gateway",
@@ -1655,45 +1432,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Gemini Generated Image: A young woman in a white sweater is cuddling a fawn in a snowy, sunlit forest."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670288",
-      "title": "The Winter King and His Guardian",
-      "slug": "the-winter-king-and-his-guardian",
-      "category": "Nature",
-      "category_slug": "nature",
-      "prompt": "Create an ultra-realistic cinematic winter full body portrait set in a serene snowy forest. A stylish individual is gently embracing a majestic white lion with striking blue eyes. The subject stands close, cheek softly resting against the lion’s head, one hand placed calmly on its mane, conveying trust, calmness, and quiet connection.\nThe subject wears a luxurious long white fur coat layered over a dark outfit, paired with sleek black sunglasses. Light snowflakes rest naturally on the hair and shoulders, enhancing the cold winter atmosphere.\nThe environment features tall pine trees heavily covered in fresh snow, with a soft, blurred background for depth. The ground is thick with untouched snow, and subtle snowfall is visible in the air. Warm natural sunlight filters through the trees from behind, creating a soft golden rim light and gentle highlights on the subject and lion, producing a cinematic glow.\nComposition is clean and visually balanced with a full body framing, maintaining clear visibility of both the subject and the lion. Use shallow depth of field to isolate the subjects while keeping the snowy forest recognizable.\nLighting is soft, natural, and diffused with a slight backlight halo effect. Focus on ultra-realistic textures: detailed fur, natural skin tones, visible snow particles, and crisp winter atmosphere. Avoid any CGI or artificial look.\nStyle: high-end editorial photography, cinematic, ultra-detailed, 8K resolution, sharp focus, realistic color grading, no text, no watermark.\nAspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 794,
-      "copy_count": 1302,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "local_path": "images/nature/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Gemini Generated Image: A person in a white fur coat is standing in a snowy forest and gently hugging a large white lion."
-        },
-        {
-          "filename": "IMG_20251208_001332.jpg",
-          "local_path": "images/nature/IMG_20251208_001332.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251208_001332.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/nature/IMG_20251208_001332.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/nature/IMG_20251208_001332.jpg",
-          "width": 515,
-          "height": 675,
-          "alt": ""
         }
       ]
     },

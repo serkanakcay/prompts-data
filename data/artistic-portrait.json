@@ -1,7 +1,7 @@
 {
   "category": "Artistic Portrait",
   "slug": "artistic-portrait",
-  "total_prompts": 17,
+  "total_prompts": 13,
   "updated_at": "2026-09-24T12:50:26Z",
   "prompts": [
     {
@@ -189,35 +189,6 @@
       ]
     },
     {
-      "id": "6a85c5034bbdbe2cf58d3b4d",
-      "title": "Romantic Desi Couple Illustration with Floral Splash",
-      "slug": "indian-husband-wife-traditional-portrait",
-      "category": "Artistic Portrait",
-      "category_slug": "artistic-portrait",
-      "prompt": "Create a highly detailed hand-painted watercolor illustration of a couple posing affectionately together, matching the reference image’s facial features.\nComposition: Vertical waist-up framing. The couple is positioned centrally, leaning naturally toward each other. The man stands slightly behind and to the left of the woman, gently embracing her with one arm around her shoulder and his other hand resting affectionately near her upper arm. The woman stands slightly in front, with one arm crossing naturally across her body and her other hand resting near her hair. Their bodies overlap naturally, creating an intimate romantic composition. Keep both faces clearly visible and prominently framed.\nMan: Handsome man with neatly styled hair swept back with natural volume. Natural masculine facial proportions and realistic facial structure. He wears a light sage-green casual button-up shirt with a soft fabric appearance, subtle folds, and an open collar. His expression is cheerful, loving, and relaxed toward the camera.\nWoman: Elegant woman with long, smooth hair flowing naturally over her shoulders, a small traditional red bindi. She wears elegant gold jhumka earrings, a delicate gold necklace, and multiple thin gold bangles. She is dressed in a beautiful pastel pink traditional Indian saree with intricate golden embroidered borders and subtle gold floral motifs. The saree has soft flowing folds and delicate watercolor detailing. Her expression is happy, affectionate, and natural toward the camera.\nBackground: Clean white textured watercolor paper background with soft pastel watercolor splashes behind the couple. Use subtle washes of powder blue, aqua, mint green, pale yellow, and soft lavender, blending organically with irregular brush edges, scattered watercolor droplets, and delicate paint splatters. Keep the background airy, bright, minimal, and uncluttered, with no scenery or distracting objects.\nArt Style: Premium hand-painted watercolor portrait, elegant contemporary Indian romantic illustration, realistic watercolor rendering combined with refined digital illustration. Detailed ink-like outlines, soft translucent watercolor washes, delicate brush textures, subtle color bleeding, layered pigments, gentle highlights, and beautifully controlled shading. Faces should remain highly detailed and expressive while retaining an authentic watercolor aesthetic.\nLighting & Color: Soft diffused studio-like illumination, bright high-key appearance, gentle highlights on the faces and hair, warm skin tones, pastel color palette, natural shadows, and harmonious pink, sage green, gold, blue, mint, and cream tones. Avoid harsh contrast.\nDetails: Highly detailed facial features, realistic eyes with natural reflections, individually defined hair strands, delicate saree embroidery, intricate gold jewelry, realistic fabric folds, watercolor pigment variation, detailed edges, organic brush strokes, and super quality hand-painted detailing.\nQuality: Ultra-detailed, polished professional watercolor artwork, realistic anatomy, natural proportions, expressive faces, clean linework, vibrant color harmony, high-resolution illustration, premium editorial-art quality, crisp facial details with detailed watercolor edges. Aspect ratio 4:5.",
-      "description": "Watercolor Couple Portrait Prompt: Copy & paste this prompt to create a traditional Indian couple illustration featuring a man in a green shirt and a woman in a gold-embroidered pink saree with jewelry, set against a soft pastel watercolor splash background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 2818,
-      "copy_count": 4477,
-      "is_premium": false,
-      "published_at": "2026-08-19T15:00:19.226Z",
-      "images": [
-        {
-          "filename": "b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "local_path": "images/artistic-portrait/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artistic-portrait/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artistic-portrait/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Pink Saree Watercolor Portrait AI Photo Editing Prompt. AI generated watercolor illustration of a smiling Indian couple, the man in a green shirt and the woman in a gold-embroidered pink saree with traditional jewelry, set against a soft pastel splash background."
-        }
-      ]
-    },
-    {
       "id": "6a81e5644bbdbe2cf535bb85",
       "title": "Businessman Adjusting Cuffs Fine Art",
       "slug": "handsome-man-suit-oil-painting-portrait",
@@ -336,35 +307,6 @@
       ]
     },
     {
-      "id": "6a6cd5874bbdbe2cf530e5a4",
-      "title": "Watercolor Romance",
-      "slug": "romantic-couple-watercolor-painting-love-status",
-      "category": "Artistic Portrait",
-      "category_slug": "artistic-portrait",
-      "prompt": "Maintain accurate identity and precise face matching to the provided reference image for both subjects.\nCreate a romantic, painterly watercolor-style portrait of a couple standing face-to-face with their foreheads gently resting together, eyes closed, sharing a peaceful and intimate moment. Both wear matching deep crimson-red button-up shirts with subtle fabric texture. The woman has long, naturally hair cascading over her shoulders and a soft, content smile. The man has thick, slightly tousled hair, and a calm, affectionate expression.\nThe composition is centered in a medium portrait with an eye-level camera angle. The couple occupies the central frame while maintaining balanced negative space around them. Behind them is a dramatic abstract watercolor splash bursting outward in vibrant shades of crimson, scarlet, magenta, purple, indigo, cobalt blue, and warm orange. Dynamic paint splatters, ink droplets, expressive brush strokes, and flowing watercolor textures radiate from behind the couple, naturally forming a heart-inspired composition. Several small hand-painted red hearts float subtly throughout the background, enhancing the romantic atmosphere.\nThe background is a warm beige textured watercolor paper with visible paper grain, creating the appearance of a traditional handmade watercolor painting. The artwork combines soft blended washes with bold expressive paint splashes, preserving organic watercolor edges, natural pigment bleeding, and artistic imperfections.\nStyle: Ultra-detailed watercolor illustration, hand-painted fine art, expressive brushwork, vibrant color harmony, soft romantic mood, detailed facial anatomy, exceptionally detailed skin rendering with natural skin texture, finely painted individual hair strands with realistic hair flow and volume, high-detail clothing textures, elegant composition, premium editorial artwork, painterly realism, museum-quality illustration, 8k high resolution, 4:5 aspect ratio.",
-      "description": "Romantic Watercolor Art Prompt: Copy & paste this prompt to create a beautiful portrait of a loving couple in matching red shirts against a colorful heart splash.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 1859,
-      "copy_count": 2370,
-      "is_premium": false,
-      "published_at": "2026-07-31T17:04:07.527Z",
-      "images": [
-        {
-          "filename": "87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "local_path": "images/artistic-portrait/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artistic-portrait/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artistic-portrait/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Watercolor Couple Portrait Art AI Photo Editing Prompt. AI generated watercolor art illustration of a man and a woman in matching red shirts with heads touching, set against a vibrant, heart-shaped paint splash."
-        }
-      ]
-    },
-    {
       "id": "6a5670fda3af6f12209b20fb",
       "title": "Looking Beyond the Story",
       "slug": "girl-blue-lace-dress-art",
@@ -472,35 +414,6 @@
       ]
     },
     {
-      "id": "6a3fffbee1ceda640e65ef0e",
-      "title": "The Giant's Breath",
-      "slug": "surreal-giant-miniature-woman-art",
-      "category": "Artistic Portrait",
-      "category_slug": "artistic-portrait",
-      "prompt": "Create a high-quality digital painting, semi-realistic stylized illustration, whimsical surrealism, ultra-detailed painterly rendering with smooth blended textures, soft gradients, and a highly polished cinematic finish.\nSubject 1 (Giant Figure): A youthful person with a Smooth glowing skin. Features include glossy, softly tinted lips, subtle eyeliner, dark eyes, and large polished gold hoop earrings.\nSubject 2 (Miniature Figure): A tiny exact replica of the main subject, maintaining identical facial features, hairstyle, and styling details.\nOutfits: Both figures wear a cozy cream-colored ribbed knit turtleneck sweater with visible woven texture and soft natural folds. The miniature figure additionally wears a brown plaid pleated skirt paired with classic white lace-up sneakers.\nPose & Interaction: The giant figure gently extends one hand forward with the palm facing upward, carefully supporting the miniature figure standing on it. The larger figure leans forward with softly pursed lips, blowing a visible stream of stylized wind toward the tiny figure. The airflow appears as elegant swirling semi-transparent white currents with subtle volumetric motion. The miniature figure struggles to maintain balance, leaning backward dramatically with arms raised defensively against the gust.\nExpressions: Calm, focused, and subtly playful expression on the giant figure, with eyes directed downward toward the tiny figure. The miniature figure displays a startled, wide-eyed reaction with an open mouth and tense body language conveying surprise and instability.\nLighting: Soft diffused studio lighting with delicate dewy highlights on the nose tip, cheekbones, eyelids, and glossy lips. Smooth realistic shading enhances facial depth, sweater texture, and hand anatomy. Subtle volumetric illumination interacts naturally with the wind effect.\nBackground: Minimal clean pastel teal-gray backdrop with a soft matte finish, creating strong visual separation while maintaining a calm editorial aesthetic.\nCamera Angle & Composition: Medium close-up composition with an intimate eye-level perspective focused on the larger figure. Macro-style depth and scale contrast emphasize the surreal interaction between the giant and miniature figures. Balanced composition with the hand and tiny figure positioned prominently in the foreground.\nTechnical Details: Ultra-detailed 8K digital artwork, masterpiece quality, semi-realistic anatomy, highly refined knit fabric detailing, individually rendered hair strands, soft cinematic color grading, clean linework, subtle atmospheric depth, volumetric wind effects, smooth painterly shading, premium stylized illustration aesthetic.\nAspect ratio 4:5",
-      "description": "Surreal Digital Art Prompt: Copy & Paste this prompt to create a stylized illustration of a giant woman blowing a gust of wind at a tiny girl on her palm.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 289,
-      "copy_count": 377,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "local_path": "images/artistic-portrait/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artistic-portrait/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artistic-portrait/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Surreal Giant Woman and Miniature Figure Art AI Photo Editing Prompt. AI generated surreal digital illustration portrait of a giant woman in a turtleneck blowing a swirling gust of air onto a tiny, distressed woman standing in her open palm."
-        }
-      ]
-    },
-    {
       "id": "6a3d195bbf79ee5252c46117",
       "title": "Wanderer Among the Crows",
       "slug": "gothic-male-portrait-black-white",
@@ -526,55 +439,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Black and White Man and Crows Moody Fashion Portrait. AI Photo Editing Prompt. AI generated cinematic portrait of a sharp-featured man in a black trench coat standing in a field with swirling crows."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704ab",
-      "title": "The Weighted Bloom",
-      "slug": "double-exposure-couple-portrait",
-      "category": "Artistic Portrait",
-      "category_slug": "artistic-portrait",
-      "prompt": "Create an artistic and emotionally powerful grey-and-white prewedding photograph using a refined double exposure technique.\nThe composition features two merged profile portraits forming a single harmonious silhouette.\nOn the left side, the woman is shown in an elegant side profile, facing left. Her hair is styled softly with natural flow (loose waves or gently tucked behind the ear). She wears a modest, refined bridal gown with delicate fabric textures. Her expression carries a gentle, sincere smile with soft, hopeful eyes.\nOn the right side, the man appears in a side profile facing right, with his gaze slightly lowered. His expression is calm and filled with quiet admiration and love. He is dressed in a well-tailored formal suit.\nBoth profiles blend seamlessly into each other, creating a romantic and balanced double exposure effect. The edges should merge smoothly without harsh transitions, forming a unified silhouette.\nThe background is clean, light gray with faint hints of natural scenery subtly visible within the exposure. Lighting is soft yet dramatic, enhancing facial contours, hair texture, and gentle shadows to emphasize depth and emotion.\nStyle should feel like a timeless studio portrait with a modern artistic touch — highly detailed, clean, and natural, avoiding any artificial or overly processed look.\n--grey and white --double exposure --high detail --emotional --studio style --aspect ratio 4:5",
-      "description": "Double Exposure Fine Art Photography Prompt: Use this prompt to create emotive black and white portraits of a man and woman standing back-to-back with surreal nature overlays.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 107,
-      "view_count": 2688,
-      "copy_count": 5437,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "local_path": "images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated artistic digital portrait of a man and woman standing back-to-back in a black and white double exposure style featuring nature silhouettes."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "local_path": "images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Monochrome Couple Double Exposure Portrait Prompt. AI generated double exposure portrait of a man in a suit and a woman in a lace dress looking in opposite directions in black and white."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "local_path": "images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/artistic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated monochrome double exposure portrait of a man and woman standing back-to-back with a serene forest landscape layered over their profiles."
         }
       ]
     }

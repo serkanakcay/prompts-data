@@ -1,7 +1,7 @@
 {
   "category": "High-Fashion Editorial",
   "slug": "high-fashion-editorial",
-  "total_prompts": 65,
+  "total_prompts": 62,
   "updated_at": "2026-09-24T12:57:15Z",
   "prompts": [
     {
@@ -761,35 +761,6 @@
       ]
     },
     {
-      "id": "6a8f148846d4207dc23fac39",
-      "title": "Man in Colorblock Shirt Holding Rose",
-      "slug": "trendy-menswear-studio-photo-prompt",
-      "category": "High-Fashion Editorial",
-      "category_slug": "high-fashion-editorial",
-      "prompt": "Create an ultra-realistic full-body fashion portrait of a stylish man standing confidently in a vibrant cyan-blue seamless studio environment. Preserve the reference subject’s facial features, hairstyle, and overall appearance with maximum identity accuracy.\nHe wears a relaxed-fit short-sleeve abstract patterned button-up shirt featuring bold geometric blocks of blue, black, olive green, and muted gray, with the top buttons slightly open and a subtle silver cross pendant visible around his neck. Pair it with tailored black high-waisted trousers, a black belt, and polished black leather lace-up dress shoes with thick soles. A premium silver metal wristwatch is visible on his left wrist, and he wears thin, minimalist metal-frame eyeglasses.\nPose: standing naturally with his body slightly angled, head gently tilted downward while gazing toward the red rose in his right hand. His right hand holds a single fresh red rose near his chest, while his left hand rests casually inside his trouser pocket. Calm, thoughtful, elegant expression with a relaxed, sophisticated fashion-editorial presence.\nSet the scene against a clean vivid cyan-blue seamless infinity studio backdrop and floor, with a subtle tonal gradient and gentle darker falloff toward the edges. Soft studio lighting evenly illuminates the subject, creating natural highlights on the face, shirt, watch, rose, and shoes with realistic soft shadows beneath the feet.\nFull-body composition, subject centered in frame with generous negative space around him, eye-level camera angle, natural proportions, realistic fabric texture, detailed leather shoes, ultra-detailed skin texture, crisp focus, subtle cinematic depth of field, professional luxury fashion photography, 85mm portrait lens, f/2, ultra-detailed, photorealistic, 8K resolution, 4:5 aspect ratio.\nNegative prompt: distorted anatomy, altered facial features, duplicated rose, artificial skin, blurry face, low resolution, cropped feet, cropped head, cluttered background, extra objects, extra people.",
-      "description": "Studio Fashion Portrait Prompt: Copy & Paste this Prompt to create a stylish full body photo of a man in a colorblock shirt holding a red rose against a teal background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 762,
-      "copy_count": 789,
-      "is_premium": false,
-      "published_at": "2026-08-26T16:30:00.844Z",
-      "images": [
-        {
-          "filename": "92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "local_path": "images/high-fashion-editorial/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-fashion-editorial/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-fashion-editorial/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in Colorblock Shirt Holding a Rose AI Photo Editing Prompt. AI generated studio portrait of a bespectacled man in a patchwork shirt holding a single red rose against a teal background."
-        }
-      ]
-    },
-    {
       "id": "6a8db49d46d4207dc21e7ab9",
       "title": "Luxury Vanity Room Reflection Photo",
       "slug": "luxury-mirror-reflection-photo-prompt",
@@ -922,35 +893,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Cute Man in Green Monochrome Studio AI Photo Editing Prompt. AI generated cinematic portrait of a bearded man in a cream sweater and green joggers sitting on a green couch in a surreal all-green room."
-        }
-      ]
-    },
-    {
-      "id": "6a89ce894bbdbe2cf5edaf26",
-      "title": "Wooden Doorway South Indian Bridal Portrait",
-      "slug": "traditional-indian-bridal-photography-prompt",
-      "category": "High-Fashion Editorial",
-      "category_slug": "high-fashion-editorial",
-      "prompt": "Create a photorealistic, cinematic portrait of a beautiful woman standing gracefully in a traditional setting. She wears an elegant ivory-gold silk saree with a rich golden border and intricate traditional detailing, paired with a matching short-sleeved blouse featuring elaborate gold embroidery and green accents.\nHer face should have natural, refined features, glowing skin. Her hair is neatly parted and styled into a traditional low bun adorned heavily with fresh white jasmine flowers. She wears an elaborate traditional South Indian bridal jewelry set, including a detailed gold maang tikka, large jhumka earrings, layered gold necklaces, an ornate temple-style waist belt, stacked gold bangles, rings, and traditional bridal accessories. Intricate mehndi designs are visible on both hands and forearms.\nPose: Subject standing centrally, subtle natural three-quarter orientation. Her left hand rests gracefully near her waist while her right arm hangs naturally by her side. Relaxed, elegant posture with a calm, confident, affectionate expression, gazing naturally to right off-camera.\nEnvironment: A luxurious traditional South Indian interior with a large dark polished wooden doorway and warm brown wooden panels in the background. Large lush tropical green leaves and ornamental plants frame the subject naturally from both sides, creating an elegant atmosphere. Warm earthy tones complement the ivory-gold saree.\nLighting: Soft, warm diffused cinematic lighting with gentle highlights on the bride's face, jewelry, saree, and flowers. Subtle natural shadows, warm ambient glow, rich contrast, and realistic skin texture. The background is softened with a shallow depth of field while keeping the bride and her outfit sharply detailed.\nComposition: Vertical medium fashion portrait, eye-level camera, centered subject, balanced symmetrical framing, ample space around the subject. Premium Indian bridal editorial photography aesthetic.\nCamera: 85mm portrait lens, f/1.8 aperture, realistic depth of field, highly detailed fabric and jewelry textures, natural skin texture, cinematic color grading, photorealistic, ultra-realistic, 8K quality, 4:5 aspect ratio.\nNegative prompt: cartoon, illustration, artificial skin, excessive beautification, facial distortion, altered facial proportions, blurry face, malformed hands, duplicate jewelry, distorted saree, awkward anatomy, low resolution, text, watermark, logo.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a South Indian bridal portrait in a gold Kanjivaram saree with temple jewelry, jasmine flowers, and henna-adorned hands near a wooden doorway.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 34,
-      "view_count": 1336,
-      "copy_count": 1890,
-      "is_premium": false,
-      "published_at": "2026-08-22T16:30:01.310Z",
-      "images": [
-        {
-          "filename": "aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "local_path": "images/high-fashion-editorial/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-fashion-editorial/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-fashion-editorial/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "South Indian Bride in Gold Kanjivaram Saree Traditional Portrait AI Photo Editing Prompt. AI generated bridal photograph of a woman in a gold silk saree with temple jewelry, jasmine flowers in her hair, and mehndi on her hands standing near a wooden doorway."
         }
       ]
     },
@@ -1419,36 +1361,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Milan Piazza Fashion Photo AI Photo Editing Prompt. AI generated street portrait of a smiling man in a black knit polo and loose blue jeans standing on wet pavement in front of Milan Cathedral with a rainbow visible."
-        }
-      ]
-    },
-    {
-      "id": "6a70c99e4bbdbe2cf597fe97",
-      "title": "Twilight Seaside Romance",
-      "slug": "elegant-beach-couple-portraits",
-      "category": "High-Fashion Editorial",
-      "category_slug": "high-fashion-editorial",
-      "prompt": "A photorealistic, ultra-detailed medium portrait of a highly attractive, elegant couple standing closely together on a beach at twilight. The beautiful woman has long, flowing hair and is wearing a form-fitting navy blue off-the-shoulder evening dress, accessorized with diamond drop earrings, a diamond necklace, a tennis bracelet, and a silver ring. She has a warm, radiant smile. The handsome man natural hair and wears a crisp white linen button-down shirt with rolled-up sleeves, navy blue dress pants, a brown leather belt, and a silver steel watch. He has a confident, subtle smile. His right arm is around her waist, and his left hand is tucked in his pocket. Both make direct eye contact with the camera. The background features a dark blue ocean with gentle waves, and creamy bokeh from distant coastal city lights under a deep blue evening sky. Shot on an 85mm lens, f/1.8 aperture, shallow depth of field, soft flattering diffused lighting illuminating their faces, 8k, masterpiece, cinematic portrait photography, ultra-detailed skin textures. Aspect ratio 4:5.\nMaintain accurate identity and precise face matching to the provided reference image for both subjects.",
-      "description": "Romantic Couple Photography Prompt: Copy & Paste this prompt to create a photorealistic portrait of an elegant couple embracing on a beach at dusk.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 72,
-      "view_count": 2117,
-      "copy_count": 3257,
-      "is_premium": false,
-      "published_at": "2026-08-03T17:02:22.847Z",
-      "images": [
-        {
-          "filename": "a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "local_path": "images/high-fashion-editorial/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-fashion-editorial/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-fashion-editorial/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Evening Beach Couple Portrait AI Photo Editing Prompt. AI generated photo-realistic portrait of a man in a white linen shirt and a woman in a dark blue off-shoulder dress embracing on a beach at dusk."
         }
       ]
     },

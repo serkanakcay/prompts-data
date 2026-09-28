@@ -1,7 +1,7 @@
 {
   "category": "Cinematic Photography",
   "slug": "cinematic-photography",
-  "total_prompts": 96,
+  "total_prompts": 85,
   "updated_at": "2026-09-24T12:53:40Z",
   "prompts": [
     {
@@ -674,84 +674,6 @@
       ]
     },
     {
-      "id": "6a8b09034bbdbe2cf50810c9",
-      "title": "Male Model with Chain Necklace Photo",
-      "slug": "dark-cinematic-male-portrait",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Ultra-realistic cinematic fashion portrait of a young man with a strong, magnetic presence and effortless masculine confidence. Medium close-up, facing the camera, with a naturally commanding posture. His body language should feel relaxed but dominant — one shoulder slightly forward, neck relaxed, head subtly tilted, chin slightly lowered, and eyes looking directly into the lens with a calm, sharp, self-assured intensity. His expression should carry quiet dominance, subtle arrogance, and effortless attitude — not smiling, not soft, not overly dramatic, just a controlled, confident, slightly provocative look. A faint hint of a smirk or tension at the lips is acceptable, but the overall expression must feel cool, composed, and powerful.\n\nHe wears a silk black open-collar shirt with the top buttons undone, creating a refined yet rebellious luxury-fashion vibe. A thin silver chain rests naturally at the corner of his slightly parted lips, with only a tiny section subtly secured by the teeth just behind the lips, making the hold physically believable while keeping the teeth almost completely hidden. The chain hangs loosely and naturally downward, creating an effortless, candid fashion-editorial gesture rather than an obvious biting pose.\n\nPreserve realistic facial proportions, natural masculine character, authentic skin texture, subtle imperfections, visible pores, fine facial details, realistic lips, natural eyebrows, detailed eyes with lifelike catchlights, and individually defined hair strands. The face should look mature, confident, and stylish, with a strong jawline and naturally attractive structure. Avoid an overly polished, artificial, or generic model-like appearance.\n\nDark seamless black studio background with soft shadow falloff and subtle atmospheric depth. Warm golden sunlight enters dramatically from the left side of the frame, sculpting the cheekbone, jawline, nose, and hair while the opposite side falls into rich cinematic shadow. Classic Rembrandt-inspired lighting with a soft golden highlight across the face, deep blacks, controlled highlights, and premium cinematic contrast.\n\nLuxury men's fashion editorial aesthetic — sophisticated, mysterious, confident, slightly rebellious, intimate, expensive, and cinematic. The portrait should feel like a high-end fragrance campaign or premium men's fashion magazine cover. The subject must look like he knows the camera is on him and is completely in control of the frame, with natural swagger and presence rather than a passive portrait pose.\n\nShot at eye level on a Sony A7R V with an 85mm f/1.4 lens, shallow depth of field, creamy background separation, tack-sharp focus on both eyes, natural perspective compression, soft falloff toward the shoulders, realistic optical depth, and professional studio photography characteristics.\n\nPhotorealistic natural color grading with warm golden skin highlights, neutral realistic skin tones, deep rich blacks, subtle tonal separation, soft highlights in the hair, realistic shadow detail, HDR dynamic range, ultra-detailed 8K appearance, premium editorial retouching while retaining authentic human skin texture.\n\nComposition: vertical 4:5 aspect-ratio, medium close-up showing the full head, neck, shoulders, and upper chest with comfortable headroom. Subject centered with a powerful magazine-cover composition. No awkward cropping. The pose should feel natural, stylish, and slightly seductive, with a clear sense of attitude and personality.\n\nOverall vibe: magnetic, confident, masculine, mysterious, dominant, effortlessly stylish, slightly dangerous, premium, cinematic, and emotionally present.\n\nNegative Prompt:\nblurry, low quality, low resolution, cartoon, painting, illustration, CGI look, artificial face, generic AI model face, emotionless expression, soft innocent expression, friendly smile, happy expression, timid vibe, nervous pose, awkward pose, stiff shoulders, passive body language, weak eye contact, blank stare, exaggerated seductive expression, forced pose, visible biting, exposed teeth gripping chain, clenched teeth, chain stretched tightly, chain floating unnaturally on lips, awkward chain placement, chain covering face, distorted chain, distorted face, bad anatomy, asymmetrical eyes, crossed eyes, deformed eyes, unnatural jawline, waxy skin, plastic skin, airbrushed skin, excessive skin smoothing, oversaturated skin, unrealistic facial proportions, duplicate face, extra fingers, visible hands unless naturally framed, overexposed highlights, crushed facial details, flat lighting, unrealistic lighting, harsh artificial rim light, excessive orange tones, background clutter, text, logo, watermark, noise, excessive grain, motion blur, poor focus, cropped forehead, cropped chin.",
-      "description": "Use this cinematic studio photography prompt to create a dark, moody portrait of a handsome man in a black silk shirt biting a silver chain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 19,
-      "view_count": 1477,
-      "copy_count": 1518,
-      "is_premium": false,
-      "published_at": "2026-09-01T22:27:58.831Z",
-      "images": [
-        {
-          "filename": "37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "local_path": "images/cinematic-photography/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "original_url": "https://img.promptplum.com/promptImages/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Moody Editorial Portrait AI Photo Editing Prompt. AI generated studio portrait of a curly-haired man in an open black shirt biting a silver chain necklace against a dark background."
-        },
-        {
-          "filename": "bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "local_path": "images/cinematic-photography/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Dark cinematic male portrait with a silver chain AI Photo Editing Prompt. AI generated studio portrait of a handsome man in a black silk shirt biting a chain."
-        },
-        {
-          "filename": "daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "local_path": "images/cinematic-photography/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated studio portrait of a curly-haired man in a black shirt holding a thin silver chain in his mouth against a dark background."
-        }
-      ]
-    },
-    {
-      "id": "6a887bd04bbdbe2cf5cd633f",
-      "title": "South Indian Bridal Portrait with Mehndi Hands",
-      "slug": "smiling-indian-bride-traditional-portrait",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Create a ultra-detailed photorealistic cinematic portrait of a beautiful woman wearing an elegant deep chocolate-brown silk saree with an intricate antique-gold floral brocade border and matching heavily embroidered blouse with three-quarter sleeves. She wears traditional gold jewelry including a layered temple-style necklace with a detailed pendant, ornate jhumka earrings, and delicate gold accessories. Her hair is neatly parted and styled into a low bun adorned with slightly fresh white jasmine gajra. A small black bindi rests between her eyebrows. Both hands and wrists are decorated with traditional henna (mehndi) patterns on the skin, and adorned with stacked gold bangles on the wrists.\nShe faces the camera directly with a graceful, confident expression, relaxed posture, and hands gently folded near her waist level. Medium close-up composition, centered subject, elegant traditional Indian bridal aesthetic.\nWarm-golden cinematic side lighting coming from the upper right creates soft highlights on her face, jewelry, and silk fabric, with subtle rim light outlining her hair. Dark smooth neutral gray studio background, clean and uncluttered, shallow depth of field, luxurious editorial mood.\n85mm portrait lens, f/1.6, ISO 100, natural skin texture, realistic facial details, accurate anatomy, detailed silk and embroidery textures, cinematic color grading, soft bokeh, HDR, ultra-photorealistic, 8K resolution, vertical composition, aspect ratio 4:5 . No text, no watermark, no identity change, no extra people, no distorted anatomy.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a studio portrait of a smiling Indian bride in a maroon Banarasi silk saree, layered gold temple jewelry, and hennaed hands.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 23,
-      "view_count": 925,
-      "copy_count": 879,
-      "is_premium": false,
-      "published_at": "2026-08-21T16:24:48.694Z",
-      "images": [
-        {
-          "filename": "782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "local_path": "images/cinematic-photography/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "width": 1236,
-          "height": 1600,
-          "alt": "Indian Bride in Banarasi Silk Saree with Gold Temple Jewelry Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Indian woman in a maroon Banarasi silk saree, layered gold temple necklaces, jhumka earrings, and intricately hennaed hands."
-        }
-      ]
-    },
-    {
       "id": "6a87f3d54bbdbe2cf5be080c",
       "title": "Man in Black on Luxury Balcony with Night Bokeh",
       "slug": "man-black-shirt-balcony-night-portrait",
@@ -1003,35 +925,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "AI generated portrait of a serious young man with wavy hair and a mustache, wearing a black turtleneck and blazer, lit by a striking red rim light against a dark background."
-        }
-      ]
-    },
-    {
-      "id": "6a824a404bbdbe2cf53d46ef",
-      "title": "Romantic Couple Walking on Beach",
-      "slug": "romantic-couple-beach-walk-photo",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "A romantic couple photoshoot on an overcast, moody beach. A young couple walks barefoot hand-in-hand along the wet shoreline toward the camera. The woman, on the left, wears a flowing white maxi dress with thin spaghetti straps, holding the skirt lightly with her free hand as it billows in the wind; her naturally wavy hair blows across her shoulder as she smiles softly, looking down. The man, on the right, wears a relaxed white linen shirt with sleeves rolled to the forearms, top buttons open, and loose white linen trousers; he gazes tenderly at her, natural hair tousled by the breeze, wearing a wristwatch.\nBackground: misty grey ocean with gentle white waves, fog-shrouded green mountains fading into haze, dark wet rocks along the right side of the shore. Soft diffused overcast lighting, muted grey and white color palette, wet reflective sand mirroring the couple's figures. Cinematic, editorial fashion photography style, shallow depth of field, high contrast, full-body shot, natural candid movement, serene and intimate mood. Shot on 85mm lens, 8k, high resolution.\nAspect ratio: 4:5",
-      "description": "Use this cinematic photography AI prompt to create a hyper-realistic portrait of a romantic couple walking barefoot on a misty beach in white outfits.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 33,
-      "view_count": 1641,
-      "copy_count": 2759,
-      "is_premium": false,
-      "published_at": "2026-08-16T23:39:44.989Z",
-      "images": [
-        {
-          "filename": "0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "local_path": "images/cinematic-photography/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple on Beach Cinematic Photography AI Photo Editing Prompt. AI generated portrait photography of a couple holding hands and walking barefoot on a misty beach in white outfits."
         }
       ]
     },
@@ -1335,35 +1228,6 @@
           "width": 1122,
           "height": 1402,
           "alt": "cinematic-dual-tone-lighting-male-portrait-ai-prompt-by-promptplum-5"
-        }
-      ]
-    },
-    {
-      "id": "6a7b547b4bbdbe2cf592852c",
-      "title": "Indian Couple in Festive Elegance",
-      "slug": "indian-couple-portrait-photo-prompt",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Use the uploaded reference image as the exact identity source for both subjects — preserve their facial structure, eyes, skin tone, nose shape, jawline, and natural facial proportions with zero alteration. Do not beautify, reshape, or stylize the face. Facial identity match is the top priority in this generation.\n\nCreate a photorealistic luxury couple portrait of the same two people from the reference image, standing closely together outdoors in an elegant garden/resort setting.\n\nWoman (same face as reference): wearing a peach/coral designer saree with intricate gold embroidery, shimmering embellishments, a heavily detailed gold border, matching sleeveless embellished blouse, layered gold necklace, statement jhumka earrings, stacked gold bangles, small elegant bindi. Long voluminous hair softly curled over one shoulder. Natural light makeup only — do not change facial structure. Gentle natural smile matching her real expression.\n\nMan (same face as reference), standing on the right: salmon-peach tailored blazer, white open-collar shirt, cream/beige trousers, brown leather belt, folded pocket square, subtle floral lapel brooch, premium wristwatch, hand in pocket. Naturally styled hair, same as reference. Warm natural smile matching his real expression.\n\nComposition: medium-to-full body couple portrait, both subjects centered, standing close, woman's hand resting gently on man's arm, natural romantic pose, realistic anatomy.\n\nBackground: upscale outdoor garden, soft greenery, warm decorative lights, circular bokeh, subtly blurred for depth.\n\nLighting: warm golden-hour light, soft directional glow, natural skin tones, delicate highlights on jewelry and fabric — lighting should enhance, not distort, facial features.\n\nCamera: eye-level, 85mm portrait lens, f/2.8 (avoid ultra-shallow DOF that blurs facial detail), sharp focus on both faces, cinematic color grading, ultra-detailed skin and fabric texture, photorealistic, 8K, vertical 4:5.\n\nStrict constraints: no text, no watermark, no extra people, no distorted hands, no facial distortion, no identity change, no face swap, no altered bone structure, keep both faces 100% consistent with the uploaded reference.",
-      "description": "Indian Couple Photography Prompt: Copy & paste this prompt to create a romantic outdoor portrait of an Indian couple in elegant peach traditional and formal attire with warm golden bokeh lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 74,
-      "view_count": 3142,
-      "copy_count": 4161,
-      "is_premium": false,
-      "published_at": "2026-08-11T16:57:31.822Z",
-      "images": [
-        {
-          "filename": "28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "local_path": "images/cinematic-photography/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Peach Attire Portrait AI Photo Editing Prompt. AI generated romantic couple portrait of a woman in an embellished peach saree and a man in a peach blazer, posed together outdoors with warm golden bokeh lighting."
         }
       ]
     },
@@ -1961,56 +1825,6 @@
       ]
     },
     {
-      "id": "6a721ca14bbdbe2cf5b7dc0a",
-      "title": "Good Days and Doodle Skies",
-      "slug": "happy-couple-doodle-art",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Create an 8K ultra-high-resolution, hyper-realistic lifestyle portrait of a couple sitting side by side on the white roof of a vintage teal camper van, set against a clear, vivid deep-blue sky. Maintain accurate identity and precise facial likeness to the provided reference image(s) for both subjects.\nSubjects & Pose: The man sits on the left, wearing a relaxed white linen button-down shirt with rolled sleeves, loose beige trousers, and grey canvas sneakers. He is turned slightly toward the woman, looking at her with a soft, affectionate smile. The woman sits on the right, wearing a light, airy white spaghetti-strap sundress paired with white sneakers. She is laughing naturally, looking forward with a joyful expression. She holds a small yellow daisy delicately in one hand and a cluster of pastel balloons (soft blue, pale yellow, and white) in the other. Both subjects sit casually with their legs dangling over the edges of the van's windows, conveying a relaxed, carefree mood.\nEnvironment & Background: The background is a clean, open sky in a vivid deep-blue tone with no clutter. The lower foreground features slightly blurred wildflowers (white daisies and green stems) to add depth and a natural springtime feel. The teal camper van has a vintage aesthetic, with visible window framing and subtle reflections.\nGraphic Overlay Style: Overlay the scene with playful, hand-drawn doodles in a soft pastel palette (white, yellow, pink, and light blue), including simple flowers, smiling faces, stars, hearts, clouds, sparkles, and motion lines around the couple and balloons. Add handwritten-style white text floating in the sky reading: \"good days,\" \"stay close,\" and \"happy place.\" The typography should feel casual, light, and whimsical — like chalk or marker doodles.\nLighting & Mood: Bright, soft natural daylight (midday to early afternoon), evenly lit with minimal harsh shadows. The overall mood is warm, romantic, cheerful, and carefree, evoking a dreamy spring/summer vibe, while the color grading stays cool/neutral rather than warm-toned. \nComposition & Camera: Vertical framing (3:4 aspect ratio), eye-level perspective aligned with the van roof. Subjects are placed slightly below center, leaving ample negative space above for the text and doodles. Balanced composition with the couple as the focal point.\nTechnical Details: Shot on a professional DSLR, 85mm lens, f/2.8 aperture for shallow depth of field, ultra-detailed textures, crisp focus on the subjects, soft background blur, 8K resolution, neutral/cool color tone (not warm).",
-      "description": "Mixed Media Art Prompt: Copy & paste this prompt to create a joyful aesthetic image of a happy couple sitting on a vintage teal van with pastel balloons and playful sky doodles.",
-      "ai_tools": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "like_count": 66,
-      "view_count": 1271,
-      "copy_count": 1545,
-      "is_premium": false,
-      "published_at": "2026-08-04T17:08:49.083Z",
-      "images": [
-        {
-          "filename": "fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "local_path": "images/cinematic-photography/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT Image Aug 15, 2026, 10_56_49 PM"
-        },
-        {
-          "filename": "56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "local_path": "images/cinematic-photography/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT Image Aug 15, 2026, 11_13_58 PM"
-        },
-        {
-          "filename": "f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "local_path": "images/cinematic-photography/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Happy Couple on a Vintage Teal Van with Playful Doodles AI Photo Editing Prompt. AI generated digital mixed-media illustration of a couple on a teal van roof with pastel balloons, daisies, and a sky full of hand-drawn hearts, stars, and playful text doodles."
-        }
-      ]
-    },
-    {
       "id": "6a7218314bbdbe2cf5b7474e",
       "title": "A Mediterranean Morning",
       "slug": "european-summer-vacation-aesthetic",
@@ -2473,55 +2287,6 @@
       ]
     },
     {
-      "id": "6a68de334bbdbe2cf5c7597c",
-      "title": "Double Exposure B&W Couple By Lake Portrait",
-      "slug": "bw-double-exposure-couple-lake-portrait",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Create a cinematic double-exposure black-and-white romantic portrait of a couple standing back-to-back while holding hands, both with their eyes gently closed and peaceful expressions, symbolizing love, trust, and emotional connection. Captured in an eye-level camera angle with a medium composition. The woman wears an elegant sleeveless flowing black dress with long wavy hair, while the man wears a fitted black button-up shirt and dark trousers with a neatly styled hair. Large, soft-faded monochrome side-profile portraits of both faces are blended into the cloudy sky above, creating a dreamy, emotional composition. The background features a calm mountain lake surrounded by misty hills, soft fog, and an overcast sky. Fine-art monochrome photography, subtle film grain, soft diffused lighting, smooth tonal contrast, ultra-realistic skin texture, cinematic depth, shallow depth of field, perfectly balanced composition, emotional storytelling, high dynamic range, 85mm lens, f/2, 8K resolution, photorealistic, masterpiece quality, no text, no watermark, no distortion. Aspect ratio 4:5.",
-      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a moody B&W image of a couple holding hands back-to-back beneath fading faces in a cloudy sky.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 128,
-      "view_count": 8277,
-      "copy_count": 9975,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:52:03.908Z",
-      "images": [
-        {
-          "filename": "3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "local_path": "images/cinematic-photography/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "B&W Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated conceptual double-exposure portrait of a B&W couple, eyes closed, holding hands back-to-back over a misty mountain lake with large faded ghost profile faces in the cloudy sky."
-        },
-        {
-          "filename": "a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "local_path": "images/cinematic-photography/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Black and White Double Exposure Portrait AI Photo Editing Prompt. AI generated surreal double exposure portrait of a monochrome couple standing back-to-back with eyes closed by a misty lake, featuring larger versions of their profile faces superimposed over the cloudy sky."
-        },
-        {
-          "filename": "f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "local_path": "images/cinematic-photography/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Portrait AI Photo Editing Prompt. AI generated portrait art of a couple standing back-to-back with faded faces over a misty lake."
-        }
-      ]
-    },
-    {
       "id": "6a67ac8e4bbdbe2cf5ab2d7d",
       "title": "Monochrome Man Black Hoodie Sunglasses",
       "slug": "monochrome-boy-black-hoodie-sunglasses-portrait",
@@ -2817,35 +2582,6 @@
       ]
     },
     {
-      "id": "6a5d307fa3af6f12203c0829",
-      "title": "Man with a Rose in a Luxury Car",
-      "slug": "man-rose-luxury-car",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Ultra realistic 16k full-body night shot of a stylish young man sitting in a luxury black car door open front view, holding a red rose, modern fashion, black vest and bright white open linen shirt, slim black pants, glossy dress shoes, sunglasses, silver wristwatch, trendy styled hair, confident pose, cinematic lighting, modern background, luxury lifestyle vibe, high detail, photorealistic, 85mm lens, golden bokeh, warm tones --ar 4:5 --v 6 --style raw",
-      "description": "Luxury Lifestyle Portrait Prompt: Use this prompt to create a photorealistic night portrait of a stylish suited man holding a red rose in a black car.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 33,
-      "view_count": 2721,
-      "copy_count": 3670,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "local_path": "images/cinematic-photography/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man with Rose Photo AI Photo Editing Prompt. AI generated portrait of a handsome suited guy in a luxury car holding a red rose at night."
-        }
-      ]
-    },
-    {
       "id": "6a57bf9ea3af6f1220a7882d",
       "title": "Magenta and Midnight Blue",
       "slug": "pink-blue-cinematic-portrait",
@@ -2901,84 +2637,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Bearded Man with Skull Ring Cinematic Portrait AI Photo Editing Prompt. AI generated cinematic portrait of a bearded man in a black mandarin-collar jacket, touching his collar to showcase a silver skull ring under moody red light."
-        }
-      ]
-    },
-    {
-      "id": "6a4eebac7877e7a4d76324df",
-      "title": "Romantic Couple Sunset Photography",
-      "slug": "romantic-couple-sunset-photography",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Generate a cinematic high-resolution romantic portrait of a young couple standing together by a seaside cliff at sunset, sharing a warm intimate moment. Use the attached reference photo for facial identity and preserve exact facial structure and proportions. The woman stands on the left, looking up at the man with a joyful affectionate smile, one hand resting gently on his chest. She is wearing a soft blush-pink saree with delicate gold embroidery along the border and blouse sleeves, paired with gold jhumka earrings, a matching necklace, and colorful stacked bangles. Her hair is styled in loose soft waves with the front lightly pinned back. The man stands on the right, smiling down at her with a calm romantic expression, wearing a crisp white shirt with the top buttons casually open, fitted black trousers, a black wristwatch, and one hand relaxed inside his pocket. The background features a glowing golden sunset over calm water, a rocky cliffside, a few birds flying nearby, and scattered rose petals drifting through the air, creating a dreamy cinematic mood. Warm backlit golden hour lighting, soft natural skin tones, shallow depth of field, and realistic fabric detail. Shot on a full-frame DSLR with an 85mm portrait lens, premium lifestyle editorial photography, aspect ratio 3:4.",
-      "description": "Romantic Couple Photography Prompt: Use this AI prompt to generate a beautiful golden hour portrait of a Indian couple in a pink saree embracing by the sea.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 38,
-      "view_count": 8063,
-      "copy_count": 3070,
-      "is_premium": true,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "cf98810e-9ec3-425e-b44b-2598654a6b2c.webp",
-          "local_path": "images/cinematic-photography/cf98810e-9ec3-425e-b44b-2598654a6b2c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cf98810e-9ec3-425e-b44b-2598654a6b2c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/cf98810e-9ec3-425e-b44b-2598654a6b2c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/cf98810e-9ec3-425e-b44b-2598654a6b2c.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Romantic Couple Beach Photography AI Photo Editing Prompt. AI generated cinematic portrait of a joyful Indian couple embracing on a rocky beach at golden hour, with floating rose petals."
-        }
-      ]
-    },
-    {
-      "id": "6a4e843a7877e7a4d75f83bc",
-      "title": "Couple Autumn Walk",
-      "slug": "couple-autumn-walk",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Create a high-end realistic lifestyle photograph, full-body shot of a reference couple walking hand-in-hand along a narrow forest path fully covered in fallen autumn leaves. Use the attached reference photos for facial identity and preserve exact facial structure and proportions for both individuals. \nThey are walking naturally toward the camera while looking softly at each other with subtle warm smiles.\nThe man walks on the left with one hand casually inside his trouser pocket, wearing thin round eyeglasses, a rich rust-brown corduroy jacket with flap chest pockets over an olive-green turtleneck, tailored beige trousers, and dark brown leather ankle boots. The woman walks close beside him, gently holding his arm while their other hands are naturally joined, wearing a clean camel-tan double-breasted long coat over a dark forest-green ribbed turtleneck dress, paired with tall cognac leather boots. Her hair falls naturally around her shoulders.\n\nThe couple is framed slightly farther back with full bodies visible and soft space above them. The path is enclosed by autumn trees and branches, creating a natural woodland corridor filled with deep rust-red, burnt orange, amber, and muted golden-yellow leaves. Thick dry leaves carpet the ground, with small hints of the dark path visible beneath. Keep a softly bright, distant opening at the end of the trail while the surrounding foliage remains rich and immersive.\n\nSoft diffused autumn daylight filters evenly through the trees, giving the scene a gentle warm glow with controlled highlights, and soft contrast. Both subjects remain sharply focused while the dense autumn background falls into smooth subtle bokeh. Shot on an 85mm portrait lens, premium cinematic lifestyle photography, realistic fabric textures, sharp focus on face, 8k resolution, 3:4 aspect ratio.",
-      "description": "Romantic Autumn Photography Prompt: Use this prompt to create a warm, intimate cinematic portrait of a stylish couple walking on a path covered in autumn leaves.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 29,
-      "view_count": 2623,
-      "copy_count": 3667,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "local_path": "images/cinematic-photography/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Romantic Autumn Couple Walk Portrait AI Photo Editing Prompt. AI generated realistic photo of a couple walking hand-in-hand and looking lovingly at each other on a forest path covered in autumn leaves."
-        },
-        {
-          "filename": "f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "local_path": "images/cinematic-photography/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "width": 1792,
-          "height": 2390,
-          "alt": "Autumn Woods Cinematic Photography AI Photo Prompt. AI generated realistic photo of a stylish couple in autumnal outfits, holding hands and walking together in a dense forest path covered in fallen leaves."
-        },
-        {
-          "filename": "56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "local_path": "images/cinematic-photography/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "AI generated lifestyle portrait of a young couple walking arm-in-arm and holding hands on a path covered with fallen brown leaves in a dense autumn forest."
         }
       ]
     },
@@ -3676,74 +3334,6 @@
           "width": 928,
           "height": 1152,
           "alt": "AI generated portrait series of a young man wearing a burgundy corduroy shirt posing in a golden wheat field at sunset, presented in three stacked panels showing him looking off-camera, adjusting his hair, and holding a dried flower."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704d6",
-      "title": "Soulmate Horizon",
-      "slug": "romantic-couple-beach-name-art",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Create a hyper-realistic cinematic couple photography poster, 2:3 portrait format.\nDual-zone composite layout: [TOP ZONE — Blue Cinematic Close-Up] Extreme macro close-up of a young couple, foreheads pressed together in an intimate near-kiss pose, eyes gently shut, soft genuine smiles, slightly faded color tones. Shot with Sony Alpha 1 Mirrorless, 85mm f/1.2 prime lens, creamy bokeh, cool blue-steel color grade (#1a3a5c tonal palette).\nFaces razor-sharp, background melting into buttery bokeh haze. Cinematic soft haze overlay blending into the middle of the frame.\n[BOTTOM ZONE — Warm Full-Body Romance Shot] Same couple, warm natural daylight, slight Dutch/market tilt on frame. Man: white breathable linen half-sleeve shirt, bracelet on wrist, dark trousers. Woman: deep red satin spaghetti-strap fitted dress, naturally styled hair flowing freely. Both leaning foreheads together, gazing down at a dark-paper-wrapped red rose bouquet they hold between them. Overcast ocean/horizon soft blurred background, \"soft blurred background\", \"creamy bokeh effect\", \"shallow depth of field look\", \"cinematic haze\". Clear faces, clean skin, photorealistic detail.\n[BOTTOM TEXT OVERLAY] White handwritten signature-style cursive script: → \"Soulmate\" (large, central) — two tiny flying dove silhouettes above the descender of 'l' → Below in clean white uppercase sans-serif with wide letter-spacing: \"JACK-ROSE\" → Below that: \"05 FEBRUARY 2022\" Style: Editorial pre-wedding photography, Vogue India aesthetic, Sony Alpha 1 mirrorless, f/1.2 aperture, ISO 200, daylight balanced. Ultra-realistic, no illustration, photographic grain.",
-      "description": "Romantic Double Exposure Photography Prompt: Copy and paste this prompt to create a sentimental beach portrait of a couple holding red roses with elegant personalized typography.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 433,
-      "view_count": 16859,
-      "copy_count": 60623,
-      "is_premium": false,
-      "published_at": "2026-08-06T13:14:09.529Z",
-      "images": [
-        {
-          "filename": "romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "local_path": "images/cinematic-photography/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Romantic Couple Beach Poster AI Photo Editing Prompt. AI generated digital illustration of a couple touching foreheads on a beach with a bouquet of red roses."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267035a",
-      "title": "Man Waiting with Bouquet in Garage",
-      "slug": "man-black-suit-rose-bouquet",
-      "category": "Cinematic Photography",
-      "category_slug": "cinematic-photography",
-      "prompt": "Primary Instruction (Face Match / Identity Lock)\nUse the uploaded image strictly as a face and identity reference only. Preserve the exact facial structure, proportions, hairstyle, and grooming details. No beautification, no stylization, no identity drift.\n\nScene & Framing\nUltra-realistic cinematic medium-to-three-quarter shot (mid-thigh to head), not a close-up, in a 3:4 vertical aspect ratio. Camera placed at natural eye level. Subject fills about 55-65% of the frame, with strong background separation.\n\nPose & Action\nThe man leans casually against the front corner of a black luxury car.\nBody slightly angled, shoulders relaxed.\nHead naturally tilted downward toward the phone.\nLeft hand holding a smartphone at waist/chest level\nRight hand holding a bouquet lowered near the waist\n\nMood: calm, confident, romantic — clearly waiting for a date.\n\nLighting & Shadow Depth (Critical)\nLighting matches an underground parking garage:\nCool overhead fluorescent lighting creates soft top-down illumination\nClear shadow falloff under the jawline, collarbone, arms, and suit folds\nSubtle shadow separation between the subject and the car\nSubject’s physique and clothing structure are clearly defined by directional light + soft contrast\nNo flat lighting, no harsh highlights — realistic shadow depth and dimensionality.\n\nColor Tone & Look\nOverall cool blue / teal color grading, dominant in the environment and shadows.\nDeep clean blacks in the suit.\nSkin tones remain natural and realistic.\nThe red roses provide the only warm color contrast.\n\nOutfit & Details\nAll-black outfit: fitted black suit jacket, black open-collar shirt (no tie), black trousers, black belt with silver buckle.\nDark square sunglasses.\nLarge silver metal chronograph watch on the left wrist.\nNaturally styled hair, well-groomed appearance.\n\nBouquet\nWrapped in black paper with red roses, white lilies, small blue/purple flowers, and green foliage.\n\nCar Visibility\nOnly the front section of the car is visible — vertical chrome grille, partial headlight, glossy hood reflections. License area cropped.\n\nBackground & Depth of Field\nUnderground parking garage with low ceiling, fluorescent strip lights, orange pillars with white numbering.\nVery strong depth of field blur — background dissolves into soft cinematic bokeh, keeping the subject sharply isolated.\n\nStyle & Quality\nUltra-photorealistic cinematic fashion photography, realistic light physics, accurate shadows, shallow depth of field, high detail in fabric, skin, metal, flowers, and reflections.\n\nNo text, no watermark, no logos.\n\nNegative Prompt (Avoid):\nclose-up portraits, tight face crop, selfie angle, flat lighting, overexposed highlights, blown whites, washed-out blacks, grey or faded black suits, warm yellow lighting, orange color cast, oversaturated skin tones, HDR look, artificial glow, soft beauty lighting, beauty retouching, face smoothing, plastic skin, altered facial features, identity drift, inaccurate face match, exaggerated jawline, incorrect beard density, distorted sunglasses, incorrect watch design, incorrect hand positions, missing bouquet, incorrect flower colors, wrong bouquet wrapping, overly bright roses, cartoonish flowers, incorrect car type, sports car styling, missing chrome grille, incorrect grille pattern, excessive car visibility, full car body in frame, cluttered composition, busy background, sharp background, low depth of field failure, background in focus, noisy shadows, crushed blacks, loss of shadow detail, lens flare, motion blur, tilt-shift effect, stylized color grading, cinematic LUTs that remove realism, text overlays, watermarks, logos, signatures, brand names, artifacts, AI distortions, extra fingers, deformed hands, unnatural posture, incorrect pose.",
-      "description": "Romantic Lifestyle AI Prompt: Get this prompt to create a high-quality portrait of a handsome man in an all-black suit waiting with roses near a car.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 118,
-      "view_count": 5776,
-      "copy_count": 10655,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "local_path": "images/cinematic-photography/Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "width": 1187,
-          "height": 1769,
-          "alt": "Gemini AI Generated Image of A stylish man in a black suit and sunglasses leans on a dark car in a parking garage, holding a bouquet of flowers and looking at his phone."
-        },
-        {
-          "filename": "fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "local_path": "images/cinematic-photography/fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-photography/fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-photography/fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "stylish-man-holding-bouquet-by-car-image-prompt-by-promptplum"
         }
       ]
     },

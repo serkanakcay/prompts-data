@@ -1,7 +1,7 @@
 {
   "category": "Moody",
   "slug": "moody",
-  "total_prompts": 77,
+  "total_prompts": 70,
   "updated_at": "2026-09-24T13:10:02Z",
   "prompts": [
     {
@@ -143,45 +143,6 @@
       ]
     },
     {
-      "id": "6ab1cbfb42ae1b78ac8aa2ea",
-      "title": "Cinematic Rain Color Splash Portrait AI Prompt",
-      "slug": "rain-color-splash-portrait",
-      "category": "Moody",
-      "category_slug": "moody",
-      "prompt": "Ultra-realistic, cinematic 3:4 fine-art fashion editorial photograph of a confident man with exactly the same distinctive, natural facial features as in the reference image.\nNo AI skin smoothing. Preserve the real age structure and authentic skin texture.\n\nFace: Authentic facial contours matching the reference image.\nStriking natural-color eyes.\nHair: natural. Slightly wet.\nDesaturated skin tone.\n\nScene:\nBlack-and-white composition with a selective color-splash effect.\nBlack suit with a red shirt in an intense, vivid red, face and skin tone in subtle natural— everything else remains monochrome.\nHeavy rain falling visibly through the frame.\nLarge, blurred city bokeh lights in the background.\nCinematic low-key lighting with glossy water droplets visible on the skin and fabric.\n\nOutfit:\nBlack suit with a red shirt.\nWet and naturally clinging to the body from the rain, with realistic fabric weight and genuine folds.\n\nPose & Mood:\nHead tilted slightly backward.\nEyes half-open.\nAn expression combining strength, sensuality, and freedom.\nElegant. Dramatic. Self-confident.\n\nTechnique & Style:\n8K.\n85mm portrait lens.\nUltra-detailed skin texture.\nCinematic contrast.\nHigh-fashion editorial look.\nRealistic proportions.\nNo artificial AI symmetry.\n\nCleanly rendered with no distortion.\n\nSame subject across images, consistent facial structure, stable identity, similar hairstyle, same skin tone, recognizable facial geometry, soft frontal facial lighting, natural skin texture.",
-      "description": "Copy this detailed ChatGPT prompt to generate ultra-realistic, cinematic color-splash portraits. Create a dramatic custom face image featuring heavy rain, a wet black suit, and a vivid red shirt against B&W city bokeh.",
-      "ai_tools": [
-        "ChatGPT"
-      ],
-      "like_count": 3,
-      "view_count": 448,
-      "copy_count": 9,
-      "is_premium": true,
-      "published_at": "2026-09-22T00:29:47.128Z",
-      "images": [
-        {
-          "filename": "8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "local_path": "images/moody/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT AI Photo Prompt: Ultra-realistic color-splash portrait of a confident man with a mustache in a wet black suit and vivid red shirt, standing in heavy rain against B&W city bokeh lights."
-        },
-        {
-          "filename": "9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "local_path": "images/moody/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "original_url": "https://img.promptplum.com/promptImages/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT AI Prompt: Cinematic fine-art editorial photograph of a mature man with a short beard in heavy rain; his vivid red shirt stands out in a monochrome scene with city bokeh."
-        }
-      ]
-    },
-    {
       "id": "6ab0576042ae1b78ac70c8ab",
       "title": "B&W Cinematic Reflective Sunglasses AI Prompt",
       "slug": "bw-cinematic-reflective-sunglasses-portrait",
@@ -257,45 +218,6 @@
           "width": 2048,
           "height": 2048,
           "alt": "Gemini AI Generated Minimalist black and white fashion portrait of a man with a mustache gazing upward confidently against a dark background."
-        }
-      ]
-    },
-    {
-      "id": "6aad7ec646d4207dc2133bcf",
-      "title": "Romantic Man in Leather Jacket Holding White Rose",
-      "slug": "cinematic-male-portrait-with-rose",
-      "category": "Moody",
-      "category_slug": "moody",
-      "prompt": "Create a photorealistic cinematic fashion portrait of a male subject standing casually in a dark studio environment.\nPose & Composition:\nFull-body vertical portrait, subject positioned slightly centered with generous negative space arround him. He stands with one leg subtly crossed in front of the other, creating a relaxed editorial pose. His right hand rests naturally inside his jacket pocket while his left hand gently holds a single white flower by the stem. His head is slightly tilted downward with his gaze directed toward the flower, creating a calm, introspective mood.\nOutfit:\nDark brown vintage leather jacket with a slightly oversized relaxed fit, detailed natural leather texture, structured collar, front zipper, and large chest pockets. Underneath, a simple black crew-neck shirt. Loose-fitting black trousers with natural fabric folds and black leather shoes.\nLighting & Atmosphere:\nMoody low-key studio lighting with a warm soft spotlight illuminating the subject from the upper-left side. Subtle highlights across the leather jacket and flower while most of the background remains deep shadow. Warm brown atmospheric glow and soft falloff around the upper-left corner.\nBackground:\nMinimalist dark-black studio infinity backdrop with subtle gradients. A smooth dark floor with a very soft reflection and natural shadow beneath the subject. No distracting objects or background elements.\nPhotography Style:\nLuxury editorial fashion photography, cinematic color grading, rich blacks, warm earthy tones, realistic material textures, natural shadows, sophisticated and mysterious atmosphere, shallow depth of field, highly detailed, realistic skin and fabric rendering, professional studio photography, subtle film grain, dramatic but natural lighting.\nFraming:\nVertical 4:5 composition, full body completely visible from head to shoes, eye-level camera angle, centered subject placement with intentional negative space, realistic proportions, high-end magazine aesthetic, ultra-detailed photorealism, 8K quality.",
-      "description": "Cinematic Romantic Portrait Prompt. Copy & Paste this prompt to create a moody, professional studio photograph of a stylish man in a vintage brown leather jacket gracefully holding a white rose against a dark background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 8,
-      "view_count": 413,
-      "copy_count": 275,
-      "is_premium": false,
-      "published_at": "2026-09-18T18:11:18.093Z",
-      "images": [
-        {
-          "filename": "d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "local_path": "images/moody/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in leather jacket with white rose AI Photo Editing Prompt. AI generated cinematic studio portrait of a handsome man in a vintage brown leather jacket and black outfit looking down at a single white rose in moody lighting.   "
-        },
-        {
-          "filename": "fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "local_path": "images/moody/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Man in leather jacket with white rose AI Photo Editing Prompt. AI generated cinematic studio portrait of a handsome man in a vintage brown leather jacket and black outfit looking down at a single white rose in moody lighting.   "
         }
       ]
     },
@@ -559,55 +481,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "AI-generated moody portrait of a young woman with windswept brown hair in an oversized black t-shirt, backlit by a glowing orange sunset."
-        }
-      ]
-    },
-    {
-      "id": "6a8b09034bbdbe2cf50810c9",
-      "title": "Male Model with Chain Necklace Photo",
-      "slug": "dark-cinematic-male-portrait",
-      "category": "Moody",
-      "category_slug": "moody",
-      "prompt": "Ultra-realistic cinematic fashion portrait of a young man with a strong, magnetic presence and effortless masculine confidence. Medium close-up, facing the camera, with a naturally commanding posture. His body language should feel relaxed but dominant — one shoulder slightly forward, neck relaxed, head subtly tilted, chin slightly lowered, and eyes looking directly into the lens with a calm, sharp, self-assured intensity. His expression should carry quiet dominance, subtle arrogance, and effortless attitude — not smiling, not soft, not overly dramatic, just a controlled, confident, slightly provocative look. A faint hint of a smirk or tension at the lips is acceptable, but the overall expression must feel cool, composed, and powerful.\n\nHe wears a silk black open-collar shirt with the top buttons undone, creating a refined yet rebellious luxury-fashion vibe. A thin silver chain rests naturally at the corner of his slightly parted lips, with only a tiny section subtly secured by the teeth just behind the lips, making the hold physically believable while keeping the teeth almost completely hidden. The chain hangs loosely and naturally downward, creating an effortless, candid fashion-editorial gesture rather than an obvious biting pose.\n\nPreserve realistic facial proportions, natural masculine character, authentic skin texture, subtle imperfections, visible pores, fine facial details, realistic lips, natural eyebrows, detailed eyes with lifelike catchlights, and individually defined hair strands. The face should look mature, confident, and stylish, with a strong jawline and naturally attractive structure. Avoid an overly polished, artificial, or generic model-like appearance.\n\nDark seamless black studio background with soft shadow falloff and subtle atmospheric depth. Warm golden sunlight enters dramatically from the left side of the frame, sculpting the cheekbone, jawline, nose, and hair while the opposite side falls into rich cinematic shadow. Classic Rembrandt-inspired lighting with a soft golden highlight across the face, deep blacks, controlled highlights, and premium cinematic contrast.\n\nLuxury men's fashion editorial aesthetic — sophisticated, mysterious, confident, slightly rebellious, intimate, expensive, and cinematic. The portrait should feel like a high-end fragrance campaign or premium men's fashion magazine cover. The subject must look like he knows the camera is on him and is completely in control of the frame, with natural swagger and presence rather than a passive portrait pose.\n\nShot at eye level on a Sony A7R V with an 85mm f/1.4 lens, shallow depth of field, creamy background separation, tack-sharp focus on both eyes, natural perspective compression, soft falloff toward the shoulders, realistic optical depth, and professional studio photography characteristics.\n\nPhotorealistic natural color grading with warm golden skin highlights, neutral realistic skin tones, deep rich blacks, subtle tonal separation, soft highlights in the hair, realistic shadow detail, HDR dynamic range, ultra-detailed 8K appearance, premium editorial retouching while retaining authentic human skin texture.\n\nComposition: vertical 4:5 aspect-ratio, medium close-up showing the full head, neck, shoulders, and upper chest with comfortable headroom. Subject centered with a powerful magazine-cover composition. No awkward cropping. The pose should feel natural, stylish, and slightly seductive, with a clear sense of attitude and personality.\n\nOverall vibe: magnetic, confident, masculine, mysterious, dominant, effortlessly stylish, slightly dangerous, premium, cinematic, and emotionally present.\n\nNegative Prompt:\nblurry, low quality, low resolution, cartoon, painting, illustration, CGI look, artificial face, generic AI model face, emotionless expression, soft innocent expression, friendly smile, happy expression, timid vibe, nervous pose, awkward pose, stiff shoulders, passive body language, weak eye contact, blank stare, exaggerated seductive expression, forced pose, visible biting, exposed teeth gripping chain, clenched teeth, chain stretched tightly, chain floating unnaturally on lips, awkward chain placement, chain covering face, distorted chain, distorted face, bad anatomy, asymmetrical eyes, crossed eyes, deformed eyes, unnatural jawline, waxy skin, plastic skin, airbrushed skin, excessive skin smoothing, oversaturated skin, unrealistic facial proportions, duplicate face, extra fingers, visible hands unless naturally framed, overexposed highlights, crushed facial details, flat lighting, unrealistic lighting, harsh artificial rim light, excessive orange tones, background clutter, text, logo, watermark, noise, excessive grain, motion blur, poor focus, cropped forehead, cropped chin.",
-      "description": "Use this cinematic studio photography prompt to create a dark, moody portrait of a handsome man in a black silk shirt biting a silver chain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 19,
-      "view_count": 1477,
-      "copy_count": 1518,
-      "is_premium": false,
-      "published_at": "2026-09-01T22:27:58.831Z",
-      "images": [
-        {
-          "filename": "37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "local_path": "images/moody/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "original_url": "https://img.promptplum.com/promptImages/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Moody Editorial Portrait AI Photo Editing Prompt. AI generated studio portrait of a curly-haired man in an open black shirt biting a silver chain necklace against a dark background."
-        },
-        {
-          "filename": "bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "local_path": "images/moody/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Dark cinematic male portrait with a silver chain AI Photo Editing Prompt. AI generated studio portrait of a handsome man in a black silk shirt biting a chain."
-        },
-        {
-          "filename": "daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "local_path": "images/moody/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated studio portrait of a curly-haired man in a black shirt holding a thin silver chain in his mouth against a dark background."
         }
       ]
     },
@@ -2041,35 +1914,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526702b7",
-      "title": "My Own Weather",
-      "slug": "my-own-weather",
-      "category": "Moody",
-      "category_slug": "moody",
-      "prompt": "Under a brooding overcast sky, a young man stands in close side profile, his dark baseball cap edged with a subtle red accent snug against windswept, thick hair. Black over-ear headphones rest lightly above his sick, rain-kissed skin, where shimmering droplets catch the muted coastal light. His contemplative gaze stretches toward the rainy horizon, evoking a quiet intensity within the pensive stillness. A cool palette of subdued greys and navy melds seamlessly with the gentle crimson hints, while the damp fabric of his cap, the slick sheen of his skin, and the tousled hair stirred by a cool sea breeze offer vivid texture contrasts. Soft natural shadows contour his features, enhanced by a tightly cropped composition and a gentle background blur that draws focus to tactile details. The scene conveys a poised moment of introspection, bathed in diffused, melancholic light.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 26,
-      "view_count": 828,
-      "copy_count": 1453,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "local_path": "images/moody/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "width": 1276,
-          "height": 1635,
-          "alt": "Gemini Generated Image: A man wearing a dark baseball cap and headphones is shown in a close-up profile shot while rain falls on his face and cap. He appears to be outdoors by the water on a cloudy day."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267026d",
       "title": "The Heirloom Staircase",
       "slug": "the-heirloom-staircase",
@@ -2331,35 +2175,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670251",
-      "title": "Relaxing in the Garden",
-      "slug": "relaxing-in-the-garden",
-      "category": "Moody",
-      "category_slug": "moody",
-      "prompt": "Use the uploaded photo for face reference and create a portrait of a Bathed in warm sunlight, a young man with wavy hair sits relaxed on a small rustic wooden bench against a pastel blue wall, softened by lush green plants and small trees. His cream oversized sweatshirt tinged with light blue harmonizes with the backdrop, paired with loose light denim jeans and pristine white sneakers. Gentle shadows play across his calm, confident face and natural skin tone, illuminated by natural light that glistens subtly on his hair. The concrete floor, scattered with a few fallen leaves, adds warm earth tones to the scene. In the foreground and softly blurred background, hints of green leaves create depth through creamy bokeh captured with a 50mm f/1.4 lens. A minimal silver bracelet reflects the understated 90s vibe. The composition vertically frames his upper body with precise focus, showcasing realistic textures on fabric, skin, and hair, conveying a serene blue-green harmony in ultra-realistic cinematic lighting.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 47,
-      "view_count": 1817,
-      "copy_count": 4147,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251203_140632.jpg",
-          "local_path": "images/moody/IMG_20251203_140632.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251203_140632.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/IMG_20251203_140632.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/IMG_20251203_140632.jpg",
-          "width": 1696,
-          "height": 2469,
-          "alt": "Gemini Generated Image: A young man is sitting on a wooden bench outdoors, surrounded by potted plants. He is wearing a light-colored, tie-dye sweatshirt, light-wash jeans, and white sneakers."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267024f",
       "title": "Black Tie, Gold Time",
       "slug": "black-tie-gold-time",
@@ -2559,64 +2374,6 @@
           "width": 1696,
           "height": 2495,
           "alt": "Gemini AI generated image: A young man wearing a blue Adidas t-shirt, a fuzzy blue jacket, dark jeans with white graphic stitching, and black and white Adidas sneakers is captured in a dynamic pose, holding a hand-drawn boombox, against a bright blue background decorated with doodle-style music elements."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670239",
-      "title": "The Minstrel and the Doves",
-      "slug": "the-minstrel-and-the-doves",
-      "category": "Moody",
-      "category_slug": "moody",
-      "prompt": "Use the uploaded reference image strictly as the ONLY face reference.\nCreate a high-resolution, ultra-realistic cinematic photograph of an individual seated directly on a weathered, light-gray stone railing (not behind it), positioned slightly to the left side of the frame. The setting is an ancient ruin environment with textured stone architecture and lush, deep-green overgrown ivy climbing the surfaces, softly fading into the background.\nSubject & Appearance:\nLong, layered chestnut-brown hair with natural volume and soft flow. Wearing a warm cinnamon-brown (terracotta/russet tone) chiffon dress with delicate layered ruffles and sheer, airy sleeves that gently move with a light breeze.\nPose & Action:\nSeated naturally on top of the stone railing, body angled slightly toward the camera. One leg relaxed along the ledge. Holding a polished natural-wood acoustic guitar across the lap, one hand forming a chord on the fretboard while the other rests near the strings, suggesting a soft playing moment.\nExpression & Gaze:\nSerene, calm, and softly engaged expression. Eyes gently directed toward the camera with a peaceful, introspective presence.\nEnvironment Details:\nOn the right side of the frame, two pure white doves are perched closely together on the same stone railing, positioned in a way that their heads and bodies subtly form a heart shape. They remain secondary in focus, slightly forward on the right edge, adding balance and storytelling.\nLighting & Mood:\nGolden hour sunlight entering from the top-right corner, creating a strong yet soft directional glow. Warm rim lighting highlights the hair and edges of the dress, while the face remains evenly illuminated with natural soft fill. Cinematic warm tones with gentle shadow falloff.\nComposition:\nSubject placed slightly left-of-center, seated directly on the railing. Right side reserved for the doves, creating visual balance. Full-body framing, with clean negative space and soft background blur.\nTechnical Details:\nUltra-realistic, 8K detail, sharp focus on subject, natural skin texture (no plastic or over-smoothing), high dynamic range, cinematic color grading, 85mm lens look, f/2.0–f/2.8 shallow depth of field.\nAspect Ratio: 4:5 vertical portrait.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 36,
-      "view_count": 1341,
-      "copy_count": 2633,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764518053431.png",
-          "local_path": "images/moody/1764518053431.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764518053431.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/1764518053431.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/1764518053431.png",
-          "width": 928,
-          "height": 1120,
-          "alt": "Gemini generated image: A young woman wearing a flowing, ruffled, brown dress sits on a mossy stone wall, playing an acoustic guitar, illuminated by warm sunlight, with two white doves perched beside her."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670236",
-      "title": "Cherry Blossom Spring Portrait",
-      "slug": "cherry-blossom-spring-portrait",
-      "category": "Moody",
-      "category_slug": "moody",
-      "prompt": "Use the reference photo uploaded to create a hyper realistic Ultra HD photo of me standing in a Cherry blossoms Tree wearing a White loose blouse and a wash blue jeans the scene is Ethereal and my expression is sensual i'm also touching the cherry blossoms branch with lots of flowers make a Ultra clear hyper realistic photo with boque effect. Photorealistic style. The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 45,
-      "view_count": 1649,
-      "copy_count": 3511,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251130_101202.jpg",
-          "local_path": "images/moody/IMG_20251130_101202.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_101202.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/moody/IMG_20251130_101202.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/moody/IMG_20251130_101202.jpg",
-          "width": 1856,
-          "height": 2294,
-          "alt": "Gemini Generated Image of A beautiful young woman with long dark hair, wearing a white shirt and blue jeans, smiles while gently touching branches of delicate pink cherry blossoms in soft, natural light."
         }
       ]
     },

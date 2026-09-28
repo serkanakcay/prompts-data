@@ -1,7 +1,7 @@
 {
   "category": "Formal Wear",
   "slug": "formal-wear",
-  "total_prompts": 50,
+  "total_prompts": 49,
   "updated_at": "2026-09-24T12:56:11Z",
   "prompts": [
     {
@@ -243,75 +243,6 @@
           "width": 1468,
           "height": 1600,
           "alt": "Man in Navy Suit Reading Newspaper Cafe Portrait AI Photo Editing Prompt. AI generated street style portrait of a mustached man in a navy suit and sunglasses reading a newspaper at a Parisian café terrace with an espresso cup."
-        }
-      ]
-    },
-    {
-      "id": "6a6126794e919e1ec249ca04",
-      "title": "Luxury Crimson Formal Family Photoshoot",
-      "slug": "formal-family-crimson-studio-photoshoot",
-      "category": "Formal Wear",
-      "category_slug": "formal-wear",
-      "prompt": "Create a premium, ultra-realistic 3:4 vertical family studio portrait of the uploaded family. Preserve every person recognizable facial features and Identity individually from the reference images, maintaining their natural face shape, facial proportions, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, facial hair, age, and distinctive features with high accuracy. Keep realistic skin texture and natural facial asymmetry; avoid beautified, overly smooth, plastic, generic, or AI-generated-looking faces. The image should feel like a real high-end professional family photograph with a luxurious, elegant, and timeless look.\n\nFamily Composition\nThis prompt should work for either a 3-member family or a 4-member family.\n\nIf the family has 3 members (father, mother, and one child) and the child is a toddler or very young, the child should be carried naturally on the mother lap or father's arm. If the child is younger (not a toddler), place the child in the centre of the composition between the parents. The child should stand naturally and should not be carried in the father’s arms.\n\nIf the family has 4 members (father, mother, and two children), arrange them in a balanced formal composition. If one child is a toddler or very young, that child may be held naturally in one parent’s arms. The other child should stand in the center or slightly forward.\n\nIf the children are older (not toddlers), do not carry them. They should stand naturally beside or between the parents.\n\nMaintain a balanced, connected family arrangement where everyone looks comfortable, affectionate, and naturally posed.\n\nPosing Guidelines\n\nThe mother may be seated gracefully on one side or standing, depending on the family arrangement. If seated, keep her posture upright and elegant, with one hand resting naturally on her lap and the other relaxed.\n\nThe father should stand confidently beside or slightly behind the family, with a calm, protective, and relaxed posture.\n\nThe main child or older child should be placed prominently near the center of the frame for compositional balance.\n\nIf there is a toddler, the toddler can be held naturally by one parent only if the age looks appropriate.\n\nKeep expressions warm, natural, and pleasant, with subtle smiles and a polished family-portrait feel.\n\nClothing and Styling\nUse elegant, coordinated formal clothing with a rich deep red / black / gold color theme.\n\nThe mother wears a luxurious deep-crimson or ruby-red off-shoulder evening gown with a fitted bodice and flowing floor-length skirt, made of satin or silk. Optional subtle slit, refined makeup, and soft hairstyle with elegant accessories.\n\nThe father wears a tailored black formal suit with a crisp white shirt and polished black shoes.\n\nA young boy may wear a black tuxedo with satin lapels, white shirt, black bow tie, matching trousers, polished shoes, and a subtle red pocket square.\n\nA young girl may wear a deep red party dress with a flared skirt and dress shoes.\n\nIf there are two children, coordinate their outfits to match the overall red-black formal styling.\n\nKeep all clothing refined, realistic, and premium-looking.\n\nBackground and Set Design\nCreate a luxury indoor studio setup with a dramatic and elegant backdrop.\n\nUse a dark warm-brown, charcoal, or taupe wall with classic rectangular moulding panels.\n\nAdd a large deep red draped fabric hanging decoratively from the upper side of the frame, flowing in rich folds.\n\nExtend matching red fabric across the floor for a regal studio look.\n\nInclude tasteful props such as:\nantique brass or gold candle stands\nwhite pillar candles\ngold/brass vases\ndeep red flower arrangements or roses\nsmall fabric-covered platforms or decor stands\nThe set should feel luxurious, balanced, and visually rich without looking cluttered.\n\nLighting\nUse soft, warm, cinematic studio lighting.\nMain light should be soft and flattering, illuminating all faces clearly.\nAdd gentle fill light to preserve facial details.\nUse subtle rim or separation lighting to distinguish the family from the background.\nKeep shadows soft and elegant.\nMaintain realistic skin tones, controlled highlights, and polished studio contrast.\n\nCamera and Framing\nUse a full-body family portrait composition in 3:4 aspect ratio.\nCamera angle should be straight or slightly above eye level, suitable for professional family photography.\nUse a 50mm to 85mm portrait lens look.\nKeep all family members fully visible with natural spacing.\nEnsure hands, feet, body proportions, and interactions look realistic.\nKeep the family as the clear focal point while still showing the elegant set around them.\n\nStyle and Quality\nPremium family photography, luxury editorial portrait, ultra-realistic, highly detailed, sharp facial details, photorealistic, cinematic, professional studio quality, refined textures, elegant composition, realistic fabric folds, polished skin tones, natural expressions, high detail, 8K quality.\n\nImportant Rules\n\nPreserve the natural identity and age of each family member with high accuracy.\n\nDo not force a child into someone’s arms unless the child is clearly a toddler or very young.\n\nIf the family has only one child, place that child in the center between the parents.\n\nIf children are older, keep them standing naturally.\n\nAvoid awkward poses, extra fingers, distorted anatomy, merged bodies, stiff expressions, face mismatch, ai-generated portrait look or unnatural spacing.\n\nDo not add text, logos, or watermarks.",
-      "description": "Formal Studio Photography Prompt: Use this prompt to create a luxury family portrait in elegant black tuxedos and red satin gowns against a velvet backdrop.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 30,
-      "view_count": 2090,
-      "copy_count": 1424,
-      "is_premium": false,
-      "published_at": "2026-07-22T20:22:17.442Z",
-      "images": [
-        {
-          "filename": "d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "local_path": "images/formal-wear/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/formal-wear/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/formal-wear/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Formal Crimson Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a family of four in elegant black tuxedos and red satin dresses posing against a velvet backdrop."
-        },
-        {
-          "filename": "60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "local_path": "images/formal-wear/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/formal-wear/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/formal-wear/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Formal Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a couple and baby in formal black and crimson attire with red roses."
-        },
-        {
-          "filename": "872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "local_path": "images/formal-wear/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "original_url": "https://img.promptplum.com/promptImages/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/formal-wear/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/formal-wear/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Formal Family Studio Photoshoot AI Prompt. AI generated studio portrait of a formal family with parents, a son, and a daughter in crimson attire, posing in a decorated studio with velvet drapes and floral arrangements."
-        },
-        {
-          "filename": "f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "local_path": "images/formal-wear/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/formal-wear/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/formal-wear/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Luxury Formal Family Portrait AI Photo Editing Prompt. AI generated portrait of a family of three in formal attire posing on a red carpet against a dark gray wall with red roses and curtains."
-        },
-        {
-          "filename": "c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "local_path": "images/formal-wear/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/formal-wear/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/formal-wear/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Elegant Formal Studio Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a woman in a red satin gown, a man in a tuxedo, and a baby in a velvet dress on a gold lounge with candles and roses."
         }
       ]
     },

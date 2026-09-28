@@ -1,7 +1,7 @@
 {
   "category": "Character Art",
   "slug": "character-art",
-  "total_prompts": 9,
+  "total_prompts": 6,
   "updated_at": "2026-09-24T12:52:16Z",
   "prompts": [
     {
@@ -63,94 +63,6 @@
       ]
     },
     {
-      "id": "6a9315b646d4207dc296c9f3",
-      "title": "3D Animated Couple on Gradient Background",
-      "slug": "3d-animated-couple-portrait-on-gradient-background",
-      "category": "Character Art",
-      "category_slug": "character-art",
-      "prompt": "Create an ultra-high-detail, full-body 3D animated portrait of a couple standing side-by-side in a premium Disney/Pixar-inspired style. The characters should feel highly expressive, charming, and visually polished with stylized realism.\nCharacters & Styling:\nMale (Left):\nA man with thick, dark hair and softly defined facial features. He wears a black-colored chunky cable-knit sweater with detailed knit texture. Paired with baggy-fit gray cargo pants featuring multiple pockets and black leather Chelsea boots.\nPose: Standing confidently with arms crossed over his chest.\nExpression: Calm, confident, and self-assured expression with a relaxed, natural gaze.\nFemale (Right):\nA woman with natural dark hair, softly stylized with shine. She wears a cream-colored chunky cable-knit sweater with detailed knit texture, tucked into high-waisted, wide-leg black corduroy trousers. Finished with burgundy leather Chelsea boots.\nPose: Relaxed stance with left hand resting on her hip.\nExpression: Calm, confident, and self-assured expression with a relaxed, natural gaze.\nComposition & Camera:\nFull-body framing, perfectly centered composition\nStraight-on, eye-level perspective\nShot with a 50mm lens for natural proportions\nAspect ratio: 4:5\nEnvironment & Background:\nA clean vivid pink-to-magenta-to-purple gradient background creates a bold, vibrant atmosphere, transitioning from bright pink and magenta at the top to rich purple in the middle, gradually fading into deep navy blue toward the bottom. No additional elements or distractions\nLighting:\nSoft, high-key studio lighting with diffused shadows\nSubtle rim light for clean subject separation\nEven illumination enhancing facial features and textures\nRendering & Quality:\nRendered in Unreal Engine 5 at 8K resolution\nUltra-realistic material detailing (leather grain, knit fibers, corduroy ridges)\nSmooth skin shading with subsurface scattering\nSharp focus, clean edges, no noise\nVibrant, cheerful cinematic color grading.\nFace Matching: Accurately preserve and match both subjects’ facial identities to their respective reference images, maintaining their exact face shape, proportions, and distinctive facial features. Keep both faces highly recognizable and faithful to the references while naturally adapting them into the premium stylized 3D animated aesthetic.",
-      "description": "3D Character Illustration Prompt: Copy & Paste this prompt to create a high-quality stylized 3D render of a young man and beautiful woman wearing cozy cable-knit sweaters against a smooth pink and purple gradient background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 14,
-      "view_count": 599,
-      "copy_count": 357,
-      "is_premium": false,
-      "published_at": "2026-08-29T17:24:06.787Z",
-      "images": [
-        {
-          "filename": "0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "local_path": "images/character-art/0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/character-art/0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/character-art/0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "3D animated couple in winter sweaters character illustration AI Photo Editing Prompt. AI generated 3D illustration of a young man in a black sweater and a young woman in a cream sweater standing together against a pink and purple gradient background."
-        }
-      ]
-    },
-    {
-      "id": "6a74b93e4bbdbe2cf5f7378d",
-      "title": "Watercolor Portrait of a Happy Couple",
-      "slug": "romantic-couple-illustration",
-      "category": "Character Art",
-      "category_slug": "character-art",
-      "prompt": "Create a beautiful artistic hand-painted watercolor medium-portrait illustration of a cheerful couple standing together in a romantic pose. The woman is gently leaning her head on the man's shoulder while affectionately holding his arm with both hands, smiling warmly at the viewer. She has naturally styled hair adorned with a delicate purple flower tucked behind one ear, soft natural makeup, and a joyful expression. She wears an elegant sleeveless pleated magenta-purple knee-length dress with flowing fabric and subtle watercolor shading.\nThe man stands beside her with a relaxed posture, one hand casually tucked into his trouser pocket, smiling confidently. He has neatly styled hair and a friendly smile. He is dressed in a crisp white button-down shirt with sleeves rolled to the forearms, the top buttons left open for a casual look, paired with light beige trousers , black belt and a luxury wristwatch.\nThe background is a soft cream-colored textured watercolor paper with subtle beige watercolor washes creating a dreamy artistic effect. Elegant lavender and purple watercolor floral arrangements decorate the top-right and bottom-left corners, accompanied by delicate leaves, paint splashes, and ink droplets that naturally blend into the paper texture. The composition is clean and minimal, with generous negative space surrounding the couple, creating a premium greeting-card or wedding invitation aesthetic.\n\nStyle\nTraditional fine-art watercolor illustration with a premium hand-painted appearance, featuring realistic transparent watercolor layering, soft wet-on-wet pigment diffusion, controlled wet-on-dry detailing, natural pigment granulation, smooth color bleeding, feathered brush edges, and subtle glazing techniques. Rich paper texture remains visible through the translucent paint layers, enhanced by delicate hand-drawn ink outlines and expressive brushwork. Highly detailed facial features with soft natural skin tones, realistic hair rendered using fine watercolor strokes, elegant fabric folds with fluid watercolor shading, refined botanical painting techniques for the floral elements. The artwork should resemble a museum-quality handmade watercolor painting rather than a digital illustration, with graceful pastel harmonies, refined craftsmanship, sophisticated artistic composition, and a luxurious editorial greeting-card aesthetic.\nSoft diffused lighting, harmonious pastel color palette, smooth watercolor gradients, detailed hand-painted brush strokes, delicate ink outlines, realistic facial proportions, highly detailed clothing folds, subtle shadows, fine paper texture, premium watercolor illustration, elegant floral frame, romantic atmosphere, ultra-detailed, high-quality digital watercolor artwork, centered composition, 8K resolution. Aspect ratio 4:5.\nMaintain accurate identity and precise face matching to the provided reference image for both subjects.",
-      "description": "Copy and paste this prompt to create a charming watercolor-style illustration of a smiling, affectionate couple, featuring the woman in a purple dress leaning on the man in a white rolled-sleeve shirt and khaki trousers.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 82,
-      "view_count": 3248,
-      "copy_count": 2623,
-      "is_premium": false,
-      "published_at": "2026-08-06T16:41:34.417Z",
-      "images": [
-        {
-          "filename": "3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "local_path": "images/character-art/3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/character-art/3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/character-art/3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Watercolor Couple Illustration AI Photo Editing Prompt. AI generated watercolor painting and digital illustration of a smiling couple, with the woman in a purple halter dress leaning on the man in a white rolled-sleeve shirt and khaki trousers."
-        },
-        {
-          "filename": "7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "local_path": "images/character-art/7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "original_url": "https://img.promptplum.com/promptImages/7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/character-art/7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/character-art/7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "romantic-couple-with-purple-flowers-watercolor-illustration-ai-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "local_path": "images/character-art/5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/character-art/5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/character-art/5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "romantic-couple-with-purple-flowers-watercolor-illustration-ai-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "local_path": "images/character-art/c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/character-art/c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/character-art/c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "romantic-couple-with-purple-flowers-watercolor-illustration-ai-prompt-by-promptplum-2"
-        }
-      ]
-    },
-    {
       "id": "6a5a5cfda3af6f1220e81854",
       "title": "Golden Hour on the Deck",
       "slug": "cool-anime-boy-ocean",
@@ -205,35 +117,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Bearded Pensive Man Sketch AI Photo Editing Prompt. AI generated pencil-style digital portrait of a mature man with swirling smoke and ink splatters."
-        }
-      ]
-    },
-    {
-      "id": "6a3ea9efe1ceda640e5afd45",
-      "title": "Safe Haven",
-      "slug": "realistic-couple-drawing",
-      "category": "Character Art",
-      "category_slug": "character-art",
-      "prompt": "Create an ultra-detailed hyper-realistic traditional color pencil sketch of a couple sharing a peaceful, deeply affectionate embrace, illustrated on textured off-white watercolor paper with a refined fine-art aesthetic.\nComposition & Camera Angle:\nEye-level medium close-up portrait, framed from the waist-up in a perfectly centered composition. The couple fills most of the frame, creating an intimate emotional focus with balanced negative space around them. Natural sketch margins, faint construction guidelines, and subtle artist layout marks remain softly visible, enhancing the authentic handcrafted illustration feel.\nSubjects & Appearance:\nThe man has thick, voluminous hair styled with soft natural waves and detailed individual pencil strands, featuring subtle highlights and delicate flyaway hairs. He wears a black  fitted crew-neck short-sleeve t-shirt with realistic fabric tension, gentle wrinkles, soft folds, and natural stretching around the shoulders and upper arms. His facial features are defined yet soft, with closed eyes and a calm, content expression.\nThe woman has long, flowing wavy hair cascading naturally over her shoulders and down her back, rendered with layered graphite and colored pencil strokes, delicate highlights, and realistic texture. She wears a pink sleeveless top with a clean minimalist design, exposing her shoulders and upper arms. Her face is feminine and serene, and peacefully closed eyes.\nBoth subjects have a tan skin tone.\nPose & Emotion:\nThe couple shares a warm, emotionally intimate embrace. The man gently wraps one arm securely around the woman's waist while his other hand rests protectively on the top of her head, fingers softly spread through her hair in a comforting gesture. The woman leans completely into his chest, resting her head against him while wrapping both arms around his torso. Both have their eyes gently closed with faint, peaceful smiles, conveying unconditional love, trust, comfort, safety, and emotional serenity.\nLighting & Shading:\nSoft diffused studio-style lighting recreated entirely through masterful graphite and colored pencil rendering. Elegant chiaroscuro shading creates natural depth around the faces, hair, intertwined arms, and clothing folds. Smooth tonal gradients sculpt the cheekbones, jawline, neck, shoulders, and muscles with subtle realism. Fine hatching, cross-hatching, and layered color blending produce realistic skin texture, hair volume, and fabric dimension while maintaining a soft romantic atmosphere.\nBackground & Paper Texture:\nMinimalist clean background featuring visible watercolor paper grain with subtle organic texture. Faint horizontal and vertical construction sketch lines remain softly visible behind the couple, accompanied by delicate graphite smudges, erased guideline remnants, and authentic pencil imperfections that reinforce the appearance of a handcrafted fine-art sketchbook illustration.\nTechnical Details:\nHyper-realistic traditional color pencil drawing, ultra-fine graphite detailing, realistic line pressure variation, layered colored pencil blending, highly refined hatching and cross-hatching, museum-quality fine-art sketch aesthetic, photorealistic handcrafted illustration, crisp facial detailing, ultra-sharp focus, masterpiece-level craftsmanship, scanned professional artist sketchbook artwork, 8K ultra-high-resolution rendering.\nAspect Ratio: 4:5 vertical",
-      "description": "Couple Sketch Portrait Prompt: Use this prompt to create a natural, intimate digital illustration of a loving couple in a peaceful embrace within a sunlit forest.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 28,
-      "view_count": 1346,
-      "copy_count": 1886,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "local_path": "images/character-art/b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/character-art/b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/character-art/b223120b-68da-47db-ba7a-e14a75cd22c8.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Embracing romantic couple in a realistic graphite pencil sketch illustration. AI Photo Editing Prompt. AI generated digital illustration of a realistic pencil sketch portrait of a man in a black t-shirt holding a woman in a pink top in a tender embrace with their eyes closed."
         }
       ]
     },

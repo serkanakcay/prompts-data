@@ -1,7 +1,7 @@
 {
   "category": "Chiaroscuro Photography",
   "slug": "chiaroscuro-photography",
-  "total_prompts": 17,
+  "total_prompts": 16,
   "updated_at": "2026-09-24T12:52:27Z",
   "prompts": [
     {
@@ -620,35 +620,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Woman with Water Droplets AI Photo Editing Prompt. AI generated high-contrast portrait of a woman's face covered in realistic water droplets with dramatic chiaroscuro lighting."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670404",
-      "title": "Family Sequence",
-      "slug": "black-and-white-family-profile-portrait",
-      "category": "Chiaroscuro Photography",
-      "category_slug": "chiaroscuro-photography",
-      "prompt": "Create a classic low-key black-and-white studio portrait of a family of four arranged in a staggered side-profile composition, all facing right. Maintain accurate identity and face matching to the provided reference image for all four subjects — preserve exact facial structure, proportions, skin texture, hairlines.\nMid-chest shot (cropped from mid chest upward), tight vertical composition. All four subjects are wearing solid matte black t-shirts with no logos, no reflective elements — blending subtly into shadow while maintaining garment structure.\nDiagonal alignment from front-left (father closest to camera) to back-right (youngest child farthest). Overlapping layered composition.\nCRITICAL — Natural Height-Based Staggered Arrangement:\n\nSubjects must be arranged in realistic descending height order consistent with a natural family hierarchy. The father (foreground) is the tallest, followed slightly behind by the mother, who is slightly shorter. Behind her stands the first child, clearly shorter than the mother, and, in the far background, the second child, the shortest of all. The top of each subject’s head forms a gradual downward diagonal slope from left (tallest father) to right (shortest child). Eye levels must also progressively lower in the same sequence. This height progression must appear anatomically natural and realistic, not artificially aligned or equalized. Maintain accurate proportional scaling and perspective depth consistent with real-world height differences.\nTrue monochrome (black and white), high contrast, deep blacks, smooth midtone transitions. Dramatic chiaroscuro lighting with a single directional key light from camera-right, slightly above eye level, no equipment/object visible in frame. Strong shadow falloff into pure black background. Deep negative space on the left.\nSharp catchlights in all eyes from a small gridded softbox. Crisp highlight definition on nose bridges, cheekbones, lips, and jawlines.\nFather (foreground, sharpest focus): His expression appears steady and confident with a subtle smile. His gaze is fixed forward, conveying strength and leadership. Visible individual hairs, strong skin micro-contrast, wear a black t-shirt fading into shadow.\nMother (second): She has a soft, graceful smile (upper teeth visible). Long voluminous wavy hair, subtle earrings, smooth skin, and wear a black outfit.\nChild (third): Her expression shows youthful curiosity and positivity, with a subtle smile (upper teeth visible), slightly pulled-back natural hair, and a simple black outfit.\nChild (background): He looks calm and thoughtful. His face carries innocence and quiet confidence, as if observing something meaningful ahead.\nLens look: 85mm–135mm telephoto compression, no distortion.\n\nAperture look: f/5.6–f/8 layered depth, foreground sharpest with subtle gradual falloff.\nUltra-detailed skin texture, realistic pores, cinematic tonal grading, professional studio photography, timeless, museum-quality.\n4K resolution detail, ultra-sharp, high micro-contrast, refined tonal range.\n\nAspect ratio 4:5\nNegative prompt:\n\nlow quality, blur, head crop, frame crop, over exposure, visible equipment, equal head height, flat alignment, incorrect height proportions, unrealistic scaling",
-      "description": "Family Photo Editing Prompt: Use this prompt to create a professional black and white studio portrait of a family of four in side profile against a dark, minimalist background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 211,
-      "view_count": 6936,
-      "copy_count": 17648,
-      "is_premium": false,
-      "published_at": "2026-08-08T20:13:38.649Z",
-      "images": [
-        {
-          "filename": "black-white-family-profile-portrait-by-promptplum.webp",
-          "local_path": "images/chiaroscuro-photography/black-white-family-profile-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/black-white-family-profile-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/chiaroscuro-photography/black-white-family-profile-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/chiaroscuro-photography/black-white-family-profile-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Profile in Monochrome AI Photo Editing Prompt. AI generated studio portrait of a father, mother, and two children in black t-shirts, arranged by height in a side-profile composition against a dark background."
         }
       ]
     },

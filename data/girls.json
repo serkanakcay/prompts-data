@@ -1,7 +1,7 @@
 {
   "category": "Girls",
   "slug": "girls",
-  "total_prompts": 44,
+  "total_prompts": 40,
   "updated_at": "2026-09-24T12:56:22Z",
   "prompts": [
     {
@@ -1305,92 +1305,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267046c",
-      "title": "Maroon Mini-Me Magic",
-      "slug": "maroon-mini-me-magic",
-      "category": "Girls",
-      "category_slug": "girls",
-      "prompt": "Create a vibrant, high-quality mixed-media composition that blends realistic photography with stylized 3D chibi characters and playful 2D doodle overlays.\n\nUse the uploaded image as the primary identity reference. \nFace Accuracy (Critical) Match the face with 100% identity accuracy. Preserve exact facial structure, bone anatomy, jawline, cheekbones, and forehead proportions.\nShe has a warm, cheerful, natural smile. And naturally flowing hair. \nOutfit & Style:\n\nShe wears a maroon skater-style mini dress, a cropped white denim jacket, and clean white sneakers. A small white quilted crossbody bag with a metallic clasp hangs naturally across her body.\nPose & Framing:\n\nFull-body, stylish walking pose toward the camera, with one hand on the bag strap. Vertical 4:5 or 1:1 composition. Subject-centred. Apply a clean, white, handwritten outline around her entire body (not sticker-style edges).\nChibi Characters (IMPORTANT STRUCTURE):\n\nFour 3D chibi versions of the same woman (exact same face + outfit, Pixar-style, glossy finish, with handwritten outline details):\n\nOne medium-sized(real subject's waist height) chibi walking on the left side with the same pose, same style, same outfit, with quilted crossbody bag details as the subject\n\nOne small chibi is sitting playfully on her right shoulder\n\nOne smaller chibi hugging/climbing her leg\n\nOne peeking from behind her other leg\nAll chibis are slightly smaller than the left-side chibi, with lively expressions and dynamic, natural body movement (not stiff). Each has a soft white outline.\nEnvironment:\n\nOutdoor aesthetic café street setting with plants and flowers. No visible people in the background. Background softly blurred (shallow depth of field, bokeh).\nLighting:\n\nBright natural daylight, soft and even, high-end lifestyle photography look.\nGraphic Elements & Overlays:\n\nAdd colorful hand-drawn doodles around the subject:\n\nhearts, stars, sparkles, lightning strokes, motion lines\nInclude playful handwritten typography:\n\n“cutie”, “smile”, “fashion”, “happy”, “yay”\n\n(mix of white, blue, black, and vibrant colors)\nStyle Balance:\n\nKeep the main subject photorealistic. Blend seamlessly with stylized chibis and flat doodle graphics without overpowering realism.",
-      "description": "",
-      "ai_tools": [],
-      "like_count": 90,
-      "view_count": 2435,
-      "copy_count": 3115,
-      "is_premium": false,
-      "published_at": "2026-09-03T11:46:29.043Z",
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
-          "local_path": "images/girls/Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/girls/Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/girls/Gemini_Generated_Image_t0l29yt0l29yt0l2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "IMG_20260323_095030.webp",
-          "local_path": "images/girls/IMG_20260323_095030.webp",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20260323_095030.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/girls/IMG_20260323_095030.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/girls/IMG_20260323_095030.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
-          "local_path": "images/girls/Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/girls/Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/girls/Gemini_Generated_Image_aiqrvkaiqrvkaiqr.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
-          "local_path": "images/girls/Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/girls/Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/girls/Gemini_Generated_Image_mep4ztmep4ztmep4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703b1",
-      "title": "The Golden Wish",
-      "slug": "woman-gold-dress-birthday-cake-spotlight",
-      "category": "Girls",
-      "category_slug": "girls",
-      "prompt": "Create a cinematic, high-fashion editorial portrait with a warm, monochromatic color palette that conveys a luxurious, celebratory, and regal atmosphere. The image should feel elegant, intimate, and professionally photographed, similar to a premium fashion magazine birthday editorial.\n\nSubject & Identity (Strict)\nUse the reference image as a strict identity guide. The subject’s face must match the reference exactly. Preserve facial structure, proportions, skin tone, hairstyle, hair color, and natural facial features without beautification, reshaping, or stylization. Maintain realistic skin texture and natural expression.\nThe subject is a young woman with long, flowing natural hair styled in soft, loose waves. She is captured in profile, gently leaning forward as she prepares to blow out birthday candles. Her expression is calm, serene, and focused, creating a soft, intimate moment.\n\nWardrobe & Styling\nThe subject wears a princess type dramatic, floor-length champagne-gold ball gown. The dress features long sleeves and is transparently covered with fine sequins and glitter that reflect light subtly, producing a shimmering, luxurious texture. The silhouette is full and voluminous, enhancing a regal presence.\nShe wears a delicate silver-toned tiara or crown encrusted with small crystals, reinforcing a refined “birthday queen” aesthetic. Styling remains elegant and timeless rather than extravagant.\n\nThe Centerpiece (Cake)\nThe subject holds a two-tier vintage Lambeth-style birthday cake positioned at chest height. The cake is decorated with intricate white and gold buttercream piping, ornamental swags, and small edible gold pearl accents.\nOn top sits a metallic gold “Happy Birthday” script topper. Several thin candles are lit, with small warm flames visible as the subject gently blows toward them, capturing a moment of anticipation.\n\nLighting & Background\nThe lighting is the primary visual element.\n\nA strong circular spotlight is projected onto a warm beige background, creating a halo effect centered behind the subject.\nLighting style follows a dramatic chiaroscuro approach, with a hard-edged spotlight and soft falloff toward the edges.\nA sharp, well-defined shadow of the subject and the cake topper appears on the wall within the spotlight, adding depth and visual storytelling.\nThe background remains minimal, smooth, and free of distractions.\nColor & Mood\nThe entire image follows a warm tonal palette consisting of gold, champagne, cream, and warm brown hues. The color temperature is very warm (approximately 3000K–3500K), enhancing metallic reflections and creating a nostalgic, cinematic atmosphere.\n\nTechnical Photography Details\nEditorial fashion photography style\nDSLR quality, ultra-realistic rendering\nMedium depth of field; subject and cake in sharp focus, background softly diffused\nCentral composition with a slight forward lean creating gentle movement\nSoft filmic contrast with rich highlights and controlled shadows\nHigh resolution (4K–8K quality)\nAspect ratio: 4:5\nOverall Vibe\nLuxury, celebratory, elegant, and cinematic — a refined birthday portrait that feels timeless, regal, and editorial rather than casual.",
-      "description": "Generate a stunning golden spotlight portrait with this professional AI prompt. Create high-quality images of a woman in a shimmering sequined gown and tiara, holding an elegant two-tier birthday cake.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 76,
-      "view_count": 4214,
-      "copy_count": 6432,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "local_path": "images/girls/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "original_url": "https://img.promptplum.com/promptImages/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/girls/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/girls/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A woman in a gold sequined gown and tiara holds a birthday cake in a circular spotlight. She's blowing out a candle, casting a dramatic shadow against a tan, cinematic backdrop."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267037f",
       "title": "Birthday Glow & Golden Tones",
       "slug": "birthday-glow-golden-tones",
@@ -1652,35 +1566,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526702c5",
-      "title": "Korean Style Selfie",
-      "slug": "korean-style-selfie",
-      "category": "Girls",
-      "category_slug": "girls",
-      "prompt": "Subject: Young woman, close-up digital selfie. Hair: Long chocolate brown hair, mermaid waves, full bangs, loose strands slightly blown across the face by the wind. Outfit & Accessories: Oversized bright black V-neck knitted sweater, large white bow at the center of the chest, simple small silver circle earrings, silver rings on fingers. Makeup & Skin: 100% realistic flawless skin, Korean-style makeup, neat natural eyebrows, hazy eyeliner, thin false eyelashes, light nude blush on cheeks and nose, nude-red lips. Hands: Long almond-shaped nude nails with white tips, one hand resting on chin. Expression: Smiling seductively, alluring gaze. Lighting & Atmosphere: Dimly lit room, powerful camera flash effect (direct flash), sharp contrast between bright face and dark background, cool tones. Style: Photorealistic, unedited raw photo, modern simplicity, casual selfie aesthetic. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 18,
-      "view_count": 1251,
-      "copy_count": 1703,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "local_path": "images/girls/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/girls/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/girls/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Ai Generated Image: a close-up portrait of a smiling young woman with long, wavy brown hair and bangs. She is wearing a black V-neck sweater accented with a prominent white bow at the center. Her hand is gently raised near her chin, displaying silver rings and a French manicure, while small hoop earrings complete the look. The lighting highlights her rosy cheeks and face against a dark background, creating a soft and stylish aesthetic."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526702b6",
       "title": "A Soft Smile in Pink",
       "slug": "a-soft-smile-in-pink",
@@ -1735,35 +1620,6 @@
           "width": 1321,
           "height": 1590,
           "alt": "Gemini Generated Image: A woman wearing sunglasses and a black leather top is shown in a close-up portrait. She has long, dark, wavy hair. The image is lit with neon lighting, primarily pink/magenta and cyan/blue, creating a vibrant, edgy aesthetic against a dark background. She is wearing bright pink lipstick and a glowing neon pink hoop earring on one ear."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670299",
-      "title": "Gloss and Freckles",
-      "slug": "gloss-and-freckles",
-      "category": "Girls",
-      "category_slug": "girls",
-      "prompt": "Create candid ultra-realistic cinematic glamour image 100% copy face ,identical to the attached image. A young woman \nclose-up portrait (or \"a highly detailed beauty shot of a woman\").\nExpression/Pose: Eyes gently closed, head tilted slightly back and to the side (as if resting or in a moment of tranquility/reverie).\nFace Details: Prominent, natural-looking freckles across the nose and cheeks, full, glossy, slightly wet lips with a peachy or burnt-sienna hue, defined natural brows, visible facial texture.\n2. Lighting & Atmosphere:\nLighting: Dramatic, warm, directional soft light (like golden hour light or studio lighting mimicking it) falling primarily on the nose, cheeks, and lips. Strong highlights on the lips and cheekbones.\nMood: Intimate, moody, sensual, natural, dreamlike, or a feeling of sunkissed warmth.\nColor Palette: Dominated by warm tones (golds, oranges, peaches, reds, and deep browns).\n3. Styling & Details (Makeup/Hair/Clothes):\nMakeup: Very natural, editorial, \"no-makeup\" look. Heavy, diffused blush/bronzer in a peachy-orange tone concentrated high on the cheeks and bridge of the nose (sunkissed effect). Glossy/dewy skin finish.\nHair: Dark, rich brown hair, slightly messy, with soft, face-framing bangs (or fringe) slightly covering the forehead.\nClothes: (Not visible). You would specify \"wearing an unseen garment\" or \"naked shoulders\" to keep the focus on the face, but since it's a tight close-up, you can often omit this.\n4. Background & Frame:\nBackground: Very dark, out-of-focus bokeh background (deep brown/black/olive green) to ensure the face pops. The background is minimalist and solid-colored.\nCrop/Angle: Extreme close-up (tight crop) of the lower face, emphasizing the lips, nose, and cheek area. Shot from a slightly lower angle.\nAesthetics: High-fashion photography, editorial portrait, cinematic, dark academia aesthetic (for the mood). Camera: Shot on a high-end mirrorless camera (e.g., Sony A7R V or Canon R5) with a fast 85mm lens (e.g., f/1.4 or f/1.2). Soft, dramatic high-key  lighting, beautiful skin texture, elegant, shallow depth of field.\nRealistic high detail HD DSLR shot and glamour shot.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 25,
-      "view_count": 920,
-      "copy_count": 1333,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "local_path": "images/girls/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/girls/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/girls/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Generated Image: A close-up of a woman's face with her eyes closed. She has freckles, dewy skin, and is wearing glossy orange lipstick and blush/bronzer. Her dark hair has bangs, and she is illuminated by warm light."
         }
       ]
     },

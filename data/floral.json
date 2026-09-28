@@ -1,48 +1,9 @@
 {
   "category": "Floral",
   "slug": "floral",
-  "total_prompts": 25,
+  "total_prompts": 21,
   "updated_at": "2026-09-24T12:56:10Z",
   "prompts": [
-    {
-      "id": "6aad7ec646d4207dc2133bcf",
-      "title": "Romantic Man in Leather Jacket Holding White Rose",
-      "slug": "cinematic-male-portrait-with-rose",
-      "category": "Floral",
-      "category_slug": "floral",
-      "prompt": "Create a photorealistic cinematic fashion portrait of a male subject standing casually in a dark studio environment.\nPose & Composition:\nFull-body vertical portrait, subject positioned slightly centered with generous negative space arround him. He stands with one leg subtly crossed in front of the other, creating a relaxed editorial pose. His right hand rests naturally inside his jacket pocket while his left hand gently holds a single white flower by the stem. His head is slightly tilted downward with his gaze directed toward the flower, creating a calm, introspective mood.\nOutfit:\nDark brown vintage leather jacket with a slightly oversized relaxed fit, detailed natural leather texture, structured collar, front zipper, and large chest pockets. Underneath, a simple black crew-neck shirt. Loose-fitting black trousers with natural fabric folds and black leather shoes.\nLighting & Atmosphere:\nMoody low-key studio lighting with a warm soft spotlight illuminating the subject from the upper-left side. Subtle highlights across the leather jacket and flower while most of the background remains deep shadow. Warm brown atmospheric glow and soft falloff around the upper-left corner.\nBackground:\nMinimalist dark-black studio infinity backdrop with subtle gradients. A smooth dark floor with a very soft reflection and natural shadow beneath the subject. No distracting objects or background elements.\nPhotography Style:\nLuxury editorial fashion photography, cinematic color grading, rich blacks, warm earthy tones, realistic material textures, natural shadows, sophisticated and mysterious atmosphere, shallow depth of field, highly detailed, realistic skin and fabric rendering, professional studio photography, subtle film grain, dramatic but natural lighting.\nFraming:\nVertical 4:5 composition, full body completely visible from head to shoes, eye-level camera angle, centered subject placement with intentional negative space, realistic proportions, high-end magazine aesthetic, ultra-detailed photorealism, 8K quality.",
-      "description": "Cinematic Romantic Portrait Prompt. Copy & Paste this prompt to create a moody, professional studio photograph of a stylish man in a vintage brown leather jacket gracefully holding a white rose against a dark background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 8,
-      "view_count": 412,
-      "copy_count": 274,
-      "is_premium": false,
-      "published_at": "2026-09-18T18:11:18.093Z",
-      "images": [
-        {
-          "filename": "d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "local_path": "images/floral/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/floral/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/floral/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in leather jacket with white rose AI Photo Editing Prompt. AI generated cinematic studio portrait of a handsome man in a vintage brown leather jacket and black outfit looking down at a single white rose in moody lighting.   "
-        },
-        {
-          "filename": "fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "local_path": "images/floral/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/floral/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/floral/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Man in leather jacket with white rose AI Photo Editing Prompt. AI generated cinematic studio portrait of a handsome man in a vintage brown leather jacket and black outfit looking down at a single white rose in moody lighting.   "
-        }
-      ]
-    },
     {
       "id": "6a70cbd74bbdbe2cf5985226",
       "title": "Aesthetic Woman with Floral Basket & Vintage Bike",
@@ -128,35 +89,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Woman in White Sari and Flowers Portrait. AI Photo Editing Prompt. AI generated portrait of a beautiful, smiling woman wearing a sheer white sari and bindi, sitting on stone steps in a lush, sunlit garden while holding a large, mixed floral bouquet and a small single flower."
-        }
-      ]
-    },
-    {
-      "id": "6a53c4377877e7a4d7a58446",
-      "title": "A Moment on the European Street",
-      "slug": "aesthetic-sunflower-street-girl-portrait",
-      "category": "Floral",
-      "category_slug": "floral",
-      "prompt": "Create a photorealistic, ultra-detailed lifestyle portrait of a woman sitting casually on the edge of a cobblestone sidewalk in front of a charming European-style brick house. She has natural hair, and a gentle, natural smile while looking directly at the camera. She rests her left cheek on her left hand in a relaxed pose and holds a bouquet of vibrant yellow sunflowers wrapped in brown kraft paper across her lap.\nOutfit: An oversized dark forest-green knit sweater, loose taupe wide-leg trousers, white crew socks, and white leather sneakers.\nComposition: Vertical full-body portrait from a low eye-level angle, subject positioned slightly off-center, seated naturally with legs extended forward, bouquet prominently visible, shallow depth of field.\nBackground: A quiet residential street featuring red-brick buildings, large white-framed windows with potted plants, a black front door, cobblestone pavement, and subtle greenery, softly blurred for depth.\nLighting: Warm natural golden-hour sunlight filtering through nearby trees, creating soft dappled light and gentle shadows across the scene with a cozy, cinematic atmosphere.\nStyle: Hyper-realistic, candid lifestyle photography with authentic skin texture, detailed knit fabric, realistic flower textures, natural colors, soft bokeh, premium editorial aesthetic.\nCamera: Full-frame DSLR, 85mm lens, f/1.6, ISO 100, 1/500s, shallow depth of field, crisp focus on the subject, 8K ultra-high resolution.\nAspect ratio 4:5.",
-      "description": "Urban Portrait Photography Prompt: Copy & paste this prompt to create a realistic portrait of a smiling woman sitting on a cobblestone curb with sunflowers.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 49,
-      "view_count": 2269,
-      "copy_count": 3031,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "local_path": "images/floral/6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/floral/6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/floral/6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Woman with Sunflowers Urban Street Portrait AI Photo Editing Prompt. AI generated portrait of a smiling woman holding a sunflower bouquet while sitting on a cobblestone curb."
         }
       ]
     },
@@ -562,35 +494,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526703cc",
-      "title": "Valentine’s Garden Embrace",
-      "slug": "happy-valentines-day-couple-rose-garden",
-      "category": "Floral",
-      "category_slug": "floral",
-      "prompt": "Create a highly polished, romantic Valentine’s Day portrait in a premium commercial photography style. The image should feel warm, bright, and emotionally uplifting, combining photorealistic subjects with a softly stylized romantic atmosphere while maintaining natural realism.\nFace Match\nUse the provided reference images (image_0.png and image_1.png) for strict face matching for both subjects. Preserve identical facial structure, proportions, eye shape, nose, lips, skin tone, hairstyle, and age characteristics. Maintain a realistic identity with natural skin texture and authentic expressions.\nComposition & Framing (Strict Pose Instructions)\nA couple stands centered in a vertical full-body composition, framed from head to feet. The subjects occupy approximately 2/3 of the frame height.\nThe woman stands slightly in front and to the left of the man. The man stands close behind her right side, angling his torso toward her.\nCrucial Pose Details:\n\nThe man's right arm wraps affectionately around the woman's waist. His left hand is placed distinctly inside the front pocket of his beige chinos.\nThe woman leans softly into the man’s chest and shoulder. Her right hand rests gently but noticeably flat against the center of the man's chest, over his heart. Her left arm rests naturally downward along her side.\nBoth subjects face the camera directly with heads close together. Expressions are warm, genuine, and happy with soft, natural smiles appropriate for Valentine’s Day.\nDepth of field is shallow, keeping the couple sharply in focus while the background garden remains softly blurred.\nSubjects & Styling\nSubjects appear realistic with natural facial detail and commercial-grade skin texture.\nThe man wears a light blue chambray-style button-down shirt with sleeves rolled and beige chinos.\nThe woman wears a soft pink floral knee-length dress with short sleeves and lightweight fabric.\nEnvironment & Background\nThe setting is a romantic garden in the early morning. The background includes softly blurred greenery and pink flowering bushes. The sky displays warm pastel tones of peach, soft pink, and orange at sunrise. Subtle, out-of-focus floating heart-shaped elements appear in the background atmosphere.\nForeground Elements\nIn the lower right foreground, placed on a small wooden table, are secondary Valentine-themed elements in soft focus: a white gift box with a red ribbon, a small flip-style calendar displaying “14 February”, and an elegant glass decanter.\nTypography Placement\nThe text “Happy Valentine’s Day” appears in the upper right quadrant in elegant red cursive script. Below it, the date “14 February” appears in a smaller refined serif font.\nLighting & Mood\nSoft, diffused morning golden-hour lighting. Warm frontal light illuminates faces, with subtle backlight from the sunrise. The mood is romantic, celebratory, and emotionally warm with pastel color grading.\nTechnical Style\nPhotorealistic commercial portrait photography, high resolution, 4:5 aspect ratio, smooth bokeh, and a clean premium finish.",
-      "description": "Create stunning Valentine's Day AI portraits with this rose garden prompt. Generate photorealistic couples with cinematic lighting and elegant \"14 February\" text.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 56,
-      "view_count": 1629,
-      "copy_count": 3715,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "local_path": "images/floral/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/floral/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/floral/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A smiling couple poses in a sunrise rose garden for Valentine's Day. The scene includes a gift, a \"14 February\" calendar, and festive red script text against a sunrise sky."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670388",
       "title": "Little Cherry Blossom",
       "slug": "little-cherry-blossom",
@@ -888,35 +791,6 @@
           "width": 1344,
           "height": 1545,
           "alt": "Gemini Generated Image: A smiling young woman in a pink sweater and white pants is sitting cross-legged inside a round, lighted wooden frame decorated with flowers and vines. She is holding a bouquet of pink and white roses. The background suggests she is in a flower shop."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701fe",
-      "title": "Smiling Woman in Red Gown",
-      "slug": "smiling-woman-in-red-gown",
-      "category": "Floral",
-      "category_slug": "floral",
-      "prompt": "Create an ultra-realistic, studio-quality portrait of a person seated gracefully on a stool, wearing an elegant, sleeveless, deep red gown with soft, flowing fabric and subtle lace detailing around the bodice. The subject is captured in a gentle three-quarter side profile, head slightly tilted downward with a serene, content expression, softly smiling while holding a fresh bouquet of vibrant red roses close to the face as if appreciating their fragrance. Hair is long and naturally styled in smooth, natural waves cascading over the shoulders with a soft, glossy finish. Skin tone is warm and evenly lit with natural texture, minimal makeup, and a soft glow.\nThe composition is a mid-to-full seated portrait in a vertical 4:5 aspect ratio, with the subject positioned slightly off-center, maintaining balanced negative space. Background is a seamless deep red gradient studio backdrop that smoothly blends into darker tones toward the edges, creating a rich monochromatic aesthetic with no visible edges or distractions.\nLighting is soft, professional studio lighting with a diffused key light from the front-left, creating gentle highlights on the face, hair, and dress, complemented by subtle fill light to maintain detail without harsh shadows. A faint rim light separates the subject from the background, enhancing depth. The overall mood is romantic, warm, and elegant with a refined editorial fashion look.\nCamera settings: eye-level angle, 85mm portrait lens, shallow depth of field for soft background blur, ultra-sharp focus on facial features and roses, 8K resolution, high dynamic range, natural color grading, no overexposure, no harsh contrast.",
-      "description": "Use this cinematic studio photography prompt to generate a highly realistic, romantic portrait of a beautiful woman in a red lace gown holding red roses.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 67,
-      "view_count": 2879,
-      "copy_count": 5195,
-      "is_premium": false,
-      "published_at": "2026-09-15T13:29:16.549Z",
-      "images": [
-        {
-          "filename": "IMG_20251124_234732.jpg",
-          "local_path": "images/floral/IMG_20251124_234732.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251124_234732.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/floral/IMG_20251124_234732.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/floral/IMG_20251124_234732.jpg",
-          "width": 1974,
-          "height": 2144,
-          "alt": "Ai generated image \"Women in red gown holding red flowers\""
         }
       ]
     },

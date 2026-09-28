@@ -1,7 +1,7 @@
 {
   "category": "Golden Hour Photography",
   "slug": "golden-hour-photography",
-  "total_prompts": 16,
+  "total_prompts": 15,
   "updated_at": "2026-09-24T12:57:11Z",
   "prompts": [
     {
@@ -360,35 +360,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Golden Hour Street Style Photography AI Photo Editing Prompt. AI generated realistic portrait of a young man wearing sunglasses and an olive green shirt, walking and looking back on a city waterfront promenade at sunset."
-        }
-      ]
-    },
-    {
-      "id": "6a7b547b4bbdbe2cf592852c",
-      "title": "Indian Couple in Festive Elegance",
-      "slug": "indian-couple-portrait-photo-prompt",
-      "category": "Golden Hour Photography",
-      "category_slug": "golden-hour-photography",
-      "prompt": "Use the uploaded reference image as the exact identity source for both subjects — preserve their facial structure, eyes, skin tone, nose shape, jawline, and natural facial proportions with zero alteration. Do not beautify, reshape, or stylize the face. Facial identity match is the top priority in this generation.\n\nCreate a photorealistic luxury couple portrait of the same two people from the reference image, standing closely together outdoors in an elegant garden/resort setting.\n\nWoman (same face as reference): wearing a peach/coral designer saree with intricate gold embroidery, shimmering embellishments, a heavily detailed gold border, matching sleeveless embellished blouse, layered gold necklace, statement jhumka earrings, stacked gold bangles, small elegant bindi. Long voluminous hair softly curled over one shoulder. Natural light makeup only — do not change facial structure. Gentle natural smile matching her real expression.\n\nMan (same face as reference), standing on the right: salmon-peach tailored blazer, white open-collar shirt, cream/beige trousers, brown leather belt, folded pocket square, subtle floral lapel brooch, premium wristwatch, hand in pocket. Naturally styled hair, same as reference. Warm natural smile matching his real expression.\n\nComposition: medium-to-full body couple portrait, both subjects centered, standing close, woman's hand resting gently on man's arm, natural romantic pose, realistic anatomy.\n\nBackground: upscale outdoor garden, soft greenery, warm decorative lights, circular bokeh, subtly blurred for depth.\n\nLighting: warm golden-hour light, soft directional glow, natural skin tones, delicate highlights on jewelry and fabric — lighting should enhance, not distort, facial features.\n\nCamera: eye-level, 85mm portrait lens, f/2.8 (avoid ultra-shallow DOF that blurs facial detail), sharp focus on both faces, cinematic color grading, ultra-detailed skin and fabric texture, photorealistic, 8K, vertical 4:5.\n\nStrict constraints: no text, no watermark, no extra people, no distorted hands, no facial distortion, no identity change, no face swap, no altered bone structure, keep both faces 100% consistent with the uploaded reference.",
-      "description": "Indian Couple Photography Prompt: Copy & paste this prompt to create a romantic outdoor portrait of an Indian couple in elegant peach traditional and formal attire with warm golden bokeh lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 74,
-      "view_count": 3142,
-      "copy_count": 4161,
-      "is_premium": false,
-      "published_at": "2026-08-11T16:57:31.822Z",
-      "images": [
-        {
-          "filename": "28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "local_path": "images/golden-hour-photography/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/golden-hour-photography/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/golden-hour-photography/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Peach Attire Portrait AI Photo Editing Prompt. AI generated romantic couple portrait of a woman in an embellished peach saree and a man in a peach blazer, posed together outdoors with warm golden bokeh lighting."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Realistic",
   "slug": "realistic",
-  "total_prompts": 71,
+  "total_prompts": 61,
   "updated_at": "2026-09-24T13:11:55Z",
   "prompts": [
     {
@@ -122,55 +122,6 @@
       ]
     },
     {
-      "id": "6a6a8e294bbdbe2cf5f1f864",
-      "title": "Golden Hour Couple City Portrait",
-      "slug": "couple-golden-hour-city-portrait",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Create a premium, ultra-realistic lifestyle portrait of the uploaded couple, preserving each person’s individual facial identity, skin tone, age, hairstyle and recognizable features without blending their features. Dress them in coordinated but non-matching modern smart-casual outfits in complementary neutral tones. Place them on an elegant city street during golden hour, standing naturally close with relaxed body language and a gentle hand-holding interaction. Keep both faces clearly visible near the same focal plane, with subtle closed-mouth smiles and authentic chemistry. Use soft diffused golden light, accurate skin exposure, realistic fabric and skin texture, an eye-level 85mm perspective and f/3.2 depth of field. Premium American lifestyle editorial photography, 4:5 aspect ratio.",
-      "description": "Golden Hour Street Photography Prompt: Use this prompt to create a realistic portrait of a young couple holding hands on a cobblestone city street at dusk.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 47,
-      "view_count": 3822,
-      "copy_count": 4786,
-      "is_premium": false,
-      "published_at": "2026-07-29T23:35:05.676Z",
-      "images": [
-        {
-          "filename": "d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "local_path": "images/realistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Young Couple Street Photography AI Photo Editing Prompt. AI generated outdoor portrait of a young couple holding hands on a paved European street during the golden hour with warm background bokeh."
-        },
-        {
-          "filename": "329510a7-9451-409b-811c-4402ef448172.webp",
-          "local_path": "images/realistic/329510a7-9451-409b-811c-4402ef448172.webp",
-          "original_url": "https://img.promptplum.com/promptImages/329510a7-9451-409b-811c-4402ef448172.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/329510a7-9451-409b-811c-4402ef448172.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/329510a7-9451-409b-811c-4402ef448172.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated photorealistic portrait of a young man in a dark blazer and a woman in a beige trench coat holding hands on a sunlit street."
-        },
-        {
-          "filename": "51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "local_path": "images/realistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "original_url": "https://img.promptplum.com/promptImages/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple City Portrait AI Photo Editing Prompt. AI generated photorealistic portrait of a young smiling couple embracing on a cobblestone European street during golden hour."
-        }
-      ]
-    },
-    {
       "id": "6a5df67da3af6f12204e225b",
       "title": "The Autumn Explorer",
       "slug": "low-angle-autumn-forest-photography",
@@ -196,55 +147,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Dramatic Low-Angle Autumn Portrait AI Photo Editing Prompt. AI generated outdoor portrait of a young woman wearing a cap and cargo pants, standing on a fallen log beneath towering yellow trees."
-        }
-      ]
-    },
-    {
-      "id": "6a5503027877e7a4d7b4f566",
-      "title": "Classic Family Portrait in Navy",
-      "slug": "studio-family-photography-navy-outfit",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Create a premium, photorealistic full-length studio portrait of the uploaded family of three. Use the uploaded image strictly only for the face and identity reference for each individual: preserve the adult woman’s exact recognizable face, facial structure, skin tone, hairstyle, and age; preserve the adult man’s exact recognizable face, facial structure, skin tone, hairstyle, beard or clean-shaven appearance, and age; and preserve the baby’s exact recognizable face, infant features, skin tone, hairstyle, and natural age. Keep all three identities clearly separate and do not blend, exchange, beautify, or reinterpret their facial features.\nPlace the adult woman from the reference image slightly right of center, seated naturally on a tall black geometric metal stool. She holds the same baby from the reference image securely and upright on her lap, supporting the baby naturally with both hands. Place the adult man from the reference image standing closely on the left, leaning slightly toward the woman and baby. Keep their heads positioned close together in a balanced, affectionate family composition.\nUse soft, composed expressions with natural eye contact. Keep the expressions subtle and avoid exaggerated emotions.\nDress the woman in an elegant floor-length deep navy-blue sleeveless gown with softly flowing fabric. Dress the man in a fitted dark navy button-up shirt, light grey tailored trousers, a minimal wristwatch, and dark brown leather loafers. Dress the baby in a crisp white shirt with striped suspenders, beige pinstriped trousers, and small brown shoes.\nUse a seamless charcoal-grey studio backdrop with a subtle textured finish, without visible corners or floor lines. Add soft directional studio lighting from the upper left, with flattering facial highlights, gentle shadows, and clear separation from the background. Keep all three faces equally sharp and detailed, especially the baby’s face. Maintain realistic skin texture, natural infant proportions, accurate hands and fingers, detailed clothing fabric, and polished professional family-photography quality. Full-body vertical composition, minimal headroom, 85mm portrait lens look, high resolution, masterpiece, 3:4 aspect ratio, without text, logos, or watermarks.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 4713,
-      "copy_count": 979,
-      "is_premium": true,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "local_path": "images/realistic/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "local_path": "images/realistic/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "local_path": "images/realistic/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "original_url": "https://img.promptplum.com/promptImages/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-1"
         }
       ]
     },
@@ -854,35 +756,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670331",
-      "title": "Winter Love Story",
-      "slug": "winter-love-story",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Aspect Ratio: 4:5 vertical\nA photorealistic romantic winter portrait of a young couple standing close together outdoors in a quiet snowy park during gentle snowfall. They are embracing warmly with arms wrapped around each other, foreheads and noses touching, eyes closed, both smiling softly, expressing intimacy and comfort.\nSTRICT FACE MATCH:\n\nIf reference images are provided, both faces must match the originals exactly (100% identity lock). No changes to facial structure, skin tone, eyes, nose, lips, jawline, or expressions.\nThe man wears a dark navy-blue padded winter jacket with black gloves, short dark hair, and light stubble, with snowflakes resting on his hair and shoulders.\n\nThe woman wears a black puffer winter coat with a fur-lined hood, black gloves, and her hair tied back in a neat low ponytail, with soft snowflakes visible on her coat and hair.\nSnow is falling naturally across the frame, with a few flakes closer to the camera for depth. The background shows a snow-covered park with bare winter trees, softly blurred, creating clean negative space and a calm, peaceful atmosphere.\nLighting is soft overcast daylight, with cool neutral winter tones—clean whites, light greys, muted blues—and natural warmth in skin tones. Professional DSLR-style photography, eye-level framing, shallow depth of field, realistic textures, candid and intimate mood.\nNegative prompt: no extra people, no face distortion, no oversaturation, no warm sunset lighting, no studio background, no text, no watermark.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 66,
-      "view_count": 2055,
-      "copy_count": 6128,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "local_path": "images/realistic/Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: an intimate moment between a couple amidst a serene winter landscape. A man and a woman stand closely embraced, their foreheads gently touching as they share a soft, affectionate smile with their eyes closed. They are dressed warmly for the weather; the man wears a navy blue puffer jacket, while the woman is clad in a black coat featuring a fur-lined hood and black leather gloves. Light snowflakes dust their hair and shoulders, adding to the romantic atmosphere. The background is a soft blur of snow-covered ground and leafless trees, emphasizing the quiet connection between the two figures in the chilly, white setting."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670329",
       "title": "Bucket Hat Vibes",
       "slug": "bucket-hat-vibes",
@@ -1082,64 +955,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Gemini AI Generated Image: A realistic full-body photo of a young man with blonde hair standing on a subway platform. He is wearing a grey sweatshirt, blue jeans, and white sneakers, with white headphones resting around his neck, and is holding a smartphone in his hand."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702df",
-      "title": "Paradise found with you.",
-      "slug": "paradise-found-with-you",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Use the uploaded image strictly as a visual and facial reference. Preserve realistic facial structure, proportions, skin tone, and expressions. Do not stylize or alter faces.\nCreate an ultra-realistic travel selfie photograph of a couple standing on a narrow dirt hiking trail with wooden safety railings on both sides, located at Kelingking Beach, Nusa Penida, Bali.\n\nSubjects, Clothing & Accessories (Locked)\nA couple standing close together, smiling naturally.\nOne person holds the camera in an arm-extended wide-angle selfie.\nMan: wearing a loose white linen shirt, white shorts, beige sandals, and dark sunglasses.\nWoman: wearing a white tunic-style top, white pants, pearl-style sandals, and sunglasses.\nClothing is light, breathable, casual, and suitable for hiking.\nNatural posture, relaxed tourist vibe.\nScene & Background (Match Reference)\nThe iconic T-Rex–shaped limestone cliff formation is clearly visible behind them.\nA curved sandy beach appears below between the cliffs.\nThe ocean is deep blue to turquoise, with white waves crashing against the rocks.\nThe trail is surrounded by dense, lush tropical greenery, with rich green foliage covering the cliffside.\nNatural rock textures and vegetation are clearly defined.\nClear open sky and distant ocean horizon.\nLighting & Image Color Tone (Late Morning)\nShot in late-morning daylight.\nBright, clean natural light with the sun higher in the sky.\nSoft, short shadows.\nFresh, vibrant green tones in vegetation.\nCool, crisp ocean blues without golden color cast.\nNatural skin tones, evenly lit, no harsh contrast.\nCamera & Quality\nWide-angle selfie lens\nSlight edge distortion for realism\nDeep depth of field (subjects and background both sharp)\nTravel photography style\nDSLR-quality clarity\nUltra-realistic textures (skin, fabric, wood, rock, water)\nNo filters. No cinematic grading. No artificial glow.\nAspect ratio:\n\n– 4:5 vertical (Instagram)",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 146,
-      "view_count": 7106,
-      "copy_count": 16506,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "local_path": "images/realistic/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A high-angle selfie of a smiling couple wearing matching white linen outfits and sunglasses, standing on a cliffside path with wooden railings. Behind them is the iconic Kelingking Beach in Nusa Penida, featuring a massive, green, T-Rex-shaped rock formation jutting out into vibrant turquoise ocean waters."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702c5",
-      "title": "Korean Style Selfie",
-      "slug": "korean-style-selfie",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Subject: Young woman, close-up digital selfie. Hair: Long chocolate brown hair, mermaid waves, full bangs, loose strands slightly blown across the face by the wind. Outfit & Accessories: Oversized bright black V-neck knitted sweater, large white bow at the center of the chest, simple small silver circle earrings, silver rings on fingers. Makeup & Skin: 100% realistic flawless skin, Korean-style makeup, neat natural eyebrows, hazy eyeliner, thin false eyelashes, light nude blush on cheeks and nose, nude-red lips. Hands: Long almond-shaped nude nails with white tips, one hand resting on chin. Expression: Smiling seductively, alluring gaze. Lighting & Atmosphere: Dimly lit room, powerful camera flash effect (direct flash), sharp contrast between bright face and dark background, cool tones. Style: Photorealistic, unedited raw photo, modern simplicity, casual selfie aesthetic. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 18,
-      "view_count": 1251,
-      "copy_count": 1703,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "local_path": "images/realistic/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Ai Generated Image: a close-up portrait of a smiling young woman with long, wavy brown hair and bangs. She is wearing a black V-neck sweater accented with a prominent white bow at the center. Her hand is gently raised near her chin, displaying silver rings and a French manicure, while small hoop earrings complete the look. The lighting highlights her rosy cheeks and face against a dark background, creating a soft and stylish aesthetic."
         }
       ]
     },
@@ -1396,35 +1211,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670251",
-      "title": "Relaxing in the Garden",
-      "slug": "relaxing-in-the-garden",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Use the uploaded photo for face reference and create a portrait of a Bathed in warm sunlight, a young man with wavy hair sits relaxed on a small rustic wooden bench against a pastel blue wall, softened by lush green plants and small trees. His cream oversized sweatshirt tinged with light blue harmonizes with the backdrop, paired with loose light denim jeans and pristine white sneakers. Gentle shadows play across his calm, confident face and natural skin tone, illuminated by natural light that glistens subtly on his hair. The concrete floor, scattered with a few fallen leaves, adds warm earth tones to the scene. In the foreground and softly blurred background, hints of green leaves create depth through creamy bokeh captured with a 50mm f/1.4 lens. A minimal silver bracelet reflects the understated 90s vibe. The composition vertically frames his upper body with precise focus, showcasing realistic textures on fabric, skin, and hair, conveying a serene blue-green harmony in ultra-realistic cinematic lighting.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 47,
-      "view_count": 1817,
-      "copy_count": 4147,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251203_140632.jpg",
-          "local_path": "images/realistic/IMG_20251203_140632.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251203_140632.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/IMG_20251203_140632.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/IMG_20251203_140632.jpg",
-          "width": 1696,
-          "height": 2469,
-          "alt": "Gemini Generated Image: A young man is sitting on a wooden bench outdoors, surrounded by potted plants. He is wearing a light-colored, tie-dye sweatshirt, light-wash jeans, and white sneakers."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267024e",
       "title": "The Midnight Rider",
       "slug": "the-midnight-rider",
@@ -1570,35 +1356,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670236",
-      "title": "Cherry Blossom Spring Portrait",
-      "slug": "cherry-blossom-spring-portrait",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Use the reference photo uploaded to create a hyper realistic Ultra HD photo of me standing in a Cherry blossoms Tree wearing a White loose blouse and a wash blue jeans the scene is Ethereal and my expression is sensual i'm also touching the cherry blossoms branch with lots of flowers make a Ultra clear hyper realistic photo with boque effect. Photorealistic style. The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 45,
-      "view_count": 1649,
-      "copy_count": 3511,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251130_101202.jpg",
-          "local_path": "images/realistic/IMG_20251130_101202.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_101202.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/IMG_20251130_101202.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/IMG_20251130_101202.jpg",
-          "width": 1856,
-          "height": 2294,
-          "alt": "Gemini Generated Image of A beautiful young woman with long dark hair, wearing a white shirt and blue jeans, smiles while gently touching branches of delicate pink cherry blossoms in soft, natural light."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267022d",
       "title": "New Year Portrait Glow",
       "slug": "new-year-portrait-glow",
@@ -1709,35 +1466,6 @@
           "width": 928,
           "height": 1120,
           "alt": "Gemini AI Generated, cinematic full-body portrait of an 18-year-old handsome young man standing on a mountain road beside a black mountain bike, with one hand firmly on the handlebar and the other casually in his pocket"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670222",
-      "title": "Solid deep wine-colored wall",
-      "slug": "solid-deep-wine-colored-wall",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "A full-body, camera look-angle portrait of a handsome myself like a 22-year-old boy, approximately 5'11\" tall. He is sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating a 90s movie and romantic, windy environment. He is wearing a perfect red wine-colored, retro aesthetic shirt with matching pants and white sneakers. He has a silver watch and is holding a single rose flower in hand. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 1778,
-      "copy_count": 3568,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "local_path": "images/realistic/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Ai generated image of a boy sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating a 90s movie and romantic, windy environment"
         }
       ]
     },
@@ -1994,35 +1722,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670213",
-      "title": "Woman plays acoustic guitar",
-      "slug": "woman-plays-acoustic-guitar",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Create a soft, natural, photorealistic outdoor portrait of a person seated on a simple wooden chair, gently playing an acoustic guitar in daylight. The subject is positioned slightly right of center, body angled subtly toward the left, with the head tilted downward and eyes focused on the guitar strings, conveying a calm, introspective mood.\nOutfit consists of a clean, minimal white sleeveless ribbed top paired with fitted light blue jeans, maintaining a simple and modern aesthetic. Hair is tied back in a neat low ponytail with a few soft strands framing the face, adding natural elegance. Expression is serene and focused, with a relaxed, peaceful feel.\nThe acoustic guitar features warm natural wood tones with visible grain texture, held comfortably across the lap, one hand forming chords on the fretboard while the other gently strums near the sound hole.\nBackground is a neutral gray wall with a smooth matte finish, clean and distraction-free, with absolutely no greenery, plants, or additional elements. The scene is outdoors, illuminated by soft natural daylight, creating gentle highlights and mild shadows without harsh contrast or overexposure.\nCamera angle is eye-level with a slight downward perspective, framed as a medium shot (waist-up), ensuring both the subject and guitar are clearly visible. Composition is minimal and balanced with subtle negative space.\nTechnical details: ultra-realistic, high resolution, natural color grading, soft contrast, shallow depth of field, 50mm lens look, f/2.8 aperture, crisp focus on subject, softly blurred background, lifestyle photography style. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 44,
-      "view_count": 1473,
-      "copy_count": 2309,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764161793490.png",
-          "local_path": "images/realistic/1764161793490.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764161793490.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/1764161793490.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/1764161793490.png",
-          "width": 960,
-          "height": 1088,
-          "alt": "Ai generated image of Woman playing acoustic guitar"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670212",
       "title": "Woman enjoys snowy view",
       "slug": "woman-enjoys-snowy-view",
@@ -2193,35 +1892,6 @@
           "width": 1856,
           "height": 2289,
           "alt": "AI generated image of girl and flowers"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701fb",
-      "title": "Indian Couple Red Saree AI Prompt",
-      "slug": "indian-couple-red-saree",
-      "category": "Realistic",
-      "category_slug": "realistic",
-      "prompt": "Create an ultra-realistic romantic portrait of a couple (use uploaded image strictly for 100% face and identity match).\nSubject & Outfit:\nA couple standing close together, holding hands gently and gazing into each other’s eyes with a soft, intimate expression.\nThe man is wearing a plain deep red button-up shirt (sleeves rolled to forearms) paired with black trousers.\nThe woman is wearing a rich red silk saree with intricate golden borders and subtle woven motifs, styled elegantly. She has a red rose tucked behind her ear and is wearing traditional gold earrings.\nPose & Expression:\nThey stand facing each other at a slight angle, bodies close, hands softly clasped at center. Both maintain a warm, affectionate gaze with calm, natural expressions.\nComposition & Framing:\nVertical 4:5 portrait, mid-to-full body framing (no crop at head or hands). Subject centered with slight natural asymmetry, maintaining balanced negative space.\nEnvironment & Background:\nRustic outdoor wall with natural texture. Soft foliage casting organic shadows across the wall, creating depth and visual interest.\nLighting:\nWarm golden-hour sunlight filtering from the top-left, creating soft dappled light patterns on the wall and subjects. Natural highlights on hair and face, smooth shadow falloff, no harsh exposure.\nCamera & Technical Details:\nEye-level angle, 85mm lens, shallow depth of field, soft background blur, ultra-sharp facial detail, natural skin texture (no smoothing), cinematic color grading, 8K resolution.\nFinal Requirement:\nMaintain exact facial structure, proportions, skin tone, and identity from the reference image — no stylization, no deviation.\nAspect Ratio: 4:5",
-      "description": "Romantic Couple Photography Prompt: Copy this prompt to generate a realistic outdoor portrait of an Indian couple holding hands in a red shirt and silk saree.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 574,
-      "view_count": 41807,
-      "copy_count": 82336,
-      "is_premium": false,
-      "published_at": "2026-09-20T01:31:02.064Z",
-      "images": [
-        {
-          "filename": "IMG_20251124_230907.jpg",
-          "local_path": "images/realistic/IMG_20251124_230907.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251124_230907.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/realistic/IMG_20251124_230907.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/realistic/IMG_20251124_230907.jpg",
-          "width": 1856,
-          "height": 2299,
-          "alt": "Indian Couple Red Saree AI Photo Editing Prompt. AI generated realistic outdoor portrait of a romantic Indian couple, man in red shirt and woman in red silk saree holding hands."
         }
       ]
     },

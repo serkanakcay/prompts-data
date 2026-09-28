@@ -1,7 +1,7 @@
 {
   "category": "Retro / Vintage",
   "slug": "retro-vintage",
-  "total_prompts": 56,
+  "total_prompts": 51,
   "updated_at": "2026-09-24T13:11:57Z",
   "prompts": [
     {
@@ -324,144 +324,6 @@
           "width": 1024,
           "height": 1536,
           "alt": "ChatGPT Image Sep 14, 2026, 02_31_48 AM"
-        }
-      ]
-    },
-    {
-      "id": "6aa342c446d4207dc21b952d",
-      "title": "80s Best Friends Studio Photo",
-      "slug": "80s-best-friends-studio-photo",
-      "category": "Retro / Vintage",
-      "category_slug": "retro-vintage",
-      "prompt": "Using the uploaded photo as the identity reference for all people, ignore its original pose, clothing, hairstyle, framing and background. Recreate us as best friends in the 1980s. Keep every face recognizable, give us authentic 80s hair and fashion, and show us standing together in a vintage studio photoshoot. Use warm analog colors, subtle film grain, soft vintage lighting, and a real 1980s photo feel.",
-      "description": "Curious how your squad would look in the 1980s? Copy this exact ChatGPT prompt to generate a realistic vintage studio photoshoot with your best friends.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 21,
-      "view_count": 4260,
-      "copy_count": 1919,
-      "is_premium": false,
-      "published_at": "2026-09-10T23:52:36.137Z",
-      "images": [
-        {
-          "filename": "98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
-          "local_path": "images/retro-vintage/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
-          "original_url": "https://img.promptplum.com/promptImages/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/98f2db7b-7e52-4556-bb65-f6b0d2121546.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 04_02_01 AM"
-        },
-        {
-          "filename": "bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
-          "local_path": "images/retro-vintage/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/bb324818-79e6-4bcb-a7d3-510e588f6e15.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 04_36_49 AM"
-        },
-        {
-          "filename": "99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
-          "local_path": "images/retro-vintage/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/99fde03d-ca13-467f-91bb-f1a069e4ff9a.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 04_36_57 AM"
-        },
-        {
-          "filename": "bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
-          "local_path": "images/retro-vintage/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/bfc7e76c-b6c0-44ea-a5d5-d99788b38058.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 04_37_05 AM"
-        },
-        {
-          "filename": "f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
-          "local_path": "images/retro-vintage/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/f035898e-8aa5-4802-9151-09e12f9cb89e.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 04_37_10 AM"
-        },
-        {
-          "filename": "6528c63d-0055-465e-8fb6-cbecda665bea.webp",
-          "local_path": "images/retro-vintage/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
-          "original_url": "https://img.promptplum.com/promptImages/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/6528c63d-0055-465e-8fb6-cbecda665bea.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 04_37_14 AM"
-        }
-      ]
-    },
-    {
-      "id": "6aa328b946d4207dc21a781c",
-      "title": "80s Vintage Couple Portrait",
-      "slug": "80s-vintage-couple-portrait",
-      "category": "Retro / Vintage",
-      "category_slug": "retro-vintage",
-      "prompt": "Using the uploaded photo as the identity reference for both people, recreate us as a stylish couple in the 1980s. Keep both faces recognizable, give us authentic 80s hair and fashion, and make it look like a real vintage couple photo with warm analog colors, subtle film grain, and a nostalgic 1980s feel.",
-      "description": "Turn your modern picture into a classic 80s masterpiece! Copy this AI prompt to create a stunning vintage couple portrait featuring retro denim and film grain.",
-      "ai_tools": [
-        "ChatGPT"
-      ],
-      "like_count": 46,
-      "view_count": 12079,
-      "copy_count": 7373,
-      "is_premium": false,
-      "published_at": "2026-09-10T22:01:29.183Z",
-      "images": [
-        {
-          "filename": "2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
-          "local_path": "images/retro-vintage/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/2b802b1e-c7c1-4efe-9dd6-1d24bf796174.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 02_01_18 AM"
-        },
-        {
-          "filename": "ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
-          "local_path": "images/retro-vintage/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/ef46e986-5e7f-404e-97de-aadfa577ac26.webp",
-          "width": 1128,
-          "height": 1394,
-          "alt": "ChatGPT Image Sep 11, 2026, 02_10_19 AM"
-        },
-        {
-          "filename": "5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
-          "local_path": "images/retro-vintage/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/5193abb2-9d51-45ba-b7a5-06b6deddd9f1.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 02_12_37 AM"
-        },
-        {
-          "filename": "8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
-          "local_path": "images/retro-vintage/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/8aee472c-ca96-4c93-bddc-345da993b5c0.webp",
-          "width": 1122,
-          "height": 1402,
-          "alt": "ChatGPT Image Sep 11, 2026, 02_05_25 AM"
         }
       ]
     },
@@ -842,45 +704,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Stylish Man with Sports Car Autumn Fashion Photography AI Photo Editing Prompt. AI generated lifestyle portrait of a sophisticated mustached man in a brown turtleneck leaning against a grey sports car in an autumn forest."
-        }
-      ]
-    },
-    {
-      "id": "6a7f3bd64bbdbe2cf5f217ad",
-      "title": "Couple on a Vintage Scrapbook Journal Page",
-      "slug": "scrapbook-style-couple-portrait",
-      "category": "Retro / Vintage",
-      "category_slug": "retro-vintage",
-      "prompt": "Use the uploaded image strictly as a reference for the couple’s facial identity and overall appearance. Create a vertical 4:5 editorial scrapbook journal scene, viewed from directly overhead, showing an open vintage cream-colored journal spread on a rustic wooden surface. The pages are aged, slightly textured, imperfect, and filled with a nostalgic handmade summer scrapbook collage.\nAt the center, couple are casually lying across the open journal pages. The girl has beautifully styled hair, a lavender cable-knit sweater, white pleated mini skirt, white socks and chunky white sneakers, with a lavender ribbon in her hair. She lies peacefully on her back with one arm holding a small paper star. The boy wears a beige varsity-style jacket over a black T-shirt with relaxed blue jeans, clean white sneakers. He lies beside her, leaning toward her, as they look at each other with soft, affectionate, and relaxed expressions. Natural anatomy, realistic proportions, subtle candid interaction.\nSurround the couple with a dreamy handmade scrapbook collage: pressed lavender flowers, baby's-breath flowers, purple and yellow pansies, dried botanicals, torn pastel papers, lavender gingham fabric, handwritten notes, postage stamps, envelopes, tiny stars, hearts, clouds, fish illustrations, decorative doodles, masking tape, paper scraps, vintage photographs and small polaroid-style prints.\nAdd handwritten journal-style typography and collage labels such as “August 22 — lazy afternoon,” “we lay here for hours talking about everything & nothing,” “summer,” “so peaceful,” “good day,” “summer / slow day / rest / quiet,” “iced coffee iced & calm,” “sky at 4pm,” and “note: remember this day — perfect.” Make the handwriting look naturally handwritten and integrated into the paper collage.\nUse a soft pastel palette of lavender, dusty blue, cream, beige, muted peach and pale yellow, with warm vintage paper tones. Soft diffused daylight, gentle shadows, tactile paper texture, realistic pressed flowers, delicate imperfections, cozy nostalgic atmosphere, dreamy Japanese/Korean-inspired scrapbook aesthetic, highly detailed mixed-media collage, photorealistic people integrated naturally into the flat-lay composition.\nCamera: directly overhead flat-lay view, 85mm lens, full-body balanced symmetrical composition, sharp central subjects with detailed surrounding collage, soft natural lighting, cinematic color grading, ultra-detailed, photorealistic, 8K resolution, vertical 4:5 composition. No modern objects, no extra hands, no anatomy error, no blurry details, no duplicate people, no identity change.",
-      "description": "Mixed Media Scrapbook Art Prompt: Copy & Paste this prompt to create a beautiful digital illustration of a young couple lying on an aesthetic vintage journal page filled with pressed flowers, torn paper, and handwritten notes.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 768,
-      "copy_count": 982,
-      "is_premium": false,
-      "published_at": "2026-08-14T16:01:26.621Z",
-      "images": [
-        {
-          "filename": "298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "local_path": "images/retro-vintage/298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Couple relaxing on a vintage floral scrapbook page mixed media illustration AI Photo Editing Prompt. AI generated digital illustration of a young boy and girl with purple hair lying on an aesthetic journal page surrounded by pressed flowers, vintage stamps, torn paper, and handwritten notes."
-        },
-        {
-          "filename": "5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "local_path": "images/retro-vintage/5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Gemini_Generated_Image_vaxm7nvaxm7nvaxm"
         }
       ]
     },
@@ -2147,35 +1970,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670222",
-      "title": "Solid deep wine-colored wall",
-      "slug": "solid-deep-wine-colored-wall",
-      "category": "Retro / Vintage",
-      "category_slug": "retro-vintage",
-      "prompt": "A full-body, camera look-angle portrait of a handsome myself like a 22-year-old boy, approximately 5'11\" tall. He is sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating a 90s movie and romantic, windy environment. He is wearing a perfect red wine-colored, retro aesthetic shirt with matching pants and white sneakers. He has a silver watch and is holding a single rose flower in hand. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 1778,
-      "copy_count": 3568,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "local_path": "images/retro-vintage/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Ai generated image of a boy sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating a 90s movie and romantic, windy environment"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670204",
       "title": "Cinematic vintage park",
       "slug": "cinematic-vintage-park",
@@ -2269,35 +2063,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Gemini_Generated_Image_f48f80f48f80f48f"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701f6",
-      "title": "Yellow Saree with sunflowers",
-      "slug": "yellow-saree-with-sunflowers",
-      "category": "Retro / Vintage",
-      "category_slug": "retro-vintage",
-      "prompt": "Use the uploaded image as the ONLY face & identity reference.\nCreate a soft, sunlit portrait of the subject wearing a flowing sheer yellow saree with delicate white floral embroidery. The mood is serene, poetic, and romantic with a warm golden glow.\nPose & Expression:\nShe is seated gracefully against a plain wall, body slightly angled, holding a bouquet of sunflowers close to her chest with both hands. Expression is calm, gentle, and softly confident, with a subtle, natural smile. Eyes are relaxed and looking directly into the camera.\nOutfit & Styling:\nElegant yellow saree with sheer drape and fine embroidery details. Loose, softly styled hair with a small white flower tucked behind the ear. Minimal traditional jewelry (earrings).\nComposition & Framing:\nWaist-up to mid-thigh portrait (seated framing), vertical 4:5 ratio. Subject slightly right of center with balanced negative space.\nLighting:\nWarm natural sunlight coming from the side, creating a strong triangular patch of light on the wall. Soft highlights on face and saree, with gentle shadow falloff adding depth and mood.\nBackground:\nMinimal plain wall with artistic sunlight-shadow pattern. Clean, distraction-free environment.\nMood & Style:\nDreamy, golden-hour aesthetic with soft contrast, natural skin texture, and cinematic warmth.\nTechnical Details:\nUltra-realistic, high detail, soft shadows, natural color grading, 85mm lens look, shallow depth of field.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 136,
-      "view_count": 7565,
-      "copy_count": 16445,
-      "is_premium": false,
-      "published_at": "2026-09-05T10:10:26.085Z",
-      "images": [
-        {
-          "filename": "1763939369961.png",
-          "local_path": "images/retro-vintage/1763939369961.png",
-          "original_url": "https://img.promptplum.com/promptImages/1763939369961.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/retro-vintage/1763939369961.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/retro-vintage/1763939369961.png",
-          "width": 928,
-          "height": 1120,
-          "alt": "AI Generated image of \"Beautiful young women in yellow saree, holding flowers\""
         }
       ]
     },

@@ -1,48 +1,9 @@
 {
   "category": "Weather",
   "slug": "weather",
-  "total_prompts": 5,
+  "total_prompts": 4,
   "updated_at": "2026-09-24T13:13:23Z",
   "prompts": [
-    {
-      "id": "6ab1cbfb42ae1b78ac8aa2ea",
-      "title": "Cinematic Rain Color Splash Portrait AI Prompt",
-      "slug": "rain-color-splash-portrait",
-      "category": "Weather",
-      "category_slug": "weather",
-      "prompt": "Ultra-realistic, cinematic 3:4 fine-art fashion editorial photograph of a confident man with exactly the same distinctive, natural facial features as in the reference image.\nNo AI skin smoothing. Preserve the real age structure and authentic skin texture.\n\nFace: Authentic facial contours matching the reference image.\nStriking natural-color eyes.\nHair: natural. Slightly wet.\nDesaturated skin tone.\n\nScene:\nBlack-and-white composition with a selective color-splash effect.\nBlack suit with a red shirt in an intense, vivid red, face and skin tone in subtle natural— everything else remains monochrome.\nHeavy rain falling visibly through the frame.\nLarge, blurred city bokeh lights in the background.\nCinematic low-key lighting with glossy water droplets visible on the skin and fabric.\n\nOutfit:\nBlack suit with a red shirt.\nWet and naturally clinging to the body from the rain, with realistic fabric weight and genuine folds.\n\nPose & Mood:\nHead tilted slightly backward.\nEyes half-open.\nAn expression combining strength, sensuality, and freedom.\nElegant. Dramatic. Self-confident.\n\nTechnique & Style:\n8K.\n85mm portrait lens.\nUltra-detailed skin texture.\nCinematic contrast.\nHigh-fashion editorial look.\nRealistic proportions.\nNo artificial AI symmetry.\n\nCleanly rendered with no distortion.\n\nSame subject across images, consistent facial structure, stable identity, similar hairstyle, same skin tone, recognizable facial geometry, soft frontal facial lighting, natural skin texture.",
-      "description": "Copy this detailed ChatGPT prompt to generate ultra-realistic, cinematic color-splash portraits. Create a dramatic custom face image featuring heavy rain, a wet black suit, and a vivid red shirt against B&W city bokeh.",
-      "ai_tools": [
-        "ChatGPT"
-      ],
-      "like_count": 3,
-      "view_count": 448,
-      "copy_count": 9,
-      "is_premium": true,
-      "published_at": "2026-09-22T00:29:47.128Z",
-      "images": [
-        {
-          "filename": "8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "local_path": "images/weather/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/weather/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/weather/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT AI Photo Prompt: Ultra-realistic color-splash portrait of a confident man with a mustache in a wet black suit and vivid red shirt, standing in heavy rain against B&W city bokeh lights."
-        },
-        {
-          "filename": "9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "local_path": "images/weather/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "original_url": "https://img.promptplum.com/promptImages/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/weather/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/weather/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT AI Prompt: Cinematic fine-art editorial photograph of a mature man with a short beard in heavy rain; his vivid red shirt stands out in a monochrome scene with city bokeh."
-        }
-      ]
-    },
     {
       "id": "6a7ab9ca4bbdbe2cf58074ec",
       "title": "Aesthetic Sad Boy Rain Photo Prompt",

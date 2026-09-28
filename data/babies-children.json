@@ -1,7 +1,7 @@
 {
   "category": "Babies & Children",
   "slug": "babies-children",
-  "total_prompts": 10,
+  "total_prompts": 9,
   "updated_at": "2026-09-24T12:50:36Z",
   "prompts": [
     {
@@ -109,55 +109,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Elegant Girl in Cream Dress and Crimson Bow Portrait AI Photo Editing Prompt. AI generated studio portrait of a young girl with auburn hair in a formal updo with pearl pins, seated in a cream tufted armchair, wearing a cream dress with a crimson velvet bow and gloves, layered pearl necklaces, lacy white tights, and white Mary Jane shoes."
-        }
-      ]
-    },
-    {
-      "id": "6a5503027877e7a4d7b4f566",
-      "title": "Classic Family Portrait in Navy",
-      "slug": "studio-family-photography-navy-outfit",
-      "category": "Babies & Children",
-      "category_slug": "babies-children",
-      "prompt": "Create a premium, photorealistic full-length studio portrait of the uploaded family of three. Use the uploaded image strictly only for the face and identity reference for each individual: preserve the adult woman’s exact recognizable face, facial structure, skin tone, hairstyle, and age; preserve the adult man’s exact recognizable face, facial structure, skin tone, hairstyle, beard or clean-shaven appearance, and age; and preserve the baby’s exact recognizable face, infant features, skin tone, hairstyle, and natural age. Keep all three identities clearly separate and do not blend, exchange, beautify, or reinterpret their facial features.\nPlace the adult woman from the reference image slightly right of center, seated naturally on a tall black geometric metal stool. She holds the same baby from the reference image securely and upright on her lap, supporting the baby naturally with both hands. Place the adult man from the reference image standing closely on the left, leaning slightly toward the woman and baby. Keep their heads positioned close together in a balanced, affectionate family composition.\nUse soft, composed expressions with natural eye contact. Keep the expressions subtle and avoid exaggerated emotions.\nDress the woman in an elegant floor-length deep navy-blue sleeveless gown with softly flowing fabric. Dress the man in a fitted dark navy button-up shirt, light grey tailored trousers, a minimal wristwatch, and dark brown leather loafers. Dress the baby in a crisp white shirt with striped suspenders, beige pinstriped trousers, and small brown shoes.\nUse a seamless charcoal-grey studio backdrop with a subtle textured finish, without visible corners or floor lines. Add soft directional studio lighting from the upper left, with flattering facial highlights, gentle shadows, and clear separation from the background. Keep all three faces equally sharp and detailed, especially the baby’s face. Maintain realistic skin texture, natural infant proportions, accurate hands and fingers, detailed clothing fabric, and polished professional family-photography quality. Full-body vertical composition, minimal headroom, 85mm portrait lens look, high resolution, masterpiece, 3:4 aspect ratio, without text, logos, or watermarks.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 4713,
-      "copy_count": 979,
-      "is_premium": true,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "local_path": "images/babies-children/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/babies-children/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/babies-children/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "local_path": "images/babies-children/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/babies-children/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/babies-children/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "local_path": "images/babies-children/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "original_url": "https://img.promptplum.com/promptImages/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/babies-children/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/babies-children/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-1"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Profile Picture",
   "slug": "profile-picture",
-  "total_prompts": 68,
+  "total_prompts": 65,
   "updated_at": "2026-09-24T13:11:54Z",
   "prompts": [
     {
@@ -1796,85 +1796,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670418",
-      "title": "Editorial Avatars",
-      "slug": "editorial-avatars",
-      "category": "Profile Picture",
-      "category_slug": "profile-picture",
-      "prompt": "Create an exaggerated, stylized 3D caricature portrait of the two people in the attached reference photo, Full-body (head-to-toe) shot. Preserve both subjects' identities, facial likenesses, skin tones, and defining features, but reinterpret them into bold, caricatured 3D forms with full-body proportions.\nApply strong, intentional deformation to each character, including elongated necks, oversized head-to-neck ratios, droopy eyelids, heavy lips, and subtle facial asymmetry. Extend the exaggeration into their full-body proportions so the stylization feels cohesive from head to toe. Slight proportional variations between the two characters should enhance individuality and personality contrast while keeping them visually harmonious. They must remain human-like but clearly stylized, expressive, and artistically exaggerated.\nPosition them in a dynamic, character-driven full-body composition that reflects chemistry and connection — standing close, subtly interacting, or posed in a high-fashion editorial stance. Their body language should feel intentional and cohesive rather than romanticized or cute.\nThe camera angle must be eye-level, aligned naturally with the characters’ faces to maintain presence and balance. Use a straight-on perspective with no dramatic tilt, distortion, or extreme wide-angle effects. The framing should capture both characters fully from head to toe while maintaining proportional clarity and compositional symmetry.\nDress both characters in coordinated luxury fashion with bold, high-end accessories. Their styling should complement each other while maintaining individuality, creating a weird, fashion-forward, collectible aesthetic that feels elevated and character-driven rather than realistic or cartoonish.\nUse a clean, controlled surface finish with smooth, studio-quality skin for both subjects. Avoid random textures, blemishes, freckles, dirt, grain, speckling, or noise. Materials should appear polished, premium, and carefully designed, with subtle subsurface scattering and realistic skin shading.\nIlluminate the scene with neutral studio lighting, soft diffused shadows, and even illumination with no harsh contrast. Use a plain neutral gray or off-white background.\nRender in ultra-high definition 4K quality with extreme detail, sharp focus, and cinematic clarity. Include micro-surface detail, high-resolution textures, physically based rendering (PBR), global illumination, soft reflections, and refined material definition. The image should appear crisp, clean, noise-free, and professionally studio-rendered.\nNo text, logos, or watermarks.\nAspect ratio: 4:5.\nNegative prompt: Cropped frame, low quality, head crop, toe crop",
-      "description": "Google Gemini AI Illustration Editing Prompt: Use this prompt to generate stylish 3D character portraits of high-fashion duos. These images feature diverse couples in designer-inspired editorial outfits with a modern, stylized aesthetic.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 36,
-      "view_count": 748,
-      "copy_count": 1288,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "local_path": "images/profile-picture/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "local_path": "images/profile-picture/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "local_path": "images/profile-picture/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "local_path": "images/profile-picture/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "local_path": "images/profile-picture/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "local_path": "images/profile-picture/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profile-picture/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670413",
       "title": "The Neon Lens",
       "slug": "man-glasses-cinematic-neon-lighting",
@@ -2816,64 +2737,6 @@
           "width": 1276,
           "height": 1635,
           "alt": "Gemini AI Generated Image: a stylish male subject in a monochromatic palette accented by vibrant red details. The man, shown in a profile view looking back over his shoulder, has a well-groomed beard and dark hair styled in a voluminous, swept-back pompadour. He is wearing a classic black leather motorcycle jacket that adds a rugged texture to the shot. The focal point of the image is his black-framed sunglasses with translucent, bright red lenses, which stand out boldly against the black-and-white composition. The background is a clean white with a large, soft gray circle positioned behind his head, giving the portrait a modern, graphic design aesthetic."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670328",
-      "title": "Brushstrokes of Serenity",
-      "slug": "brushstrokes-of-serenity",
-      "category": "Profile Picture",
-      "category_slug": "profile-picture",
-      "prompt": "A striking digital expressionist portrait artwork created with strong likeness to the attached reference image. The subject is a young woman shown in a subtle three-quarter, near-frontal view. She has softly defined feminine facial features, expressive warm brown eyes, naturally arched eyebrows, and smooth, well-balanced facial proportions. Her expression is calm and confident with a gentle, relaxed smile, conveying warmth, elegance, and approachability.\nHer hair is thick and voluminous, styled in loose natural waves or soft curls that frame the face organically, adding movement and texture to the composition. Skin tones are warm and natural, rendered with painterly realism — visible brush texture, soft tonal layering, and no plastic smoothness.\nThe artwork blends stylized realism with expressive, textured brushwork. Facial structure is clearly defined using confident directional strokes and smooth color transitions, maintaining realistic anatomy while embracing an illustrated, fine-art finish.\nLighting is cinematic and painterly, featuring a balanced dual-tone color scheme: warm highlights softly illuminate one side of the face, enhancing cheekbones and facial contours, while cool blue undertones shape the opposite side, creating depth and visual contrast without harsh division. The lighting feels artistic rather than photographic.\nThe subject wears a simple, dark, minimal outfit with soft folds, painted in deep neutral tones to keep visual focus on the face and expression.\nThe background remains abstract and minimal, composed of loose sketch lines, expressive brush strokes, and fragmented paint textures in white, light grey, and muted blue shades. The background feels intentionally unfinished, adding energy and modern artistic character without distracting from the subject.\nOverall mood is modern, expressive, and refined — a contemporary digital painting with editorial illustration quality, rich surface texture, confident color blocking, and gallery-style sophistication.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 58,
-      "view_count": 1267,
-      "copy_count": 2145,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "local_path": "images/profile-picture/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profile-picture/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profile-picture/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "width": 1321,
-          "height": 1568,
-          "alt": "Gemini AI Generated Image: a striking digital portrait of a young woman rendered in an expressive, painterly style. She has voluminous, wavy dark brown hair that is dramatically lit by a warm, golden light source from the left, creating glowing amber highlights that contrast with the cooler, blue-tinged shadows on the right side of her face and neck. Her expression is gentle and engaging, featuring warm brown eyes and a subtle, closed-lip smile. She is wearing a simple dark charcoal or black top, which helps keep the focus on her face. The background is abstract and textured, composed of loose, sketchy brushstrokes in shades of white, light gray, and muted blue, giving the piece an artistic, energetic quality that frames the more detailed rendering of the subject."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670327",
-      "title": "Digital Impasto",
-      "slug": "digital-impasto",
-      "category": "Profile Picture",
-      "category_slug": "profile-picture",
-      "prompt": "A striking digital expressionist portrait artwork created with strong likeness to the attached reference image. The subject is a young man shown in a subtle three-quarter, near-frontal view, with curly, voluminous dark hair framing the face, expressive warm brown eyes, and a neatly groomed beard and mustache. His expression is relaxed and confident, with a natural, slightly open smile that reveals teeth, conveying warmth and approachability.\nThe artwork blends stylized realism with painterly, textured brushwork. Facial features are clearly defined using confident, layered strokes and smooth color transitions, maintaining realistic anatomy while embracing an illustrative finish. Skin tones are warm and natural, with visible painterly texture rather than photographic smoothness.\nLighting is dynamic and cinematic, featuring a dual-tone color balance: soft warm highlights accent the face and cheekbones, while cooler blue undertones subtly shape the shadows, creating depth and visual contrast without harsh separation. The lighting feels painterly rather than photorealistic.\nThe subject wears a dark, minimal shirt with soft folds, painted in deep neutral tones that keep focus on the face.\nThe background is abstract and minimal, composed of loose brush marks, sketch-like strokes, and fragmented paint textures in white, light grey, and muted blue hues. The background feels intentionally unfinished, adding artistic energy without distracting from the portrait.\nOverall mood is modern, expressive, and artistic — a refined digital painting with editorial illustration quality, rich texture, confident color blocking, and a contemporary gallery-style aesthetic.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 30,
-      "view_count": 880,
-      "copy_count": 1398,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Screenshot-2026-01-05-at-8.07.43-AM.png",
-          "local_path": "images/profile-picture/Screenshot-2026-01-05-at-8.07.43-AM.png",
-          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2026-01-05-at-8.07.43-AM.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/profile-picture/Screenshot-2026-01-05-at-8.07.43-AM.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/profile-picture/Screenshot-2026-01-05-at-8.07.43-AM.png",
-          "width": 874,
-          "height": 1064,
-          "alt": "Gemini AI Generated Image: a stylized, digital portrait of a man with thick, dark, curly hair and a full beard, bearing a strong resemblance to the actor Kit Harington. He is depicted with a warm, approachable expression, featuring a gentle smile and brown eyes that look directly at the viewer. The artwork mimics the texture of an oil painting or concept art, utilizing visible, expressive brushstrokes and a palette that blends realistic warm skin tones with cool blue highlights in the shadows. He wears a simple black t-shirt, and the background is an abstract composition of white, light blue, and grey geometric shapes and painterly strokes that frame the subject without distracting from his face."
         }
       ]
     },

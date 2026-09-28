@@ -1,7 +1,7 @@
 {
   "category": "Studio Portraiture",
   "slug": "studio-portraiture",
-  "total_prompts": 15,
+  "total_prompts": 14,
   "updated_at": "2026-09-24T13:12:41Z",
   "prompts": [
     {
@@ -256,66 +256,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Round Sunglasses and Red T-shirt Studio Portrait\nAI Photo Editing Prompt AI generated studio portrait of a smiling young man wearing round sunglasses and a red t-shirt looking away against a monochromatic red background."
-        }
-      ]
-    },
-    {
-      "id": "6a53efc47877e7a4d7a82d4b",
-      "title": "Monochrome Family Profile Portrait",
-      "slug": "black-and-white-family-studio-profile",
-      "category": "Studio Portraiture",
-      "category_slug": "studio-portraiture",
-      "prompt": "Use the uploaded family photos as identity references and create an elegant vertical black-and-white family portrait featuring a father, mother, and young child arranged in overlapping side profiles. Place the father slightly behind on the left, the mother in the center, and the child in front on the right, with each face clearly visible and naturally layered without merging or distortion. All three should gaze softly upward toward the same off-camera direction, creating a hopeful and emotional expression.\nShow only their head, neck, and upper shoulders, dressed in simple dark clothing that blends smoothly into a pure black background. Illuminate their faces with soft directional light from the left, creating bright facial highlights, gentle shadows, realistic skin texture, crisp eyes, and a dramatic high-contrast monochrome look. Fade the outer edges of their hair, shoulders, and clothing gradually into the darkness for a seamless cinematic composition.\nKeep generous black negative space around the family. In the lower portion, add the word “FAMILY” in white, using one oversized elegant serif letter “F”, followed by “AMILY” in a thin handwritten uppercase style. Fine-art studio photography, emotional family poster aesthetic, clean composition, realistic facial proportions, sharp facial focus, smooth tonal gradients, vertical 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 58,
-      "view_count": 4842,
-      "copy_count": 3893,
-      "is_premium": false,
-      "published_at": "2026-07-29T21:35:38.567Z",
-      "images": [
-        {
-          "filename": "cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "local_path": "images/studio-portraiture/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/studio-portraiture/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/studio-portraiture/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "local_path": "images/studio-portraiture/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "original_url": "https://img.promptplum.com/promptImages/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/studio-portraiture/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/studio-portraiture/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "width": 928,
-          "height": 1152,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "local_path": "images/studio-portraiture/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/studio-portraiture/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/studio-portraiture/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "local_path": "images/studio-portraiture/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/studio-portraiture/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/studio-portraiture/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-4"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "3D Caricature",
   "slug": "3d-caricature",
-  "total_prompts": 27,
+  "total_prompts": 20,
   "updated_at": "2026-09-24T12:49:45Z",
   "prompts": [
     {
@@ -262,55 +262,6 @@
       ]
     },
     {
-      "id": "6a590ef2a3af6f1220c3032a",
-      "title": "A Miniature with Chocolate",
-      "slug": "miniature-man-chocolate",
-      "category": "3D Caricature",
-      "category_slug": "3d-caricature",
-      "prompt": "Create a hyper-realistic macro portrait of the uploaded handsome person transformed into a tiny, cute chibi-style miniature. Maintain the recognizable facial identity and glasses if present. Give the miniature an oversized semi-realistic head, a very small body, chibi body proportions, and extremely short hands and legs, while keeping the face cute and adorable.\nShow the miniature standing on an off-white round tabletop and tightly hugging an extra-oversized red KitKat bar that is significantly taller and wider than his entire body. Both tiny arms should wrap firmly around the chocolate bar as if he refuses to let it go. The KitKat must look like a real wrapped chocolate bar with natural crumpled folds, a torn-open top, and partially eaten chocolate fingers clearly showing crisp wafer layers.\nAdd realistic chocolate smudges around his mouth, across his fingertips, and on both hands, suggesting he was just eating it. A huge realistic human hand enters from the upper-right corner, gently pinching the back collar of his jacket without covering his face or the KitKat.\nDress him in a dark navy hoodie, white T-shirt, dark slim-fit jeans, and clean matching sneakers. Give him a playful, lovable smile while looking directly at the camera.\nUse a tight vertical 4:5 macro composition where the oversized head, miniature, and enormous KitKat dominate the frame. Add a few chocolate crumbs and small melted chocolate drops on the tabletop. Use a soft light-grey bokeh background, soft bright studio lighting, shallow depth of field, outfit texture, and chocolate textures, natural wrapper reflections, and a whimsical premium advertising-photography aesthetic. Avoid adult body proportions, simple background and realistic head.",
-      "description": "3D Caricature Illustration Prompt: Use this prompt to create a miniature smiling man holding a giant KitKat Chocolate while a large hand reaches down for him.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 2595,
-      "copy_count": 1883,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "local_path": "images/3d-caricature/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Miniature Kit Kat Scene AI Photo Editing Prompt.\nAI generated Whimsical Conceptual Product Art of a smiling, miniature man with glasses and messy chocolate on his face, holding a giant Kit Kat bar while being lifted by a large human hand."
-        },
-        {
-          "filename": "bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "local_path": "images/3d-caricature/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated surreal photo manipulation of a smiling miniature man with an oversized head holding a large, partially eaten KitKat bar and being pinched by a giant human hand."
-        },
-        {
-          "filename": "70f20281-da79-4527-a927-2863a197663b.webp",
-          "local_path": "images/3d-caricature/70f20281-da79-4527-a927-2863a197663b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/70f20281-da79-4527-a927-2863a197663b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/70f20281-da79-4527-a927-2863a197663b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/70f20281-da79-4527-a927-2863a197663b.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "miniature-man-holding-giant-kitkat-ai-art-prompt-by-promptplum-3"
-        }
-      ]
-    },
-    {
       "id": "6a4a862640c33bcad6e4aa84",
       "title": "The Silver Fox",
       "slug": "silver-hair-man-3d-character",
@@ -547,45 +498,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704e9",
-      "title": "The Smirking Pair",
-      "slug": "cute-3d-couple-pixar-style",
-      "category": "3D Caricature",
-      "category_slug": "3d-caricature",
-      "prompt": "Ultra-detailed stylized 3D character render of a playful young couple (male and female), designed with exaggerated chibi proportions (oversized heads, compact bodies), large expressive eyes, soft smooth skin, and highly detailed hair strands with natural color, natural flow and subtle flyaways.\nCharacters:\nFemale: long straight or slightly tousled hair, natural volume, optional minimal hair clip\nMale: short to medium stylized hair, soft texture with clean strand detail, and grooming details\nFacial Expression (IMPORTANT):\nBoth characters have a mischievous, slightly defiant expression\nEyebrows slightly lowered\nEyes looking sharply to the side (side-eye)\nNose subtly scrunched\nLips pressed into a tight playful smirk\nPose (IMPORTANT — match exactly for BOTH):\nStanding back-to-back, close together\nFeet close and pointing forward\nArms relaxed straight down at their sides\nEyes looking sideways (same direction or slightly toward each other)\ncompact posture\nInteraction Detail:\nTheir backs lightly touching, giving a subtle cute couple vibe, but both maintain the same pose (no hugging or hand-holding)\nClothing:\nOversized long-sleeve cream beige sweatshirts, and maching trousers (minimal design, soft folds, chest pocket)\nSimple socks and casual sneakers\nSlight color contrast between male and female outfits\nLighting:\nSoft studio lighting\nGentle directional key light\nSmooth soft shadows\nSubtle ambient fill\nSoft highlight transitions\nRendering Style:\nHigh-end 3D stylized realism (Pixar-like quality)\nUltra-clean textures\nSoft subsurface scattering\nCinematic depth of field\nBackground:\nClean, soft bokeh seamless studio backdrop with warm tones. No objects in the background.\nComposition:\n4:5 aspect ratio\nVertical portrait\nFull body, centered\nCinematic poster layout\nBalanced spacing between characters",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 109,
-      "view_count": 3013,
-      "copy_count": 8575,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_583un6583un6583u.webp",
-          "local_path": "images/3d-caricature/Gemini_Generated_Image_583un6583un6583u.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_583un6583un6583u.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/Gemini_Generated_Image_583un6583un6583u.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/Gemini_Generated_Image_583un6583un6583u.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "Gemini_Generated_Image_mr79cemr79cemr79.webp",
-          "local_path": "images/3d-caricature/Gemini_Generated_Image_mr79cemr79cemr79.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mr79cemr79cemr79.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/Gemini_Generated_Image_mr79cemr79cemr79.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/Gemini_Generated_Image_mr79cemr79cemr79.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526704e6",
       "title": "Textured Tones",
       "slug": "3d-pixar-style-cute-girl-colorful-background",
@@ -729,124 +641,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Smiling 3D Caricature Male Character Prompt. AI generated 3D character illustration of a smiling man with brown curly hair, wearing a white short-sleeved shirt and brown trousers, posing with his hand on his chin against a plain white background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670465",
-      "title": "Real & Rendered",
-      "slug": "realistic-person-with-3d-cartoon-avatar",
-      "category": "3D Caricature",
-      "category_slug": "3d-caricature",
-      "prompt": "Create a high-resolution, ultra-realistic studio composition in a 4:5 vertical aspect ratio, featuring a real person standing beside a stylized 3D caricature (bobblehead-style) version of the same individual.\nUse the provided reference image as the only source of identity. Strictly preserve the subject’s exact facial structure, proportions, skin tone, hairstyle, and all recognizable features. Do not alter or stylize the real face.\nComposition & Framing:\n\nFull-body vertical shot with a clean, centered layout. The real subject stands on the right, and the caricature stands on the left at approximately 50–60% of the real subject’s height. The real subject casually rests one elbow on the caricature’s oversized head, creating a natural, playful interaction.\nReal Subject (Photographic):\n\nUltra-realistic rendering with natural skin texture and fine detail. Expression is warm, relaxed, and confident.\nPose & Style (IMPORTANT):\n\nThe subject stands in a slightly cool, stylish posture — relaxed stance with legs slightly crossed at the ankles, shoulders loose, not stiff. The hand resting on the caricature should feel effortless and natural.\nClothing (Match Reference):\n\nGray crewneck sweater (fine knit texture, ribbed cuffs/hem), classic blue jeans (straight fit), and clean white sneakers. Keep textures realistic and clearly visible.\n3D Caricature (Stylized Version):\n\nPixar/Disney-inspired 3D style with exaggerated proportions — large expressive head and smaller body. The height should be noticeably shorter, around the real subject's waist level.\nFacial features must remain recognizable but enhanced — larger eyes, softer forms, slightly amplified smile.\nEmotion & Body Movement (IMPORTANT):\n\nExpression is more playful and animated than the real subject\n\nEyes brighter and more expressive, smile slightly exaggerated\nBody posture must NOT be stiff — use a natural, lively stance\n\nAdd subtle movement according to the real subject's personality\n\nPose should feel like a living, animated character, not a rigid figurine\nClothing:\n\nExact 1:1 stylized recreation of the real subject’s outfit with soft 3D textures.\nLighting & Environment:\n\nSoft, diffused studio lighting from the upper-left, creating smooth highlights and gentle shadows. Clean light-gray gradient seamless background(lighter in the inner areas).\nOutput Style:\n\nUltra-clean, cinematic, high-detail render with strong contrast between realistic human and stylized 3D character. Both subjects grounded with soft natural shadows.",
-      "description": "Person with Caricature AI Prompt: Use this Prompt to create a professional studio photograph of a realistic man standing beside his stylized Caricature/ 3D animated version in matching grey sweaters and blue jeans.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 100,
-      "view_count": 1177,
-      "copy_count": 3312,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "local_path": "images/3d-caricature/young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/young-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man with 3D Cartoon Avatar AI Prompt. AI generated digital illustration of a young man in a grey sweater leaning on a large-headed 3D cartoon version of himself."
-        },
-        {
-          "filename": "woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "local_path": "images/3d-caricature/woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/woman-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman and Miniature 3D Avatar Prompt. AI generated digital illustration of a realistic young woman in a grey sweater and jeans leaning on her stylized cartoon miniature avatar."
-        },
-        {
-          "filename": "old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
-          "local_path": "images/3d-caricature/old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/old-man-leaning-on-miniature-cartoon-avatar-3d-illustration-by-promptplum2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Elderly Man with Miniature 3D Avatar AI Photo Editing Prompt. AI generated digital illustration of an elderly man leaning on a large-headed 3D caricature of himself, both wearing matching grey sweaters and blue jeans."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670405",
-      "title": "Chibi-Inspired Couple",
-      "slug": "chibi-inspired-couple",
-      "category": "3D Caricature",
-      "category_slug": "3d-caricature",
-      "prompt": "Create a full-body, cute chibi-style 3D cartoon illustration of a couple standing side by side, captured from a high, top-down perspective with a slight wide-angle lens effect, as if the camera is positioned directly above them and tilted downward. The view should clearly show the tops of their heads slightly while emphasizing their faces, creating a cute, slightly exaggerated perspective where the upper body and faces appear more prominent than the lower body.\nThe characters must maintain accurate face matching to the provided reference image — preserving their exact facial structure, hairstyle, skin tone, eye shape, smile, and overall likeness while transforming them into a stylized chibi 3D version.\nThe woman has voluminous, warm-brown hair, oversized, expressive eyes, soft cheeks, and a bright, cheerful smile. Take the outfit and accessories details from the reference image. She is waving one hand in a friendly, welcoming gesture. Her expression should convey joy, affection, and liveliness.\nThe man stands very close beside her in a relaxed, natural pose. He has naturally styled hair, expressive eyes, and a friendly smile. Extract outfit details from the reference image. One hand rests casually inside his pocket while the other hangs naturally.\nBoth characters should have classic chibi proportions:\nOversized heads\nSmaller compact bodies\nSmooth facial features\nSubtle blush on cheeks\nGlossy, highly detailed eyes with soft reflections\nSoft stylized skin shading\nDepth of Field Adjustment:\nThe lower body area (from the waist down toward the feet) should be slightly blurred with a soft depth-of-field effect, while the faces remain extremely sharp and in clear focus.\nRendering Style:\nUltra-detailed 3D Pixar-inspired character design, glossy smooth textures, hyper-clean sculpting, realistic fabric folds, subtle skin subsurface scattering, cinematic soft global illumination lighting, soft shadows beneath the characters, vibrant yet balanced color grading, and ultra-sharp clarity.\nResolution & Composition:\n4K Ultra HD quality, extremely sharp focus, high-detail rendering, studio-quality finish, clean minimal light gray or soft off-white background, no clutter, professional lighting setup, slightly extra empty space above the head, slightly empty space below the feet.\nAspect Ratio: 4:5 (vertical composition)\nMood:\nCute, heartwarming, romantic, cheerful, wholesome, premium 3D render aesthetic.\n\nNo plastic effects.",
-      "description": "Google Gemini AI 3D Illustration Prompt: Use this prompt to generate a charming 3D chibi-style portrait of a cute couple, featuring high-quality digital art details and a unique high-angle perspective.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 109,
-      "view_count": 2022,
-      "copy_count": 5925,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
-          "local_path": "images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "3D Couple in Formal Attire AI Prompt. AI generated 3D digital illustration of a smiling couple in formal wear, featuring a woman in a red lace gown waving and a man in a black tuxedo against a white background."
-        },
-        {
-          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
-          "local_path": "images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "3D Stylized Couple Portrait Prompt. AI generated 3D digital illustration of a fashionable young couple posing together from a high-angle view, featuring a woman waving in a fruit-print top and a man in a light blue shirt."
-        },
-        {
-          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
-          "local_path": "images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
-          "local_path": "images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-5.webp",
-          "width": 1792,
-          "height": 2368,
-          "alt": ""
-        },
-        {
-          "filename": "3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
-          "local_path": "images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/3D-Couple-Portrait-Illustration-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
         }
       ]
     },
@@ -1087,95 +881,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267038b",
-      "title": "Vintage Beachside Vacation",
-      "slug": "vintage-beachside-vacation",
-      "category": "3D Caricature",
-      "category_slug": "3d-caricature",
-      "prompt": "Reference Usage (Safe & Compliant)\n\nUse the uploaded reference images only as visual guidance for facial features and overall appearance of both people.\n\nPreserve strong resemblance, facial proportions, hairstyle, and natural expression.\n\nNo age change, no beautification, no face morphing.\nScene & Style\nCreate a vibrant, high-end 3D caricature (bobblehead) couple portrait with oversized heads and expressive faces, while keeping realistic skin, fabric, metal, and water textures.\nStyle:\n\nPremium Pixar / Gemini-like realism\nClean, polished, ultra-detailed\nCommercial-quality 3D render\nSubjects & Pose\nA man and a woman sit side-by-side on the front hood edge of a vintage 1950s-style pickup truck parked on a sunny beach.\nMan (left):\n\nNatural hair, well-groomed beard (if present)\nBig friendly grin, wide open eyes\nOutfit matches the reference image\nWoman (right):\n\nNatural hair tied back\nLaughing joyfully (natural smile, slightly squinted eyes)\nOutfit matches the reference image\nFootwear rule (important):\n\nBoth subjects are barefoot.\n\nNo shoes, slippers, or sandals.\n\nNatural toes, relaxed feet posture.\n\nTheir legs hang naturally over the hood edge, giving a relaxed vacation vibe.\nBackground & Environment\nBright tropical beach with clear turquoise water.\nWater interaction (important):\n\nGentle ocean water reaches the truck tires\nVisible soft splashes and ripples around the tires\nWhite foam, wet sand reflections\nShallow, calm water — no dramatic waves\nDistance:\n\nTropical shoreline with lush green trees\nSubtle beach curve\nRight side:\n\nTall palm trees leaning toward the ocean\nIndividual leaves visible\nSky:\n\nMid-day summer daylight\nBright sun overhead\nWarm, natural tones\nScattered soft clouds\nNo sunset, no golden hour, no evening mood\nVehicle\nVintage pickup truck with:\n\nPolished silver/blue metallic paint\nChrome grille, bumper, and headlight rings\nHighly reflective surfaces showing sky, sand, and water\nClean, showroom condition\nLighting & Camera\nMid-day natural sunlight\nBright, neutral light\nSoft natural shadows\nNo dramatic contrast\nEye-level camera\nMedium shot\nCentered composition\nShallow depth of field (background slightly soft)\nUltra-sharp faces, fabric texture, and water detail\nBrand Signature (Subtle)\nAdd a small handwritten-style signature text:\nPromptPlum.com ❤️\nPlacement: bottom-right or bottom-left corner\n\nStyle: elegant, handwritten, premium\n\nColor: soft white or charcoal\n\nNo glow, no shadow, no emboss\n\nMust not overlap faces or main subjects\n\nMust feel naturally composited\nOutput Quality\nUltra-detailed 3D render\nRealistic materials\nHigh resolution\nCrisp edges\nNo noise\nPremium commercial finish\nAspect ratio: 4:5 (portrait)\nNegative Prompt\nWatermark, sparkles, icons, shoes, slippers, sandals, low resolution, blurry faces, wrong likeness, extra fingers, deformed hands, incorrect body shape, plastic skin, harsh shadows, neon colors, cartoon outlines, cluttered background.",
-      "description": "Get the ultimate AI image prompt for creating a 3D romantic caricature couple on a beach vacation. Generate stunning, Pixar-style illustrations featuring a happy couple sitting on a vintage truck with tropical palm trees, ocean waves, and cinematic lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 80,
-      "view_count": 1516,
-      "copy_count": 3071,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "local_path": "images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A joyful 3D caricature of a smiling couple sitting on the hood of a vintage blue truck at a tropical beach, surrounded by palm trees and turquoise water."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "local_path": "images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "local_path": "images/3d-caricature/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple on a vintage blue truck at a tropical beach. The woman wears a floral saree, the man a green t-shirt. Sunny ocean backdrop with palm trees."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "local_path": "images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "local_path": "images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple sitting on a vintage truck at a sunny tropical beach with palm trees and ocean waves. A romantic vacation illustration."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "local_path": "images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "local_path": "images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple on a silver truck's hood at a tropical beach. Sunny sky, palm trees, and ocean waves create a vibrant, romantic vacation vibe with a cinematic finish."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670384",
       "title": "Bass Blast",
       "slug": "bass-blast",
@@ -1230,35 +935,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Gemini AI Generated Image of a 3D caricature of a smiling man in a leather jacket riding a motorcycle through a sunny city street."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670371",
-      "title": "Beach Bums & Bonnet Sits",
-      "slug": "beach-bums-bonnet-sits",
-      "category": "3D Caricature",
-      "category_slug": "3d-caricature",
-      "prompt": "Create a 3D hyper-realistic caricature of a happy couple sitting on the chrome front bumper of a classic vintage American pickup truck, with a scenic tropical beach sunset in the Philippines as the background, featuring palm trees and turquoise water. The couple has exaggerated heads. The man (use uploaded photo 1) is wearing a blue shirt with the print ‘he,’ short pants, and slippers, with a goofy wide grin. The woman (use uploaded photo 2) is wearing a cozy, textured knit light-purple sweater with the print ‘she’ and leggings, laughing. Include expressive facial features, highly detailed skin pores, and fabric textures. 8K resolution, aspect ratio 3:4.",
-      "description": "Master the art of 3D caricature with this high-detail AI prompt! Generate a stylized couple sitting on a vintage car against a tropical beach sunset. Features cinematic lighting, vibrant colors, and customizable graphic tees for a playful, modern aesthetic.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 54,
-      "view_count": 1946,
-      "copy_count": 4587,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "local_path": "images/3d-caricature/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "width": 1254,
-          "height": 1680,
-          "alt": "Gemini AI Generated Image of A 3D caricature of a smiling couple with big heads sitting on a car hood at a beach sunset."
         }
       ]
     },
@@ -1367,35 +1043,6 @@
           "width": 1187,
           "height": 1747,
           "alt": "Gemini AI Generated Image: A young woman with long, dark wavy hair, captured in a studio setting against a solid dark blue background. She is dressed casually in a grey knitted sweater and dark jeans. Her expression is one of delightful surprise, with her mouth open in a smile, as she looks at a small, 3D animated figurine held in her left hand. She points excitedly at the figurine with her right index finger. The figurine is a stylized, cute miniature version of herself—resembling a Pixar-style character—dressed in an identical grey sweater and jeans with its arms outstretched. The lighting is soft and focused, highlighting the contrast between the realistic human subject and her charming cartoon counterpart."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267031c",
-      "title": "Look at this little dude!",
-      "slug": "look-at-this-little-dude",
-      "category": "3D Caricature",
-      "category_slug": "3d-caricature",
-      "prompt": "Ultra-realistic cinematic portrait of a real adult man.\n\nFace identity must be preserved with 100% accuracy.\nDO NOT change face shape, bone structure, skin tone, facial proportions, eye shape, nose, lips, jawline, beard pattern, hairline, or overall identity in any way.\n\nThe real person must look exactly identical to the reference image.\nNatural human skin texture with visible pores, subtle imperfections, realistic facial hair, and true-to-life hair strands. Wearing a simple casual short-sleeve t-shirt with accurate color and fabric texture.\nThe man is holding a small 3D miniature version of himself on his fingers, gently supported by one hand.\n\nHe is looking at the miniature with curious, playful amusement — slightly raised eyebrows, soft natural smile, expressive eyes. Expression must feel authentic and unforced.\nThe miniature version is NOT a different face.\n\nIt must be a perfect facial match to the real person:\nSame face shape\nSame hairstyle\nSame beard and facial features\nSame skin tone\nThe difference is STYLE ONLY, not identity.\nThe miniature is rendered in a high-quality modern 3D cartoon style, with:\n\nSlightly oversized cartoon head\nSmooth stylized surfaces\nLarge expressive eyes\nPlayful animated arms and legs\nfunny facial expression\nStylization must be clean, cinematic, premium — not toy-like, not doll-like, not plastic.\nBoth figures wear matching casual clothing with consistent colors and believable materials.\n\nClear and humorous scale difference between real person and miniature.\nBackground is dark, cinematic, softly blurred, with strong depth of field.\n\nProfessional studio lighting with soft highlights on skin and subtle rim light separating both figures from the background.\nUltra-detailed realism for the real person.\n\nClean, polished 3D textures for the miniature.\n\nBalanced realism and humor.\nNo face alteration.\n\nNo identity drift.\n\nNo fantasy elements.\n\nNo surreal distortion.\n\nNo horror.\nSharp focus, cinematic color grading, ultra-high resolution, expressive, fun, meme-ready.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 99,
-      "view_count": 2088,
-      "copy_count": 5973,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "local_path": "images/3d-caricature/Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/3d-caricature/Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/3d-caricature/Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Gemini AI Generated Image: A man with short, brown hair and a light beard is holding a small, cartoon-style miniature figure of himself in his right hand. He is looking down at the miniature with a gentle smile, and the miniature is also smiling back at him. The man is wearing a blue t-shirt and is positioned against a dark, textured background. The lighting is focused on the man and the miniature, highlighting their features."
         }
       ]
     },

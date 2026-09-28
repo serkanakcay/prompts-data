@@ -1,7 +1,7 @@
 {
   "category": "High-End Portraiture",
   "slug": "high-end-portraiture",
-  "total_prompts": 21,
+  "total_prompts": 19,
   "updated_at": "2026-09-24T12:57:14Z",
   "prompts": [
     {
@@ -144,35 +144,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Red Leather Jacket and Pink Sunglasses AI Photo Editing Prompt. AI generated pencil sketch illustration of a mustached man wearing a red leather biker jacket and pink round sunglasses, standing in a European cobblestone alley."
-        }
-      ]
-    },
-    {
-      "id": "6a89ce894bbdbe2cf5edaf26",
-      "title": "Wooden Doorway South Indian Bridal Portrait",
-      "slug": "traditional-indian-bridal-photography-prompt",
-      "category": "High-End Portraiture",
-      "category_slug": "high-end-portraiture",
-      "prompt": "Create a photorealistic, cinematic portrait of a beautiful woman standing gracefully in a traditional setting. She wears an elegant ivory-gold silk saree with a rich golden border and intricate traditional detailing, paired with a matching short-sleeved blouse featuring elaborate gold embroidery and green accents.\nHer face should have natural, refined features, glowing skin. Her hair is neatly parted and styled into a traditional low bun adorned heavily with fresh white jasmine flowers. She wears an elaborate traditional South Indian bridal jewelry set, including a detailed gold maang tikka, large jhumka earrings, layered gold necklaces, an ornate temple-style waist belt, stacked gold bangles, rings, and traditional bridal accessories. Intricate mehndi designs are visible on both hands and forearms.\nPose: Subject standing centrally, subtle natural three-quarter orientation. Her left hand rests gracefully near her waist while her right arm hangs naturally by her side. Relaxed, elegant posture with a calm, confident, affectionate expression, gazing naturally to right off-camera.\nEnvironment: A luxurious traditional South Indian interior with a large dark polished wooden doorway and warm brown wooden panels in the background. Large lush tropical green leaves and ornamental plants frame the subject naturally from both sides, creating an elegant atmosphere. Warm earthy tones complement the ivory-gold saree.\nLighting: Soft, warm diffused cinematic lighting with gentle highlights on the bride's face, jewelry, saree, and flowers. Subtle natural shadows, warm ambient glow, rich contrast, and realistic skin texture. The background is softened with a shallow depth of field while keeping the bride and her outfit sharply detailed.\nComposition: Vertical medium fashion portrait, eye-level camera, centered subject, balanced symmetrical framing, ample space around the subject. Premium Indian bridal editorial photography aesthetic.\nCamera: 85mm portrait lens, f/1.8 aperture, realistic depth of field, highly detailed fabric and jewelry textures, natural skin texture, cinematic color grading, photorealistic, ultra-realistic, 8K quality, 4:5 aspect ratio.\nNegative prompt: cartoon, illustration, artificial skin, excessive beautification, facial distortion, altered facial proportions, blurry face, malformed hands, duplicate jewelry, distorted saree, awkward anatomy, low resolution, text, watermark, logo.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a South Indian bridal portrait in a gold Kanjivaram saree with temple jewelry, jasmine flowers, and henna-adorned hands near a wooden doorway.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 34,
-      "view_count": 1336,
-      "copy_count": 1890,
-      "is_premium": false,
-      "published_at": "2026-08-22T16:30:01.310Z",
-      "images": [
-        {
-          "filename": "aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "local_path": "images/high-end-portraiture/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-end-portraiture/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-end-portraiture/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "South Indian Bride in Gold Kanjivaram Saree Traditional Portrait AI Photo Editing Prompt. AI generated bridal photograph of a woman in a gold silk saree with temple jewelry, jasmine flowers in her hair, and mehndi on her hands standing near a wooden doorway."
         }
       ]
     },
@@ -387,35 +358,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man with Blue Vintage Jeep Coastal Portrait. AI Photo Editing Prompt. AI generated lifestyle portrait of a fashionable man leaning on a blue vintage Jeep with a backdrop of blooming jacaranda trees and the ocean."
-        }
-      ]
-    },
-    {
-      "id": "6a6cd5874bbdbe2cf530e5a4",
-      "title": "Watercolor Romance",
-      "slug": "romantic-couple-watercolor-painting-love-status",
-      "category": "High-End Portraiture",
-      "category_slug": "high-end-portraiture",
-      "prompt": "Maintain accurate identity and precise face matching to the provided reference image for both subjects.\nCreate a romantic, painterly watercolor-style portrait of a couple standing face-to-face with their foreheads gently resting together, eyes closed, sharing a peaceful and intimate moment. Both wear matching deep crimson-red button-up shirts with subtle fabric texture. The woman has long, naturally hair cascading over her shoulders and a soft, content smile. The man has thick, slightly tousled hair, and a calm, affectionate expression.\nThe composition is centered in a medium portrait with an eye-level camera angle. The couple occupies the central frame while maintaining balanced negative space around them. Behind them is a dramatic abstract watercolor splash bursting outward in vibrant shades of crimson, scarlet, magenta, purple, indigo, cobalt blue, and warm orange. Dynamic paint splatters, ink droplets, expressive brush strokes, and flowing watercolor textures radiate from behind the couple, naturally forming a heart-inspired composition. Several small hand-painted red hearts float subtly throughout the background, enhancing the romantic atmosphere.\nThe background is a warm beige textured watercolor paper with visible paper grain, creating the appearance of a traditional handmade watercolor painting. The artwork combines soft blended washes with bold expressive paint splashes, preserving organic watercolor edges, natural pigment bleeding, and artistic imperfections.\nStyle: Ultra-detailed watercolor illustration, hand-painted fine art, expressive brushwork, vibrant color harmony, soft romantic mood, detailed facial anatomy, exceptionally detailed skin rendering with natural skin texture, finely painted individual hair strands with realistic hair flow and volume, high-detail clothing textures, elegant composition, premium editorial artwork, painterly realism, museum-quality illustration, 8k high resolution, 4:5 aspect ratio.",
-      "description": "Romantic Watercolor Art Prompt: Copy & paste this prompt to create a beautiful portrait of a loving couple in matching red shirts against a colorful heart splash.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 1859,
-      "copy_count": 2370,
-      "is_premium": false,
-      "published_at": "2026-07-31T17:04:07.527Z",
-      "images": [
-        {
-          "filename": "87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "local_path": "images/high-end-portraiture/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-end-portraiture/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-end-portraiture/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Watercolor Couple Portrait Art AI Photo Editing Prompt. AI generated watercolor art illustration of a man and a woman in matching red shirts with heads touching, set against a vibrant, heart-shaped paint splash."
         }
       ]
     },

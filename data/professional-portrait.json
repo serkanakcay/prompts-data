@@ -1,7 +1,7 @@
 {
   "category": "Professional Portrait",
   "slug": "professional-portrait",
-  "total_prompts": 73,
+  "total_prompts": 71,
   "updated_at": "2026-09-24T13:11:52Z",
   "prompts": [
     {
@@ -691,45 +691,6 @@
       ]
     },
     {
-      "id": "6a8484fc4bbdbe2cf5705684",
-      "title": "Crimson Saree and Cream Kurta Studio Portrait",
-      "slug": "5-newlywed-indian-couple-portrait-prompt",
-      "category": "Professional Portrait",
-      "category_slug": "professional-portrait",
-      "prompt": "Create a photorealistic waist-up couple portrait, vertically framed. Preserve the exact facial identity and distinctive features of the reference faces. The man stands slightly behind/left, while the woman stands close beside him with her arm gently resting around his waist. Both face the camera with relaxed, natural expressions. Balanced intimate composition with the subjects centered and filling most of the frame.\nMan: Handsome man with naturally styled hair, smooth skin, wearing a clean ivory-white traditional kurta with a high collar.\nWoman: Elegant woman with long wavy hair, soft glam makeup, small red bindi, gold earrings, and white flowers tucked behind her hair. Wearing a luxurious bright red silk saree with a rich golden border.\nPose & Expression: Couple standing close together, natural affectionate body language. Both with a gentle smile and direct eye contact with the camera.\nBackground: Minimal warm gray smooth studio wall with subtle vintage character, softly illuminated circular glow behind the couple, cinematic shadows and gentle vignette.\nLighting: Warm directional studio light from the front-right, soft diffused highlights on faces and clothing, natural falloff, subtle film-like contrast, realistic skin tones, elegant shadow definition.\nCamera & Technical: Eye-level camera angle, medium portrait framing, 85mm lens, f/1.8, shallow depth of field, cinematic color grading, ultra-detailed skin and fabric texture, photorealistic, ultra-detailed, 8K resolution, vertical composition, 4:5 aspect ratio.\nNegative Prompt: distorted anatomy, unnatural hands, deformed faces, plastic skin, identity change, oversharpening, excessive makeup, blurry subjects, text, watermark, logo.",
-      "description": "Traditional Studio Photography Prompt: Copy and paste this prompt to generate a realistic portrait of a smiling Indian couple in a cream kurta and red saree.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 55,
-      "view_count": 2340,
-      "copy_count": 4187,
-      "is_premium": false,
-      "published_at": "2026-08-18T16:14:52.708Z",
-      "images": [
-        {
-          "filename": "dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "local_path": "images/professional-portrait/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-portrait/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-portrait/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Traditional Wear AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a cream kurta standing with a woman in a red saree and jasmine hair garland."
-        },
-        {
-          "filename": "86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "local_path": "images/professional-portrait/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-portrait/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-portrait/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Traditional Wear AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a cream kurta standing with a woman in a red saree and jasmine hair garland."
-        }
-      ]
-    },
-    {
       "id": "6a81e3174bbdbe2cf5356500",
       "title": "Professional Boss in Dark Wood Room",
       "slug": "professional-boss-dark-wood-room",
@@ -1326,35 +1287,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Green Sweater and Sunglasses AI Photo Editing Prompt. AI generated studio portrait of a young man with curly brown hair and round sunglasses, wearing a forest green ribbed knit sweater, with crossed arms and a black smartwatch."
-        }
-      ]
-    },
-    {
-      "id": "6a5e4f1fa3af6f12205b1144",
-      "title": "Distinguished Gentleman in Tan Linen",
-      "slug": "beige-suit-with-boutonniere",
-      "category": "Professional Portrait",
-      "category_slug": "professional-portrait",
-      "prompt": "Create a cinematic editorial portrait of a stylish man seated indoors, wearing a tailored beige linen suit with a crisp white dress shirt, textured brown tie, white pocket square, and a delicate boutonnière pinned to his lapel. He has a neatly styled look, black wristwatch, and rings. He sits with his hands loosely clasped, looking thoughtfully toward the left with a serious, confident expression. Medium-full seated composition, eye-level camera angle, three-quarter side profile. Warm sunlight streams through a window from the upper right, creating soft dramatic shadows on a textured cream wall. A large earthy ceramic vase with tall olive branches stands in the background on the left. Warm neutral color palette, elegant luxury wedding aesthetic, ultra-detailed skin texture, cinematic golden-hour lighting, soft shadows, shallow depth of field, ultra-detailed fabric textures, photorealistic, 85mm lens, f/1.6, 8K resolution, cinematic color grading.\nAspect ratio 4:5.",
-      "description": "Realistic Portrait Photography Prompt: Copy & paste this prompt to create a lifelike image of a distinguished silver-haired gentleman in a tan linen suit.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 312,
-      "copy_count": 368,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "fd8c827a-ec22-4964-a57d-5f0b593681d7.jpeg",
-          "local_path": "images/professional-portrait/fd8c827a-ec22-4964-a57d-5f0b593681d7.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/fd8c827a-ec22-4964-a57d-5f0b593681d7.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/professional-portrait/fd8c827a-ec22-4964-a57d-5f0b593681d7.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/professional-portrait/fd8c827a-ec22-4964-a57d-5f0b593681d7.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "AI Photo Editing Prompt.\nAI generated portrait of a distinguished silver-haired man in a tan linen suit with an olive boutonniere, seated in a sunlit rustic setting."
         }
       ]
     },

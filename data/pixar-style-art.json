@@ -1,7 +1,7 @@
 {
   "category": "Pixar-style Art",
   "slug": "pixar-style-art",
-  "total_prompts": 13,
+  "total_prompts": 11,
   "updated_at": "2026-09-24T13:11:17Z",
   "prompts": [
     {
@@ -178,114 +178,6 @@
           "width": 928,
           "height": 1152,
           "alt": "Pixar-style 3D character portrait of a young woman in a trendy patterned button-down shirt and cream-colored high-waisted pants, high-fidelity digital art against a colorful 3D block background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704e1",
-      "title": "Chibi Girl Expression Pack",
-      "slug": "3d-chibi-girl-kawaii-sticker-sheet",
-      "category": "Pixar-style Art",
-      "category_slug": "pixar-style-art",
-      "prompt": "Style & Format:\nPremium 3D kawaii chibi sticker-sheet in a vertical 4:5 format. Clean 3x3 layout on a soft white-to-light-blue gradient. Each character must be a glossy die-cut sticker: thick rounded white border, subtle lifted paper edge, soft drop shadow, and high-quality toy-like 3D rendering.\nCharacter Specs:\nMaintain 100% identity accuracy for a single character. Miniature girl with an oversized head, tiny body, rosy cheeks, big sparkling brown eyes, and shiny brown hair with detailed highlights and soft bangs. No flat anime/vector style or adult proportions.\nThe 3x3 Grid (9 Poses & Outfits):\n\nThumbs up: Pink hoodie, rolled jeans, sneakers.\nSitting (hands on cheeks): Blue hoodie, white pants.\nJumping (peace sign): Purple oversized top, sneakers.\nWinking: Denim overalls, round glasses.\nHeart hands: Soft pink dress.\nOne fist raised: Pink varsity jacket, cap.\nHugging bunny plush with closed eyes: Pink bunny pajamas, bunny slippers.\nPainting: Cream painter apron, beret, palette.\nLaptop task: Yellow hoodie, sitting at desk.\nText & FX:\nAdd 9 rounded white sticker speech bubbles with pastel outlines. Phrases: “Awesome!”, “Nice one!”, “HAHAHA!”, “Thank you!”, “You’re the best!”, “Good job!”, “So cute!”, “Well done!”, and “Keep it up!”. Use one solid text color per bubble (pink, blue, purple, orange, or teal). Add floating hearts, stars, and sparkles.\nRendering:\nGlossy, high-detail, soft-shaded 3D cartoon style. Polished highlights, clean pastel colors, and detailed fabric folds. All stickers must be evenly spaced and fully visible within their grid areas.",
-      "description": "3D Kawaii Chibi Sticker Art Prompt: Copy & Paste this prompt to create a set of cute, expressive 3D girl character stickers with vibrant colors and positive text bubbles.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 53,
-      "view_count": 711,
-      "copy_count": 1162,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "local_path": "images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Cute Chibi Girl Figures AI Photo Editing Prompt. AI generated digital illustration of a grid collection featuring nine distinct adorable chibi girl figures, each presenting a different pose, costume, and positive text reaction bubble."
-        },
-        {
-          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "local_path": "images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-1.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": ""
-        },
-        {
-          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "local_path": "images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-2.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": ""
-        },
-        {
-          "filename": "cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "local_path": "images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pixar-style-art/cute-girl-sticker-collection-illustration-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704dc",
-      "title": "Enchanted First Dance",
-      "slug": "romantic-3d-cartoon-couple-wedding-celebration",
-      "category": "Pixar-style Art",
-      "category_slug": "pixar-style-art",
-      "prompt": "A breathtaking 3D Disney-Pixar style caricature of a joyful couple celebrating their wedding. The style features exaggerated but expressive features, smooth skin textures, and a high-fidelity cinematic render typical of modern 3D animation.\nCharacter Details & Outfits\nThe Woman: She has natural hair and a warm smile. She is looking at the man. She is wearing an intricate white lace long-sleeved wedding gown with a full, billowing skirt that catches the air as she twirls. Accessories include elegant white high heels and dangling diamond earrings.\nThe Man: He features a naturally stylishly hair. He is looking at the woman with a warm, adoring smile. He wears a sharp white tuxedo jacket with a black bow tie, black dress trousers, and polished black leather shoes.\nPose & Expression\nThe couple is captured in a dynamic dancing pose. The man has one hand placed gently on the woman's waist while holding her hand with the other as they twirl. Their expressions are filled with pure happiness and love, characterized by bright eyes and wide, genuine smiles.\nBackground & Setting\nThe scene is set in a lush, magical garden during sunset.\nFloral Arch: A massive, semi-circular arch made of vibrant pink roses and white lilies frames the couple.\nAtmosphere: Dozens of glowing golden lanterns hang from invisible trees in the background, creating a fairy-tale ambiance.\nElements: Multiple pink heart-shaped balloons float on either side, and the ground is covered in scattered pink flower petals.\nLighting & Atmosphere\nGolden Hour: The primary light source is a soft, warm sunset in the background, creating a beautiful rim-light effect on the characters' hair and clothes.\nAmbient Glow: Soft, warm light emanates from the hanging lanterns, casting gentle highlights and shadows.\nMood: The overall atmosphere is romantic, magical, and celebratory.\nComposition & Camera Angle\nAngle: Eye-level shot, capturing the full bodies of the couple to show the movement of the dress and their dancing stance.\nFraming: Centered composition with the floral arch acting as a natural frame.\nDepth of Field: Shallow depth of field, with the couple in sharp focus and the background lanterns and trees softly blurred (bokeh effect).\nTechnical Details\nResolution: 8k, Ultra-HD.\nRender Engine: Octane Render, Unreal Engine 5 style.\nDetails: Ray tracing, global illumination, subsurface scattering on skin, high-resolution fabric textures (lace and silk).\nAspect Ratio: 4:5.",
-      "description": "3D Pixar-Style Animation Couple Prompt: Use this prompt to generate a romantic wedding scene of a couple dancing under a floral arch with lanterns and heart balloons.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 63,
-      "view_count": 1083,
-      "copy_count": 2578,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "local_path": "images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Animated Wedding Couple Dancing AI Photo Editing Prompt. AI generated 3D digital illustration of a bride in a flowing lace gown and a groom in a white tuxedo dancing happily under a pink floral arch."
-        },
-        {
-          "filename": "disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "local_path": "images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Couple Wedding Dance AI Photo Editing Prompt. AI generated 3D illustration of a couple dancing under a rose arch with heart balloons."
-        },
-        {
-          "filename": "disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "local_path": "images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pixar-style-art/disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Bride and Groom Dancing under Floral Arch AI Photo Editing Prompt. AI generated digital illustration of a smiling newlywed couple in wedding attire dancing joyfully on a rose petal path beneath a magnificent floral arch at sunset."
         }
       ]
     },

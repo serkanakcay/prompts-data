@@ -1,7 +1,7 @@
 {
   "category": "Minimalist Portraiture",
   "slug": "minimalist-portraiture",
-  "total_prompts": 11,
+  "total_prompts": 10,
   "updated_at": "2026-09-24T13:09:52Z",
   "prompts": [
     {
@@ -214,35 +214,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Ruined City Mindscape AI Photo Editing Prompt. AI generated surreal digital portrait of a bearded man featuring a double-exposure scene inside his head of a figure walking through a destroyed, burning city street toward a bright sunrise."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703ee",
-      "title": "Dramatic Black and White Family Photo Prompt",
-      "slug": "playful-black-and-white-family-portrait-stacked-pose",
-      "category": "Minimalist Portraiture",
-      "category_slug": "minimalist-portraiture",
-      "prompt": "Create a high-contrast black-and-white studio portrait of a three-person family stacked vertically in a perfectly centered totem-pole composition, faces closely matching the reference image identities of all peoples, preserving exact facial structure, proportions, skin tone (converted to grayscale), eye shape, nose shape, lip shape, hairline, and age.\nA man at the top leans forward with both hands gently resting on the crown of the woman’s head below him. The woman mirrors the pose, placing both hands on the head of a small child beneath her. The child rests their cheeks in their hands at the base.\nAll subjects face forward toward the camera with playful kiss/pout expressions.\n\nTop Subject (Man)\nFace must match the reference identity\nLeft eye closed in a wink, right eye open\nNatural grooming details\nWedding golden ring on left hand ring finger\nHands gently cupping the woman’s head\nMiddle Subject (Woman)\nFace must match the reference identity\nRight eye closed in a wink, left eye open\nNaturally styled hair\nJewelries if present\nHands resting on the child’s head\nWedding golden ring on left hand ring finger\nBottom Subject (Child)\nFace must match the reference identity\nAccurate hair details\nBoth eyes wide open with strong catchlights\nCheeks resting in palms\nLighting & Studio Style\nLow-key fine-art portrait lighting\nSingle large softbox or beauty dish, front-center slightly above eye level\nSoft sculpting shadows, dramatic contrast\nSmooth skin highlights with natural texture preserved\nBright clean catchlights in eyes\nNo rim light, no harsh shadows\nBackground: seamless deep black backdrop with subtle vignette fading to pure black edges.\nCamera & Image Quality\nMedium telephoto portrait lens (85mm equivalent)\nEye-level perspective\nPerfect vertical alignment\nAll three faces in sharp focus\nUltra-high-resolution, 4K detail\nHyper-real skin texture (pores visible but clean)\nCrisp eyelashes, detailed lips, natural micro-contrast\nProfessional studio photography look\nWardrobe\nAll subjects wearing plain black long-sleeve tops, minimal texture, no logos, blending into background.\nComposition & Output Settings\nAspect ratio 4:5 vertical\nCentered symmetrical composition\nClean negative space\nNo cropping of heads or hands\nEditorial portrait framing\nQuality Tags\nphotorealistic, ultra-detailed face, 4K portrait, high dynamic range grayscale, fine-art family portrait, sharp focus, studio photography, identity preservation, realistic skin texture, cinematic monochrome\nNegative Prompt\nFrame crop, head crop, cartoon, illustration, color, warm tones, blur, noise, grain, extra fingers, distorted face, asymmetry, wide-angle distortion, harsh lighting, multiple light sources, busy background, text, watermark, low resolution, oversharpening, identity mismatch, face change, identity drifts, unnatural hair details",
-      "description": "Get the exact AI prompt to create this playful black & white vertical stacked family portrait. Generate fun, studio-style family photos easily!",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 156,
-      "view_count": 9534,
-      "copy_count": 14165,
-      "is_premium": false,
-      "published_at": "2026-08-26T20:16:15.491Z",
-      "images": [
-        {
-          "filename": "playful-family-black-white-portrait-by-promptplum.webp",
-          "local_path": "images/minimalist-portraiture/playful-family-black-white-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/playful-family-black-white-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-portraiture/playful-family-black-white-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-portraiture/playful-family-black-white-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Vertical Stack Portrait AI Photo Editing Prompt. AI generated studio portrait of a man, woman, and child stacked vertically with playful winking and pouting expressions against a dark background."
         }
       ]
     },

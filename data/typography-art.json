@@ -1,7 +1,7 @@
 {
   "category": "Typography Art",
   "slug": "typography-art",
-  "total_prompts": 15,
+  "total_prompts": 13,
   "updated_at": "2026-09-24T13:13:06Z",
   "prompts": [
     {
@@ -530,35 +530,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704d6",
-      "title": "Soulmate Horizon",
-      "slug": "romantic-couple-beach-name-art",
-      "category": "Typography Art",
-      "category_slug": "typography-art",
-      "prompt": "Create a hyper-realistic cinematic couple photography poster, 2:3 portrait format.\nDual-zone composite layout: [TOP ZONE — Blue Cinematic Close-Up] Extreme macro close-up of a young couple, foreheads pressed together in an intimate near-kiss pose, eyes gently shut, soft genuine smiles, slightly faded color tones. Shot with Sony Alpha 1 Mirrorless, 85mm f/1.2 prime lens, creamy bokeh, cool blue-steel color grade (#1a3a5c tonal palette).\nFaces razor-sharp, background melting into buttery bokeh haze. Cinematic soft haze overlay blending into the middle of the frame.\n[BOTTOM ZONE — Warm Full-Body Romance Shot] Same couple, warm natural daylight, slight Dutch/market tilt on frame. Man: white breathable linen half-sleeve shirt, bracelet on wrist, dark trousers. Woman: deep red satin spaghetti-strap fitted dress, naturally styled hair flowing freely. Both leaning foreheads together, gazing down at a dark-paper-wrapped red rose bouquet they hold between them. Overcast ocean/horizon soft blurred background, \"soft blurred background\", \"creamy bokeh effect\", \"shallow depth of field look\", \"cinematic haze\". Clear faces, clean skin, photorealistic detail.\n[BOTTOM TEXT OVERLAY] White handwritten signature-style cursive script: → \"Soulmate\" (large, central) — two tiny flying dove silhouettes above the descender of 'l' → Below in clean white uppercase sans-serif with wide letter-spacing: \"JACK-ROSE\" → Below that: \"05 FEBRUARY 2022\" Style: Editorial pre-wedding photography, Vogue India aesthetic, Sony Alpha 1 mirrorless, f/1.2 aperture, ISO 200, daylight balanced. Ultra-realistic, no illustration, photographic grain.",
-      "description": "Romantic Double Exposure Photography Prompt: Copy and paste this prompt to create a sentimental beach portrait of a couple holding red roses with elegant personalized typography.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 433,
-      "view_count": 16862,
-      "copy_count": 60627,
-      "is_premium": false,
-      "published_at": "2026-08-06T13:14:09.529Z",
-      "images": [
-        {
-          "filename": "romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "local_path": "images/typography-art/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/typography-art/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/typography-art/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Romantic Couple Beach Poster AI Photo Editing Prompt. AI generated digital illustration of a couple touching foreheads on a beach with a bouquet of red roses."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670488",
       "title": "Distorted Focus",
       "slug": "male-model-cinematic-prism-photography",
@@ -633,55 +604,6 @@
           "width": 2048,
           "height": 2048,
           "alt": "Typography Portrait AI Photo Editing Prompt. AI generated digital typography illustration of a man with glasses and a beard artistically composed of repeating white text against a dark background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670437",
-      "title": "Eternal Silhouette",
-      "slug": "endless-love-silhouette-couple",
-      "category": "Typography Art",
-      "category_slug": "typography-art",
-      "prompt": "Use the provided reference images to match the identity, age, and facial features of both subjects. Preserve their natural facial structure, proportions, hairline, and overall likeness. Do not beautify, stylize, or alter their identities in any way. Ensure the silhouettes still reflect the correct face shape and recognizable profile of each subject.\nCreate a dramatic black-and-white high-contrast silhouette portrait of a couple standing extremely close to each other in an almost-kiss pose.\nComposition & Framing\nVertical composition, 4:5 aspect ratio.\nClose-up framing from the chest or shoulders upward. The couple is centered in the frame, facing each other in profile.\nMan (left side): Facing right. He has short, neatly styled hair and light stubble, wearing a formal blazer with a collared shirt. His head is slightly tilted downward toward the woman.\nWoman (right side): Facing left. She has naturally long, wavy hair with a floral hairpiece positioned on the upper side of her head, small earrings, and an elegant outfit with subtle decorative details. Her head is slightly tilted upward toward the man.\nTheir noses are almost touching and their foreheads nearly meet. They maintain direct eye contact with each other, creating a romantic and intimate moment.\nLighting & Style\nThe couple appears as deep black silhouettes against a pure bright white backlit background. Strong rim lighting clearly defines the contours of their faces, hair, and bodies, creating a sharp separation between the subjects and the background.\nThe image should resemble professional cinematic studio silhouette photography with crisp edges, smooth gradients, and strong contrast. Render the image in high-contrast monochrome with high-key lighting and absolutely no color.\nTypography\nPlace the text centered at the top of the image with clear spacing from the edge.\nTitle: “ENDLESS LOVE” in a large, elegant serif font.\nSubtitle below the title:\n“Loved you yesterday, love you still, always have, always will.”\nUse a thin, spaced grey font for the subtitle.",
-      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a professional monochrome silhouette of a romantic couple featuring elegant \"Endless Love\" typography and a minimalist white background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 73,
-      "view_count": 3599,
-      "copy_count": 4959,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "local_path": "images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette Portrait AI Photo Editing Prompt. AI generated studio portrait of a man and woman in a romantic silhouette profile against a white background with \"Endless Love\" text."
-        },
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "local_path": "images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette Endless Love AI Photo Editing Prompt. AI generated minimalist studio portrait of a man and woman in profile facing each other against a white background with romantic \"Endless Love\" typography."
-        },
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "local_path": "images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/typography-art/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette AI Photo Editing Prompt. AI generated studio portrait of a man and woman in silhouette profile facing each other against a bright white background featuring romantic typography."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Studio Portrait",
   "slug": "studio-portrait",
-  "total_prompts": 41,
+  "total_prompts": 38,
   "updated_at": "2026-09-24T13:12:41Z",
   "prompts": [
     {
@@ -315,35 +315,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "man-in-grey-suit-studio-portrait-ai-prompt-by-promptplum-4"
-        }
-      ]
-    },
-    {
-      "id": "6aa828f546d4207dc2a45826",
-      "title": "Romantic Men's Fashion Portrait with Flowers",
-      "slug": "handsome-man-with-flowers-editorial-shoot",
-      "category": "Studio Portrait",
-      "category_slug": "studio-portrait",
-      "prompt": "Create a photorealistic luxury editorial portrait of a man, using the uploaded reference image strictly for 100% accurate face and identity matching. Preserve his exact facial structure, and natural proportions with no identity change.\nComposition: Vertical medium-to-full torso portrait, subject standing confidently and facing the camera. His shoulders are relaxed, with His right hand holds a large bouquet of fresh white tulips at chest level while the other hand rests naturally inside his trouser pocket.\nOutfit: Elegant oversized ivory-white double-breasted blazer, slightly open and worn without a shirt underneath, revealing a natural chest. Two layered silver necklaces with a small rectangular black pendant and a circular pendant. Black tailored trousers with a minimal black belt.\nHair & Expression: Neatly styled, slightly messy hair. Calm, serious, confident expression with a subtle relaxed gaze directly toward the camera. Maintain realistic facial and natural skin texture.\nBouquet: Large bouquet of fresh white tulips with long green leaves, wrapped loosely in transparent crinkled cellophane, held naturally in one hand. Detailed petals, stems, leaves, and realistic transparent wrapping.\nBackground: A minimal, clean, smooth warm-gray wall with No text, no distortion. Strong warm sunlight entering from top left side, creating dramatic natural shadows of the subject and flowers across the wall.\nLighting: Warm golden-hour sunlight, directional side lighting, soft highlights on the white blazer and face, deep but natural shadows, cinematic contrast, subtle film-like warmth.\nPhotography: High-end fashion editorial photography, ultra-realistic skin texture, visible pores and fine facial details, realistic fabric texture, individual hair strands, natural hands and fingers, shallow depth of field, 85mm portrait lens, f/1.8, eye-level-to-slight-low camera angle, crisp subject separation, professional color grading, cinematic realism, 8K ultra-detailed quality.\nAspect ratio: 4:5 vertical.",
-      "description": "Editorial Fashion Portrait Prompt: Copy & Paste this Prompt to create a professional, high-fashion studio photograph of a handsome bearded man wearing an open white blazer and holding a bouquet of white tulips in aesthetic natural shadow lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 12,
-      "view_count": 309,
-      "copy_count": 214,
-      "is_premium": false,
-      "published_at": "2026-09-14T17:03:49.201Z",
-      "images": [
-        {
-          "filename": "accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "local_path": "images/studio-portrait/accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/studio-portrait/accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/studio-portrait/accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Editorial fashion portrait of a stylish man holding white tulips AI Photo Editing Prompt. AI generated studio portrait of a handsome bearded man wearing an open white blazer over a bare chest with layered necklaces, holding a clear-wrapped bouquet of white tulips against a neutral wall with dramatic shadow lighting."
         }
       ]
     },
@@ -1010,35 +981,6 @@
       ]
     },
     {
-      "id": "6a887bd04bbdbe2cf5cd633f",
-      "title": "South Indian Bridal Portrait with Mehndi Hands",
-      "slug": "smiling-indian-bride-traditional-portrait",
-      "category": "Studio Portrait",
-      "category_slug": "studio-portrait",
-      "prompt": "Create a ultra-detailed photorealistic cinematic portrait of a beautiful woman wearing an elegant deep chocolate-brown silk saree with an intricate antique-gold floral brocade border and matching heavily embroidered blouse with three-quarter sleeves. She wears traditional gold jewelry including a layered temple-style necklace with a detailed pendant, ornate jhumka earrings, and delicate gold accessories. Her hair is neatly parted and styled into a low bun adorned with slightly fresh white jasmine gajra. A small black bindi rests between her eyebrows. Both hands and wrists are decorated with traditional henna (mehndi) patterns on the skin, and adorned with stacked gold bangles on the wrists.\nShe faces the camera directly with a graceful, confident expression, relaxed posture, and hands gently folded near her waist level. Medium close-up composition, centered subject, elegant traditional Indian bridal aesthetic.\nWarm-golden cinematic side lighting coming from the upper right creates soft highlights on her face, jewelry, and silk fabric, with subtle rim light outlining her hair. Dark smooth neutral gray studio background, clean and uncluttered, shallow depth of field, luxurious editorial mood.\n85mm portrait lens, f/1.6, ISO 100, natural skin texture, realistic facial details, accurate anatomy, detailed silk and embroidery textures, cinematic color grading, soft bokeh, HDR, ultra-photorealistic, 8K resolution, vertical composition, aspect ratio 4:5 . No text, no watermark, no identity change, no extra people, no distorted anatomy.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a studio portrait of a smiling Indian bride in a maroon Banarasi silk saree, layered gold temple jewelry, and hennaed hands.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 23,
-      "view_count": 925,
-      "copy_count": 879,
-      "is_premium": false,
-      "published_at": "2026-08-21T16:24:48.694Z",
-      "images": [
-        {
-          "filename": "782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "local_path": "images/studio-portrait/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/studio-portrait/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/studio-portrait/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "width": 1236,
-          "height": 1600,
-          "alt": "Indian Bride in Banarasi Silk Saree with Gold Temple Jewelry Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Indian woman in a maroon Banarasi silk saree, layered gold temple necklaces, jhumka earrings, and intricately hennaed hands."
-        }
-      ]
-    },
-    {
       "id": "6a85c7174bbdbe2cf58d8ed8",
       "title": "Editorial Style Male Portrait with Glasses",
       "slug": "neon-backdrop-studio-portrait-prompt",
@@ -1317,35 +1259,6 @@
           "width": 1122,
           "height": 1402,
           "alt": "cinematic-dual-tone-lighting-male-portrait-ai-prompt-by-promptplum-5"
-        }
-      ]
-    },
-    {
-      "id": "6a7b53474bbdbe2cf592597e",
-      "title": "Elegant Couple in Blue Outfit – Double Exposure Portrait",
-      "slug": "indian-couple-blue-double-exposure-portrait-photoshoot",
-      "category": "Studio Portrait",
-      "category_slug": "studio-portrait",
-      "prompt": "Use the uploaded image strictly for accurate facial identity matching of both subjects. Create a photorealistic cinematic romantic couple portrait featuring an couple standing close together, looking lovingly into each other’s eyes.\nComposition: Vertical 4:5 portrait, mid-thigh-up framing. The woman stands slightly in front on the left, while the man stands beside her on the right, creating an intimate balanced composition. Add a large, softly blended monochrome blue-gray double-exposure portrait of the same couple in the background, showing their faces in profile as they gaze at each other.\nWoman: Elegant woman with naturally styled hair, subtle bindi, wearing a shimmering light sky-blue sequined saree with matching blouse, traditional silver/gold jhumka earrings, multiple blue bangles, delicate rings, natural makeup, soft red lipstick.\nMan: Handsome man with neatly styled hair, wearing a light sky-blue button-up shirt, black trousers, black belt, and a premium wristwatch.\nPose & Expression: Couple standing naturally close, facing each other with gentle romantic eye contact. The woman has a soft, subtle smile while the man looks at her affectionately. Relaxed, elegant body language.\nBackground: Dark cinematic smoky studio background in deep blue-gray tones, with the large monochrome couple portrait softly faded behind the foreground subjects. Smooth atmospheric texture and subtle vignette.\nLighting: Soft cinematic studio lighting, gentle key light on the faces, subtle rim lighting, controlled highlights on the saree sequins, moody blue ambient tones, realistic skin tones, soft shadows.\nCamera: Eye-level angle, 85mm portrait lens, f/1.8, shallow depth of field, realistic bokeh, high-end professional photography, cinematic color grading, ultra-detailed fabric and skin textures, HDR, photorealistic, 8K resolution.\nNegative prompt: distorted face, identity change, bad anatomy, blurry faces, plastic skin, oversaturated colors, warped clothing, text, watermark, logo.",
-      "description": "Studio Couple Portrait Prompt: Copy & Paste this prompt to create an elegant Indian couple photoshoot in matching blue outfits, with a sequin saree and soft duotone ghost-portrait background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 88,
-      "view_count": 5444,
-      "copy_count": 8153,
-      "is_premium": false,
-      "published_at": "2026-08-11T16:52:23.682Z",
-      "images": [
-        {
-          "filename": "aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "local_path": "images/studio-portrait/aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/studio-portrait/aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/studio-portrait/aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Blue Saree Couple Portrait with Duotone Background AI Photo Editing Prompt. AI generated studio portrait of an Indian couple in matching blue outfits, sequin saree and shirt, posed against a soft blue duotone ghost-portrait backdrop."
         }
       ]
     },

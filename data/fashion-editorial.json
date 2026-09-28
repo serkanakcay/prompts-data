@@ -1,7 +1,7 @@
 {
   "category": "Fashion & Editorial",
   "slug": "fashion-editorial",
-  "total_prompts": 251,
+  "total_prompts": 236,
   "updated_at": "2026-09-24T12:56:03Z",
   "prompts": [
     {
@@ -238,35 +238,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Men's street style fashion portrait of a stylish guy with a leather bag AI Photo Editing Prompt. AI generated street photography portrait of a handsome man wearing a black shirt, sunglasses, and olive trousers walking with a black leather duffle bag next to a brick wall."
-        }
-      ]
-    },
-    {
-      "id": "6aa828f546d4207dc2a45826",
-      "title": "Romantic Men's Fashion Portrait with Flowers",
-      "slug": "handsome-man-with-flowers-editorial-shoot",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create a photorealistic luxury editorial portrait of a man, using the uploaded reference image strictly for 100% accurate face and identity matching. Preserve his exact facial structure, and natural proportions with no identity change.\nComposition: Vertical medium-to-full torso portrait, subject standing confidently and facing the camera. His shoulders are relaxed, with His right hand holds a large bouquet of fresh white tulips at chest level while the other hand rests naturally inside his trouser pocket.\nOutfit: Elegant oversized ivory-white double-breasted blazer, slightly open and worn without a shirt underneath, revealing a natural chest. Two layered silver necklaces with a small rectangular black pendant and a circular pendant. Black tailored trousers with a minimal black belt.\nHair & Expression: Neatly styled, slightly messy hair. Calm, serious, confident expression with a subtle relaxed gaze directly toward the camera. Maintain realistic facial and natural skin texture.\nBouquet: Large bouquet of fresh white tulips with long green leaves, wrapped loosely in transparent crinkled cellophane, held naturally in one hand. Detailed petals, stems, leaves, and realistic transparent wrapping.\nBackground: A minimal, clean, smooth warm-gray wall with No text, no distortion. Strong warm sunlight entering from top left side, creating dramatic natural shadows of the subject and flowers across the wall.\nLighting: Warm golden-hour sunlight, directional side lighting, soft highlights on the white blazer and face, deep but natural shadows, cinematic contrast, subtle film-like warmth.\nPhotography: High-end fashion editorial photography, ultra-realistic skin texture, visible pores and fine facial details, realistic fabric texture, individual hair strands, natural hands and fingers, shallow depth of field, 85mm portrait lens, f/1.8, eye-level-to-slight-low camera angle, crisp subject separation, professional color grading, cinematic realism, 8K ultra-detailed quality.\nAspect ratio: 4:5 vertical.",
-      "description": "Editorial Fashion Portrait Prompt: Copy & Paste this Prompt to create a professional, high-fashion studio photograph of a handsome bearded man wearing an open white blazer and holding a bouquet of white tulips in aesthetic natural shadow lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 12,
-      "view_count": 309,
-      "copy_count": 214,
-      "is_premium": false,
-      "published_at": "2026-09-14T17:03:49.201Z",
-      "images": [
-        {
-          "filename": "accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "local_path": "images/fashion-editorial/accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/accaab20-53a6-45e2-bea2-8d1b1a688977.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Editorial fashion portrait of a stylish man holding white tulips AI Photo Editing Prompt. AI generated studio portrait of a handsome bearded man wearing an open white blazer over a bare chest with layered necklaces, holding a clear-wrapped bouquet of white tulips against a neutral wall with dramatic shadow lighting."
         }
       ]
     },
@@ -737,35 +708,6 @@
       ]
     },
     {
-      "id": "6a8f148846d4207dc23fac39",
-      "title": "Man in Colorblock Shirt Holding Rose",
-      "slug": "trendy-menswear-studio-photo-prompt",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create an ultra-realistic full-body fashion portrait of a stylish man standing confidently in a vibrant cyan-blue seamless studio environment. Preserve the reference subject’s facial features, hairstyle, and overall appearance with maximum identity accuracy.\nHe wears a relaxed-fit short-sleeve abstract patterned button-up shirt featuring bold geometric blocks of blue, black, olive green, and muted gray, with the top buttons slightly open and a subtle silver cross pendant visible around his neck. Pair it with tailored black high-waisted trousers, a black belt, and polished black leather lace-up dress shoes with thick soles. A premium silver metal wristwatch is visible on his left wrist, and he wears thin, minimalist metal-frame eyeglasses.\nPose: standing naturally with his body slightly angled, head gently tilted downward while gazing toward the red rose in his right hand. His right hand holds a single fresh red rose near his chest, while his left hand rests casually inside his trouser pocket. Calm, thoughtful, elegant expression with a relaxed, sophisticated fashion-editorial presence.\nSet the scene against a clean vivid cyan-blue seamless infinity studio backdrop and floor, with a subtle tonal gradient and gentle darker falloff toward the edges. Soft studio lighting evenly illuminates the subject, creating natural highlights on the face, shirt, watch, rose, and shoes with realistic soft shadows beneath the feet.\nFull-body composition, subject centered in frame with generous negative space around him, eye-level camera angle, natural proportions, realistic fabric texture, detailed leather shoes, ultra-detailed skin texture, crisp focus, subtle cinematic depth of field, professional luxury fashion photography, 85mm portrait lens, f/2, ultra-detailed, photorealistic, 8K resolution, 4:5 aspect ratio.\nNegative prompt: distorted anatomy, altered facial features, duplicated rose, artificial skin, blurry face, low resolution, cropped feet, cropped head, cluttered background, extra objects, extra people.",
-      "description": "Studio Fashion Portrait Prompt: Copy & Paste this Prompt to create a stylish full body photo of a man in a colorblock shirt holding a red rose against a teal background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 762,
-      "copy_count": 789,
-      "is_premium": false,
-      "published_at": "2026-08-26T16:30:00.844Z",
-      "images": [
-        {
-          "filename": "92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "local_path": "images/fashion-editorial/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in Colorblock Shirt Holding a Rose AI Photo Editing Prompt. AI generated studio portrait of a bespectacled man in a patchwork shirt holding a single red rose against a teal background."
-        }
-      ]
-    },
-    {
       "id": "6a8f133746d4207dc23f893c",
       "title": "Sunglasses and Tie Street Fashion Look",
       "slug": "city-street-fashion-portrait-idea",
@@ -961,84 +903,6 @@
       ]
     },
     {
-      "id": "6a8b09034bbdbe2cf50810c9",
-      "title": "Male Model with Chain Necklace Photo",
-      "slug": "dark-cinematic-male-portrait",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Ultra-realistic cinematic fashion portrait of a young man with a strong, magnetic presence and effortless masculine confidence. Medium close-up, facing the camera, with a naturally commanding posture. His body language should feel relaxed but dominant — one shoulder slightly forward, neck relaxed, head subtly tilted, chin slightly lowered, and eyes looking directly into the lens with a calm, sharp, self-assured intensity. His expression should carry quiet dominance, subtle arrogance, and effortless attitude — not smiling, not soft, not overly dramatic, just a controlled, confident, slightly provocative look. A faint hint of a smirk or tension at the lips is acceptable, but the overall expression must feel cool, composed, and powerful.\n\nHe wears a silk black open-collar shirt with the top buttons undone, creating a refined yet rebellious luxury-fashion vibe. A thin silver chain rests naturally at the corner of his slightly parted lips, with only a tiny section subtly secured by the teeth just behind the lips, making the hold physically believable while keeping the teeth almost completely hidden. The chain hangs loosely and naturally downward, creating an effortless, candid fashion-editorial gesture rather than an obvious biting pose.\n\nPreserve realistic facial proportions, natural masculine character, authentic skin texture, subtle imperfections, visible pores, fine facial details, realistic lips, natural eyebrows, detailed eyes with lifelike catchlights, and individually defined hair strands. The face should look mature, confident, and stylish, with a strong jawline and naturally attractive structure. Avoid an overly polished, artificial, or generic model-like appearance.\n\nDark seamless black studio background with soft shadow falloff and subtle atmospheric depth. Warm golden sunlight enters dramatically from the left side of the frame, sculpting the cheekbone, jawline, nose, and hair while the opposite side falls into rich cinematic shadow. Classic Rembrandt-inspired lighting with a soft golden highlight across the face, deep blacks, controlled highlights, and premium cinematic contrast.\n\nLuxury men's fashion editorial aesthetic — sophisticated, mysterious, confident, slightly rebellious, intimate, expensive, and cinematic. The portrait should feel like a high-end fragrance campaign or premium men's fashion magazine cover. The subject must look like he knows the camera is on him and is completely in control of the frame, with natural swagger and presence rather than a passive portrait pose.\n\nShot at eye level on a Sony A7R V with an 85mm f/1.4 lens, shallow depth of field, creamy background separation, tack-sharp focus on both eyes, natural perspective compression, soft falloff toward the shoulders, realistic optical depth, and professional studio photography characteristics.\n\nPhotorealistic natural color grading with warm golden skin highlights, neutral realistic skin tones, deep rich blacks, subtle tonal separation, soft highlights in the hair, realistic shadow detail, HDR dynamic range, ultra-detailed 8K appearance, premium editorial retouching while retaining authentic human skin texture.\n\nComposition: vertical 4:5 aspect-ratio, medium close-up showing the full head, neck, shoulders, and upper chest with comfortable headroom. Subject centered with a powerful magazine-cover composition. No awkward cropping. The pose should feel natural, stylish, and slightly seductive, with a clear sense of attitude and personality.\n\nOverall vibe: magnetic, confident, masculine, mysterious, dominant, effortlessly stylish, slightly dangerous, premium, cinematic, and emotionally present.\n\nNegative Prompt:\nblurry, low quality, low resolution, cartoon, painting, illustration, CGI look, artificial face, generic AI model face, emotionless expression, soft innocent expression, friendly smile, happy expression, timid vibe, nervous pose, awkward pose, stiff shoulders, passive body language, weak eye contact, blank stare, exaggerated seductive expression, forced pose, visible biting, exposed teeth gripping chain, clenched teeth, chain stretched tightly, chain floating unnaturally on lips, awkward chain placement, chain covering face, distorted chain, distorted face, bad anatomy, asymmetrical eyes, crossed eyes, deformed eyes, unnatural jawline, waxy skin, plastic skin, airbrushed skin, excessive skin smoothing, oversaturated skin, unrealistic facial proportions, duplicate face, extra fingers, visible hands unless naturally framed, overexposed highlights, crushed facial details, flat lighting, unrealistic lighting, harsh artificial rim light, excessive orange tones, background clutter, text, logo, watermark, noise, excessive grain, motion blur, poor focus, cropped forehead, cropped chin.",
-      "description": "Use this cinematic studio photography prompt to create a dark, moody portrait of a handsome man in a black silk shirt biting a silver chain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 19,
-      "view_count": 1477,
-      "copy_count": 1518,
-      "is_premium": false,
-      "published_at": "2026-09-01T22:27:58.831Z",
-      "images": [
-        {
-          "filename": "37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "local_path": "images/fashion-editorial/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "original_url": "https://img.promptplum.com/promptImages/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Moody Editorial Portrait AI Photo Editing Prompt. AI generated studio portrait of a curly-haired man in an open black shirt biting a silver chain necklace against a dark background."
-        },
-        {
-          "filename": "bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "local_path": "images/fashion-editorial/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Dark cinematic male portrait with a silver chain AI Photo Editing Prompt. AI generated studio portrait of a handsome man in a black silk shirt biting a chain."
-        },
-        {
-          "filename": "daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "local_path": "images/fashion-editorial/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated studio portrait of a curly-haired man in a black shirt holding a thin silver chain in his mouth against a dark background."
-        }
-      ]
-    },
-    {
-      "id": "6a89ce894bbdbe2cf5edaf26",
-      "title": "Wooden Doorway South Indian Bridal Portrait",
-      "slug": "traditional-indian-bridal-photography-prompt",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create a photorealistic, cinematic portrait of a beautiful woman standing gracefully in a traditional setting. She wears an elegant ivory-gold silk saree with a rich golden border and intricate traditional detailing, paired with a matching short-sleeved blouse featuring elaborate gold embroidery and green accents.\nHer face should have natural, refined features, glowing skin. Her hair is neatly parted and styled into a traditional low bun adorned heavily with fresh white jasmine flowers. She wears an elaborate traditional South Indian bridal jewelry set, including a detailed gold maang tikka, large jhumka earrings, layered gold necklaces, an ornate temple-style waist belt, stacked gold bangles, rings, and traditional bridal accessories. Intricate mehndi designs are visible on both hands and forearms.\nPose: Subject standing centrally, subtle natural three-quarter orientation. Her left hand rests gracefully near her waist while her right arm hangs naturally by her side. Relaxed, elegant posture with a calm, confident, affectionate expression, gazing naturally to right off-camera.\nEnvironment: A luxurious traditional South Indian interior with a large dark polished wooden doorway and warm brown wooden panels in the background. Large lush tropical green leaves and ornamental plants frame the subject naturally from both sides, creating an elegant atmosphere. Warm earthy tones complement the ivory-gold saree.\nLighting: Soft, warm diffused cinematic lighting with gentle highlights on the bride's face, jewelry, saree, and flowers. Subtle natural shadows, warm ambient glow, rich contrast, and realistic skin texture. The background is softened with a shallow depth of field while keeping the bride and her outfit sharply detailed.\nComposition: Vertical medium fashion portrait, eye-level camera, centered subject, balanced symmetrical framing, ample space around the subject. Premium Indian bridal editorial photography aesthetic.\nCamera: 85mm portrait lens, f/1.8 aperture, realistic depth of field, highly detailed fabric and jewelry textures, natural skin texture, cinematic color grading, photorealistic, ultra-realistic, 8K quality, 4:5 aspect ratio.\nNegative prompt: cartoon, illustration, artificial skin, excessive beautification, facial distortion, altered facial proportions, blurry face, malformed hands, duplicate jewelry, distorted saree, awkward anatomy, low resolution, text, watermark, logo.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a South Indian bridal portrait in a gold Kanjivaram saree with temple jewelry, jasmine flowers, and henna-adorned hands near a wooden doorway.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 34,
-      "view_count": 1336,
-      "copy_count": 1890,
-      "is_premium": false,
-      "published_at": "2026-08-22T16:30:01.310Z",
-      "images": [
-        {
-          "filename": "aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "local_path": "images/fashion-editorial/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "South Indian Bride in Gold Kanjivaram Saree Traditional Portrait AI Photo Editing Prompt. AI generated bridal photograph of a woman in a gold silk saree with temple jewelry, jasmine flowers in her hair, and mehndi on her hands standing near a wooden doorway."
-        }
-      ]
-    },
-    {
       "id": "6a89cc2b4bbdbe2cf5ed52f8",
       "title": "Dual Tone Light Male Portrait",
       "slug": "neon-studio-portrait-men-prompt",
@@ -1161,35 +1025,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in White Linen Shirt Standing in Ocean Waves AI Photo Editing Prompt. AI generated coastal fashion portrait of a young man wearing sunglasses, a white linen shirt, and light blue jeans standing in splashing sea waves under a clear blue sky."
-        }
-      ]
-    },
-    {
-      "id": "6a85c5034bbdbe2cf58d3b4d",
-      "title": "Romantic Desi Couple Illustration with Floral Splash",
-      "slug": "indian-husband-wife-traditional-portrait",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create a highly detailed hand-painted watercolor illustration of a couple posing affectionately together, matching the reference image’s facial features.\nComposition: Vertical waist-up framing. The couple is positioned centrally, leaning naturally toward each other. The man stands slightly behind and to the left of the woman, gently embracing her with one arm around her shoulder and his other hand resting affectionately near her upper arm. The woman stands slightly in front, with one arm crossing naturally across her body and her other hand resting near her hair. Their bodies overlap naturally, creating an intimate romantic composition. Keep both faces clearly visible and prominently framed.\nMan: Handsome man with neatly styled hair swept back with natural volume. Natural masculine facial proportions and realistic facial structure. He wears a light sage-green casual button-up shirt with a soft fabric appearance, subtle folds, and an open collar. His expression is cheerful, loving, and relaxed toward the camera.\nWoman: Elegant woman with long, smooth hair flowing naturally over her shoulders, a small traditional red bindi. She wears elegant gold jhumka earrings, a delicate gold necklace, and multiple thin gold bangles. She is dressed in a beautiful pastel pink traditional Indian saree with intricate golden embroidered borders and subtle gold floral motifs. The saree has soft flowing folds and delicate watercolor detailing. Her expression is happy, affectionate, and natural toward the camera.\nBackground: Clean white textured watercolor paper background with soft pastel watercolor splashes behind the couple. Use subtle washes of powder blue, aqua, mint green, pale yellow, and soft lavender, blending organically with irregular brush edges, scattered watercolor droplets, and delicate paint splatters. Keep the background airy, bright, minimal, and uncluttered, with no scenery or distracting objects.\nArt Style: Premium hand-painted watercolor portrait, elegant contemporary Indian romantic illustration, realistic watercolor rendering combined with refined digital illustration. Detailed ink-like outlines, soft translucent watercolor washes, delicate brush textures, subtle color bleeding, layered pigments, gentle highlights, and beautifully controlled shading. Faces should remain highly detailed and expressive while retaining an authentic watercolor aesthetic.\nLighting & Color: Soft diffused studio-like illumination, bright high-key appearance, gentle highlights on the faces and hair, warm skin tones, pastel color palette, natural shadows, and harmonious pink, sage green, gold, blue, mint, and cream tones. Avoid harsh contrast.\nDetails: Highly detailed facial features, realistic eyes with natural reflections, individually defined hair strands, delicate saree embroidery, intricate gold jewelry, realistic fabric folds, watercolor pigment variation, detailed edges, organic brush strokes, and super quality hand-painted detailing.\nQuality: Ultra-detailed, polished professional watercolor artwork, realistic anatomy, natural proportions, expressive faces, clean linework, vibrant color harmony, high-resolution illustration, premium editorial-art quality, crisp facial details with detailed watercolor edges. Aspect ratio 4:5.",
-      "description": "Watercolor Couple Portrait Prompt: Copy & paste this prompt to create a traditional Indian couple illustration featuring a man in a green shirt and a woman in a gold-embroidered pink saree with jewelry, set against a soft pastel watercolor splash background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 2818,
-      "copy_count": 4477,
-      "is_premium": false,
-      "published_at": "2026-08-19T15:00:19.226Z",
-      "images": [
-        {
-          "filename": "b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "local_path": "images/fashion-editorial/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/b76162f1-c735-4b86-91c4-da5efaba4104.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Pink Saree Watercolor Portrait AI Photo Editing Prompt. AI generated watercolor illustration of a smiling Indian couple, the man in a green shirt and the woman in a gold-embroidered pink saree with traditional jewelry, set against a soft pastel splash background."
         }
       ]
     },
@@ -1996,45 +1831,6 @@
           "width": 1792,
           "height": 2400,
           "alt": "AI generated realistic portrait of a stylish bearded man wearing sunglasses and a white pinstripe suit leaning against a dark stone wall with hands in pockets."
-        }
-      ]
-    },
-    {
-      "id": "6a68dcd14bbdbe2cf5c7254b",
-      "title": "Couple in Modern Indian Desi Swag",
-      "slug": "matching-couple-ethnic-party-portrait",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create a photorealistic, high-fashion studio portrait of a stylish couple standing confidently in a modern editorial pose. The composition is a medium portrait captured at eye-level camera angle in a 4:5 aspect ratio.\nThe man stands slightly behind and to the left of the woman, his body angled approximately 3/4 to the right, while he looks confidently into the camera. He wears a luxurious black textured sherwani with a mandarin collar, subtle embroidered detailing, metallic buttons, and a tailored fit. He wears sleek rectangular black sunglasses with reflective lenses. His left arm rests naturally by his side, while his right arm remains relaxed behind the woman, creating a composed editorial stance.\nThe woman stands slightly in front of the man with her body angled 3/4 to the right, maintaining an elegant upright posture. Her hands are gently clasped together at her waist, creating a graceful and refined pose. She wears a royal blue sequined sleeveless lehenga choli with shimmering vertical embellishments, paired with a matching flowing sheer dupatta draped over one shoulder. She accessorizes with an elegant diamond necklace, matching chandelier earrings, bangles, rings, and a traditional maang tikka. Her long hair is styled in soft waves with a half-up hairstyle. She also wears modern rectangular reflective sunglasses, blending traditional attire with contemporary fashion. Her expression is calm, poised, and confident.\nBoth subjects have calm, confident expressions with looking to the camera, creating a cinematic editorial mood.\nThe background is a minimalist deep royal blue seamless studio backdrop featuring a large soft white circular spotlight (halo effect) centered behind the couple, producing a clean, premium fashion-photography aesthetic.\nLighting consists of soft diffused studio key lighting evenly illuminating both subjects, complemented by subtle rim lighting that enhances separation from the background. The image features balanced exposure, natural skin tones, soft shadows, crisp details, realistic fabric textures, reflective sunglasses, shallow depth of field, ultra-sharp focus, premium color grading, and an ultra-realistic 8K fashion editorial photography style.",
-      "description": "Fashion Studio Photography Prompt: Copy & paste this prompt to create a modern studio portrait of a stylish couple in a black sherwani and blue lehenga.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 53,
-      "view_count": 1958,
-      "copy_count": 2912,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:46:09.382Z",
-      "images": [
-        {
-          "filename": "34453837-ab74-487b-9169-59f3b808cfcf.jpeg",
-          "local_path": "images/fashion-editorial/34453837-ab74-487b-9169-59f3b808cfcf.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/34453837-ab74-487b-9169-59f3b808cfcf.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/34453837-ab74-487b-9169-59f3b808cfcf.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/34453837-ab74-487b-9169-59f3b808cfcf.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Modern Indian Couple in Sherwani and Lehenga AI Photo Editing Prompt. AI generated studio portrait of a stylish young South Asian couple in a black sherwani and blue sequined lehenga, both accessorized with sunglasses and fine diamond jewelry."
-        },
-        {
-          "filename": "d8557f1e-fe46-45b3-b532-d923ce49fb19.jpeg",
-          "local_path": "images/fashion-editorial/d8557f1e-fe46-45b3-b532-d923ce49fb19.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/d8557f1e-fe46-45b3-b532-d923ce49fb19.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/d8557f1e-fe46-45b3-b532-d923ce49fb19.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/d8557f1e-fe46-45b3-b532-d923ce49fb19.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Modern South Asian Couple in Sherwani and Lehenga AI Photo Editing Prompt. AI generated studio portrait of a stylish young South Asian couple in a black sherwani and blue sequined lehenga, both accessorized with sunglasses and fine diamond jewelry."
         }
       ]
     },
@@ -3821,55 +3617,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267046a",
-      "title": "The Offering",
-      "slug": "the-offering",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create an 8K ultra-realistic full-body fashion editorial portrait of a man, captured at eye level. He is seated on a matte red cube against a seamless deep red studio background, maintaining a strong monochromatic aesthetic.\nUse the uploaded image as the primary identity reference. \nFace Accuracy (Critical) Match the face with 100% identity accuracy. Preserve exact facial structure, bone anatomy, grooming details, jawline, cheekbones, and forehead proportions.\nSubject & Styling:\n\nA tattooed man with neatly styled hair, wearing a perfectly tailored black suit with a slightly open black shirt, revealing a subtle chest detail. He exudes a strong, masculine luxury presence.\nPose & Composition:\n\nThe man is seated on a matte red cube, legs slightly apart in a relaxed yet dominant posture. One hand rests naturally on his knee, while the other holds a bouquet of fresh red roses.\n\nFull-body composition, perfectly centered, balanced framing.\nExpression:\n\nIntense, moody, confident gaze directed toward the camera. Slightly serious, emotionally restrained, with a hint of mystery.\nEnvironment & Background:\n\nSeamless deep red studio background with a monochromatic aesthetic (floor + backdrop blended). Clean, minimal, no distractions.\nLighting:\n\nSoft yet dramatic studio lighting with controlled shadows. High contrast with subtle highlights on face, suit texture, and roses. Cinematic mood.\nDetails:\n\nPolished black leather boots\nVisible suit texture and fabric realism\nNatural skin texture (no over-smoothing)\nFresh, richly colored red roses with realistic petals\nStyle & Quality:\n\nLuxury fashion editorial, magazine-quality photography, ultra-realistic, 8k high details, cinematic Valentine-inspired styling, shallow depth of field.\nAspect Ratio: 4:5",
-      "description": "High-Fashion Studio Portrait Prompt: Create a professional editorial photo of a stylish bearded man in a black suit holding red roses against a bold red background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 38,
-      "view_count": 766,
-      "copy_count": 1649,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "local_path": "images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man in Black Suit with Red Roses AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a black suit holding a bouquet of red roses against a solid red background."
-        },
-        {
-          "filename": "man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "local_path": "images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man in Black Suit with Red Roses Portrait Prompt. AI generated studio portrait of a stylish man in a black suit sitting on a red cube and holding a bouquet of red roses against a solid red background."
-        },
-        {
-          "filename": "man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "local_path": "images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Men's Fashion Prompt. AI generated studio portrait of a tattooed man in a black suit holding red roses while sitting on a red cube."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267045f",
       "title": "Seeing Red",
       "slug": "monochrome-red-fashion-angry-bird",
@@ -4600,85 +4347,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Man and Vintage Silver Car Photography Prompt. AI generated studio portrait of a stylish man in a black leather jacket leaning against a classic silver car."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670418",
-      "title": "Editorial Avatars",
-      "slug": "editorial-avatars",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create an exaggerated, stylized 3D caricature portrait of the two people in the attached reference photo, Full-body (head-to-toe) shot. Preserve both subjects' identities, facial likenesses, skin tones, and defining features, but reinterpret them into bold, caricatured 3D forms with full-body proportions.\nApply strong, intentional deformation to each character, including elongated necks, oversized head-to-neck ratios, droopy eyelids, heavy lips, and subtle facial asymmetry. Extend the exaggeration into their full-body proportions so the stylization feels cohesive from head to toe. Slight proportional variations between the two characters should enhance individuality and personality contrast while keeping them visually harmonious. They must remain human-like but clearly stylized, expressive, and artistically exaggerated.\nPosition them in a dynamic, character-driven full-body composition that reflects chemistry and connection — standing close, subtly interacting, or posed in a high-fashion editorial stance. Their body language should feel intentional and cohesive rather than romanticized or cute.\nThe camera angle must be eye-level, aligned naturally with the characters’ faces to maintain presence and balance. Use a straight-on perspective with no dramatic tilt, distortion, or extreme wide-angle effects. The framing should capture both characters fully from head to toe while maintaining proportional clarity and compositional symmetry.\nDress both characters in coordinated luxury fashion with bold, high-end accessories. Their styling should complement each other while maintaining individuality, creating a weird, fashion-forward, collectible aesthetic that feels elevated and character-driven rather than realistic or cartoonish.\nUse a clean, controlled surface finish with smooth, studio-quality skin for both subjects. Avoid random textures, blemishes, freckles, dirt, grain, speckling, or noise. Materials should appear polished, premium, and carefully designed, with subtle subsurface scattering and realistic skin shading.\nIlluminate the scene with neutral studio lighting, soft diffused shadows, and even illumination with no harsh contrast. Use a plain neutral gray or off-white background.\nRender in ultra-high definition 4K quality with extreme detail, sharp focus, and cinematic clarity. Include micro-surface detail, high-resolution textures, physically based rendering (PBR), global illumination, soft reflections, and refined material definition. The image should appear crisp, clean, noise-free, and professionally studio-rendered.\nNo text, logos, or watermarks.\nAspect ratio: 4:5.\nNegative prompt: Cropped frame, low quality, head crop, toe crop",
-      "description": "Google Gemini AI Illustration Editing Prompt: Use this prompt to generate stylish 3D character portraits of high-fashion duos. These images feature diverse couples in designer-inspired editorial outfits with a modern, stylized aesthetic.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 36,
-      "view_count": 748,
-      "copy_count": 1288,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "local_path": "images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "local_path": "images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "local_path": "images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "local_path": "images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "local_path": "images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "local_path": "images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
         }
       ]
     },
@@ -7728,35 +7396,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670299",
-      "title": "Gloss and Freckles",
-      "slug": "gloss-and-freckles",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create candid ultra-realistic cinematic glamour image 100% copy face ,identical to the attached image. A young woman \nclose-up portrait (or \"a highly detailed beauty shot of a woman\").\nExpression/Pose: Eyes gently closed, head tilted slightly back and to the side (as if resting or in a moment of tranquility/reverie).\nFace Details: Prominent, natural-looking freckles across the nose and cheeks, full, glossy, slightly wet lips with a peachy or burnt-sienna hue, defined natural brows, visible facial texture.\n2. Lighting & Atmosphere:\nLighting: Dramatic, warm, directional soft light (like golden hour light or studio lighting mimicking it) falling primarily on the nose, cheeks, and lips. Strong highlights on the lips and cheekbones.\nMood: Intimate, moody, sensual, natural, dreamlike, or a feeling of sunkissed warmth.\nColor Palette: Dominated by warm tones (golds, oranges, peaches, reds, and deep browns).\n3. Styling & Details (Makeup/Hair/Clothes):\nMakeup: Very natural, editorial, \"no-makeup\" look. Heavy, diffused blush/bronzer in a peachy-orange tone concentrated high on the cheeks and bridge of the nose (sunkissed effect). Glossy/dewy skin finish.\nHair: Dark, rich brown hair, slightly messy, with soft, face-framing bangs (or fringe) slightly covering the forehead.\nClothes: (Not visible). You would specify \"wearing an unseen garment\" or \"naked shoulders\" to keep the focus on the face, but since it's a tight close-up, you can often omit this.\n4. Background & Frame:\nBackground: Very dark, out-of-focus bokeh background (deep brown/black/olive green) to ensure the face pops. The background is minimalist and solid-colored.\nCrop/Angle: Extreme close-up (tight crop) of the lower face, emphasizing the lips, nose, and cheek area. Shot from a slightly lower angle.\nAesthetics: High-fashion photography, editorial portrait, cinematic, dark academia aesthetic (for the mood). Camera: Shot on a high-end mirrorless camera (e.g., Sony A7R V or Canon R5) with a fast 85mm lens (e.g., f/1.4 or f/1.2). Soft, dramatic high-key  lighting, beautiful skin texture, elegant, shallow depth of field.\nRealistic high detail HD DSLR shot and glamour shot.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 25,
-      "view_count": 920,
-      "copy_count": 1333,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "local_path": "images/fashion-editorial/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Generated Image: A close-up of a woman's face with her eyes closed. She has freckles, dewy skin, and is wearing glossy orange lipstick and blush/bronzer. Her dark hair has bangs, and she is illuminated by warm light."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670298",
       "title": "Dolce Vita Ride",
       "slug": "dolce-vita-ride",
@@ -8093,45 +7732,6 @@
           "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/2.jpeg",
           "width": 736,
           "height": 1104,
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670288",
-      "title": "The Winter King and His Guardian",
-      "slug": "the-winter-king-and-his-guardian",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Create an ultra-realistic cinematic winter full body portrait set in a serene snowy forest. A stylish individual is gently embracing a majestic white lion with striking blue eyes. The subject stands close, cheek softly resting against the lion’s head, one hand placed calmly on its mane, conveying trust, calmness, and quiet connection.\nThe subject wears a luxurious long white fur coat layered over a dark outfit, paired with sleek black sunglasses. Light snowflakes rest naturally on the hair and shoulders, enhancing the cold winter atmosphere.\nThe environment features tall pine trees heavily covered in fresh snow, with a soft, blurred background for depth. The ground is thick with untouched snow, and subtle snowfall is visible in the air. Warm natural sunlight filters through the trees from behind, creating a soft golden rim light and gentle highlights on the subject and lion, producing a cinematic glow.\nComposition is clean and visually balanced with a full body framing, maintaining clear visibility of both the subject and the lion. Use shallow depth of field to isolate the subjects while keeping the snowy forest recognizable.\nLighting is soft, natural, and diffused with a slight backlight halo effect. Focus on ultra-realistic textures: detailed fur, natural skin tones, visible snow particles, and crisp winter atmosphere. Avoid any CGI or artificial look.\nStyle: high-end editorial photography, cinematic, ultra-detailed, 8K resolution, sharp focus, realistic color grading, no text, no watermark.\nAspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 794,
-      "copy_count": 1302,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "local_path": "images/fashion-editorial/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Gemini Generated Image: A person in a white fur coat is standing in a snowy forest and gently hugging a large white lion."
-        },
-        {
-          "filename": "IMG_20251208_001332.jpg",
-          "local_path": "images/fashion-editorial/IMG_20251208_001332.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251208_001332.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/IMG_20251208_001332.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/IMG_20251208_001332.jpg",
-          "width": 515,
-          "height": 675,
           "alt": ""
         }
       ]
@@ -8477,35 +8077,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267026c",
-      "title": "The Royal Bride",
-      "slug": "the-royal-bride",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Without changing facial feature and face \"A close-up portrait of an Indian bride, with her eyes gently closed in a moment of calm reflection. A delicate, sheer red dupatta is draped over her head, subtly catching the light and creating a graceful, flowing effect. She is wearing a richly embroidered deep red or maroon lehenga blouse and skirt, adorned with intricate gold thread work. Her jewelry is elaborate and traditional: a heavy gold choker necklace, a long layered rani haar necklace with a distinctive black pendant, large gold jhumka earrings, a traditional nath (nose ring), and a maang tikka. Her hair is styled neatly, possibly with a side part. The background is softly blurred with warm, neutral tones, suggesting an elegant indoor setting. The lighting is soft, warm, and atmospheric, highlighting her features and the textures of her attire and jewelry. High-resolution, cinematic portrait photography, rich in detail and emotion.'Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1192,
-      "copy_count": 2121,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_002557.jpg",
-          "local_path": "images/fashion-editorial/IMG_20251205_002557.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_002557.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/IMG_20251205_002557.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/IMG_20251205_002557.jpg",
-          "width": 1888,
-          "height": 2258,
-          "alt": "Gemini Generated Image: a beautiful Indian bride in a traditional red and gold wedding outfit (lehenga/saree and dupatta). She is wearing heavy, elaborate gold jewelry, including a choker, long necklaces, large earrings, and a maang tikka (forehead ornament), with her eyes closed. The background is softly lit and looks like a rich indoor setting."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670267",
       "title": "Vogue Cover Muse",
       "slug": "vogue-cover-muse",
@@ -8531,35 +8102,6 @@
           "width": 1856,
           "height": 2292,
           "alt": "Gemini Generated Image: a portrait of a woman wearing a white shirt and gold hoop earrings, with slicked-back, wet-look hair and bright red lipstick. The word \"VOGUE\" in large red letters is visible at the top."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670265",
-      "title": "Traditional Bridal Regalia",
-      "slug": "traditional-bridal-regalia",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Without changing facial feature and face A captivating close-up portrait of an Indian bride, with half of her face subtly veiled by a sheer, off-white or cream dupatta adorned with a heavy, intricate gold and pearl border. Her visible eye is open, intensely gazing directly at the viewer, with dramatic eyeliner and makeup. She is wearing an elegant off-white or cream lehenga blouse with subtle embroidery. Her hand, adorned with intricate mehndi and delicate gold haath phool (hand jewelry), gently holds the veil. She is bedecked in exquisite gold and pearl jewelry with ruby/maroon accents, including a prominent choker necklace, large dangling earrings, a traditional nath (nose ring) with a floral design, and a matha patti (headpiece) with pearl drops. A small red bindi is on her forehead. The lighting is soft, warm, and focused, highlighting her features and the sparkle of her jewelry against a blurred, neutral background. Artistic, high-fashion bridal photography, high-resolution, richUse the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 49,
-      "view_count": 1342,
-      "copy_count": 2887,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_000908.jpg",
-          "local_path": "images/fashion-editorial/IMG_20251205_000908.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_000908.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/IMG_20251205_000908.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/IMG_20251205_000908.jpg",
-          "width": 1792,
-          "height": 2349,
-          "alt": "Gemini AI Generated Image: a beautiful Indian bride wearing a traditional off-white/cream lehenga and heavy gold and ruby jewelry. She is partially covering her face with a net dupatta (veil) that has ornate borders."
         }
       ]
     },
@@ -8884,35 +8426,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670238",
-      "title": "Black Saree with Floral Embroidery",
-      "slug": "black-saree-with-floral-embroidery",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. Create A hyper-realistic medium shot portrait of a beautiful young Indian woman standing on a city street during the day. She is wearing a premium translucent black net saree adorned with glittering sequins and colorful floral embroidery (red, blue, green), paired with a solid black short-sleeved blouse. She wears a blue gemstone choker necklace, matching earrings, and a stack of blue bangles. She has a small black bindi, and her long wavy brown hair is parted in the middle. She is leaning casually against a black metal railing with her hands clasped. The background features blurred city architecture, brick buildings, and parked cars, creating a shallow depth of field. Soft, natural lighting, 8k resolution, high fidelity. Photorealistic style: The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 116,
-      "view_count": 4920,
-      "copy_count": 11863,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251130_151922.jpg",
-          "local_path": "images/fashion-editorial/IMG_20251130_151922.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_151922.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/IMG_20251130_151922.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/IMG_20251130_151922.jpg",
-          "width": 1849,
-          "height": 2304,
-          "alt": "Gemini Generated image of A beautiful woman with long brown hair, adorned in a black sari featuring colorful floral embroidery and sparkling blue jewelry and bangles, stands smiling on a city street beside a black railing"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670232",
       "title": "Modern Style in Motion",
       "slug": "modern-style-in-motion",
@@ -9087,35 +8600,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670210",
-      "title": "Stylish man holds horse",
-      "slug": "stylish-man-holds-horse",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Use the uploaded reference photo for the exact face and hairstyle. Create an ultra-realistic cinematic portrait of an elegant man standing next to a majestic black horse in a snowy forest. The man wears a completely black outfit: a tailored coat, a high-neck sweater, gloves, and sunglasses, which gives him a mysterious and powerful aura. Snowflakes gently fall around her, resting on her coat and hair. while soft, fuzzy light creates a cool, melancholic winter atmosphere. The horse looks strong and elegant, with the snow-covered mane, and both subjects radiate sophistication and quiet mastery. Capture tone and composition with high detail, depth, and cinematic contrast for a luxurious, dramatic visual effect.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 170,
-      "view_count": 5065,
-      "copy_count": 14680,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764150488209.png",
-          "local_path": "images/fashion-editorial/1764150488209.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764150488209.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/1764150488209.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/1764150488209.png",
-          "width": 832,
-          "height": 1248,
-          "alt": "Ai generated image of a man standing next to a black horse in winter bakground"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267020a",
       "title": "Man wears brown suit",
       "slug": "man-wears-brown-suit",
@@ -9200,45 +8684,6 @@
           "width": 1792,
           "height": 2400,
           "alt": "Gemini_Generated_Image_g1eci2g1eci2g1ec"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701f2",
-      "title": "Indian Couple 90s Bollywood",
-      "slug": "bollywood-couple",
-      "category": "Fashion & Editorial",
-      "category_slug": "fashion-editorial",
-      "prompt": "Use the uploaded image strictly as the ONLY face and identity reference.\nCreate a cinematic 8K portrait of a couple standing side-by-side against a textured rustic terracotta wall, illuminated by warm golden hour sunlight that casts soft shadows and enhances skin tones.\nComposition & Framing:\nMedium full shot (knee to slightly above head), vertical 4:5 aspect ratio. Subjects centered with balanced negative space. Clean background with subtle wall texture, no distractions.\nPose & Interaction:\nThe couple stands close together, gently holding hands. Both bodies slightly angled toward each other. They share a soft, affectionate gaze, creating an intimate and nostalgic mood.\nExpression:\nNatural, calm, and warm expressions with slight smiles. Eyes focused on each other, conveying romantic connection.\nOutfit Details:\nWoman: Navy-blue velvet blouse with intricate gold embroidery, paired with a black lehenga featuring rich gold floral patterns. A visible layered white underskirt adds depth. She wears a flowing red dupatta with gold border detailing draped elegantly. Accessories include large traditional gold earrings and a red rose tucked into her hair.\nMan: Black embroidered Chikan kurta with detailed white threadwork on the neckline, paired with tailored black trousers.\nHair & Styling:\nNatural, well-groomed hair. Soft, realistic texture with subtle movement. No artificial shine.\nLighting:\nWarm golden hour sunlight from the side, creating soft highlights on faces and gentle shadows on the wall. Natural light falloff for cinematic depth.\nBackground:\nMinimal rustic terracotta wall with slight imperfections and texture. No people or distractions in the background.\nStyle & Mood:\nCinematic, nostalgic 90s Bollywood print-photo aesthetic. Slight film grain, soft contrast, warm color grading, and subtle vignette for vintage realism.\nTechnical Details:\nUltra-realistic, 8K resolution, shallow depth of field (light background softness), sharp focus on subjects, natural skin texture (visible pores), no plastic or CGI look.",
-      "description": "Traditional Couple Portrait Prompt: Use this prompt to create a romantic photograph of an Indian couple in a black kurta and red lehenga against a rustic wall.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 173,
-      "view_count": 9701,
-      "copy_count": 24544,
-      "is_premium": false,
-      "published_at": "2026-09-20T00:58:05.956Z",
-      "images": [
-        {
-          "filename": "a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "local_path": "images/fashion-editorial/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "width": 1888,
-          "height": 2254,
-          "alt": "Indian Couple Traditional Portrait Photography AI Photo Editing Prompt. AI generated photograph of a couple in elegant wedding attire, holding hands and sharing a warm gaze against a textured terracotta wall."
-        },
-        {
-          "filename": "cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "local_path": "images/fashion-editorial/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fashion-editorial/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fashion-editorial/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Indian Couple Ethnic Portrait AI Photo Editing Prompt. AI generated photographic portrait of a young Indian couple in elaborate ethnic wear holding hands and looking at each other against a terracotta wall."
         }
       ]
     }

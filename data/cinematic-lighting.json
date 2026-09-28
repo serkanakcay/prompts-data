@@ -1,7 +1,7 @@
 {
   "category": "Cinematic Lighting",
   "slug": "cinematic-lighting",
-  "total_prompts": 47,
+  "total_prompts": 44,
   "updated_at": "2026-09-24T12:53:37Z",
   "prompts": [
     {
@@ -443,35 +443,6 @@
       ]
     },
     {
-      "id": "6a887bd04bbdbe2cf5cd633f",
-      "title": "South Indian Bridal Portrait with Mehndi Hands",
-      "slug": "smiling-indian-bride-traditional-portrait",
-      "category": "Cinematic Lighting",
-      "category_slug": "cinematic-lighting",
-      "prompt": "Create a ultra-detailed photorealistic cinematic portrait of a beautiful woman wearing an elegant deep chocolate-brown silk saree with an intricate antique-gold floral brocade border and matching heavily embroidered blouse with three-quarter sleeves. She wears traditional gold jewelry including a layered temple-style necklace with a detailed pendant, ornate jhumka earrings, and delicate gold accessories. Her hair is neatly parted and styled into a low bun adorned with slightly fresh white jasmine gajra. A small black bindi rests between her eyebrows. Both hands and wrists are decorated with traditional henna (mehndi) patterns on the skin, and adorned with stacked gold bangles on the wrists.\nShe faces the camera directly with a graceful, confident expression, relaxed posture, and hands gently folded near her waist level. Medium close-up composition, centered subject, elegant traditional Indian bridal aesthetic.\nWarm-golden cinematic side lighting coming from the upper right creates soft highlights on her face, jewelry, and silk fabric, with subtle rim light outlining her hair. Dark smooth neutral gray studio background, clean and uncluttered, shallow depth of field, luxurious editorial mood.\n85mm portrait lens, f/1.6, ISO 100, natural skin texture, realistic facial details, accurate anatomy, detailed silk and embroidery textures, cinematic color grading, soft bokeh, HDR, ultra-photorealistic, 8K resolution, vertical composition, aspect ratio 4:5 . No text, no watermark, no identity change, no extra people, no distorted anatomy.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a studio portrait of a smiling Indian bride in a maroon Banarasi silk saree, layered gold temple jewelry, and hennaed hands.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 23,
-      "view_count": 925,
-      "copy_count": 879,
-      "is_premium": false,
-      "published_at": "2026-08-21T16:24:48.694Z",
-      "images": [
-        {
-          "filename": "782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "local_path": "images/cinematic-lighting/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-lighting/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-lighting/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "width": 1236,
-          "height": 1600,
-          "alt": "Indian Bride in Banarasi Silk Saree with Gold Temple Jewelry Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Indian woman in a maroon Banarasi silk saree, layered gold temple necklaces, jhumka earrings, and intricately hennaed hands."
-        }
-      ]
-    },
-    {
       "id": "6a8740644bbdbe2cf5b18d9e",
       "title": "Autumn Leaves & Linen Shirt Portrait",
       "slug": "autumn-leaves-mens-style-photoshoot-portrait",
@@ -663,35 +634,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "man-in-orange-silk-shirt-portrait-ai-prompt-by-promptplum-2"
-        }
-      ]
-    },
-    {
-      "id": "6a7b547b4bbdbe2cf592852c",
-      "title": "Indian Couple in Festive Elegance",
-      "slug": "indian-couple-portrait-photo-prompt",
-      "category": "Cinematic Lighting",
-      "category_slug": "cinematic-lighting",
-      "prompt": "Use the uploaded reference image as the exact identity source for both subjects — preserve their facial structure, eyes, skin tone, nose shape, jawline, and natural facial proportions with zero alteration. Do not beautify, reshape, or stylize the face. Facial identity match is the top priority in this generation.\n\nCreate a photorealistic luxury couple portrait of the same two people from the reference image, standing closely together outdoors in an elegant garden/resort setting.\n\nWoman (same face as reference): wearing a peach/coral designer saree with intricate gold embroidery, shimmering embellishments, a heavily detailed gold border, matching sleeveless embellished blouse, layered gold necklace, statement jhumka earrings, stacked gold bangles, small elegant bindi. Long voluminous hair softly curled over one shoulder. Natural light makeup only — do not change facial structure. Gentle natural smile matching her real expression.\n\nMan (same face as reference), standing on the right: salmon-peach tailored blazer, white open-collar shirt, cream/beige trousers, brown leather belt, folded pocket square, subtle floral lapel brooch, premium wristwatch, hand in pocket. Naturally styled hair, same as reference. Warm natural smile matching his real expression.\n\nComposition: medium-to-full body couple portrait, both subjects centered, standing close, woman's hand resting gently on man's arm, natural romantic pose, realistic anatomy.\n\nBackground: upscale outdoor garden, soft greenery, warm decorative lights, circular bokeh, subtly blurred for depth.\n\nLighting: warm golden-hour light, soft directional glow, natural skin tones, delicate highlights on jewelry and fabric — lighting should enhance, not distort, facial features.\n\nCamera: eye-level, 85mm portrait lens, f/2.8 (avoid ultra-shallow DOF that blurs facial detail), sharp focus on both faces, cinematic color grading, ultra-detailed skin and fabric texture, photorealistic, 8K, vertical 4:5.\n\nStrict constraints: no text, no watermark, no extra people, no distorted hands, no facial distortion, no identity change, no face swap, no altered bone structure, keep both faces 100% consistent with the uploaded reference.",
-      "description": "Indian Couple Photography Prompt: Copy & paste this prompt to create a romantic outdoor portrait of an Indian couple in elegant peach traditional and formal attire with warm golden bokeh lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 74,
-      "view_count": 3142,
-      "copy_count": 4161,
-      "is_premium": false,
-      "published_at": "2026-08-11T16:57:31.822Z",
-      "images": [
-        {
-          "filename": "28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "local_path": "images/cinematic-lighting/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-lighting/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-lighting/28d854e3-9838-45aa-b305-629c943fc93f.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Peach Attire Portrait AI Photo Editing Prompt. AI generated romantic couple portrait of a woman in an embellished peach saree and a man in a peach blazer, posed together outdoors with warm golden bokeh lighting."
         }
       ]
     },
@@ -930,56 +872,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man and Vintage Car Mountain Portrait AI Photo Editing Prompt. AI generated realistic lifestyle photo of a bearded man in sunglasses, a brown shirt, and light trousers leaning on a vintage black muscle car in front of a mountain café at dusk."
-        }
-      ]
-    },
-    {
-      "id": "6a721ca14bbdbe2cf5b7dc0a",
-      "title": "Good Days and Doodle Skies",
-      "slug": "happy-couple-doodle-art",
-      "category": "Cinematic Lighting",
-      "category_slug": "cinematic-lighting",
-      "prompt": "Create an 8K ultra-high-resolution, hyper-realistic lifestyle portrait of a couple sitting side by side on the white roof of a vintage teal camper van, set against a clear, vivid deep-blue sky. Maintain accurate identity and precise facial likeness to the provided reference image(s) for both subjects.\nSubjects & Pose: The man sits on the left, wearing a relaxed white linen button-down shirt with rolled sleeves, loose beige trousers, and grey canvas sneakers. He is turned slightly toward the woman, looking at her with a soft, affectionate smile. The woman sits on the right, wearing a light, airy white spaghetti-strap sundress paired with white sneakers. She is laughing naturally, looking forward with a joyful expression. She holds a small yellow daisy delicately in one hand and a cluster of pastel balloons (soft blue, pale yellow, and white) in the other. Both subjects sit casually with their legs dangling over the edges of the van's windows, conveying a relaxed, carefree mood.\nEnvironment & Background: The background is a clean, open sky in a vivid deep-blue tone with no clutter. The lower foreground features slightly blurred wildflowers (white daisies and green stems) to add depth and a natural springtime feel. The teal camper van has a vintage aesthetic, with visible window framing and subtle reflections.\nGraphic Overlay Style: Overlay the scene with playful, hand-drawn doodles in a soft pastel palette (white, yellow, pink, and light blue), including simple flowers, smiling faces, stars, hearts, clouds, sparkles, and motion lines around the couple and balloons. Add handwritten-style white text floating in the sky reading: \"good days,\" \"stay close,\" and \"happy place.\" The typography should feel casual, light, and whimsical — like chalk or marker doodles.\nLighting & Mood: Bright, soft natural daylight (midday to early afternoon), evenly lit with minimal harsh shadows. The overall mood is warm, romantic, cheerful, and carefree, evoking a dreamy spring/summer vibe, while the color grading stays cool/neutral rather than warm-toned. \nComposition & Camera: Vertical framing (3:4 aspect ratio), eye-level perspective aligned with the van roof. Subjects are placed slightly below center, leaving ample negative space above for the text and doodles. Balanced composition with the couple as the focal point.\nTechnical Details: Shot on a professional DSLR, 85mm lens, f/2.8 aperture for shallow depth of field, ultra-detailed textures, crisp focus on the subjects, soft background blur, 8K resolution, neutral/cool color tone (not warm).",
-      "description": "Mixed Media Art Prompt: Copy & paste this prompt to create a joyful aesthetic image of a happy couple sitting on a vintage teal van with pastel balloons and playful sky doodles.",
-      "ai_tools": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "like_count": 66,
-      "view_count": 1271,
-      "copy_count": 1545,
-      "is_premium": false,
-      "published_at": "2026-08-04T17:08:49.083Z",
-      "images": [
-        {
-          "filename": "fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "local_path": "images/cinematic-lighting/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-lighting/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-lighting/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT Image Aug 15, 2026, 10_56_49 PM"
-        },
-        {
-          "filename": "56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "local_path": "images/cinematic-lighting/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-lighting/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-lighting/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT Image Aug 15, 2026, 11_13_58 PM"
-        },
-        {
-          "filename": "f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "local_path": "images/cinematic-lighting/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-lighting/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-lighting/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Happy Couple on a Vintage Teal Van with Playful Doodles AI Photo Editing Prompt. AI generated digital mixed-media illustration of a couple on a teal van roof with pastel balloons, daisies, and a sky full of hand-drawn hearts, stars, and playful text doodles."
         }
       ]
     },

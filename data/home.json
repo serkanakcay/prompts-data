@@ -255,19 +255,19 @@
     {
       "name": "Portraits",
       "slug": "portraits",
-      "total_prompts": 305,
+      "total_prompts": 269,
       "api_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/data/portraits.json"
     },
     {
       "name": "Cinematic",
       "slug": "cinematic",
-      "total_prompts": 131,
+      "total_prompts": 119,
       "api_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/data/cinematic.json"
     },
     {
       "name": "Cyberpunk",
       "slug": "cyberpunk",
-      "total_prompts": 21,
+      "total_prompts": 20,
       "api_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/data/cyberpunk.json"
     }
   ],
@@ -275,7 +275,7 @@
     {
       "category": "Portraits",
       "slug": "portraits",
-      "total_prompts": 305,
+      "total_prompts": 269,
       "api_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/data/portraits.json",
       "items": [
         {
@@ -833,7 +833,7 @@
     {
       "category": "Cinematic",
       "slug": "cinematic",
-      "total_prompts": 131,
+      "total_prompts": 119,
       "api_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/data/cinematic.json",
       "items": [
         {
@@ -1262,35 +1262,6 @@
           ]
         },
         {
-          "id": "6a15472c564f4ca1526704d6",
-          "title": "Soulmate Horizon",
-          "slug": "romantic-couple-beach-name-art",
-          "category": "Cinematic",
-          "category_slug": "cinematic",
-          "prompt": "Create a hyper-realistic cinematic couple photography poster, 2:3 portrait format.\nDual-zone composite layout: [TOP ZONE — Blue Cinematic Close-Up] Extreme macro close-up of a young couple, foreheads pressed together in an intimate near-kiss pose, eyes gently shut, soft genuine smiles, slightly faded color tones. Shot with Sony Alpha 1 Mirrorless, 85mm f/1.2 prime lens, creamy bokeh, cool blue-steel color grade (#1a3a5c tonal palette).\nFaces razor-sharp, background melting into buttery bokeh haze. Cinematic soft haze overlay blending into the middle of the frame.\n[BOTTOM ZONE — Warm Full-Body Romance Shot] Same couple, warm natural daylight, slight Dutch/market tilt on frame. Man: white breathable linen half-sleeve shirt, bracelet on wrist, dark trousers. Woman: deep red satin spaghetti-strap fitted dress, naturally styled hair flowing freely. Both leaning foreheads together, gazing down at a dark-paper-wrapped red rose bouquet they hold between them. Overcast ocean/horizon soft blurred background, \"soft blurred background\", \"creamy bokeh effect\", \"shallow depth of field look\", \"cinematic haze\". Clear faces, clean skin, photorealistic detail.\n[BOTTOM TEXT OVERLAY] White handwritten signature-style cursive script: → \"Soulmate\" (large, central) — two tiny flying dove silhouettes above the descender of 'l' → Below in clean white uppercase sans-serif with wide letter-spacing: \"JACK-ROSE\" → Below that: \"05 FEBRUARY 2022\" Style: Editorial pre-wedding photography, Vogue India aesthetic, Sony Alpha 1 mirrorless, f/1.2 aperture, ISO 200, daylight balanced. Ultra-realistic, no illustration, photographic grain.",
-          "description": "Romantic Double Exposure Photography Prompt: Copy and paste this prompt to create a sentimental beach portrait of a couple holding red roses with elegant personalized typography.",
-          "ai_tools": [
-            "Gemini"
-          ],
-          "like_count": 433,
-          "view_count": 16859,
-          "copy_count": 60623,
-          "is_premium": false,
-          "published_at": "2026-08-06T13:14:09.529Z",
-          "images": [
-            {
-              "filename": "romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-              "local_path": "images/cinematic/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-              "original_url": "https://img.promptplum.com/promptImages/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-              "width": 1696,
-              "height": 2528,
-              "alt": "Romantic Couple Beach Poster AI Photo Editing Prompt. AI generated digital illustration of a couple touching foreheads on a beach with a bouquet of red roses."
-            }
-          ]
-        },
-        {
           "id": "6a15472c564f4ca1526704d1",
           "title": "Among the Wings",
           "slug": "man-pigeons-urban-photography",
@@ -1328,13 +1299,62 @@
               "alt": ""
             }
           ]
+        },
+        {
+          "id": "6a15472c564f4ca1526704bc",
+          "title": "The Stadium Glow",
+          "slug": "professional-footballer-portrait-stadium-background",
+          "category": "Cinematic",
+          "category_slug": "cinematic",
+          "prompt": "Create a 8k hyper-realistic, cinematic full-body portrait of a professional soccer player standing confidently on a stadium pitch at night, designed to look like a premium social media sports photo.\nCentered, full-body framing with a slightly low camera angle. The body is turned slightly (around 10–20°), creating natural depth, while the face is oriented toward the camera for strong presence.\nThe player stands in a relaxed, confident way with one foot resting casually on a soccer ball. The stance feels effortless, with a subtle weight shift and natural asymmetry. Shoulders are slightly angled, not flat, adding a dynamic look without feeling posed.\nExpression is calm and self-assured with a subtle confident look and direct eye contact — not overly smiling, not intense, just natural confidence.\nWearing a modern professional white soccer kit with logos, realistic fabric texture and clean fit. The outfit should feel sharp and slightly enhanced, with natural folds and light catching on edges.\nA large packed stadium in the background with soft blur and bright stadium lights, creating depth. Add a subtle cinematic glow and gentle contrast so the subject stands out without looking artificial.\nLighting is clean but slightly enhanced — soft highlights on the face and a subtle rim light around the subject to create presence.\nUse natural but slightly boosted colors, clean skin tones, and a polished look while keeping realistic texture.\nShot in 4:5 aspect ratio, high detail, 50mm lens with shallow depth of field. The subject is sharp, background smoothly blurred.\nThe final image should look like a high-end Instagram sports post — realistic, slightly cinematic, confident, and visually striking without any AI artifacts.\nDo not change or alter the face and identity.",
+          "description": "Cinematic Sports Photography Prompt: Use this prompt to generate a realistic stadium portrait of a professional soccer player in a white kit standing with a ball under bright arena lights.",
+          "ai_tools": [
+            "Gemini"
+          ],
+          "like_count": 50,
+          "view_count": 1149,
+          "copy_count": 2404,
+          "is_premium": false,
+          "published_at": null,
+          "images": [
+            {
+              "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+              "local_path": "images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+              "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-1.webp",
+              "width": 928,
+              "height": 1152,
+              "alt": "Real Madrid Player in Stadium AI Photo Editing Prompt. AI generated cinematic portrait of a man in a white football kit standing with a soccer ball on a pitch under stadium lights."
+            },
+            {
+              "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+              "local_path": "images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+              "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-2.webp",
+              "width": 1856,
+              "height": 2304,
+              "alt": "Soccer Player in White Kit AI Photo Editing Prompt. AI generated cinematic portrait of a soccer player in a white jersey standing with a ball in a packed stadium."
+            },
+            {
+              "filename": "soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+              "local_path": "images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+              "original_url": "https://img.promptplum.com/promptImages/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/soccer-player-in-white-kit-standing-in-stadium-portrait-image-by-promptplum-3.webp",
+              "width": 1856,
+              "height": 2304,
+              "alt": "Soccer Player Cinematic Photography Prompt. AI generated cinematic portrait of a young athlete in a white football kit standing on a stadium pitch at night with a ball under his foot."
+            }
+          ]
         }
       ]
     },
     {
       "category": "Cyberpunk",
       "slug": "cyberpunk",
-      "total_prompts": 21,
+      "total_prompts": 20,
       "api_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/data/cyberpunk.json",
       "items": [
         {
@@ -1592,55 +1612,6 @@
           ]
         },
         {
-          "id": "6a15472c564f4ca1526703dc",
-          "title": "Timeless Gaze",
-          "slug": "old-man-neon-halo-portrait",
-          "category": "Cyberpunk",
-          "category_slug": "cyberpunk",
-          "prompt": "[USE THE UPLOADED IMAGE AS STRICT REFERENCE FOR SUBJECT & POSE]\nTask: Create a high-contrast, cinematic portrait of the specific male subject from the uploaded photo in a futuristic, cyberpunk/synthwave style.Composition: Vertical composition, 4:5 aspect ratio, framed from middle chest upward.Outfit: Wearing a black crew-neck t-shirt.\nSubject Identity & Pose (Strict Match):\nStrictly analyze the provided reference image to preserve the subject’s exact facial identity, bald head shape, and natural white beard structure. Recreate the exact pose: head turned slightly to the left, with a calm, intense, contemplative gaze directed off-camera to the left.\nGlasses / Eyewear:\nThe specific thick-framed black glasses with warm amber-tinted lenses seen in the reference. Neon lighting creates subtle reflections along the frame edges and lens surface without hiding the eyes.\nLighting & Color Behavior:\n\nLighting Style: Cinematic Triple-Light Setup. A vibrant neon circular halo behind the head (Primary), and a subtle, cool-toned overhead key light (Third Light) to define the crown of the head and forehead.\nColor Palette: High-contrast complementary scheme; intense Cyan-Teal from the left and fiery Amber-Orange from the right.\nLight Interaction: The cyan light creates a sharp 'edge-light' on the left silhouette. The amber light on the right is softer, kissing the edges of the shoulder and beard. The overhead light provides soft highlights on the bridge of the glasses, forehead, and cheekbones, revealing skin pores and micro-textures within the shadows.\nAtmosphere & Shadows:\nDeep Chiaroscuro effect; the center of the face remains in dramatic shadow with subtle subsurface scattering. Volumetric glow around the neon ring to add atmospheric haze and depth.\nTechnical Details:\nShallow depth of field. Eyes, glasses, and beard in sharp focus. Solid matte black background, clean and distraction-free. 8k resolution, photorealistic, highly detailed.",
-          "description": "Google Gemini AI Photo Editing Prompt: Create a cinematic digital portrait of an elderly man with a white beard and glasses, featuring a vibrant teal and orange neon halo against a dark, high-contrast background.",
-          "ai_tools": [
-            "Gemini"
-          ],
-          "like_count": 35,
-          "view_count": 884,
-          "copy_count": 1338,
-          "is_premium": false,
-          "published_at": null,
-          "images": [
-            {
-              "filename": "neon-halo-old-man-portrait-by-promptplum-2.webp",
-              "local_path": "images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-2.webp",
-              "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-2.webp",
-              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-2.webp",
-              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-2.webp",
-              "width": 1856,
-              "height": 2304,
-              "alt": "Neon Halo Old Man Portrait AI Photo Editing Prompt. AI generated digital portrait of an elderly man with a white beard and glasses featuring a glowing cyan and orange neon halo."
-            },
-            {
-              "filename": "neon-halo-old-man-portrait-by-promptplum-1.webp",
-              "local_path": "images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-1.webp",
-              "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-1.webp",
-              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-1.webp",
-              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-1.webp",
-              "width": 1856,
-              "height": 2304,
-              "alt": ""
-            },
-            {
-              "filename": "neon-halo-old-man-portrait-by-promptplum-3.webp",
-              "local_path": "images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-3.webp",
-              "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-3.webp",
-              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-3.webp",
-              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-3.webp",
-              "width": 1856,
-              "height": 2304,
-              "alt": ""
-            }
-          ]
-        },
-        {
           "id": "6a15472c564f4ca15267029d",
           "title": "Electric Cool",
           "slug": "comic-style-man-sunglasses-art",
@@ -1706,6 +1677,45 @@
               "width": 1856,
               "height": 2304,
               "alt": "Cinematic portrait of a man in a blazer and sunglasses, framed by a vibrant cyan neon ring. Set against a dark, smoky backdrop with sharp, professional studio lighting."
+            }
+          ]
+        },
+        {
+          "id": "6a15472c564f4ca1526703a0",
+          "title": "The Amber Square",
+          "slug": "side-profile-glowing-orange-frame",
+          "category": "Cyberpunk",
+          "category_slug": "cyberpunk",
+          "prompt": "Use the uploaded image as a strict facial identity reference.\n\nThe subject’s face shape, bone structure, skin tone, hairstyle, hairline, nose, jawline, eye placement, and sharp profile silhouette must remain extremely close to the reference.\n\nNo beautification, no stylization, no face reshaping, no identity drift.\n\nPreserve natural skin texture and realistic proportions, with slightly enhanced cinematic skin glow (not plastic, not smooth).\nMAIN CONCEPT\nCreate a striking cinematic side-profile portrait with a modern editorial / cyberpunk mood.\n\nThe scene balances intense neon rim glow with deep, controlled darkness.\n\nThe image must feel moody, premium, dramatic, and minimal.\nSUBJECT & COMPOSITION\nPose:\n\n• Sharp side profile\n\n• Facing right\n\n• Head straight, not tilted\nExpression:\n\n• Calm\n\n• Serious\n\n• Focused\n\n• Emotionally controlled\nEye Direction:\n\n• Looking forward (off-frame)\n\n• No eye contact with the camera\nFRAMING & ALIGNMENT\n• Subject occupies about 65% of the frame height\n\n• Head and shoulders visible\n\n• Upper chest slightly visible\n\n• Body angled left, face in right profile\nPositioning:\n\n• Subject placed slightly left of center\n\n• A glowing orange neon square is centered directly behind the head and shoulders\n\n• The head sits slightly above the vertical center of the square\nBACKGROUND\n• Completely dark\n\n• Flat and smooth\n\n• No visible texture\n\n• No noise, no grain\n\n• Only neon glow softly bleeding onto the wall\n\n• No visible details except light falloff\nWARDROBE\n• Dark matte blazer\n\n• Black turtleneck\n\n• No logos\n\n• No shine\n\n• No patterns\n\n• Fabric blends into shadows\nLIGHTING & GLOW\nPrimary Rim Light (Neon Backlight):\n\n• Very bright orange neon square\n\n• Strong glow\n\n• Creates a glowing outline on:\n\n– Hair edges\n\n– Forehead\n\n– Nose bridge\n\n– Lips\n\n– Chin\n\n– Jacket shoulder line\n\n• Light intensity: high but controlled (not blown)\nGlow Strength:\n\n• Bright neon\n\n• Soft bloom\n\n• Light halo around edges\n\n• No harsh clipping\nSecondary Fill Light (Very Subtle):\n\n• From front-right\n\n• Extremely soft\n\n• Just enough to show:\n\n– Skin texture\n\n– Eye contour\n\n– Nose shape\n\n• Face remains mostly in shadow\nShadow & Contrast:\n\n• Deep blacks\n\n• High contrast\n\n• Chiaroscuro style\n\n• Most of the body is in darkness\nSKIN & DETAIL\n• Skin tone: natural with slight warm enhancement\n\n• Visible pores and texture\n\n• No blur\n\n• No plastic smoothing\nCOLOR & TONE\n• Dominant: fiery neon orange\n\n• Shadows: deep charcoal black\n\n• Highlights: warm orange glow\n\n• Overall tone: dark, cinematic, high contrast\nCAMERA & TECHNICAL\n• Lens: 85mm portrait\n\n• Depth of Field: shallow\n\n• Subject: razor sharp\n\n• Background: soft and out of focus\n\n• Bloom: subtle glow around neon\n\n• Quality: hyper-realistic\n\n• Filmic cinematic look\nASPECT RATIO\n4:5 vertical\nNEGATIVE PROMPT\nFace distortion, identity mismatch, beauty filters, cartoon skin, flat lighting, low contrast, washed colors, overexposed neon, harsh clipping, noisy background, texture on wall, blur, watermark, text, artifacts, extra limbs, duplicate face.",
+          "description": "Get this 'Cinematic Side Profile' AI prompt. Generate photorealistic portraits with a glowing orange neon square, rim lighting, and a moody dark studio aesthetic.",
+          "ai_tools": [
+            "Gemini"
+          ],
+          "like_count": 18,
+          "view_count": 660,
+          "copy_count": 733,
+          "is_premium": false,
+          "published_at": null,
+          "images": [
+            {
+              "filename": "cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+              "local_path": "images/cyberpunk/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+              "original_url": "https://img.promptplum.com/promptImages/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cyberpunk/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cyberpunk/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-2.jpg",
+              "width": 1299,
+              "height": 1612,
+              "alt": "Cinematic side profile of a young man in a black suit, framed by a glowing orange neon square against a dark background."
+            },
+            {
+              "filename": "cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+              "local_path": "images/cyberpunk/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+              "original_url": "https://img.promptplum.com/promptImages/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+              "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cyberpunk/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+              "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cyberpunk/cinematic-profile-with-orange-neon-square-ai-photo-editing-prompt-1.png",
+              "width": 864,
+              "height": 1184,
+              "alt": "Cinematic profile of a woman framed by a glowing orange neon square, featuring dramatic warm rim lighting against a dark background."
             }
           ]
         }

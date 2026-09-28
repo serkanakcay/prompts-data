@@ -1,7 +1,7 @@
 {
   "category": "Festival",
   "slug": "festival",
-  "total_prompts": 17,
+  "total_prompts": 12,
   "updated_at": "2026-09-24T12:56:07Z",
   "prompts": [
     {
@@ -99,93 +99,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Gemini_Generated_Image_81mrr81mrr81mrr8"
-        }
-      ]
-    },
-    {
-      "id": "6a99a52b46d4207dc2280e14",
-      "title": "Beautiful Radha Portrait with Floral Jewelry and Flute",
-      "slug": "radha-krishna-theme-girl-mythological-portrait",
-      "category": "Festival",
-      "category_slug": "festival",
-      "prompt": "Use the uploaded image strictly ONLY for face and identity reference.\nCreate a photorealistic cinematic portrait of a beautiful woman dressed as a graceful divine-inspired Indian flute musician, centered in a vertical composition. She has smooth, glowing skin, subtle makeup, and a slight natural blush on her cheeks, voluminous smooth hair flowing naturally over her shoulders, adorned with delicate floral hair jewelry and a single elegant peacock feather. The subject is dressed in a traditional pastel blue lehenga set adorned with intricate gold embroidery—the blouse richly detailed with fine gold patterns, paired with a flowing matching skirt and a sheer dupatta draped elegantly over the arms. Delicate white-and-pink floral jewelry decorates her neck, wrists, upper arm, and ears. Elegant white traditional face art is painted across her forehead and around her eyes. She gently holds a polished wooden bansuri flute diagonally across her chest with both hands, standing with her body slightly angled while looking directly into the camera with a soft, and graceful smile.\nBackground: dreamy studio backdrop with a smooth cyan-blue glow on the left transitioning into warm peach-pink on the right, subtle atmospheric haze and soft bokeh.\nLighting: Cinematic soft beauty lighting, a slightly warm rim light from the right, gentle highlights on the hair and skin, and natural skin tones.\nComposition: medium-to-three-quarter portrait, subject centered, flute clearly visible, flowing hair creating elegant framing, shallow depth of field.\nCamera: 85mm portrait lens, f/1.8, soft background separation, high dynamic range, cinematic color grading, ultra-detailed skin and fabric textures, photorealistic, 8K resolution, 4:5 vertical aspect ratio.\nNegative prompt: distorted hands, extra fingers, extra limbs, bad anatomy, deformed face, unnatural eyes, plastic skin, duplicate objects, blurry subject, identity change.",
-      "description": "Cinematic Cultural Portrait Prompt: Copy and paste this prompt to generate a stunning, high-quality studio portrait of a beautiful Indian woman dressed as Radha, elegantly holding a wooden flute while adorned with pink floral jewelry and a peacock feather.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 2445,
-      "copy_count": 1496,
-      "is_premium": false,
-      "published_at": "2026-09-03T16:49:47.907Z",
-      "images": [
-        {
-          "filename": "3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "local_path": "images/festival/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/festival/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/festival/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Cinematic cultural portrait of an Indian woman holding a flute AI Photo Editing Prompt. AI generated studio portrait of a beautiful smiling girl dressed in a light blue embroidered lehenga, adorned with pink floral jewelry, a peacock feather in her hair, and traditional face art, holding a wooden bansuri against a colorful glowing background."
-        }
-      ]
-    },
-    {
-      "id": "6a887bd04bbdbe2cf5cd633f",
-      "title": "South Indian Bridal Portrait with Mehndi Hands",
-      "slug": "smiling-indian-bride-traditional-portrait",
-      "category": "Festival",
-      "category_slug": "festival",
-      "prompt": "Create a ultra-detailed photorealistic cinematic portrait of a beautiful woman wearing an elegant deep chocolate-brown silk saree with an intricate antique-gold floral brocade border and matching heavily embroidered blouse with three-quarter sleeves. She wears traditional gold jewelry including a layered temple-style necklace with a detailed pendant, ornate jhumka earrings, and delicate gold accessories. Her hair is neatly parted and styled into a low bun adorned with slightly fresh white jasmine gajra. A small black bindi rests between her eyebrows. Both hands and wrists are decorated with traditional henna (mehndi) patterns on the skin, and adorned with stacked gold bangles on the wrists.\nShe faces the camera directly with a graceful, confident expression, relaxed posture, and hands gently folded near her waist level. Medium close-up composition, centered subject, elegant traditional Indian bridal aesthetic.\nWarm-golden cinematic side lighting coming from the upper right creates soft highlights on her face, jewelry, and silk fabric, with subtle rim light outlining her hair. Dark smooth neutral gray studio background, clean and uncluttered, shallow depth of field, luxurious editorial mood.\n85mm portrait lens, f/1.6, ISO 100, natural skin texture, realistic facial details, accurate anatomy, detailed silk and embroidery textures, cinematic color grading, soft bokeh, HDR, ultra-photorealistic, 8K resolution, vertical composition, aspect ratio 4:5 . No text, no watermark, no identity change, no extra people, no distorted anatomy.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a studio portrait of a smiling Indian bride in a maroon Banarasi silk saree, layered gold temple jewelry, and hennaed hands.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 23,
-      "view_count": 925,
-      "copy_count": 879,
-      "is_premium": false,
-      "published_at": "2026-08-21T16:24:48.694Z",
-      "images": [
-        {
-          "filename": "782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "local_path": "images/festival/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/festival/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/festival/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "width": 1236,
-          "height": 1600,
-          "alt": "Indian Bride in Banarasi Silk Saree with Gold Temple Jewelry Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Indian woman in a maroon Banarasi silk saree, layered gold temple necklaces, jhumka earrings, and intricately hennaed hands."
-        }
-      ]
-    },
-    {
-      "id": "6a60ee784e919e1ec2425aa6",
-      "title": "Portrait of a Celebration",
-      "slug": "magenta-silk-saree-festive-look",
-      "category": "Festival",
-      "category_slug": "festival",
-      "prompt": "Create a photorealistic, high-end traditional Indian portrait of a beautiful woman seated gracefully indoors during a festive celebration, wearing a rich magenta silk saree with intricate gold floral embroidery along the border and matching embroidered blouse. She is adorned with elegant traditional gold jewelry including jhumka earrings, layered bangles, and a delicate gold necklace. Fresh white jasmine flowers are tucked into her hair cascading over one shoulder. She smiles warmly while looking directly at the camera, creating a friendly and inviting expression.\nThe composition is a medium portrait framed from the knees up, with the subject positioned slightly off-center. One hand gently rests on her lap while the other is raised near her chin in a relaxed pose. The setting features warm festive décor with glowing fairy lights, marigold garlands, and soft golden bokeh lights in the background. Vibrant pink bougainvillea flowers appear on one side of the frame, adding color and depth.\nSoft warm ambient lighting illuminates her face with natural skin tones, subtle highlights, and smooth shadows. Shallow depth of field creates creamy background blur, emphasizing the subject while maintaining a luxurious festive atmosphere. Ultra-realistic photography, high-end portrait, cinematic lighting, vibrant colors, detailed fabric texture, intricate embroidery details, realistic jewelry reflections, professional DSLR quality, 85mm lens, f/1.8, sharp focus on eyes, natural beauty, elegant Indian festival portrait, 8K resolution.\nAspect ratio 4:5.",
-      "description": "Festive Indian Portrait Photography Prompt: Copy & Paste this Prompt to create an image of an elegant woman in a traditional magenta silk saree with gajra and festive lights.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 22,
-      "view_count": 1257,
-      "copy_count": 1422,
-      "is_premium": false,
-      "published_at": "2026-07-22T16:23:20.469Z",
-      "images": [
-        {
-          "filename": "6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "local_path": "images/festival/6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/festival/6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/festival/6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Festive Indian Saree Portrait AI Photo Editing Prompt. AI generated festive portrait of a smiling woman wearing a magenta silk saree, gajra flowers, and jewelry, seated amidst decorative lights and bougainvillea."
         }
       ]
     },
@@ -364,45 +277,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670296",
-      "title": "A Merry Little Christmas Morning",
-      "slug": "a-merry-little-christmas-morning",
-      "category": "Festival",
-      "category_slug": "festival",
-      "prompt": "A cozy Christmas indoor scene featuring a young woman sitting cross-legged on a soft carpet in front of a glowing fireplace. She is wearing red Christmas pajamas with white snowflake patterns, matching red socks, and a classic red Santa hat with white fur trim. She has long wavy brown hair, soft glam makeup with red lipstick, and a warm gentle smile. She is holding a fluffy red teddy bear in her arms, hugging it close to her chest. Behind her is a beautifully decorated Christmas tree with warm golden lights, red and gold ornaments, and wrapped gift boxes with striped paper and bows placed around the tree. Lighting: warm fireplace glow illuminating her face, soft bokeh Christmas lights in the background, cozy and intimate festive atmosphere. Ultra-realistic 8k, DSLR quality, shallow depth of field, soft shadows, smooth skin details, cinematic Christmas portrait style. the young women's face matches the uploaded reference image.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 8,
-      "view_count": 467,
-      "copy_count": 312,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251209_151418.jpg",
-          "local_path": "images/festival/IMG_20251209_151418.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251209_151418.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/festival/IMG_20251209_151418.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/festival/IMG_20251209_151418.jpg",
-          "width": 1824,
-          "height": 2311,
-          "alt": "Gemini Generated Image: A woman in red, snowflake-patterned Christmas pajamas and a Santa hat is sitting cross-legged on the floor. She is holding a red teddy bear and smiling, with a lit fireplace on the left and a decorated Christmas tree on the right in the background."
-        },
-        {
-          "filename": "Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "local_path": "images/festival/Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/festival/Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/festival/Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "width": 270,
-          "height": 332,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670295",
       "title": "Cozy Christmas Nights",
       "slug": "cozy-christmas-nights",
@@ -477,35 +351,6 @@
           "width": 582,
           "height": 873,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267026c",
-      "title": "The Royal Bride",
-      "slug": "the-royal-bride",
-      "category": "Festival",
-      "category_slug": "festival",
-      "prompt": "Without changing facial feature and face \"A close-up portrait of an Indian bride, with her eyes gently closed in a moment of calm reflection. A delicate, sheer red dupatta is draped over her head, subtly catching the light and creating a graceful, flowing effect. She is wearing a richly embroidered deep red or maroon lehenga blouse and skirt, adorned with intricate gold thread work. Her jewelry is elaborate and traditional: a heavy gold choker necklace, a long layered rani haar necklace with a distinctive black pendant, large gold jhumka earrings, a traditional nath (nose ring), and a maang tikka. Her hair is styled neatly, possibly with a side part. The background is softly blurred with warm, neutral tones, suggesting an elegant indoor setting. The lighting is soft, warm, and atmospheric, highlighting her features and the textures of her attire and jewelry. High-resolution, cinematic portrait photography, rich in detail and emotion.'Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1192,
-      "copy_count": 2121,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_002557.jpg",
-          "local_path": "images/festival/IMG_20251205_002557.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_002557.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/festival/IMG_20251205_002557.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/festival/IMG_20251205_002557.jpg",
-          "width": 1888,
-          "height": 2258,
-          "alt": "Gemini Generated Image: a beautiful Indian bride in a traditional red and gold wedding outfit (lehenga/saree and dupatta). She is wearing heavy, elaborate gold jewelry, including a choker, long necklaces, large earrings, and a maang tikka (forehead ornament), with her eyes closed. The background is softly lit and looks like a rich indoor setting."
         }
       ]
     },

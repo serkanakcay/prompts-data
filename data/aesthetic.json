@@ -1,7 +1,7 @@
 {
   "category": "Aesthetic",
   "slug": "aesthetic",
-  "total_prompts": 75,
+  "total_prompts": 67,
   "updated_at": "2026-09-24T12:50:22Z",
   "prompts": [
     {
@@ -935,194 +935,6 @@
       ]
     },
     {
-      "id": "6a68de334bbdbe2cf5c7597c",
-      "title": "Double Exposure B&W Couple By Lake Portrait",
-      "slug": "bw-double-exposure-couple-lake-portrait",
-      "category": "Aesthetic",
-      "category_slug": "aesthetic",
-      "prompt": "Create a cinematic double-exposure black-and-white romantic portrait of a couple standing back-to-back while holding hands, both with their eyes gently closed and peaceful expressions, symbolizing love, trust, and emotional connection. Captured in an eye-level camera angle with a medium composition. The woman wears an elegant sleeveless flowing black dress with long wavy hair, while the man wears a fitted black button-up shirt and dark trousers with a neatly styled hair. Large, soft-faded monochrome side-profile portraits of both faces are blended into the cloudy sky above, creating a dreamy, emotional composition. The background features a calm mountain lake surrounded by misty hills, soft fog, and an overcast sky. Fine-art monochrome photography, subtle film grain, soft diffused lighting, smooth tonal contrast, ultra-realistic skin texture, cinematic depth, shallow depth of field, perfectly balanced composition, emotional storytelling, high dynamic range, 85mm lens, f/2, 8K resolution, photorealistic, masterpiece quality, no text, no watermark, no distortion. Aspect ratio 4:5.",
-      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a moody B&W image of a couple holding hands back-to-back beneath fading faces in a cloudy sky.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 128,
-      "view_count": 8277,
-      "copy_count": 9975,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:52:03.908Z",
-      "images": [
-        {
-          "filename": "3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "local_path": "images/aesthetic/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "B&W Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated conceptual double-exposure portrait of a B&W couple, eyes closed, holding hands back-to-back over a misty mountain lake with large faded ghost profile faces in the cloudy sky."
-        },
-        {
-          "filename": "a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "local_path": "images/aesthetic/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Black and White Double Exposure Portrait AI Photo Editing Prompt. AI generated surreal double exposure portrait of a monochrome couple standing back-to-back with eyes closed by a misty lake, featuring larger versions of their profile faces superimposed over the cloudy sky."
-        },
-        {
-          "filename": "f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "local_path": "images/aesthetic/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Portrait AI Photo Editing Prompt. AI generated portrait art of a couple standing back-to-back with faded faces over a misty lake."
-        }
-      ]
-    },
-    {
-      "id": "6a63bf0db99e3a48ae8f1282",
-      "title": "Trending Doodle Shadow",
-      "slug": "real-photo-doodle-art-portrait",
-      "category": "Aesthetic",
-      "category_slug": "aesthetic",
-      "prompt": "Use the uploaded character reference image as the strict identity and outfit reference. Preserve the reference character’s face identity, facial proportions, eye shape, nose, lips, skin tone, hairstyle, hair color, visible accessories, overall recognizable vibe, outfit and styling shown in the reference image\n\nDo not hardcode any specific character traits that are not present in the uploaded reference.\nAll identity, hairstyle, accessories, and clothing details must be inferred directly from the uploaded reference image.\n\nCreate a high-quality mixed-style vertical portrait showing:\n1. a realistic full-body version of the uploaded character/person\n2. a black hand-drawn doodle-shadow version of the same character/person on the wall beside them\n\nCore concept:\nThe real person and their doodle-shadow are doing a playful mischievous pose together.\nThe real person performs a cute realistic version of the pose, while the doodle-shadow performs a much more exaggerated, chaotic, cartoonish version of the same pose idea.\nThe mood should feel cute, playful, mischievous, stylish, funny, and social-media-friendly.\n\nReal person:\n- Must remain realistic and photogenic\n- Must wear the same outfit style and key visible details from the uploaded reference image\n- Do not replace the reference styling with unrelated fashion\n- Expression should be cute, slightly confused, mildly embarrassed, playful, as if thinking: “Why am I doing this with my shadow?”\n- The real person should not stand stiffly\n- The real person should actively participate in the pose, but in a natural realistic way\n\nDoodle-shadow:\n- Must be a black hand-drawn sketch version of the same person, drawn directly on the wall\n- Not a realistic second person\n- Not a normal physical shadow\n- Not a full-color anime character\n- Black sketch line-art only\n- Should resemble the person through hairstyle silhouette, accessories, outfit silhouette, and pose structure\n- The doodle-shadow should look more energetic, sillier, and more chaotic than the real person\n- Add manga-like motion lines, hearts, stars, sparkles, and comic marks around the doodle if helpful\n\nRandom mischievous pose rule:\nThe pose must NOT be fixed.\nFor each generation, invent a new playful mischievous pose for both the real person and the doodle-shadow.\nThe real person and the doodle-shadow should share the same general pose idea, but they do not need to match perfectly.\nThe real person performs a cute realistic version.\nThe doodle-shadow performs a much more exaggerated, chaotic, cartoonish version.\n\nDo not repeatedly use pointing poses.\nDo not repeatedly use finger-gun poses.\nDo not repeatedly use the same standing pose.\nDo not always make both figures simply point at each other.\n\nCreate a different mischievous pose each time.\n\nPossible pose directions are loose inspiration only, not a fixed menu:\n- playful idol pose\n- silly dance pose\n- leaning sideways with one arm curved overhead\n- making a big heart pose\n- cheeky wink pose\n- hands near cheeks in a cute teasing pose\n- exaggerated “that's it!” pose\n- mock surprise pose\n- playful running-in-place pose\n- mischievous tiptoe pose\n- arms stretched in opposite directions\n- pretending to sneak away\n- cute troublemaker pose\n- dramatic overreaction pose\n- goofy victory pose\n- playful balance pose\n- playful peekaboo pose\n- shy but mischievous pose\n- cute overconfident pose\n\nThe final pose should feel fresh, cute, mischievous, and slightly chaotic.\nThe real person should look like they are reluctantly playing along.\nThe doodle-shadow should look like it is having way too much fun.\n\nComposition:\n- vertical 3:4 or 2:3\n- show the real person in full-body or nearly full-body framing\n- place the real person on one side of the frame\n- place the black doodle-shadow on a clean wall beside them\n- the doodle-shadow should be roughly the same height or slightly taller\n- keep enough space around both figures so the full pose is visible\n- the connection between the real person and the doodle-shadow must be clear at a glance\n\nBackground:\n- simple clean indoor studio wall or minimal room corner\n- white, cream, or pale gray wall\n- clean floor\n- soft natural sunlight patch or gentle wall shadow allowed\n- keep the background uncluttered\n\nLighting:\n- soft natural studio lighting\n- bright, clean, polished, playful mood\n- keep the real person’s face clearly visible\n\nStyle quality:\n- realistic human photography\n- black hand-drawn doodle-shadow on wall\n- matching mischievous pose interaction\n- strong identity resemblance\n- outfit and styling faithfully based on the uploaded reference\n- cute and stylish mixed-media portrait\n- clean composition\n- social-media-friendly\n- no obvious AI artifacts\n\nNegative prompt:\nOutfit change unrelated to reference, realistic second person, normal reflection, normal shadow only, solid black monster shadow, horror shadow, creepy shadow, full-color illustration, cartoon human, anime human, weak resemblance, unrelated sketch character, messy wall, cluttered background, repeated pointing pose, repeated finger-gun pose, same pose every time, fixed pose, boring mirrored pose, stiff pose, identical pose repetition, real person not matching shadow pose, text, watermark, logo, distorted body, extra limbs, extra fingers, bad hands.",
-      "description": "Trending Instagram Doodle Art AI Prompt: Use this prompt to create a realistic studio portrait of a person with an expressive 2D comic doodle on a white wall.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 77,
-      "view_count": 2913,
-      "copy_count": 2018,
-      "is_premium": false,
-      "published_at": "2026-07-24T19:37:49.373Z",
-      "images": [
-        {
-          "filename": "996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "local_path": "images/aesthetic/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-10"
-        },
-        {
-          "filename": "74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "local_path": "images/aesthetic/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "original_url": "https://img.promptplum.com/promptImages/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Conceptual Photo Doodle AI Photo Editing Prompt. AI generated conceptual portrait of a young man in a white pinstripe shirt poking his cheeks, standing next to a large line-art doodle of his fearfully screaming self with 'EEK!' and 'RAWR!' text."
-        },
-        {
-          "filename": "7b187122-7775-421e-baec-58288223dfe9.webp",
-          "local_path": "images/aesthetic/7b187122-7775-421e-baec-58288223dfe9.webp",
-          "original_url": "https://img.promptplum.com/promptImages/7b187122-7775-421e-baec-58288223dfe9.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/7b187122-7775-421e-baec-58288223dfe9.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/7b187122-7775-421e-baec-58288223dfe9.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Real Photo with Doodle Art AI Prompt. AI generated mixed media portrait of a woman adjusting her glasses beside a playful black-and-white doodle sketch."
-        },
-        {
-          "filename": "ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "local_path": "images/aesthetic/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-7"
-        },
-        {
-          "filename": "2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "local_path": "images/aesthetic/2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Photo and Comic Sketch Composite AI Photo Editing Prompt. AI generated digital illustration and photo composite portrait of a smiling woman in black and brown clothing next to a hand-drawn comic sketch version of herself"
-        },
-        {
-          "filename": "9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "local_path": "images/aesthetic/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "original_url": "https://img.promptplum.com/promptImages/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Real Photo with Doodle Art AI Photo Editing Prompt. AI generated mixed-media illustration of a smiling man peeking from behind a white wall next to an excited black-and-white cartoon line drawing of himself."
-        },
-        {
-          "filename": "985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "local_path": "images/aesthetic/985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "original_url": "https://img.promptplum.com/promptImages/985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Real Photo and Doodle Art AI Photo Editing Prompt. AI generated mixed media portrait of a winking woman in a pink sweater standing next to a playful black-and-white line illustration."
-        },
-        {
-          "filename": "b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "local_path": "images/aesthetic/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "original_url": "https://img.promptplum.com/promptImages/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Doodle Art Photography AI Photo Editing Prompt. AI generated mixed media portrait of a smiling young man posing beside an excited cartoon doodle giving him bunny ears."
-        },
-        {
-          "filename": "b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "local_path": "images/aesthetic/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "original_url": "https://img.promptplum.com/promptImages/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Woman with Doodle Art Overlay AI Photo Editing Prompt. AI generated mixed media portrait of a smiling woman in a blue cardigan and jeans posing beside her cartoon line art sketch."
-        },
-        {
-          "filename": "24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "local_path": "images/aesthetic/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "original_url": "https://img.promptplum.com/promptImages/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Cartoon Doodle Art AI Photo Editing Prompt. AI generated mixed media portrait of a smiling woman in an orange top posing next to an excited black-and-white line art sketch of herself on a white wall."
-        },
-        {
-          "filename": "614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "local_path": "images/aesthetic/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "original_url": "https://img.promptplum.com/promptImages/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "AI generated photo-illustration shows a man making a shush gesture against a wall featuring a matching black line art sketch."
-        },
-        {
-          "filename": "ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "local_path": "images/aesthetic/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-11"
-        }
-      ]
-    },
-    {
       "id": "6a63811db99e3a48ae86270d",
       "title": "Hooded Hidden Portrait",
       "slug": "black-and-white-boy-profile",
@@ -1177,35 +989,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Cinematic Autumn Forest Boy Portrait AI Photo Editing Prompt. AI generated realistic portrait of a young man peacefully asleep on a leaning tree trunk in sunlit woods, wearing a red plaid shirt."
-        }
-      ]
-    },
-    {
-      "id": "6a53c4377877e7a4d7a58446",
-      "title": "A Moment on the European Street",
-      "slug": "aesthetic-sunflower-street-girl-portrait",
-      "category": "Aesthetic",
-      "category_slug": "aesthetic",
-      "prompt": "Create a photorealistic, ultra-detailed lifestyle portrait of a woman sitting casually on the edge of a cobblestone sidewalk in front of a charming European-style brick house. She has natural hair, and a gentle, natural smile while looking directly at the camera. She rests her left cheek on her left hand in a relaxed pose and holds a bouquet of vibrant yellow sunflowers wrapped in brown kraft paper across her lap.\nOutfit: An oversized dark forest-green knit sweater, loose taupe wide-leg trousers, white crew socks, and white leather sneakers.\nComposition: Vertical full-body portrait from a low eye-level angle, subject positioned slightly off-center, seated naturally with legs extended forward, bouquet prominently visible, shallow depth of field.\nBackground: A quiet residential street featuring red-brick buildings, large white-framed windows with potted plants, a black front door, cobblestone pavement, and subtle greenery, softly blurred for depth.\nLighting: Warm natural golden-hour sunlight filtering through nearby trees, creating soft dappled light and gentle shadows across the scene with a cozy, cinematic atmosphere.\nStyle: Hyper-realistic, candid lifestyle photography with authentic skin texture, detailed knit fabric, realistic flower textures, natural colors, soft bokeh, premium editorial aesthetic.\nCamera: Full-frame DSLR, 85mm lens, f/1.6, ISO 100, 1/500s, shallow depth of field, crisp focus on the subject, 8K ultra-high resolution.\nAspect ratio 4:5.",
-      "description": "Urban Portrait Photography Prompt: Copy & paste this prompt to create a realistic portrait of a smiling woman sitting on a cobblestone curb with sunflowers.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 49,
-      "view_count": 2269,
-      "copy_count": 3031,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "local_path": "images/aesthetic/6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/6a0c0f0f-40ef-47fd-b943-e563cbd85d61.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Woman with Sunflowers Urban Street Portrait AI Photo Editing Prompt. AI generated portrait of a smiling woman holding a sunflower bouquet while sitting on a cobblestone curb."
         }
       ]
     },
@@ -1826,45 +1609,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526701ec",
-      "title": "Cute Girl",
-      "slug": "cute-girl",
-      "category": "Aesthetic",
-      "category_slug": "aesthetic",
-      "prompt": "Use the uploaded image strictly as the facial identity reference. Preserve the exact facial structure, proportions, and likeness—do not alter or distort the identity.\nCreate a highly realistic yet soft and visually pleasing photo of a young woman wearing an oversized white knit sweater with a light blue floral pattern.\nComposition & Pose:\n\nHalf-body portrait, shot from a slightly low angle. The subject is gently turned toward the camera, chin slightly raised. Eyes closed with a calm, dreamy expression and a soft, delicate smile.\nEnvironment & Background:\n\nClear blue sky background with a soft, natural-looking heart-shaped cloud placed above and slightly to the right side of the subject. Minimal, clean, and aesthetic.\nLighting:\n\nSoft natural daylight with a gentle glow. Even lighting with smooth highlights and very soft shadows to enhance a cute, airy feel.\nFacial Rendering:\n\nSkin should appear smooth, healthy, and naturally soft (not overly textured, not plastic). Keep a subtle, clean makeup look with a fresh and youthful glow.\nDetails:\n\nSoft, slightly voluminous hair with natural flow\n\nClean edges, no harsh contrast\n\nBright, pleasant color tone\n\nSharp focus on face and upper body with mild background softness\nStyle:\n\nPhotorealistic with a soft, dreamy, cute aesthetic. High clarity, 1:1 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 48,
-      "view_count": 1683,
-      "copy_count": 2792,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
-          "local_path": "images/aesthetic/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-1.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": ""
-        },
-        {
-          "filename": "woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
-          "local_path": "images/aesthetic/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/woman-smiling-under-heart-cloud-portrait-image-by-promptplum-2.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703ed",
       "title": "The Unsent Bouquet",
       "slug": "aesthetic-man-white-bouquet-ocean-blue-hour",
@@ -2379,35 +2123,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670251",
-      "title": "Relaxing in the Garden",
-      "slug": "relaxing-in-the-garden",
-      "category": "Aesthetic",
-      "category_slug": "aesthetic",
-      "prompt": "Use the uploaded photo for face reference and create a portrait of a Bathed in warm sunlight, a young man with wavy hair sits relaxed on a small rustic wooden bench against a pastel blue wall, softened by lush green plants and small trees. His cream oversized sweatshirt tinged with light blue harmonizes with the backdrop, paired with loose light denim jeans and pristine white sneakers. Gentle shadows play across his calm, confident face and natural skin tone, illuminated by natural light that glistens subtly on his hair. The concrete floor, scattered with a few fallen leaves, adds warm earth tones to the scene. In the foreground and softly blurred background, hints of green leaves create depth through creamy bokeh captured with a 50mm f/1.4 lens. A minimal silver bracelet reflects the understated 90s vibe. The composition vertically frames his upper body with precise focus, showcasing realistic textures on fabric, skin, and hair, conveying a serene blue-green harmony in ultra-realistic cinematic lighting.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 47,
-      "view_count": 1817,
-      "copy_count": 4147,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251203_140632.jpg",
-          "local_path": "images/aesthetic/IMG_20251203_140632.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251203_140632.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/IMG_20251203_140632.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/IMG_20251203_140632.jpg",
-          "width": 1696,
-          "height": 2469,
-          "alt": "Gemini Generated Image: A young man is sitting on a wooden bench outdoors, surrounded by potted plants. He is wearing a light-colored, tie-dye sweatshirt, light-wash jeans, and white sneakers."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670248",
       "title": "Leather & Lens Flare",
       "slug": "leather-lens-flare",
@@ -2582,35 +2297,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670222",
-      "title": "Solid deep wine-colored wall",
-      "slug": "solid-deep-wine-colored-wall",
-      "category": "Aesthetic",
-      "category_slug": "aesthetic",
-      "prompt": "A full-body, camera look-angle portrait of a handsome myself like a 22-year-old boy, approximately 5'11\" tall. He is sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating a 90s movie and romantic, windy environment. He is wearing a perfect red wine-colored, retro aesthetic shirt with matching pants and white sneakers. He has a silver watch and is holding a single rose flower in hand. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 1778,
-      "copy_count": 3568,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "local_path": "images/aesthetic/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Ai generated image of a boy sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating a 90s movie and romantic, windy environment"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670216",
       "title": "Urban environment at golden hour",
       "slug": "urban-environment-at-golden-hour",
@@ -2665,35 +2351,6 @@
           "width": 832,
           "height": 1248,
           "alt": "Ai generated image of men in blu sky"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670213",
-      "title": "Woman plays acoustic guitar",
-      "slug": "woman-plays-acoustic-guitar",
-      "category": "Aesthetic",
-      "category_slug": "aesthetic",
-      "prompt": "Create a soft, natural, photorealistic outdoor portrait of a person seated on a simple wooden chair, gently playing an acoustic guitar in daylight. The subject is positioned slightly right of center, body angled subtly toward the left, with the head tilted downward and eyes focused on the guitar strings, conveying a calm, introspective mood.\nOutfit consists of a clean, minimal white sleeveless ribbed top paired with fitted light blue jeans, maintaining a simple and modern aesthetic. Hair is tied back in a neat low ponytail with a few soft strands framing the face, adding natural elegance. Expression is serene and focused, with a relaxed, peaceful feel.\nThe acoustic guitar features warm natural wood tones with visible grain texture, held comfortably across the lap, one hand forming chords on the fretboard while the other gently strums near the sound hole.\nBackground is a neutral gray wall with a smooth matte finish, clean and distraction-free, with absolutely no greenery, plants, or additional elements. The scene is outdoors, illuminated by soft natural daylight, creating gentle highlights and mild shadows without harsh contrast or overexposure.\nCamera angle is eye-level with a slight downward perspective, framed as a medium shot (waist-up), ensuring both the subject and guitar are clearly visible. Composition is minimal and balanced with subtle negative space.\nTechnical details: ultra-realistic, high resolution, natural color grading, soft contrast, shallow depth of field, 50mm lens look, f/2.8 aperture, crisp focus on subject, softly blurred background, lifestyle photography style. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 44,
-      "view_count": 1473,
-      "copy_count": 2309,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764161793490.png",
-          "local_path": "images/aesthetic/1764161793490.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764161793490.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/1764161793490.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/1764161793490.png",
-          "width": 960,
-          "height": 1088,
-          "alt": "Ai generated image of Woman playing acoustic guitar"
         }
       ]
     },
@@ -2859,35 +2516,6 @@
           "width": 1792,
           "height": 2400,
           "alt": "Gemini_Generated_Image_4lu9vw4lu9vw4lu9"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701f6",
-      "title": "Yellow Saree with sunflowers",
-      "slug": "yellow-saree-with-sunflowers",
-      "category": "Aesthetic",
-      "category_slug": "aesthetic",
-      "prompt": "Use the uploaded image as the ONLY face & identity reference.\nCreate a soft, sunlit portrait of the subject wearing a flowing sheer yellow saree with delicate white floral embroidery. The mood is serene, poetic, and romantic with a warm golden glow.\nPose & Expression:\nShe is seated gracefully against a plain wall, body slightly angled, holding a bouquet of sunflowers close to her chest with both hands. Expression is calm, gentle, and softly confident, with a subtle, natural smile. Eyes are relaxed and looking directly into the camera.\nOutfit & Styling:\nElegant yellow saree with sheer drape and fine embroidery details. Loose, softly styled hair with a small white flower tucked behind the ear. Minimal traditional jewelry (earrings).\nComposition & Framing:\nWaist-up to mid-thigh portrait (seated framing), vertical 4:5 ratio. Subject slightly right of center with balanced negative space.\nLighting:\nWarm natural sunlight coming from the side, creating a strong triangular patch of light on the wall. Soft highlights on face and saree, with gentle shadow falloff adding depth and mood.\nBackground:\nMinimal plain wall with artistic sunlight-shadow pattern. Clean, distraction-free environment.\nMood & Style:\nDreamy, golden-hour aesthetic with soft contrast, natural skin texture, and cinematic warmth.\nTechnical Details:\nUltra-realistic, high detail, soft shadows, natural color grading, 85mm lens look, shallow depth of field.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 136,
-      "view_count": 7562,
-      "copy_count": 16444,
-      "is_premium": false,
-      "published_at": "2026-09-05T10:10:26.085Z",
-      "images": [
-        {
-          "filename": "1763939369961.png",
-          "local_path": "images/aesthetic/1763939369961.png",
-          "original_url": "https://img.promptplum.com/promptImages/1763939369961.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/aesthetic/1763939369961.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/aesthetic/1763939369961.png",
-          "width": 928,
-          "height": 1120,
-          "alt": "AI Generated image of \"Beautiful young women in yellow saree, holding flowers\""
         }
       ]
     },

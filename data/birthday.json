@@ -1,7 +1,7 @@
 {
   "category": "Birthday",
   "slug": "birthday",
-  "total_prompts": 24,
+  "total_prompts": 23,
   "updated_at": "2026-09-24T12:51:37Z",
   "prompts": [
     {
@@ -744,35 +744,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "A birthday star in a ruffled pink dress and white boots poses on a cake stool, framed by gold balloons and confetti. A celebratory scene full of pink charm!"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703b1",
-      "title": "The Golden Wish",
-      "slug": "woman-gold-dress-birthday-cake-spotlight",
-      "category": "Birthday",
-      "category_slug": "birthday",
-      "prompt": "Create a cinematic, high-fashion editorial portrait with a warm, monochromatic color palette that conveys a luxurious, celebratory, and regal atmosphere. The image should feel elegant, intimate, and professionally photographed, similar to a premium fashion magazine birthday editorial.\n\nSubject & Identity (Strict)\nUse the reference image as a strict identity guide. The subject’s face must match the reference exactly. Preserve facial structure, proportions, skin tone, hairstyle, hair color, and natural facial features without beautification, reshaping, or stylization. Maintain realistic skin texture and natural expression.\nThe subject is a young woman with long, flowing natural hair styled in soft, loose waves. She is captured in profile, gently leaning forward as she prepares to blow out birthday candles. Her expression is calm, serene, and focused, creating a soft, intimate moment.\n\nWardrobe & Styling\nThe subject wears a princess type dramatic, floor-length champagne-gold ball gown. The dress features long sleeves and is transparently covered with fine sequins and glitter that reflect light subtly, producing a shimmering, luxurious texture. The silhouette is full and voluminous, enhancing a regal presence.\nShe wears a delicate silver-toned tiara or crown encrusted with small crystals, reinforcing a refined “birthday queen” aesthetic. Styling remains elegant and timeless rather than extravagant.\n\nThe Centerpiece (Cake)\nThe subject holds a two-tier vintage Lambeth-style birthday cake positioned at chest height. The cake is decorated with intricate white and gold buttercream piping, ornamental swags, and small edible gold pearl accents.\nOn top sits a metallic gold “Happy Birthday” script topper. Several thin candles are lit, with small warm flames visible as the subject gently blows toward them, capturing a moment of anticipation.\n\nLighting & Background\nThe lighting is the primary visual element.\n\nA strong circular spotlight is projected onto a warm beige background, creating a halo effect centered behind the subject.\nLighting style follows a dramatic chiaroscuro approach, with a hard-edged spotlight and soft falloff toward the edges.\nA sharp, well-defined shadow of the subject and the cake topper appears on the wall within the spotlight, adding depth and visual storytelling.\nThe background remains minimal, smooth, and free of distractions.\nColor & Mood\nThe entire image follows a warm tonal palette consisting of gold, champagne, cream, and warm brown hues. The color temperature is very warm (approximately 3000K–3500K), enhancing metallic reflections and creating a nostalgic, cinematic atmosphere.\n\nTechnical Photography Details\nEditorial fashion photography style\nDSLR quality, ultra-realistic rendering\nMedium depth of field; subject and cake in sharp focus, background softly diffused\nCentral composition with a slight forward lean creating gentle movement\nSoft filmic contrast with rich highlights and controlled shadows\nHigh resolution (4K–8K quality)\nAspect ratio: 4:5\nOverall Vibe\nLuxury, celebratory, elegant, and cinematic — a refined birthday portrait that feels timeless, regal, and editorial rather than casual.",
-      "description": "Generate a stunning golden spotlight portrait with this professional AI prompt. Create high-quality images of a woman in a shimmering sequined gown and tiara, holding an elegant two-tier birthday cake.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 76,
-      "view_count": 4213,
-      "copy_count": 6432,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "local_path": "images/birthday/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "original_url": "https://img.promptplum.com/promptImages/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/birthday/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/birthday/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A woman in a gold sequined gown and tiara holds a birthday cake in a circular spotlight. She's blowing out a candle, casting a dramatic shadow against a tan, cinematic backdrop."
         }
       ]
     },

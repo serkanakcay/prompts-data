@@ -1,7 +1,7 @@
 {
   "category": "Monochrome Art",
   "slug": "monochrome-art",
-  "total_prompts": 14,
+  "total_prompts": 13,
   "updated_at": "2026-09-24T13:09:59Z",
   "prompts": [
     {
@@ -401,55 +401,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Blue Ink Woman Portrait AI Photo Editing Prompt. AI generated ballpoint pen illustration of a young woman with voluminous wavy hair looking thoughtfully to the side."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704ab",
-      "title": "The Weighted Bloom",
-      "slug": "double-exposure-couple-portrait",
-      "category": "Monochrome Art",
-      "category_slug": "monochrome-art",
-      "prompt": "Create an artistic and emotionally powerful grey-and-white prewedding photograph using a refined double exposure technique.\nThe composition features two merged profile portraits forming a single harmonious silhouette.\nOn the left side, the woman is shown in an elegant side profile, facing left. Her hair is styled softly with natural flow (loose waves or gently tucked behind the ear). She wears a modest, refined bridal gown with delicate fabric textures. Her expression carries a gentle, sincere smile with soft, hopeful eyes.\nOn the right side, the man appears in a side profile facing right, with his gaze slightly lowered. His expression is calm and filled with quiet admiration and love. He is dressed in a well-tailored formal suit.\nBoth profiles blend seamlessly into each other, creating a romantic and balanced double exposure effect. The edges should merge smoothly without harsh transitions, forming a unified silhouette.\nThe background is clean, light gray with faint hints of natural scenery subtly visible within the exposure. Lighting is soft yet dramatic, enhancing facial contours, hair texture, and gentle shadows to emphasize depth and emotion.\nStyle should feel like a timeless studio portrait with a modern artistic touch — highly detailed, clean, and natural, avoiding any artificial or overly processed look.\n--grey and white --double exposure --high detail --emotional --studio style --aspect ratio 4:5",
-      "description": "Double Exposure Fine Art Photography Prompt: Use this prompt to create emotive black and white portraits of a man and woman standing back-to-back with surreal nature overlays.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 107,
-      "view_count": 2688,
-      "copy_count": 5437,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "local_path": "images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated artistic digital portrait of a man and woman standing back-to-back in a black and white double exposure style featuring nature silhouettes."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "local_path": "images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Monochrome Couple Double Exposure Portrait Prompt. AI generated double exposure portrait of a man in a suit and a woman in a lace dress looking in opposite directions in black and white."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "local_path": "images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome-art/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated monochrome double exposure portrait of a man and woman standing back-to-back with a serene forest landscape layered over their profiles."
         }
       ]
     },

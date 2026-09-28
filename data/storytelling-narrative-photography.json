@@ -1,7 +1,7 @@
 {
   "category": "Storytelling / Narrative Photography",
   "slug": "storytelling-narrative-photography",
-  "total_prompts": 8,
+  "total_prompts": 6,
   "updated_at": "2026-09-24T13:12:37Z",
   "prompts": [
     {
@@ -171,65 +171,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267044e",
-      "title": "Frayed Reality",
-      "slug": "torn-photo-effect-emotional-contrast-photography",
-      "category": "Storytelling / Narrative Photography",
-      "category_slug": "storytelling-narrative-photography",
-      "prompt": "Use the uploaded photo as a strict identity reference.\n\nThe subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain exactly identical.\n\nThis is one single continuous face (not two people, no duplication).\n⚠️ Absolute constraint:\n\nThe face must NOT change across sections. Only rendering style and emotion change.\nMain Concept\nCreate a 4:5 ultra-realistic cinematic studio portrait with DSLR realism, 8K detail, natural skin texture, and shallow depth of field.\n\nConcept: public persona vs hidden emotion revealed through a torn paper strip.\nComposition (STRICT GEOMETRY)\nVertical 4:5 portrait\nSubject perfectly centered\nFace straight, no tilt, direct eye contact\nSymmetrical alignment across the vertical axis\nSubject Framing (IMPORTANT)\nHead-and-shoulders portrait (tight crop)\nTop crop: slightly above head (minimal headroom)\nBottom crop: mid-chest level (turtleneck fully visible)\nSubject occupies ~70–80% of frame height\nVery little empty space on sides (clean editorial framing)\nBackground\nDark cinematic seamless studio background\nSmooth gradient:\nSlight neutral gray behind the head (center)\nFades to deep black toward edges and corners\nSubtle vignette effect\nNo texture, no color cast, no patterns\nTorn Paper Layout (CRITICAL)\nCreate ONE horizontal torn-paper strip across the eyes:\n\nPosition: exactly across the eye region (mid-face only)\nThickness: ~20–25% of face height\nEdges: rough, fibrous, uneven\nRight side: slightly rolled/curling paper edge (visible depth)\nRealistic paper thickness + soft shadow\n⚠️ Must look like the top layer is torn and the inner layer revealed\n\n⚠️ No duplication of face\nBase Layer (Full Image — Public Persona)\nFull color\nWarm, natural skin tones\nVisible red lipstick (clean, defined)\nSubtle, confident, closed-mouth smile\nHair:\n\nFront-falling wavy hair\nNatural flow toward the shoulders\nSoft volume, defined strands, slight shine\nOutfit:\n\nBlack turtleneck\nSoft visible fabric texture (subtle knit detail)\nLighting:\n\nSoft cinematic studio lighting\nGentle highlights + soft shadows\nSkin texture preserved (no smoothing)\nInside Torn Paper (ONLY inside strip — Hidden Emotion)\nPure black-and-white (strict monochrome)\nSame face, perfectly aligned\nExpression:\n\nEmotionally vulnerable, slightly tense\nTear (MANDATORY — DO NOT MISS)\nTwo clearly visible tear streams (one under each eye)\nSharp, reflective, well-defined\nCatching light (specular highlights)\nNot faint, not blurred\nLighting:\n\nSlightly higher contrast\nMore shadow depth around the eyes\nRealism Enforcement\nPhotorealistic DSLR output\nVisible pores and natural skin texture\nHair strands are individually defined\nTear reflections crisp and sharp\nPaper edges detailed with depth and shadow\nHard Constraints\nOne face only\nPerfect alignment across layers\nNo facial distortion\nTear must be clearly visible\nHair is consistent across layers\nNo stylization\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo vertical split\n\nNo misaligned layers\n\nNo weak or missing tears\n\nNo flat lighting\n\nNo plastic skin\n\nNo illustration/cartoon / 3D\n\nNo blur on eyes or tears\n\nNo lipstick missing\n\nNo wrong crop or loose framing",
-      "description": "Google Gemini AI Conceptual Portrait Prompt: Use this prompt to generate a striking image of a smiling woman with a torn paper effect revealing crying black-and-white eyes, symbolizing hidden emotional pain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 490,
-      "copy_count": 479,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "local_path": "images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Torn Paper Crying Eyes AI Photo Editing Prompt. AI generated conceptual portrait of a blonde woman with a torn paper strip revealing crying eyes over a smiling face."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "local_path": "images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Hidden Crying Eyes Photography Prompt. AI generated conceptual portrait of a woman smiling with red lips while a torn paper effect reveals her eyes crying in black and white."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "local_path": "images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Crying Eyes Torn Paper Photo Prompt. AI generated conceptual portrait of a smiling woman featuring a torn paper effect that reveals crying eyes in black and white."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "local_path": "images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/storytelling-narrative-photography/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman with Torn Paper Eyes Portrait Prompt. AI generated conceptual portrait of a smiling woman with red lipstick, featuring a horizontal paper tear effect that reveals crying eyes in grayscale."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670440",
       "title": "The War Within",
       "slug": "man-double-exposure-inner-turmoil-destroyed-city",
@@ -284,45 +225,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Man with Flowers on Moody Beach AI Photo Editing Prompt. AI generated cinematic portrait collage of a young man in a white linen shirt holding a white bouquet against a blue hour ocean backdrop."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267039a",
-      "title": "Behind the Smile",
-      "slug": "split-face-happy-sad-woman-portrait",
-      "category": "Storytelling / Narrative Photography",
-      "category_slug": "storytelling-narrative-photography",
-      "prompt": "Use the uploaded photo as a strict identity reference. The subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain identical.\nThis is one single subject (not two people, not two faces).\n\nOnly the style and emotion changes across the split.\nNo beautification. No reshaping. No stylization. No identity drift.\nMain Concept\nCreate a 4:5 aspect ratio, ultra-realistic cinematic studio portrait with DSLR realism, 8K sharp detail, natural skin texture, soft focus, and shallow depth of field.\nA conceptual duality portrait: public persona vs hidden emotion.\nComposition & Framing\nVertical, centered portrait\nSubject perfectly centered, facing forward, direct eye contact\nOne continuous face across the split\nA jagged white torn-paper seam runs vertically down the exact center\nHead-and-shoulders framing, subject fills most of the frame\nMatte black studio background\nSubject\nA slender adult woman wearing a black turtleneck sweater.\n\nNatural wavy hair with realistic texture and shine.\nLeft Side (Color) — Public Persona\nFull color (ONLY left side)\nWarm, glowing complexion\nVibrant red lipstick\nConfident closed-mouth smile\nLighting: warm and flattering, highlights hair shine and skin glow\nRight Side (Black & White) — Private Reality\nPure monochrome / black-and-white (ONLY right side)\nSame exact face and hair (no duplication)\nSomber, melancholic expression\nLips neutral, slightly parted\nA single visible tear running down near the center seam\nLighting: soft but moody, more shadow depth under the eyes\nRealism & Texture\nPhotorealistic DSLR look, visible pores, natural skin texture, no smoothing, no artificial glow.\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo face morphing\n\nNo painting/illustration/anime/cartoon / 3D\n\nNo plastic skin\n\nNo over-softening",
-      "description": "Create powerful visual storytelling with this split-face portrait AI prompt. Generate realistic happy vs. sad images featuring a torn paper effect, vibrant colors, and cinematic black and white crying details.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1374,
-      "copy_count": 2563,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "local_path": "images/storytelling-narrative-photography/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/storytelling-narrative-photography/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/storytelling-narrative-photography/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Split portrait: one side is vibrant and smiling, the other is grayscale and tearful. A torn paper edge dramatically separates these two moods against a deep black backdrop."
-        },
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "local_path": "images/storytelling-narrative-photography/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/storytelling-narrative-photography/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/storytelling-narrative-photography/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
         }
       ]
     }

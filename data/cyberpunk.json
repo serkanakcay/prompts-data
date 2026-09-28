@@ -1,7 +1,7 @@
 {
   "category": "Cyberpunk",
   "slug": "cyberpunk",
-  "total_prompts": 21,
+  "total_prompts": 20,
   "updated_at": "2026-09-24T12:54:07Z",
   "prompts": [
     {
@@ -255,55 +255,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Cyberpunk Biker on Futuristic Motorcycle AI Photo Editing Prompt. AI generated cinematic digital illustration of a young man in a black hoodie and sunglasses posing on a matte black motorcycle with neon-glowing wheels in a rainy, futuristic city."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703dc",
-      "title": "Timeless Gaze",
-      "slug": "old-man-neon-halo-portrait",
-      "category": "Cyberpunk",
-      "category_slug": "cyberpunk",
-      "prompt": "[USE THE UPLOADED IMAGE AS STRICT REFERENCE FOR SUBJECT & POSE]\nTask: Create a high-contrast, cinematic portrait of the specific male subject from the uploaded photo in a futuristic, cyberpunk/synthwave style.Composition: Vertical composition, 4:5 aspect ratio, framed from middle chest upward.Outfit: Wearing a black crew-neck t-shirt.\nSubject Identity & Pose (Strict Match):\nStrictly analyze the provided reference image to preserve the subject’s exact facial identity, bald head shape, and natural white beard structure. Recreate the exact pose: head turned slightly to the left, with a calm, intense, contemplative gaze directed off-camera to the left.\nGlasses / Eyewear:\nThe specific thick-framed black glasses with warm amber-tinted lenses seen in the reference. Neon lighting creates subtle reflections along the frame edges and lens surface without hiding the eyes.\nLighting & Color Behavior:\n\nLighting Style: Cinematic Triple-Light Setup. A vibrant neon circular halo behind the head (Primary), and a subtle, cool-toned overhead key light (Third Light) to define the crown of the head and forehead.\nColor Palette: High-contrast complementary scheme; intense Cyan-Teal from the left and fiery Amber-Orange from the right.\nLight Interaction: The cyan light creates a sharp 'edge-light' on the left silhouette. The amber light on the right is softer, kissing the edges of the shoulder and beard. The overhead light provides soft highlights on the bridge of the glasses, forehead, and cheekbones, revealing skin pores and micro-textures within the shadows.\nAtmosphere & Shadows:\nDeep Chiaroscuro effect; the center of the face remains in dramatic shadow with subtle subsurface scattering. Volumetric glow around the neon ring to add atmospheric haze and depth.\nTechnical Details:\nShallow depth of field. Eyes, glasses, and beard in sharp focus. Solid matte black background, clean and distraction-free. 8k resolution, photorealistic, highly detailed.",
-      "description": "Google Gemini AI Photo Editing Prompt: Create a cinematic digital portrait of an elderly man with a white beard and glasses, featuring a vibrant teal and orange neon halo against a dark, high-contrast background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 35,
-      "view_count": 884,
-      "copy_count": 1338,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "local_path": "images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Neon Halo Old Man Portrait AI Photo Editing Prompt. AI generated digital portrait of an elderly man with a white beard and glasses featuring a glowing cyan and orange neon halo."
-        },
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "local_path": "images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "local_path": "images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cyberpunk/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
         }
       ]
     },

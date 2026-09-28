@@ -1,7 +1,7 @@
 {
   "category": "Winter",
   "slug": "winter",
-  "total_prompts": 24,
+  "total_prompts": 20,
   "updated_at": "2026-09-24T13:13:24Z",
   "prompts": [
     {
@@ -210,35 +210,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670385",
-      "title": "Soft Winter Romance",
-      "slug": "soft-winter-romance",
-      "category": "Winter",
-      "category_slug": "winter",
-      "prompt": "Create a photorealistic, cinematic winter romance portrait of a young couple standing close together outdoors during gentle snowfall.\n\nFace & Identity Matching (Very Important)\nThe male character’s face must closely match the_toggle the provided male reference image: same facial structure, jawline, beard shape(if hade), hairstyle, skin tone, and overall identity.\nThe female character’s face must closely match the provided female reference image: same eye shape, nose, lips, face shape, skin tone, and overall facial identity.\nDo not alter or stylize their faces beyond natural lighting and realism.\nMaintain realistic proportions and accurate facial symmetry.\nScene & Composition\nOutdoor winter setting with snow-covered ground and bare trees.\nSoft snowflakes falling naturally through the air.\nShallow depth of field with a blurred, dreamy background.\nDelicate pink blossoms on thin branches appear near the couple, symbolizing early spring and romance.\nPose & Interaction\nThey are looking at each other softly and lovingly, holding eye contact with a sense of intimacy, warmth, and emotional connection.\nThe man gently holds the woman around her waist in a calm, protective posture.\nThe woman’s hands rest softly on his shoulders and near his neck.\nThey are not kissing; they are sharing a quiet, emotional gaze.\nThe moment feels still, intimate, and timeless.\nAppearance & Clothing\nMan: thick dark hair styled in a modern voluminous fade, wearing a simple black winter coat lightly dusted with snow.\nWoman: intricate braided hairstyle with subtle white ribbon accents, soft natural makeup, wearing an off-shoulder chunky knit sweater in a muted lavender-purple shade(HEX: #8D7E87) with visible knit texture and snowflakes resting on the fabric.\nLighting & Color\nSoft, diffused natural light with no harsh shadows.\nCool winter tones balanced with warm skin tones.\nPink blossoms and purple sweater add gentle color contrast.\nHigh detail skin texture, realistic fabric and hair detail.\nMood & Style\nQuiet romance, emotional intimacy, calm, trust, warmth in cold surroundings.\nUltra-realistic, cinematic photography look.\nNatural expressions, no exaggeration, no fantasy elements.\nFraming\nAspect ratio: 4:5\nMedium close-up portrait, couple centered in frame with their upper bodies visible.\nQuality Constraints\nPhotorealistic faces\nNo distortion, no extra fingers, no artificial beauty filters\nNatural proportions only\nClean background blur (bokeh), not painterly\nLighting & Color\nSoft, diffused natural light with no harsh shadows.\nCool winter tones balanced with warm skin tones.\nPink blossoms and purple sweater add gentle color contrast.\nHigh detail skin texture, realistic fabric and hair detail.\nMood & Style\nQuiet romance, emotional intimacy, calm, trust, warmth in cold surroundings.\nUltra-realistic, cinematic photography look.\nNatural expressions, no exaggeration, no fantasy elements.\nFraming\nAspect ratio: 4:5\nMedium close-up portrait, couple centered in frame with their upper bodies visible.\nQuality Constraints\nPhotorealistic faces\nNo distortion, no extra fingers, no artificial beauty filters\nNatural proportions only\nClean background blur (bokeh), not painterly",
-      "description": "Create a stunning 'Romantic Couple in Snow' AI image with this detailed prompt. This prompt generates a cinematic, photorealistic winter scene featuring a couple gazing into each other's eyes amidst falling snow and pink cherry blossoms.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 41,
-      "view_count": 2181,
-      "copy_count": 5017,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_q3djn4q3djn4q3dj.jpg",
-          "local_path": "images/winter/Gemini_Generated_Image_q3djn4q3djn4q3dj.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_q3djn4q3djn4q3dj.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/winter/Gemini_Generated_Image_q3djn4q3djn4q3dj.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/winter/Gemini_Generated_Image_q3djn4q3djn4q3dj.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A romantic couple gazes into each other's eyes in a snowy forest, framed by falling snow and pink blossoms."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670287",
       "title": "Penguins on the Peak",
       "slug": "penguins-on-the-peak",
@@ -274,35 +245,6 @@
           "width": 736,
           "height": 1104,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670331",
-      "title": "Winter Love Story",
-      "slug": "winter-love-story",
-      "category": "Winter",
-      "category_slug": "winter",
-      "prompt": "Aspect Ratio: 4:5 vertical\nA photorealistic romantic winter portrait of a young couple standing close together outdoors in a quiet snowy park during gentle snowfall. They are embracing warmly with arms wrapped around each other, foreheads and noses touching, eyes closed, both smiling softly, expressing intimacy and comfort.\nSTRICT FACE MATCH:\n\nIf reference images are provided, both faces must match the originals exactly (100% identity lock). No changes to facial structure, skin tone, eyes, nose, lips, jawline, or expressions.\nThe man wears a dark navy-blue padded winter jacket with black gloves, short dark hair, and light stubble, with snowflakes resting on his hair and shoulders.\n\nThe woman wears a black puffer winter coat with a fur-lined hood, black gloves, and her hair tied back in a neat low ponytail, with soft snowflakes visible on her coat and hair.\nSnow is falling naturally across the frame, with a few flakes closer to the camera for depth. The background shows a snow-covered park with bare winter trees, softly blurred, creating clean negative space and a calm, peaceful atmosphere.\nLighting is soft overcast daylight, with cool neutral winter tones—clean whites, light greys, muted blues—and natural warmth in skin tones. Professional DSLR-style photography, eye-level framing, shallow depth of field, realistic textures, candid and intimate mood.\nNegative prompt: no extra people, no face distortion, no oversaturation, no warm sunset lighting, no studio background, no text, no watermark.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 66,
-      "view_count": 2055,
-      "copy_count": 6128,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "local_path": "images/winter/Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/winter/Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/winter/Gemini_Generated_Image_ghsevrghsevrghse.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: an intimate moment between a couple amidst a serene winter landscape. A man and a woman stand closely embraced, their foreheads gently touching as they share a soft, affectionate smile with their eyes closed. They are dressed warmly for the weather; the man wears a navy blue puffer jacket, while the woman is clad in a black coat featuring a fur-lined hood and black leather gloves. Light snowflakes dust their hair and shoulders, adding to the romantic atmosphere. The background is a soft blur of snow-covered ground and leafless trees, emphasizing the quiet connection between the two figures in the chilly, white setting."
         }
       ]
     },
@@ -361,35 +303,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Gemini AI Generated Image: A young woman sits cross-legged on a beige rug in a cozy, holiday-decorated room. She is wearing a red Santa hat, a cream knit sweater, black leggings, and festive red and green patterned socks. She holds a white mug with both hands near her chest and smiles gently at the camera. Behind her, a fire burns in a brick fireplace, and a Christmas tree adorned with lights and ornaments stands next to wrapped gifts."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702d6",
-      "title": "Season of Togetherness",
-      "slug": "season-of-togetherness",
-      "category": "Winter",
-      "category_slug": "winter",
-      "prompt": "Use the uploaded image only as a face and identity reference. Preserve each person’s exact facial structure, proportions, skin tone, and natural features. Do not alter face shape, expressions, or identity. Maintain realistic skin texture and natural detail.\nCreate a romantic winter Christmas lifestyle portrait of a couple standing closely together on a decorated balcony at night. They are embracing gently, bodies close, foreheads touching or nearly touching, sharing a quiet, intimate moment. Their expressions are soft, calm, and affectionate—relaxed eyes, subtle smiles, and a peaceful emotional connection. The moment feels candid and sincere, not posed.\nClothing:\n\nBoth wear coordinated deep red winter outfits. The man wears a red knit sweater with a classic winter fit and dark trousers. The woman wears a fitted red long-sleeve dress or sweater dress, elegant yet cozy. Clothing adapts naturally to any couple while keeping a festive holiday tone.\nEnvironment & décor:\n\nThe setting is a charming outdoor balcony decorated for Christmas. The railing is wrapped with lush green garlands, warm white and golden fairy lights, red ribbons, and classic ornaments. A Christmas tree with glowing golden lights is partially visible nearby. Light snowfall fills the scene, with soft snowflakes falling naturally in the foreground and background.\nLighting & mood:\n\nWarm, golden ambient lighting dominates the scene, coming from Christmas lights and nearby windows. The light softly highlights faces, hair, and clothing, creating gentle shadows and a cozy glow. The background blends warm golden tones with cool evening blue, producing a rich, cinematic contrast. Snowflakes catch the light, adding depth and sparkle.\nStyle:\n\nRealistic lifestyle photography, shallow depth of field, faces sharp and well-lit, background softly blurred with golden bokeh. Natural colors, premium Christmas atmosphere, romantic and cozy winter mood.\n\nHigh-resolution, professional holiday portrait. Aspect ratio 4:5 or 2:3.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 42,
-      "view_count": 2385,
-      "copy_count": 5896,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_od311xod311xod31-1.jpg",
-          "local_path": "images/winter/Gemini_Generated_Image_od311xod311xod31-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_od311xod311xod31-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/winter/Gemini_Generated_Image_od311xod311xod31-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/winter/Gemini_Generated_Image_od311xod311xod31-1.jpg",
-          "width": 1187,
-          "height": 1769,
-          "alt": "Gemini AI Generated Image: A romantic photograph captures a couple embracing on a snow-dusted balcony, decorated with a garland of evergreen boughs, warm string lights, red bows, and ornaments. Both are wearing matching deep red knitwear; the man in a sweater and dark trousers, the woman in a long-sleeved dress. They stand forehead-to-forehead with their eyes closed and smiles, with his arms around her waist and her hands on his arms. Soft snow is falling around them. In the background is a decorated, lit Christmas tree and the warm glow of a window against the dark blue evening light."
         }
       ]
     },
@@ -651,45 +564,6 @@
           "width": 1920,
           "height": 2240,
           "alt": "Gemini Generated Image: A young woman with striking blue eyes is wearing a leopard print faux fur hat and coat outdoors. The background is a snowy, winter landscape with mountains and what looks like a frozen lake or field. She is also wearing a gold wristwatch and rings."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670296",
-      "title": "A Merry Little Christmas Morning",
-      "slug": "a-merry-little-christmas-morning",
-      "category": "Winter",
-      "category_slug": "winter",
-      "prompt": "A cozy Christmas indoor scene featuring a young woman sitting cross-legged on a soft carpet in front of a glowing fireplace. She is wearing red Christmas pajamas with white snowflake patterns, matching red socks, and a classic red Santa hat with white fur trim. She has long wavy brown hair, soft glam makeup with red lipstick, and a warm gentle smile. She is holding a fluffy red teddy bear in her arms, hugging it close to her chest. Behind her is a beautifully decorated Christmas tree with warm golden lights, red and gold ornaments, and wrapped gift boxes with striped paper and bows placed around the tree. Lighting: warm fireplace glow illuminating her face, soft bokeh Christmas lights in the background, cozy and intimate festive atmosphere. Ultra-realistic 8k, DSLR quality, shallow depth of field, soft shadows, smooth skin details, cinematic Christmas portrait style. the young women's face matches the uploaded reference image.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 8,
-      "view_count": 467,
-      "copy_count": 312,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251209_151418.jpg",
-          "local_path": "images/winter/IMG_20251209_151418.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251209_151418.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/winter/IMG_20251209_151418.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/winter/IMG_20251209_151418.jpg",
-          "width": 1824,
-          "height": 2311,
-          "alt": "Gemini Generated Image: A woman in red, snowflake-patterned Christmas pajamas and a Santa hat is sitting cross-legged on the floor. She is holding a red teddy bear and smiling, with a lit fireplace on the left and a decorated Christmas tree on the right in the background."
-        },
-        {
-          "filename": "Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "local_path": "images/winter/Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/winter/Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/winter/Gemini_Generated_Image_6fybhi6fybhi6fyb-2.jpg",
-          "width": 270,
-          "height": 332,
-          "alt": ""
         }
       ]
     },

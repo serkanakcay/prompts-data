@@ -1,7 +1,7 @@
 {
   "category": "Classic Style",
   "slug": "classic-style",
-  "total_prompts": 6,
+  "total_prompts": 5,
   "updated_at": "2026-09-24T12:53:45Z",
   "prompts": [
     {
@@ -50,35 +50,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in White Shirt Mirror Selfie Portrait AI Photo Editing Prompt. AI generated fashion portrait of a stylish man taking a sunlit mirror selfie in a modern, minimalist living room."
-        }
-      ]
-    },
-    {
-      "id": "6a6791cf4bbdbe2cf5a873c9",
-      "title": "Golden Hour Drive",
-      "slug": "golden-hour-drive",
-      "category": "Classic Style",
-      "category_slug": "classic-style",
-      "prompt": "Create a cinematic, ultra-realistic lifestyle portrait of a couple enjoying a relaxed drive in a classic open-top convertible during golden hour. The camera is positioned at eye level from the front woman's side, capturing both subjects in a natural medium-wide portrait orientation inside the car.\nThe man sits confidently in the driver's seat, driving the car with one hand resting casually on the steering wheel. He wears a beige and cream vertically striped button-up shirt with the sleeves rolled to the forearms, the top buttons slightly open, tailored camel trousers, and a classic brown leather-strap wristwatch. He has neatly black hair, and a calm, affectionate expression while looking toward the woman.\nThe woman is seated comfortably in the front passenger seat with leg folded naturally. She wears a taupe pinstriped cropped jacket featuring an asymmetrical lapel with a decorative gold button, layered over a soft beige knit top, paired with relaxed cream wide-leg trousers and brown leather loafers. Her medium-length wavy hair is loosely tied back with a large beige ribbon, with soft face-framing strands. She smiles warmly while making eye contact with the man, creating a candid romantic moment.\nThe convertible features a black leather interior, visible seat belts, and a clean minimalist dashboard. The roof is folded down, allowing warm natural sunlight to illuminate both subjects.\nThe background shows a quiet suburban street lined with lush green trees, boundary walls, utility poles. Apply gentle motion blur to the roadside and background to enhance the feeling of movement while keeping the couple perfectly sharp and in focus.\nThe lighting is soft golden-hour sunlight with warm highlights, natural skin tones, subtle shadows, and cinematic color grading. Use shallow depth of field with smooth background separation while preserving enough environmental detail for realism.\nCamera & Composition:\nEye-level camera angle\nMedium-wide portrait shot\n50mm full-frame lens\nf/1.8 aperture\nNatural perspective\nSubjects centered with balanced framing\nSharp facial focus\nPhotorealistic documentary-style lifestyle photography\nUltra-detailed textures, realistic fabric folds, authentic skin texture, premium color grading\n8K HDR, DSLR quality, cinematic realism, high dynamic range, soft bokeh, natural candid expressions.\nAspect ratio 4:5.",
-      "description": "Realistic Lifestyle Photography Prompt: Copy & paste this prompt to create a stunning, realistic portrait of an elegant couple driving a convertible at sunset.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 474,
-      "copy_count": 834,
-      "is_premium": false,
-      "published_at": "2026-07-27T17:13:51.904Z",
-      "images": [
-        {
-          "filename": "93d998bf-6850-4dca-9b98-265eb07d9fec.jpeg",
-          "local_path": "images/classic-style/93d998bf-6850-4dca-9b98-265eb07d9fec.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/93d998bf-6850-4dca-9b98-265eb07d9fec.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/classic-style/93d998bf-6850-4dca-9b98-265eb07d9fec.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/classic-style/93d998bf-6850-4dca-9b98-265eb07d9fec.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Couple in Convertible Driving Portrait AI Photo Editing Prompt. AI generated realistic portrait of a stylish couple smiling and looking at each other while driving a convertible at sunset."
         }
       ]
     },

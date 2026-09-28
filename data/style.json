@@ -1,7 +1,7 @@
 {
   "category": "Style",
   "slug": "style",
-  "total_prompts": 71,
+  "total_prompts": 70,
   "updated_at": "2026-09-24T13:12:42Z",
   "prompts": [
     {
@@ -1621,35 +1621,6 @@
           "width": 1888,
           "height": 2231,
           "alt": "Gemini Generated Image: A woman wearing a wide-brimmed, open-weave sun hat and a beige patterned dress with puff sleeves stands indoors, with shadows from the hat creating a striking striped pattern across her face and upper body."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670238",
-      "title": "Black Saree with Floral Embroidery",
-      "slug": "black-saree-with-floral-embroidery",
-      "category": "Style",
-      "category_slug": "style",
-      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. Create A hyper-realistic medium shot portrait of a beautiful young Indian woman standing on a city street during the day. She is wearing a premium translucent black net saree adorned with glittering sequins and colorful floral embroidery (red, blue, green), paired with a solid black short-sleeved blouse. She wears a blue gemstone choker necklace, matching earrings, and a stack of blue bangles. She has a small black bindi, and her long wavy brown hair is parted in the middle. She is leaning casually against a black metal railing with her hands clasped. The background features blurred city architecture, brick buildings, and parked cars, creating a shallow depth of field. Soft, natural lighting, 8k resolution, high fidelity. Photorealistic style: The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 116,
-      "view_count": 4920,
-      "copy_count": 11863,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251130_151922.jpg",
-          "local_path": "images/style/IMG_20251130_151922.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_151922.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/style/IMG_20251130_151922.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/style/IMG_20251130_151922.jpg",
-          "width": 1849,
-          "height": 2304,
-          "alt": "Gemini Generated image of A beautiful woman with long brown hair, adorned in a black sari featuring colorful floral embroidery and sparkling blue jewelry and bangles, stands smiling on a city street beside a black railing"
         }
       ]
     },

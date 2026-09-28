@@ -1,7 +1,7 @@
 {
   "category": "Comic Art",
   "slug": "comic-art",
-  "total_prompts": 3,
+  "total_prompts": 2,
   "updated_at": "2026-09-24T12:53:46Z",
   "prompts": [
     {
@@ -149,65 +149,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "2d-comic-style-boy-portrait-ai-prompt-by-promptplum-9"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670454",
-      "title": "Manga Muse",
-      "slug": "woman-manga-style-lifestyle-collage",
-      "category": "Comic Art",
-      "category_slug": "comic-art",
-      "prompt": "Core Concept\nA striking mixed-media composition featuring a high-resolution photograph of a woman standing in front of a large, wall-sized black-and-white manga collage. The image explores the \"multiverse\" or \"multifaceted\" nature of the subject’s personality.\n\nCentral Figure (Photographic)\nSubject: woman with a modern hairstyle, round glasses, and a face identical to the reference image. She occupies approximately 60–70% of the frame height, perfectly centered\nExpression: She has a genuine and confident smile.\nAttire: A classic blue denim jacket over a simple black t-shirt, tucked into high-waisted blue jeans. She is wearing elegant black pointed-toe high heels.\nPose: She stands in the center foreground, hands casually in her pockets, with her legs crossed at the ankles.\nLighting: Bright, professional studio lighting that makes her pop against the background.\nBackground (Manga Style)\nArt Style: Classic Japanese manga aesthetics—bold ink lines, screentone textures (dots), and dramatic speed lines.\nNarrative Panels: The background consists of various panels featuring the same woman as a manga character in different scenarios:\nTop Left: Riding a motorcycle with speed lines and the text \"VROOM.\"\nTop Right: Looking focused and intense while working at a computer desk.\nMiddle: Walking through a bustling city street.\nBottom Left: Using a smartphone on a gimbal, as if vlogging or taking a selfie.\nBottom Right: Laughing and embracing two friends, with a \"KYA!\" speech bubble nearby.\nText Elements: Integrated Japanese onomatopoeia (e.g., \"ドキドキ\" for a racing heart) and English sound effects scattered throughout the panels.\nComposition & Mood\nContrast: A sharp contrast between the vibrant, 3D realism of the woman in the foreground and the flat, 2D, monochromatic world of the white comic book background.\nVibe: Empowered, joyful, and modern. It suggests a life full of adventure, hard work, and meaningful social connections.\nFloor color white.\nAspect ratio 2:3",
-      "description": "Digital Illustration Manga Art Prompt: Use this prompt to create a creative portrait of a smiling woman in denim against a dynamic black-and-white manga collage background depicting various lifestyle scenes.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1209,
-      "copy_count": 1715,
-      "is_premium": false,
-      "published_at": "2026-09-20T23:47:58.971Z",
-      "images": [
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "local_path": "images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Collage AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a denim outfit standing against a black and white manga storyboard background."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "local_path": "images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Background Portrait Prompt. AI generated digital illustration of a smiling woman in a denim jacket posing against a black-and-white manga comic collage featuring her daily life adventures."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "local_path": "images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman with Manga Collage AI Photo Editing Prompt. AI generated digital illustration of a woman in denim standing before a black-and-white manga background depicting various lifestyle scenes."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "local_path": "images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/comic-art/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Background AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a denim jacket and jeans standing against a black-and-white manga collage background featuring various scenes of her life."
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "category": "Black & White",
   "slug": "black-and-white",
-  "total_prompts": 110,
+  "total_prompts": 103,
   "updated_at": "2026-09-24T12:51:47Z",
   "prompts": [
     {
@@ -1067,55 +1067,6 @@
       ]
     },
     {
-      "id": "6a68de334bbdbe2cf5c7597c",
-      "title": "Double Exposure B&W Couple By Lake Portrait",
-      "slug": "bw-double-exposure-couple-lake-portrait",
-      "category": "Black & White",
-      "category_slug": "black-and-white",
-      "prompt": "Create a cinematic double-exposure black-and-white romantic portrait of a couple standing back-to-back while holding hands, both with their eyes gently closed and peaceful expressions, symbolizing love, trust, and emotional connection. Captured in an eye-level camera angle with a medium composition. The woman wears an elegant sleeveless flowing black dress with long wavy hair, while the man wears a fitted black button-up shirt and dark trousers with a neatly styled hair. Large, soft-faded monochrome side-profile portraits of both faces are blended into the cloudy sky above, creating a dreamy, emotional composition. The background features a calm mountain lake surrounded by misty hills, soft fog, and an overcast sky. Fine-art monochrome photography, subtle film grain, soft diffused lighting, smooth tonal contrast, ultra-realistic skin texture, cinematic depth, shallow depth of field, perfectly balanced composition, emotional storytelling, high dynamic range, 85mm lens, f/2, 8K resolution, photorealistic, masterpiece quality, no text, no watermark, no distortion. Aspect ratio 4:5.",
-      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a moody B&W image of a couple holding hands back-to-back beneath fading faces in a cloudy sky.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 128,
-      "view_count": 8277,
-      "copy_count": 9975,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:52:03.908Z",
-      "images": [
-        {
-          "filename": "3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "local_path": "images/black-and-white/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "B&W Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated conceptual double-exposure portrait of a B&W couple, eyes closed, holding hands back-to-back over a misty mountain lake with large faded ghost profile faces in the cloudy sky."
-        },
-        {
-          "filename": "a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "local_path": "images/black-and-white/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Black and White Double Exposure Portrait AI Photo Editing Prompt. AI generated surreal double exposure portrait of a monochrome couple standing back-to-back with eyes closed by a misty lake, featuring larger versions of their profile faces superimposed over the cloudy sky."
-        },
-        {
-          "filename": "f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "local_path": "images/black-and-white/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Portrait AI Photo Editing Prompt. AI generated portrait art of a couple standing back-to-back with faded faces over a misty lake."
-        }
-      ]
-    },
-    {
       "id": "6a67ac8e4bbdbe2cf5ab2d7d",
       "title": "Monochrome Man Black Hoodie Sunglasses",
       "slug": "monochrome-boy-black-hoodie-sunglasses-portrait",
@@ -1377,66 +1328,6 @@
           "width": 1792,
           "height": 2400,
           "alt": "man-in-black-suit-monochrome-studio-portrait-prompt-by-promptplum-1"
-        }
-      ]
-    },
-    {
-      "id": "6a53efc47877e7a4d7a82d4b",
-      "title": "Monochrome Family Profile Portrait",
-      "slug": "black-and-white-family-studio-profile",
-      "category": "Black & White",
-      "category_slug": "black-and-white",
-      "prompt": "Use the uploaded family photos as identity references and create an elegant vertical black-and-white family portrait featuring a father, mother, and young child arranged in overlapping side profiles. Place the father slightly behind on the left, the mother in the center, and the child in front on the right, with each face clearly visible and naturally layered without merging or distortion. All three should gaze softly upward toward the same off-camera direction, creating a hopeful and emotional expression.\nShow only their head, neck, and upper shoulders, dressed in simple dark clothing that blends smoothly into a pure black background. Illuminate their faces with soft directional light from the left, creating bright facial highlights, gentle shadows, realistic skin texture, crisp eyes, and a dramatic high-contrast monochrome look. Fade the outer edges of their hair, shoulders, and clothing gradually into the darkness for a seamless cinematic composition.\nKeep generous black negative space around the family. In the lower portion, add the word “FAMILY” in white, using one oversized elegant serif letter “F”, followed by “AMILY” in a thin handwritten uppercase style. Fine-art studio photography, emotional family poster aesthetic, clean composition, realistic facial proportions, sharp facial focus, smooth tonal gradients, vertical 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 58,
-      "view_count": 4842,
-      "copy_count": 3893,
-      "is_premium": false,
-      "published_at": "2026-07-29T21:35:38.567Z",
-      "images": [
-        {
-          "filename": "cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "local_path": "images/black-and-white/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "local_path": "images/black-and-white/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "original_url": "https://img.promptplum.com/promptImages/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "width": 928,
-          "height": 1152,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "local_path": "images/black-and-white/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "local_path": "images/black-and-white/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-4"
         }
       ]
     },
@@ -2195,35 +2086,6 @@
       ]
     },
     {
-      "id": "6a365f99bf79ee5252c15da3",
-      "title": "Stark Juxtaposition",
-      "slug": "intense-bnw-portrait-photography",
-      "category": "Black & White",
-      "category_slug": "black-and-white",
-      "prompt": "Create a striking, ultra-realistic black-and-white extreme close-up portrait of two subjects in a dramatic split composition. The primary subject occupies the left side of the frame in the foreground, with only the right half of their face visible as the rest is cropped by the left edge. Their skin displays extraordinary micro-detail, including visible pores, subtle skin texture, fine lines. A highly intricate Chinese dragon tattoo wraps around the neck, rendered with razor-sharp detail. The eye is intensely focused, piercing, and directed straight into the camera.\nPositioned slightly behind on the right side is a second subject, partially concealed by the foreground figure. Their face emerges from the shadows with flawless, smooth skin, luminous highlights, perfectly shaped natural eyebrows. Both subjects wear simple white garments and maintain a powerful, unwavering gaze into the lens, conveying confidence, intensity, and emotional depth.\nComposition is an extremely tight vertical close-up. The man is the primary subject and dominant focal point, occupying the foreground on the left side of the frame, while the woman is the secondary subject, positioned slightly behind him on the right and partially concealed by his face. The layered arrangement creates strong visual depth, tension, and cinematic intimacy.\nLighting is dramatic high-contrast chiaroscuro studio lighting. A focused key light from the front-left sculpts facial features, accentuating every pore, wrinkle, and tattoo detail on the foreground subject, while creating smooth, glossy highlights across the skin and lips of the background subject. Deep shadows fade seamlessly into a pure pitch-black background, producing a cinematic fine-art aesthetic with exceptional dimensionality.\nShot on an 85mm portrait lens, f/4 aperture, shallow depth of field, tack-sharp focus on both eyes, rich tonal separation, deep blacks, brilliant highlights, hyper-realistic skin rendering, ultra-fine texture reproduction, editorial luxury portrait photography, cinematic monochrome grading, museum-quality detail, HDR tonality, masterpiece photography, 8K resolution.\nAspect ratio 4:5.",
-      "description": "B&W Portrait Photography Prompt: Copy & paste this prompt to create a dramatic monochrome close-up of a man and woman featuring a detailed dragon neck tattoo.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 35,
-      "view_count": 864,
-      "copy_count": 1586,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "local_path": "images/black-and-white/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "width": 825,
-          "height": 1024,
-          "alt": "Dragon Tattoo Couple Portrait AI Photo Editing Prompt. AI generated dramatic monochrome portrait of a man with a detailed dragon neck tattoo and facial stubble positioned closely next to a smooth-skinned woman looking directly at the camera."
-        }
-      ]
-    },
-    {
       "id": "6a356bb8bf79ee5252c0f6f6",
       "title": "Vision in the Void",
       "slug": "dramatic-monochrome-male-portrait",
@@ -2862,65 +2724,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704a1",
-      "title": "Family Silhouette",
-      "slug": "family-silhouette-art-with-quote",
-      "category": "Black & White",
-      "category_slug": "black-and-white",
-      "prompt": "Use the uploaded image ONLY for face and identity reference of all subjects. Do not alter facial structure, skin tone, age, or likeness. Maintain accurate identity for each person.\nCreate a 4:5 aspect ratio, high-contrast black-and-white cinematic silhouette portrait of a family (mother, father, and child) in an intimate, emotional composition.\n\nComposition & Pose:\nThree subjects in close proximity forming a triangular composition\nChild positioned in the center, facing slightly upward to the mother\nMother on one side and father on the other, both gently leaning toward the child\nParents’ faces angled downward toward the child, creating a soft, loving connection\nCapture only side profiles / semi-profiles (no full frontal face)\n\nLighting (CRITICAL):\nStrong backlight source (bright circular/oval light) directly behind subjects\nSubjects appear as dark silhouettes with soft glowing edge highlights (rim light)\nNo front lighting — faces remain mostly in shadow\nClean separation between subjects and background using light halo\n\nStyle & Mood:\nMinimal, emotional, timeless family moment\nDeep blacks, bright whites, no mid-tone clutter\nSoft gradients around light source, rest pure black\nStudio-like controlled environment\nDetails:\nSubtle visible outlines of hair, nose, lips, and clothing edges\nNatural posture, not stiff or posed\nKeep clothing simple and non-distracting\n\nText (optional, centered bottom):\n“FAMILY” in bold uppercase with wide character spacing\nSubtext: “Where life begins & love never ends”\n\nQuality:\nUltra-realistic, sharp edges, cinematic photography, high contrast, 8K feel\n\nNegative Prompt:\ncolor, flat lighting, front-lit faces, smiling directly at camera, cartoon, illustration, blur, distortion, extra people, shoulder crops, bad anatomy",
-      "description": "Artistic Silhouette Photography Prompt: Use this prompt to generate a minimalist, high-contrast image of a family silhouette against a glowing circular backdrop to capture an intimate moment of eternal love.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 78,
-      "view_count": 2776,
-      "copy_count": 5612,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "local_path": "images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Silhouette Family Portrait AI Photo Editing Prompt. AI generated artistic silhouette portrait of a father, mother, and baby looking at each other against a glowing circular light."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "local_path": "images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Silhouette with Quote AI Photo Editing Prompt. AI generated minimalist studio portrait of a mother, father, and child in silhouette looking at each other against a soft circular backlight."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "local_path": "images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated digital silhouette portrait of a father, mother, and young child facing each other against a bright circular glow with a sentimental quote."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "local_path": "images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670497",
       "title": "The Final Detail",
       "slug": "black-and-white-professional-portrait",
@@ -3122,55 +2925,6 @@
           "width": 1856,
           "height": 2304,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670437",
-      "title": "Eternal Silhouette",
-      "slug": "endless-love-silhouette-couple",
-      "category": "Black & White",
-      "category_slug": "black-and-white",
-      "prompt": "Use the provided reference images to match the identity, age, and facial features of both subjects. Preserve their natural facial structure, proportions, hairline, and overall likeness. Do not beautify, stylize, or alter their identities in any way. Ensure the silhouettes still reflect the correct face shape and recognizable profile of each subject.\nCreate a dramatic black-and-white high-contrast silhouette portrait of a couple standing extremely close to each other in an almost-kiss pose.\nComposition & Framing\nVertical composition, 4:5 aspect ratio.\nClose-up framing from the chest or shoulders upward. The couple is centered in the frame, facing each other in profile.\nMan (left side): Facing right. He has short, neatly styled hair and light stubble, wearing a formal blazer with a collared shirt. His head is slightly tilted downward toward the woman.\nWoman (right side): Facing left. She has naturally long, wavy hair with a floral hairpiece positioned on the upper side of her head, small earrings, and an elegant outfit with subtle decorative details. Her head is slightly tilted upward toward the man.\nTheir noses are almost touching and their foreheads nearly meet. They maintain direct eye contact with each other, creating a romantic and intimate moment.\nLighting & Style\nThe couple appears as deep black silhouettes against a pure bright white backlit background. Strong rim lighting clearly defines the contours of their faces, hair, and bodies, creating a sharp separation between the subjects and the background.\nThe image should resemble professional cinematic studio silhouette photography with crisp edges, smooth gradients, and strong contrast. Render the image in high-contrast monochrome with high-key lighting and absolutely no color.\nTypography\nPlace the text centered at the top of the image with clear spacing from the edge.\nTitle: “ENDLESS LOVE” in a large, elegant serif font.\nSubtitle below the title:\n“Loved you yesterday, love you still, always have, always will.”\nUse a thin, spaced grey font for the subtitle.",
-      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to create a professional monochrome silhouette of a romantic couple featuring elegant \"Endless Love\" typography and a minimalist white background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 73,
-      "view_count": 3598,
-      "copy_count": 4959,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "local_path": "images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette Portrait AI Photo Editing Prompt. AI generated studio portrait of a man and woman in a romantic silhouette profile against a white background with \"Endless Love\" text."
-        },
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "local_path": "images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette Endless Love AI Photo Editing Prompt. AI generated minimalist studio portrait of a man and woman in profile facing each other against a white background with romantic \"Endless Love\" typography."
-        },
-        {
-          "filename": "couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "local_path": "images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/couple-silhouette-with-endless-love-text-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Silhouette AI Photo Editing Prompt. AI generated studio portrait of a man and woman in silhouette profile facing each other against a bright white background featuring romantic typography."
         }
       ]
     },
@@ -3526,35 +3280,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670404",
-      "title": "Family Sequence",
-      "slug": "black-and-white-family-profile-portrait",
-      "category": "Black & White",
-      "category_slug": "black-and-white",
-      "prompt": "Create a classic low-key black-and-white studio portrait of a family of four arranged in a staggered side-profile composition, all facing right. Maintain accurate identity and face matching to the provided reference image for all four subjects — preserve exact facial structure, proportions, skin texture, hairlines.\nMid-chest shot (cropped from mid chest upward), tight vertical composition. All four subjects are wearing solid matte black t-shirts with no logos, no reflective elements — blending subtly into shadow while maintaining garment structure.\nDiagonal alignment from front-left (father closest to camera) to back-right (youngest child farthest). Overlapping layered composition.\nCRITICAL — Natural Height-Based Staggered Arrangement:\n\nSubjects must be arranged in realistic descending height order consistent with a natural family hierarchy. The father (foreground) is the tallest, followed slightly behind by the mother, who is slightly shorter. Behind her stands the first child, clearly shorter than the mother, and, in the far background, the second child, the shortest of all. The top of each subject’s head forms a gradual downward diagonal slope from left (tallest father) to right (shortest child). Eye levels must also progressively lower in the same sequence. This height progression must appear anatomically natural and realistic, not artificially aligned or equalized. Maintain accurate proportional scaling and perspective depth consistent with real-world height differences.\nTrue monochrome (black and white), high contrast, deep blacks, smooth midtone transitions. Dramatic chiaroscuro lighting with a single directional key light from camera-right, slightly above eye level, no equipment/object visible in frame. Strong shadow falloff into pure black background. Deep negative space on the left.\nSharp catchlights in all eyes from a small gridded softbox. Crisp highlight definition on nose bridges, cheekbones, lips, and jawlines.\nFather (foreground, sharpest focus): His expression appears steady and confident with a subtle smile. His gaze is fixed forward, conveying strength and leadership. Visible individual hairs, strong skin micro-contrast, wear a black t-shirt fading into shadow.\nMother (second): She has a soft, graceful smile (upper teeth visible). Long voluminous wavy hair, subtle earrings, smooth skin, and wear a black outfit.\nChild (third): Her expression shows youthful curiosity and positivity, with a subtle smile (upper teeth visible), slightly pulled-back natural hair, and a simple black outfit.\nChild (background): He looks calm and thoughtful. His face carries innocence and quiet confidence, as if observing something meaningful ahead.\nLens look: 85mm–135mm telephoto compression, no distortion.\n\nAperture look: f/5.6–f/8 layered depth, foreground sharpest with subtle gradual falloff.\nUltra-detailed skin texture, realistic pores, cinematic tonal grading, professional studio photography, timeless, museum-quality.\n4K resolution detail, ultra-sharp, high micro-contrast, refined tonal range.\n\nAspect ratio 4:5\nNegative prompt:\n\nlow quality, blur, head crop, frame crop, over exposure, visible equipment, equal head height, flat alignment, incorrect height proportions, unrealistic scaling",
-      "description": "Family Photo Editing Prompt: Use this prompt to create a professional black and white studio portrait of a family of four in side profile against a dark, minimalist background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 211,
-      "view_count": 6936,
-      "copy_count": 17648,
-      "is_premium": false,
-      "published_at": "2026-08-08T20:13:38.649Z",
-      "images": [
-        {
-          "filename": "black-white-family-profile-portrait-by-promptplum.webp",
-          "local_path": "images/black-and-white/black-white-family-profile-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/black-white-family-profile-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/black-white-family-profile-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/black-white-family-profile-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Profile in Monochrome AI Photo Editing Prompt. AI generated studio portrait of a father, mother, and two children in black t-shirts, arranged by height in a side-profile composition against a dark background."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703fa",
       "title": "The Silent Vigil",
       "slug": "man-holding-white-flowers-rain-black-white",
@@ -3609,35 +3334,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Dramatic Close-up Woman Portrait AI Photo Editing Prompt. AI generated cinematic black and white portrait of a young woman gazing upwards with high-contrast lighting."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703ee",
-      "title": "Dramatic Black and White Family Photo Prompt",
-      "slug": "playful-black-and-white-family-portrait-stacked-pose",
-      "category": "Black & White",
-      "category_slug": "black-and-white",
-      "prompt": "Create a high-contrast black-and-white studio portrait of a three-person family stacked vertically in a perfectly centered totem-pole composition, faces closely matching the reference image identities of all peoples, preserving exact facial structure, proportions, skin tone (converted to grayscale), eye shape, nose shape, lip shape, hairline, and age.\nA man at the top leans forward with both hands gently resting on the crown of the woman’s head below him. The woman mirrors the pose, placing both hands on the head of a small child beneath her. The child rests their cheeks in their hands at the base.\nAll subjects face forward toward the camera with playful kiss/pout expressions.\n\nTop Subject (Man)\nFace must match the reference identity\nLeft eye closed in a wink, right eye open\nNatural grooming details\nWedding golden ring on left hand ring finger\nHands gently cupping the woman’s head\nMiddle Subject (Woman)\nFace must match the reference identity\nRight eye closed in a wink, left eye open\nNaturally styled hair\nJewelries if present\nHands resting on the child’s head\nWedding golden ring on left hand ring finger\nBottom Subject (Child)\nFace must match the reference identity\nAccurate hair details\nBoth eyes wide open with strong catchlights\nCheeks resting in palms\nLighting & Studio Style\nLow-key fine-art portrait lighting\nSingle large softbox or beauty dish, front-center slightly above eye level\nSoft sculpting shadows, dramatic contrast\nSmooth skin highlights with natural texture preserved\nBright clean catchlights in eyes\nNo rim light, no harsh shadows\nBackground: seamless deep black backdrop with subtle vignette fading to pure black edges.\nCamera & Image Quality\nMedium telephoto portrait lens (85mm equivalent)\nEye-level perspective\nPerfect vertical alignment\nAll three faces in sharp focus\nUltra-high-resolution, 4K detail\nHyper-real skin texture (pores visible but clean)\nCrisp eyelashes, detailed lips, natural micro-contrast\nProfessional studio photography look\nWardrobe\nAll subjects wearing plain black long-sleeve tops, minimal texture, no logos, blending into background.\nComposition & Output Settings\nAspect ratio 4:5 vertical\nCentered symmetrical composition\nClean negative space\nNo cropping of heads or hands\nEditorial portrait framing\nQuality Tags\nphotorealistic, ultra-detailed face, 4K portrait, high dynamic range grayscale, fine-art family portrait, sharp focus, studio photography, identity preservation, realistic skin texture, cinematic monochrome\nNegative Prompt\nFrame crop, head crop, cartoon, illustration, color, warm tones, blur, noise, grain, extra fingers, distorted face, asymmetry, wide-angle distortion, harsh lighting, multiple light sources, busy background, text, watermark, low resolution, oversharpening, identity mismatch, face change, identity drifts, unnatural hair details",
-      "description": "Get the exact AI prompt to create this playful black & white vertical stacked family portrait. Generate fun, studio-style family photos easily!",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 156,
-      "view_count": 9533,
-      "copy_count": 14165,
-      "is_premium": false,
-      "published_at": "2026-08-26T20:16:15.491Z",
-      "images": [
-        {
-          "filename": "playful-family-black-white-portrait-by-promptplum.webp",
-          "local_path": "images/black-and-white/playful-family-black-white-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/playful-family-black-white-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/black-and-white/playful-family-black-white-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/black-and-white/playful-family-black-white-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Vertical Stack Portrait AI Photo Editing Prompt. AI generated studio portrait of a man, woman, and child stacked vertically with playful winking and pouting expressions against a dark background."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Dramatic",
   "slug": "dramatic",
-  "total_prompts": 22,
+  "total_prompts": 20,
   "updated_at": "2026-09-24T12:55:01Z",
   "prompts": [
     {
@@ -484,35 +484,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526702b7",
-      "title": "My Own Weather",
-      "slug": "my-own-weather",
-      "category": "Dramatic",
-      "category_slug": "dramatic",
-      "prompt": "Under a brooding overcast sky, a young man stands in close side profile, his dark baseball cap edged with a subtle red accent snug against windswept, thick hair. Black over-ear headphones rest lightly above his sick, rain-kissed skin, where shimmering droplets catch the muted coastal light. His contemplative gaze stretches toward the rainy horizon, evoking a quiet intensity within the pensive stillness. A cool palette of subdued greys and navy melds seamlessly with the gentle crimson hints, while the damp fabric of his cap, the slick sheen of his skin, and the tousled hair stirred by a cool sea breeze offer vivid texture contrasts. Soft natural shadows contour his features, enhanced by a tightly cropped composition and a gentle background blur that draws focus to tactile details. The scene conveys a poised moment of introspection, bathed in diffused, melancholic light.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 26,
-      "view_count": 828,
-      "copy_count": 1453,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "local_path": "images/dramatic/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "width": 1276,
-          "height": 1635,
-          "alt": "Gemini Generated Image: A man wearing a dark baseball cap and headphones is shown in a close-up profile shot while rain falls on his face and cap. He appears to be outdoors by the water on a cloudy day."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267026f",
       "title": "The Digital Octopus",
       "slug": "the-digital-octopus",
@@ -538,35 +509,6 @@
           "width": 960,
           "height": 1088,
           "alt": "Gemini Generated image of a stylish man in a black turtleneck and overcoat wearing round sunglasses and a smartwatch, standing on a rainy, futuristic city street at night. He is dramatically framed by several metallic, tentacle-like mechanical arms extending from behind him."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670263",
-      "title": "Imaginary Walk",
-      "slug": "imaginary-walk",
-      "category": "Dramatic",
-      "category_slug": "dramatic",
-      "prompt": "Realistic style, me and neon girl walking on diamy street road, me holding neon girl hand, wearing white hoodie and black jeans, white sneakers. appears a Golden glowing, neon-style illustration of a girl. The neon girl emits a soft golden light, contrasting against the dark, blurry background of city lights in the distance. The atmosphere feels calm, melancholic, and slightly surreal, blending reality and imagination. 100% accurate my face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 3204,
-      "copy_count": 4917,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251204_161936.jpg",
-          "local_path": "images/dramatic/IMG_20251204_161936.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_161936.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dramatic/IMG_20251204_161936.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dramatic/IMG_20251204_161936.jpg",
-          "width": 1760,
-          "height": 2399,
-          "alt": "Ai Generated Image: The image shows a young man walking down a wet, dark city street at night, holding hands with a glowing, neon-yellow outline of a girl. It has a surreal, romantic, or fantasy feel."
         }
       ]
     },

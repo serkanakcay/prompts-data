@@ -1,38 +1,9 @@
 {
   "category": "Event",
   "slug": "event",
-  "total_prompts": 14,
+  "total_prompts": 11,
   "updated_at": "2026-09-24T12:55:11Z",
   "prompts": [
-    {
-      "id": "6a60f1984e919e1ec242ee8c",
-      "title": "A Grand Celebration",
-      "slug": "indian-couple-reception-portrait",
-      "category": "Event",
-      "category_slug": "event",
-      "prompt": "Create a stunning, high-end wedding reception portrait of a couple standing closely together beneath a magnificent crystal chandelier in a luxurious banquet hall. The portrait is captured from an eye-level camera angle in a waist-up composition. The woman is wearing an elegant navy-blue sequined lehenga with sparkling embellishments, cold-shoulder sleeves adorned with beaded fringe tassels. Her hair is styled in a soft modern hairstyle, complemented by glamorous makeup, bright pink lipstick, and delicate dangling earrings. She smiles warmly while looking directly at the camera.\n\nThe man stands beside her with one arm wrapped around her waist, wearing a sophisticated black textured sherwani with a mandarin collar paired with a luxurious gold wristwatch on his left wrist. He has neatly styled hair, and a confident, composed expression while looking directly into the camera.\n\nThe couple is posed affectionately, embracing each other in a romantic, elegant stance. Above them hangs a large crystal chandelier with glowing warm lights and sparkling crystal droplets, creating a luxurious atmosphere. The background features a lavish indoor event venue with dreamy golden bokeh lights, and ambient reception lighting.\n\nUltra-realistic photography, luxury wedding editorial style, shallow depth of field, creamy bokeh, warm golden lighting, cinematic ambiance, crystal reflections, premium fashion portrait, highly detailed facial features, ultra-detailed skin texture, vibrant colors, professional wedding photography, 85mm lens, f/1.8 aperture, sharp focus on the couple, soft background blur, HDR, 8K resolution, vertical composition, elegant and romantic mood. Aspect ratio 4:5.",
-      "description": "Elegant Portrait Photography Prompt: Copy & paste this prompt to create a glamorous photo of an Indian couple in formal attire under crystal chandeliers.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 51,
-      "view_count": 2287,
-      "copy_count": 2420,
-      "is_premium": false,
-      "published_at": "2026-07-22T16:36:40.299Z",
-      "images": [
-        {
-          "filename": "be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
-          "local_path": "images/event/be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/be865096-e844-4608-80d8-a3163a6b25a1.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Formal Attire AI Photo Editing Prompt. AI generated portrait of a smiling Indian couple in coordinated formal dark blue embellished gown and a black sherwani jacket posing under large crystal chandeliers."
-        }
-      ]
-    },
     {
       "id": "6a591996a3af6f1220c4f5fe",
       "title": "The Birthday Girl in Pastel Purple",
@@ -59,45 +30,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Lavender Indian Outfit Birthday Portrait AI Photo Editing Prompt. AI generated lifestyle portrait of a smiling woman in a lavender embroidered suit against a floral arch and neon sign in a decorated golden-hour garden."
-        }
-      ]
-    },
-    {
-      "id": "6a3ac528bf79ee5252c368bf",
-      "title": "Candlelit Evening on a Floral Woven Heart Swing",
-      "slug": "romantic-swing-photo-portrait",
-      "category": "Event",
-      "category_slug": "event",
-      "prompt": "Create a Photorealistic, ultra-high-resolution portrait of an elegant woman seated gracefully on a rustic wooden swing, perfectly centered within a giant illuminated heart-shaped wreath crafted from intertwined branches and wrapped in warm golden fairy lights. She wears a flowing ivory-white one-shoulder evening gown with delicate floral appliqué detailing on the shoulder, complemented by sparkling diamond earrings, necklace, bracelets, and rings. Her long, softly curled hair cascades over her shoulders as she gazes directly at the camera with a gentle, confident smile. Her pose is poised and graceful, sitting upright with relaxed shoulders, hands gently resting on her lap, and one leg elegantly crossed forward. The composition is perfectly centered and balanced, emphasizing symmetry between the illuminated heart wreath and the subject. The scene is set in a luxurious outdoor garden at night, surrounded by lush greenery and glowing decorative lights, with glowing candles placed along the ground. The background is rendered with a creamy shallow depth of field and rich golden bokeh, creating a romantic and dreamy atmosphere. Eye-level composition, full-body shot, cinematic warm lighting, sharp focus on the subject, natural skin tones, professional portrait photography, highly detailed fabric textures, realistic lighting and shadows, premium wedding editorial style, 8K resolution, 85mm portrait lens, f/1.8, photorealistic quality.\nAspect ratio: 4:5.",
-      "description": "Romantic Portrait Photography Prompt: Copy and paste this prompt to generate a stunning, high-quality image of an elegant woman in a white gown posing on a romantic, fairy-light-decorated heart swing in a candlelit garden.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1532,
-      "copy_count": 2672,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "local_path": "images/event/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Romantic Heart Swing Portrait AI Photo Editing Prompt. AI generated realistic portrait of an elegant woman in a white gown sitting on a wooden swing under a large, glowing heart-shaped arch decorated with fairy lights and foliage in a candlelit garden."
-        },
-        {
-          "filename": "b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "local_path": "images/event/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Romantic Heart Swing Portrait AI Photo Editing Prompt. AI generated realistic portrait of an elegant woman in a white gown sitting on a wooden swing under a large, glowing heart-shaped arch decorated with fairy lights and foliage in a candlelit garden."
         }
       ]
     },
@@ -342,45 +274,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Woman Birthday Greeting Prompt. AI generated digital illustration of a woman in an embroidered cream dress featuring a yellow circular backdrop and golden floral details."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703c7",
-      "title": "Valentine’s Evening",
-      "slug": "romantic-valentines-day-candlelight-dinner-couple",
-      "category": "Event",
-      "category_slug": "event",
-      "prompt": "Create a high-end, photorealistic romantic Valentine’s Day dinner scene captured in a professional photography style. Use the provided reference images for strict facial identity matching for both subjects, preserving facial structure, proportions, skin tone, age, and natural expressions without stylization or alteration.\n\nComposition & Subjects\nA young couple sits closely together at an elegant dining table, perfectly centered and naturally aligned within the frame from both sides. Their foreheads gently lean toward each other, creating an intimate and romantic moment. Both subjects are clearly visible, sharply in focus, and evenly composed with balanced spacing and natural posture.\nThe man wears a tailored black suit with a crisp white shirt and deep burgundy tie, styled neatly with a soft, genuine smile. The woman wears an off-shoulder burgundy velvet dress with elegant jewelry including a diamond necklace and drop earrings. Her hair falls in soft waves, and her expression is calm, affectionate, and romantic.\n\nLighting (Key Focus)\nSoft, warm cinematic lighting with professional studio control. The lighting is diffused and flattering, illuminating both faces evenly while maintaining gentle shadows for depth. Warm practical light sources such as candles and string lights create a natural glow without overexposure, ensuring clear subject visibility and smooth skin tones. Soft highlight roll-off and subtle rim lighting enhance separation from the background.\n\nForeground Elements\nA bouquet of deep red roses rests on the table, alongside a decorative burgundy Valentine’s card with gold lettering. Two champagne flutes and a candle add warm reflections and realism without distracting from the subjects.\n\nBackground & Depth\nShallow depth of field with smooth bokeh from warm string lights. The background features elegant layered curtains: deep burgundy velvet drapes positioned on both sides framing the scene, with a soft cream or warm beige sheer curtain panel in the center. Warm fairy string lights hang vertically behind the sheer fabric, creating soft golden circular bokeh highlights. The curtain textures remain subtle and softly blurred, reinforcing focus on the couple while maintaining a luxurious, intimate restaurant or romantic studio atmosphere.\n\nColor & Mood\nA cohesive palette of deep reds, burgundy, gold, and warm neutrals. The overall mood is romantic, elegant, and cinematic — resembling a luxury lifestyle or jewelry advertisement.\n\nQuality Tags\nProfessional photography, soft cinematic lighting, shallow depth of field, natural skin texture, premium romantic atmosphere, 4:5 aspect ratio, ultra-detailed, high dynamic range, 4K–8K quality.",
-      "description": "Create photorealistic Valentine's Day dinner images with this AI image prompt. Use 'cinematic lighting' and 'intimate atmosphere' for stunning scenes with roses and luxury decor.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 64,
-      "view_count": 1759,
-      "copy_count": 4967,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
-          "local_path": "images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A romantic couple in formal attire shares an intimate moment over a candlelit Valentine's dinner, featuring red roses, champagne, and a warm, dreamy bokeh glow."
-        },
-        {
-          "filename": "romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
-          "local_path": "images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/event/romantic-valentines-day-candlelight-dinner-for-couple-ai-prompt-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A romantic couple shares an intimate moment at a candlelight Valentine's dinner with roses, champagne, and a greeting card. Warm, cinematic lighting."
         }
       ]
     },

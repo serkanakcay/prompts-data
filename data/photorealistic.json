@@ -1,7 +1,7 @@
 {
   "category": "Photorealistic",
   "slug": "photorealistic",
-  "total_prompts": 10,
+  "total_prompts": 9,
   "updated_at": "2026-09-24T13:11:00Z",
   "prompts": [
     {
@@ -305,55 +305,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Photorealistic Subway Commuter Portrait AI Photo Editing Prompt. AI generated realistic portrait of a young man with headphones and a yellow backpack holding onto a pole inside a modern metro car."
-        }
-      ]
-    },
-    {
-      "id": "6a6a8e294bbdbe2cf5f1f864",
-      "title": "Golden Hour Couple City Portrait",
-      "slug": "couple-golden-hour-city-portrait",
-      "category": "Photorealistic",
-      "category_slug": "photorealistic",
-      "prompt": "Create a premium, ultra-realistic lifestyle portrait of the uploaded couple, preserving each person’s individual facial identity, skin tone, age, hairstyle and recognizable features without blending their features. Dress them in coordinated but non-matching modern smart-casual outfits in complementary neutral tones. Place them on an elegant city street during golden hour, standing naturally close with relaxed body language and a gentle hand-holding interaction. Keep both faces clearly visible near the same focal plane, with subtle closed-mouth smiles and authentic chemistry. Use soft diffused golden light, accurate skin exposure, realistic fabric and skin texture, an eye-level 85mm perspective and f/3.2 depth of field. Premium American lifestyle editorial photography, 4:5 aspect ratio.",
-      "description": "Golden Hour Street Photography Prompt: Use this prompt to create a realistic portrait of a young couple holding hands on a cobblestone city street at dusk.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 47,
-      "view_count": 3822,
-      "copy_count": 4786,
-      "is_premium": false,
-      "published_at": "2026-07-29T23:35:05.676Z",
-      "images": [
-        {
-          "filename": "d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "local_path": "images/photorealistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Young Couple Street Photography AI Photo Editing Prompt. AI generated outdoor portrait of a young couple holding hands on a paved European street during the golden hour with warm background bokeh."
-        },
-        {
-          "filename": "329510a7-9451-409b-811c-4402ef448172.webp",
-          "local_path": "images/photorealistic/329510a7-9451-409b-811c-4402ef448172.webp",
-          "original_url": "https://img.promptplum.com/promptImages/329510a7-9451-409b-811c-4402ef448172.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/329510a7-9451-409b-811c-4402ef448172.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/329510a7-9451-409b-811c-4402ef448172.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated photorealistic portrait of a young man in a dark blazer and a woman in a beige trench coat holding hands on a sunlit street."
-        },
-        {
-          "filename": "51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "local_path": "images/photorealistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "original_url": "https://img.promptplum.com/promptImages/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photorealistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photorealistic/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple City Portrait AI Photo Editing Prompt. AI generated photorealistic portrait of a young smiling couple embracing on a cobblestone European street during golden hour."
         }
       ]
     },

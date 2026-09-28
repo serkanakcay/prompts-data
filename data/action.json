@@ -1,7 +1,7 @@
 {
   "category": "Action",
   "slug": "action",
-  "total_prompts": 30,
+  "total_prompts": 29,
   "updated_at": "2026-09-24T12:50:12Z",
   "prompts": [
     {
@@ -1062,35 +1062,6 @@
           "width": 1888,
           "height": 2264,
           "alt": "Gemini Generated: A man with intense eyes and dark hair is depicted in a dramatic, digitally rendered image, framed by red and blue lightning effects and surrounded by thorny vines and a small silhouette of a Demogorgon-like creature in the foreground, suggesting a theme of dark fantasy or science fiction, possibly inspired by Stranger Things"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670210",
-      "title": "Stylish man holds horse",
-      "slug": "stylish-man-holds-horse",
-      "category": "Action",
-      "category_slug": "action",
-      "prompt": "Use the uploaded reference photo for the exact face and hairstyle. Create an ultra-realistic cinematic portrait of an elegant man standing next to a majestic black horse in a snowy forest. The man wears a completely black outfit: a tailored coat, a high-neck sweater, gloves, and sunglasses, which gives him a mysterious and powerful aura. Snowflakes gently fall around her, resting on her coat and hair. while soft, fuzzy light creates a cool, melancholic winter atmosphere. The horse looks strong and elegant, with the snow-covered mane, and both subjects radiate sophistication and quiet mastery. Capture tone and composition with high detail, depth, and cinematic contrast for a luxurious, dramatic visual effect.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 170,
-      "view_count": 5065,
-      "copy_count": 14680,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764150488209.png",
-          "local_path": "images/action/1764150488209.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764150488209.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/action/1764150488209.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/action/1764150488209.png",
-          "width": 832,
-          "height": 1248,
-          "alt": "Ai generated image of a man standing next to a black horse in winter bakground"
         }
       ]
     }

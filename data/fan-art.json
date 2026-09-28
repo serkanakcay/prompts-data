@@ -1,7 +1,7 @@
 {
   "category": "Fan Art",
   "slug": "fan-art",
-  "total_prompts": 20,
+  "total_prompts": 18,
   "updated_at": "2026-09-24T12:55:51Z",
   "prompts": [
     {
@@ -201,55 +201,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670425",
-      "title": "The Family Unit",
-      "slug": "happy-family-studio-portrait",
-      "category": "Fan Art",
-      "category_slug": "fan-art",
-      "prompt": "Create a professionally captured fine-art studio family portrait based strictly on the uploaded reference image. The final image should look like a high-end editorial family photograph with a warm, intimate, timeless aesthetic.\nIdentity & Face Matching (Strict)\n\nUse the uploaded reference image to accurately reproduce all four individuals. Maintain exact age and identity fidelity for each subject.\n\nPreserve precisely:\nfacial structure and proportions\n\nbone structure and jawline\n\neye shape, spacing, and gaze direction\n\nnose structure and lip shape\n\ncheekbone definition\n\nskin tone and undertone\n\nhairstyle, hairline, and natural hair colour & texture\n\nfacial hair\nDo not beautify, stylize, alter facial proportions, or invent features.\nEach person must remain clearly recognizable as the same individual from the reference.\nSubjects & Composition (Very strict)\nMother (Center)\n\nPosition the mother centrally as the emotional focal point of the portrait.\nAppearance and clothing:\ncream / ivory chunky-knit ribbed sweater\n\nnatural color hair with soft natural highlights\n\nwarm, genuine smile directed toward the camera\nPose:\nseated slightly forward\n\nher body angled subtly toward the father to create a natural sense of connection\n\nright arm wrapped gently around her daughter\n\nleft hand lightly holding her partner’s hand\nThe mother and father should lean slightly toward each other in a relaxed, natural way, creating a subtle inward curve in the composition.\n\nMother's head should naturally tilt toward the father's head, creating a soft, affectionate family connection.\nThe pose must feel organic and unforced, never stiff or overly posed.\nFather (Right / Slightly Behind)\n\nPosition the father behind and slightly to the right of the mother, leaning forward slightly into the composition.\nAppearance and clothing:\ndark charcoal or deep navy wool overshirt / shirt-jacket\n\ntan or camel knit crewneck sweater underneath\n\nNatural hairstyle\n\nwell-groomed beard (if present)\nPose:\nleaning slightly inward toward the mother and children\n\nhead slightly inclined toward the mother so their heads gently touch\n\nleft hand resting gently on his son’s shoulder\n\nright hand resting behind the mother or out of frame\n\nsoft confident smile toward the camera\nHis posture should communicate protective warmth and relaxed confidence.\nDaughter (Left Foreground)\n\nPosition the daughter seated on the left side of the frame, slightly leaning toward her mother.\nAppearance and clothing:\nsimple long-sleeve linen dress in light beige / oatmeal tone\n\nnatural hairstyle\n\nsoft natural smile directed at camera\nPose:\nseated comfortably\n\nhands resting naturally in her lap\n\nslightly leaning inward to maintain the family connection.\nSon (Right Foreground)\n\nPosition the son seated on the right side in front of the father.\nAppearance and clothing:\ntan T-shirt under a brown corduroy button-down shirt\n\nmatching brown trousers\n\nnatural hairstyle\nExpression:\njoyful smile\n\nbright, energetic presence\nPose:\nseated cross-legged or comfortably on the rug\n\nrelaxed posture.\nComposition\n\nThe family should form a tight triangular composition:\nmother at the central peak\n\nchildren forming the lower corners\n\nfather slightly behind completing the triangle\nThis structure conveys stability, unity, and emotional closeness.\nSubtle physical contact should be visible:\nhands held between parents\n\narms around children\n\ngentle shoulder touches\n\nparents leaning naturally toward one another\nEnvironment\nBackground\n\nDark, textured studio backdrop with painterly gradients.\nCharacteristics:\ndeep charcoal / black tones on one side\n\nwarm bronze / brown tones on the opposite side\n\nsubtle mottled texture\n\nsoft vignette toward edges\nThe background must remain soft and unobtrusive, enhancing the subjects.\nLighting\n\nUse Rembrandt-style studio lighting with subtle cinematic rim separation.\nLighting setup:\nprimary soft key light from the upper left\n\ncreates subtle facial shadow depth\n\nsmall triangle of light visible on the shadow side of faces\nAdd a very soft rim light or edge light from the rear-right side of the scene to create a gentle highlight along the edges of hair and shoulders.\n\nThis rim lighting should be subtle and natural, helping separate the subjects from the darker background without appearing dramatic or artificial.\nLighting qualities:\nsoft diffused light from large softbox\n\ngentle falloff\n\ncinematic portrait depth\n\nsoft catchlights in the eyes\n\nsubtle rim highlights on hair edges and shoulders.\nColor Palette\n\nUse a cohesive earth-tone palette:\ncreams\n\nbeiges\n\ntans\n\nbrowns\n\ncharcoal / deep navy\nClothing should feel coordinated but not identical, creating an elegant timeless style.\nEnvironment Details\n\nThe family is seated on a neutral woven rug placed over a natural wood floor.\nVisible textures:\nribbed knit sweater\n\ncorduroy fabric on the boy’s shirt\n\nsoft woven rug fibers\n\nwood grain floor\n\nsubtle clothing fabric folds.\nCamera & Technical Details\naspect ratio: 4:5 vertical portrait\n\nultra-high resolution studio photography\n\n85mm portrait lens\n\naperture f/1.8 – f/2.8\n\nshallow depth of field\n\nsubjects tack sharp\n\nbackground softly blurred\n\nFine-art color grading with warm tonal balance.\nStyle & Mood\n\nThe portrait should feel:\nwarm\n\nsentimental\n\nelegant\n\ntimeless\nThe result should resemble luxury studio family portrait photography, suitable for framing or editorial family albums.",
-      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a professional studio portrait of a happy family of four wearing coordinated earthy-toned outfits against a dark, textured backdrop.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 255,
-      "view_count": 13817,
-      "copy_count": 28847,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum.webp",
-          "local_path": "images/fan-art/happy-family-studio-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/happy-family-studio-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/happy-family-studio-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Happy Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing coordinated earthy-toned outfits while posing closely against a dark textured background."
-        },
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum-2.webp",
-          "local_path": "images/fan-art/happy-family-studio-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/happy-family-studio-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/happy-family-studio-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Asian family of four wearing coordinated earthy-toned clothing against a textured dark backdrop."
-        },
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum-1.webp",
-          "local_path": "images/fan-art/happy-family-studio-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/happy-family-studio-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/happy-family-studio-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Happy Family in Earth Tones AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing coordinated warm-colored outfits against a dark textured background."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703f4",
       "title": "The Animated Icon",
       "slug": "3d-stylized-character-illustration",
@@ -432,35 +383,6 @@
           "width": 1792,
           "height": 2368,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267034e",
-      "title": "Weekend vibes with Puss in Boots",
-      "slug": "weekend-vibes-with-puss-in-boots",
-      "category": "Fan Art",
-      "category_slug": "fan-art",
-      "prompt": "Use the uploaded image strictly as a face and identity reference for the human subject only. Create a relaxed, premium studio fashion portrait with a natural, confident editorial feel. The real human stands casually in a full-body pose, weight shifted onto one leg, the other leg crossed slightly at the ankle, wearing an oatmeal beige textured knitted sweater, dark indigo high-waisted jeans, and clean white low-top sneakers. The human has a calm, friendly natural smile and relaxed posture, with one arm bent naturally at the elbow and resting gently on the shoulder of a true human-scale photorealistic 3D animated character, Puss in Boots. Other hand in her jeans pocket.\nPuss in Boots stands upright beside the human at realistic height, arms crossed confidently across his chest, leaning subtly toward the human to create natural chemistry. He is rendered as a highly detailed, cinematic 3D character with realistic ginger fur texture, soft volume, and visible strand detail, expressive large green eyes, and a confident, slightly mischievous expression. He wears his signature leather wide-brim hat, belt, and worn boots, all textured with realistic leather grain and subtle aging.\nThe interaction feels casual and authentic, as if the human is comfortably resting an arm on a trusted companion rather than posing stiffly. Composition is a clean 3/4 to full-body framing with both subjects fully visible. The background is a smooth warm taupe or neutral studio backdrop with no distractions. Lighting is soft, professional studio lighting with gentle key light and subtle rim light that enhances facial features, clothing fabric, and fur detail without harsh shadows. High-end fashion editorial aesthetic, natural color grading, sharp focus, realistic proportions, premium portrait quality, cinematic realism.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 41,
-      "view_count": 810,
-      "copy_count": 1449,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_t172yut172yut172.jpg",
-          "local_path": "images/fan-art/Gemini_Generated_Image_t172yut172yut172.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_t172yut172yut172.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fan-art/Gemini_Generated_Image_t172yut172yut172.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fan-art/Gemini_Generated_Image_t172yut172yut172.jpg",
-          "width": 1254,
-          "height": 1657,
-          "alt": "Gemini AI Generated Image: a charming crossover between a realistic human subject and the iconic animated character, Puss in Boots. Standing on the right is a handsome young man with dark hair, dressed in a casual beige knit sweater, dark denim jeans, and white sneakers. He smiles warmly, posing with a relaxed demeanor, one hand in his pocket and his right elbow resting playfully on the brim of Puss’s hat. Beside him, the famous orange tabby stands tall in his signature cavalier hat, leather belt, and boots. Puss crosses his arms with a confident, spirited expression, staring boldly forward. The background is a seamless neutral beige, enhancing the warm tones and unifying the whimsical mix of live-action and high-quality 3D animation."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Luxury Branding",
   "slug": "luxury-branding",
-  "total_prompts": 16,
+  "total_prompts": 15,
   "updated_at": "2026-09-24T12:58:02Z",
   "prompts": [
     {
@@ -282,35 +282,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Cinematic luxury lifestyle portrait of a man in black suit with classic red car AI Photo Editing Prompt. AI generated photorealistic portrait of a handsome bearded man in a sharp black suit leaning against a vintage red sports car with a modern building in the background."
-        }
-      ]
-    },
-    {
-      "id": "6a8f148846d4207dc23fac39",
-      "title": "Man in Colorblock Shirt Holding Rose",
-      "slug": "trendy-menswear-studio-photo-prompt",
-      "category": "Luxury Branding",
-      "category_slug": "luxury-branding",
-      "prompt": "Create an ultra-realistic full-body fashion portrait of a stylish man standing confidently in a vibrant cyan-blue seamless studio environment. Preserve the reference subject’s facial features, hairstyle, and overall appearance with maximum identity accuracy.\nHe wears a relaxed-fit short-sleeve abstract patterned button-up shirt featuring bold geometric blocks of blue, black, olive green, and muted gray, with the top buttons slightly open and a subtle silver cross pendant visible around his neck. Pair it with tailored black high-waisted trousers, a black belt, and polished black leather lace-up dress shoes with thick soles. A premium silver metal wristwatch is visible on his left wrist, and he wears thin, minimalist metal-frame eyeglasses.\nPose: standing naturally with his body slightly angled, head gently tilted downward while gazing toward the red rose in his right hand. His right hand holds a single fresh red rose near his chest, while his left hand rests casually inside his trouser pocket. Calm, thoughtful, elegant expression with a relaxed, sophisticated fashion-editorial presence.\nSet the scene against a clean vivid cyan-blue seamless infinity studio backdrop and floor, with a subtle tonal gradient and gentle darker falloff toward the edges. Soft studio lighting evenly illuminates the subject, creating natural highlights on the face, shirt, watch, rose, and shoes with realistic soft shadows beneath the feet.\nFull-body composition, subject centered in frame with generous negative space around him, eye-level camera angle, natural proportions, realistic fabric texture, detailed leather shoes, ultra-detailed skin texture, crisp focus, subtle cinematic depth of field, professional luxury fashion photography, 85mm portrait lens, f/2, ultra-detailed, photorealistic, 8K resolution, 4:5 aspect ratio.\nNegative prompt: distorted anatomy, altered facial features, duplicated rose, artificial skin, blurry face, low resolution, cropped feet, cropped head, cluttered background, extra objects, extra people.",
-      "description": "Studio Fashion Portrait Prompt: Copy & Paste this Prompt to create a stylish full body photo of a man in a colorblock shirt holding a red rose against a teal background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 762,
-      "copy_count": 789,
-      "is_premium": false,
-      "published_at": "2026-08-26T16:30:00.844Z",
-      "images": [
-        {
-          "filename": "92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "local_path": "images/luxury-branding/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/luxury-branding/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/luxury-branding/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in Colorblock Shirt Holding a Rose AI Photo Editing Prompt. AI generated studio portrait of a bespectacled man in a patchwork shirt holding a single red rose against a teal background."
         }
       ]
     },

@@ -1,48 +1,9 @@
 {
   "category": "Old Money Aesthetic",
   "slug": "old-money-aesthetic",
-  "total_prompts": 38,
+  "total_prompts": 37,
   "updated_at": "2026-09-24T13:10:26Z",
   "prompts": [
-    {
-      "id": "6aad7ec646d4207dc2133bcf",
-      "title": "Romantic Man in Leather Jacket Holding White Rose",
-      "slug": "cinematic-male-portrait-with-rose",
-      "category": "Old Money Aesthetic",
-      "category_slug": "old-money-aesthetic",
-      "prompt": "Create a photorealistic cinematic fashion portrait of a male subject standing casually in a dark studio environment.\nPose & Composition:\nFull-body vertical portrait, subject positioned slightly centered with generous negative space arround him. He stands with one leg subtly crossed in front of the other, creating a relaxed editorial pose. His right hand rests naturally inside his jacket pocket while his left hand gently holds a single white flower by the stem. His head is slightly tilted downward with his gaze directed toward the flower, creating a calm, introspective mood.\nOutfit:\nDark brown vintage leather jacket with a slightly oversized relaxed fit, detailed natural leather texture, structured collar, front zipper, and large chest pockets. Underneath, a simple black crew-neck shirt. Loose-fitting black trousers with natural fabric folds and black leather shoes.\nLighting & Atmosphere:\nMoody low-key studio lighting with a warm soft spotlight illuminating the subject from the upper-left side. Subtle highlights across the leather jacket and flower while most of the background remains deep shadow. Warm brown atmospheric glow and soft falloff around the upper-left corner.\nBackground:\nMinimalist dark-black studio infinity backdrop with subtle gradients. A smooth dark floor with a very soft reflection and natural shadow beneath the subject. No distracting objects or background elements.\nPhotography Style:\nLuxury editorial fashion photography, cinematic color grading, rich blacks, warm earthy tones, realistic material textures, natural shadows, sophisticated and mysterious atmosphere, shallow depth of field, highly detailed, realistic skin and fabric rendering, professional studio photography, subtle film grain, dramatic but natural lighting.\nFraming:\nVertical 4:5 composition, full body completely visible from head to shoes, eye-level camera angle, centered subject placement with intentional negative space, realistic proportions, high-end magazine aesthetic, ultra-detailed photorealism, 8K quality.",
-      "description": "Cinematic Romantic Portrait Prompt. Copy & Paste this prompt to create a moody, professional studio photograph of a stylish man in a vintage brown leather jacket gracefully holding a white rose against a dark background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 8,
-      "view_count": 413,
-      "copy_count": 275,
-      "is_premium": false,
-      "published_at": "2026-09-18T18:11:18.093Z",
-      "images": [
-        {
-          "filename": "d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "local_path": "images/old-money-aesthetic/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-money-aesthetic/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-money-aesthetic/d541daff-17a1-426c-a09f-a48c382209dc.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in leather jacket with white rose AI Photo Editing Prompt. AI generated cinematic studio portrait of a handsome man in a vintage brown leather jacket and black outfit looking down at a single white rose in moody lighting.   "
-        },
-        {
-          "filename": "fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "local_path": "images/old-money-aesthetic/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/old-money-aesthetic/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/old-money-aesthetic/fe0c9fc7-d27b-45d1-927c-8894c24e2f43.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Man in leather jacket with white rose AI Photo Editing Prompt. AI generated cinematic studio portrait of a handsome man in a vintage brown leather jacket and black outfit looking down at a single white rose in moody lighting.   "
-        }
-      ]
-    },
     {
       "id": "6aac1ecf46d4207dc2f84cfd",
       "title": "Men's Fashion Photography Street Style",

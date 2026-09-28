@@ -1,7 +1,7 @@
 {
   "category": "Photoshoot",
   "slug": "photogrphy",
-  "total_prompts": 53,
+  "total_prompts": 47,
   "updated_at": "2026-09-24T13:11:15Z",
   "prompts": [
     {
@@ -80,55 +80,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "man-pink-linen-shirt-photoshoot-ai-prompt-by-promptplum-7"
-        }
-      ]
-    },
-    {
-      "id": "6a5503027877e7a4d7b4f566",
-      "title": "Classic Family Portrait in Navy",
-      "slug": "studio-family-photography-navy-outfit",
-      "category": "Photoshoot",
-      "category_slug": "photogrphy",
-      "prompt": "Create a premium, photorealistic full-length studio portrait of the uploaded family of three. Use the uploaded image strictly only for the face and identity reference for each individual: preserve the adult woman’s exact recognizable face, facial structure, skin tone, hairstyle, and age; preserve the adult man’s exact recognizable face, facial structure, skin tone, hairstyle, beard or clean-shaven appearance, and age; and preserve the baby’s exact recognizable face, infant features, skin tone, hairstyle, and natural age. Keep all three identities clearly separate and do not blend, exchange, beautify, or reinterpret their facial features.\nPlace the adult woman from the reference image slightly right of center, seated naturally on a tall black geometric metal stool. She holds the same baby from the reference image securely and upright on her lap, supporting the baby naturally with both hands. Place the adult man from the reference image standing closely on the left, leaning slightly toward the woman and baby. Keep their heads positioned close together in a balanced, affectionate family composition.\nUse soft, composed expressions with natural eye contact. Keep the expressions subtle and avoid exaggerated emotions.\nDress the woman in an elegant floor-length deep navy-blue sleeveless gown with softly flowing fabric. Dress the man in a fitted dark navy button-up shirt, light grey tailored trousers, a minimal wristwatch, and dark brown leather loafers. Dress the baby in a crisp white shirt with striped suspenders, beige pinstriped trousers, and small brown shoes.\nUse a seamless charcoal-grey studio backdrop with a subtle textured finish, without visible corners or floor lines. Add soft directional studio lighting from the upper left, with flattering facial highlights, gentle shadows, and clear separation from the background. Keep all three faces equally sharp and detailed, especially the baby’s face. Maintain realistic skin texture, natural infant proportions, accurate hands and fingers, detailed clothing fabric, and polished professional family-photography quality. Full-body vertical composition, minimal headroom, 85mm portrait lens look, high resolution, masterpiece, 3:4 aspect ratio, without text, logos, or watermarks.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 4713,
-      "copy_count": 979,
-      "is_premium": true,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "local_path": "images/photogrphy/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "local_path": "images/photogrphy/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "local_path": "images/photogrphy/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "original_url": "https://img.promptplum.com/promptImages/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-1"
         }
       ]
     },
@@ -333,35 +284,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Gemini AI Generated Image: A young man sitting on a purple beanbag chair, wearing a purple jacket over a white t-shirt, white trousers, and matching purple and white sneakers, posed against a purple studio background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702c8",
-      "title": "Heart to Heart",
-      "slug": "heart-to-heart",
-      "category": "Photoshoot",
-      "category_slug": "photogrphy",
-      "prompt": "A dreamy, bohemian-style portrait of a young couple during golden hour. The man, wearing a light linen shirt unbuttoned slightly and a beaded necklace, gently holds the woman jawline as his other hand rests on her lower back. She wears a flowy off-shoulder beige dress with floral embroidery, gold hoop earrings, and minimal makeup. They share a quiet, emotional gaze under a warm sunset glow, with tall grass and wildflowers in the blurred background. Cinematic tones, Canon R6 with 85mm. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 84,
-      "view_count": 4038,
-      "copy_count": 11101,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "local_path": "images/photogrphy/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/Gemini_Generated_Image_md4wajmd4wajmd4w-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: a romantic moment between a young couple standing close together in a field of tall grass at sunset. Bathed in warm, golden light, they gaze intensely into each other's eyes as the man gently cups the woman's face with his hand. Their casual, earth-toned clothing and intimate posture create a peaceful and affectionate atmosphere."
         }
       ]
     },
@@ -1132,64 +1054,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670239",
-      "title": "The Minstrel and the Doves",
-      "slug": "the-minstrel-and-the-doves",
-      "category": "Photoshoot",
-      "category_slug": "photogrphy",
-      "prompt": "Use the uploaded reference image strictly as the ONLY face reference.\nCreate a high-resolution, ultra-realistic cinematic photograph of an individual seated directly on a weathered, light-gray stone railing (not behind it), positioned slightly to the left side of the frame. The setting is an ancient ruin environment with textured stone architecture and lush, deep-green overgrown ivy climbing the surfaces, softly fading into the background.\nSubject & Appearance:\nLong, layered chestnut-brown hair with natural volume and soft flow. Wearing a warm cinnamon-brown (terracotta/russet tone) chiffon dress with delicate layered ruffles and sheer, airy sleeves that gently move with a light breeze.\nPose & Action:\nSeated naturally on top of the stone railing, body angled slightly toward the camera. One leg relaxed along the ledge. Holding a polished natural-wood acoustic guitar across the lap, one hand forming a chord on the fretboard while the other rests near the strings, suggesting a soft playing moment.\nExpression & Gaze:\nSerene, calm, and softly engaged expression. Eyes gently directed toward the camera with a peaceful, introspective presence.\nEnvironment Details:\nOn the right side of the frame, two pure white doves are perched closely together on the same stone railing, positioned in a way that their heads and bodies subtly form a heart shape. They remain secondary in focus, slightly forward on the right edge, adding balance and storytelling.\nLighting & Mood:\nGolden hour sunlight entering from the top-right corner, creating a strong yet soft directional glow. Warm rim lighting highlights the hair and edges of the dress, while the face remains evenly illuminated with natural soft fill. Cinematic warm tones with gentle shadow falloff.\nComposition:\nSubject placed slightly left-of-center, seated directly on the railing. Right side reserved for the doves, creating visual balance. Full-body framing, with clean negative space and soft background blur.\nTechnical Details:\nUltra-realistic, 8K detail, sharp focus on subject, natural skin texture (no plastic or over-smoothing), high dynamic range, cinematic color grading, 85mm lens look, f/2.0–f/2.8 shallow depth of field.\nAspect Ratio: 4:5 vertical portrait.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 36,
-      "view_count": 1341,
-      "copy_count": 2633,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764518053431.png",
-          "local_path": "images/photogrphy/1764518053431.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764518053431.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764518053431.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764518053431.png",
-          "width": 928,
-          "height": 1120,
-          "alt": "Gemini generated image: A young woman wearing a flowing, ruffled, brown dress sits on a mossy stone wall, playing an acoustic guitar, illuminated by warm sunlight, with two white doves perched beside her."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670238",
-      "title": "Black Saree with Floral Embroidery",
-      "slug": "black-saree-with-floral-embroidery",
-      "category": "Photoshoot",
-      "category_slug": "photogrphy",
-      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. Create A hyper-realistic medium shot portrait of a beautiful young Indian woman standing on a city street during the day. She is wearing a premium translucent black net saree adorned with glittering sequins and colorful floral embroidery (red, blue, green), paired with a solid black short-sleeved blouse. She wears a blue gemstone choker necklace, matching earrings, and a stack of blue bangles. She has a small black bindi, and her long wavy brown hair is parted in the middle. She is leaning casually against a black metal railing with her hands clasped. The background features blurred city architecture, brick buildings, and parked cars, creating a shallow depth of field. Soft, natural lighting, 8k resolution, high fidelity. Photorealistic style: The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 116,
-      "view_count": 4920,
-      "copy_count": 11863,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251130_151922.jpg",
-          "local_path": "images/photogrphy/IMG_20251130_151922.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_151922.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/IMG_20251130_151922.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/IMG_20251130_151922.jpg",
-          "width": 1849,
-          "height": 2304,
-          "alt": "Gemini Generated image of A beautiful woman with long brown hair, adorned in a black sari featuring colorful floral embroidery and sparkling blue jewelry and bangles, stands smiling on a city street beside a black railing"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670237",
       "title": "Quiet Luxury Leisure Time",
       "slug": "quiet-luxury-leisure-time",
@@ -1393,35 +1257,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670213",
-      "title": "Woman plays acoustic guitar",
-      "slug": "woman-plays-acoustic-guitar",
-      "category": "Photoshoot",
-      "category_slug": "photogrphy",
-      "prompt": "Create a soft, natural, photorealistic outdoor portrait of a person seated on a simple wooden chair, gently playing an acoustic guitar in daylight. The subject is positioned slightly right of center, body angled subtly toward the left, with the head tilted downward and eyes focused on the guitar strings, conveying a calm, introspective mood.\nOutfit consists of a clean, minimal white sleeveless ribbed top paired with fitted light blue jeans, maintaining a simple and modern aesthetic. Hair is tied back in a neat low ponytail with a few soft strands framing the face, adding natural elegance. Expression is serene and focused, with a relaxed, peaceful feel.\nThe acoustic guitar features warm natural wood tones with visible grain texture, held comfortably across the lap, one hand forming chords on the fretboard while the other gently strums near the sound hole.\nBackground is a neutral gray wall with a smooth matte finish, clean and distraction-free, with absolutely no greenery, plants, or additional elements. The scene is outdoors, illuminated by soft natural daylight, creating gentle highlights and mild shadows without harsh contrast or overexposure.\nCamera angle is eye-level with a slight downward perspective, framed as a medium shot (waist-up), ensuring both the subject and guitar are clearly visible. Composition is minimal and balanced with subtle negative space.\nTechnical details: ultra-realistic, high resolution, natural color grading, soft contrast, shallow depth of field, 50mm lens look, f/2.8 aperture, crisp focus on subject, softly blurred background, lifestyle photography style. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 44,
-      "view_count": 1473,
-      "copy_count": 2309,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764161793490.png",
-          "local_path": "images/photogrphy/1764161793490.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764161793490.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764161793490.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764161793490.png",
-          "width": 960,
-          "height": 1088,
-          "alt": "Ai generated image of Woman playing acoustic guitar"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670212",
       "title": "Woman enjoys snowy view",
       "slug": "woman-enjoys-snowy-view",
@@ -1476,35 +1311,6 @@
           "width": 864,
           "height": 1184,
           "alt": "AI generated image of Man stands against a vibrant orange wall with dramatic shadows cast"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670210",
-      "title": "Stylish man holds horse",
-      "slug": "stylish-man-holds-horse",
-      "category": "Photoshoot",
-      "category_slug": "photogrphy",
-      "prompt": "Use the uploaded reference photo for the exact face and hairstyle. Create an ultra-realistic cinematic portrait of an elegant man standing next to a majestic black horse in a snowy forest. The man wears a completely black outfit: a tailored coat, a high-neck sweater, gloves, and sunglasses, which gives him a mysterious and powerful aura. Snowflakes gently fall around her, resting on her coat and hair. while soft, fuzzy light creates a cool, melancholic winter atmosphere. The horse looks strong and elegant, with the snow-covered mane, and both subjects radiate sophistication and quiet mastery. Capture tone and composition with high detail, depth, and cinematic contrast for a luxurious, dramatic visual effect.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 170,
-      "view_count": 5066,
-      "copy_count": 14681,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764150488209.png",
-          "local_path": "images/photogrphy/1764150488209.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764150488209.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/photogrphy/1764150488209.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/photogrphy/1764150488209.png",
-          "width": 832,
-          "height": 1248,
-          "alt": "Ai generated image of a man standing next to a black horse in winter bakground"
         }
       ]
     },

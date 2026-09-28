@@ -1,7 +1,7 @@
 {
   "category": "Double Exposure",
   "slug": "double-exposure",
-  "total_prompts": 19,
+  "total_prompts": 15,
   "updated_at": "2026-09-24T12:55:00Z",
   "prompts": [
     {
@@ -122,35 +122,6 @@
       ]
     },
     {
-      "id": "6a7b53474bbdbe2cf592597e",
-      "title": "Elegant Couple in Blue Outfit – Double Exposure Portrait",
-      "slug": "indian-couple-blue-double-exposure-portrait-photoshoot",
-      "category": "Double Exposure",
-      "category_slug": "double-exposure",
-      "prompt": "Use the uploaded image strictly for accurate facial identity matching of both subjects. Create a photorealistic cinematic romantic couple portrait featuring an couple standing close together, looking lovingly into each other’s eyes.\nComposition: Vertical 4:5 portrait, mid-thigh-up framing. The woman stands slightly in front on the left, while the man stands beside her on the right, creating an intimate balanced composition. Add a large, softly blended monochrome blue-gray double-exposure portrait of the same couple in the background, showing their faces in profile as they gaze at each other.\nWoman: Elegant woman with naturally styled hair, subtle bindi, wearing a shimmering light sky-blue sequined saree with matching blouse, traditional silver/gold jhumka earrings, multiple blue bangles, delicate rings, natural makeup, soft red lipstick.\nMan: Handsome man with neatly styled hair, wearing a light sky-blue button-up shirt, black trousers, black belt, and a premium wristwatch.\nPose & Expression: Couple standing naturally close, facing each other with gentle romantic eye contact. The woman has a soft, subtle smile while the man looks at her affectionately. Relaxed, elegant body language.\nBackground: Dark cinematic smoky studio background in deep blue-gray tones, with the large monochrome couple portrait softly faded behind the foreground subjects. Smooth atmospheric texture and subtle vignette.\nLighting: Soft cinematic studio lighting, gentle key light on the faces, subtle rim lighting, controlled highlights on the saree sequins, moody blue ambient tones, realistic skin tones, soft shadows.\nCamera: Eye-level angle, 85mm portrait lens, f/1.8, shallow depth of field, realistic bokeh, high-end professional photography, cinematic color grading, ultra-detailed fabric and skin textures, HDR, photorealistic, 8K resolution.\nNegative prompt: distorted face, identity change, bad anatomy, blurry faces, plastic skin, oversaturated colors, warped clothing, text, watermark, logo.",
-      "description": "Studio Couple Portrait Prompt: Copy & Paste this prompt to create an elegant Indian couple photoshoot in matching blue outfits, with a sequin saree and soft duotone ghost-portrait background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 88,
-      "view_count": 5442,
-      "copy_count": 8150,
-      "is_premium": false,
-      "published_at": "2026-08-11T16:52:23.682Z",
-      "images": [
-        {
-          "filename": "aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "local_path": "images/double-exposure/aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/double-exposure/aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/double-exposure/aa247a1c-4e28-4af3-9f03-8796fc6b86ad.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Blue Saree Couple Portrait with Duotone Background AI Photo Editing Prompt. AI generated studio portrait of an Indian couple in matching blue outfits, sequin saree and shirt, posed against a soft blue duotone ghost-portrait backdrop."
-        }
-      ]
-    },
-    {
       "id": "6a6b7f6d4bbdbe2cf50d7c83",
       "title": "Striding Forward Against a Faded Smiling Backdrop",
       "slug": "double-exposure-portrait-photography",
@@ -206,55 +177,6 @@
           "width": 1792,
           "height": 2400,
           "alt": "walking-girl-in-blue-plaid-outfit-ai-photo-editing-ai-prompt-by-promptplum-4"
-        }
-      ]
-    },
-    {
-      "id": "6a68de334bbdbe2cf5c7597c",
-      "title": "Double Exposure B&W Couple By Lake Portrait",
-      "slug": "bw-double-exposure-couple-lake-portrait",
-      "category": "Double Exposure",
-      "category_slug": "double-exposure",
-      "prompt": "Create a cinematic double-exposure black-and-white romantic portrait of a couple standing back-to-back while holding hands, both with their eyes gently closed and peaceful expressions, symbolizing love, trust, and emotional connection. Captured in an eye-level camera angle with a medium composition. The woman wears an elegant sleeveless flowing black dress with long wavy hair, while the man wears a fitted black button-up shirt and dark trousers with a neatly styled hair. Large, soft-faded monochrome side-profile portraits of both faces are blended into the cloudy sky above, creating a dreamy, emotional composition. The background features a calm mountain lake surrounded by misty hills, soft fog, and an overcast sky. Fine-art monochrome photography, subtle film grain, soft diffused lighting, smooth tonal contrast, ultra-realistic skin texture, cinematic depth, shallow depth of field, perfectly balanced composition, emotional storytelling, high dynamic range, 85mm lens, f/2, 8K resolution, photorealistic, masterpiece quality, no text, no watermark, no distortion. Aspect ratio 4:5.",
-      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a moody B&W image of a couple holding hands back-to-back beneath fading faces in a cloudy sky.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 128,
-      "view_count": 8277,
-      "copy_count": 9975,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:52:03.908Z",
-      "images": [
-        {
-          "filename": "3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "local_path": "images/double-exposure/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/double-exposure/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/double-exposure/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "B&W Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated conceptual double-exposure portrait of a B&W couple, eyes closed, holding hands back-to-back over a misty mountain lake with large faded ghost profile faces in the cloudy sky."
-        },
-        {
-          "filename": "a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "local_path": "images/double-exposure/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/double-exposure/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/double-exposure/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Black and White Double Exposure Portrait AI Photo Editing Prompt. AI generated surreal double exposure portrait of a monochrome couple standing back-to-back with eyes closed by a misty lake, featuring larger versions of their profile faces superimposed over the cloudy sky."
-        },
-        {
-          "filename": "f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "local_path": "images/double-exposure/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/double-exposure/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/double-exposure/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Portrait AI Photo Editing Prompt. AI generated portrait art of a couple standing back-to-back with faded faces over a misty lake."
         }
       ]
     },
@@ -658,84 +580,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "AI generated digital art portrait of a man wearing a leather jacket with high-contrast black and white tones and red digital glitch fragments."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704d6",
-      "title": "Soulmate Horizon",
-      "slug": "romantic-couple-beach-name-art",
-      "category": "Double Exposure",
-      "category_slug": "double-exposure",
-      "prompt": "Create a hyper-realistic cinematic couple photography poster, 2:3 portrait format.\nDual-zone composite layout: [TOP ZONE — Blue Cinematic Close-Up] Extreme macro close-up of a young couple, foreheads pressed together in an intimate near-kiss pose, eyes gently shut, soft genuine smiles, slightly faded color tones. Shot with Sony Alpha 1 Mirrorless, 85mm f/1.2 prime lens, creamy bokeh, cool blue-steel color grade (#1a3a5c tonal palette).\nFaces razor-sharp, background melting into buttery bokeh haze. Cinematic soft haze overlay blending into the middle of the frame.\n[BOTTOM ZONE — Warm Full-Body Romance Shot] Same couple, warm natural daylight, slight Dutch/market tilt on frame. Man: white breathable linen half-sleeve shirt, bracelet on wrist, dark trousers. Woman: deep red satin spaghetti-strap fitted dress, naturally styled hair flowing freely. Both leaning foreheads together, gazing down at a dark-paper-wrapped red rose bouquet they hold between them. Overcast ocean/horizon soft blurred background, \"soft blurred background\", \"creamy bokeh effect\", \"shallow depth of field look\", \"cinematic haze\". Clear faces, clean skin, photorealistic detail.\n[BOTTOM TEXT OVERLAY] White handwritten signature-style cursive script: → \"Soulmate\" (large, central) — two tiny flying dove silhouettes above the descender of 'l' → Below in clean white uppercase sans-serif with wide letter-spacing: \"JACK-ROSE\" → Below that: \"05 FEBRUARY 2022\" Style: Editorial pre-wedding photography, Vogue India aesthetic, Sony Alpha 1 mirrorless, f/1.2 aperture, ISO 200, daylight balanced. Ultra-realistic, no illustration, photographic grain.",
-      "description": "Romantic Double Exposure Photography Prompt: Copy and paste this prompt to create a sentimental beach portrait of a couple holding red roses with elegant personalized typography.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 433,
-      "view_count": 16859,
-      "copy_count": 60624,
-      "is_premium": false,
-      "published_at": "2026-08-06T13:14:09.529Z",
-      "images": [
-        {
-          "filename": "romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "local_path": "images/double-exposure/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/double-exposure/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/double-exposure/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Romantic Couple Beach Poster AI Photo Editing Prompt. AI generated digital illustration of a couple touching foreheads on a beach with a bouquet of red roses."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704ab",
-      "title": "The Weighted Bloom",
-      "slug": "double-exposure-couple-portrait",
-      "category": "Double Exposure",
-      "category_slug": "double-exposure",
-      "prompt": "Create an artistic and emotionally powerful grey-and-white prewedding photograph using a refined double exposure technique.\nThe composition features two merged profile portraits forming a single harmonious silhouette.\nOn the left side, the woman is shown in an elegant side profile, facing left. Her hair is styled softly with natural flow (loose waves or gently tucked behind the ear). She wears a modest, refined bridal gown with delicate fabric textures. Her expression carries a gentle, sincere smile with soft, hopeful eyes.\nOn the right side, the man appears in a side profile facing right, with his gaze slightly lowered. His expression is calm and filled with quiet admiration and love. He is dressed in a well-tailored formal suit.\nBoth profiles blend seamlessly into each other, creating a romantic and balanced double exposure effect. The edges should merge smoothly without harsh transitions, forming a unified silhouette.\nThe background is clean, light gray with faint hints of natural scenery subtly visible within the exposure. Lighting is soft yet dramatic, enhancing facial contours, hair texture, and gentle shadows to emphasize depth and emotion.\nStyle should feel like a timeless studio portrait with a modern artistic touch — highly detailed, clean, and natural, avoiding any artificial or overly processed look.\n--grey and white --double exposure --high detail --emotional --studio style --aspect ratio 4:5",
-      "description": "Double Exposure Fine Art Photography Prompt: Use this prompt to create emotive black and white portraits of a man and woman standing back-to-back with surreal nature overlays.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 107,
-      "view_count": 2688,
-      "copy_count": 5437,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "local_path": "images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated artistic digital portrait of a man and woman standing back-to-back in a black and white double exposure style featuring nature silhouettes."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "local_path": "images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Monochrome Couple Double Exposure Portrait Prompt. AI generated double exposure portrait of a man in a suit and a woman in a lace dress looking in opposite directions in black and white."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "local_path": "images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/double-exposure/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated monochrome double exposure portrait of a man and woman standing back-to-back with a serene forest landscape layered over their profiles."
         }
       ]
     },

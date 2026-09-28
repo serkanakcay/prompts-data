@@ -1,7 +1,7 @@
 {
   "category": "High-resolution",
   "slug": "high-resolution",
-  "total_prompts": 54,
+  "total_prompts": 46,
   "updated_at": "2026-09-24T12:57:19Z",
   "prompts": [
     {
@@ -121,35 +121,6 @@
       ]
     },
     {
-      "id": "6a8f148846d4207dc23fac39",
-      "title": "Man in Colorblock Shirt Holding Rose",
-      "slug": "trendy-menswear-studio-photo-prompt",
-      "category": "High-resolution",
-      "category_slug": "high-resolution",
-      "prompt": "Create an ultra-realistic full-body fashion portrait of a stylish man standing confidently in a vibrant cyan-blue seamless studio environment. Preserve the reference subject’s facial features, hairstyle, and overall appearance with maximum identity accuracy.\nHe wears a relaxed-fit short-sleeve abstract patterned button-up shirt featuring bold geometric blocks of blue, black, olive green, and muted gray, with the top buttons slightly open and a subtle silver cross pendant visible around his neck. Pair it with tailored black high-waisted trousers, a black belt, and polished black leather lace-up dress shoes with thick soles. A premium silver metal wristwatch is visible on his left wrist, and he wears thin, minimalist metal-frame eyeglasses.\nPose: standing naturally with his body slightly angled, head gently tilted downward while gazing toward the red rose in his right hand. His right hand holds a single fresh red rose near his chest, while his left hand rests casually inside his trouser pocket. Calm, thoughtful, elegant expression with a relaxed, sophisticated fashion-editorial presence.\nSet the scene against a clean vivid cyan-blue seamless infinity studio backdrop and floor, with a subtle tonal gradient and gentle darker falloff toward the edges. Soft studio lighting evenly illuminates the subject, creating natural highlights on the face, shirt, watch, rose, and shoes with realistic soft shadows beneath the feet.\nFull-body composition, subject centered in frame with generous negative space around him, eye-level camera angle, natural proportions, realistic fabric texture, detailed leather shoes, ultra-detailed skin texture, crisp focus, subtle cinematic depth of field, professional luxury fashion photography, 85mm portrait lens, f/2, ultra-detailed, photorealistic, 8K resolution, 4:5 aspect ratio.\nNegative prompt: distorted anatomy, altered facial features, duplicated rose, artificial skin, blurry face, low resolution, cropped feet, cropped head, cluttered background, extra objects, extra people.",
-      "description": "Studio Fashion Portrait Prompt: Copy & Paste this Prompt to create a stylish full body photo of a man in a colorblock shirt holding a red rose against a teal background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 762,
-      "copy_count": 789,
-      "is_premium": false,
-      "published_at": "2026-08-26T16:30:00.844Z",
-      "images": [
-        {
-          "filename": "92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "local_path": "images/high-resolution/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/92047353-03ca-4bc0-983e-3ca4cb7c7d08.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in Colorblock Shirt Holding a Rose AI Photo Editing Prompt. AI generated studio portrait of a bespectacled man in a patchwork shirt holding a single red rose against a teal background."
-        }
-      ]
-    },
-    {
       "id": "6a8c59944bbdbe2cf527b5dc",
       "title": "Surreal Green Studio Portrait of Man",
       "slug": "man-green-aesthetic-photography-prompt",
@@ -214,45 +185,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Bearded Man in Black Shirt Against Rustic Wall AI Photo Editing Prompt. AI generated autumn fashion portrait of a bearded man wearing a black linen shirt and cream trousers, leaning against a weathered stucco wall surrounded by fall leaves."
-        }
-      ]
-    },
-    {
-      "id": "6a8484fc4bbdbe2cf5705684",
-      "title": "Crimson Saree and Cream Kurta Studio Portrait",
-      "slug": "5-newlywed-indian-couple-portrait-prompt",
-      "category": "High-resolution",
-      "category_slug": "high-resolution",
-      "prompt": "Create a photorealistic waist-up couple portrait, vertically framed. Preserve the exact facial identity and distinctive features of the reference faces. The man stands slightly behind/left, while the woman stands close beside him with her arm gently resting around his waist. Both face the camera with relaxed, natural expressions. Balanced intimate composition with the subjects centered and filling most of the frame.\nMan: Handsome man with naturally styled hair, smooth skin, wearing a clean ivory-white traditional kurta with a high collar.\nWoman: Elegant woman with long wavy hair, soft glam makeup, small red bindi, gold earrings, and white flowers tucked behind her hair. Wearing a luxurious bright red silk saree with a rich golden border.\nPose & Expression: Couple standing close together, natural affectionate body language. Both with a gentle smile and direct eye contact with the camera.\nBackground: Minimal warm gray smooth studio wall with subtle vintage character, softly illuminated circular glow behind the couple, cinematic shadows and gentle vignette.\nLighting: Warm directional studio light from the front-right, soft diffused highlights on faces and clothing, natural falloff, subtle film-like contrast, realistic skin tones, elegant shadow definition.\nCamera & Technical: Eye-level camera angle, medium portrait framing, 85mm lens, f/1.8, shallow depth of field, cinematic color grading, ultra-detailed skin and fabric texture, photorealistic, ultra-detailed, 8K resolution, vertical composition, 4:5 aspect ratio.\nNegative Prompt: distorted anatomy, unnatural hands, deformed faces, plastic skin, identity change, oversharpening, excessive makeup, blurry subjects, text, watermark, logo.",
-      "description": "Traditional Studio Photography Prompt: Copy and paste this prompt to generate a realistic portrait of a smiling Indian couple in a cream kurta and red saree.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 55,
-      "view_count": 2340,
-      "copy_count": 4187,
-      "is_premium": false,
-      "published_at": "2026-08-18T16:14:52.708Z",
-      "images": [
-        {
-          "filename": "dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "local_path": "images/high-resolution/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Traditional Wear AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a cream kurta standing with a woman in a red saree and jasmine hair garland."
-        },
-        {
-          "filename": "86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "local_path": "images/high-resolution/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Traditional Wear AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a cream kurta standing with a woman in a red saree and jasmine hair garland."
         }
       ]
     },
@@ -344,35 +276,6 @@
       ]
     },
     {
-      "id": "6a7f3fc04bbdbe2cf5f2a542",
-      "title": "Traditional Indian Couple Watercolor Art",
-      "slug": "romantic-couple-watercolor-portrait-prompt",
-      "category": "High-resolution",
-      "category_slug": "high-resolution",
-      "prompt": "Create a highly detailed, romantic watercolor illustration of a beautiful couple in a graceful waist-up composition. Preserve the exact facial identity and recognizable features of both subjects from the reference image. The woman is seated slightly in front, wearing a pristine white kurta with a flowing, translucent pastel-pink dupatta featuring delicate watercolor bleeds, soft edges, and fine speckles. She has smooth natural skin, a small bindi, elegant traditional gold jhumka earrings, and long dark hair styled in a thick, loose side braid resting over her shoulder, with soft tendrils framing her face. She wears a soft, hopeful smile and gazes gently upward toward the right. Beside and slightly behind her sits a handsome man with neatly styled hair, wearing a crisp white kurta with a mandarin collar. He gazes in the same upward direction with a calm, thoughtful expression. Their poses feel natural, intimate, and harmonious.\nThe background is a clean white watercolor canvas adorned with loose, expressive floral motifs—soft pastel-pink flowers and delicate green leaves cascading from the upper-right corner and blooming behind the woman on the left. Subtle pink watercolor splatters, droplets, pigment blooms, and organic brush textures are scattered throughout, enhancing the authentic traditional watercolor aesthetic. Bright, soft, diffused high-key lighting creates an airy, ethereal glow with no harsh shadows. Eye-level camera angle, waist-up medium portrait, balanced composition, delicate facial linework, wet-on-wet watercolor technique, translucent layered washes, soft pigment gradients, refined brushwork, pastel color palette, elegant romantic mood, highly detailed, artistic yet natural, ultra-high-resolution digital artwork, 8K, vertical composition, aspect ratio 4:5.",
-      "description": "Watercolor Couple Portrait Prompt: Copy & Paste this Prompt to create a soft, romantic watercolor illustration of a beautiful Indian couple in traditional white attire with delicate floral details.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 53,
-      "view_count": 1700,
-      "copy_count": 2893,
-      "is_premium": false,
-      "published_at": "2026-08-14T16:18:08.481Z",
-      "images": [
-        {
-          "filename": "d9bf04dc-ca5d-49d2-a97e-8c17ee81c808.jpeg",
-          "local_path": "images/high-resolution/d9bf04dc-ca5d-49d2-a97e-8c17ee81c808.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/d9bf04dc-ca5d-49d2-a97e-8c17ee81c808.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/d9bf04dc-ca5d-49d2-a97e-8c17ee81c808.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/d9bf04dc-ca5d-49d2-a97e-8c17ee81c808.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple Watercolor Portrait AI Photo Editing Prompt. AI generated digital watercolor illustration of a smiling Indian couple in traditional white and pink attire surrounded by soft floral accents."
-        }
-      ]
-    },
-    {
       "id": "6a7db2604bbdbe2cf5ca2445",
       "title": "Blue-Eyed Man Vector Illustration",
       "slug": "handsome-man-graphic-art",
@@ -457,36 +360,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Milan Piazza Fashion Photo AI Photo Editing Prompt. AI generated street portrait of a smiling man in a black knit polo and loose blue jeans standing on wet pavement in front of Milan Cathedral with a rainbow visible."
-        }
-      ]
-    },
-    {
-      "id": "6a70c99e4bbdbe2cf597fe97",
-      "title": "Twilight Seaside Romance",
-      "slug": "elegant-beach-couple-portraits",
-      "category": "High-resolution",
-      "category_slug": "high-resolution",
-      "prompt": "A photorealistic, ultra-detailed medium portrait of a highly attractive, elegant couple standing closely together on a beach at twilight. The beautiful woman has long, flowing hair and is wearing a form-fitting navy blue off-the-shoulder evening dress, accessorized with diamond drop earrings, a diamond necklace, a tennis bracelet, and a silver ring. She has a warm, radiant smile. The handsome man natural hair and wears a crisp white linen button-down shirt with rolled-up sleeves, navy blue dress pants, a brown leather belt, and a silver steel watch. He has a confident, subtle smile. His right arm is around her waist, and his left hand is tucked in his pocket. Both make direct eye contact with the camera. The background features a dark blue ocean with gentle waves, and creamy bokeh from distant coastal city lights under a deep blue evening sky. Shot on an 85mm lens, f/1.8 aperture, shallow depth of field, soft flattering diffused lighting illuminating their faces, 8k, masterpiece, cinematic portrait photography, ultra-detailed skin textures. Aspect ratio 4:5.\nMaintain accurate identity and precise face matching to the provided reference image for both subjects.",
-      "description": "Romantic Couple Photography Prompt: Copy & Paste this prompt to create a photorealistic portrait of an elegant couple embracing on a beach at dusk.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 72,
-      "view_count": 2117,
-      "copy_count": 3257,
-      "is_premium": false,
-      "published_at": "2026-08-03T17:02:22.847Z",
-      "images": [
-        {
-          "filename": "a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "local_path": "images/high-resolution/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Evening Beach Couple Portrait AI Photo Editing Prompt. AI generated photo-realistic portrait of a man in a white linen shirt and a woman in a dark blue off-shoulder dress embracing on a beach at dusk."
         }
       ]
     },
@@ -755,35 +628,6 @@
       ]
     },
     {
-      "id": "6a365f99bf79ee5252c15da3",
-      "title": "Stark Juxtaposition",
-      "slug": "intense-bnw-portrait-photography",
-      "category": "High-resolution",
-      "category_slug": "high-resolution",
-      "prompt": "Create a striking, ultra-realistic black-and-white extreme close-up portrait of two subjects in a dramatic split composition. The primary subject occupies the left side of the frame in the foreground, with only the right half of their face visible as the rest is cropped by the left edge. Their skin displays extraordinary micro-detail, including visible pores, subtle skin texture, fine lines. A highly intricate Chinese dragon tattoo wraps around the neck, rendered with razor-sharp detail. The eye is intensely focused, piercing, and directed straight into the camera.\nPositioned slightly behind on the right side is a second subject, partially concealed by the foreground figure. Their face emerges from the shadows with flawless, smooth skin, luminous highlights, perfectly shaped natural eyebrows. Both subjects wear simple white garments and maintain a powerful, unwavering gaze into the lens, conveying confidence, intensity, and emotional depth.\nComposition is an extremely tight vertical close-up. The man is the primary subject and dominant focal point, occupying the foreground on the left side of the frame, while the woman is the secondary subject, positioned slightly behind him on the right and partially concealed by his face. The layered arrangement creates strong visual depth, tension, and cinematic intimacy.\nLighting is dramatic high-contrast chiaroscuro studio lighting. A focused key light from the front-left sculpts facial features, accentuating every pore, wrinkle, and tattoo detail on the foreground subject, while creating smooth, glossy highlights across the skin and lips of the background subject. Deep shadows fade seamlessly into a pure pitch-black background, producing a cinematic fine-art aesthetic with exceptional dimensionality.\nShot on an 85mm portrait lens, f/4 aperture, shallow depth of field, tack-sharp focus on both eyes, rich tonal separation, deep blacks, brilliant highlights, hyper-realistic skin rendering, ultra-fine texture reproduction, editorial luxury portrait photography, cinematic monochrome grading, museum-quality detail, HDR tonality, masterpiece photography, 8K resolution.\nAspect ratio 4:5.",
-      "description": "B&W Portrait Photography Prompt: Copy & paste this prompt to create a dramatic monochrome close-up of a man and woman featuring a detailed dragon neck tattoo.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 35,
-      "view_count": 864,
-      "copy_count": 1586,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "local_path": "images/high-resolution/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "width": 825,
-          "height": 1024,
-          "alt": "Dragon Tattoo Couple Portrait AI Photo Editing Prompt. AI generated dramatic monochrome portrait of a man with a detailed dragon neck tattoo and facial stubble positioned closely next to a smooth-skinned woman looking directly at the camera."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670208",
       "title": "Venom action",
       "slug": "venom-action",
@@ -925,64 +769,6 @@
           "width": 928,
           "height": 1120,
           "alt": "Gemini Generated Image: A cool-looking man with sunglasses and headphones is recording a podcast into a microphone, sitting at a wooden table in a dimly lit, stylish room."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267026c",
-      "title": "The Royal Bride",
-      "slug": "the-royal-bride",
-      "category": "High-resolution",
-      "category_slug": "high-resolution",
-      "prompt": "Without changing facial feature and face \"A close-up portrait of an Indian bride, with her eyes gently closed in a moment of calm reflection. A delicate, sheer red dupatta is draped over her head, subtly catching the light and creating a graceful, flowing effect. She is wearing a richly embroidered deep red or maroon lehenga blouse and skirt, adorned with intricate gold thread work. Her jewelry is elaborate and traditional: a heavy gold choker necklace, a long layered rani haar necklace with a distinctive black pendant, large gold jhumka earrings, a traditional nath (nose ring), and a maang tikka. Her hair is styled neatly, possibly with a side part. The background is softly blurred with warm, neutral tones, suggesting an elegant indoor setting. The lighting is soft, warm, and atmospheric, highlighting her features and the textures of her attire and jewelry. High-resolution, cinematic portrait photography, rich in detail and emotion.'Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1192,
-      "copy_count": 2121,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_002557.jpg",
-          "local_path": "images/high-resolution/IMG_20251205_002557.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_002557.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/IMG_20251205_002557.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/IMG_20251205_002557.jpg",
-          "width": 1888,
-          "height": 2258,
-          "alt": "Gemini Generated Image: a beautiful Indian bride in a traditional red and gold wedding outfit (lehenga/saree and dupatta). She is wearing heavy, elaborate gold jewelry, including a choker, long necklaces, large earrings, and a maang tikka (forehead ornament), with her eyes closed. The background is softly lit and looks like a rich indoor setting."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670265",
-      "title": "Traditional Bridal Regalia",
-      "slug": "traditional-bridal-regalia",
-      "category": "High-resolution",
-      "category_slug": "high-resolution",
-      "prompt": "Without changing facial feature and face A captivating close-up portrait of an Indian bride, with half of her face subtly veiled by a sheer, off-white or cream dupatta adorned with a heavy, intricate gold and pearl border. Her visible eye is open, intensely gazing directly at the viewer, with dramatic eyeliner and makeup. She is wearing an elegant off-white or cream lehenga blouse with subtle embroidery. Her hand, adorned with intricate mehndi and delicate gold haath phool (hand jewelry), gently holds the veil. She is bedecked in exquisite gold and pearl jewelry with ruby/maroon accents, including a prominent choker necklace, large dangling earrings, a traditional nath (nose ring) with a floral design, and a matha patti (headpiece) with pearl drops. A small red bindi is on her forehead. The lighting is soft, warm, and focused, highlighting her features and the sparkle of her jewelry against a blurred, neutral background. Artistic, high-fashion bridal photography, high-resolution, richUse the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 49,
-      "view_count": 1342,
-      "copy_count": 2887,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_000908.jpg",
-          "local_path": "images/high-resolution/IMG_20251205_000908.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_000908.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/IMG_20251205_000908.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/IMG_20251205_000908.jpg",
-          "width": 1792,
-          "height": 2349,
-          "alt": "Gemini AI Generated Image: a beautiful Indian bride wearing a traditional off-white/cream lehenga and heavy gold and ruby jewelry. She is partially covering her face with a net dupatta (veil) that has ornate borders."
         }
       ]
     },
@@ -1561,35 +1347,6 @@
           "width": 1696,
           "height": 2505,
           "alt": "AI generated image: portrait photo of a stylish young man standing casually in front of a modern mirror with warm studio lighting"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670213",
-      "title": "Woman plays acoustic guitar",
-      "slug": "woman-plays-acoustic-guitar",
-      "category": "High-resolution",
-      "category_slug": "high-resolution",
-      "prompt": "Create a soft, natural, photorealistic outdoor portrait of a person seated on a simple wooden chair, gently playing an acoustic guitar in daylight. The subject is positioned slightly right of center, body angled subtly toward the left, with the head tilted downward and eyes focused on the guitar strings, conveying a calm, introspective mood.\nOutfit consists of a clean, minimal white sleeveless ribbed top paired with fitted light blue jeans, maintaining a simple and modern aesthetic. Hair is tied back in a neat low ponytail with a few soft strands framing the face, adding natural elegance. Expression is serene and focused, with a relaxed, peaceful feel.\nThe acoustic guitar features warm natural wood tones with visible grain texture, held comfortably across the lap, one hand forming chords on the fretboard while the other gently strums near the sound hole.\nBackground is a neutral gray wall with a smooth matte finish, clean and distraction-free, with absolutely no greenery, plants, or additional elements. The scene is outdoors, illuminated by soft natural daylight, creating gentle highlights and mild shadows without harsh contrast or overexposure.\nCamera angle is eye-level with a slight downward perspective, framed as a medium shot (waist-up), ensuring both the subject and guitar are clearly visible. Composition is minimal and balanced with subtle negative space.\nTechnical details: ultra-realistic, high resolution, natural color grading, soft contrast, shallow depth of field, 50mm lens look, f/2.8 aperture, crisp focus on subject, softly blurred background, lifestyle photography style. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 44,
-      "view_count": 1473,
-      "copy_count": 2309,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764161793490.png",
-          "local_path": "images/high-resolution/1764161793490.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764161793490.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/high-resolution/1764161793490.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/high-resolution/1764161793490.png",
-          "width": 960,
-          "height": 1088,
-          "alt": "Ai generated image of Woman playing acoustic guitar"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "category": "Fine Art",
   "slug": "fine-art",
-  "total_prompts": 71,
+  "total_prompts": 65,
   "updated_at": "2026-09-24T12:56:08Z",
   "prompts": [
     {
@@ -367,55 +367,6 @@
           "width": 1842,
           "height": 2304,
           "alt": "serene-woman-in-windy-green-grass-field-portrait-ai-prompt-by-promptplum-6"
-        }
-      ]
-    },
-    {
-      "id": "6a68de334bbdbe2cf5c7597c",
-      "title": "Double Exposure B&W Couple By Lake Portrait",
-      "slug": "bw-double-exposure-couple-lake-portrait",
-      "category": "Fine Art",
-      "category_slug": "fine-art",
-      "prompt": "Create a cinematic double-exposure black-and-white romantic portrait of a couple standing back-to-back while holding hands, both with their eyes gently closed and peaceful expressions, symbolizing love, trust, and emotional connection. Captured in an eye-level camera angle with a medium composition. The woman wears an elegant sleeveless flowing black dress with long wavy hair, while the man wears a fitted black button-up shirt and dark trousers with a neatly styled hair. Large, soft-faded monochrome side-profile portraits of both faces are blended into the cloudy sky above, creating a dreamy, emotional composition. The background features a calm mountain lake surrounded by misty hills, soft fog, and an overcast sky. Fine-art monochrome photography, subtle film grain, soft diffused lighting, smooth tonal contrast, ultra-realistic skin texture, cinematic depth, shallow depth of field, perfectly balanced composition, emotional storytelling, high dynamic range, 85mm lens, f/2, 8K resolution, photorealistic, masterpiece quality, no text, no watermark, no distortion. Aspect ratio 4:5.",
-      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a moody B&W image of a couple holding hands back-to-back beneath fading faces in a cloudy sky.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 128,
-      "view_count": 8277,
-      "copy_count": 9975,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:52:03.908Z",
-      "images": [
-        {
-          "filename": "3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "local_path": "images/fine-art/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "B&W Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated conceptual double-exposure portrait of a B&W couple, eyes closed, holding hands back-to-back over a misty mountain lake with large faded ghost profile faces in the cloudy sky."
-        },
-        {
-          "filename": "a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "local_path": "images/fine-art/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Black and White Double Exposure Portrait AI Photo Editing Prompt. AI generated surreal double exposure portrait of a monochrome couple standing back-to-back with eyes closed by a misty lake, featuring larger versions of their profile faces superimposed over the cloudy sky."
-        },
-        {
-          "filename": "f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "local_path": "images/fine-art/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Portrait AI Photo Editing Prompt. AI generated portrait art of a couple standing back-to-back with faded faces over a misty lake."
         }
       ]
     },
@@ -960,55 +911,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704ab",
-      "title": "The Weighted Bloom",
-      "slug": "double-exposure-couple-portrait",
-      "category": "Fine Art",
-      "category_slug": "fine-art",
-      "prompt": "Create an artistic and emotionally powerful grey-and-white prewedding photograph using a refined double exposure technique.\nThe composition features two merged profile portraits forming a single harmonious silhouette.\nOn the left side, the woman is shown in an elegant side profile, facing left. Her hair is styled softly with natural flow (loose waves or gently tucked behind the ear). She wears a modest, refined bridal gown with delicate fabric textures. Her expression carries a gentle, sincere smile with soft, hopeful eyes.\nOn the right side, the man appears in a side profile facing right, with his gaze slightly lowered. His expression is calm and filled with quiet admiration and love. He is dressed in a well-tailored formal suit.\nBoth profiles blend seamlessly into each other, creating a romantic and balanced double exposure effect. The edges should merge smoothly without harsh transitions, forming a unified silhouette.\nThe background is clean, light gray with faint hints of natural scenery subtly visible within the exposure. Lighting is soft yet dramatic, enhancing facial contours, hair texture, and gentle shadows to emphasize depth and emotion.\nStyle should feel like a timeless studio portrait with a modern artistic touch — highly detailed, clean, and natural, avoiding any artificial or overly processed look.\n--grey and white --double exposure --high detail --emotional --studio style --aspect ratio 4:5",
-      "description": "Double Exposure Fine Art Photography Prompt: Use this prompt to create emotive black and white portraits of a man and woman standing back-to-back with surreal nature overlays.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 107,
-      "view_count": 2688,
-      "copy_count": 5437,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "local_path": "images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated artistic digital portrait of a man and woman standing back-to-back in a black and white double exposure style featuring nature silhouettes."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "local_path": "images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Monochrome Couple Double Exposure Portrait Prompt. AI generated double exposure portrait of a man in a suit and a woman in a lace dress looking in opposite directions in black and white."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "local_path": "images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated monochrome double exposure portrait of a man and woman standing back-to-back with a serene forest landscape layered over their profiles."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526704a9",
       "title": "Rugged Restraint",
       "slug": "man-portrait-pencil-sketch",
@@ -1034,65 +936,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Man Sketch AI Photo Editing Prompt. AI generated pencil sketch portrait of a handsome man with messy hair and a beard featuring expressive cross-hatching and artistic charcoal lines."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704a1",
-      "title": "Family Silhouette",
-      "slug": "family-silhouette-art-with-quote",
-      "category": "Fine Art",
-      "category_slug": "fine-art",
-      "prompt": "Use the uploaded image ONLY for face and identity reference of all subjects. Do not alter facial structure, skin tone, age, or likeness. Maintain accurate identity for each person.\nCreate a 4:5 aspect ratio, high-contrast black-and-white cinematic silhouette portrait of a family (mother, father, and child) in an intimate, emotional composition.\n\nComposition & Pose:\nThree subjects in close proximity forming a triangular composition\nChild positioned in the center, facing slightly upward to the mother\nMother on one side and father on the other, both gently leaning toward the child\nParents’ faces angled downward toward the child, creating a soft, loving connection\nCapture only side profiles / semi-profiles (no full frontal face)\n\nLighting (CRITICAL):\nStrong backlight source (bright circular/oval light) directly behind subjects\nSubjects appear as dark silhouettes with soft glowing edge highlights (rim light)\nNo front lighting — faces remain mostly in shadow\nClean separation between subjects and background using light halo\n\nStyle & Mood:\nMinimal, emotional, timeless family moment\nDeep blacks, bright whites, no mid-tone clutter\nSoft gradients around light source, rest pure black\nStudio-like controlled environment\nDetails:\nSubtle visible outlines of hair, nose, lips, and clothing edges\nNatural posture, not stiff or posed\nKeep clothing simple and non-distracting\n\nText (optional, centered bottom):\n“FAMILY” in bold uppercase with wide character spacing\nSubtext: “Where life begins & love never ends”\n\nQuality:\nUltra-realistic, sharp edges, cinematic photography, high contrast, 8K feel\n\nNegative Prompt:\ncolor, flat lighting, front-lit faces, smiling directly at camera, cartoon, illustration, blur, distortion, extra people, shoulder crops, bad anatomy",
-      "description": "Artistic Silhouette Photography Prompt: Use this prompt to generate a minimalist, high-contrast image of a family silhouette against a glowing circular backdrop to capture an intimate moment of eternal love.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 78,
-      "view_count": 2776,
-      "copy_count": 5612,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "local_path": "images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Silhouette Family Portrait AI Photo Editing Prompt. AI generated artistic silhouette portrait of a father, mother, and baby looking at each other against a glowing circular light."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "local_path": "images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Silhouette with Quote AI Photo Editing Prompt. AI generated minimalist studio portrait of a mother, father, and child in silhouette looking at each other against a soft circular backlight."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "local_path": "images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated digital silhouette portrait of a father, mother, and young child facing each other against a bright circular glow with a sentimental quote."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "local_path": "images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
         }
       ]
     },
@@ -1664,65 +1507,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267044e",
-      "title": "Frayed Reality",
-      "slug": "torn-photo-effect-emotional-contrast-photography",
-      "category": "Fine Art",
-      "category_slug": "fine-art",
-      "prompt": "Use the uploaded photo as a strict identity reference.\n\nThe subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain exactly identical.\n\nThis is one single continuous face (not two people, no duplication).\n⚠️ Absolute constraint:\n\nThe face must NOT change across sections. Only rendering style and emotion change.\nMain Concept\nCreate a 4:5 ultra-realistic cinematic studio portrait with DSLR realism, 8K detail, natural skin texture, and shallow depth of field.\n\nConcept: public persona vs hidden emotion revealed through a torn paper strip.\nComposition (STRICT GEOMETRY)\nVertical 4:5 portrait\nSubject perfectly centered\nFace straight, no tilt, direct eye contact\nSymmetrical alignment across the vertical axis\nSubject Framing (IMPORTANT)\nHead-and-shoulders portrait (tight crop)\nTop crop: slightly above head (minimal headroom)\nBottom crop: mid-chest level (turtleneck fully visible)\nSubject occupies ~70–80% of frame height\nVery little empty space on sides (clean editorial framing)\nBackground\nDark cinematic seamless studio background\nSmooth gradient:\nSlight neutral gray behind the head (center)\nFades to deep black toward edges and corners\nSubtle vignette effect\nNo texture, no color cast, no patterns\nTorn Paper Layout (CRITICAL)\nCreate ONE horizontal torn-paper strip across the eyes:\n\nPosition: exactly across the eye region (mid-face only)\nThickness: ~20–25% of face height\nEdges: rough, fibrous, uneven\nRight side: slightly rolled/curling paper edge (visible depth)\nRealistic paper thickness + soft shadow\n⚠️ Must look like the top layer is torn and the inner layer revealed\n\n⚠️ No duplication of face\nBase Layer (Full Image — Public Persona)\nFull color\nWarm, natural skin tones\nVisible red lipstick (clean, defined)\nSubtle, confident, closed-mouth smile\nHair:\n\nFront-falling wavy hair\nNatural flow toward the shoulders\nSoft volume, defined strands, slight shine\nOutfit:\n\nBlack turtleneck\nSoft visible fabric texture (subtle knit detail)\nLighting:\n\nSoft cinematic studio lighting\nGentle highlights + soft shadows\nSkin texture preserved (no smoothing)\nInside Torn Paper (ONLY inside strip — Hidden Emotion)\nPure black-and-white (strict monochrome)\nSame face, perfectly aligned\nExpression:\n\nEmotionally vulnerable, slightly tense\nTear (MANDATORY — DO NOT MISS)\nTwo clearly visible tear streams (one under each eye)\nSharp, reflective, well-defined\nCatching light (specular highlights)\nNot faint, not blurred\nLighting:\n\nSlightly higher contrast\nMore shadow depth around the eyes\nRealism Enforcement\nPhotorealistic DSLR output\nVisible pores and natural skin texture\nHair strands are individually defined\nTear reflections crisp and sharp\nPaper edges detailed with depth and shadow\nHard Constraints\nOne face only\nPerfect alignment across layers\nNo facial distortion\nTear must be clearly visible\nHair is consistent across layers\nNo stylization\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo vertical split\n\nNo misaligned layers\n\nNo weak or missing tears\n\nNo flat lighting\n\nNo plastic skin\n\nNo illustration/cartoon / 3D\n\nNo blur on eyes or tears\n\nNo lipstick missing\n\nNo wrong crop or loose framing",
-      "description": "Google Gemini AI Conceptual Portrait Prompt: Use this prompt to generate a striking image of a smiling woman with a torn paper effect revealing crying black-and-white eyes, symbolizing hidden emotional pain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 490,
-      "copy_count": 479,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "local_path": "images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Torn Paper Crying Eyes AI Photo Editing Prompt. AI generated conceptual portrait of a blonde woman with a torn paper strip revealing crying eyes over a smiling face."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "local_path": "images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Hidden Crying Eyes Photography Prompt. AI generated conceptual portrait of a woman smiling with red lips while a torn paper effect reveals her eyes crying in black and white."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "local_path": "images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Crying Eyes Torn Paper Photo Prompt. AI generated conceptual portrait of a smiling woman featuring a torn paper effect that reveals crying eyes in black and white."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "local_path": "images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman with Torn Paper Eyes Portrait Prompt. AI generated conceptual portrait of a smiling woman with red lipstick, featuring a horizontal paper tear effect that reveals crying eyes in grayscale."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670446",
       "title": "Wistful Horizons",
       "slug": "thoughtful-woman-pencil-art-sketch",
@@ -2040,35 +1824,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Woman with Water Droplets AI Photo Editing Prompt. AI generated high-contrast portrait of a woman's face covered in realistic water droplets with dramatic chiaroscuro lighting."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670404",
-      "title": "Family Sequence",
-      "slug": "black-and-white-family-profile-portrait",
-      "category": "Fine Art",
-      "category_slug": "fine-art",
-      "prompt": "Create a classic low-key black-and-white studio portrait of a family of four arranged in a staggered side-profile composition, all facing right. Maintain accurate identity and face matching to the provided reference image for all four subjects — preserve exact facial structure, proportions, skin texture, hairlines.\nMid-chest shot (cropped from mid chest upward), tight vertical composition. All four subjects are wearing solid matte black t-shirts with no logos, no reflective elements — blending subtly into shadow while maintaining garment structure.\nDiagonal alignment from front-left (father closest to camera) to back-right (youngest child farthest). Overlapping layered composition.\nCRITICAL — Natural Height-Based Staggered Arrangement:\n\nSubjects must be arranged in realistic descending height order consistent with a natural family hierarchy. The father (foreground) is the tallest, followed slightly behind by the mother, who is slightly shorter. Behind her stands the first child, clearly shorter than the mother, and, in the far background, the second child, the shortest of all. The top of each subject’s head forms a gradual downward diagonal slope from left (tallest father) to right (shortest child). Eye levels must also progressively lower in the same sequence. This height progression must appear anatomically natural and realistic, not artificially aligned or equalized. Maintain accurate proportional scaling and perspective depth consistent with real-world height differences.\nTrue monochrome (black and white), high contrast, deep blacks, smooth midtone transitions. Dramatic chiaroscuro lighting with a single directional key light from camera-right, slightly above eye level, no equipment/object visible in frame. Strong shadow falloff into pure black background. Deep negative space on the left.\nSharp catchlights in all eyes from a small gridded softbox. Crisp highlight definition on nose bridges, cheekbones, lips, and jawlines.\nFather (foreground, sharpest focus): His expression appears steady and confident with a subtle smile. His gaze is fixed forward, conveying strength and leadership. Visible individual hairs, strong skin micro-contrast, wear a black t-shirt fading into shadow.\nMother (second): She has a soft, graceful smile (upper teeth visible). Long voluminous wavy hair, subtle earrings, smooth skin, and wear a black outfit.\nChild (third): Her expression shows youthful curiosity and positivity, with a subtle smile (upper teeth visible), slightly pulled-back natural hair, and a simple black outfit.\nChild (background): He looks calm and thoughtful. His face carries innocence and quiet confidence, as if observing something meaningful ahead.\nLens look: 85mm–135mm telephoto compression, no distortion.\n\nAperture look: f/5.6–f/8 layered depth, foreground sharpest with subtle gradual falloff.\nUltra-detailed skin texture, realistic pores, cinematic tonal grading, professional studio photography, timeless, museum-quality.\n4K resolution detail, ultra-sharp, high micro-contrast, refined tonal range.\n\nAspect ratio 4:5\nNegative prompt:\n\nlow quality, blur, head crop, frame crop, over exposure, visible equipment, equal head height, flat alignment, incorrect height proportions, unrealistic scaling",
-      "description": "Family Photo Editing Prompt: Use this prompt to create a professional black and white studio portrait of a family of four in side profile against a dark, minimalist background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 211,
-      "view_count": 6936,
-      "copy_count": 17648,
-      "is_premium": false,
-      "published_at": "2026-08-08T20:13:38.649Z",
-      "images": [
-        {
-          "filename": "black-white-family-profile-portrait-by-promptplum.webp",
-          "local_path": "images/fine-art/black-white-family-profile-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/black-white-family-profile-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/black-white-family-profile-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/black-white-family-profile-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Profile in Monochrome AI Photo Editing Prompt. AI generated studio portrait of a father, mother, and two children in black t-shirts, arranged by height in a side-profile composition against a dark background."
         }
       ]
     },
@@ -2418,45 +2173,6 @@
           "width": 1920,
           "height": 2240,
           "alt": "A pensive woman holds coffee in a moody, dimly lit cafe. A blurred figure in the foreground creates a cinematic contrast against warm fairy lights and greenery."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267039a",
-      "title": "Behind the Smile",
-      "slug": "split-face-happy-sad-woman-portrait",
-      "category": "Fine Art",
-      "category_slug": "fine-art",
-      "prompt": "Use the uploaded photo as a strict identity reference. The subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain identical.\nThis is one single subject (not two people, not two faces).\n\nOnly the style and emotion changes across the split.\nNo beautification. No reshaping. No stylization. No identity drift.\nMain Concept\nCreate a 4:5 aspect ratio, ultra-realistic cinematic studio portrait with DSLR realism, 8K sharp detail, natural skin texture, soft focus, and shallow depth of field.\nA conceptual duality portrait: public persona vs hidden emotion.\nComposition & Framing\nVertical, centered portrait\nSubject perfectly centered, facing forward, direct eye contact\nOne continuous face across the split\nA jagged white torn-paper seam runs vertically down the exact center\nHead-and-shoulders framing, subject fills most of the frame\nMatte black studio background\nSubject\nA slender adult woman wearing a black turtleneck sweater.\n\nNatural wavy hair with realistic texture and shine.\nLeft Side (Color) — Public Persona\nFull color (ONLY left side)\nWarm, glowing complexion\nVibrant red lipstick\nConfident closed-mouth smile\nLighting: warm and flattering, highlights hair shine and skin glow\nRight Side (Black & White) — Private Reality\nPure monochrome / black-and-white (ONLY right side)\nSame exact face and hair (no duplication)\nSomber, melancholic expression\nLips neutral, slightly parted\nA single visible tear running down near the center seam\nLighting: soft but moody, more shadow depth under the eyes\nRealism & Texture\nPhotorealistic DSLR look, visible pores, natural skin texture, no smoothing, no artificial glow.\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo face morphing\n\nNo painting/illustration/anime/cartoon / 3D\n\nNo plastic skin\n\nNo over-softening",
-      "description": "Create powerful visual storytelling with this split-face portrait AI prompt. Generate realistic happy vs. sad images featuring a torn paper effect, vibrant colors, and cinematic black and white crying details.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1374,
-      "copy_count": 2563,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "local_path": "images/fine-art/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Split portrait: one side is vibrant and smiling, the other is grayscale and tearful. A torn paper edge dramatically separates these two moods against a deep black backdrop."
-        },
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "local_path": "images/fine-art/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fine-art/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fine-art/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
         }
       ]
     },

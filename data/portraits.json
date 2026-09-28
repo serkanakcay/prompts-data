@@ -1,7 +1,7 @@
 {
   "category": "Portraits",
   "slug": "portraits",
-  "total_prompts": 305,
+  "total_prompts": 269,
   "updated_at": "2026-09-24T13:11:26Z",
   "prompts": [
     {
@@ -979,55 +979,6 @@
       ]
     },
     {
-      "id": "6a8b09034bbdbe2cf50810c9",
-      "title": "Male Model with Chain Necklace Photo",
-      "slug": "dark-cinematic-male-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Ultra-realistic cinematic fashion portrait of a young man with a strong, magnetic presence and effortless masculine confidence. Medium close-up, facing the camera, with a naturally commanding posture. His body language should feel relaxed but dominant — one shoulder slightly forward, neck relaxed, head subtly tilted, chin slightly lowered, and eyes looking directly into the lens with a calm, sharp, self-assured intensity. His expression should carry quiet dominance, subtle arrogance, and effortless attitude — not smiling, not soft, not overly dramatic, just a controlled, confident, slightly provocative look. A faint hint of a smirk or tension at the lips is acceptable, but the overall expression must feel cool, composed, and powerful.\n\nHe wears a silk black open-collar shirt with the top buttons undone, creating a refined yet rebellious luxury-fashion vibe. A thin silver chain rests naturally at the corner of his slightly parted lips, with only a tiny section subtly secured by the teeth just behind the lips, making the hold physically believable while keeping the teeth almost completely hidden. The chain hangs loosely and naturally downward, creating an effortless, candid fashion-editorial gesture rather than an obvious biting pose.\n\nPreserve realistic facial proportions, natural masculine character, authentic skin texture, subtle imperfections, visible pores, fine facial details, realistic lips, natural eyebrows, detailed eyes with lifelike catchlights, and individually defined hair strands. The face should look mature, confident, and stylish, with a strong jawline and naturally attractive structure. Avoid an overly polished, artificial, or generic model-like appearance.\n\nDark seamless black studio background with soft shadow falloff and subtle atmospheric depth. Warm golden sunlight enters dramatically from the left side of the frame, sculpting the cheekbone, jawline, nose, and hair while the opposite side falls into rich cinematic shadow. Classic Rembrandt-inspired lighting with a soft golden highlight across the face, deep blacks, controlled highlights, and premium cinematic contrast.\n\nLuxury men's fashion editorial aesthetic — sophisticated, mysterious, confident, slightly rebellious, intimate, expensive, and cinematic. The portrait should feel like a high-end fragrance campaign or premium men's fashion magazine cover. The subject must look like he knows the camera is on him and is completely in control of the frame, with natural swagger and presence rather than a passive portrait pose.\n\nShot at eye level on a Sony A7R V with an 85mm f/1.4 lens, shallow depth of field, creamy background separation, tack-sharp focus on both eyes, natural perspective compression, soft falloff toward the shoulders, realistic optical depth, and professional studio photography characteristics.\n\nPhotorealistic natural color grading with warm golden skin highlights, neutral realistic skin tones, deep rich blacks, subtle tonal separation, soft highlights in the hair, realistic shadow detail, HDR dynamic range, ultra-detailed 8K appearance, premium editorial retouching while retaining authentic human skin texture.\n\nComposition: vertical 4:5 aspect-ratio, medium close-up showing the full head, neck, shoulders, and upper chest with comfortable headroom. Subject centered with a powerful magazine-cover composition. No awkward cropping. The pose should feel natural, stylish, and slightly seductive, with a clear sense of attitude and personality.\n\nOverall vibe: magnetic, confident, masculine, mysterious, dominant, effortlessly stylish, slightly dangerous, premium, cinematic, and emotionally present.\n\nNegative Prompt:\nblurry, low quality, low resolution, cartoon, painting, illustration, CGI look, artificial face, generic AI model face, emotionless expression, soft innocent expression, friendly smile, happy expression, timid vibe, nervous pose, awkward pose, stiff shoulders, passive body language, weak eye contact, blank stare, exaggerated seductive expression, forced pose, visible biting, exposed teeth gripping chain, clenched teeth, chain stretched tightly, chain floating unnaturally on lips, awkward chain placement, chain covering face, distorted chain, distorted face, bad anatomy, asymmetrical eyes, crossed eyes, deformed eyes, unnatural jawline, waxy skin, plastic skin, airbrushed skin, excessive skin smoothing, oversaturated skin, unrealistic facial proportions, duplicate face, extra fingers, visible hands unless naturally framed, overexposed highlights, crushed facial details, flat lighting, unrealistic lighting, harsh artificial rim light, excessive orange tones, background clutter, text, logo, watermark, noise, excessive grain, motion blur, poor focus, cropped forehead, cropped chin.",
-      "description": "Use this cinematic studio photography prompt to create a dark, moody portrait of a handsome man in a black silk shirt biting a silver chain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 19,
-      "view_count": 1477,
-      "copy_count": 1518,
-      "is_premium": false,
-      "published_at": "2026-09-01T22:27:58.831Z",
-      "images": [
-        {
-          "filename": "37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "local_path": "images/portraits/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "original_url": "https://img.promptplum.com/promptImages/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Moody Editorial Portrait AI Photo Editing Prompt. AI generated studio portrait of a curly-haired man in an open black shirt biting a silver chain necklace against a dark background."
-        },
-        {
-          "filename": "bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "local_path": "images/portraits/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Dark cinematic male portrait with a silver chain AI Photo Editing Prompt. AI generated studio portrait of a handsome man in a black silk shirt biting a chain."
-        },
-        {
-          "filename": "daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "local_path": "images/portraits/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated studio portrait of a curly-haired man in a black shirt holding a thin silver chain in his mouth against a dark background."
-        }
-      ]
-    },
-    {
       "id": "6a8262914bbdbe2cf53e2b06",
       "title": "Red Rim Lighting Chiaroscuro Portrait",
       "slug": "red-neon-outline-portrait",
@@ -1122,55 +1073,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Golden Hour Street Style Photography AI Photo Editing Prompt. AI generated realistic portrait of a young man wearing sunglasses and an olive green shirt, walking and looking back on a city waterfront promenade at sunset."
-        }
-      ]
-    },
-    {
-      "id": "6a7e1bb14bbdbe2cf5d72c3d",
-      "title": "Groom Tuxedo Boutonniere Portrait",
-      "slug": "groom-tuxedo-boutonniere-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "\"A professional editorial-style portrait of a young man wearing a classic black tuxedo with satin peak lapels, white pleated dress shirt, and black bow tie. He has naturally styled hair and well groomed appearance. He is adjusting his cufflink on his left wrist with his right hand, looking downward with a calm, focused expression. A white rose boutonniere with delicate baby's breath and greenery is pinned to his lapel, paired with a black pocket square. Background features a soft, blurred neutral cream wall with a large vintage-style round wall clock with black rim and Roman/Arabic numerals partially visible behind him, plus a rustic dark wooden wall shelf on the left side, out of focus. Warm, soft natural window lighting from the side creating gentle shadows, shallow depth of field (bokeh background), shot on a full-frame camera with 85mm lens, f/1.8 aperture. Wedding photography style, cinematic, warm and moody tones, high resolution, ultra-realistic, professional groom portrait, 4K quality.\"\n\n---\n\n**Negative prompt:**\n\"blurry face, distorted hands, extra fingers, low resolution, cartoonish, overexposed, flat lighting, plastic skin texture\"\n\nAspect ratio 4:5",
-      "description": "Use this cinematic wedding portrait prompt to create a hyper-realistic image of a groom in a black tuxedo and white boutonniere adjusting his cufflinks.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 590,
-      "copy_count": 549,
-      "is_premium": false,
-      "published_at": "2026-08-14T18:05:36.959Z",
-      "images": [
-        {
-          "filename": "d9a0d313-a2b0-4135-94f0-b3cce3241f3e.webp",
-          "local_path": "images/portraits/d9a0d313-a2b0-4135-94f0-b3cce3241f3e.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d9a0d313-a2b0-4135-94f0-b3cce3241f3e.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/d9a0d313-a2b0-4135-94f0-b3cce3241f3e.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/d9a0d313-a2b0-4135-94f0-b3cce3241f3e.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Cinematic groom tuxedo portrait AI Photo Editing Prompt. AI generated portrait of a handsome groom in a black tuxedo and white rose boutonniere adjusting his cufflinks."
-        },
-        {
-          "filename": "f73fd430-f4ab-44f1-ba53-e49de9960880.webp",
-          "local_path": "images/portraits/f73fd430-f4ab-44f1-ba53-e49de9960880.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f73fd430-f4ab-44f1-ba53-e49de9960880.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/f73fd430-f4ab-44f1-ba53-e49de9960880.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/f73fd430-f4ab-44f1-ba53-e49de9960880.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated portrait of a young groom in a black tuxedo adjusting his cufflink, wearing a white rose boutonniere, with a vintage clock in the background."
-        },
-        {
-          "filename": "c3d01511-640c-4786-b69f-03a624c8b2fb.webp",
-          "local_path": "images/portraits/c3d01511-640c-4786-b69f-03a624c8b2fb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c3d01511-640c-4786-b69f-03a624c8b2fb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/c3d01511-640c-4786-b69f-03a624c8b2fb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/c3d01511-640c-4786-b69f-03a624c8b2fb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "elegant-groom-black-tuxedo-boutonniere-portrait-ai-prompt-by-promptplum-3"
         }
       ]
     },
@@ -1745,84 +1647,6 @@
       ]
     },
     {
-      "id": "6a6bf4964bbdbe2cf5164226",
-      "title": "Couple Walking on Tropical Beach",
-      "slug": "romantic-couple-beach-walk-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a premium, ultra-realistic tropical vacation portrait of the uploaded couple, preserving each person’s individual facial identity, skin tone, age, hairstyle and recognizable features without blending their features. Dress the woman in an airy beige linen V-neck midi dress with natural flowing movement, simple jewellery and a woven straw shoulder bag, leaving her barefoot. Dress the man in a lightweight white linen button-down shirt with rolled sleeves, tailored beige shorts and clean white low-top sneakers. Place them walking naturally side by side toward the camera along the shoreline, following a slightly diagonal path across the sand. They share relaxed body language, a gentle arm-around interaction and warm, cheerful expressions while looking at each other. Surround them with soft sand, turquoise water and towering green limestone cliffs, with a light ocean breeze moving their hair and clothing. Position the camera several metres ahead of them at eye level, capturing a natural frontal three-quarter full-body view. Use soft golden-hour sunlight, accurate skin exposure, realistic fabric and skin texture, an 85mm perspective and f/3.2 depth of field. Premium tropical travel lifestyle photography, 4:5 aspect ratio.",
-      "description": "Photorealistic Couple Photography Prompt: Use this to generate a realistic image of a romantic couple walking on a tropical beach near limestone cliffs.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 37,
-      "view_count": 2333,
-      "copy_count": 2520,
-      "is_premium": false,
-      "published_at": "2026-07-31T01:04:22.792Z",
-      "images": [
-        {
-          "filename": "2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "local_path": "images/portraits/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Beach Couple Photography AI Photo Editing Prompt. AI generated photorealistic portrait of a smiling young couple strolling barefoot on a sandy tropical beach near turquoise water and limestone cliffs."
-        }
-      ]
-    },
-    {
-      "id": "6a6a8e294bbdbe2cf5f1f864",
-      "title": "Golden Hour Couple City Portrait",
-      "slug": "couple-golden-hour-city-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a premium, ultra-realistic lifestyle portrait of the uploaded couple, preserving each person’s individual facial identity, skin tone, age, hairstyle and recognizable features without blending their features. Dress them in coordinated but non-matching modern smart-casual outfits in complementary neutral tones. Place them on an elegant city street during golden hour, standing naturally close with relaxed body language and a gentle hand-holding interaction. Keep both faces clearly visible near the same focal plane, with subtle closed-mouth smiles and authentic chemistry. Use soft diffused golden light, accurate skin exposure, realistic fabric and skin texture, an eye-level 85mm perspective and f/3.2 depth of field. Premium American lifestyle editorial photography, 4:5 aspect ratio.",
-      "description": "Golden Hour Street Photography Prompt: Use this prompt to create a realistic portrait of a young couple holding hands on a cobblestone city street at dusk.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 47,
-      "view_count": 3822,
-      "copy_count": 4786,
-      "is_premium": false,
-      "published_at": "2026-07-29T23:35:05.676Z",
-      "images": [
-        {
-          "filename": "d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "local_path": "images/portraits/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/d3325ac5-3f62-4a73-93ff-9a11b8dc2986.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Young Couple Street Photography AI Photo Editing Prompt. AI generated outdoor portrait of a young couple holding hands on a paved European street during the golden hour with warm background bokeh."
-        },
-        {
-          "filename": "329510a7-9451-409b-811c-4402ef448172.webp",
-          "local_path": "images/portraits/329510a7-9451-409b-811c-4402ef448172.webp",
-          "original_url": "https://img.promptplum.com/promptImages/329510a7-9451-409b-811c-4402ef448172.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/329510a7-9451-409b-811c-4402ef448172.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/329510a7-9451-409b-811c-4402ef448172.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated photorealistic portrait of a young man in a dark blazer and a woman in a beige trench coat holding hands on a sunlit street."
-        },
-        {
-          "filename": "51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "local_path": "images/portraits/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "original_url": "https://img.promptplum.com/promptImages/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/51b9915e-954c-4d5f-8cc9-34c8e73a65dd.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple City Portrait AI Photo Editing Prompt. AI generated photorealistic portrait of a young smiling couple embracing on a cobblestone European street during golden hour."
-        }
-      ]
-    },
-    {
       "id": "6a67cf374bbdbe2cf5ad316a",
       "title": "The Glowing Butterfly",
       "slug": "magical-butterfly-girl-portrait",
@@ -1878,155 +1702,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "AI generated digital portrait of a smiling woman in a green off-the-shoulder sweater with a glowing golden butterfly on her finger against a black starry background."
-        }
-      ]
-    },
-    {
-      "id": "6a65248d9d499d9af98afe47",
-      "title": "Colorful Scribble Art Family Portrait",
-      "slug": "colorful-scribble-art-family-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create an ultra-detailed hand-drawn scribble-art portrait using the uploaded family photo only as the reference for each person’s facial identity, age, gender, skin tone, hairstyle, and family members. Include exactly the same 3 or 4 people—do not add, remove, replace, or merge anyone. Do not copy the original pose, composition, background, or exact clothing.\nCreate a fresh, professionally arranged family pose. Place the entire family prominently in the center of a vertical composition, close together with warm, natural interaction. Position the parents behind or beside the children, gently leaning inward. For one child, place them centrally between or slightly in front of the parents; an infant or toddler may be held naturally. For two children of any age or gender, arrange both clearly in the center foreground or between the parents with balanced spacing and every face fully visible. Give everyone warm, natural expressions directed toward the viewer.\nRestyle the family in coordinated, elegant outfits suitable for their age, gender, and cultural appearance. If the reference clothing is very simple, enhance it with richer colors, tasteful patterns, refined fabric details, subtle embroidery, layering, or appropriate accessories. The outfits should look stylish and complementary without becoming overly formal. Do not reproduce the exact original clothes.\nRender the portrait using thousands of overlapping, free-flowing thin pen strokes and colorful ink scribbles in black, blue, orange, pink, purple, and red. Preserve recognizable facial features, realistic anatomy, expressive eyes, intricate crosshatching, delicate shading, and accurate proportions.\nUse clean white textured paper as the background. Keep the family sharply detailed and fully defined at the center, while the outer edges of their clothing and surrounding linework gradually dissolve into loose, colorful scribbles and softly fade into the white background on both sides. Maintain balanced negative space around the centered family.\nEye-level medium family portrait, gallery-quality traditional pen-and-ink illustration, vibrant artistic energy, ultra-sharp detail, vertical composition. Aspect ratio 4:5.",
-      "description": "Scribble Art Portrait Prompt: Use this prompt to create a colorful ballpoint pen sketch of a smiling family posing on textured white paper.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 3343,
-      "copy_count": 2437,
-      "is_premium": false,
-      "published_at": "2026-07-25T21:03:09.299Z",
-      "images": [
-        {
-          "filename": "7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "local_path": "images/portraits/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "original_url": "https://img.promptplum.com/promptImages/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/7c1a5b4e-6098-449e-b593-e9cdb7d8efcd.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Intricate Ballpoint Sketch Family Portrait AI Photo Editing Prompt. AI generated digital illustration art of a smiling woman and bearded man holding their baby against a white background."
-        },
-        {
-          "filename": "25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "local_path": "images/portraits/25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/25db284a-00d8-485f-b6a2-12a65102955c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling mother and father holding their baby, drawn with colorful scribble lines."
-        },
-        {
-          "filename": "5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "local_path": "images/portraits/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/5fc121bd-b775-4b1f-8fad-f8b16c817741.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Scribble Art Family Portrait AI Photo Editing Prompt. AI generated illustrative sketch art of a smiling Indian family with parents and baby in colorful traditional attire against a white background."
-        },
-        {
-          "filename": "011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "local_path": "images/portraits/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/011fba92-aa7f-47a7-96c9-6bb76497639b.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Happy Family Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration portrait of a smiling young family: father in a blue blazer, mother in a purple patterned dress, and baby in a fox sweater."
-        },
-        {
-          "filename": "34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "local_path": "images/portraits/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/34a34c77-e3db-421d-b909-b06be4225a9b.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Colorful Scribble Family Portrait AI Photo Editing Prompt. AI generated digital illustration of a smiling husband and wife holding their baby girl in a vibrant ballpoint pen sketch style."
-        },
-        {
-          "filename": "eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "local_path": "images/portraits/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "original_url": "https://img.promptplum.com/promptImages/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/eb3f326c-045c-44cd-bae2-d78580aa0354.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Portrait Sketch Art AI Photo Editing Prompt. AI generated portrait illustration of a smiling Asian family of four, rendered in a textured, colorful scribble sketch art style."
-        },
-        {
-          "filename": "06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "local_path": "images/portraits/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/06134317-8802-4fa0-b589-fbb55ae0192c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "local_path": "images/portraits/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "original_url": "https://img.promptplum.com/promptImages/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/dbfd290d-7887-49f5-bbc4-a52966a1d3f9.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-6"
-        },
-        {
-          "filename": "299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "local_path": "images/portraits/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "original_url": "https://img.promptplum.com/promptImages/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/299b12bd-f6b5-4d0b-9922-b2e3347ea785.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Colorful Scribble Art Family Portrait"
-        },
-        {
-          "filename": "725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "local_path": "images/portraits/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "original_url": "https://img.promptplum.com/promptImages/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/725020da-cfc5-443b-9ee1-9b9530400afc.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-8"
-        },
-        {
-          "filename": "93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "local_path": "images/portraits/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "original_url": "https://img.promptplum.com/promptImages/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/93b76ccf-1065-4cdd-90bf-d4eeab7ade59.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-11"
-        },
-        {
-          "filename": "c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "local_path": "images/portraits/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/c868a3d0-b73b-48ac-822a-55f12e3c09d2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "local_path": "images/portraits/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "original_url": "https://img.promptplum.com/promptImages/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/17f3461c-6cd4-4184-9093-feb882b21f60.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "colorful-scribble-family-portrait-prompt-by-promptplum-9"
         }
       ]
     },
@@ -2135,115 +1810,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Pencil Sketch Man AI Photo Editing Prompt. AI generated Digital Colored Pencil Art Portrait of a man wearing glasses, a mustard-yellow flat cap, and a thick knitted yellow scarf."
-        }
-      ]
-    },
-    {
-      "id": "6a5503027877e7a4d7b4f566",
-      "title": "Classic Family Portrait in Navy",
-      "slug": "studio-family-photography-navy-outfit",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a premium, photorealistic full-length studio portrait of the uploaded family of three. Use the uploaded image strictly only for the face and identity reference for each individual: preserve the adult woman’s exact recognizable face, facial structure, skin tone, hairstyle, and age; preserve the adult man’s exact recognizable face, facial structure, skin tone, hairstyle, beard or clean-shaven appearance, and age; and preserve the baby’s exact recognizable face, infant features, skin tone, hairstyle, and natural age. Keep all three identities clearly separate and do not blend, exchange, beautify, or reinterpret their facial features.\nPlace the adult woman from the reference image slightly right of center, seated naturally on a tall black geometric metal stool. She holds the same baby from the reference image securely and upright on her lap, supporting the baby naturally with both hands. Place the adult man from the reference image standing closely on the left, leaning slightly toward the woman and baby. Keep their heads positioned close together in a balanced, affectionate family composition.\nUse soft, composed expressions with natural eye contact. Keep the expressions subtle and avoid exaggerated emotions.\nDress the woman in an elegant floor-length deep navy-blue sleeveless gown with softly flowing fabric. Dress the man in a fitted dark navy button-up shirt, light grey tailored trousers, a minimal wristwatch, and dark brown leather loafers. Dress the baby in a crisp white shirt with striped suspenders, beige pinstriped trousers, and small brown shoes.\nUse a seamless charcoal-grey studio backdrop with a subtle textured finish, without visible corners or floor lines. Add soft directional studio lighting from the upper left, with flattering facial highlights, gentle shadows, and clear separation from the background. Keep all three faces equally sharp and detailed, especially the baby’s face. Maintain realistic skin texture, natural infant proportions, accurate hands and fingers, detailed clothing fabric, and polished professional family-photography quality. Full-body vertical composition, minimal headroom, 85mm portrait lens look, high resolution, masterpiece, 3:4 aspect ratio, without text, logos, or watermarks.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 4713,
-      "copy_count": 979,
-      "is_premium": true,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "local_path": "images/portraits/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/e4d4941c-6015-4218-924d-6bd2c6dcd214.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "local_path": "images/portraits/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/0c317c8c-9630-4404-960d-1e94bd82266b.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "local_path": "images/portraits/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "original_url": "https://img.promptplum.com/promptImages/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/caf4eba5-4e6a-499c-b4dc-85cf3974e2ee.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "couple-with-baby-in-navy-outfit-studio-portrait-prompt-by-promptplum-1"
-        }
-      ]
-    },
-    {
-      "id": "6a53efc47877e7a4d7a82d4b",
-      "title": "Monochrome Family Profile Portrait",
-      "slug": "black-and-white-family-studio-profile",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Use the uploaded family photos as identity references and create an elegant vertical black-and-white family portrait featuring a father, mother, and young child arranged in overlapping side profiles. Place the father slightly behind on the left, the mother in the center, and the child in front on the right, with each face clearly visible and naturally layered without merging or distortion. All three should gaze softly upward toward the same off-camera direction, creating a hopeful and emotional expression.\nShow only their head, neck, and upper shoulders, dressed in simple dark clothing that blends smoothly into a pure black background. Illuminate their faces with soft directional light from the left, creating bright facial highlights, gentle shadows, realistic skin texture, crisp eyes, and a dramatic high-contrast monochrome look. Fade the outer edges of their hair, shoulders, and clothing gradually into the darkness for a seamless cinematic composition.\nKeep generous black negative space around the family. In the lower portion, add the word “FAMILY” in white, using one oversized elegant serif letter “F”, followed by “AMILY” in a thin handwritten uppercase style. Fine-art studio photography, emotional family poster aesthetic, clean composition, realistic facial proportions, sharp facial focus, smooth tonal gradients, vertical 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 58,
-      "view_count": 4842,
-      "copy_count": 3893,
-      "is_premium": false,
-      "published_at": "2026-07-29T21:35:38.567Z",
-      "images": [
-        {
-          "filename": "cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "local_path": "images/portraits/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "local_path": "images/portraits/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "original_url": "https://img.promptplum.com/promptImages/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "width": 928,
-          "height": 1152,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "local_path": "images/portraits/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "local_path": "images/portraits/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-4"
         }
       ]
     },
@@ -2978,35 +2544,6 @@
       ]
     },
     {
-      "id": "6a365f99bf79ee5252c15da3",
-      "title": "Stark Juxtaposition",
-      "slug": "intense-bnw-portrait-photography",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a striking, ultra-realistic black-and-white extreme close-up portrait of two subjects in a dramatic split composition. The primary subject occupies the left side of the frame in the foreground, with only the right half of their face visible as the rest is cropped by the left edge. Their skin displays extraordinary micro-detail, including visible pores, subtle skin texture, fine lines. A highly intricate Chinese dragon tattoo wraps around the neck, rendered with razor-sharp detail. The eye is intensely focused, piercing, and directed straight into the camera.\nPositioned slightly behind on the right side is a second subject, partially concealed by the foreground figure. Their face emerges from the shadows with flawless, smooth skin, luminous highlights, perfectly shaped natural eyebrows. Both subjects wear simple white garments and maintain a powerful, unwavering gaze into the lens, conveying confidence, intensity, and emotional depth.\nComposition is an extremely tight vertical close-up. The man is the primary subject and dominant focal point, occupying the foreground on the left side of the frame, while the woman is the secondary subject, positioned slightly behind him on the right and partially concealed by his face. The layered arrangement creates strong visual depth, tension, and cinematic intimacy.\nLighting is dramatic high-contrast chiaroscuro studio lighting. A focused key light from the front-left sculpts facial features, accentuating every pore, wrinkle, and tattoo detail on the foreground subject, while creating smooth, glossy highlights across the skin and lips of the background subject. Deep shadows fade seamlessly into a pure pitch-black background, producing a cinematic fine-art aesthetic with exceptional dimensionality.\nShot on an 85mm portrait lens, f/4 aperture, shallow depth of field, tack-sharp focus on both eyes, rich tonal separation, deep blacks, brilliant highlights, hyper-realistic skin rendering, ultra-fine texture reproduction, editorial luxury portrait photography, cinematic monochrome grading, museum-quality detail, HDR tonality, masterpiece photography, 8K resolution.\nAspect ratio 4:5.",
-      "description": "B&W Portrait Photography Prompt: Copy & paste this prompt to create a dramatic monochrome close-up of a man and woman featuring a detailed dragon neck tattoo.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 35,
-      "view_count": 864,
-      "copy_count": 1586,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "local_path": "images/portraits/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/0a1a7daa-a81f-4d86-ba9f-9cce24d90f65.webp",
-          "width": 825,
-          "height": 1024,
-          "alt": "Dragon Tattoo Couple Portrait AI Photo Editing Prompt. AI generated dramatic monochrome portrait of a man with a detailed dragon neck tattoo and facial stubble positioned closely next to a smooth-skinned woman looking directly at the camera."
-        }
-      ]
-    },
-    {
       "id": "6a3412c8bf79ee5252c05347",
       "title": "Split-Lit Studio Portrait",
       "slug": "cool-boy-attitude-pose-portrait",
@@ -3191,46 +2728,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Gemini_Generated_Image_ugqqfwugqqfwugqq"
-        }
-      ]
-    },
-    {
-      "id": "6a2bab7161276f872a44fdb9",
-      "title": "The Scribble Sketch Portrait",
-      "slug": "scribble-sketch-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a 8K highly detailed head-and-neck portrait illustration of a person. Use the attached image as the ONLY face-matching reference.\nComposition:\nThe composition includes the subject's head and shoulders, perfectly composed and perfectly centered. Maintain balanced negative space around the head and hair. The subject is looking directly into the camera with a strict eye-level, front-facing angle (no tilt). Expression should be calm, composed, and with lips gently closed. The subject is wearing a simple black round neck T-shirt, visible only at the shoulders and neckline.\nArt Style:\nRender the artwork as a raw, chaotic ink-style poster, constructed primarily from dense, curved black scribble strokes. The reference image is used strictly for accurate structure and likeness—do not stylize beyond recognition.\nLine Work & Form:\nBuild hair, facial shadows, and depth using layered, overlapping, uneven lines\nIncorporate rough cross-hatching techniques\nLines should feel organic, tangled, expressive, and slightly imperfect\nEmbrace a sense of controlled chaos and hand-drawn energy\nColor Palette (Strictly Minimal):\nSkin: flat beige tone only (no gradients, no realism)\nStructure & shading: deep black ink strokes only\nNo smooth blending or polished rendering\nStylistic Details:\nIntroduce slight asymmetry in line flow for a natural, raw feel\nSurround the subject with an irregular, abstract tangled aura made of loose scribbles\nEnhance the chaotic energy while maintaining structural clarity\nBackground:\nA solid, flat, vibrant yellow background, clean and uniform, creating strong contrast with the black ink work\nLighting:\nLighting should be implied only through line density—do not use realistic lighting or shading techniques\nOverall Look:\nHigh-contrast, graphic, poster-like aesthetic with a raw, expressive ink illustration style\nStrictly Avoid:\n3D effects\nRealistic rendering\nGradients\nSoft shading\nAny polished or clean digital finish\nStyle Direction:\nExpressive ink illustration / raw sketch poster / abstract line-art portrait\nOutput Quality:\n8K resolution\nAspect Ratio: 4:5",
-      "description": "Line Art Sketch Prompt: Copy & paste this prompt to create an intense black ink portrait of the person featuring scribbled lines against a bright yellow background.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 23,
-      "view_count": 851,
-      "copy_count": 1483,
-      "is_premium": false,
-      "published_at": "2026-08-10T16:24:32.589Z",
-      "images": [
-        {
-          "filename": "827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "local_path": "images/portraits/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man Scribble Sketch AI Photo Editing Prompt. AI generated digital illustration of a detailed sketch of a young man set against a solid yellow background with chaotic scribbles."
-        },
-        {
-          "filename": "53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "local_path": "images/portraits/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "original_url": "https://img.promptplum.com/promptImages/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Scribble Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration of a young woman with a messy updo drawn in detailed dark line art on a bright yellow background."
         }
       ]
     },
@@ -4211,35 +3708,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267044d",
-      "title": "Pencil & Promise",
-      "slug": "vintage-pencil-sketch-couple-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a refined, digitally rendered graphite sketch of a young couple in a 4:5 aspect ratio, designed as a romantic yet formal commemorative artwork. The composition blends intimate portraiture with a classical emblem aesthetic, set on a textured cream parchment background.\nFace & Identity (Critical):\n\nUse the reference image(s) for exact facial likeness. Preserve true facial structure, proportions, jawline, eyes, nose, lips, and natural imperfections. Do not beautify, stylize, or alter identity.\nSubjects & Expression:\n\nThe woman (left) has her eyes closed with a soft, peaceful, romantic expression. Long, natural wavy hair flows smoothly with controlled pencil strokes. She wears a traditional dress, leaning into the man with her head resting on his chest. Her right hand gently rests on his chest with relaxed fingers.\n\nThe man (right) tilts his head and body slightly toward hers, eyes closed with a soft, protective, romantic expression. He wears a tailored suit jacket, button-down shirt, and neatly styled tie. Hair is clean and naturally styled.\nPose & Framing:\nSubjects occupy 70-80% of the frame.\nClose-up composition (upper torso and faces only). The pose forms a soft triangular balance, emphasizing emotional connection and intimacy. Subject's slightly fading to the lower sides.\nEmblem (Top Left):\n\nA classical circular crest featuring elegant script initials “A & L”. Below it, a drafting compass symbol. Surrounding wreath: oak leaves on the left and laurel leaves on the right. Beneath, “EST. 2023” in a refined serif font.\nRendering Style:\n\nMonochrome graphite + charcoal sketch.\n\n– Fine hatching on skin for subtle realism\n\n– Cross-hatching on clothing for depth\n\n– Soft top-left lighting with gentle highlights and natural shadow falloff\n\n– Rich grayscale contrast without harsh edges\nBackground & Texture:\n\nCream parchment with subtle grain. Light charcoal smudge near edges for realism. No modern or digital elements.\nBorder & Finish:\n\nThin double-line rectangular border, resembling premium printed artwork.\nOverall Mood:\n\nRomantic, timeless, emotionally intimate, and elegant — must feel like a hand-drawn sketch, not an AI-generated image.",
-      "description": "Google Gemini AI Sketch Editing Prompt: Use this prompt to generate a vintage-style pencil drawing of a couple in a tender embrace, featuring realistic shading and a personalized anniversary crest.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 66,
-      "view_count": 1568,
-      "copy_count": 2884,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "local_path": "images/portraits/sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/sketched-couple-embracing-portrait-illustration-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Sketch with Crest AI Photo Editing Prompt. AI generated digital pencil sketch illustration of a romantic young couple in formal attire embracing, featuring a decorative monogram crest with the initials \"A&L\" and the text \"EST. 2023.\""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267044b",
       "title": "Ruby Gaze",
       "slug": "fashion-portrait-man-red-suit-wooden-stool",
@@ -4486,55 +3954,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670425",
-      "title": "The Family Unit",
-      "slug": "happy-family-studio-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a professionally captured fine-art studio family portrait based strictly on the uploaded reference image. The final image should look like a high-end editorial family photograph with a warm, intimate, timeless aesthetic.\nIdentity & Face Matching (Strict)\n\nUse the uploaded reference image to accurately reproduce all four individuals. Maintain exact age and identity fidelity for each subject.\n\nPreserve precisely:\nfacial structure and proportions\n\nbone structure and jawline\n\neye shape, spacing, and gaze direction\n\nnose structure and lip shape\n\ncheekbone definition\n\nskin tone and undertone\n\nhairstyle, hairline, and natural hair colour & texture\n\nfacial hair\nDo not beautify, stylize, alter facial proportions, or invent features.\nEach person must remain clearly recognizable as the same individual from the reference.\nSubjects & Composition (Very strict)\nMother (Center)\n\nPosition the mother centrally as the emotional focal point of the portrait.\nAppearance and clothing:\ncream / ivory chunky-knit ribbed sweater\n\nnatural color hair with soft natural highlights\n\nwarm, genuine smile directed toward the camera\nPose:\nseated slightly forward\n\nher body angled subtly toward the father to create a natural sense of connection\n\nright arm wrapped gently around her daughter\n\nleft hand lightly holding her partner’s hand\nThe mother and father should lean slightly toward each other in a relaxed, natural way, creating a subtle inward curve in the composition.\n\nMother's head should naturally tilt toward the father's head, creating a soft, affectionate family connection.\nThe pose must feel organic and unforced, never stiff or overly posed.\nFather (Right / Slightly Behind)\n\nPosition the father behind and slightly to the right of the mother, leaning forward slightly into the composition.\nAppearance and clothing:\ndark charcoal or deep navy wool overshirt / shirt-jacket\n\ntan or camel knit crewneck sweater underneath\n\nNatural hairstyle\n\nwell-groomed beard (if present)\nPose:\nleaning slightly inward toward the mother and children\n\nhead slightly inclined toward the mother so their heads gently touch\n\nleft hand resting gently on his son’s shoulder\n\nright hand resting behind the mother or out of frame\n\nsoft confident smile toward the camera\nHis posture should communicate protective warmth and relaxed confidence.\nDaughter (Left Foreground)\n\nPosition the daughter seated on the left side of the frame, slightly leaning toward her mother.\nAppearance and clothing:\nsimple long-sleeve linen dress in light beige / oatmeal tone\n\nnatural hairstyle\n\nsoft natural smile directed at camera\nPose:\nseated comfortably\n\nhands resting naturally in her lap\n\nslightly leaning inward to maintain the family connection.\nSon (Right Foreground)\n\nPosition the son seated on the right side in front of the father.\nAppearance and clothing:\ntan T-shirt under a brown corduroy button-down shirt\n\nmatching brown trousers\n\nnatural hairstyle\nExpression:\njoyful smile\n\nbright, energetic presence\nPose:\nseated cross-legged or comfortably on the rug\n\nrelaxed posture.\nComposition\n\nThe family should form a tight triangular composition:\nmother at the central peak\n\nchildren forming the lower corners\n\nfather slightly behind completing the triangle\nThis structure conveys stability, unity, and emotional closeness.\nSubtle physical contact should be visible:\nhands held between parents\n\narms around children\n\ngentle shoulder touches\n\nparents leaning naturally toward one another\nEnvironment\nBackground\n\nDark, textured studio backdrop with painterly gradients.\nCharacteristics:\ndeep charcoal / black tones on one side\n\nwarm bronze / brown tones on the opposite side\n\nsubtle mottled texture\n\nsoft vignette toward edges\nThe background must remain soft and unobtrusive, enhancing the subjects.\nLighting\n\nUse Rembrandt-style studio lighting with subtle cinematic rim separation.\nLighting setup:\nprimary soft key light from the upper left\n\ncreates subtle facial shadow depth\n\nsmall triangle of light visible on the shadow side of faces\nAdd a very soft rim light or edge light from the rear-right side of the scene to create a gentle highlight along the edges of hair and shoulders.\n\nThis rim lighting should be subtle and natural, helping separate the subjects from the darker background without appearing dramatic or artificial.\nLighting qualities:\nsoft diffused light from large softbox\n\ngentle falloff\n\ncinematic portrait depth\n\nsoft catchlights in the eyes\n\nsubtle rim highlights on hair edges and shoulders.\nColor Palette\n\nUse a cohesive earth-tone palette:\ncreams\n\nbeiges\n\ntans\n\nbrowns\n\ncharcoal / deep navy\nClothing should feel coordinated but not identical, creating an elegant timeless style.\nEnvironment Details\n\nThe family is seated on a neutral woven rug placed over a natural wood floor.\nVisible textures:\nribbed knit sweater\n\ncorduroy fabric on the boy’s shirt\n\nsoft woven rug fibers\n\nwood grain floor\n\nsubtle clothing fabric folds.\nCamera & Technical Details\naspect ratio: 4:5 vertical portrait\n\nultra-high resolution studio photography\n\n85mm portrait lens\n\naperture f/1.8 – f/2.8\n\nshallow depth of field\n\nsubjects tack sharp\n\nbackground softly blurred\n\nFine-art color grading with warm tonal balance.\nStyle & Mood\n\nThe portrait should feel:\nwarm\n\nsentimental\n\nelegant\n\ntimeless\nThe result should resemble luxury studio family portrait photography, suitable for framing or editorial family albums.",
-      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a professional studio portrait of a happy family of four wearing coordinated earthy-toned outfits against a dark, textured backdrop.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 255,
-      "view_count": 13817,
-      "copy_count": 28849,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum.webp",
-          "local_path": "images/portraits/happy-family-studio-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/happy-family-studio-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/happy-family-studio-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Happy Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing coordinated earthy-toned outfits while posing closely against a dark textured background."
-        },
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum-2.webp",
-          "local_path": "images/portraits/happy-family-studio-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/happy-family-studio-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/happy-family-studio-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Asian family of four wearing coordinated earthy-toned clothing against a textured dark backdrop."
-        },
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum-1.webp",
-          "local_path": "images/portraits/happy-family-studio-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/happy-family-studio-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/happy-family-studio-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Happy Family in Earth Tones AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing coordinated warm-colored outfits against a dark textured background."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670349",
       "title": "Intense Assassin",
       "slug": "intense-assassin",
@@ -4668,133 +4087,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Woman in Monochrome Yellow Suit AI Photo Editing Prompt. AI generated studio portrait of a woman wearing a monochrome yellow suit and sunglasses posing with hands in her pockets against a solid yellow background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267041e",
-      "title": "Painted Hearts",
-      "slug": "watercolor-couple-wood-frame-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Use the uploaded image strictly for face and identity reference only. Lock facial identity with the highest priority. Do not beautify, stylize, or alter identity in any way. \n\nCreate a 4k resolution, 4:5 aspect ratio, high-quality digitally rendered watercolour-style portrait of a couple, presented inside a dark walnut wooden frame. The artwork must combine precise digital illustration with the soft, fluid characteristics of traditional watercolor painting.\n\n👥 Subject Composition (Strict — Do Not Modify)\nIntimate bust portrait, cropped slightly below mid-chest.\nMale positioned on the left, female on the right.\nTheir upper bodies angled very slightly inward toward each other.\nShoulders gently overlapping, with the female subtly leaning into the male’s shoulder for a natural, connected feel.\nHeads placed close together with temples nearly touching.\nBoth faces turned almost straight toward the camera with only a minimal inward rotation (very subtle 5–10° inward angle).\nChin's level and aligned at a similar height (no exaggerated tilt).\nPosture upright but relaxed — not stiff, not exaggerated.\nExpressions soft and warm:\n\nMale — calm, subtle, closed-mouth smile.\n\nFemale — bright, open smile with gentle warmth.\nEye contact is directed toward the viewer.\nNo dramatic head tilt. No exaggerated lean. Keep connection natural and balanced.\n👕 Adaptive Outfit Detection (Automatic From Reference)\nCarefully analyze the uploaded reference image and:\nDetect exact clothing type (shirt, blouse, jacket, saree, kurta, suit, casualwear, etc.)\n\nPreserve accurate fabric color, texture, and material type.\n\nReplicate neckline, collar style, sleeve length, layering, and visible accessories.\n\nMaintain realistic folds and garment structure.\n\nDo NOT replace clothing unless explicitly instructed.\n\nEnhance subtle fabric texture slightly for watercolor realism, while keeping authenticity.\n🎨 Artistic Style & Watercolor Execution\nMedium Simulation:\nBlend wet-on-wet soft gradients in background.\n\nUse wet-on-dry precision around facial features.\n\nAllow organic pigment bleeding around edges.\n\nMaintain visible watercolor paper grain texture.\nBrushwork Detail:\nFine strokes for eyelashes and individual hair strands.\n\nControlled detailing around the eyes and lips.\n\nBroad translucent washes for clothing.\n\nSubtle pigment pooling and natural gradient transitions.\n\nSoft watercolour blooms around the outer edges.\nDo NOT over-sharpen or make it look like a digital painting — it must feel like genuine watercolor.\n🎨 Color Palette (Adaptive + Balanced)\nMaintain accurate skin tones from reference.\n\nUse soft warm neutrals (cream, beige, tan) as base tones.\n\nIntroduce complementary cool washes when appropriate.\n\nBackground should remain light, airy, and minimally dominant.\n\nAvoid heavy contrast or overly saturated tones.\n💡 Lighting & Depth\nSoft, natural, diffused lighting from slightly above and front-facing.\nGentle highlight across forehead, cheekbones, and nose bridge.\nSubtle shadow under the jawline and neck area for depth.\nNo dramatic side-lighting.\nHigh-key, airy atmosphere.\nEnhance depth subtly while maintaining watercolor softness.\n🖼 Presentation & Framing\nArtwork displayed inside a dark walnut or espresso-finished wooden frame.\nModern flat frame profile with subtle wood grain.\nNo visible matting.\nArt extends near edges for a contemporary full-bleed look.\nVisible watercolor paper texture inside frame.\nClean neutral wall mockup presentation.\nFrame is visible evenly on all four sides with centred wall alignment.\n🔧 Slightly Increased Quality Controls (For Better Results)\nIncrease fine facial detailing by 15–20% while maintaining watercolor softness.\n\nImprove edge control around eyes and lips for clarity.\n\nMaintain subtle texture contrast between skin and clothing.\n\nEnsure both subjects remain equally sharp and balanced.",
-      "description": "Google Gemini AI Watercolor Portrait Editing Prompt: Use this prompt to generate a soft-toned couple's image featuring delicate brushstrokes and a classic hand-painted aesthetic, elegantly displayed within a dark wood frame.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 112,
-      "view_count": 2507,
-      "copy_count": 7282,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "watercolor-couple-portrait-by-promptplum-14.webp",
-          "local_path": "images/portraits/watercolor-couple-portrait-by-promptplum-14.webp",
-          "original_url": "https://img.promptplum.com/promptImages/watercolor-couple-portrait-by-promptplum-14.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/watercolor-couple-portrait-by-promptplum-14.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/watercolor-couple-portrait-by-promptplum-14.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Watercolor Couple Portrait AI Art Prompt. AI generated watercolor illustration of a smiling young man and woman captured in a classic wooden picture frame."
-        },
-        {
-          "filename": "watercolor-couple-portrait-by-promptplum-5.webp",
-          "local_path": "images/portraits/watercolor-couple-portrait-by-promptplum-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/watercolor-couple-portrait-by-promptplum-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/watercolor-couple-portrait-by-promptplum-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/watercolor-couple-portrait-by-promptplum-5.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Watercolor Couple Portrait AI Photo Editing Prompt. AI generated watercolor illustration of a smiling young couple posed together against a soft pink heart-patterned background."
-        },
-        {
-          "filename": "watercolor-couple-portrait-by-promptplum-3.webp",
-          "local_path": "images/portraits/watercolor-couple-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/watercolor-couple-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/watercolor-couple-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/watercolor-couple-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Watercolor Couple Portrait AI Photo Editing Prompt. AI generated digital watercolor illustration of a smiling young couple with dark hair, rendered in soft artistic tones and displayed within a dark wood frame."
-        },
-        {
-          "filename": "watercolor-couple-portrait-by-promptplum-1.webp",
-          "local_path": "images/portraits/watercolor-couple-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/watercolor-couple-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/watercolor-couple-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/watercolor-couple-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Middle-aged Couple Watercolor AI Art Editing Prompt. AI generated watercolor portrait of a smiling middle-aged man in a suit and a blonde woman in a light-colored shirt."
-        },
-        {
-          "filename": "watercolor-couple-portrait-by-promptplum-7.webp",
-          "local_path": "images/portraits/watercolor-couple-portrait-by-promptplum-7.webp",
-          "original_url": "https://img.promptplum.com/promptImages/watercolor-couple-portrait-by-promptplum-7.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/watercolor-couple-portrait-by-promptplum-7.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/watercolor-couple-portrait-by-promptplum-7.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Watercolor Couple Portrait AI Photo Editing Prompt. AI generated digital watercolor illustration of a smiling young couple in a romantic setting with red roses inside a wooden frame."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267040d",
-      "title": "Graphite Souls",
-      "slug": "pencil-sketch-man-woman-sketchbook",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a high-resolution, ultra-detailed flat lay photograph of a creative workspace, centered around a spiral-bound sketchbook containing a hyper-realistic charcoal/graphite portrait.\n🔴 Face Match Requirement (CRITICAL)\nBoth drawn subjects must match the uploaded reference image with maximum identity accuracy.\nPreserve exact facial structure, bone anatomy, jawline definition, cheekbone placement, forehead proportions, eyebrow thickness and shape, eye size and spacing, nose bridge and tip structure, lip shape and volume, chin contour, grooming details, and natural asymmetry.\n\nDo not beautify, stylize, or alter proportions.\n\nMaintain authentic skin texture translated into graphite realism.\n\nBoth subjects must remain clearly recognizable.\n📖 Central Subject: The Drawing\nThe centerpiece is a spiral-bound sketchbook placed slightly tilted on a warm wooden desk.\nInside the sketchbook is a highly realistic hand-drawn portrait of two young people positioned back-to-back:\n\nLeft Subject (Female):\n\nShe faces slightly toward the camera with a soft, contemplative, emotionally neutral expression.\n\nLong, natural wavy hair cascading over her shoulders.\n\nCalm gaze directed outward, subtle vulnerability in the eyes.\n\nSoft but detailed shading defining cheekbones and lips.\nRight Subject (Male):\n\nShown in profile facing right.\n\nStrong, defined jawline, including grooming details if present, and make it well-groomed.\n\nMessy, textured hair with natural volume.\n\nFocused, distant expression.\n\nStructured nose profile and clean facial contour.\n✏ Artistic Style & Execution\nMedium: Charcoal / Graphite\nTechniques: Fine-line hatching, cross-hatching, smooth tonal blending\nHigh contrast between deep charcoal clothing and delicate skin shading\nUltra-realistic pencil textures visible\nPaper shows subtle off-white cream tone with visible tooth grain\nThe lower portion of the portrait dissolves into expressive diagonal pencil strokes, creating an unfinished “art study” aesthetic\nPencil strokes remain organic and dynamic, not digitally smooth\n🖼 Surrounding Environment (Flat Lay Composition)\nThe sketchbook rests on a warm-toned wooden desk with visible horizontal grain texture.\n\nTop Left:\nSmall green succulent in a clean white ceramic pot\nTop Right:\nBlack-rimmed eyeglasses\nA single gold paperclip nearby\nRight Side (Parallel Alignment):\nOne matte black pencil\nOne natural wood graphite pencil\nOne thick black marker or charcoal stick\nBottom Left:\nWhite ceramic mug filled with dark coffee\nVisible crema and small surface bubbles\nBottom Area:\nBlack binder clips\nScattered gold paperclips\nStack of pastel sticky notes (yellow, blue, orange)\nRectangular grey eraser resting on top\n💡 Lighting\nSoft, diffused top-down lighting\nGentle directional shadows cast slightly toward the right\nNatural depth and dimensionality on physical objects\nSubtle highlight reflections on glasses and coffee surface\n🎨 Color Palette\nWarm earthy browns (wood surface)\nCream paper tones\nGrayscale charcoal drawing\nVibrant green succulent accent\nSoft pastel sticky notes\nNeutral blacks and metallic gold accents\n📷 Technical & Camera Details\nUltra high resolution\n1:1 aspect ratio\nDeep depth of field (everything sharply in focus)\nEvery element crisp — from succulent leaf texture to graphite strokes\nNatural editorial photography realism\nNo blur, no vignette, no artificial filters\n📐 Composition\nSketchbook slightly angled for organic dynamism\nObjects arranged to frame and visually guide attention toward the portrait\nBalanced yet naturally scattered layout\nClean, premium creative workspace aesthetic",
-      "description": "Google Gemini AI Sketch Editing Prompt: Use this prompt to generate a realistic pencil drawing of a man and woman in a notebook, set on an aesthetic wooden workspace with coffee and stationery.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 78,
-      "view_count": 2083,
-      "copy_count": 5608,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "local_path": "images/portraits/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Couple Pencil Sketch AI Prompt. AI generated realistic pencil illustration of a young man and woman back-to-back on a spiral notebook page."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670404",
-      "title": "Family Sequence",
-      "slug": "black-and-white-family-profile-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a classic low-key black-and-white studio portrait of a family of four arranged in a staggered side-profile composition, all facing right. Maintain accurate identity and face matching to the provided reference image for all four subjects — preserve exact facial structure, proportions, skin texture, hairlines.\nMid-chest shot (cropped from mid chest upward), tight vertical composition. All four subjects are wearing solid matte black t-shirts with no logos, no reflective elements — blending subtly into shadow while maintaining garment structure.\nDiagonal alignment from front-left (father closest to camera) to back-right (youngest child farthest). Overlapping layered composition.\nCRITICAL — Natural Height-Based Staggered Arrangement:\n\nSubjects must be arranged in realistic descending height order consistent with a natural family hierarchy. The father (foreground) is the tallest, followed slightly behind by the mother, who is slightly shorter. Behind her stands the first child, clearly shorter than the mother, and, in the far background, the second child, the shortest of all. The top of each subject’s head forms a gradual downward diagonal slope from left (tallest father) to right (shortest child). Eye levels must also progressively lower in the same sequence. This height progression must appear anatomically natural and realistic, not artificially aligned or equalized. Maintain accurate proportional scaling and perspective depth consistent with real-world height differences.\nTrue monochrome (black and white), high contrast, deep blacks, smooth midtone transitions. Dramatic chiaroscuro lighting with a single directional key light from camera-right, slightly above eye level, no equipment/object visible in frame. Strong shadow falloff into pure black background. Deep negative space on the left.\nSharp catchlights in all eyes from a small gridded softbox. Crisp highlight definition on nose bridges, cheekbones, lips, and jawlines.\nFather (foreground, sharpest focus): His expression appears steady and confident with a subtle smile. His gaze is fixed forward, conveying strength and leadership. Visible individual hairs, strong skin micro-contrast, wear a black t-shirt fading into shadow.\nMother (second): She has a soft, graceful smile (upper teeth visible). Long voluminous wavy hair, subtle earrings, smooth skin, and wear a black outfit.\nChild (third): Her expression shows youthful curiosity and positivity, with a subtle smile (upper teeth visible), slightly pulled-back natural hair, and a simple black outfit.\nChild (background): He looks calm and thoughtful. His face carries innocence and quiet confidence, as if observing something meaningful ahead.\nLens look: 85mm–135mm telephoto compression, no distortion.\n\nAperture look: f/5.6–f/8 layered depth, foreground sharpest with subtle gradual falloff.\nUltra-detailed skin texture, realistic pores, cinematic tonal grading, professional studio photography, timeless, museum-quality.\n4K resolution detail, ultra-sharp, high micro-contrast, refined tonal range.\n\nAspect ratio 4:5\nNegative prompt:\n\nlow quality, blur, head crop, frame crop, over exposure, visible equipment, equal head height, flat alignment, incorrect height proportions, unrealistic scaling",
-      "description": "Family Photo Editing Prompt: Use this prompt to create a professional black and white studio portrait of a family of four in side profile against a dark, minimalist background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 211,
-      "view_count": 6936,
-      "copy_count": 17648,
-      "is_premium": false,
-      "published_at": "2026-08-08T20:13:38.649Z",
-      "images": [
-        {
-          "filename": "black-white-family-profile-portrait-by-promptplum.webp",
-          "local_path": "images/portraits/black-white-family-profile-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/black-white-family-profile-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/black-white-family-profile-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/black-white-family-profile-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Profile in Monochrome AI Photo Editing Prompt. AI generated studio portrait of a father, mother, and two children in black t-shirts, arranged by height in a side-profile composition against a dark background."
         }
       ]
     },
@@ -4970,84 +4262,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Grayscale digital portrait of a man with glasses, featuring vibrant prismatic rainbow light reflections across his face and dark hair. A clean, modern, and stylized illustration."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703cc",
-      "title": "Valentine’s Garden Embrace",
-      "slug": "happy-valentines-day-couple-rose-garden",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a highly polished, romantic Valentine’s Day portrait in a premium commercial photography style. The image should feel warm, bright, and emotionally uplifting, combining photorealistic subjects with a softly stylized romantic atmosphere while maintaining natural realism.\nFace Match\nUse the provided reference images (image_0.png and image_1.png) for strict face matching for both subjects. Preserve identical facial structure, proportions, eye shape, nose, lips, skin tone, hairstyle, and age characteristics. Maintain a realistic identity with natural skin texture and authentic expressions.\nComposition & Framing (Strict Pose Instructions)\nA couple stands centered in a vertical full-body composition, framed from head to feet. The subjects occupy approximately 2/3 of the frame height.\nThe woman stands slightly in front and to the left of the man. The man stands close behind her right side, angling his torso toward her.\nCrucial Pose Details:\n\nThe man's right arm wraps affectionately around the woman's waist. His left hand is placed distinctly inside the front pocket of his beige chinos.\nThe woman leans softly into the man’s chest and shoulder. Her right hand rests gently but noticeably flat against the center of the man's chest, over his heart. Her left arm rests naturally downward along her side.\nBoth subjects face the camera directly with heads close together. Expressions are warm, genuine, and happy with soft, natural smiles appropriate for Valentine’s Day.\nDepth of field is shallow, keeping the couple sharply in focus while the background garden remains softly blurred.\nSubjects & Styling\nSubjects appear realistic with natural facial detail and commercial-grade skin texture.\nThe man wears a light blue chambray-style button-down shirt with sleeves rolled and beige chinos.\nThe woman wears a soft pink floral knee-length dress with short sleeves and lightweight fabric.\nEnvironment & Background\nThe setting is a romantic garden in the early morning. The background includes softly blurred greenery and pink flowering bushes. The sky displays warm pastel tones of peach, soft pink, and orange at sunrise. Subtle, out-of-focus floating heart-shaped elements appear in the background atmosphere.\nForeground Elements\nIn the lower right foreground, placed on a small wooden table, are secondary Valentine-themed elements in soft focus: a white gift box with a red ribbon, a small flip-style calendar displaying “14 February”, and an elegant glass decanter.\nTypography Placement\nThe text “Happy Valentine’s Day” appears in the upper right quadrant in elegant red cursive script. Below it, the date “14 February” appears in a smaller refined serif font.\nLighting & Mood\nSoft, diffused morning golden-hour lighting. Warm frontal light illuminates faces, with subtle backlight from the sunrise. The mood is romantic, celebratory, and emotionally warm with pastel color grading.\nTechnical Style\nPhotorealistic commercial portrait photography, high resolution, 4:5 aspect ratio, smooth bokeh, and a clean premium finish.",
-      "description": "Create stunning Valentine's Day AI portraits with this rose garden prompt. Generate photorealistic couples with cinematic lighting and elegant \"14 February\" text.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 56,
-      "view_count": 1629,
-      "copy_count": 3716,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "local_path": "images/portraits/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A smiling couple poses in a sunrise rose garden for Valentine's Day. The scene includes a gift, a \"14 February\" calendar, and festive red script text against a sunrise sky."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703c8",
-      "title": "Valentine’s Pulse",
-      "slug": "romantic-couple-golden-circle-valentines-day",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a high-contrast, cinematic Valentine’s Day romantic portrait featuring a couple in an intimate moment, photographed in a premium cinematic photography style. Use the provided reference images for strict face matching for both subjects, preserving facial structure, proportions, skin tone, age characteristics, and natural expressions without stylization or identity alteration.\nSubjects & Composition\n\nA man and woman stand closely facing each other in profile, positioned centrally within the frame. Their bodies are naturally aligned and leaning slightly inward, with their foreheads and noses nearly touching, capturing a quiet, emotionally intimate moment just before a kiss. The pose feels natural, relaxed, and romantic rather than posed or exaggerated.\nThe man wears a dark charcoal or black tailored suit with a dark shirt, creating a refined evening look. The woman wears a soft, light-colored elegant dress with a smooth, minimal silhouette. Her long hair falls in natural soft waves, gently illuminated by warm backlighting. Both subjects are clearly visible with clean facial definition and natural skin texture.\nFraming & Visual Structure\n\nThe couple is perfectly centered and framed by a large glowing circular light behind them, forming a strong “frame within a frame” composition. The circular light acts as a halo-like ring surrounding their heads and upper torsos symmetrically, slightly wider than their shoulder span and positioned so the center aligns naturally with their faces for balanced spacing and strong visual focus.\nGraphic Elements & Typography\n\nA warm white-to-golden neon-style circular ring glows smoothly behind the couple, with soft bloom and gentle light falloff resembling a premium neon or LED installation. Soft glowing heart shapes appear within the upper portion of the circle, subtly floating and fading into the background to reinforce the romantic theme without visual clutter.\nAt the top of the frame, the text “Happy Valentine’s Day” appears in elegant handwritten cursive neon script, glowing in a warm golden tone matching the circular light. The typography emits a soft halo effect and appears as an illuminated sign rather than flat text, centered and balanced above the ring.\nLighting\n\nCinematic backlighting and rim lighting from the glowing circle define the subjects’ hair, facial profiles, and shoulders, creating strong separation from the background. A soft frontal fill light gently illuminates facial features to maintain clear visibility while preserving depth and natural shadow contrast. Lighting remains warm, diffused, and flattering, with no harsh highlights.\nDepth of Field & Background\n\nShallow depth of field keeps the couple and circular light sharply in focus while the background fades into soft urban night bokeh, creating a dreamy atmospheric setting without distracting details.\nColor & Mood\n\nWarm golden highlights contrasted against deep blacks and muted night tones. The overall mood is romantic, elegant, intimate, and cinematic, with a soft glow that enhances emotional warmth while maintaining clarity and realism.\nQuality & Style\n\nPhotorealistic, high resolution, professional cinematic photography, subtle filmic grain, premium Valentine’s Day aesthetic, balanced exposure, natural skin tones, clean composition, and polished commercial-quality finish, 4:5 aspect ratio.",
-      "description": "Create stunning Valentine's Day AI images with this cinematic prompt. Featuring a romantic couple inside a golden glowing circle with neon text and floating hearts. Use these highly detailed, 8k photorealistic prompt words to generate professional-quality romantic visuals.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 57,
-      "view_count": 1642,
-      "copy_count": 2809,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "local_path": "images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Cinematic shot of a romantic couple framed by a glowing golden circle and hearts. \"Happy Valentine's Day\" glows in neon above them against a blurry city night."
-        },
-        {
-          "filename": "romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "local_path": "images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic couple in a glowing golden circle with floating hearts. Neon 'Happy Valentine's Day' text at the top, set against a warm cinematic night city."
-        },
-        {
-          "filename": "romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "local_path": "images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A romantic couple gazes at each other inside a glowing neon circle, surrounded by floating hearts and the text \"Happy Valentine's Day.\""
         }
       ]
     },
@@ -5283,35 +4497,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Man in a monochrome blue outfit and white sneakers sits in a plush, light blue textured armchair against a matching blue studio backdrop."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703b1",
-      "title": "The Golden Wish",
-      "slug": "woman-gold-dress-birthday-cake-spotlight",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a cinematic, high-fashion editorial portrait with a warm, monochromatic color palette that conveys a luxurious, celebratory, and regal atmosphere. The image should feel elegant, intimate, and professionally photographed, similar to a premium fashion magazine birthday editorial.\n\nSubject & Identity (Strict)\nUse the reference image as a strict identity guide. The subject’s face must match the reference exactly. Preserve facial structure, proportions, skin tone, hairstyle, hair color, and natural facial features without beautification, reshaping, or stylization. Maintain realistic skin texture and natural expression.\nThe subject is a young woman with long, flowing natural hair styled in soft, loose waves. She is captured in profile, gently leaning forward as she prepares to blow out birthday candles. Her expression is calm, serene, and focused, creating a soft, intimate moment.\n\nWardrobe & Styling\nThe subject wears a princess type dramatic, floor-length champagne-gold ball gown. The dress features long sleeves and is transparently covered with fine sequins and glitter that reflect light subtly, producing a shimmering, luxurious texture. The silhouette is full and voluminous, enhancing a regal presence.\nShe wears a delicate silver-toned tiara or crown encrusted with small crystals, reinforcing a refined “birthday queen” aesthetic. Styling remains elegant and timeless rather than extravagant.\n\nThe Centerpiece (Cake)\nThe subject holds a two-tier vintage Lambeth-style birthday cake positioned at chest height. The cake is decorated with intricate white and gold buttercream piping, ornamental swags, and small edible gold pearl accents.\nOn top sits a metallic gold “Happy Birthday” script topper. Several thin candles are lit, with small warm flames visible as the subject gently blows toward them, capturing a moment of anticipation.\n\nLighting & Background\nThe lighting is the primary visual element.\n\nA strong circular spotlight is projected onto a warm beige background, creating a halo effect centered behind the subject.\nLighting style follows a dramatic chiaroscuro approach, with a hard-edged spotlight and soft falloff toward the edges.\nA sharp, well-defined shadow of the subject and the cake topper appears on the wall within the spotlight, adding depth and visual storytelling.\nThe background remains minimal, smooth, and free of distractions.\nColor & Mood\nThe entire image follows a warm tonal palette consisting of gold, champagne, cream, and warm brown hues. The color temperature is very warm (approximately 3000K–3500K), enhancing metallic reflections and creating a nostalgic, cinematic atmosphere.\n\nTechnical Photography Details\nEditorial fashion photography style\nDSLR quality, ultra-realistic rendering\nMedium depth of field; subject and cake in sharp focus, background softly diffused\nCentral composition with a slight forward lean creating gentle movement\nSoft filmic contrast with rich highlights and controlled shadows\nHigh resolution (4K–8K quality)\nAspect ratio: 4:5\nOverall Vibe\nLuxury, celebratory, elegant, and cinematic — a refined birthday portrait that feels timeless, regal, and editorial rather than casual.",
-      "description": "Generate a stunning golden spotlight portrait with this professional AI prompt. Create high-quality images of a woman in a shimmering sequined gown and tiara, holding an elegant two-tier birthday cake.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 76,
-      "view_count": 4214,
-      "copy_count": 6432,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "local_path": "images/portraits/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "original_url": "https://img.promptplum.com/promptImages/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A woman in a gold sequined gown and tiara holds a birthday cake in a circular spotlight. She's blowing out a candle, casting a dramatic shadow against a tan, cinematic backdrop."
         }
       ]
     },
@@ -5584,45 +4769,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "A young man in a grey suit and white sneakers sits confidently on a stool against a dark studio background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670396",
-      "title": "The Proposal",
-      "slug": "man-puppy-rose-street-night",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create an ultra-realistic, hyper-detailed 8K cinematic portrait of a young, stylish man with a soft, romantic undertone.\n\nUse the uploaded reference image to match his identity, facial features, skin texture, and hairstyle as closely as possible, while preserving his natural identity and realism.\nOutfit & Style\n\nHe wears a dark gray open-collar shirt with rolled sleeves, paired with sleek black pants, black polished shoes, and black socks. The styling feels modern, relaxed, and quietly elegant—confident yet effortlessly charming.\nPose & Composition\n\nThe camera is straight-on at eye level with a very subtle low-angle feel.\n\nThe man is seated casually on a textured road surface, facing the camera. His posture is relaxed yet self-assured.\n\nIn his right hand, he gently holds a pair of black sunglasses, adding a refined, cinematic accent.\n\nHis expression is calm, confident, and quietly magnetic.\nBeside him sits a small, light-colored puppy, close to his side, sitting attentively.\n\nThe puppy holds a single red rose in its mouth—introducing a romantic, tender storytelling moment that contrasts beautifully with the moody scene.\nLighting & Atmosphere\n\nThe scene takes place outdoors at night.\n\nSoft, cinematic lighting highlights both the man and the puppy.\n\nThe background features blurred dark blue and teal bokeh lights, creating a dreamy, emotional nighttime ambiance with strong depth and subject separation.\nVisual Style & Quality\n\nUltra-realistic textures, natural skin tones, sharp focus on both subjects, highly detailed fabric realism, cinematic color grading, shallow depth of field, high dynamic range (HDR), and a professional photography aesthetic.\nAspect Ratio: 4:5",
-      "description": "Create a heartwarming AI image of a handsome boy sitting on a night road with a cute Golden Retriever puppy holding a red rose. Get the full cinematic prompt featuring bokeh city lights, realistic textures, and a romantic mood for your next viral creation.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 2281,
-      "copy_count": 4464,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "local_path": "images/portraits/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "original_url": "https://img.promptplum.com/promptImages/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "width": 1024,
-          "height": 1024,
-          "alt": "A handsome young man sits on a road at night next to a golden retriever puppy holding a red rose in its mouth."
-        },
-        {
-          "filename": "man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "local_path": "images/portraits/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
         }
       ]
     },
@@ -5954,75 +5100,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Gemini AI Generated Image of a Man, Bugs Bunny, and Mickey Mouse pose in suits inside a metal elevator."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670370",
-      "title": "Frames of Forever",
-      "slug": "frames-of-forever",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Core Instruction (Strict Face Match)\n\nUse the uploaded reference image as a strict facial reference.\n\nFace match must be 100% accurate for both individuals — identical facial structure, proportions, eyes, nose, lips, jawline, beard (if present), hairstyle, and natural expression.\n\n❌ No beautification, stylization, age change, or facial modification.\nScene & Product\n\nCreate a luxury CGI product render of a personalized 3D-style acrylic photo block placed on a modern desk.\n\nStyle blends premium animated realism (Pixar-like) with photorealistic product visualization, suitable for high-end gifting and e-commerce.\nSubjects (Inside Acrylic Block)\n\nPolished 3D animated realism with smooth skin, expressive eyes, refined proportions, and realistic light response.\nWoman: Natural hair colour and hairstyle, Outfit from reference image, warm natural smile.\nMan: Natural hair with natural volume, well-groomed beard and mustache (if present in reference), Outfit from reference image, calm friendly smile.\nProduct Details\n\nThick transparent rectangular acrylic block with polished edges, visible depth, realistic refraction and internal reflections, subtle edge distortion.\n\nMounted on a light natural-wood rectangular base with visible grain.\n\nElegant signature “PromptPlum.com” with a small red heart at the bottom-left of the acrylic.\nLighting & Composition\n\nSoft directional light from upper left, gentle highlights on faces and acrylic edges, natural soft shadow on desk.\n\nShallow depth of field, slightly off-center composition, eye-level camera.\nBackground\n\nMinimalist workspace: blurred silver laptop on the left, white books on the right, small ceramic vase with white, yellow, and purple wildflowers, clean white wall.\nRendering Quality\n\nUltra-high-resolution CGI, accurate glass physics, sharp fabric textures, realistic wood grain, premium luxury product photography feel.\nOutput\n\nAspect Ratio: 1:1\nNegative Prompt\n\n❌ face mismatch or identity drift\n❌ facial changes or beautification\n❌ cartoon exaggeration\n❌ low-quality or blurry render\n❌ flat or harsh lighting\n❌ plastic-looking skin\n❌ warped faces or eyes\n❌ cheap materials\n❌ over-saturation\n❌ text artifacts or misspelled branding",
-      "description": "Get the viral AI prompt for 3D Pixar-style couple portraits encased in a clear acrylic block. Create hyper-realistic 3D animated characters on a wooden base with cinematic lighting. Perfect for custom 3D renders!",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 110,
-      "view_count": 1637,
-      "copy_count": 3501,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "width": 1433,
-          "height": 1433,
-          "alt": "Gemini AI Generated Image of a 3D animated couple in a clear acrylic block on a wooden base, set on a desk with flowers."
-        },
-        {
-          "filename": "Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "width": 1433,
-          "height": 1433,
-          "alt": "Gemini AI Generated Image of A 3D-animated couple in an acrylic frame on a wooden base, featuring a \"PromptPlum.com\" watermark."
-        },
-        {
-          "filename": "Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "width": 1433,
-          "height": 1456,
-          "alt": "Gemini AI Generated Image: 3D animated couple in an acrylic block on a wooden base. Modern desk setup with soft, cinematic lighting."
-        },
-        {
-          "filename": "Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "width": 1433,
-          "height": 1433,
-          "alt": "Gemini AI Generated Image of a 3D animated elderly couple in a clear acrylic frame on a wooden base, displayed on a minimalist desk."
-        },
-        {
-          "filename": "Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "width": 1433,
-          "height": 1433,
-          "alt": "Gemini AI Generated Image: 3D animated couple in an acrylic frame on a wooden base, placed on a desk with a laptop and flowers."
         }
       ]
     },
@@ -6831,35 +5908,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670328",
-      "title": "Brushstrokes of Serenity",
-      "slug": "brushstrokes-of-serenity",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "A striking digital expressionist portrait artwork created with strong likeness to the attached reference image. The subject is a young woman shown in a subtle three-quarter, near-frontal view. She has softly defined feminine facial features, expressive warm brown eyes, naturally arched eyebrows, and smooth, well-balanced facial proportions. Her expression is calm and confident with a gentle, relaxed smile, conveying warmth, elegance, and approachability.\nHer hair is thick and voluminous, styled in loose natural waves or soft curls that frame the face organically, adding movement and texture to the composition. Skin tones are warm and natural, rendered with painterly realism — visible brush texture, soft tonal layering, and no plastic smoothness.\nThe artwork blends stylized realism with expressive, textured brushwork. Facial structure is clearly defined using confident directional strokes and smooth color transitions, maintaining realistic anatomy while embracing an illustrated, fine-art finish.\nLighting is cinematic and painterly, featuring a balanced dual-tone color scheme: warm highlights softly illuminate one side of the face, enhancing cheekbones and facial contours, while cool blue undertones shape the opposite side, creating depth and visual contrast without harsh division. The lighting feels artistic rather than photographic.\nThe subject wears a simple, dark, minimal outfit with soft folds, painted in deep neutral tones to keep visual focus on the face and expression.\nThe background remains abstract and minimal, composed of loose sketch lines, expressive brush strokes, and fragmented paint textures in white, light grey, and muted blue shades. The background feels intentionally unfinished, adding energy and modern artistic character without distracting from the subject.\nOverall mood is modern, expressive, and refined — a contemporary digital painting with editorial illustration quality, rich surface texture, confident color blocking, and gallery-style sophistication.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 58,
-      "view_count": 1267,
-      "copy_count": 2145,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "width": 1321,
-          "height": 1568,
-          "alt": "Gemini AI Generated Image: a striking digital portrait of a young woman rendered in an expressive, painterly style. She has voluminous, wavy dark brown hair that is dramatically lit by a warm, golden light source from the left, creating glowing amber highlights that contrast with the cooler, blue-tinged shadows on the right side of her face and neck. Her expression is gentle and engaging, featuring warm brown eyes and a subtle, closed-lip smile. She is wearing a simple dark charcoal or black top, which helps keep the focus on her face. The background is abstract and textured, composed of loose, sketchy brushstrokes in shades of white, light gray, and muted blue, giving the piece an artistic, energetic quality that frames the more detailed rendering of the subject."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670326",
       "title": "Reflections in the Rain",
       "slug": "reflections-in-the-rain",
@@ -7001,35 +6049,6 @@
           "width": 1187,
           "height": 1769,
           "alt": "Gemini AI Generated Image: a stylish, cinematic portrait of a well-groomed man standing against a backdrop of a dramatic, cloudy sky at sunset. He is dressed in a sharp brown blazer over a black button-down shirt, accessorized with dark sunglasses and a black belt with a silver buckle. The warm \"golden hour\" lighting highlights the texture of his hair and profile as he gazes confidently off to the side, with one hand casually tucked into his pocket."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267031c",
-      "title": "Look at this little dude!",
-      "slug": "look-at-this-little-dude",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Ultra-realistic cinematic portrait of a real adult man.\n\nFace identity must be preserved with 100% accuracy.\nDO NOT change face shape, bone structure, skin tone, facial proportions, eye shape, nose, lips, jawline, beard pattern, hairline, or overall identity in any way.\n\nThe real person must look exactly identical to the reference image.\nNatural human skin texture with visible pores, subtle imperfections, realistic facial hair, and true-to-life hair strands. Wearing a simple casual short-sleeve t-shirt with accurate color and fabric texture.\nThe man is holding a small 3D miniature version of himself on his fingers, gently supported by one hand.\n\nHe is looking at the miniature with curious, playful amusement — slightly raised eyebrows, soft natural smile, expressive eyes. Expression must feel authentic and unforced.\nThe miniature version is NOT a different face.\n\nIt must be a perfect facial match to the real person:\nSame face shape\nSame hairstyle\nSame beard and facial features\nSame skin tone\nThe difference is STYLE ONLY, not identity.\nThe miniature is rendered in a high-quality modern 3D cartoon style, with:\n\nSlightly oversized cartoon head\nSmooth stylized surfaces\nLarge expressive eyes\nPlayful animated arms and legs\nfunny facial expression\nStylization must be clean, cinematic, premium — not toy-like, not doll-like, not plastic.\nBoth figures wear matching casual clothing with consistent colors and believable materials.\n\nClear and humorous scale difference between real person and miniature.\nBackground is dark, cinematic, softly blurred, with strong depth of field.\n\nProfessional studio lighting with soft highlights on skin and subtle rim light separating both figures from the background.\nUltra-detailed realism for the real person.\n\nClean, polished 3D textures for the miniature.\n\nBalanced realism and humor.\nNo face alteration.\n\nNo identity drift.\n\nNo fantasy elements.\n\nNo surreal distortion.\n\nNo horror.\nSharp focus, cinematic color grading, ultra-high resolution, expressive, fun, meme-ready.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 99,
-      "view_count": 2088,
-      "copy_count": 5974,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "local_path": "images/portraits/Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_n37jz7n37jz7n37j-1.jpeg",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Gemini AI Generated Image: A man with short, brown hair and a light beard is holding a small, cartoon-style miniature figure of himself in his right hand. He is looking down at the miniature with a gentle smile, and the miniature is also smiling back at him. The man is wearing a blue t-shirt and is positioned against a dark, textured background. The lighting is focused on the man and the miniature, highlighting their features."
         }
       ]
     },
@@ -7991,35 +7010,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526702df",
-      "title": "Paradise found with you.",
-      "slug": "paradise-found-with-you",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Use the uploaded image strictly as a visual and facial reference. Preserve realistic facial structure, proportions, skin tone, and expressions. Do not stylize or alter faces.\nCreate an ultra-realistic travel selfie photograph of a couple standing on a narrow dirt hiking trail with wooden safety railings on both sides, located at Kelingking Beach, Nusa Penida, Bali.\n\nSubjects, Clothing & Accessories (Locked)\nA couple standing close together, smiling naturally.\nOne person holds the camera in an arm-extended wide-angle selfie.\nMan: wearing a loose white linen shirt, white shorts, beige sandals, and dark sunglasses.\nWoman: wearing a white tunic-style top, white pants, pearl-style sandals, and sunglasses.\nClothing is light, breathable, casual, and suitable for hiking.\nNatural posture, relaxed tourist vibe.\nScene & Background (Match Reference)\nThe iconic T-Rex–shaped limestone cliff formation is clearly visible behind them.\nA curved sandy beach appears below between the cliffs.\nThe ocean is deep blue to turquoise, with white waves crashing against the rocks.\nThe trail is surrounded by dense, lush tropical greenery, with rich green foliage covering the cliffside.\nNatural rock textures and vegetation are clearly defined.\nClear open sky and distant ocean horizon.\nLighting & Image Color Tone (Late Morning)\nShot in late-morning daylight.\nBright, clean natural light with the sun higher in the sky.\nSoft, short shadows.\nFresh, vibrant green tones in vegetation.\nCool, crisp ocean blues without golden color cast.\nNatural skin tones, evenly lit, no harsh contrast.\nCamera & Quality\nWide-angle selfie lens\nSlight edge distortion for realism\nDeep depth of field (subjects and background both sharp)\nTravel photography style\nDSLR-quality clarity\nUltra-realistic textures (skin, fabric, wood, rock, water)\nNo filters. No cinematic grading. No artificial glow.\nAspect ratio:\n\n– 4:5 vertical (Instagram)",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 146,
-      "view_count": 7106,
-      "copy_count": 16506,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A high-angle selfie of a smiling couple wearing matching white linen outfits and sunglasses, standing on a cliffside path with wooden railings. Behind them is the iconic Kelingking Beach in Nusa Penida, featuring a massive, green, T-Rex-shaped rock formation jutting out into vibrant turquoise ocean waters."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526702dd",
       "title": "Wrapped in White & Gold",
       "slug": "wrapped-in-white-gold",
@@ -8078,35 +7068,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526702da",
-      "title": "Joy to the World",
-      "slug": "joy-to-the-world",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Use the uploaded image strictly as a face and identity reference for each person.\n\nPreserve each person’s exact facial structure, proportions, skin tone, eye shape, nose, lips, jawline, and natural expressions. Do not beautify, stylize, alter age, ethnicity, or facial features. Faces must remain sharp, realistic, and clearly recognizable.\n\nCreate an ultra-realistic vertical Christmas studio family portrait(aspect ratio 4:5), suitable for professional holiday photography, with a warm golden lighting aesthetic.\n\nComposition:\nA family of four posing in an elegant studio arrangement. The adult woman and adult man are seated closely together on a low upholstered chair at the center, relaxed and connected. The girl stands behind them in the center, slightly elevated with a cheerful posture. The boy stands beside the seated adults with a straight yet natural stance. Everyone looks directly at the camera with soft, welcoming smiles.\n\nWardrobe — Match the reference clothing (Main Focus):\n\nWoman: Sleeveless white blouse with delicate lace detailing at the shoulders, paired with a deep green midi skirt; refined and minimal.\n\nMan: Dark green fitted sweater (high-neck/turtleneck style) with dark blue jeans; clean winter elegance.\n\nGirl: Dark green velvet dress with a white Peter Pan collar, plush texture with subtle sheen.\n\nBoy: Blue denim button-up shirt paired with olive or dark green trousers, neat and festive-casual.\n\nMaintain a cohesive palette of deep green, white, denim blue, and warm gold accents. Fabric textures must remain clearly visible.\n\nSetting — Golden Tone Match:\nAn elegant Christmas studio with two snowy(cream white) Christmas trees on both sides, featuring gold-dominant ornaments, champagne baubles, and warm micro-lights that emit a soft golden glow. The frosted branches reflect warm light rather than cool white.\nThe background wall(Classic paneled wall) is a warm beige/cream tone with golden warmth. A large green decorated wreath with pinecones and a gold ribbon is centered on the wall. Gift boxes wrapped in white and metallic gold paper are arranged neatly at the base.\n\nLighting & Atmosphere:\nSoft, professional studio lighting with a golden color temperature, gentle highlights, and subtle glow. Warm reflections on ornaments and fabrics, no harsh shadows. Cozy, elegant, premium Christmas mood.\n\nImage Quality:\nPhotorealistic, high-resolution (8K look), accurate skin tones, sharp facial detail, realistic fabric behavior, refined golden holiday aesthetic.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 2241,
-      "copy_count": 4166,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_7rf8ch7rf8ch7rf8-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated, studio-style family Christmas portrait featuring a mother, father, daughter, and son smiling at the camera. The parents are seated on a bench while the daughter stands behind them and the son stands to the right. They are dressed in color-coordinated outfits involving dark green, white, and denim. The background features a beige wall adorned with a wreath, flanked by two snowy Christmas trees decorated with gold ornaments, with wrapped gifts on the floor."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526702d4",
       "title": "Sparkler in the Snow",
       "slug": "sparkler-in-the-snow",
@@ -8132,35 +7093,6 @@
           "width": 1254,
           "height": 1680,
           "alt": "Gemini AI Generated Image: A medium shot captures a young woman with long red hair and a warm smile, holding a lit sparkler towards the camera. She wears a brown knit beanie, a red wool coat, and beige gloves. The sparkler emits bright golden sparks. In the background is a snow-covered Christmas tree decorated with baubles and string lights, set in an outdoor winter scene. The light is soft and warm, suggesting evening."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702d3",
-      "title": "All I Want for Christmas",
-      "slug": "all-i-want-for-christmas",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Hyper-realistic Christmas scene, warm and cozy lighting coming from a lit fireplace in the background. The couple is positioned exactly: the man sitting on the floor, legs bent and slightly open, wearing a textured beige sweater and light-colored pants. He smiles naturally, with a soft and welcoming expression. The woman is kneeling behind him, hugging him over the shoulders, with her hands crossed over his chest. She wears a white cable-knit sweater and smiles warmly, tilting her face slightly to the side, with long wavy hair falling over one shoulder.\nIn the background, a fireplace with roaring flames creates warm orange reflections. To the left, a snowy Christmas tree richly decorated in white, gold, and champagne, with yellow lights producing soft bokeh. Above the fireplace, a festive arrangement with leaves, baubles, and white and gold elements. To the right, a green garland with gold details. The environment conveys coziness, elegance, and a sophisticated Christmas atmosphere. Vertical composition, 9:16, soft lighting, natural shadows, and extremely sharp real texture of skin and fabrics. Hyper-realistic 8K photography.\nMANDATORY INSTRUCTIONS (DO NOT ALTER FACES):\nReproduce exactly the ORIGINAL faces from the provided photo.\nDO NOT change the shape of eyes, nose, mouth, teeth, eyebrows, or facial proportions.\nDO NOT smooth skin, do not eliminate texture, do not \"harmonize,\" do not rejuvenate.\nMaintain pores, beard, natural lines, real eye shine, hair texture.\nDO NOT create a filter, DO NOT make it look like AI.\nExpressions identical to the photo: his natural smile and her wide smile.\nPrioritize total fidelity to the faces above all else.\nFormat: Hyper-realistic photography, 8K, 9:16 vertical.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 43,
-      "view_count": 2980,
-      "copy_count": 6889,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Screenshot-2025-12-17-at-3.59.36-AM.png",
-          "local_path": "images/portraits/Screenshot-2025-12-17-at-3.59.36-AM.png",
-          "original_url": "https://img.promptplum.com/promptImages/Screenshot-2025-12-17-at-3.59.36-AM.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Screenshot-2025-12-17-at-3.59.36-AM.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Screenshot-2025-12-17-at-3.59.36-AM.png",
-          "width": 778,
-          "height": 1154,
-          "alt": "Gemini AI Generated Image: A couple in cozy knit sweaters smiles for a photo in front of a lit fireplace and a decorated Christmas tree. The blonde woman in white embraces the bearded man in beige from behind as he sits on a rug."
         }
       ]
     },
@@ -8388,35 +7320,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526702c5",
-      "title": "Korean Style Selfie",
-      "slug": "korean-style-selfie",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Subject: Young woman, close-up digital selfie. Hair: Long chocolate brown hair, mermaid waves, full bangs, loose strands slightly blown across the face by the wind. Outfit & Accessories: Oversized bright black V-neck knitted sweater, large white bow at the center of the chest, simple small silver circle earrings, silver rings on fingers. Makeup & Skin: 100% realistic flawless skin, Korean-style makeup, neat natural eyebrows, hazy eyeliner, thin false eyelashes, light nude blush on cheeks and nose, nude-red lips. Hands: Long almond-shaped nude nails with white tips, one hand resting on chin. Expression: Smiling seductively, alluring gaze. Lighting & Atmosphere: Dimly lit room, powerful camera flash effect (direct flash), sharp contrast between bright face and dark background, cool tones. Style: Photorealistic, unedited raw photo, modern simplicity, casual selfie aesthetic. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 18,
-      "view_count": 1251,
-      "copy_count": 1703,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Ai Generated Image: a close-up portrait of a smiling young woman with long, wavy brown hair and bangs. She is wearing a black V-neck sweater accented with a prominent white bow at the center. Her hand is gently raised near her chin, displaying silver rings and a French manicure, while small hoop earrings complete the look. The lighting highlights her rosy cheeks and face against a dark background, creating a soft and stylish aesthetic."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526702c3",
       "title": "Own Your Future",
       "slug": "own-your-future",
@@ -8616,35 +7519,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Gemini Generated Image: A stylish woman with long, dark, wavy hair wears a black turtleneck and blazer against an orange background. She is wearing large, square yellow-tinted sunglasses and a delicate gold chain."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702b7",
-      "title": "My Own Weather",
-      "slug": "my-own-weather",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Under a brooding overcast sky, a young man stands in close side profile, his dark baseball cap edged with a subtle red accent snug against windswept, thick hair. Black over-ear headphones rest lightly above his sick, rain-kissed skin, where shimmering droplets catch the muted coastal light. His contemplative gaze stretches toward the rainy horizon, evoking a quiet intensity within the pensive stillness. A cool palette of subdued greys and navy melds seamlessly with the gentle crimson hints, while the damp fabric of his cap, the slick sheen of his skin, and the tousled hair stirred by a cool sea breeze offer vivid texture contrasts. Soft natural shadows contour his features, enhanced by a tightly cropped composition and a gentle background blur that draws focus to tactile details. The scene conveys a poised moment of introspection, bathed in diffused, melancholic light.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 26,
-      "view_count": 828,
-      "copy_count": 1453,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_i6ygg3i6ygg3i6yg.jpg",
-          "width": 1276,
-          "height": 1635,
-          "alt": "Gemini Generated Image: A man wearing a dark baseball cap and headphones is shown in a close-up profile shot while rain falls on his face and cap. He appears to be outdoors by the water on a cloudy day."
         }
       ]
     },
@@ -9026,35 +7900,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670299",
-      "title": "Gloss and Freckles",
-      "slug": "gloss-and-freckles",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create candid ultra-realistic cinematic glamour image 100% copy face ,identical to the attached image. A young woman \nclose-up portrait (or \"a highly detailed beauty shot of a woman\").\nExpression/Pose: Eyes gently closed, head tilted slightly back and to the side (as if resting or in a moment of tranquility/reverie).\nFace Details: Prominent, natural-looking freckles across the nose and cheeks, full, glossy, slightly wet lips with a peachy or burnt-sienna hue, defined natural brows, visible facial texture.\n2. Lighting & Atmosphere:\nLighting: Dramatic, warm, directional soft light (like golden hour light or studio lighting mimicking it) falling primarily on the nose, cheeks, and lips. Strong highlights on the lips and cheekbones.\nMood: Intimate, moody, sensual, natural, dreamlike, or a feeling of sunkissed warmth.\nColor Palette: Dominated by warm tones (golds, oranges, peaches, reds, and deep browns).\n3. Styling & Details (Makeup/Hair/Clothes):\nMakeup: Very natural, editorial, \"no-makeup\" look. Heavy, diffused blush/bronzer in a peachy-orange tone concentrated high on the cheeks and bridge of the nose (sunkissed effect). Glossy/dewy skin finish.\nHair: Dark, rich brown hair, slightly messy, with soft, face-framing bangs (or fringe) slightly covering the forehead.\nClothes: (Not visible). You would specify \"wearing an unseen garment\" or \"naked shoulders\" to keep the focus on the face, but since it's a tight close-up, you can often omit this.\n4. Background & Frame:\nBackground: Very dark, out-of-focus bokeh background (deep brown/black/olive green) to ensure the face pops. The background is minimalist and solid-colored.\nCrop/Angle: Extreme close-up (tight crop) of the lower face, emphasizing the lips, nose, and cheek area. Shot from a slightly lower angle.\nAesthetics: High-fashion photography, editorial portrait, cinematic, dark academia aesthetic (for the mood). Camera: Shot on a high-end mirrorless camera (e.g., Sony A7R V or Canon R5) with a fast 85mm lens (e.g., f/1.4 or f/1.2). Soft, dramatic high-key  lighting, beautiful skin texture, elegant, shallow depth of field.\nRealistic high detail HD DSLR shot and glamour shot.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 25,
-      "view_count": 920,
-      "copy_count": 1333,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "local_path": "images/portraits/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Generated Image: A close-up of a woman's face with her eyes closed. She has freckles, dewy skin, and is wearing glossy orange lipstick and blush/bronzer. Her dark hair has bangs, and she is illuminated by warm light."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670292",
       "title": "Modern Man in Abstract Knitwear",
       "slug": "modern-man-in-abstract-knitwear",
@@ -9323,45 +8168,6 @@
           "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/2.jpeg",
           "width": 736,
           "height": 1104,
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670288",
-      "title": "The Winter King and His Guardian",
-      "slug": "the-winter-king-and-his-guardian",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create an ultra-realistic cinematic winter full body portrait set in a serene snowy forest. A stylish individual is gently embracing a majestic white lion with striking blue eyes. The subject stands close, cheek softly resting against the lion’s head, one hand placed calmly on its mane, conveying trust, calmness, and quiet connection.\nThe subject wears a luxurious long white fur coat layered over a dark outfit, paired with sleek black sunglasses. Light snowflakes rest naturally on the hair and shoulders, enhancing the cold winter atmosphere.\nThe environment features tall pine trees heavily covered in fresh snow, with a soft, blurred background for depth. The ground is thick with untouched snow, and subtle snowfall is visible in the air. Warm natural sunlight filters through the trees from behind, creating a soft golden rim light and gentle highlights on the subject and lion, producing a cinematic glow.\nComposition is clean and visually balanced with a full body framing, maintaining clear visibility of both the subject and the lion. Use shallow depth of field to isolate the subjects while keeping the snowy forest recognizable.\nLighting is soft, natural, and diffused with a slight backlight halo effect. Focus on ultra-realistic textures: detailed fur, natural skin tones, visible snow particles, and crisp winter atmosphere. Avoid any CGI or artificial look.\nStyle: high-end editorial photography, cinematic, ultra-detailed, 8K resolution, sharp focus, realistic color grading, no text, no watermark.\nAspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 794,
-      "copy_count": 1302,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "local_path": "images/portraits/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Gemini Generated Image: A person in a white fur coat is standing in a snowy forest and gently hugging a large white lion."
-        },
-        {
-          "filename": "IMG_20251208_001332.jpg",
-          "local_path": "images/portraits/IMG_20251208_001332.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251208_001332.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/IMG_20251208_001332.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/IMG_20251208_001332.jpg",
-          "width": 515,
-          "height": 675,
           "alt": ""
         }
       ]
@@ -9716,64 +8522,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670265",
-      "title": "Traditional Bridal Regalia",
-      "slug": "traditional-bridal-regalia",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Without changing facial feature and face A captivating close-up portrait of an Indian bride, with half of her face subtly veiled by a sheer, off-white or cream dupatta adorned with a heavy, intricate gold and pearl border. Her visible eye is open, intensely gazing directly at the viewer, with dramatic eyeliner and makeup. She is wearing an elegant off-white or cream lehenga blouse with subtle embroidery. Her hand, adorned with intricate mehndi and delicate gold haath phool (hand jewelry), gently holds the veil. She is bedecked in exquisite gold and pearl jewelry with ruby/maroon accents, including a prominent choker necklace, large dangling earrings, a traditional nath (nose ring) with a floral design, and a matha patti (headpiece) with pearl drops. A small red bindi is on her forehead. The lighting is soft, warm, and focused, highlighting her features and the sparkle of her jewelry against a blurred, neutral background. Artistic, high-fashion bridal photography, high-resolution, richUse the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 49,
-      "view_count": 1342,
-      "copy_count": 2887,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_000908.jpg",
-          "local_path": "images/portraits/IMG_20251205_000908.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_000908.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/IMG_20251205_000908.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/IMG_20251205_000908.jpg",
-          "width": 1792,
-          "height": 2349,
-          "alt": "Gemini AI Generated Image: a beautiful Indian bride wearing a traditional off-white/cream lehenga and heavy gold and ruby jewelry. She is partially covering her face with a net dupatta (veil) that has ornate borders."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670263",
-      "title": "Imaginary Walk",
-      "slug": "imaginary-walk",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Realistic style, me and neon girl walking on diamy street road, me holding neon girl hand, wearing white hoodie and black jeans, white sneakers. appears a Golden glowing, neon-style illustration of a girl. The neon girl emits a soft golden light, contrasting against the dark, blurry background of city lights in the distance. The atmosphere feels calm, melancholic, and slightly surreal, blending reality and imagination. 100% accurate my face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 3204,
-      "copy_count": 4918,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251204_161936.jpg",
-          "local_path": "images/portraits/IMG_20251204_161936.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_161936.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/IMG_20251204_161936.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/IMG_20251204_161936.jpg",
-          "width": 1760,
-          "height": 2399,
-          "alt": "Ai Generated Image: The image shows a young man walking down a wet, dark city street at night, holding hands with a glowing, neon-yellow outline of a girl. It has a surreal, romantic, or fantasy feel."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670261",
       "title": "The Red Standard",
       "slug": "the-red-standard",
@@ -9886,35 +8634,6 @@
           "width": 896,
           "height": 1152,
           "alt": "Woman Cinematic Shadow Portrait AI Photo Editing Prompt. AI generated close-up portrait of a dark-haired woman featuring dramatic diagonal lighting across her face."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670251",
-      "title": "Relaxing in the Garden",
-      "slug": "relaxing-in-the-garden",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Use the uploaded photo for face reference and create a portrait of a Bathed in warm sunlight, a young man with wavy hair sits relaxed on a small rustic wooden bench against a pastel blue wall, softened by lush green plants and small trees. His cream oversized sweatshirt tinged with light blue harmonizes with the backdrop, paired with loose light denim jeans and pristine white sneakers. Gentle shadows play across his calm, confident face and natural skin tone, illuminated by natural light that glistens subtly on his hair. The concrete floor, scattered with a few fallen leaves, adds warm earth tones to the scene. In the foreground and softly blurred background, hints of green leaves create depth through creamy bokeh captured with a 50mm f/1.4 lens. A minimal silver bracelet reflects the understated 90s vibe. The composition vertically frames his upper body with precise focus, showcasing realistic textures on fabric, skin, and hair, conveying a serene blue-green harmony in ultra-realistic cinematic lighting.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 47,
-      "view_count": 1817,
-      "copy_count": 4147,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251203_140632.jpg",
-          "local_path": "images/portraits/IMG_20251203_140632.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251203_140632.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/IMG_20251203_140632.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/IMG_20251203_140632.jpg",
-          "width": 1696,
-          "height": 2469,
-          "alt": "Gemini Generated Image: A young man is sitting on a wooden bench outdoors, surrounded by potted plants. He is wearing a light-colored, tie-dye sweatshirt, light-wash jeans, and white sneakers."
         }
       ]
     },
@@ -10296,64 +9015,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670238",
-      "title": "Black Saree with Floral Embroidery",
-      "slug": "black-saree-with-floral-embroidery",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Use the face from the uploaded reference image and preserve the same facial features - do not alter the face. Create A hyper-realistic medium shot portrait of a beautiful young Indian woman standing on a city street during the day. She is wearing a premium translucent black net saree adorned with glittering sequins and colorful floral embroidery (red, blue, green), paired with a solid black short-sleeved blouse. She wears a blue gemstone choker necklace, matching earrings, and a stack of blue bangles. She has a small black bindi, and her long wavy brown hair is parted in the middle. She is leaning casually against a black metal railing with her hands clasped. The background features blurred city architecture, brick buildings, and parked cars, creating a shallow depth of field. Soft, natural lighting, 8k resolution, high fidelity. Photorealistic style: The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 116,
-      "view_count": 4920,
-      "copy_count": 11863,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251130_151922.jpg",
-          "local_path": "images/portraits/IMG_20251130_151922.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_151922.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/IMG_20251130_151922.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/IMG_20251130_151922.jpg",
-          "width": 1849,
-          "height": 2304,
-          "alt": "Gemini Generated image of A beautiful woman with long brown hair, adorned in a black sari featuring colorful floral embroidery and sparkling blue jewelry and bangles, stands smiling on a city street beside a black railing"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670236",
-      "title": "Cherry Blossom Spring Portrait",
-      "slug": "cherry-blossom-spring-portrait",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Use the reference photo uploaded to create a hyper realistic Ultra HD photo of me standing in a Cherry blossoms Tree wearing a White loose blouse and a wash blue jeans the scene is Ethereal and my expression is sensual i'm also touching the cherry blossoms branch with lots of flowers make a Ultra clear hyper realistic photo with boque effect. Photorealistic style. The image should be in a tall, vertical portrait format corresponding to a 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 45,
-      "view_count": 1649,
-      "copy_count": 3511,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251130_101202.jpg",
-          "local_path": "images/portraits/IMG_20251130_101202.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251130_101202.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/IMG_20251130_101202.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/IMG_20251130_101202.jpg",
-          "width": 1856,
-          "height": 2294,
-          "alt": "Gemini Generated Image of A beautiful young woman with long dark hair, wearing a white shirt and blue jeans, smiles while gently touching branches of delicate pink cherry blossoms in soft, natural light."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670235",
       "title": "Glimpse in the Shadow",
       "slug": "glimpse-in-the-shadow",
@@ -10729,35 +9390,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670222",
-      "title": "Solid deep wine-colored wall",
-      "slug": "solid-deep-wine-colored-wall",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "A full-body, camera look-angle portrait of a handsome myself like a 22-year-old boy, approximately 5'11\" tall. He is sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating a 90s movie and romantic, windy environment. He is wearing a perfect red wine-colored, retro aesthetic shirt with matching pants and white sneakers. He has a silver watch and is holding a single rose flower in hand. Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 1778,
-      "copy_count": 3568,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "local_path": "images/portraits/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/Gemini_Generated_Image_s04bo2s04bo2s04b-1.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Ai generated image of a boy sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating a 90s movie and romantic, windy environment"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670219",
       "title": "Reflective black-and-white portrait",
       "slug": "reflective-black-and-white-portrait",
@@ -10812,35 +9444,6 @@
           "width": 832,
           "height": 1248,
           "alt": "Ai generated image of man is sitting in the center of a high-back armchair in a minimal, monochromatic studio"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670213",
-      "title": "Woman plays acoustic guitar",
-      "slug": "woman-plays-acoustic-guitar",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Create a soft, natural, photorealistic outdoor portrait of a person seated on a simple wooden chair, gently playing an acoustic guitar in daylight. The subject is positioned slightly right of center, body angled subtly toward the left, with the head tilted downward and eyes focused on the guitar strings, conveying a calm, introspective mood.\nOutfit consists of a clean, minimal white sleeveless ribbed top paired with fitted light blue jeans, maintaining a simple and modern aesthetic. Hair is tied back in a neat low ponytail with a few soft strands framing the face, adding natural elegance. Expression is serene and focused, with a relaxed, peaceful feel.\nThe acoustic guitar features warm natural wood tones with visible grain texture, held comfortably across the lap, one hand forming chords on the fretboard while the other gently strums near the sound hole.\nBackground is a neutral gray wall with a smooth matte finish, clean and distraction-free, with absolutely no greenery, plants, or additional elements. The scene is outdoors, illuminated by soft natural daylight, creating gentle highlights and mild shadows without harsh contrast or overexposure.\nCamera angle is eye-level with a slight downward perspective, framed as a medium shot (waist-up), ensuring both the subject and guitar are clearly visible. Composition is minimal and balanced with subtle negative space.\nTechnical details: ultra-realistic, high resolution, natural color grading, soft contrast, shallow depth of field, 50mm lens look, f/2.8 aperture, crisp focus on subject, softly blurred background, lifestyle photography style. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 44,
-      "view_count": 1473,
-      "copy_count": 2309,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764161793490.png",
-          "local_path": "images/portraits/1764161793490.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764161793490.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/1764161793490.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/1764161793490.png",
-          "width": 960,
-          "height": 1088,
-          "alt": "Ai generated image of Woman playing acoustic guitar"
         }
       ]
     },
@@ -11199,35 +9802,6 @@
           "width": 960,
           "height": 1088,
           "alt": "Ai generated image of \"Men with camera\""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701f6",
-      "title": "Yellow Saree with sunflowers",
-      "slug": "yellow-saree-with-sunflowers",
-      "category": "Portraits",
-      "category_slug": "portraits",
-      "prompt": "Use the uploaded image as the ONLY face & identity reference.\nCreate a soft, sunlit portrait of the subject wearing a flowing sheer yellow saree with delicate white floral embroidery. The mood is serene, poetic, and romantic with a warm golden glow.\nPose & Expression:\nShe is seated gracefully against a plain wall, body slightly angled, holding a bouquet of sunflowers close to her chest with both hands. Expression is calm, gentle, and softly confident, with a subtle, natural smile. Eyes are relaxed and looking directly into the camera.\nOutfit & Styling:\nElegant yellow saree with sheer drape and fine embroidery details. Loose, softly styled hair with a small white flower tucked behind the ear. Minimal traditional jewelry (earrings).\nComposition & Framing:\nWaist-up to mid-thigh portrait (seated framing), vertical 4:5 ratio. Subject slightly right of center with balanced negative space.\nLighting:\nWarm natural sunlight coming from the side, creating a strong triangular patch of light on the wall. Soft highlights on face and saree, with gentle shadow falloff adding depth and mood.\nBackground:\nMinimal plain wall with artistic sunlight-shadow pattern. Clean, distraction-free environment.\nMood & Style:\nDreamy, golden-hour aesthetic with soft contrast, natural skin texture, and cinematic warmth.\nTechnical Details:\nUltra-realistic, high detail, soft shadows, natural color grading, 85mm lens look, shallow depth of field.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 136,
-      "view_count": 7565,
-      "copy_count": 16445,
-      "is_premium": false,
-      "published_at": "2026-09-05T10:10:26.085Z",
-      "images": [
-        {
-          "filename": "1763939369961.png",
-          "local_path": "images/portraits/1763939369961.png",
-          "original_url": "https://img.promptplum.com/promptImages/1763939369961.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraits/1763939369961.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraits/1763939369961.png",
-          "width": 928,
-          "height": 1120,
-          "alt": "AI Generated image of \"Beautiful young women in yellow saree, holding flowers\""
         }
       ]
     },

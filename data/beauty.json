@@ -1,7 +1,7 @@
 {
   "category": "Beauty",
   "slug": "beauty",
-  "total_prompts": 37,
+  "total_prompts": 31,
   "updated_at": "2026-09-24T12:51:35Z",
   "prompts": [
     {
@@ -73,35 +73,6 @@
       ]
     },
     {
-      "id": "6a99a52b46d4207dc2280e14",
-      "title": "Beautiful Radha Portrait with Floral Jewelry and Flute",
-      "slug": "radha-krishna-theme-girl-mythological-portrait",
-      "category": "Beauty",
-      "category_slug": "beauty",
-      "prompt": "Use the uploaded image strictly ONLY for face and identity reference.\nCreate a photorealistic cinematic portrait of a beautiful woman dressed as a graceful divine-inspired Indian flute musician, centered in a vertical composition. She has smooth, glowing skin, subtle makeup, and a slight natural blush on her cheeks, voluminous smooth hair flowing naturally over her shoulders, adorned with delicate floral hair jewelry and a single elegant peacock feather. The subject is dressed in a traditional pastel blue lehenga set adorned with intricate gold embroidery—the blouse richly detailed with fine gold patterns, paired with a flowing matching skirt and a sheer dupatta draped elegantly over the arms. Delicate white-and-pink floral jewelry decorates her neck, wrists, upper arm, and ears. Elegant white traditional face art is painted across her forehead and around her eyes. She gently holds a polished wooden bansuri flute diagonally across her chest with both hands, standing with her body slightly angled while looking directly into the camera with a soft, and graceful smile.\nBackground: dreamy studio backdrop with a smooth cyan-blue glow on the left transitioning into warm peach-pink on the right, subtle atmospheric haze and soft bokeh.\nLighting: Cinematic soft beauty lighting, a slightly warm rim light from the right, gentle highlights on the hair and skin, and natural skin tones.\nComposition: medium-to-three-quarter portrait, subject centered, flute clearly visible, flowing hair creating elegant framing, shallow depth of field.\nCamera: 85mm portrait lens, f/1.8, soft background separation, high dynamic range, cinematic color grading, ultra-detailed skin and fabric textures, photorealistic, 8K resolution, 4:5 vertical aspect ratio.\nNegative prompt: distorted hands, extra fingers, extra limbs, bad anatomy, deformed face, unnatural eyes, plastic skin, duplicate objects, blurry subject, identity change.",
-      "description": "Cinematic Cultural Portrait Prompt: Copy and paste this prompt to generate a stunning, high-quality studio portrait of a beautiful Indian woman dressed as Radha, elegantly holding a wooden flute while adorned with pink floral jewelry and a peacock feather.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 2445,
-      "copy_count": 1496,
-      "is_premium": false,
-      "published_at": "2026-09-03T16:49:47.907Z",
-      "images": [
-        {
-          "filename": "3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "local_path": "images/beauty/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/beauty/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/beauty/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Cinematic cultural portrait of an Indian woman holding a flute AI Photo Editing Prompt. AI generated studio portrait of a beautiful smiling girl dressed in a light blue embroidered lehenga, adorned with pink floral jewelry, a peacock feather in her hair, and traditional face art, holding a wooden bansuri against a colorful glowing background."
-        }
-      ]
-    },
-    {
       "id": "6a70cbd74bbdbe2cf5985226",
       "title": "Aesthetic Woman with Floral Basket & Vintage Bike",
       "slug": "aesthetic-woman-vintage-bicycle-flowers-portrait",
@@ -147,65 +118,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Cinematic Lifestyle Photography AI Photo Editing Prompt. AI generated outdoor portrait with soft lighting of a woman on a vintage blue bicycle with a flower basket."
-        }
-      ]
-    },
-    {
-      "id": "6a70c99e4bbdbe2cf597fe97",
-      "title": "Twilight Seaside Romance",
-      "slug": "elegant-beach-couple-portraits",
-      "category": "Beauty",
-      "category_slug": "beauty",
-      "prompt": "A photorealistic, ultra-detailed medium portrait of a highly attractive, elegant couple standing closely together on a beach at twilight. The beautiful woman has long, flowing hair and is wearing a form-fitting navy blue off-the-shoulder evening dress, accessorized with diamond drop earrings, a diamond necklace, a tennis bracelet, and a silver ring. She has a warm, radiant smile. The handsome man natural hair and wears a crisp white linen button-down shirt with rolled-up sleeves, navy blue dress pants, a brown leather belt, and a silver steel watch. He has a confident, subtle smile. His right arm is around her waist, and his left hand is tucked in his pocket. Both make direct eye contact with the camera. The background features a dark blue ocean with gentle waves, and creamy bokeh from distant coastal city lights under a deep blue evening sky. Shot on an 85mm lens, f/1.8 aperture, shallow depth of field, soft flattering diffused lighting illuminating their faces, 8k, masterpiece, cinematic portrait photography, ultra-detailed skin textures. Aspect ratio 4:5.\nMaintain accurate identity and precise face matching to the provided reference image for both subjects.",
-      "description": "Romantic Couple Photography Prompt: Copy & Paste this prompt to create a photorealistic portrait of an elegant couple embracing on a beach at dusk.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 72,
-      "view_count": 2117,
-      "copy_count": 3257,
-      "is_premium": false,
-      "published_at": "2026-08-03T17:02:22.847Z",
-      "images": [
-        {
-          "filename": "a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "local_path": "images/beauty/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/beauty/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/beauty/a1b2e34a-7dbd-4728-8ac6-e00d9aa44f2a.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Evening Beach Couple Portrait AI Photo Editing Prompt. AI generated photo-realistic portrait of a man in a white linen shirt and a woman in a dark blue off-shoulder dress embracing on a beach at dusk."
-        }
-      ]
-    },
-    {
-      "id": "6a5e521ea3af6f12205b9e86",
-      "title": "Radiant Indian Bride in Crimson Saree",
-      "slug": "traditional-indian-bridal-portrait",
-      "category": "Beauty",
-      "category_slug": "beauty",
-      "prompt": "Create a highly detailed, photorealistic traditional Indian bridal portrait of a woman standing beside a large sunlit window, captured in a vertical composition. She is shown in a graceful three-quarter pose, gazing softly toward the left side of the frame with a calm, elegant, slightly dreamy expression. Her face is beautifully defined with smooth natural smooth skin, dramatic black eyeliner, long curled eyelashes, well-shaped eyebrows, a delicate nose ring, and deep red lipstick. A small red bindi is centered on her forehead.\nHer black hair is neatly parted in the center and styled into an elegant traditional bridal bun, decorated with a luxurious gold maang tikka and intricate white floral hair adornments extending toward the back. She wears a rich deep crimson-red bridal saree with elaborate antique-gold embroidery, ornate floral and paisley patterns, a heavily embroidered golden border, and a matching richly decorated short-sleeved blouse. The saree drapes elegantly over her shoulder and across her body, with a red bridal veil visible behind her.\nShe is adorned with elaborate traditional Indian bridal jewelry: layered gold necklaces, a detailed choker, long pearl-and-gold necklaces, a large ornate pendant, heavy chandelier-style jhumka earrings, a delicate nath nose ring connected to her ear by a fine chain, and a richly decorated maang tikka. Her wrists are stacked with multiple gold bangles, red bridal bangles, white bangles, and ornate traditional bracelets. Intricate dark reddish-brown mehndi designs cover her fingers, hands, and wrists.\nHer left hand rests gracefully near her upper chest while her other hand rests naturally across her waist, creating an elegant bridal pose. Warm golden sunlight streams through the window from the left side, creating soft highlights on her face, jewelry, and red saree. The background is a softly blurred traditional interior with warm brown wooden tones, glowing window light, subtle bokeh, and cinematic depth of field. The lighting is warm, romantic, luxurious, and softly diffused, with beautiful golden-hour tones and gentle shadows.\nComposition: vertical bridal fashion portrait, medium-full body framing, subject centered slightly toward the right, three-quarter angle, eye-level camera angle, elegant natural posture.\nCamera: professional full-frame camera, 85mm portrait lens, f/1.6, shallow depth of field, sharp focus on the eyes and face, creamy background bokeh.\nQuality: ultra-realistic, photorealistic skin texture, highly detailed jewelry and embroidery, realistic fabric texture, cinematic color grading, warm golden tones, HDR, natural skin details, soft film grain, 8K resolution, masterpiece, premium Indian bridal photography, vertical 4:5 composition.\nNegative prompt: blurry face, unnatural skin, plastic skin, incorrect saree draping, low detail, harsh shadows, flat lighting, text, watermark, logo.",
-      "description": "Bridal Portrait Photography Prompt: Copy & Paste this Prompt to create a realistic photo of an elegant Indian bride wearing a red saree and gold jewelry by a window.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 24,
-      "view_count": 793,
-      "copy_count": 675,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "c4ea0869-90c1-4625-a788-66c163a9c3d9.jpeg",
-          "local_path": "images/beauty/c4ea0869-90c1-4625-a788-66c163a9c3d9.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/c4ea0869-90c1-4625-a788-66c163a9c3d9.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/beauty/c4ea0869-90c1-4625-a788-66c163a9c3d9.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/beauty/c4ea0869-90c1-4625-a788-66c163a9c3d9.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Bride in Saree AI Photo Editing Prompt. AI generated traditional bridal portrait of a woman with henna, jewelry, and a crimson saree standing by a window."
         }
       ]
     },
@@ -901,35 +813,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526702cd",
-      "title": "Holding the Perfect Gift",
-      "slug": "holding-the-perfect-gift",
-      "category": "Beauty",
-      "category_slug": "beauty",
-      "prompt": "Uploaded image reference: Use ONLY the real facial features of the person from the uploaded image.\n\nA natural, candid lifestyle photograph captured with a 50mm lens, featuring a woman seated on a soft white sofa in a warmly lit Christmas living room. The focus is sharp on her face, showcasing smooth, sun-kissed skin, a graceful facial structure, and a gentle, genuine smile. She has long, voluminous curly hair with soft highlights, styled naturally.\nShe is holding a large, elegant red Christmas gift box tied with a matching ribbon, resting comfortably in her arms. She is dressed in a cozy red knit sweater dress that complements the festive atmosphere.\nThe background includes a classic fireplace decorated with lush green garlands, red accents, and glowing warm fairy lights. The lighting is soft and golden, creating a cozy holiday mood with subtle depth of field and a slightly blurred background. The overall tone is warm, premium, realistic, and cinematic.\nAspect ratio: 4:5",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 447,
-      "copy_count": 312,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_uc3p1fuc3p1fuc3p-1.jpg",
-          "local_path": "images/beauty/Gemini_Generated_Image_uc3p1fuc3p1fuc3p-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_uc3p1fuc3p1fuc3p-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/beauty/Gemini_Generated_Image_uc3p1fuc3p1fuc3p-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/beauty/Gemini_Generated_Image_uc3p1fuc3p1fuc3p-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Ai Generated Image: a smiling woman with long, wavy, light brown hair, wearing a red knit sweater dress. She is sitting on a white couch and holding a large red gift box with a red ribbon and bow. The background shows a fireplace adorned with a garland, lights, and berries, along with a Christmas tree."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526702ca",
       "title": "Reindeer Antlers and Fairy Lights",
       "slug": "reindeer-antlers-and-fairy-lights",
@@ -955,35 +838,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Gemini AI Generated Festive Image: a smiling young woman wearing a beige off-the-shoulder sweater and a playful reindeer antler headband. She is wrapped in a string of glowing fairy lights, and her cheeks are decorated with delicate white snowflake makeup. The background shows a dark window with a blurred, snowy winter scene, creating a cozy and cheerful holiday atmosphere. Would you like help generating a caption for this image?"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702c5",
-      "title": "Korean Style Selfie",
-      "slug": "korean-style-selfie",
-      "category": "Beauty",
-      "category_slug": "beauty",
-      "prompt": "Subject: Young woman, close-up digital selfie. Hair: Long chocolate brown hair, mermaid waves, full bangs, loose strands slightly blown across the face by the wind. Outfit & Accessories: Oversized bright black V-neck knitted sweater, large white bow at the center of the chest, simple small silver circle earrings, silver rings on fingers. Makeup & Skin: 100% realistic flawless skin, Korean-style makeup, neat natural eyebrows, hazy eyeliner, thin false eyelashes, light nude blush on cheeks and nose, nude-red lips. Hands: Long almond-shaped nude nails with white tips, one hand resting on chin. Expression: Smiling seductively, alluring gaze. Lighting & Atmosphere: Dimly lit room, powerful camera flash effect (direct flash), sharp contrast between bright face and dark background, cool tones. Style: Photorealistic, unedited raw photo, modern simplicity, casual selfie aesthetic. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 18,
-      "view_count": 1251,
-      "copy_count": 1703,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "local_path": "images/beauty/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/beauty/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/beauty/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Ai Generated Image: a close-up portrait of a smiling young woman with long, wavy brown hair and bangs. She is wearing a black V-neck sweater accented with a prominent white bow at the center. Her hand is gently raised near her chin, displaying silver rings and a French manicure, while small hoop earrings complete the look. The lighting highlights her rosy cheeks and face against a dark background, creating a soft and stylish aesthetic."
         }
       ]
     },
@@ -1100,35 +954,6 @@
           "width": 1920,
           "height": 2240,
           "alt": "Gemini Generated Image: A young woman with striking blue eyes is wearing a leopard print faux fur hat and coat outdoors. The background is a snowy, winter landscape with mountains and what looks like a frozen lake or field. She is also wearing a gold wristwatch and rings."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670299",
-      "title": "Gloss and Freckles",
-      "slug": "gloss-and-freckles",
-      "category": "Beauty",
-      "category_slug": "beauty",
-      "prompt": "Create candid ultra-realistic cinematic glamour image 100% copy face ,identical to the attached image. A young woman \nclose-up portrait (or \"a highly detailed beauty shot of a woman\").\nExpression/Pose: Eyes gently closed, head tilted slightly back and to the side (as if resting or in a moment of tranquility/reverie).\nFace Details: Prominent, natural-looking freckles across the nose and cheeks, full, glossy, slightly wet lips with a peachy or burnt-sienna hue, defined natural brows, visible facial texture.\n2. Lighting & Atmosphere:\nLighting: Dramatic, warm, directional soft light (like golden hour light or studio lighting mimicking it) falling primarily on the nose, cheeks, and lips. Strong highlights on the lips and cheekbones.\nMood: Intimate, moody, sensual, natural, dreamlike, or a feeling of sunkissed warmth.\nColor Palette: Dominated by warm tones (golds, oranges, peaches, reds, and deep browns).\n3. Styling & Details (Makeup/Hair/Clothes):\nMakeup: Very natural, editorial, \"no-makeup\" look. Heavy, diffused blush/bronzer in a peachy-orange tone concentrated high on the cheeks and bridge of the nose (sunkissed effect). Glossy/dewy skin finish.\nHair: Dark, rich brown hair, slightly messy, with soft, face-framing bangs (or fringe) slightly covering the forehead.\nClothes: (Not visible). You would specify \"wearing an unseen garment\" or \"naked shoulders\" to keep the focus on the face, but since it's a tight close-up, you can often omit this.\n4. Background & Frame:\nBackground: Very dark, out-of-focus bokeh background (deep brown/black/olive green) to ensure the face pops. The background is minimalist and solid-colored.\nCrop/Angle: Extreme close-up (tight crop) of the lower face, emphasizing the lips, nose, and cheek area. Shot from a slightly lower angle.\nAesthetics: High-fashion photography, editorial portrait, cinematic, dark academia aesthetic (for the mood). Camera: Shot on a high-end mirrorless camera (e.g., Sony A7R V or Canon R5) with a fast 85mm lens (e.g., f/1.4 or f/1.2). Soft, dramatic high-key  lighting, beautiful skin texture, elegant, shallow depth of field.\nRealistic high detail HD DSLR shot and glamour shot.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 25,
-      "view_count": 920,
-      "copy_count": 1333,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "local_path": "images/beauty/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/beauty/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/beauty/Gemini_Generated_Image_ujejrujejrujejru.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Generated Image: A close-up of a woman's face with her eyes closed. She has freckles, dewy skin, and is wearing glossy orange lipstick and blush/bronzer. Her dark hair has bangs, and she is illuminated by warm light."
         }
       ]
     },

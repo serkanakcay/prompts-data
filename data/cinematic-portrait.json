@@ -1,7 +1,7 @@
 {
   "category": "Cinematic Portrait",
   "slug": "cinematic-portrait",
-  "total_prompts": 75,
+  "total_prompts": 71,
   "updated_at": "2026-09-24T12:53:43Z",
   "prompts": [
     {
@@ -156,45 +156,6 @@
           "width": 1122,
           "height": 1402,
           "alt": "AI Photo Prompt: Dramatic low-angle cinematic portrait of a young man in a tailored black suit and tie, adjusting his round dark sunglasses against a minimal black background."
-        }
-      ]
-    },
-    {
-      "id": "6ab1cbfb42ae1b78ac8aa2ea",
-      "title": "Cinematic Rain Color Splash Portrait AI Prompt",
-      "slug": "rain-color-splash-portrait",
-      "category": "Cinematic Portrait",
-      "category_slug": "cinematic-portrait",
-      "prompt": "Ultra-realistic, cinematic 3:4 fine-art fashion editorial photograph of a confident man with exactly the same distinctive, natural facial features as in the reference image.\nNo AI skin smoothing. Preserve the real age structure and authentic skin texture.\n\nFace: Authentic facial contours matching the reference image.\nStriking natural-color eyes.\nHair: natural. Slightly wet.\nDesaturated skin tone.\n\nScene:\nBlack-and-white composition with a selective color-splash effect.\nBlack suit with a red shirt in an intense, vivid red, face and skin tone in subtle natural— everything else remains monochrome.\nHeavy rain falling visibly through the frame.\nLarge, blurred city bokeh lights in the background.\nCinematic low-key lighting with glossy water droplets visible on the skin and fabric.\n\nOutfit:\nBlack suit with a red shirt.\nWet and naturally clinging to the body from the rain, with realistic fabric weight and genuine folds.\n\nPose & Mood:\nHead tilted slightly backward.\nEyes half-open.\nAn expression combining strength, sensuality, and freedom.\nElegant. Dramatic. Self-confident.\n\nTechnique & Style:\n8K.\n85mm portrait lens.\nUltra-detailed skin texture.\nCinematic contrast.\nHigh-fashion editorial look.\nRealistic proportions.\nNo artificial AI symmetry.\n\nCleanly rendered with no distortion.\n\nSame subject across images, consistent facial structure, stable identity, similar hairstyle, same skin tone, recognizable facial geometry, soft frontal facial lighting, natural skin texture.",
-      "description": "Copy this detailed ChatGPT prompt to generate ultra-realistic, cinematic color-splash portraits. Create a dramatic custom face image featuring heavy rain, a wet black suit, and a vivid red shirt against B&W city bokeh.",
-      "ai_tools": [
-        "ChatGPT"
-      ],
-      "like_count": 3,
-      "view_count": 448,
-      "copy_count": 9,
-      "is_premium": true,
-      "published_at": "2026-09-22T00:29:47.128Z",
-      "images": [
-        {
-          "filename": "8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "local_path": "images/cinematic-portrait/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/8f7ed816-699a-41df-a2c0-eebb0af95918.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT AI Photo Prompt: Ultra-realistic color-splash portrait of a confident man with a mustache in a wet black suit and vivid red shirt, standing in heavy rain against B&W city bokeh lights."
-        },
-        {
-          "filename": "9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "local_path": "images/cinematic-portrait/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "original_url": "https://img.promptplum.com/promptImages/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/9fb9ed29-accf-4a54-82ea-9075dbbdd442.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT AI Prompt: Cinematic fine-art editorial photograph of a mature man with a short beard in heavy rain; his vivid red shirt stands out in a monochrome scene with city bokeh."
         }
       ]
     },
@@ -1104,55 +1065,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Gemini_Generated_Image_vix2eevix2eevix2"
-        }
-      ]
-    },
-    {
-      "id": "6a8fd74546d4207dc24d9c73",
-      "title": "Boy Stylish portrait with SUV and panda",
-      "slug": "stylish-man-white-suv-panda-portrait",
-      "category": "Cinematic Portrait",
-      "category_slug": "cinematic-portrait",
-      "prompt": "Cinematic full-body portrait of a [young man] with [naturally styled hair, and aviator sunglasses], wearing a white leather biker jacket over a black t-shirt, thin silver chain necklace, white slim-fit trousers, and brown leather loafers with no socks. He leans casually against the front driver-side fender of a white luxury SUV (Range Rover style), one leg crossed over the other, one hand in his pocket, gazing off to the side with a confident, relaxed expression.\n\nThe SUV faces the camera at a slight three-quarter angle. Headlights blazing a saturated golden-yellow with visible bloom and lens flare. Metallic gold multi-spoke alloy wheels, black accent trim on the doors and hood vents, dark tinted panoramic roof, custom license plate \"[MF 007]\". Underglow lighting is physically integrated into the vehicle: a hidden LED strip is mounted flush beneath the rocker panels and front splitter, tucked directly against the underside of the car body so the light source itself is not visible — only its glow is. This creates a tight, sharp pool of saturated yellow-gold light emanating from directly under the chassis, hugging the contours of the front splitter and side skirts, with the light visibly touching and wrapping the lower edge of the car body (no gap or floating line between the car and the light). The glow bleeds outward onto the damp asphalt in a soft gradient, brightest right at the point of contact with the tires and rocker panels, fading within a short radius — concentrated and vivid, not a separate glowing bar.\n\nBeside the man, a small fluffy giant panda stands upright on the asphalt, playfully raising one paw toward him, its fur catching a warm rim of yellow light from the underglow.\n\nSetting: a smooth, slightly damp asphalt road curving through hills, deep blue hour just after sunset. Flowering trees arch fully over the road forming a dense canopy across the top of the frame, thick with vivid magenta-pink bougainvillea and bright golden-yellow blossoms intermixed on the same branches, petals scattered on the road. Hazy blue mountain ridges in the far background. The sky is deep saturated twilight blue, not grey or foggy.\n\nLighting and color grade: strong teal-and-orange / blue-and-gold split. Ambient light is cool, deep cobalt blue filling all shadows and the road surface. All warm light comes only from the car — headlights, underglow, and its reflections — creating high contrast between cool environment and warm accents. Rich, punchy saturation on the flowers, wheels, and lights. Slightly lifted blacks with a blue tint, high clarity, crisp micro-contrast. Dramatic rim lighting on the subject and panda. No fog, no haze in the foreground, no muted or washed-out tones. Skin tones natural with a subtle cool cast, realistic skin pores and subsurface scattering.\n\nStyle: hyper-realistic high-end automotive editorial photography, full-frame camera, 35mm lens at f/2.8, subject and car tack-sharp with softly blurred background, 8K, ultra-detailed, cinematic color grading, moody atmosphere, luxury lifestyle photography, editorial fashion shoot, GQ magazine style, high-end commercial advertisement look, subtle film-grain texture, rich contrast, professional color science, shot on ARRI Alexa / Sony A7R V aesthetic, hyperdetailed textures on fabric and fur, true-to-life reflections, atmospheric depth of field, polished automotive commercial finish, masterpiece, best quality, award-winning photography.\n\nSquare 1:1 aspect-ratio.\n\nNegative prompt: foggy, overcast, hazy, grey sky, desaturated, washed out, flat lighting, dim headlights, diffuse underglow, floating light strip, detached glow, light bar separate from vehicle, neon line not touching car, daytime, blurry, simple suv design, distorted hands, extra limbs, deformed face, text artifacts, watermark, cartoonish, low quality, low resolution, overexposed, underexposed, plastic skin, artificial looking.",
-      "description": "Stylish Range Rover portrait prompt with a glowing underglow SUV, a friendly panda, and blooming flowers — create this eye-catching cinematic look free!",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 1855,
-      "copy_count": 1896,
-      "is_premium": false,
-      "published_at": "2026-08-27T06:20:53.732Z",
-      "images": [
-        {
-          "filename": "4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "local_path": "images/cinematic-portrait/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "original_url": "https://img.promptplum.com/promptImages/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "AI generated cinematic portrait of a young man in a white leather jacket leaning on a white Range Rover Sport with glowing yellow underglow, posing beside a panda under blooming bougainvillea flowers at dusk."
-        },
-        {
-          "filename": "eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "local_path": "images/cinematic-portrait/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Gemini_Generated_Image_sa47m0sa47m0sa47"
-        },
-        {
-          "filename": "15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "local_path": "images/cinematic-portrait/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "original_url": "https://img.promptplum.com/promptImages/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Gemini_Generated_Image_7qz1ei7qz1ei7qz1"
         }
       ]
     },
@@ -2776,55 +2688,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704ab",
-      "title": "The Weighted Bloom",
-      "slug": "double-exposure-couple-portrait",
-      "category": "Cinematic Portrait",
-      "category_slug": "cinematic-portrait",
-      "prompt": "Create an artistic and emotionally powerful grey-and-white prewedding photograph using a refined double exposure technique.\nThe composition features two merged profile portraits forming a single harmonious silhouette.\nOn the left side, the woman is shown in an elegant side profile, facing left. Her hair is styled softly with natural flow (loose waves or gently tucked behind the ear). She wears a modest, refined bridal gown with delicate fabric textures. Her expression carries a gentle, sincere smile with soft, hopeful eyes.\nOn the right side, the man appears in a side profile facing right, with his gaze slightly lowered. His expression is calm and filled with quiet admiration and love. He is dressed in a well-tailored formal suit.\nBoth profiles blend seamlessly into each other, creating a romantic and balanced double exposure effect. The edges should merge smoothly without harsh transitions, forming a unified silhouette.\nThe background is clean, light gray with faint hints of natural scenery subtly visible within the exposure. Lighting is soft yet dramatic, enhancing facial contours, hair texture, and gentle shadows to emphasize depth and emotion.\nStyle should feel like a timeless studio portrait with a modern artistic touch — highly detailed, clean, and natural, avoiding any artificial or overly processed look.\n--grey and white --double exposure --high detail --emotional --studio style --aspect ratio 4:5",
-      "description": "Double Exposure Fine Art Photography Prompt: Use this prompt to create emotive black and white portraits of a man and woman standing back-to-back with surreal nature overlays.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 107,
-      "view_count": 2688,
-      "copy_count": 5437,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "local_path": "images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated artistic digital portrait of a man and woman standing back-to-back in a black and white double exposure style featuring nature silhouettes."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "local_path": "images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Monochrome Couple Double Exposure Portrait Prompt. AI generated double exposure portrait of a man in a suit and a woman in a lace dress looking in opposite directions in black and white."
-        },
-        {
-          "filename": "monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "local_path": "images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/monochrome-couple-double-exposure-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated monochrome double exposure portrait of a man and woman standing back-to-back with a serene forest landscape layered over their profiles."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526704a6",
       "title": "Moonlight Captain",
       "slug": "luffy-cosplay-straw-hat-red-shirt-moon",
@@ -2860,55 +2723,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Monkey D. Luffy One Piece Inspired Character AI Photo Editing Prompt. AI generated cinematic portrait of a handsome young man in a red shirt and straw hat posing against a red background with a large glowing moon."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704a2",
-      "title": "The Infinite Waltz",
-      "slug": "couple-dancing-glowing-ring-background",
-      "category": "Cinematic Portrait",
-      "category_slug": "cinematic-portrait",
-      "prompt": "Use the uploaded image ONLY for face and identity reference of both subjects. Do not change facial structure, skin tone, or natural features. Preserve exact identity.\nCreate a hyper-realistic, cinematic studio portrait of a couple in an intimate slow-dance motion pose (not static). The man stands slightly behind and to the side, gently holding the woman close. Their hands are softly joined at chest level, with a subtle, natural movement in their posture (as if mid-dance).\nPose & Expression:\n\nTheir posture should feel slightly imperfect and candid, not posed or symmetrical.\n\nInclude tiny natural variations — relaxed shoulders, slight imbalance in stance, very subtle weight shift between feet.\n\nHands should not look perfectly placed — fingers naturally resting, slightly loose, not stiff or overly aligned.\n\nExpressions should feel unguarded and real, not posed smiles — a very subtle, almost unconscious smile or neutral softness.\n\nEyes gently closed or half-relaxed, with micro-expression variation between both subjects (not identical expressions).\n\nAvoid fashion/editorial stiffness — it should feel like a real captured moment during a slow dance, not a photoshoot pose.\n\nComposition & Framing (FIXED)\n\nFull-body vertical composition (4:5 aspect ratio).\n\nSubjects centered but positioned slightly away from the camera (mid-distance framing) to create depth.\n\nFeet visible, grounded on floor, with natural spacing around them.\nOutfit\n\nMan: Perfectly fitted tailored formal suit (charcoal or medium gray), crisp white shirt, polished formal shoes\n\nWoman: Elegant sleeveless long flowy gown (deep navy/blue), soft natural fabric\nLighting (CRITICAL)\n\nDark studio environment with a soft, dim glowing circular orange halo light behind the couple (NOT too bright, slightly diffused edges)\n\nSoft warm key light from front for natural skin tones\n\nSubtle but visible backlight contributing to floor illumination\n\nThe halo light should feel atmospheric, not sharp or overpowering\nShadow & Floor (IMPORTANT)\n\nWooden floor visible but partially illuminated only under and around the subjects\n\nSoft directional shadow cast forward on the floor, created by the back halo light\n\nLight spill from behind subtly fades across the floor, not evenly lit\n\nBackground remains mostly black with only the halo and slight floor visibility\nEnvironment\n\nMinimal studio setup, no distractions, cinematic depth.\nStyle & Quality\n\nUltra-realistic, cinematic, high-end editorial photography, soft shadows, depth, 8K quality.\nNegative Prompt\n\ncartoon, stylized face, bright halo, overexposed lighting, flat floor lighting, static pose, subjects too close to camera, clutter, perfectly symmetrical pose, stiff hands, artificial expressions",
-      "description": "Couple Studio Photography Prompt: Use this prompt to create a professional studio photograph of a romantic couple in formal attire dancing against a glowing halo background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 42,
-      "view_count": 1220,
-      "copy_count": 3425,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "local_path": "images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Elegant Couple Dancing with Halo Light AI Photo Editing Prompt. AI generated cinematic portrait of a woman in a navy gown and a man in a gray suit dancing gracefully in front of a glowing orange circular ring."
-        },
-        {
-          "filename": "couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "local_path": "images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Dancing Couple Under Glowing Ring Prompt. AI generated cinematic portrait of a smiling couple in elegant attire dancing romantically in front of a glowing circular light."
-        },
-        {
-          "filename": "couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "local_path": "images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic-portrait/couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated cinematic portrait of an elegant couple in formal attire dancing intimately in front of a glowing orange neon circle against a dark background."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Dark Fantasy",
   "slug": "dark-fantasy",
-  "total_prompts": 9,
+  "total_prompts": 8,
   "updated_at": "2026-09-24T12:54:49Z",
   "prompts": [
     {
@@ -30,45 +30,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Thoughtful young man writing in a notebook cinematic portrait AI Photo Editing Prompt. AI generated photorealistic portrait of a handsome man in a black sweater sitting at a wooden desk with a pen and open notebook, looking out a sunlit window."
-        }
-      ]
-    },
-    {
-      "id": "6a6b7c884bbdbe2cf50d0cce",
-      "title": "Tender Connection",
-      "slug": "indian-couple-black-white-portrait",
-      "category": "Dark Fantasy",
-      "category_slug": "dark-fantasy",
-      "prompt": "Maintain accurate identity and precise face matching to the provided reference image for both subjects.\nCreate a detailed romantic black-and-white cinematic portrait of a couple standing closely in an intimate embrace, captured in a waist-up vertical composition. The woman wears a dark traditional embroidered outfit with shimmering diagonal patterns, jhumka earrings, stacked bangles, and a low ponytail; she gently places one hand on the man’s chest while smiling softly with her eyes closed. The man wears a fitted black satin shirt with rolled sleeves and a wristwatch, holding her lovingly around the waist. Their foreheads and noses gently close, creating an emotional and affectionate moment. Soft studio lighting, subtle circular spotlight on a dark smooth background, elegant shadows, high contrast, monochrome film look, shallow depth of field, realistic skin and fabric details, natural anatomy, cinematic mood, ultra-detailed, 8K resolution, 85mm lens, f/1.8, vertical portrait, aspect ratio 4:5.",
-      "description": "Black and White Portrait Prompt: Copy & Paste this prompt to create a romantic monochrome studio photograph of a smiling couple in an intimate embrace.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 58,
-      "view_count": 2929,
-      "copy_count": 4184,
-      "is_premium": false,
-      "published_at": "2026-07-30T16:32:08.776Z",
-      "images": [
-        {
-          "filename": "bbdd1a61-c4d0-4c64-8c77-f669c38a64fa.jpeg",
-          "local_path": "images/dark-fantasy/bbdd1a61-c4d0-4c64-8c77-f669c38a64fa.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/bbdd1a61-c4d0-4c64-8c77-f669c38a64fa.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dark-fantasy/bbdd1a61-c4d0-4c64-8c77-f669c38a64fa.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dark-fantasy/bbdd1a61-c4d0-4c64-8c77-f669c38a64fa.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple Black and White Studio Portrait of embracing Couple AI Photo Editing Prompt. AI generated studio portrait of a tenderly embracing South Asian couple with foreheads touching and soft smiles."
-        },
-        {
-          "filename": "7587119d-96cf-4f07-b748-19c99d62bcdb.jpeg",
-          "local_path": "images/dark-fantasy/7587119d-96cf-4f07-b748-19c99d62bcdb.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/7587119d-96cf-4f07-b748-19c99d62bcdb.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/dark-fantasy/7587119d-96cf-4f07-b748-19c99d62bcdb.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/dark-fantasy/7587119d-96cf-4f07-b748-19c99d62bcdb.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Intimate Black and White Studio Portrait of embracing Couple AI Photo Editing Prompt. AI generated studio portrait of a tenderly embracing South Asian couple with foreheads touching and soft smiles."
         }
       ]
     },

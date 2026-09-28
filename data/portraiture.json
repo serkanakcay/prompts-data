@@ -1,116 +1,9 @@
 {
   "category": "Portraiture",
   "slug": "portraiture",
-  "total_prompts": 52,
+  "total_prompts": 46,
   "updated_at": "2026-09-24T13:11:28Z",
   "prompts": [
-    {
-      "id": "6a824a404bbdbe2cf53d46ef",
-      "title": "Romantic Couple Walking on Beach",
-      "slug": "romantic-couple-beach-walk-photo",
-      "category": "Portraiture",
-      "category_slug": "portraiture",
-      "prompt": "A romantic couple photoshoot on an overcast, moody beach. A young couple walks barefoot hand-in-hand along the wet shoreline toward the camera. The woman, on the left, wears a flowing white maxi dress with thin spaghetti straps, holding the skirt lightly with her free hand as it billows in the wind; her naturally wavy hair blows across her shoulder as she smiles softly, looking down. The man, on the right, wears a relaxed white linen shirt with sleeves rolled to the forearms, top buttons open, and loose white linen trousers; he gazes tenderly at her, natural hair tousled by the breeze, wearing a wristwatch.\nBackground: misty grey ocean with gentle white waves, fog-shrouded green mountains fading into haze, dark wet rocks along the right side of the shore. Soft diffused overcast lighting, muted grey and white color palette, wet reflective sand mirroring the couple's figures. Cinematic, editorial fashion photography style, shallow depth of field, high contrast, full-body shot, natural candid movement, serene and intimate mood. Shot on 85mm lens, 8k, high resolution.\nAspect ratio: 4:5",
-      "description": "Use this cinematic photography AI prompt to create a hyper-realistic portrait of a romantic couple walking barefoot on a misty beach in white outfits.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 33,
-      "view_count": 1641,
-      "copy_count": 2760,
-      "is_premium": false,
-      "published_at": "2026-08-16T23:39:44.989Z",
-      "images": [
-        {
-          "filename": "0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "local_path": "images/portraiture/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple on Beach Cinematic Photography AI Photo Editing Prompt. AI generated portrait photography of a couple holding hands and walking barefoot on a misty beach in white outfits."
-        }
-      ]
-    },
-    {
-      "id": "6a76bac94bbdbe2cf5250f3d",
-      "title": "Cliffside Couple Sculpture AI Prompt",
-      "slug": "mountain-face-carving-couple-art",
-      "category": "Portraiture",
-      "category_slug": "portraiture",
-      "prompt": "A professional dual portrait of a man and a veiled woman side-by-side from the head and shoulders up, their features perfectly identical to the reference images. Both of their profiles are beautifully carved into a massive coastal mountain overlooking the sea. The man features a neatly trimmed mossy beard and rocky hair, while the woman wears a hijab formed from elegant, flowing layers of grey granite rock. Patches of green alpine vegetation and moss accent their stone features. The background is a vast ocean landscape with deep teal water and towering sea cliffs under clear daylight, keeping a unified cool color palette. Calm expression. 3:4 aspect ratio.",
-      "description": "Use this Epic Fantasy Landscape Prompt to generate cinematic photos of colossal stone couple faces carved into towering sea cliffs, overlooking a dramatic fjord.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 440,
-      "copy_count": 419,
-      "is_premium": false,
-      "published_at": "2026-08-08T05:12:41.060Z",
-      "images": [
-        {
-          "filename": "c0519664-a873-457d-a777-3317e89831a6.webp",
-          "local_path": "images/portraiture/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Epic Sea Cliff Carvings AI Photo Editing Prompt. An AI-generated digital illustration of a giant stone couple faces carved into a coastal cliff."
-        }
-      ]
-    },
-    {
-      "id": "6a68de334bbdbe2cf5c7597c",
-      "title": "Double Exposure B&W Couple By Lake Portrait",
-      "slug": "bw-double-exposure-couple-lake-portrait",
-      "category": "Portraiture",
-      "category_slug": "portraiture",
-      "prompt": "Create a cinematic double-exposure black-and-white romantic portrait of a couple standing back-to-back while holding hands, both with their eyes gently closed and peaceful expressions, symbolizing love, trust, and emotional connection. Captured in an eye-level camera angle with a medium composition. The woman wears an elegant sleeveless flowing black dress with long wavy hair, while the man wears a fitted black button-up shirt and dark trousers with a neatly styled hair. Large, soft-faded monochrome side-profile portraits of both faces are blended into the cloudy sky above, creating a dreamy, emotional composition. The background features a calm mountain lake surrounded by misty hills, soft fog, and an overcast sky. Fine-art monochrome photography, subtle film grain, soft diffused lighting, smooth tonal contrast, ultra-realistic skin texture, cinematic depth, shallow depth of field, perfectly balanced composition, emotional storytelling, high dynamic range, 85mm lens, f/2, 8K resolution, photorealistic, masterpiece quality, no text, no watermark, no distortion. Aspect ratio 4:5.",
-      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a moody B&W image of a couple holding hands back-to-back beneath fading faces in a cloudy sky.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 128,
-      "view_count": 8277,
-      "copy_count": 9975,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:52:03.908Z",
-      "images": [
-        {
-          "filename": "3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "local_path": "images/portraiture/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "B&W Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated conceptual double-exposure portrait of a B&W couple, eyes closed, holding hands back-to-back over a misty mountain lake with large faded ghost profile faces in the cloudy sky."
-        },
-        {
-          "filename": "a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "local_path": "images/portraiture/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Black and White Double Exposure Portrait AI Photo Editing Prompt. AI generated surreal double exposure portrait of a monochrome couple standing back-to-back with eyes closed by a misty lake, featuring larger versions of their profile faces superimposed over the cloudy sky."
-        },
-        {
-          "filename": "f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "local_path": "images/portraiture/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Portrait AI Photo Editing Prompt. AI generated portrait art of a couple standing back-to-back with faded faces over a misty lake."
-        }
-      ]
-    },
     {
       "id": "6a56a975a3af6f12209d39f2",
       "title": "Stylish Man Walking Double Exposure Photo",
@@ -730,65 +623,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670500",
-      "title": "Studio Family Portrait",
-      "slug": "professional-family-studio-portrait",
-      "category": "Portraiture",
-      "category_slug": "portraiture",
-      "prompt": "Create a high-resolution, photorealistic vertical 4:5 professional studio family portrait using the uploaded/reference family members as the subjects. The uploaded image must be treated as the primary identity reference. Preserve the exact number of people, their family roles, approximate ages, gender presentation, natural facial features, body proportions, skin tone, hair type, hairstyle, face shape, eyes, nose, lips, smile style, jawline, cheek structure, and overall recognizable identity. Do not replace the subjects with generic-looking people.\n\nIdentity Preservation — Highest Priority\nKeep each person’s face clearly recognizable from the reference image. Preserve the natural facial geometry, expression style, age appearance, and unique features of every subject, including the baby/babies. Do not over-beautify, slim, reshape, age up, age down, change skin tone, change hairstyle too much, or create a different-looking face. The studio transformation should improve lighting, pose, background, and clothing polish, but the people must still look like the same family from the uploaded photo.\n\nComposition & Framing\nPlace the family group properly centered in the frame with clean, balanced spacing and enough negative space around the subjects so the portrait feels breathable, premium, and professionally composed. Keep the mother seated slightly angled toward the camera on a simple stool or chair, with the youngest baby placed centrally on her lap as the emotional focal point. The father should stand closely behind or beside the mother in a natural protective family pose. All faces must be clearly visible and turned toward the camera.\n\nFamily Placement Rules\nIf there is one baby, place the baby at the center on the seated mother’s lap. If the baby is a boy, present him clearly as a boy with age-appropriate boy styling. If the baby is a girl, present her clearly as a girl with age-appropriate girl styling. If there are two babies/children, place the younger baby on the mother’s lap and the older/larger baby or toddler standing naturally beside the mother, slightly to one side, while keeping the full family composition centered and balanced.\n\nExpression & Pose\nKeep expressions soft, warm, happy, and natural, with a real family-love feeling. Faces should look toward the camera with relaxed affection and emotional connection. Avoid exaggerated smiles, stiff posing, forced gestures, or over-directed expressions. The pose should feel like a natural professional family photoshoot, not overly dramatic or artificial.\n\nOutfit & Styling\nThe woman should be dressed in a full, elegant, modest outfit, such as a full-length or knee-length dress or a properly covered modern or cultural outfit, with a refined family-portrait look. If the family in the uploaded/reference image is already wearing good modern outfits or cultural/traditional outfits, adopt those same outfit styles as the base reference and enhance them slightly so they look more polished, premium, and studio-appropriate while still staying true to the original style. If the reference outfits are too casual, weak, or not visually suitable, enhance and customize them into more coordinated, tasteful, and premium family-photo outfits while keeping them realistic and natural. Do not change clothing so aggressively that the subjects’ identity, age, body type, or family realism gets lost.\n\nLighting & Background\nUse a dark charcoal-gray studio background with a subtle vignette. Add soft, warm front or front-left studio lighting to create gentle highlights on the faces and natural soft shadows. Add a very delicate rim light around the hair, shoulders, and body edges so the subjects separate clearly from the dark background, but keep the rim light subtle and professional, not harsh or glowing.\n\nCamera & Quality\nUse a premium 85mm portrait lens look with shallow depth of field, soft bokeh, realistic skin texture, rich natural colors, and crisp studio sharpness. Keep the faces in crisp focus, especially the eyes and facial expressions, while maintaining a soft professional background falloff. The image should look high-resolution, clean, detailed, and professionally retouched without losing natural skin texture.\n\nAvoid\nAvoid identity drift, generic faces, changed facial structure, changed age, changed skin tone, different hairstyle, excessive beautification, cartoonish rendering, plastic skin, harsh flash, blurry faces, poor subject separation, cramped framing, unclear baby gender, incorrect number of people, distorted hands, extra fingers, stiff posing, exaggerated smiles, revealing or incomplete clothing on the woman, overly casual mismatched outfits, busy background, or overly strong rim lighting.",
-      "description": "Family Studio Portrait Prompt: Copy & paste this prompt to create a professional, heartwarming photograph of a happy family posing together against a dark background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 114,
-      "view_count": 6588,
-      "copy_count": 12255,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum-3.webp",
-          "local_path": "images/portraiture/happy-family-studio-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/happy-family-studio-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/happy-family-studio-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Classic Family of Four AI Photo Editing Prompt. AI generated studio portrait of a smiling father, mother holding a baby, and a young boy posing against a dark background."
-        },
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum-2-1.webp",
-          "local_path": "images/portraiture/happy-family-studio-portrait-by-promptplum-2-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-2-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/happy-family-studio-portrait-by-promptplum-2-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/happy-family-studio-portrait-by-promptplum-2-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Happy Family Studio Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling father, mother, young boy, and baby posing together against a dark grey background."
-        },
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum-1-1.webp",
-          "local_path": "images/portraiture/happy-family-studio-portrait-by-promptplum-1-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-1-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/happy-family-studio-portrait-by-promptplum-1-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/happy-family-studio-portrait-by-promptplum-1-1.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Happy Family AI Photo Editing Prompt. AI generated studio portrait of a smiling family of four wearing cream-colored outfits against a dark background."
-        },
-        {
-          "filename": "happy-family-studio-portrait-by-promptplum-4.webp",
-          "local_path": "images/portraiture/happy-family-studio-portrait-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-studio-portrait-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/happy-family-studio-portrait-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/happy-family-studio-portrait-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated studio portrait of a smiling family of four in cozy knitwear against a dark backdrop with soft lighting."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526704f9",
       "title": "Ballpoint Gaze",
       "slug": "blue-ballpoint-pen-girl-sketch",
@@ -1373,75 +1207,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526703c1",
-      "title": "Sculpted Souls",
-      "slug": "custom-3d-wood-carving-couple-portrait",
-      "category": "Portraiture",
-      "category_slug": "portraiture",
-      "prompt": "Create a hyper-realistic 8K photograph of a highly detailed, intricately carved oak wood sculpture made from a single continuous slice of polished light-brown oak. The sculpture is formed from a circular tree trunk cross-section, with natural bark preserved around the outer edge and clearly visible organic growth rings radiating from the center. The inner wood surface appears lighter and smoother than the outer bark, showing natural cream-to-light brown oak tones with a refined polished finish. The wood grain must remain natural, continuous, and clearly visible, with precise carving depth that emphasizes craftsmanship, realism, and handmade quality.\nInside the circular wood frame are two hyper-realistic wooden busts carved directly from the same oak material, emerging organically from the inner surface as if revealed from within the tree itself rather than attached separately. The carving integrates seamlessly with the surrounding wood, maintaining natural flow between background and subjects.\nLeft Subject (Man):\n\nA man whose face closely matches the provided reference image (face match enabled, identity preserved). Facial structure, proportions, age characteristics, and expression remain realistic and natural without stylization or beautification. He has naturally styled hair and a well-groomed beard (if present in the reference), both subtly darker than the surrounding wood tone to enhance depth while remaining fully wooden in appearance. The clothing must match the outfit style and design from the uploaded reference image. Do not change the outfit type. Only apply subtle enhancement in fit and premium refinement while keeping the original style accurate, with fabric details expressed through natural wooden carving. His posture is relaxed and slightly oriented toward the woman, conveying warmth and calm confidence.\nRight Subject (Woman):\n\nA woman whose face closely matches the provided reference image (face match enabled, identity preserved). Facial proportions and expression remain soft, calm, and natural. Her natural hair flows smoothly with elegant carved strand direction, integrated naturally into the wood surface. The clothing must match the outfit style and design from the uploaded reference image. Do not change the outfit type. Only apply subtle enhancement in fit and premium refinement while keeping the original style accurate, with fabric details expressed through natural wooden carving. One hand rests naturally on the man’s chest, carved with delicate realism and smooth transitions. Facial planes and hands appear slightly brighter to enhance visibility of fine carving detail while maintaining natural oak realism.\nSculpture Base & Name Plate Detail:\n\nThe circular oak sculpture is mounted upright on a minimal wooden display stand made from matching oak material. At the front of the base, a horizontal wooden strip forms an integrated name plate carved from the same piece of wood. The names “Romeo” and “Juliet” are elegantly carved into the wood in a refined handwritten-style carving, with a small carved heart symbol placed between the names. The lettering has natural depth and soft shadowing, appearing sculpted rather than engraved, printed, or painted, maintaining a premium handcrafted aesthetic.\nEnvironment & Background:\n\nThe sculpture sits centered on a smooth wooden table within a softly blurred warm indoor environment. The background consists of neutral beige and warm brown tones, suggesting a calm domestic interior while remaining minimal and non-distracting, reinforcing a premium handcrafted lifestyle presentation.\nLighting:\n\nSoft diffused natural daylight enters from the left side, creating gentle highlights across the wood grain and carved facial features. Lighting remains warm, even, and cinematic, enhancing depth, curvature, and natural wood texture without harsh shadows. Subtle ambient fill light preserves detail within deeper carved areas.\nCamera & Rendering:\n\nEye-level composition, centered framing, shallow depth of field, ultra-photorealistic rendering, sharp focus on sculpture details with smooth background bokeh. Premium product photography quality.\nAspect Ratio: 1:1 square composition.",
-      "description": "Discover the ultimate AI art prompt for creating stunning 3D wood carving couple portraits. Use these specific prompt words to generate hyper-realistic, rustic wooden art inside a natural log, complete with personalized name plaques and intricate grain details.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 75,
-      "view_count": 1354,
-      "copy_count": 2538,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "local_path": "images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Realistic 3D wood carving of Romeo and Juliet inside a hollowed tree trunk. Features intricate grain textures, a nameplate base, and a warm, hand-crafted aesthetic."
-        },
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "local_path": "images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "A 3D wood carving of a couple, Jakey and Ameliye, inside a circular log frame. The piece features intricate wood grain textures and a personalized nameplate, creating a warm, rustic portrait."
-        },
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "local_path": "images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": ""
-        },
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "local_path": "images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "A detailed wooden carving of a couple inside a log slice, with \"Rosebud ❤️ Sassy\" on the base plaque."
-        },
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "local_path": "images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703bf",
       "title": "Front Page Bold",
       "slug": "edgy-male-fashion-portrait-newspaper-box",
@@ -1856,35 +1621,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Gemini AI Generated Edgy anime-style art of a tattooed man with sunglasses."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670371",
-      "title": "Beach Bums & Bonnet Sits",
-      "slug": "beach-bums-bonnet-sits",
-      "category": "Portraiture",
-      "category_slug": "portraiture",
-      "prompt": "Create a 3D hyper-realistic caricature of a happy couple sitting on the chrome front bumper of a classic vintage American pickup truck, with a scenic tropical beach sunset in the Philippines as the background, featuring palm trees and turquoise water. The couple has exaggerated heads. The man (use uploaded photo 1) is wearing a blue shirt with the print ‘he,’ short pants, and slippers, with a goofy wide grin. The woman (use uploaded photo 2) is wearing a cozy, textured knit light-purple sweater with the print ‘she’ and leggings, laughing. Include expressive facial features, highly detailed skin pores, and fabric textures. 8K resolution, aspect ratio 3:4.",
-      "description": "Master the art of 3D caricature with this high-detail AI prompt! Generate a stylized couple sitting on a vintage car against a tropical beach sunset. Features cinematic lighting, vibrant colors, and customizable graphic tees for a playful, modern aesthetic.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 54,
-      "view_count": 1946,
-      "copy_count": 4587,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "local_path": "images/portraiture/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portraiture/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portraiture/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "width": 1254,
-          "height": 1680,
-          "alt": "Gemini AI Generated Image of A 3D caricature of a smiling couple with big heads sitting on a car hood at a beach sunset."
         }
       ]
     },

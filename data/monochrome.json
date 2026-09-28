@@ -1,7 +1,7 @@
 {
   "category": "Monochrome",
   "slug": "monochrome",
-  "total_prompts": 36,
+  "total_prompts": 33,
   "updated_at": "2026-09-24T13:09:58Z",
   "prompts": [
     {
@@ -607,55 +607,6 @@
       ]
     },
     {
-      "id": "6a68de334bbdbe2cf5c7597c",
-      "title": "Double Exposure B&W Couple By Lake Portrait",
-      "slug": "bw-double-exposure-couple-lake-portrait",
-      "category": "Monochrome",
-      "category_slug": "monochrome",
-      "prompt": "Create a cinematic double-exposure black-and-white romantic portrait of a couple standing back-to-back while holding hands, both with their eyes gently closed and peaceful expressions, symbolizing love, trust, and emotional connection. Captured in an eye-level camera angle with a medium composition. The woman wears an elegant sleeveless flowing black dress with long wavy hair, while the man wears a fitted black button-up shirt and dark trousers with a neatly styled hair. Large, soft-faded monochrome side-profile portraits of both faces are blended into the cloudy sky above, creating a dreamy, emotional composition. The background features a calm mountain lake surrounded by misty hills, soft fog, and an overcast sky. Fine-art monochrome photography, subtle film grain, soft diffused lighting, smooth tonal contrast, ultra-realistic skin texture, cinematic depth, shallow depth of field, perfectly balanced composition, emotional storytelling, high dynamic range, 85mm lens, f/2, 8K resolution, photorealistic, masterpiece quality, no text, no watermark, no distortion. Aspect ratio 4:5.",
-      "description": "Double Exposure Portrait Prompt: Copy & paste this prompt to create a moody B&W image of a couple holding hands back-to-back beneath fading faces in a cloudy sky.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 128,
-      "view_count": 8277,
-      "copy_count": 9975,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:52:03.908Z",
-      "images": [
-        {
-          "filename": "3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "local_path": "images/monochrome/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome/3fcf601b-d372-4cdd-8486-d922f7e933a8.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "B&W Double Exposure Couple Portrait AI Photo Editing Prompt. AI generated conceptual double-exposure portrait of a B&W couple, eyes closed, holding hands back-to-back over a misty mountain lake with large faded ghost profile faces in the cloudy sky."
-        },
-        {
-          "filename": "a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "local_path": "images/monochrome/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome/a5ec4c52-0050-4c3a-b4d8-8c18c74dba9f.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Black and White Double Exposure Portrait AI Photo Editing Prompt. AI generated surreal double exposure portrait of a monochrome couple standing back-to-back with eyes closed by a misty lake, featuring larger versions of their profile faces superimposed over the cloudy sky."
-        },
-        {
-          "filename": "f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "local_path": "images/monochrome/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome/f31fcec2-462f-45a2-98d5-36420cdbf857.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Double Exposure Portrait AI Photo Editing Prompt. AI generated portrait art of a couple standing back-to-back with faded faces over a misty lake."
-        }
-      ]
-    },
-    {
       "id": "6a67ac8e4bbdbe2cf5ab2d7d",
       "title": "Monochrome Man Black Hoodie Sunglasses",
       "slug": "monochrome-boy-black-hoodie-sunglasses-portrait",
@@ -908,66 +859,6 @@
           "width": 1792,
           "height": 2400,
           "alt": "man-in-black-suit-monochrome-studio-portrait-prompt-by-promptplum-1"
-        }
-      ]
-    },
-    {
-      "id": "6a53efc47877e7a4d7a82d4b",
-      "title": "Monochrome Family Profile Portrait",
-      "slug": "black-and-white-family-studio-profile",
-      "category": "Monochrome",
-      "category_slug": "monochrome",
-      "prompt": "Use the uploaded family photos as identity references and create an elegant vertical black-and-white family portrait featuring a father, mother, and young child arranged in overlapping side profiles. Place the father slightly behind on the left, the mother in the center, and the child in front on the right, with each face clearly visible and naturally layered without merging or distortion. All three should gaze softly upward toward the same off-camera direction, creating a hopeful and emotional expression.\nShow only their head, neck, and upper shoulders, dressed in simple dark clothing that blends smoothly into a pure black background. Illuminate their faces with soft directional light from the left, creating bright facial highlights, gentle shadows, realistic skin texture, crisp eyes, and a dramatic high-contrast monochrome look. Fade the outer edges of their hair, shoulders, and clothing gradually into the darkness for a seamless cinematic composition.\nKeep generous black negative space around the family. In the lower portion, add the word “FAMILY” in white, using one oversized elegant serif letter “F”, followed by “AMILY” in a thin handwritten uppercase style. Fine-art studio photography, emotional family poster aesthetic, clean composition, realistic facial proportions, sharp facial focus, smooth tonal gradients, vertical 4:5 aspect ratio.",
-      "description": "",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 58,
-      "view_count": 4842,
-      "copy_count": 3893,
-      "is_premium": false,
-      "published_at": "2026-07-29T21:35:38.567Z",
-      "images": [
-        {
-          "filename": "cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "local_path": "images/monochrome/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome/cddd7822-b986-4e59-8061-0893be067cbb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "local_path": "images/monochrome/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "original_url": "https://img.promptplum.com/promptImages/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome/5cfd0730-8fc0-459a-9863-bb9af2779da5.png",
-          "width": 928,
-          "height": 1152,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "local_path": "images/monochrome/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome/ff995d66-439f-403f-bcc0-d847d25fdff3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "local_path": "images/monochrome/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome/de3f0334-09c2-4205-afa6-30b37322af2c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "black-and-white-family-profile-portrait-prompt-by-promptplum-4"
         }
       ]
     },
@@ -1814,35 +1705,6 @@
           "width": 3603,
           "height": 4096,
           "alt": "IMG_20260918_035821"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701fe",
-      "title": "Smiling Woman in Red Gown",
-      "slug": "smiling-woman-in-red-gown",
-      "category": "Monochrome",
-      "category_slug": "monochrome",
-      "prompt": "Create an ultra-realistic, studio-quality portrait of a person seated gracefully on a stool, wearing an elegant, sleeveless, deep red gown with soft, flowing fabric and subtle lace detailing around the bodice. The subject is captured in a gentle three-quarter side profile, head slightly tilted downward with a serene, content expression, softly smiling while holding a fresh bouquet of vibrant red roses close to the face as if appreciating their fragrance. Hair is long and naturally styled in smooth, natural waves cascading over the shoulders with a soft, glossy finish. Skin tone is warm and evenly lit with natural texture, minimal makeup, and a soft glow.\nThe composition is a mid-to-full seated portrait in a vertical 4:5 aspect ratio, with the subject positioned slightly off-center, maintaining balanced negative space. Background is a seamless deep red gradient studio backdrop that smoothly blends into darker tones toward the edges, creating a rich monochromatic aesthetic with no visible edges or distractions.\nLighting is soft, professional studio lighting with a diffused key light from the front-left, creating gentle highlights on the face, hair, and dress, complemented by subtle fill light to maintain detail without harsh shadows. A faint rim light separates the subject from the background, enhancing depth. The overall mood is romantic, warm, and elegant with a refined editorial fashion look.\nCamera settings: eye-level angle, 85mm portrait lens, shallow depth of field for soft background blur, ultra-sharp focus on facial features and roses, 8K resolution, high dynamic range, natural color grading, no overexposure, no harsh contrast.",
-      "description": "Use this cinematic studio photography prompt to generate a highly realistic, romantic portrait of a beautiful woman in a red lace gown holding red roses.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 67,
-      "view_count": 2881,
-      "copy_count": 5197,
-      "is_premium": false,
-      "published_at": "2026-09-15T13:29:16.549Z",
-      "images": [
-        {
-          "filename": "IMG_20251124_234732.jpg",
-          "local_path": "images/monochrome/IMG_20251124_234732.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251124_234732.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome/IMG_20251124_234732.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome/IMG_20251124_234732.jpg",
-          "width": 1974,
-          "height": 2144,
-          "alt": "Ai generated image \"Women in red gown holding red flowers\""
         }
       ]
     }

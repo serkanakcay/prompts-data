@@ -1,7 +1,7 @@
 {
   "category": "Abstract Splash Art",
   "slug": "abstract-splash-art",
-  "total_prompts": 10,
+  "total_prompts": 9,
   "updated_at": "2026-09-24T12:50:09Z",
   "prompts": [
     {
@@ -128,35 +128,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Black Suit with Dramatic Red Lighting AI Photo Editing Prompt. AI generated cinematic studio portrait of a mature grey-bearded man in a black suit and tie lit with moody red rim light against a black background."
-        }
-      ]
-    },
-    {
-      "id": "6a887ca64bbdbe2cf5cd7d4b",
-      "title": "Stylish Man Holding Rose Among Sunflowers",
-      "slug": "brown-sweater-man-flower-shop-portrait",
-      "category": "Abstract Splash Art",
-      "category_slug": "abstract-splash-art",
-      "prompt": "Create a ultra-detailed photorealistic cinematic fashion portrait of a stylish man standing inside a charming, cozy flower shop, surrounded by abundant sunflowers, roses, baby's breath, and colorful fresh flowers. He has a neatly styled look, black rectangular sunglasses, and a calm, confident expression.\nOutfit: oversized ribbed dark chocolate-brown crewneck sweater, relaxed-fit off-white cargo trousers. He holds a single delicate pale-pink rose naturally in one hand while the other hand rests casually inside his trouser pocket.\nComposition: vertical mid-to-full body portrait, subject positioned slightly off-center, relaxed fashion-model stance, natural body proportions, eye-level camera angle. The flower shop fills the background with layered floral arrangements and greenery, creating rich depth and visual texture.\nBackground: warm rustic boutique flower shop, wooden frames, vintage floral signs, hanging Edison-style bulbs, abundant sunflowers and roses, softly blurred background elements with cinematic bokeh.\nLighting: warm golden ambient lighting, soft directional light illuminating the face and clothing, gentle highlights on the flowers, subtle shadows, cozy romantic atmosphere, rich earthy color palette.\nCamera & quality: shot on an 85mm lens at f/1.6, shallow depth of field, creamy natural bokeh, cinematic color grading, realistic skin texture, highly detailed hair, detailed knit fabric texture, HDR, professional editorial fashion photography, ultra-photorealistic, 8K resolution, aspect ratio 4:5.",
-      "description": "Lifestyle Flower Shop Photography Prompt: Copy & paste this prompt to create a warm portrait of a stylish man in a brown ribbed sweater and sunglasses holding a pink rose amid a rustic, sunlit florist shop.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 27,
-      "view_count": 467,
-      "copy_count": 624,
-      "is_premium": false,
-      "published_at": "2026-08-21T16:28:22.296Z",
-      "images": [
-        {
-          "filename": "cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "local_path": "images/abstract-splash-art/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/abstract-splash-art/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/abstract-splash-art/cb646a82-671e-4f8f-ac7f-a794b2a19936.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in Brown Sweater Holding Rose in Flower Shop Portrait AI Photo Editing Prompt. AI generated lifestyle portrait of a curly-haired man in sunglasses and a ribbed brown sweater holding a pink rose inside a cozy, string-lit flower shop."
         }
       ]
     },

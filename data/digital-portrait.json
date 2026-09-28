@@ -1,7 +1,7 @@
 {
   "category": "Digital Portrait",
   "slug": "digital-portrait",
-  "total_prompts": 29,
+  "total_prompts": 25,
   "updated_at": "2026-09-24T12:54:59Z",
   "prompts": [
     {
@@ -318,35 +318,6 @@
       ]
     },
     {
-      "id": "6a89cab44bbdbe2cf5ed2240",
-      "title": "Matching Hoodie Couple Pencil Illustration",
-      "slug": "crown-queen-couple-art-prompt",
-      "category": "Digital Portrait",
-      "category_slug": "digital-portrait",
-      "prompt": "Create an ultra-detailed black-and-white graphite pencil sketch of a couple standing side by side in a playful, romantic pose. The woman stands on the left with long, voluminous hair, wearing an oversized light sweatshirt, dark loose cargo-style pants with multiple pockets, dark sneakers. She has her arms crossed, one leg slightly bent and crossed over the other, with a cute annoyed expression while looking sideways toward the man. A simple hand-drawn crown doodle appears above her head.\nThe man stands on the right, with neatly styled detailed  hair, wearing an light oversized hooded sweatshirt, dark loose cargo pants with multiple pockets, and dark sneakers. His hands are casually tucked into the hoodie pocket, one leg slightly crossed, and he looks down at the woman with a soft, amused, affectionate smile. Add small hand-drawn heart doodles near him, including a speech bubble containing a heart.\nFull-body vertical composition, both subjects centered and clearly visible from head to sneakers, natural overlapping pose, clean white background, subtle pencil shading and soft graphite smudging around the figures. Highly detailed facial features, realistic hair strands, fabric folds, denim texture, sneaker details, expressive body language, delicate linework, hand-drawn doodle accents, realistic graphite texture, soft tonal gradients, elegant white negative space.\nStyle: photorealistic hyper-detailed pencil drawing, professional graphite portrait illustration, 8k ultra-detailed, super fine textured, monochrome, clean sketch aesthetic, realistic proportions, no color, no text, no distortion, no extra fingers or limbs, no anatomy errors. Vertical 4:5 composition, high resolution.\nPreserve the exact facial identity of both reference subjects. Match their facial features, face shape, eyes, eyebrows, nose, lips, jawline, hairline, and natural proportions as closely as possible to the uploaded reference image.",
-      "description": "Pencil Sketch Couple Prompt: Copy & paste this prompt to create a black-and-white illustration of a crowned girl crossing her arms beside her heart-struck boyfriend in matching oversized streetwear.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 42,
-      "view_count": 1095,
-      "copy_count": 1628,
-      "is_premium": false,
-      "published_at": "2026-08-22T16:13:40.616Z",
-      "images": [
-        {
-          "filename": "f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "local_path": "images/digital-portrait/f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Crown Girl and Heart-Struck Boyfriend Sketch AI Photo Editing Prompt. AI generated pencil illustration of a couple in oversized hoodies, the girl crossing her arms under a doodled crown while the boy smiles with a heart speech bubble beside him."
-        }
-      ]
-    },
-    {
       "id": "6a6fc32b4bbdbe2cf57deeda",
       "title": "Dramatic Red Character Collage Prompt",
       "slug": "dramatic-red-character-collage-poster",
@@ -412,45 +383,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Pencil Portrait of Man with Glasses AI Photo Editing Prompt. AI generated realistic colored pencil portrait of a distinguished silver-haired man with black-rimmed glasses wearing a beige blazer over a black shirt."
-        }
-      ]
-    },
-    {
-      "id": "6a68d91c4bbdbe2cf5c687c9",
-      "title": "Wrapped in Affection",
-      "slug": "romantic-couple-cartoon-dp",
-      "category": "Digital Portrait",
-      "category_slug": "digital-portrait",
-      "prompt": "Create a heartwarming, high-quality digital illustration of a romantic couple in a clean, modern cartoon style with semi-realistic detailed facial features. Captured from an eye-level camera angle using a medium composition, keeping both subjects centered naturally.\nThe man stands confidently in the foreground with a relaxed posture, both hands casually tucked into his trouser pockets, smiling gently at the camera. He wears a fitted black button-up shirt with the sleeves rolled up to the forearms, black trousers, a black leather belt with a silver buckle, and a minimalist black wristwatch.\nThe woman stands behind him, wrapping both arms affectionately around his shoulders and chest in a warm back hug. She rests her head softly against his, smiling sweetly toward the camera. She has, voluminous hair cascading over one shoulder, glowing skin, soft makeup with, nude pink lipstick, and wears a simple elegant black long-sleeve dress. Her nails are painted deep red, and she wears delicate rings on her fingers.\nThe couple shares a loving, relaxed expression with natural body language that conveys warmth, romance, trust, and happiness.\nThe background is a clean white minimalist backdrop with subtle soft grey textures and a few floating red and pink heart illustrations scattered around the couple, creating a cute romantic atmosphere without distracting from the subjects.\nStyle: Premium romantic couple portrait, Disney/Pixar-inspired digital illustration, semi-realistic cartoon, ultra-clean linework, smooth gradients, soft painterly rendering, warm skin tones, ultra detailed skin texture, glossy hair, elegant proportions, vibrant yet natural colors, soft ambient lighting, subtle shadows, polished artwork, high detail, 8K quality. Aspect ratio 4:5.",
-      "description": "Korean Couple Art Prompt: Copy & paste this prompt to create a romantic 2D illustration of a couple in matching black outfits hugging among floating hearts.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 57,
-      "view_count": 1203,
-      "copy_count": 1787,
-      "is_premium": false,
-      "published_at": "2026-07-28T16:30:20.195Z",
-      "images": [
-        {
-          "filename": "de944186-cb09-45f2-a633-6303a4380268.jpeg",
-          "local_path": "images/digital-portrait/de944186-cb09-45f2-a633-6303a4380268.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/de944186-cb09-45f2-a633-6303a4380268.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/de944186-cb09-45f2-a633-6303a4380268.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/de944186-cb09-45f2-a633-6303a4380268.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Romantic Couple in Matching Black Outfits Manhwa-style Digital Illustration AI Photo Editing Prompt. AI generated Digital Illustration of a young couple in a warm embrace with the woman hugging the man from behind, both smiling and wearing matching black shirts, surrounded by floating hearts on a textured background."
-        },
-        {
-          "filename": "ec7df096-5439-4a22-b409-2edbd3dcba13.jpeg",
-          "local_path": "images/digital-portrait/ec7df096-5439-4a22-b409-2edbd3dcba13.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/ec7df096-5439-4a22-b409-2edbd3dcba13.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/ec7df096-5439-4a22-b409-2edbd3dcba13.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/ec7df096-5439-4a22-b409-2edbd3dcba13.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Romantic Couple in Matching Black Outfits Manhwa-style Digital Illustration AI Photo Editing Prompt. AI generated Digital Illustration of a young couple in a warm embrace with the woman hugging the man from behind, both smiling and wearing matching black shirts, surrounded by floating hearts on a textured background."
         }
       ]
     },
@@ -543,145 +475,6 @@
       ]
     },
     {
-      "id": "6a4eaa957877e7a4d76166a2",
-      "title": "3D Couple Miniature",
-      "slug": "3d-couple-miniature-photo",
-      "category": "Digital Portrait",
-      "category_slug": "digital-portrait",
-      "prompt": "Create a cute premium 3D animated collectible figurine scene of the uploaded couple, using their photo only as the identity reference. Turn them into an adorable husband and wife standing close together on a small round display base. Preserve their recognizable age, facial features, hairstyle, glasses if present, skin tone, and warm loving expressions, but render them in a soft Pixar-style / clay-toy figurine look.\n\nThe man stands on the left with a gentle smile, one arm lovingly around the woman’s shoulder, while the woman stands on the right, smiling warmly up at him. Their pose should feel affectionate, calm, and lifelong-romantic.\nDress both subjects in outfits inspired by their own cultural background, keeping the clothing elegant, traditional or semi-traditional, age-appropriate, modest, and visually harmonious. The outfits should feel authentic to the couple’s culture rather than generic Western clothing. For example, use culturally relevant garments, layering, patterns, jewelry, and overall styling that suit the couple naturally, while still keeping the look soft, premium, and simplified for a collectible figurine design. Avoid exaggerated costumes; keep the styling tasteful, warm, and realistic to their background.\n\nPlace a vintage black street lamp beside them with a warm glowing lantern. Attach wooden arrow signboards to the lamp post with clean readable engraved text: “MARRIED SINCE”, “HUSBAND NAME”, and “WIFE NAME”. On the front of the round base, add elegant golden text: “ENDLESS ♥ LOVE”.\n\nSet the figurine on a wooden tabletop inside a cozy softly blurred living room, with warm golden lighting, shallow depth of field, premium miniature-diorama feel, soft shadows, smooth toy-like textures, detailed fabric, and realistic lamp glow. Keep the composition centered, heartwarming, clean, and gift-like. Square aspect ratio 1:1.",
-      "description": "3D Couple Miniature Art Prompt: Use this prompt to create a personalized 3D Pixar-style diorama of a romantic couple by a street lamp with custom signboards.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 68,
-      "view_count": 3895,
-      "copy_count": 2287,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
-          "local_path": "images/digital-portrait/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
-          "original_url": "https://img.promptplum.com/promptImages/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/1e2fdd71-dc21-40bd-85ec-1134b17b7ecc.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "3D Miniature Couple Photo Prompt: AI generated 3D miniature art of a stylized couple standing next to a lit street lamp with signs reading Names, on a base with a plaque saying 'ENDLESS ♥ LOVE', in a warm interior setting."
-        },
-        {
-          "filename": "726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
-          "local_path": "images/digital-portrait/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
-          "original_url": "https://img.promptplum.com/promptImages/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/726ca3c7-1c80-4e85-948a-e78d737fad08.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "3D Pixar-Style Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling couple holding hands next to a vintage street lamp with custom name signboards on a wooden base."
-        },
-        {
-          "filename": "469c3c91-a09b-4838-b569-b80623de5f63.webp",
-          "local_path": "images/digital-portrait/469c3c91-a09b-4838-b569-b80623de5f63.webp",
-          "original_url": "https://img.promptplum.com/promptImages/469c3c91-a09b-4838-b569-b80623de5f63.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/469c3c91-a09b-4838-b569-b80623de5f63.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/469c3c91-a09b-4838-b569-b80623de5f63.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Nostalgic 3D Diorama AI Photo Editing Prompt. AI generated 3D miniature of a heartwarming elderly couple embracing by a lit vintage lamp."
-        },
-        {
-          "filename": "cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
-          "local_path": "images/digital-portrait/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/cb9911f1-0838-4f32-acd0-d836b5b5b2d1.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "3D Pixar-Style Indian Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling Indian couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
-        },
-        {
-          "filename": "efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
-          "local_path": "images/digital-portrait/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
-          "original_url": "https://img.promptplum.com/promptImages/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/efe800f1-a7bc-425d-b3c9-6b35f23d5f25.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "AI generated 3d miniature diorama of a loving bride and groom embracing by a warm vintage lamp."
-        },
-        {
-          "filename": "a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
-          "local_path": "images/digital-portrait/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/a9e9f3ce-bba9-403c-91ec-1d8586497a5c.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "3D Pixar-Style Arab Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling senior Arab couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
-        },
-        {
-          "filename": "2590b80e-033a-4a3b-a527-1855721d1672.webp",
-          "local_path": "images/digital-portrait/2590b80e-033a-4a3b-a527-1855721d1672.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2590b80e-033a-4a3b-a527-1855721d1672.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/2590b80e-033a-4a3b-a527-1855721d1672.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/2590b80e-033a-4a3b-a527-1855721d1672.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Joyful Traditional 3D Couple Miniature Photo Prompt. AI generated diorama of a happy couple in Bavarian attire smiling by a warm vintage lamp."
-        },
-        {
-          "filename": "decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
-          "local_path": "images/digital-portrait/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/decc596e-d513-4b5d-b4a6-01102b4497d8.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "3D Pixar-Style Indonesian Couple Miniature Art AI Photo Editing Prompt"
-        },
-        {
-          "filename": "fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
-          "local_path": "images/digital-portrait/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
-          "original_url": "https://img.promptplum.com/promptImages/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/fdfea974-78cf-4f1a-8d57-067f80c80934.webp",
-          "width": 1814,
-          "height": 1946,
-          "alt": "AI generated 3d miniature art diorama of a loving couple in embroidered attire by a cozy vintage lamp."
-        },
-        {
-          "filename": "1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
-          "local_path": "images/digital-portrait/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
-          "original_url": "https://img.promptplum.com/promptImages/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/1de37112-395a-42f0-b45b-8e4c94bb31be.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "3D Pixar-Style Senior Muslim Couple Miniature Art AI Photo Editing Prompt. AI generated 3D illustration of a smiling senior Muslim couple in traditional attire standing next to a vintage street lamp with custom name signboards on a wooden base."
-        },
-        {
-          "filename": "c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
-          "local_path": "images/digital-portrait/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/c1732d49-5916-4d53-8f22-bcca3acbb154.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Romantic Miniature Art AI Photo Editing Prompt. AI generated 3D diorama of a cute couple embracing by a lit vintage street lamp."
-        },
-        {
-          "filename": "a162082c-065e-4029-8aac-105c16b2ccf1.webp",
-          "local_path": "images/digital-portrait/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/a162082c-065e-4029-8aac-105c16b2ccf1.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "3D Couple Miniature Art Photo Prompt"
-        }
-      ]
-    },
-    {
       "id": "6a4a862640c33bcad6e4aa84",
       "title": "The Silver Fox",
       "slug": "silver-hair-man-3d-character",
@@ -707,35 +500,6 @@
           "width": 1194,
           "height": 1600,
           "alt": "Silver Haired Man 3D Character AI Photo Editing Prompt. AI generated 3D digital illustration of a handsome, smiling older man with stylish silver hair and a beard, wearing a black collared shirt against a vibrant warm gradient background."
-        }
-      ]
-    },
-    {
-      "id": "6a3fffbee1ceda640e65ef0e",
-      "title": "The Giant's Breath",
-      "slug": "surreal-giant-miniature-woman-art",
-      "category": "Digital Portrait",
-      "category_slug": "digital-portrait",
-      "prompt": "Create a high-quality digital painting, semi-realistic stylized illustration, whimsical surrealism, ultra-detailed painterly rendering with smooth blended textures, soft gradients, and a highly polished cinematic finish.\nSubject 1 (Giant Figure): A youthful person with a Smooth glowing skin. Features include glossy, softly tinted lips, subtle eyeliner, dark eyes, and large polished gold hoop earrings.\nSubject 2 (Miniature Figure): A tiny exact replica of the main subject, maintaining identical facial features, hairstyle, and styling details.\nOutfits: Both figures wear a cozy cream-colored ribbed knit turtleneck sweater with visible woven texture and soft natural folds. The miniature figure additionally wears a brown plaid pleated skirt paired with classic white lace-up sneakers.\nPose & Interaction: The giant figure gently extends one hand forward with the palm facing upward, carefully supporting the miniature figure standing on it. The larger figure leans forward with softly pursed lips, blowing a visible stream of stylized wind toward the tiny figure. The airflow appears as elegant swirling semi-transparent white currents with subtle volumetric motion. The miniature figure struggles to maintain balance, leaning backward dramatically with arms raised defensively against the gust.\nExpressions: Calm, focused, and subtly playful expression on the giant figure, with eyes directed downward toward the tiny figure. The miniature figure displays a startled, wide-eyed reaction with an open mouth and tense body language conveying surprise and instability.\nLighting: Soft diffused studio lighting with delicate dewy highlights on the nose tip, cheekbones, eyelids, and glossy lips. Smooth realistic shading enhances facial depth, sweater texture, and hand anatomy. Subtle volumetric illumination interacts naturally with the wind effect.\nBackground: Minimal clean pastel teal-gray backdrop with a soft matte finish, creating strong visual separation while maintaining a calm editorial aesthetic.\nCamera Angle & Composition: Medium close-up composition with an intimate eye-level perspective focused on the larger figure. Macro-style depth and scale contrast emphasize the surreal interaction between the giant and miniature figures. Balanced composition with the hand and tiny figure positioned prominently in the foreground.\nTechnical Details: Ultra-detailed 8K digital artwork, masterpiece quality, semi-realistic anatomy, highly refined knit fabric detailing, individually rendered hair strands, soft cinematic color grading, clean linework, subtle atmospheric depth, volumetric wind effects, smooth painterly shading, premium stylized illustration aesthetic.\nAspect ratio 4:5",
-      "description": "Surreal Digital Art Prompt: Copy & Paste this prompt to create a stylized illustration of a giant woman blowing a gust of wind at a tiny girl on her palm.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 289,
-      "copy_count": 377,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "local_path": "images/digital-portrait/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-portrait/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-portrait/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Surreal Giant Woman and Miniature Figure Art AI Photo Editing Prompt. AI generated surreal digital illustration portrait of a giant woman in a turtleneck blowing a swirling gust of air onto a tiny, distressed woman standing in her open palm."
         }
       ]
     },

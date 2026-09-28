@@ -1,7 +1,7 @@
 {
   "category": "Luxury",
   "slug": "luxury",
-  "total_prompts": 50,
+  "total_prompts": 47,
   "updated_at": "2026-09-24T12:58:01Z",
   "prompts": [
     {
@@ -482,55 +482,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Man in Black Suit Adjusting Cufflink AI Photo Editing Prompt. AI generated studio portrait of a sharp-dressed man in a black suit sitting on a wooden stool while adjusting his cufflink against a dark grey background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704a2",
-      "title": "The Infinite Waltz",
-      "slug": "couple-dancing-glowing-ring-background",
-      "category": "Luxury",
-      "category_slug": "luxury",
-      "prompt": "Use the uploaded image ONLY for face and identity reference of both subjects. Do not change facial structure, skin tone, or natural features. Preserve exact identity.\nCreate a hyper-realistic, cinematic studio portrait of a couple in an intimate slow-dance motion pose (not static). The man stands slightly behind and to the side, gently holding the woman close. Their hands are softly joined at chest level, with a subtle, natural movement in their posture (as if mid-dance).\nPose & Expression:\n\nTheir posture should feel slightly imperfect and candid, not posed or symmetrical.\n\nInclude tiny natural variations — relaxed shoulders, slight imbalance in stance, very subtle weight shift between feet.\n\nHands should not look perfectly placed — fingers naturally resting, slightly loose, not stiff or overly aligned.\n\nExpressions should feel unguarded and real, not posed smiles — a very subtle, almost unconscious smile or neutral softness.\n\nEyes gently closed or half-relaxed, with micro-expression variation between both subjects (not identical expressions).\n\nAvoid fashion/editorial stiffness — it should feel like a real captured moment during a slow dance, not a photoshoot pose.\n\nComposition & Framing (FIXED)\n\nFull-body vertical composition (4:5 aspect ratio).\n\nSubjects centered but positioned slightly away from the camera (mid-distance framing) to create depth.\n\nFeet visible, grounded on floor, with natural spacing around them.\nOutfit\n\nMan: Perfectly fitted tailored formal suit (charcoal or medium gray), crisp white shirt, polished formal shoes\n\nWoman: Elegant sleeveless long flowy gown (deep navy/blue), soft natural fabric\nLighting (CRITICAL)\n\nDark studio environment with a soft, dim glowing circular orange halo light behind the couple (NOT too bright, slightly diffused edges)\n\nSoft warm key light from front for natural skin tones\n\nSubtle but visible backlight contributing to floor illumination\n\nThe halo light should feel atmospheric, not sharp or overpowering\nShadow & Floor (IMPORTANT)\n\nWooden floor visible but partially illuminated only under and around the subjects\n\nSoft directional shadow cast forward on the floor, created by the back halo light\n\nLight spill from behind subtly fades across the floor, not evenly lit\n\nBackground remains mostly black with only the halo and slight floor visibility\nEnvironment\n\nMinimal studio setup, no distractions, cinematic depth.\nStyle & Quality\n\nUltra-realistic, cinematic, high-end editorial photography, soft shadows, depth, 8K quality.\nNegative Prompt\n\ncartoon, stylized face, bright halo, overexposed lighting, flat floor lighting, static pose, subjects too close to camera, clutter, perfectly symmetrical pose, stiff hands, artificial expressions",
-      "description": "Couple Studio Photography Prompt: Use this prompt to create a professional studio photograph of a romantic couple in formal attire dancing against a glowing halo background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 42,
-      "view_count": 1220,
-      "copy_count": 3425,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "local_path": "images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Elegant Couple Dancing with Halo Light AI Photo Editing Prompt. AI generated cinematic portrait of a woman in a navy gown and a man in a gray suit dancing gracefully in front of a glowing orange circular ring."
-        },
-        {
-          "filename": "couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "local_path": "images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Dancing Couple Under Glowing Ring Prompt. AI generated cinematic portrait of a smiling couple in elegant attire dancing romantically in front of a glowing circular light."
-        },
-        {
-          "filename": "couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "local_path": "images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/luxury/couple-dancing-under-glowing-ring-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated cinematic portrait of an elegant couple in formal attire dancing intimately in front of a glowing orange neon circle against a dark background."
         }
       ]
     },
@@ -1418,35 +1369,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267026c",
-      "title": "The Royal Bride",
-      "slug": "the-royal-bride",
-      "category": "Luxury",
-      "category_slug": "luxury",
-      "prompt": "Without changing facial feature and face \"A close-up portrait of an Indian bride, with her eyes gently closed in a moment of calm reflection. A delicate, sheer red dupatta is draped over her head, subtly catching the light and creating a graceful, flowing effect. She is wearing a richly embroidered deep red or maroon lehenga blouse and skirt, adorned with intricate gold thread work. Her jewelry is elaborate and traditional: a heavy gold choker necklace, a long layered rani haar necklace with a distinctive black pendant, large gold jhumka earrings, a traditional nath (nose ring), and a maang tikka. Her hair is styled neatly, possibly with a side part. The background is softly blurred with warm, neutral tones, suggesting an elegant indoor setting. The lighting is soft, warm, and atmospheric, highlighting her features and the textures of her attire and jewelry. High-resolution, cinematic portrait photography, rich in detail and emotion.'Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1192,
-      "copy_count": 2121,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_002557.jpg",
-          "local_path": "images/luxury/IMG_20251205_002557.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_002557.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/luxury/IMG_20251205_002557.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/luxury/IMG_20251205_002557.jpg",
-          "width": 1888,
-          "height": 2258,
-          "alt": "Gemini Generated Image: a beautiful Indian bride in a traditional red and gold wedding outfit (lehenga/saree and dupatta). She is wearing heavy, elaborate gold jewelry, including a choker, long necklaces, large earrings, and a maang tikka (forehead ornament), with her eyes closed. The background is softly lit and looks like a rich indoor setting."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670264",
       "title": "The Royal Entrance",
       "slug": "the-royal-entrance",
@@ -1762,35 +1684,6 @@
           "width": 960,
           "height": 1088,
           "alt": "Ai generated image of women enjoys snowy view"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670210",
-      "title": "Stylish man holds horse",
-      "slug": "stylish-man-holds-horse",
-      "category": "Luxury",
-      "category_slug": "luxury",
-      "prompt": "Use the uploaded reference photo for the exact face and hairstyle. Create an ultra-realistic cinematic portrait of an elegant man standing next to a majestic black horse in a snowy forest. The man wears a completely black outfit: a tailored coat, a high-neck sweater, gloves, and sunglasses, which gives him a mysterious and powerful aura. Snowflakes gently fall around her, resting on her coat and hair. while soft, fuzzy light creates a cool, melancholic winter atmosphere. The horse looks strong and elegant, with the snow-covered mane, and both subjects radiate sophistication and quiet mastery. Capture tone and composition with high detail, depth, and cinematic contrast for a luxurious, dramatic visual effect.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 170,
-      "view_count": 5065,
-      "copy_count": 14680,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764150488209.png",
-          "local_path": "images/luxury/1764150488209.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764150488209.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/luxury/1764150488209.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/luxury/1764150488209.png",
-          "width": 832,
-          "height": 1248,
-          "alt": "Ai generated image of a man standing next to a black horse in winter bakground"
         }
       ]
     }

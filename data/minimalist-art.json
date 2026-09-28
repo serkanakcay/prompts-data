@@ -1,7 +1,7 @@
 {
   "category": "Minimalist Art",
   "slug": "minimalist-art",
-  "total_prompts": 3,
+  "total_prompts": 2,
   "updated_at": "2026-09-24T13:09:31Z",
   "prompts": [
     {
@@ -40,35 +40,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Blue ballpoint pen sketch portrait of a bearded man AI Photo Editing Prompt. AI generated digital illustration of a handsome young man with textured hair and a short beard drawn in detailed blue ink crosshatching."
-        }
-      ]
-    },
-    {
-      "id": "6a3fffbee1ceda640e65ef0e",
-      "title": "The Giant's Breath",
-      "slug": "surreal-giant-miniature-woman-art",
-      "category": "Minimalist Art",
-      "category_slug": "minimalist-art",
-      "prompt": "Create a high-quality digital painting, semi-realistic stylized illustration, whimsical surrealism, ultra-detailed painterly rendering with smooth blended textures, soft gradients, and a highly polished cinematic finish.\nSubject 1 (Giant Figure): A youthful person with a Smooth glowing skin. Features include glossy, softly tinted lips, subtle eyeliner, dark eyes, and large polished gold hoop earrings.\nSubject 2 (Miniature Figure): A tiny exact replica of the main subject, maintaining identical facial features, hairstyle, and styling details.\nOutfits: Both figures wear a cozy cream-colored ribbed knit turtleneck sweater with visible woven texture and soft natural folds. The miniature figure additionally wears a brown plaid pleated skirt paired with classic white lace-up sneakers.\nPose & Interaction: The giant figure gently extends one hand forward with the palm facing upward, carefully supporting the miniature figure standing on it. The larger figure leans forward with softly pursed lips, blowing a visible stream of stylized wind toward the tiny figure. The airflow appears as elegant swirling semi-transparent white currents with subtle volumetric motion. The miniature figure struggles to maintain balance, leaning backward dramatically with arms raised defensively against the gust.\nExpressions: Calm, focused, and subtly playful expression on the giant figure, with eyes directed downward toward the tiny figure. The miniature figure displays a startled, wide-eyed reaction with an open mouth and tense body language conveying surprise and instability.\nLighting: Soft diffused studio lighting with delicate dewy highlights on the nose tip, cheekbones, eyelids, and glossy lips. Smooth realistic shading enhances facial depth, sweater texture, and hand anatomy. Subtle volumetric illumination interacts naturally with the wind effect.\nBackground: Minimal clean pastel teal-gray backdrop with a soft matte finish, creating strong visual separation while maintaining a calm editorial aesthetic.\nCamera Angle & Composition: Medium close-up composition with an intimate eye-level perspective focused on the larger figure. Macro-style depth and scale contrast emphasize the surreal interaction between the giant and miniature figures. Balanced composition with the hand and tiny figure positioned prominently in the foreground.\nTechnical Details: Ultra-detailed 8K digital artwork, masterpiece quality, semi-realistic anatomy, highly refined knit fabric detailing, individually rendered hair strands, soft cinematic color grading, clean linework, subtle atmospheric depth, volumetric wind effects, smooth painterly shading, premium stylized illustration aesthetic.\nAspect ratio 4:5",
-      "description": "Surreal Digital Art Prompt: Copy & Paste this prompt to create a stylized illustration of a giant woman blowing a gust of wind at a tiny girl on her palm.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 289,
-      "copy_count": 377,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "local_path": "images/minimalist-art/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/minimalist-art/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/minimalist-art/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Surreal Giant Woman and Miniature Figure Art AI Photo Editing Prompt. AI generated surreal digital illustration portrait of a giant woman in a turtleneck blowing a swirling gust of air onto a tiny, distressed woman standing in her open palm."
         }
       ]
     },

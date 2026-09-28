@@ -1,7 +1,7 @@
 {
   "category": "Creative",
   "slug": "creative",
-  "total_prompts": 67,
+  "total_prompts": 57,
   "updated_at": "2026-09-24T12:54:03Z",
   "prompts": [
     {
@@ -537,145 +537,6 @@
       ]
     },
     {
-      "id": "6a63bf0db99e3a48ae8f1282",
-      "title": "Trending Doodle Shadow",
-      "slug": "real-photo-doodle-art-portrait",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Use the uploaded character reference image as the strict identity and outfit reference. Preserve the reference character’s face identity, facial proportions, eye shape, nose, lips, skin tone, hairstyle, hair color, visible accessories, overall recognizable vibe, outfit and styling shown in the reference image\n\nDo not hardcode any specific character traits that are not present in the uploaded reference.\nAll identity, hairstyle, accessories, and clothing details must be inferred directly from the uploaded reference image.\n\nCreate a high-quality mixed-style vertical portrait showing:\n1. a realistic full-body version of the uploaded character/person\n2. a black hand-drawn doodle-shadow version of the same character/person on the wall beside them\n\nCore concept:\nThe real person and their doodle-shadow are doing a playful mischievous pose together.\nThe real person performs a cute realistic version of the pose, while the doodle-shadow performs a much more exaggerated, chaotic, cartoonish version of the same pose idea.\nThe mood should feel cute, playful, mischievous, stylish, funny, and social-media-friendly.\n\nReal person:\n- Must remain realistic and photogenic\n- Must wear the same outfit style and key visible details from the uploaded reference image\n- Do not replace the reference styling with unrelated fashion\n- Expression should be cute, slightly confused, mildly embarrassed, playful, as if thinking: “Why am I doing this with my shadow?”\n- The real person should not stand stiffly\n- The real person should actively participate in the pose, but in a natural realistic way\n\nDoodle-shadow:\n- Must be a black hand-drawn sketch version of the same person, drawn directly on the wall\n- Not a realistic second person\n- Not a normal physical shadow\n- Not a full-color anime character\n- Black sketch line-art only\n- Should resemble the person through hairstyle silhouette, accessories, outfit silhouette, and pose structure\n- The doodle-shadow should look more energetic, sillier, and more chaotic than the real person\n- Add manga-like motion lines, hearts, stars, sparkles, and comic marks around the doodle if helpful\n\nRandom mischievous pose rule:\nThe pose must NOT be fixed.\nFor each generation, invent a new playful mischievous pose for both the real person and the doodle-shadow.\nThe real person and the doodle-shadow should share the same general pose idea, but they do not need to match perfectly.\nThe real person performs a cute realistic version.\nThe doodle-shadow performs a much more exaggerated, chaotic, cartoonish version.\n\nDo not repeatedly use pointing poses.\nDo not repeatedly use finger-gun poses.\nDo not repeatedly use the same standing pose.\nDo not always make both figures simply point at each other.\n\nCreate a different mischievous pose each time.\n\nPossible pose directions are loose inspiration only, not a fixed menu:\n- playful idol pose\n- silly dance pose\n- leaning sideways with one arm curved overhead\n- making a big heart pose\n- cheeky wink pose\n- hands near cheeks in a cute teasing pose\n- exaggerated “that's it!” pose\n- mock surprise pose\n- playful running-in-place pose\n- mischievous tiptoe pose\n- arms stretched in opposite directions\n- pretending to sneak away\n- cute troublemaker pose\n- dramatic overreaction pose\n- goofy victory pose\n- playful balance pose\n- playful peekaboo pose\n- shy but mischievous pose\n- cute overconfident pose\n\nThe final pose should feel fresh, cute, mischievous, and slightly chaotic.\nThe real person should look like they are reluctantly playing along.\nThe doodle-shadow should look like it is having way too much fun.\n\nComposition:\n- vertical 3:4 or 2:3\n- show the real person in full-body or nearly full-body framing\n- place the real person on one side of the frame\n- place the black doodle-shadow on a clean wall beside them\n- the doodle-shadow should be roughly the same height or slightly taller\n- keep enough space around both figures so the full pose is visible\n- the connection between the real person and the doodle-shadow must be clear at a glance\n\nBackground:\n- simple clean indoor studio wall or minimal room corner\n- white, cream, or pale gray wall\n- clean floor\n- soft natural sunlight patch or gentle wall shadow allowed\n- keep the background uncluttered\n\nLighting:\n- soft natural studio lighting\n- bright, clean, polished, playful mood\n- keep the real person’s face clearly visible\n\nStyle quality:\n- realistic human photography\n- black hand-drawn doodle-shadow on wall\n- matching mischievous pose interaction\n- strong identity resemblance\n- outfit and styling faithfully based on the uploaded reference\n- cute and stylish mixed-media portrait\n- clean composition\n- social-media-friendly\n- no obvious AI artifacts\n\nNegative prompt:\nOutfit change unrelated to reference, realistic second person, normal reflection, normal shadow only, solid black monster shadow, horror shadow, creepy shadow, full-color illustration, cartoon human, anime human, weak resemblance, unrelated sketch character, messy wall, cluttered background, repeated pointing pose, repeated finger-gun pose, same pose every time, fixed pose, boring mirrored pose, stiff pose, identical pose repetition, real person not matching shadow pose, text, watermark, logo, distorted body, extra limbs, extra fingers, bad hands.",
-      "description": "Trending Instagram Doodle Art AI Prompt: Use this prompt to create a realistic studio portrait of a person with an expressive 2D comic doodle on a white wall.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 77,
-      "view_count": 2913,
-      "copy_count": 2018,
-      "is_premium": false,
-      "published_at": "2026-07-24T19:37:49.373Z",
-      "images": [
-        {
-          "filename": "996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "local_path": "images/creative/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/996af5d9-71e4-4aa7-b02f-decde01eccb2.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-10"
-        },
-        {
-          "filename": "74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "local_path": "images/creative/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "original_url": "https://img.promptplum.com/promptImages/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/74e69a5c-2ee8-409b-a262-bf1fad15aa76.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Conceptual Photo Doodle AI Photo Editing Prompt. AI generated conceptual portrait of a young man in a white pinstripe shirt poking his cheeks, standing next to a large line-art doodle of his fearfully screaming self with 'EEK!' and 'RAWR!' text."
-        },
-        {
-          "filename": "7b187122-7775-421e-baec-58288223dfe9.webp",
-          "local_path": "images/creative/7b187122-7775-421e-baec-58288223dfe9.webp",
-          "original_url": "https://img.promptplum.com/promptImages/7b187122-7775-421e-baec-58288223dfe9.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/7b187122-7775-421e-baec-58288223dfe9.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/7b187122-7775-421e-baec-58288223dfe9.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Real Photo with Doodle Art AI Prompt. AI generated mixed media portrait of a woman adjusting her glasses beside a playful black-and-white doodle sketch."
-        },
-        {
-          "filename": "ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "local_path": "images/creative/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/ad12ce6c-5bed-43ca-a93e-0594c29eea08.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-7"
-        },
-        {
-          "filename": "2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "local_path": "images/creative/2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/2a91574c-416c-48b3-a174-544278df60fa.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Photo and Comic Sketch Composite AI Photo Editing Prompt. AI generated digital illustration and photo composite portrait of a smiling woman in black and brown clothing next to a hand-drawn comic sketch version of herself"
-        },
-        {
-          "filename": "9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "local_path": "images/creative/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "original_url": "https://img.promptplum.com/promptImages/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/9f1b6d3e-7f27-41f3-9b68-33058d42e4b0.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Real Photo with Doodle Art AI Photo Editing Prompt. AI generated mixed-media illustration of a smiling man peeking from behind a white wall next to an excited black-and-white cartoon line drawing of himself."
-        },
-        {
-          "filename": "985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "local_path": "images/creative/985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "original_url": "https://img.promptplum.com/promptImages/985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/985ea714-dbe5-4358-a138-98d787d81387.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Real Photo and Doodle Art AI Photo Editing Prompt. AI generated mixed media portrait of a winking woman in a pink sweater standing next to a playful black-and-white line illustration."
-        },
-        {
-          "filename": "b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "local_path": "images/creative/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "original_url": "https://img.promptplum.com/promptImages/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/b1cee7b0-25a2-436a-954a-f60553a6da86.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Doodle Art Photography AI Photo Editing Prompt. AI generated mixed media portrait of a smiling young man posing beside an excited cartoon doodle giving him bunny ears."
-        },
-        {
-          "filename": "b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "local_path": "images/creative/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "original_url": "https://img.promptplum.com/promptImages/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/b01319ba-e7c9-4afd-8064-6d86168eeaaa.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Woman with Doodle Art Overlay AI Photo Editing Prompt. AI generated mixed media portrait of a smiling woman in a blue cardigan and jeans posing beside her cartoon line art sketch."
-        },
-        {
-          "filename": "24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "local_path": "images/creative/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "original_url": "https://img.promptplum.com/promptImages/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/24d8697c-0047-4687-bec6-3bc61cb0f113.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Cartoon Doodle Art AI Photo Editing Prompt. AI generated mixed media portrait of a smiling woman in an orange top posing next to an excited black-and-white line art sketch of herself on a white wall."
-        },
-        {
-          "filename": "614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "local_path": "images/creative/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "original_url": "https://img.promptplum.com/promptImages/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/614598b1-8527-4dc5-ab38-ee859dfa2018.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "AI generated photo-illustration shows a man making a shush gesture against a wall featuring a matching black line art sketch."
-        },
-        {
-          "filename": "ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "local_path": "images/creative/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/ea6c9b52-aed2-4d1c-ac58-7bb9bbfd5b86.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "real-photo-with-doodle-art-image-prompt-by-promptplum-11"
-        }
-      ]
-    },
-    {
       "id": "6a6268ebb99e3a48ae690e2a",
       "title": "Double Exposure Sitting Woman Portrait",
       "slug": "double-exposure-sitting-woman-portrait",
@@ -751,55 +612,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "girl-sitting-double-exposure-photo-prompt-by-promptplum-3"
-        }
-      ]
-    },
-    {
-      "id": "6a590ef2a3af6f1220c3032a",
-      "title": "A Miniature with Chocolate",
-      "slug": "miniature-man-chocolate",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Create a hyper-realistic macro portrait of the uploaded handsome person transformed into a tiny, cute chibi-style miniature. Maintain the recognizable facial identity and glasses if present. Give the miniature an oversized semi-realistic head, a very small body, chibi body proportions, and extremely short hands and legs, while keeping the face cute and adorable.\nShow the miniature standing on an off-white round tabletop and tightly hugging an extra-oversized red KitKat bar that is significantly taller and wider than his entire body. Both tiny arms should wrap firmly around the chocolate bar as if he refuses to let it go. The KitKat must look like a real wrapped chocolate bar with natural crumpled folds, a torn-open top, and partially eaten chocolate fingers clearly showing crisp wafer layers.\nAdd realistic chocolate smudges around his mouth, across his fingertips, and on both hands, suggesting he was just eating it. A huge realistic human hand enters from the upper-right corner, gently pinching the back collar of his jacket without covering his face or the KitKat.\nDress him in a dark navy hoodie, white T-shirt, dark slim-fit jeans, and clean matching sneakers. Give him a playful, lovable smile while looking directly at the camera.\nUse a tight vertical 4:5 macro composition where the oversized head, miniature, and enormous KitKat dominate the frame. Add a few chocolate crumbs and small melted chocolate drops on the tabletop. Use a soft light-grey bokeh background, soft bright studio lighting, shallow depth of field, outfit texture, and chocolate textures, natural wrapper reflections, and a whimsical premium advertising-photography aesthetic. Avoid adult body proportions, simple background and realistic head.",
-      "description": "3D Caricature Illustration Prompt: Use this prompt to create a miniature smiling man holding a giant KitKat Chocolate while a large hand reaches down for him.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 2595,
-      "copy_count": 1883,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "local_path": "images/creative/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Miniature Kit Kat Scene AI Photo Editing Prompt.\nAI generated Whimsical Conceptual Product Art of a smiling, miniature man with glasses and messy chocolate on his face, holding a giant Kit Kat bar while being lifted by a large human hand."
-        },
-        {
-          "filename": "bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "local_path": "images/creative/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated surreal photo manipulation of a smiling miniature man with an oversized head holding a large, partially eaten KitKat bar and being pinched by a giant human hand."
-        },
-        {
-          "filename": "70f20281-da79-4527-a927-2863a197663b.webp",
-          "local_path": "images/creative/70f20281-da79-4527-a927-2863a197663b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/70f20281-da79-4527-a927-2863a197663b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/70f20281-da79-4527-a927-2863a197663b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/70f20281-da79-4527-a927-2863a197663b.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "miniature-man-holding-giant-kitkat-ai-art-prompt-by-promptplum-3"
         }
       ]
     },
@@ -1001,55 +813,6 @@
       ]
     },
     {
-      "id": "6a3da615e1ceda640e5375a6",
-      "title": "Pastel Pink Mini-Me",
-      "slug": "girl-3d-twin-avatar",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Use the uploaded image only for the female subject’s identity, facial features, hair, and overall likeness. Preserve her apparent age correctly. Do not change her age group, facial maturity, or body proportions.\nCreate a high-quality studio portrait in a vertical 4:5 aspect ratio. Show the subject seated on a clean seamless white studio floor/background in a soft, charming, visually pleasing pose. She is seated with her knee bent upward and her leg extending forward toward the camera, creating a natural foreground perspective. One hand rests gently against her cheek, while the other arm relaxes naturally across the bent knee or lap. Her body is angled slightly to the side, and her gaze is directed softly sideways with a gentle, warm, natural smile.\nDress her in a soft pastel pink knitted cardigan, a light beige pleated long skirt, white socks, and white Mary Jane shoes. Add a small pink ribbon bow clipped to one side of her hair. Keep the styling neat, soft, elegant, and feminine.\nPlace a small premium 3D chibi doll version of the same subject beside her near her knee or leg. The doll should clearly resemble the subject’s face, hairstyle, age impression, and outfit colors, wearing the same pink cardigan, beige skirt, white socks, and matching bow. The doll should have a cute polished animated look with large expressive eyes, soft detailed hair, and a cheerful expression. The real subject and the animated doll should look like they are clearly interacting and communicating with each other — as if sharing a sweet moment. Their eye-lines, facial expressions, and body language should feel connected, with the doll looking up at the subject and the subject appearing engaged with the doll in a natural, affectionate, visually clear way.\nUse soft diffused high-key studio lighting, subtle natural shadows, clean minimal composition, realistic skin texture, crisp fabric texture, detailed hair strands, and a warm, innocent, premium mood. Keep the main subject dominant, the doll proportionally smaller, and the framing close, balanced, and subject-focused with minimal empty space. No text, watermark, or extra props.",
-      "description": "3D Twin Avatar Prompt: Use this AI prompt to generate a hybrid portrait of a realistic girl sitting with her matching 3D cartoon mini-me in pastel pink attire on a white background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 40,
-      "view_count": 1398,
-      "copy_count": 2206,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
-          "local_path": "images/creative/d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/d67245e3-4006-4bd3-a5e6-f8ac49334ce3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Girl 3D Twin Avatar AI Photo Editing Prompt. AI generated hybrid portrait of a woman seated in matching pastel pink attire looking at a stylized 3D character doll on her lap."
-        },
-        {
-          "filename": "f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
-          "local_path": "images/creative/f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/f0317935-5ea9-4508-870b-a2a86419ca8d.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Realistic girl holding her matching 3D cartoon mini-me doll, both wearing pastel pink cardigans and beige pleated skirts."
-        },
-        {
-          "filename": "94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
-          "local_path": "images/creative/94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
-          "original_url": "https://img.promptplum.com/promptImages/94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/94d3153a-0189-40a0-8a54-e2afdb7de340.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Cute 3D Twin Avatar Portrait Prompt. AI generated studio portrait featuring a real woman sitting on a white floor, smiling at a smaller 3D stylized girl avatar, both wearing matching pink cardigans and pleated beige skirts."
-        }
-      ]
-    },
-    {
       "id": "6a3d1ed4bf79ee5252c4645b",
       "title": "Center Stage on Red",
       "slug": "man-spotlight-red-brick-wall-portrait",
@@ -1075,55 +838,6 @@
           "width": 1792,
           "height": 2400,
           "alt": "Men's Casual Fashion AI Photo Editing Prompt. AI generated studio portrait of a young man in a red linen shirt and jeans leaning against a brick wall within a circular spotlight."
-        }
-      ]
-    },
-    {
-      "id": "6a29056d61276f872a153717",
-      "title": "Creator and Creation",
-      "slug": "3d-boy-pencil-sketch",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Create a highly polished, ultra-detailed 3D animated scene in a premium Pixar/Disney-inspired style, blending stylized character animation with traditional fine-art illustration. The composition features a charming man standing beside and leaning against a gigantic floor-to-ceiling sheet of textured, deckle-edged drawing paper mounted against a minimalist wall.\n\nThe man has expressive oversized eyes, voluminous dark hair, warm skin tones, and large red-rimmed eyeglasses. He stands in a relaxed, confident pose with his arms folded across his chest and his right leg casually crossed over his left ankle. He wears an olive-green round-neck T-shirt, fitted blue jeans with rolled cuffs, a simple dark wristwatch, and mustard-yellow high-top canvas sneakers. His expression is warm, proud, and slightly amused as he gazes upward toward the artwork beside him.\n\nThe massive paper displays an exquisitely detailed graphite-and-charcoal portrait of the exact exact same man (without eyeglasses), rendered in a realistic fine-art sketch style. The artwork is a chest-up portrait with the head held upright and no tilt. In the drawing, the man is captured with a warm smile, making direct eye contact with the viewer. The illustration features intricate pencil strokes, cross-hatching, realistic shading, visible paper grain, delicate line work, and masterful charcoal texture, creating the appearance of a hand-drawn museum-quality portrait.\n\nThe contrast between the dimensional 3D character and the flat traditional sketch is a central visual element. Warm cinematic golden-hour sunlight enters from the upper right, illuminating both subjects and creating soft highlights, realistic ambient occlusion, and long, natural shadows. The 3D boy casts a distinct shadow across the giant drawing, reinforcing the interaction between the real and illustrated worlds.\n\nThe environment consists of a minimalist textured taupe-grey wall and a smooth floor, with subtle surface imperfections and natural light falloff. The oversized artwork dominates the frame while the character occupies the lower-right portion, creating strong visual balance and storytelling depth.\n\nUltra-realistic lighting, global illumination, ray-traced shadows, cinematic color grading, shallow depth of field, high dynamic range, premium animated-film rendering, 8K resolution, DSLR-level clarity, hyper-detailed textures, crisp focus, masterpiece quality, seamless blend of 3D character design and traditional graphite illustration.\nUse the uploaded image strictly ONLY for 100% accurate face matching and identity reference.\nAspect ratio 4:5.",
-      "description": "3D Cartoon & Sketch Art Prompt: Copy and paste this prompt to create an animated 3D boy standing proudly beside a large realistic pencil portrait.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 43,
-      "view_count": 1256,
-      "copy_count": 2444,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "local_path": "images/creative/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "original_url": "https://img.promptplum.com/promptImages/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 1"
-        },
-        {
-          "filename": "e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "local_path": "images/creative/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 2"
-        },
-        {
-          "filename": "092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "local_path": "images/creative/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "original_url": "https://img.promptplum.com/promptImages/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 3"
         }
       ]
     },
@@ -1466,55 +1180,6 @@
           "width": 928,
           "height": 1152,
           "alt": "AI generated portrait series of a young man wearing a burgundy corduroy shirt posing in a golden wheat field at sunset, presented in three stacked panels showing him looking off-camera, adjusting his hair, and holding a dried flower."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704cf",
-      "title": "Contours of Love",
-      "slug": "3d-layered-papercut-couple-heart-sculpture",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Hyper-realistic 3D layered papercut and paper quilling sculpture, showcasing masterful papercraft artistry with a blend of matte and metallic paper textures.\nComposition:\nSymmetrical dual bust portraits centered in the frame. The male subject on the left and the female subject on the right face each other in close proximity. Their flowing ribbon-like forms merge at the base, elegantly converging into a refined heart shape that forms the lower structure of the sculpture. This heart-shaped base is seamlessly integrated into the design and gently rests on a minimal, smooth wooden stand (light natural wood tone, clean edges, gallery-style plinth).\nSubjects & Styling:\nMale (Left): Constructed from layered paper forms. Hair & beard (if present in the reference image) is styled in smooth, sculpted waves using thick silver metallic paper strips. His collar/outfit is formed from broad, flowing silver ribbons.\nFemale (Right): Constructed from delicate layered paper. Hair is an intricate quilled updo made from fine rose-gold metallic paper strips. Her drapery mirrors this style with soft, flowing ribbon forms.\nFacial Detail:\nBoth faces feature subtle, contour-following layered paper cuts that define facial structure (cheeks, jawline, temples), enhancing depth and emphasizing the handcrafted papercut aesthetic.\nPose & Expression:\nClean side-profile views, perfectly aligned face-to-face. Their faces are inches apart, slightly leaning inward. Both subjects are looking directly into each other’s eyes, conveying a soft romantic expression with a sense of intimacy and emotional connection, without physical contact.\nLighting:\nSoft, diffused studio lighting to enhance depth and cast subtle, realistic shadows between paper layers.\nA warm, glowing backlight is placed precisely in the background between their faces, creating a soft halo and a focal point in the negative space.\nBackground:\nMinimal, seamless matte off-white background for a clean, gallery-style presentation.\nCamera & Technical:\nStraight-on, eye-level shot, perfectly perpendicular to maintain the flat graphic profile while emphasizing 3D depth.\n85mm lens, f/5.6, ISO 100, ultra-sharp focus, 8K resolution, high-end editorial product photography style, crisp detail on paper edges and layered contours.\nStyle Keywords:\npapercraft sculpture, paper quilling art, layered paper design, metallic textures, minimalism, romantic symmetry, ultra-detailed, studio lighting, soft shadows\nAspect ratio 4:5.\nNo text, no logo, no distortion, no outfit from reference image.",
-      "description": "3D Paper Quilling Art Prompt: Use this prompt to generate an elegant paper-cut sculpture of a romantic couple forming a heart shape with intricate silver and rose gold metallic detailing.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 1052,
-      "copy_count": 1725,
-      "is_premium": false,
-      "published_at": "2026-09-21T21:36:50.649Z",
-      "images": [
-        {
-          "filename": "man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
-          "local_path": "images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-3.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Papercut Couple Heart Sculpture AI Photo Editing Prompt. AI generated 3D layered papercut digital illustration of a man and woman in metallic silver and rose gold tones facing each other to form a heart shape."
-        },
-        {
-          "filename": "man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
-          "local_path": "images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man and Woman Heart Paper Sculpture AI Photo Editing Prompt. AI generated layered papercut art of a couple facing each other with a central heart-shaped design."
-        },
-        {
-          "filename": "man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
-          "local_path": "images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/man-woman-heart-shape-paper-sculpture-art-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated 3D papercut art of a man and woman in profile forming a heart shape on a wooden base."
         }
       ]
     },
@@ -2107,65 +1772,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670454",
-      "title": "Manga Muse",
-      "slug": "woman-manga-style-lifestyle-collage",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Core Concept\nA striking mixed-media composition featuring a high-resolution photograph of a woman standing in front of a large, wall-sized black-and-white manga collage. The image explores the \"multiverse\" or \"multifaceted\" nature of the subject’s personality.\n\nCentral Figure (Photographic)\nSubject: woman with a modern hairstyle, round glasses, and a face identical to the reference image. She occupies approximately 60–70% of the frame height, perfectly centered\nExpression: She has a genuine and confident smile.\nAttire: A classic blue denim jacket over a simple black t-shirt, tucked into high-waisted blue jeans. She is wearing elegant black pointed-toe high heels.\nPose: She stands in the center foreground, hands casually in her pockets, with her legs crossed at the ankles.\nLighting: Bright, professional studio lighting that makes her pop against the background.\nBackground (Manga Style)\nArt Style: Classic Japanese manga aesthetics—bold ink lines, screentone textures (dots), and dramatic speed lines.\nNarrative Panels: The background consists of various panels featuring the same woman as a manga character in different scenarios:\nTop Left: Riding a motorcycle with speed lines and the text \"VROOM.\"\nTop Right: Looking focused and intense while working at a computer desk.\nMiddle: Walking through a bustling city street.\nBottom Left: Using a smartphone on a gimbal, as if vlogging or taking a selfie.\nBottom Right: Laughing and embracing two friends, with a \"KYA!\" speech bubble nearby.\nText Elements: Integrated Japanese onomatopoeia (e.g., \"ドキドキ\" for a racing heart) and English sound effects scattered throughout the panels.\nComposition & Mood\nContrast: A sharp contrast between the vibrant, 3D realism of the woman in the foreground and the flat, 2D, monochromatic world of the white comic book background.\nVibe: Empowered, joyful, and modern. It suggests a life full of adventure, hard work, and meaningful social connections.\nFloor color white.\nAspect ratio 2:3",
-      "description": "Digital Illustration Manga Art Prompt: Use this prompt to create a creative portrait of a smiling woman in denim against a dynamic black-and-white manga collage background depicting various lifestyle scenes.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1209,
-      "copy_count": 1715,
-      "is_premium": false,
-      "published_at": "2026-09-20T23:47:58.971Z",
-      "images": [
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "local_path": "images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Collage AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a denim outfit standing against a black and white manga storyboard background."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "local_path": "images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Background Portrait Prompt. AI generated digital illustration of a smiling woman in a denim jacket posing against a black-and-white manga comic collage featuring her daily life adventures."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "local_path": "images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman with Manga Collage AI Photo Editing Prompt. AI generated digital illustration of a woman in denim standing before a black-and-white manga background depicting various lifestyle scenes."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "local_path": "images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Background AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a denim jacket and jeans standing against a black-and-white manga collage background featuring various scenes of her life."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267043e",
       "title": "Typographic Persona",
       "slug": "ai-typography-portrait-prompt-plum",
@@ -2191,65 +1797,6 @@
           "width": 2048,
           "height": 2048,
           "alt": "Typography Portrait AI Photo Editing Prompt. AI generated digital typography illustration of a man with glasses and a beard artistically composed of repeating white text against a dark background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267043a",
-      "title": "Framed in Love",
-      "slug": "happy-family-heart-frame-3d-illustration",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Create a high-quality 3D stylized cartoon illustration based on submitted references of family members, all peeking out from behind a matte heart-shaped opening. Only their heads, hands (where applicable), and upper torsos should be visible, looking playful and hiding.\nSubjects must be arranged in descending age order.\nThe composition should feature a soft, textured beige. The entire outer background is a beige gradient; the heart-shaped opening borders are the same colour but slightly darker; the inner background is a dark violet gradient, creating a contrast that highlights the brightness of the characters. The style must have a soft Pixar/Disney animation look, with large expressive eyes, smooth skin, and slightly enlarged head proportions for cinematic charm, while retaining the recognizable facial features, hairstyles, and age from the reference photos.\nEveryone is gently holding the edges with small hands/paws and leaning slightly forward with curious, playful expressions. The lighting should be soft studio light with warm, gentle highlights and no harsh shadows.\nThe image must be a 1:1 aspect ratio portrait with centralized framing and shallow depth of field. The final render should be ultra-sharp 4K, in an Octane/Unreal/Disney rendering style.",
-      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to generate a heartwarming 3D animated portrait of a happy family smiling through a heart-shaped cutout.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 1310,
-      "copy_count": 2843,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "local_path": "images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Family Heart Frame AI Photo Editing Prompt. AI generated 3D Digital Illustration of a smiling family and their Golden Retriever peering through a heart-shaped frame aperture."
-        },
-        {
-          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "local_path": "images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling family with three children and a golden retriever puppy peeking through a heart-shaped cutout."
-        },
-        {
-          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "local_path": "images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling East Asian family of five peeking through a large heart-shaped cutout against a dark background."
-        },
-        {
-          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "local_path": "images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Multi-Generational Family Peeking through Heart-Shaped Frame AI Photo Editing Prompt. AI generated stylized 3D digital illustration in a Pixar-esque art style. A diverse and smiling group of six people—mother, father, grandmother, and three children—peers out joyfully from a large heart-shaped opening in a wall, set against a deep purple background."
         }
       ]
     },
@@ -2454,35 +2001,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Sculptor Carving Giant Stone Face AI Art Prompt. AI generated digital art of an artist on a wooden ladder using a hammer and chisel to carve a massive, detailed bearded face from a stone block in a sunlit, dusty workshop."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703ee",
-      "title": "Dramatic Black and White Family Photo Prompt",
-      "slug": "playful-black-and-white-family-portrait-stacked-pose",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Create a high-contrast black-and-white studio portrait of a three-person family stacked vertically in a perfectly centered totem-pole composition, faces closely matching the reference image identities of all peoples, preserving exact facial structure, proportions, skin tone (converted to grayscale), eye shape, nose shape, lip shape, hairline, and age.\nA man at the top leans forward with both hands gently resting on the crown of the woman’s head below him. The woman mirrors the pose, placing both hands on the head of a small child beneath her. The child rests their cheeks in their hands at the base.\nAll subjects face forward toward the camera with playful kiss/pout expressions.\n\nTop Subject (Man)\nFace must match the reference identity\nLeft eye closed in a wink, right eye open\nNatural grooming details\nWedding golden ring on left hand ring finger\nHands gently cupping the woman’s head\nMiddle Subject (Woman)\nFace must match the reference identity\nRight eye closed in a wink, left eye open\nNaturally styled hair\nJewelries if present\nHands resting on the child’s head\nWedding golden ring on left hand ring finger\nBottom Subject (Child)\nFace must match the reference identity\nAccurate hair details\nBoth eyes wide open with strong catchlights\nCheeks resting in palms\nLighting & Studio Style\nLow-key fine-art portrait lighting\nSingle large softbox or beauty dish, front-center slightly above eye level\nSoft sculpting shadows, dramatic contrast\nSmooth skin highlights with natural texture preserved\nBright clean catchlights in eyes\nNo rim light, no harsh shadows\nBackground: seamless deep black backdrop with subtle vignette fading to pure black edges.\nCamera & Image Quality\nMedium telephoto portrait lens (85mm equivalent)\nEye-level perspective\nPerfect vertical alignment\nAll three faces in sharp focus\nUltra-high-resolution, 4K detail\nHyper-real skin texture (pores visible but clean)\nCrisp eyelashes, detailed lips, natural micro-contrast\nProfessional studio photography look\nWardrobe\nAll subjects wearing plain black long-sleeve tops, minimal texture, no logos, blending into background.\nComposition & Output Settings\nAspect ratio 4:5 vertical\nCentered symmetrical composition\nClean negative space\nNo cropping of heads or hands\nEditorial portrait framing\nQuality Tags\nphotorealistic, ultra-detailed face, 4K portrait, high dynamic range grayscale, fine-art family portrait, sharp focus, studio photography, identity preservation, realistic skin texture, cinematic monochrome\nNegative Prompt\nFrame crop, head crop, cartoon, illustration, color, warm tones, blur, noise, grain, extra fingers, distorted face, asymmetry, wide-angle distortion, harsh lighting, multiple light sources, busy background, text, watermark, low resolution, oversharpening, identity mismatch, face change, identity drifts, unnatural hair details",
-      "description": "Get the exact AI prompt to create this playful black & white vertical stacked family portrait. Generate fun, studio-style family photos easily!",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 156,
-      "view_count": 9533,
-      "copy_count": 14165,
-      "is_premium": false,
-      "published_at": "2026-08-26T20:16:15.491Z",
-      "images": [
-        {
-          "filename": "playful-family-black-white-portrait-by-promptplum.webp",
-          "local_path": "images/creative/playful-family-black-white-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/playful-family-black-white-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/playful-family-black-white-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/playful-family-black-white-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Vertical Stack Portrait AI Photo Editing Prompt. AI generated studio portrait of a man, woman, and child stacked vertically with playful winking and pouting expressions against a dark background."
         }
       ]
     },
@@ -2741,45 +2259,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267039a",
-      "title": "Behind the Smile",
-      "slug": "split-face-happy-sad-woman-portrait",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Use the uploaded photo as a strict identity reference. The subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain identical.\nThis is one single subject (not two people, not two faces).\n\nOnly the style and emotion changes across the split.\nNo beautification. No reshaping. No stylization. No identity drift.\nMain Concept\nCreate a 4:5 aspect ratio, ultra-realistic cinematic studio portrait with DSLR realism, 8K sharp detail, natural skin texture, soft focus, and shallow depth of field.\nA conceptual duality portrait: public persona vs hidden emotion.\nComposition & Framing\nVertical, centered portrait\nSubject perfectly centered, facing forward, direct eye contact\nOne continuous face across the split\nA jagged white torn-paper seam runs vertically down the exact center\nHead-and-shoulders framing, subject fills most of the frame\nMatte black studio background\nSubject\nA slender adult woman wearing a black turtleneck sweater.\n\nNatural wavy hair with realistic texture and shine.\nLeft Side (Color) — Public Persona\nFull color (ONLY left side)\nWarm, glowing complexion\nVibrant red lipstick\nConfident closed-mouth smile\nLighting: warm and flattering, highlights hair shine and skin glow\nRight Side (Black & White) — Private Reality\nPure monochrome / black-and-white (ONLY right side)\nSame exact face and hair (no duplication)\nSomber, melancholic expression\nLips neutral, slightly parted\nA single visible tear running down near the center seam\nLighting: soft but moody, more shadow depth under the eyes\nRealism & Texture\nPhotorealistic DSLR look, visible pores, natural skin texture, no smoothing, no artificial glow.\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo face morphing\n\nNo painting/illustration/anime/cartoon / 3D\n\nNo plastic skin\n\nNo over-softening",
-      "description": "Create powerful visual storytelling with this split-face portrait AI prompt. Generate realistic happy vs. sad images featuring a torn paper effect, vibrant colors, and cinematic black and white crying details.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1374,
-      "copy_count": 2563,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "local_path": "images/creative/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Split portrait: one side is vibrant and smiling, the other is grayscale and tearful. A torn paper edge dramatically separates these two moods against a deep black backdrop."
-        },
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "local_path": "images/creative/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670384",
       "title": "Bass Blast",
       "slug": "bass-blast",
@@ -2844,75 +2323,6 @@
           "width": 736,
           "height": 1104,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670370",
-      "title": "Frames of Forever",
-      "slug": "frames-of-forever",
-      "category": "Creative",
-      "category_slug": "creative",
-      "prompt": "Core Instruction (Strict Face Match)\n\nUse the uploaded reference image as a strict facial reference.\n\nFace match must be 100% accurate for both individuals — identical facial structure, proportions, eyes, nose, lips, jawline, beard (if present), hairstyle, and natural expression.\n\n❌ No beautification, stylization, age change, or facial modification.\nScene & Product\n\nCreate a luxury CGI product render of a personalized 3D-style acrylic photo block placed on a modern desk.\n\nStyle blends premium animated realism (Pixar-like) with photorealistic product visualization, suitable for high-end gifting and e-commerce.\nSubjects (Inside Acrylic Block)\n\nPolished 3D animated realism with smooth skin, expressive eyes, refined proportions, and realistic light response.\nWoman: Natural hair colour and hairstyle, Outfit from reference image, warm natural smile.\nMan: Natural hair with natural volume, well-groomed beard and mustache (if present in reference), Outfit from reference image, calm friendly smile.\nProduct Details\n\nThick transparent rectangular acrylic block with polished edges, visible depth, realistic refraction and internal reflections, subtle edge distortion.\n\nMounted on a light natural-wood rectangular base with visible grain.\n\nElegant signature “PromptPlum.com” with a small red heart at the bottom-left of the acrylic.\nLighting & Composition\n\nSoft directional light from upper left, gentle highlights on faces and acrylic edges, natural soft shadow on desk.\n\nShallow depth of field, slightly off-center composition, eye-level camera.\nBackground\n\nMinimalist workspace: blurred silver laptop on the left, white books on the right, small ceramic vase with white, yellow, and purple wildflowers, clean white wall.\nRendering Quality\n\nUltra-high-resolution CGI, accurate glass physics, sharp fabric textures, realistic wood grain, premium luxury product photography feel.\nOutput\n\nAspect Ratio: 1:1\nNegative Prompt\n\n❌ face mismatch or identity drift\n❌ facial changes or beautification\n❌ cartoon exaggeration\n❌ low-quality or blurry render\n❌ flat or harsh lighting\n❌ plastic-looking skin\n❌ warped faces or eyes\n❌ cheap materials\n❌ over-saturation\n❌ text artifacts or misspelled branding",
-      "description": "Get the viral AI prompt for 3D Pixar-style couple portraits encased in a clear acrylic block. Create hyper-realistic 3D animated characters on a wooden base with cinematic lighting. Perfect for custom 3D renders!",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 110,
-      "view_count": 1637,
-      "copy_count": 3501,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "local_path": "images/creative/Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/Gemini_Generated_Image_affghxaffghxaffg.jpg",
-          "width": 1433,
-          "height": 1433,
-          "alt": "Gemini AI Generated Image of a 3D animated couple in a clear acrylic block on a wooden base, set on a desk with flowers."
-        },
-        {
-          "filename": "Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "local_path": "images/creative/Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/Gemini_Generated_Image_4u8okc4u8okc4u8o-1.jpg",
-          "width": 1433,
-          "height": 1433,
-          "alt": "Gemini AI Generated Image of A 3D-animated couple in an acrylic frame on a wooden base, featuring a \"PromptPlum.com\" watermark."
-        },
-        {
-          "filename": "Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "local_path": "images/creative/Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/Gemini_Generated_Image_9ympm99ympm99ymp.jpg",
-          "width": 1433,
-          "height": 1456,
-          "alt": "Gemini AI Generated Image: 3D animated couple in an acrylic block on a wooden base. Modern desk setup with soft, cinematic lighting."
-        },
-        {
-          "filename": "Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "local_path": "images/creative/Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/Gemini_Generated_Image_i5q5l0i5q5l0i5q5.jpg",
-          "width": 1433,
-          "height": 1433,
-          "alt": "Gemini AI Generated Image of a 3D animated elderly couple in a clear acrylic frame on a wooden base, displayed on a minimalist desk."
-        },
-        {
-          "filename": "Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "local_path": "images/creative/Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/creative/Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/creative/Gemini_Generated_Image_cxe6njcxe6njcxe6.jpg",
-          "width": 1433,
-          "height": 1433,
-          "alt": "Gemini AI Generated Image: 3D animated couple in an acrylic frame on a wooden base, placed on a desk with a laptop and flowers."
         }
       ]
     },

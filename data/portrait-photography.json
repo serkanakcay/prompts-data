@@ -1,7 +1,7 @@
 {
   "category": "Portrait Photography",
   "slug": "portrait-photography",
-  "total_prompts": 137,
+  "total_prompts": 128,
   "updated_at": "2026-09-24T13:11:22Z",
   "prompts": [
     {
@@ -1380,45 +1380,6 @@
       ]
     },
     {
-      "id": "6a6def5c4bbdbe2cf54d038f",
-      "title": "Boy Sitting in Denim Jacket on Dark Studio",
-      "slug": "man-denim-jacket-studio-fashion-portrait",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "Create a premium, ultra-realistic full-body studio streetwear editorial portrait of the uploaded man, preserving his natural facial identity, skin tone, age, hairstyle and existing facial hair. Dress him in a slightly oversized light-wash distressed denim jacket with shortened three-quarter sleeves ending at the lower forearms, several inches above the wrists. Add only small, sparse patch details: a compact black patch on the upper chest, a small blue patch on one forearm and a small red oval patch near the opposite shortened cuff—no large multicolored panels. Layer the jacket over a white hoodie with the hood resting naturally behind his neck and white drawstrings hanging over the chest. Only a short section of the full-length white hoodie sleeves should extend below the denim sleeves to the wrists, finished with fitted ribbed cuffs. Add a plain white T-shirt underneath, slim black jeans and clean white high-top sneakers with black side accents.\nSeat him near the front edge of a small, narrow matte-black cube that is just wide enough to sit on and remains mostly concealed behind his legs. Turn his torso approximately 15 degrees toward camera right in a subtle three-quarter body angle, with the camera-left shoulder slightly closer, while turning his face naturally back toward the lens. Keep his shoulders relaxed with a gentle forward slouch.\nArrange his legs in a compact asymmetrical pose. Keep the camera-left lower leg nearly vertical with its foot planted flat beneath the knee. Open the camera-right knee slightly and extend that lower leg gently sideways toward camera right, keeping the foot flat on the floor rather than projecting toward the lens. Both shoes must remain naturally proportioned and approximately the same distance from the camera. Let his forearms drop naturally between his thighs, with relaxed hands positioned close together and fingertips nearly touching.\nGive his head only a very slight tilt of approximately five degrees toward camera left. Maintain direct eye contact with a calm, cool and subtly aloof fashion-editorial expression, relaxed facial muscles and lips naturally resting slightly apart—confident but not intense.\nPhotograph him from farther back, showing his complete body from head to shoes while the subject occupies approximately 75% of the frame height. Preserve generous black headroom, balanced side space and visible floor beneath his shoes. Use an almost pure matte-black seamless studio backdrop with only barely perceptible neutral-charcoal tonal separation behind the upper body, fading into near-black corners. Avoid any obvious circular glow, blue-grey background wash or visible horizon line. Let the matte-black floor merge smoothly into the backdrop, with only faint grounding shadows beneath the cube and shoes.\nUse soft, muted low-key illumination from a diffused off-camera source positioned above and slightly toward camera left, with minimal neutral frontal fill. Keep the overall exposure dark and controlled while retaining natural facial detail, denim texture and soft shadow depth. No visible studio equipment or strong rim lighting. Eye-level 85mm perspective photographed from a comfortable distance, natural compressed proportions, no wide-angle distortion or enlarged foreground shoes, premium moody streetwear editorial photography, 3:4 aspect ratio.",
-      "description": "Streetwear Fashion AI Prompt: Use this prompt to create a dark studio portrait of a stylish man in a patched denim jacket sitting on a black box.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 30,
-      "view_count": 2139,
-      "copy_count": 2278,
-      "is_premium": false,
-      "published_at": "2026-08-01T14:10:00.006Z",
-      "images": [
-        {
-          "filename": "3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "local_path": "images/portrait-photography/3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Streetwear Fashion AI Photo Editing Prompt. AI-generated dark studio portrait of a stylish man sitting on a black box, wearing a patched denim jacket, white hoodie, black jeans, and white sneakers."
-        },
-        {
-          "filename": "21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "local_path": "images/portrait-photography/21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "original_url": "https://img.promptplum.com/promptImages/21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "AI generated studio portrait of a man sitting on a black block against a black background, wearing a white hoodie, distressed denim jacket with patches, black jeans, and white Nike sneakers."
-        }
-      ]
-    },
-    {
       "id": "6a6d008e4bbdbe2cf5366bdf",
       "title": "Golden Hour Portrait of Young Man",
       "slug": "golden-hour-male-sunglasses-portrait",
@@ -1742,75 +1703,6 @@
       ]
     },
     {
-      "id": "6a6126794e919e1ec249ca04",
-      "title": "Luxury Crimson Formal Family Photoshoot",
-      "slug": "formal-family-crimson-studio-photoshoot",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "Create a premium, ultra-realistic 3:4 vertical family studio portrait of the uploaded family. Preserve every person recognizable facial features and Identity individually from the reference images, maintaining their natural face shape, facial proportions, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, facial hair, age, and distinctive features with high accuracy. Keep realistic skin texture and natural facial asymmetry; avoid beautified, overly smooth, plastic, generic, or AI-generated-looking faces. The image should feel like a real high-end professional family photograph with a luxurious, elegant, and timeless look.\n\nFamily Composition\nThis prompt should work for either a 3-member family or a 4-member family.\n\nIf the family has 3 members (father, mother, and one child) and the child is a toddler or very young, the child should be carried naturally on the mother lap or father's arm. If the child is younger (not a toddler), place the child in the centre of the composition between the parents. The child should stand naturally and should not be carried in the father’s arms.\n\nIf the family has 4 members (father, mother, and two children), arrange them in a balanced formal composition. If one child is a toddler or very young, that child may be held naturally in one parent’s arms. The other child should stand in the center or slightly forward.\n\nIf the children are older (not toddlers), do not carry them. They should stand naturally beside or between the parents.\n\nMaintain a balanced, connected family arrangement where everyone looks comfortable, affectionate, and naturally posed.\n\nPosing Guidelines\n\nThe mother may be seated gracefully on one side or standing, depending on the family arrangement. If seated, keep her posture upright and elegant, with one hand resting naturally on her lap and the other relaxed.\n\nThe father should stand confidently beside or slightly behind the family, with a calm, protective, and relaxed posture.\n\nThe main child or older child should be placed prominently near the center of the frame for compositional balance.\n\nIf there is a toddler, the toddler can be held naturally by one parent only if the age looks appropriate.\n\nKeep expressions warm, natural, and pleasant, with subtle smiles and a polished family-portrait feel.\n\nClothing and Styling\nUse elegant, coordinated formal clothing with a rich deep red / black / gold color theme.\n\nThe mother wears a luxurious deep-crimson or ruby-red off-shoulder evening gown with a fitted bodice and flowing floor-length skirt, made of satin or silk. Optional subtle slit, refined makeup, and soft hairstyle with elegant accessories.\n\nThe father wears a tailored black formal suit with a crisp white shirt and polished black shoes.\n\nA young boy may wear a black tuxedo with satin lapels, white shirt, black bow tie, matching trousers, polished shoes, and a subtle red pocket square.\n\nA young girl may wear a deep red party dress with a flared skirt and dress shoes.\n\nIf there are two children, coordinate their outfits to match the overall red-black formal styling.\n\nKeep all clothing refined, realistic, and premium-looking.\n\nBackground and Set Design\nCreate a luxury indoor studio setup with a dramatic and elegant backdrop.\n\nUse a dark warm-brown, charcoal, or taupe wall with classic rectangular moulding panels.\n\nAdd a large deep red draped fabric hanging decoratively from the upper side of the frame, flowing in rich folds.\n\nExtend matching red fabric across the floor for a regal studio look.\n\nInclude tasteful props such as:\nantique brass or gold candle stands\nwhite pillar candles\ngold/brass vases\ndeep red flower arrangements or roses\nsmall fabric-covered platforms or decor stands\nThe set should feel luxurious, balanced, and visually rich without looking cluttered.\n\nLighting\nUse soft, warm, cinematic studio lighting.\nMain light should be soft and flattering, illuminating all faces clearly.\nAdd gentle fill light to preserve facial details.\nUse subtle rim or separation lighting to distinguish the family from the background.\nKeep shadows soft and elegant.\nMaintain realistic skin tones, controlled highlights, and polished studio contrast.\n\nCamera and Framing\nUse a full-body family portrait composition in 3:4 aspect ratio.\nCamera angle should be straight or slightly above eye level, suitable for professional family photography.\nUse a 50mm to 85mm portrait lens look.\nKeep all family members fully visible with natural spacing.\nEnsure hands, feet, body proportions, and interactions look realistic.\nKeep the family as the clear focal point while still showing the elegant set around them.\n\nStyle and Quality\nPremium family photography, luxury editorial portrait, ultra-realistic, highly detailed, sharp facial details, photorealistic, cinematic, professional studio quality, refined textures, elegant composition, realistic fabric folds, polished skin tones, natural expressions, high detail, 8K quality.\n\nImportant Rules\n\nPreserve the natural identity and age of each family member with high accuracy.\n\nDo not force a child into someone’s arms unless the child is clearly a toddler or very young.\n\nIf the family has only one child, place that child in the center between the parents.\n\nIf children are older, keep them standing naturally.\n\nAvoid awkward poses, extra fingers, distorted anatomy, merged bodies, stiff expressions, face mismatch, ai-generated portrait look or unnatural spacing.\n\nDo not add text, logos, or watermarks.",
-      "description": "Formal Studio Photography Prompt: Use this prompt to create a luxury family portrait in elegant black tuxedos and red satin gowns against a velvet backdrop.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 30,
-      "view_count": 2090,
-      "copy_count": 1424,
-      "is_premium": false,
-      "published_at": "2026-07-22T20:22:17.442Z",
-      "images": [
-        {
-          "filename": "d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "local_path": "images/portrait-photography/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/d2442845-0290-4aa5-8921-f04dbb4bafb0.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Formal Crimson Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a family of four in elegant black tuxedos and red satin dresses posing against a velvet backdrop."
-        },
-        {
-          "filename": "60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "local_path": "images/portrait-photography/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/60ae838d-d071-4b8a-bf0e-a11ae430256d.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Formal Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a couple and baby in formal black and crimson attire with red roses."
-        },
-        {
-          "filename": "872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "local_path": "images/portrait-photography/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "original_url": "https://img.promptplum.com/promptImages/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/872d36a4-4d36-46d0-ac3d-c2ebb4f1ef87.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Formal Family Studio Photoshoot AI Prompt. AI generated studio portrait of a formal family with parents, a son, and a daughter in crimson attire, posing in a decorated studio with velvet drapes and floral arrangements."
-        },
-        {
-          "filename": "f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "local_path": "images/portrait-photography/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/f1849347-bb57-40c8-816d-eeb18c0682c4.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Luxury Formal Family Portrait AI Photo Editing Prompt. AI generated portrait of a family of three in formal attire posing on a red carpet against a dark gray wall with red roses and curtains."
-        },
-        {
-          "filename": "c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "local_path": "images/portrait-photography/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/c5ef9bec-046e-4ae6-a111-71f90e8bfe0a.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Elegant Formal Studio Family Portrait AI Photo Editing Prompt. AI generated studio portrait of a woman in a red satin gown, a man in a tuxedo, and a baby in a velvet dress on a gold lounge with candles and roses."
-        }
-      ]
-    },
-    {
       "id": "6a5fa1254e919e1ec21d804a",
       "title": "A Moment of Stillness",
       "slug": "aesthetic-mirror-portrait",
@@ -1865,35 +1757,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man on Yacht Deck Lifestyle Portrait AI Photo Editing Prompt. AI generated realistic lifestyle portrait of a man in a green double-breasted blazer and white trousers standing on a yacht deck in a marina."
-        }
-      ]
-    },
-    {
-      "id": "6a5d307fa3af6f12203c0829",
-      "title": "Man with a Rose in a Luxury Car",
-      "slug": "man-rose-luxury-car",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "Ultra realistic 16k full-body night shot of a stylish young man sitting in a luxury black car door open front view, holding a red rose, modern fashion, black vest and bright white open linen shirt, slim black pants, glossy dress shoes, sunglasses, silver wristwatch, trendy styled hair, confident pose, cinematic lighting, modern background, luxury lifestyle vibe, high detail, photorealistic, 85mm lens, golden bokeh, warm tones --ar 4:5 --v 6 --style raw",
-      "description": "Luxury Lifestyle Portrait Prompt: Use this prompt to create a photorealistic night portrait of a stylish suited man holding a red rose in a black car.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 33,
-      "view_count": 2721,
-      "copy_count": 3670,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "local_path": "images/portrait-photography/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man with Rose Photo AI Photo Editing Prompt. AI generated portrait of a handsome suited guy in a luxury car holding a red rose at night."
         }
       ]
     },
@@ -2178,55 +2041,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Close-up Indian Woman Portrait with Bindi and Nose Ring AI Photo Editing Prompt. AI generated close-up portrait of a South Asian woman wearing a maroon bindi, a detailed silver flower nose ring, dramatic winged eyeliner, deep maroon lipstick, and a variety of star-shaped ear studs against a warm background."
-        }
-      ]
-    },
-    {
-      "id": "6a4e843a7877e7a4d75f83bc",
-      "title": "Couple Autumn Walk",
-      "slug": "couple-autumn-walk",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "Create a high-end realistic lifestyle photograph, full-body shot of a reference couple walking hand-in-hand along a narrow forest path fully covered in fallen autumn leaves. Use the attached reference photos for facial identity and preserve exact facial structure and proportions for both individuals. \nThey are walking naturally toward the camera while looking softly at each other with subtle warm smiles.\nThe man walks on the left with one hand casually inside his trouser pocket, wearing thin round eyeglasses, a rich rust-brown corduroy jacket with flap chest pockets over an olive-green turtleneck, tailored beige trousers, and dark brown leather ankle boots. The woman walks close beside him, gently holding his arm while their other hands are naturally joined, wearing a clean camel-tan double-breasted long coat over a dark forest-green ribbed turtleneck dress, paired with tall cognac leather boots. Her hair falls naturally around her shoulders.\n\nThe couple is framed slightly farther back with full bodies visible and soft space above them. The path is enclosed by autumn trees and branches, creating a natural woodland corridor filled with deep rust-red, burnt orange, amber, and muted golden-yellow leaves. Thick dry leaves carpet the ground, with small hints of the dark path visible beneath. Keep a softly bright, distant opening at the end of the trail while the surrounding foliage remains rich and immersive.\n\nSoft diffused autumn daylight filters evenly through the trees, giving the scene a gentle warm glow with controlled highlights, and soft contrast. Both subjects remain sharply focused while the dense autumn background falls into smooth subtle bokeh. Shot on an 85mm portrait lens, premium cinematic lifestyle photography, realistic fabric textures, sharp focus on face, 8k resolution, 3:4 aspect ratio.",
-      "description": "Romantic Autumn Photography Prompt: Use this prompt to create a warm, intimate cinematic portrait of a stylish couple walking on a path covered in autumn leaves.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 29,
-      "view_count": 2625,
-      "copy_count": 3667,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "local_path": "images/portrait-photography/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/ec4fed3b-fe3a-4e44-ae5d-a99f78c2811e.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Romantic Autumn Couple Walk Portrait AI Photo Editing Prompt. AI generated realistic photo of a couple walking hand-in-hand and looking lovingly at each other on a forest path covered in autumn leaves."
-        },
-        {
-          "filename": "f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "local_path": "images/portrait-photography/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/f0ce1c71-7b6f-474a-acb8-bdba1d62f1f4.webp",
-          "width": 1792,
-          "height": 2390,
-          "alt": "Autumn Woods Cinematic Photography AI Photo Prompt. AI generated realistic photo of a stylish couple in autumnal outfits, holding hands and walking together in a dense forest path covered in fallen leaves."
-        },
-        {
-          "filename": "56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "local_path": "images/portrait-photography/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/56917eec-9241-46b8-aa5b-fe6a8f1e4f0b.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "AI generated lifestyle portrait of a young couple walking arm-in-arm and holding hands on a path covered with fallen brown leaves in a dense autumn forest."
         }
       ]
     },
@@ -2599,45 +2413,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "AI generated studio portrait of a sharp-featured man with a buzz cut and round sunglasses in dramatic dark lighting."
-        }
-      ]
-    },
-    {
-      "id": "6a3ac528bf79ee5252c368bf",
-      "title": "Candlelit Evening on a Floral Woven Heart Swing",
-      "slug": "romantic-swing-photo-portrait",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "Create a Photorealistic, ultra-high-resolution portrait of an elegant woman seated gracefully on a rustic wooden swing, perfectly centered within a giant illuminated heart-shaped wreath crafted from intertwined branches and wrapped in warm golden fairy lights. She wears a flowing ivory-white one-shoulder evening gown with delicate floral appliqué detailing on the shoulder, complemented by sparkling diamond earrings, necklace, bracelets, and rings. Her long, softly curled hair cascades over her shoulders as she gazes directly at the camera with a gentle, confident smile. Her pose is poised and graceful, sitting upright with relaxed shoulders, hands gently resting on her lap, and one leg elegantly crossed forward. The composition is perfectly centered and balanced, emphasizing symmetry between the illuminated heart wreath and the subject. The scene is set in a luxurious outdoor garden at night, surrounded by lush greenery and glowing decorative lights, with glowing candles placed along the ground. The background is rendered with a creamy shallow depth of field and rich golden bokeh, creating a romantic and dreamy atmosphere. Eye-level composition, full-body shot, cinematic warm lighting, sharp focus on the subject, natural skin tones, professional portrait photography, highly detailed fabric textures, realistic lighting and shadows, premium wedding editorial style, 8K resolution, 85mm portrait lens, f/1.8, photorealistic quality.\nAspect ratio: 4:5.",
-      "description": "Romantic Portrait Photography Prompt: Copy and paste this prompt to generate a stunning, high-quality image of an elegant woman in a white gown posing on a romantic, fairy-light-decorated heart swing in a candlelit garden.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1532,
-      "copy_count": 2672,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "local_path": "images/portrait-photography/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Romantic Heart Swing Portrait AI Photo Editing Prompt. AI generated realistic portrait of an elegant woman in a white gown sitting on a wooden swing under a large, glowing heart-shaped arch decorated with fairy lights and foliage in a candlelit garden."
-        },
-        {
-          "filename": "b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "local_path": "images/portrait-photography/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Romantic Heart Swing Portrait AI Photo Editing Prompt. AI generated realistic portrait of an elegant woman in a white gown sitting on a wooden swing under a large, glowing heart-shaped arch decorated with fairy lights and foliage in a candlelit garden."
         }
       ]
     },
@@ -4216,55 +3991,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267046a",
-      "title": "The Offering",
-      "slug": "the-offering",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "Create an 8K ultra-realistic full-body fashion editorial portrait of a man, captured at eye level. He is seated on a matte red cube against a seamless deep red studio background, maintaining a strong monochromatic aesthetic.\nUse the uploaded image as the primary identity reference. \nFace Accuracy (Critical) Match the face with 100% identity accuracy. Preserve exact facial structure, bone anatomy, grooming details, jawline, cheekbones, and forehead proportions.\nSubject & Styling:\n\nA tattooed man with neatly styled hair, wearing a perfectly tailored black suit with a slightly open black shirt, revealing a subtle chest detail. He exudes a strong, masculine luxury presence.\nPose & Composition:\n\nThe man is seated on a matte red cube, legs slightly apart in a relaxed yet dominant posture. One hand rests naturally on his knee, while the other holds a bouquet of fresh red roses.\n\nFull-body composition, perfectly centered, balanced framing.\nExpression:\n\nIntense, moody, confident gaze directed toward the camera. Slightly serious, emotionally restrained, with a hint of mystery.\nEnvironment & Background:\n\nSeamless deep red studio background with a monochromatic aesthetic (floor + backdrop blended). Clean, minimal, no distractions.\nLighting:\n\nSoft yet dramatic studio lighting with controlled shadows. High contrast with subtle highlights on face, suit texture, and roses. Cinematic mood.\nDetails:\n\nPolished black leather boots\nVisible suit texture and fabric realism\nNatural skin texture (no over-smoothing)\nFresh, richly colored red roses with realistic petals\nStyle & Quality:\n\nLuxury fashion editorial, magazine-quality photography, ultra-realistic, 8k high details, cinematic Valentine-inspired styling, shallow depth of field.\nAspect Ratio: 4:5",
-      "description": "High-Fashion Studio Portrait Prompt: Create a professional editorial photo of a stylish bearded man in a black suit holding red roses against a bold red background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 38,
-      "view_count": 766,
-      "copy_count": 1649,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "local_path": "images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man in Black Suit with Red Roses AI Photo Editing Prompt. AI generated studio portrait of a bearded man in a black suit holding a bouquet of red roses against a solid red background."
-        },
-        {
-          "filename": "man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "local_path": "images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man in Black Suit with Red Roses Portrait Prompt. AI generated studio portrait of a stylish man in a black suit sitting on a red cube and holding a bouquet of red roses against a solid red background."
-        },
-        {
-          "filename": "man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "local_path": "images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/man-in-black-suit-holding-red-roses-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Men's Fashion Prompt. AI generated studio portrait of a tattooed man in a black suit holding red roses while sitting on a red cube."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670463",
       "title": "The Stages of Life",
       "slug": "aging-process-man-life-stages-progression",
@@ -4975,35 +4701,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670417",
-      "title": "Golden Hour Heart",
-      "slug": "romantic-couple-heart-hands-sunset",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "Create a hyper-realistic, 8K cinematic portrait of a couple standing outdoors during a vibrant golden-hour sunset. The composition is a centered mid-thigh-up shot with an intimate, romantic atmosphere. The mood should feel warm, joyful, and emotionally connected. Maintain accurate identity and precise face matching to the provided reference image for both subjects — preserve exact facial structure, proportions, skin tone, hairlines, and overall likeness. Do not alter or invent any facial features.\n\nFemale Subject (Left)\nNatural hair with a slightly off-center part, softly styled with gentle volume and natural flow. Smooth, natural complexion with realistic skin texture. A soft, genuine smile. Relaxed eyes looking directly into the camera. She is wearing a soft pink, off-shoulder chiffon dress with a fitted bodice and flowing skirt. The fabric appears lightweight and slightly gathered at the waist, creating elegant, natural folds. The neckline sits gracefully off the shoulders, enhancing the romantic aesthetic.\n\nMale Subject (Right)\nNatural hair and complexion with a well-defined facial structure. A genuine smile. Eyes slightly crinkled at the corners, looking directly into the camera. He is wearing a crisp white dress shirt(no tie). The shirt is neatly tucked into tailored dark trousers (black), secured with a black belt. The overall look is clean, polished, and semi-formal.\n\nPose & Interaction\nThey stand shoulder-to-shoulder, very close together. The male subject’s right arm wraps gently behind the female’s waist. The female’s left hand rests near her waist. Their hands meet at the center, forming a symmetrical heart shape — the female uses her right hand (forming the left half of the heart), and the male uses his left hand (forming the right half). Fingers are naturally curved to create a clean, balanced heart silhouette.\n\nLighting Setup\nThere is no visible sun disc in the background — only a luminous, glowing sunset sky.\nA strong, warm directional light source enters from the top-right edge of the frame, positioned slightly behind and above the couple. This light acts as the primary back/rim light and defines the scene’s structure and depth.\n\nHair Lighting\nIntense golden rim light outlining the subject’s left edges of both subjects hair\nDistinct glowing hair strands, Clean edge separation from the background\n\nFacial Lighting\nStrong highlight on the male subject’s left forehead edge, cheekbone, and jawline\nWarm illumination along the female subject’s left cheek and hairline\nSmooth, natural highlight roll-off across skin\nGentle shadow falloff on the frame-left side of both faces, creating dimensional contrast\nDefined but soft modeling — not flat or evenly balanced\n\nHand & Heart Shape Lighting\nNoticeable warm highlight along the right curve of the heart shape\nBright edge highlights on the male’s left-hand outer fingers\nSubtle golden reflection on the female’s right-hand upper finger curve\nKnuckles and finger edges catching the directional rim light\nRealistic skin reflectivity with cinematic highlight falloff\n\nFill Light\nA very subtle, diffused warm front fill light gently lifts the shadow areas just enough to retain skin detail without flattening the directional contrast.\n\nOverall Lighting Feel\nDirectional\nCinematic\nWarm\n\nBackground\nA dramatic sunset(no visible sun disc) sky featuring deep oranges, golden yellows, soft pinks, and subtle purples. Blurred rolling hills and a distant horizon create depth. Ultra-smooth, creamy bokeh enhances the cinematic feel.\n\nTechnical Specifications\nEye-level camera angle\n\nMedium shot (mid-thigh-up framing)\n\nExtremely shallow depth of field (f/1.4 – f/1.8 look)\n\nSubjects in razor-sharp focus\n\nBackground heavily blurred\n\nCinematic color grading\n\nHyper-detailed textures (skin, fabric, hair strands)\n\nPhotorealistic rendering\n\nNatural skin tones with no artificial or plastic appearance\nAspect ratio 4:5\n\nNegative Prompt:\nvisible sun disc in the background, overexposed background, underexposed background, pose changes, lighting changes, low-quality rendering, blurred faces.",
-      "description": "Google Gemini AI Photo Editing Prompt: Use this prompt to generate a romantic sunset portrait of a smiling couple forming a heart with their hands in a scenic outdoor setting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 167,
-      "view_count": 7493,
-      "copy_count": 24295,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-sunset-heart-portrait-by-promptplum.webp",
-          "local_path": "images/portrait-photography/couple-sunset-heart-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-sunset-heart-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/couple-sunset-heart-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/couple-sunset-heart-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Couple Making Heart Shape at Sunset Photography Prompt. AI generated portrait of a smiling young couple in formal attire posing outdoors during golden hour while forming a heart with their hands."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670416",
       "title": "The Weight of Thought",
       "slug": "serious-man-thinking-bw-portrait",
@@ -5272,85 +4969,6 @@
           "width": 1696,
           "height": 2528,
           "alt": "Man in Fur Coat with Black Panther AI Photo Editing Prompt. AI generated high-fashion studio portrait of a man in a black fur coat and silver sunglasses sitting beside a black panther."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703fc",
-      "title": "The Perfect Pair",
-      "slug": "studio-portraits-people-and-pets",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "IDENTITY & CONNECTION (STRICT PRIORITY): Ultra-realistic 8K professional studio portrait based strictly on the provided reference images for both the human and the pet. 100% anatomical and facial identity match (structure, asymmetry, skin details, species anatomy, fur markings/texture; NO beautification or smoothing). The subjects share a genuine, warm, and affectionate emotional bond with natural, happy expressions, posed closely together in a candid, interacting manner.\nCOMPOSITION & ATTIRE: Vertical 4:5 aspect ratio. Mid-torso upward framing (ensuring heads, ears, and muzzles are fully visible, not cropped). The human wears premium, minimalist modern casual attire (e.g., high-quality fitted t-shirt, knitwear, or casual jacket) in neutral or earth tones with visible natural fabric texture and minimal/no branding.\nSTUDIO ENVIRONMENT & LIGHTING: Professional seamless studio gradient background, specifically structured to transition smoothly from darker tones at the outer edges to the lightest area directly behind the subjects’ faces for separation (e.g., deep-to-soft teal, brown, or blue). Soft, diffused professional studio lighting optimized for realistic skin tones and fur rendering, with gentle rim light to define edges and no harsh shadows.\nTECHNICAL SPECS: Shot on a full-frame camera with an 85mm portrait lens at f/2 aperture. Shallow depth of field with ultra-sharp focus centered on both subjects' eyes, showing individual hair strands, fur density, and natural skin pores. Maximum photorealism.",
-      "description": "Gemini said\nGoogle Gemini AI Portrait Editing Prompt: Use this prompt to generate heartwarming studio portraits of owners and their pets. It creates professional, high-quality photographs capturing affectionate bonds between people and animals against clean, atmospheric backgrounds.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 46,
-      "view_count": 819,
-      "copy_count": 1791,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "person-and-pet-studio-portrait-by-promptplum-3.webp",
-          "local_path": "images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman with Grey Cat AI Photo Editing Prompt. AI generated studio portrait of a smiling woman with strawberry blonde hair wearing a beige knit sweater while holding a grey British Shorthair cat."
-        },
-        {
-          "filename": "person-and-pet-studio-portrait-by-promptplum-5.webp",
-          "local_path": "images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-5.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man and Bulldog in Olive Sweater AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a dark green ribbed sweater posing closely with a brown and white English Bulldog."
-        },
-        {
-          "filename": "person-and-pet-studio-portrait-by-promptplum-1.webp",
-          "local_path": "images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman and Ginger Cat Winking AI Photo Editing Prompt. AI generated studio portrait of a young woman in a grey sweater holding an orange tabby cat with both sticking their tongues out."
-        },
-        {
-          "filename": "person-and-pet-studio-portrait-by-promptplum-2.webp",
-          "local_path": "images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Boy and Golden Retriever Puppy AI Photo Editing Prompt. AI generated studio portrait of a laughing boy in a green sweater as a golden retriever puppy licks his cheek."
-        },
-        {
-          "filename": "person-and-pet-studio-portrait-by-promptplum-4.webp",
-          "local_path": "images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman and Australian Shepherd Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling woman leaning her head against a fluffy brown and white dog."
-        },
-        {
-          "filename": "person-and-pet-studio-portrait-by-promptplum-6.webp",
-          "local_path": "images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/person-and-pet-studio-portrait-by-promptplum-6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/person-and-pet-studio-portrait-by-promptplum-6.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man and Golden Retriever AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a grey knitted sweater with his head leaning against a Golden Retriever dog."
         }
       ]
     },
@@ -5769,45 +5387,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Dramatic Spotlight Portrait AI Prompt. AI generated dramatic portrait of a serene young woman with eyes closed, in a black t-shirt, centered within a precise circular spotlight casting a shadow."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701f2",
-      "title": "Indian Couple 90s Bollywood",
-      "slug": "bollywood-couple",
-      "category": "Portrait Photography",
-      "category_slug": "portrait-photography",
-      "prompt": "Use the uploaded image strictly as the ONLY face and identity reference.\nCreate a cinematic 8K portrait of a couple standing side-by-side against a textured rustic terracotta wall, illuminated by warm golden hour sunlight that casts soft shadows and enhances skin tones.\nComposition & Framing:\nMedium full shot (knee to slightly above head), vertical 4:5 aspect ratio. Subjects centered with balanced negative space. Clean background with subtle wall texture, no distractions.\nPose & Interaction:\nThe couple stands close together, gently holding hands. Both bodies slightly angled toward each other. They share a soft, affectionate gaze, creating an intimate and nostalgic mood.\nExpression:\nNatural, calm, and warm expressions with slight smiles. Eyes focused on each other, conveying romantic connection.\nOutfit Details:\nWoman: Navy-blue velvet blouse with intricate gold embroidery, paired with a black lehenga featuring rich gold floral patterns. A visible layered white underskirt adds depth. She wears a flowing red dupatta with gold border detailing draped elegantly. Accessories include large traditional gold earrings and a red rose tucked into her hair.\nMan: Black embroidered Chikan kurta with detailed white threadwork on the neckline, paired with tailored black trousers.\nHair & Styling:\nNatural, well-groomed hair. Soft, realistic texture with subtle movement. No artificial shine.\nLighting:\nWarm golden hour sunlight from the side, creating soft highlights on faces and gentle shadows on the wall. Natural light falloff for cinematic depth.\nBackground:\nMinimal rustic terracotta wall with slight imperfections and texture. No people or distractions in the background.\nStyle & Mood:\nCinematic, nostalgic 90s Bollywood print-photo aesthetic. Slight film grain, soft contrast, warm color grading, and subtle vignette for vintage realism.\nTechnical Details:\nUltra-realistic, 8K resolution, shallow depth of field (light background softness), sharp focus on subjects, natural skin texture (visible pores), no plastic or CGI look.",
-      "description": "Traditional Couple Portrait Prompt: Use this prompt to create a romantic photograph of an Indian couple in a black kurta and red lehenga against a rustic wall.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 173,
-      "view_count": 9701,
-      "copy_count": 24545,
-      "is_premium": false,
-      "published_at": "2026-09-20T00:58:05.956Z",
-      "images": [
-        {
-          "filename": "a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "local_path": "images/portrait-photography/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "width": 1888,
-          "height": 2254,
-          "alt": "Indian Couple Traditional Portrait Photography AI Photo Editing Prompt. AI generated photograph of a couple in elegant wedding attire, holding hands and sharing a warm gaze against a textured terracotta wall."
-        },
-        {
-          "filename": "cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "local_path": "images/portrait-photography/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/portrait-photography/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/portrait-photography/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Indian Couple Ethnic Portrait AI Photo Editing Prompt. AI generated photographic portrait of a young Indian couple in elaborate ethnic wear holding hands and looking at each other against a terracotta wall."
         }
       ]
     }

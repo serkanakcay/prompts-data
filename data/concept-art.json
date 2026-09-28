@@ -1,7 +1,7 @@
 {
   "category": "Concept Art",
   "slug": "concept-art",
-  "total_prompts": 47,
+  "total_prompts": 38,
   "updated_at": "2026-09-24T12:53:52Z",
   "prompts": [
     {
@@ -192,64 +192,6 @@
       ]
     },
     {
-      "id": "6a887de54bbdbe2cf5cda9c6",
-      "title": "Adorable Miniature Couple Digital Illustration",
-      "slug": "miniature-couple-digital-illustration",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "Create a heartwarming, ultra-detailed 3D chibi-style couple scene, designed like a miniature handcrafted figurine. Preserve the facial identity of both reference characters with maximum face matching accuracy. Adapt their real facial features naturally into the cute 3D chibi style while keeping both identities clearly recognizable. A cute man and woman sit closely together on a giant human single hand palm, with the man wearing a neatly, white button-up shirt, white trousers, brown loafers, and a wristwatch. He has a, expressive eyes, and a slightly pouty/cute serious expression. The woman sits beside him wearing a white sleeveless crochet/lace dress, white flats, traditional red-and-white bangles, long straight hair, expressive large eyes, and a cute pouty expression. Her arm rests affectionately around his shoulder. Both are looking directly at the camera.\nComposition: Centered medium-full miniature couple, both figures fully visible and sitting naturally on the palm, with a large supporting hand beneath them. In the blurred background, include same two tiny chibi couples on opposite sides appearing to playfully argue, with small floating red heart icons.\nStyle & Details: High-end Pixar-inspired 3D character design, adorable oversized heads, realistic miniature proportions, smooth skin, expressive facial features, detailed fabric and lace textures, polished CGI finish, soft rounded forms, subtle subsurface scattering, realistic hands and fingers, charming storytelling composition.\nBackground: Warm indoor classroom/studio-like environment with desks, boards, and shelves softly blurred into the background, cinematic bokeh circles and shallow depth of field.\nLighting: Soft warm diffused indoor lighting, gentle highlights on the characters, subtle rim light, natural shadows, cinematic depth, warm pastel color palette.\nCamera: Eye-level close-up, slightly low perspective toward the miniature couple, shallow depth of field, 85mm lens, f/1.8, cinematic focus, ultra-detailed textures, photorealistic 3D rendering, 8K quality, HDR, clean composition, vertical 4:5 aspect ratio.\nNegative prompt: no multiple human palm, blurry faces, distorted anatomy, malformed hands, extra limbs, low detail, text, watermark, logo, background people, cropped characters.",
-      "description": "3D Chibi Illustration Prompt: Copy & paste this prompt to create a cute digital artwork of a miniature couple sitting on a giant hand, with tiny arguing versions of themselves in a classroom background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 1059,
-      "copy_count": 1577,
-      "is_premium": false,
-      "published_at": "2026-08-21T16:33:41.834Z",
-      "images": [
-        {
-          "filename": "637425cf-1c7a-4132-81a4-9117cf9deedf.jpeg",
-          "local_path": "images/concept-art/637425cf-1c7a-4132-81a4-9117cf9deedf.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/637425cf-1c7a-4132-81a4-9117cf9deedf.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/637425cf-1c7a-4132-81a4-9117cf9deedf.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/637425cf-1c7a-4132-81a4-9117cf9deedf.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "3D Chibi Couple Sitting on Giant Hand in Classroom AI Photo Editing Prompt. AI generated 3D digital illustration of a miniature chibi couple in white outfits sitting on a giant open palm, with tiny arguing versions of themselves in the classroom background."
-        }
-      ]
-    },
-    {
-      "id": "6a76bac94bbdbe2cf5250f3d",
-      "title": "Cliffside Couple Sculpture AI Prompt",
-      "slug": "mountain-face-carving-couple-art",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "A professional dual portrait of a man and a veiled woman side-by-side from the head and shoulders up, their features perfectly identical to the reference images. Both of their profiles are beautifully carved into a massive coastal mountain overlooking the sea. The man features a neatly trimmed mossy beard and rocky hair, while the woman wears a hijab formed from elegant, flowing layers of grey granite rock. Patches of green alpine vegetation and moss accent their stone features. The background is a vast ocean landscape with deep teal water and towering sea cliffs under clear daylight, keeping a unified cool color palette. Calm expression. 3:4 aspect ratio.",
-      "description": "Use this Epic Fantasy Landscape Prompt to generate cinematic photos of colossal stone couple faces carved into towering sea cliffs, overlooking a dramatic fjord.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 440,
-      "copy_count": 419,
-      "is_premium": false,
-      "published_at": "2026-08-08T05:12:41.060Z",
-      "images": [
-        {
-          "filename": "c0519664-a873-457d-a777-3317e89831a6.webp",
-          "local_path": "images/concept-art/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Epic Sea Cliff Carvings AI Photo Editing Prompt. An AI-generated digital illustration of a giant stone couple faces carved into a coastal cliff."
-        }
-      ]
-    },
-    {
       "id": "6a568e2da3af6f12209c7785",
       "title": "Man in Yellow Cap Colored Pencil Sketch",
       "slug": "colored-pencil-sketch-man-yellow-cap",
@@ -324,35 +266,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Bearded Pensive Man Sketch AI Photo Editing Prompt. AI generated pencil-style digital portrait of a mature man with swirling smoke and ink splatters."
-        }
-      ]
-    },
-    {
-      "id": "6a3fffbee1ceda640e65ef0e",
-      "title": "The Giant's Breath",
-      "slug": "surreal-giant-miniature-woman-art",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "Create a high-quality digital painting, semi-realistic stylized illustration, whimsical surrealism, ultra-detailed painterly rendering with smooth blended textures, soft gradients, and a highly polished cinematic finish.\nSubject 1 (Giant Figure): A youthful person with a Smooth glowing skin. Features include glossy, softly tinted lips, subtle eyeliner, dark eyes, and large polished gold hoop earrings.\nSubject 2 (Miniature Figure): A tiny exact replica of the main subject, maintaining identical facial features, hairstyle, and styling details.\nOutfits: Both figures wear a cozy cream-colored ribbed knit turtleneck sweater with visible woven texture and soft natural folds. The miniature figure additionally wears a brown plaid pleated skirt paired with classic white lace-up sneakers.\nPose & Interaction: The giant figure gently extends one hand forward with the palm facing upward, carefully supporting the miniature figure standing on it. The larger figure leans forward with softly pursed lips, blowing a visible stream of stylized wind toward the tiny figure. The airflow appears as elegant swirling semi-transparent white currents with subtle volumetric motion. The miniature figure struggles to maintain balance, leaning backward dramatically with arms raised defensively against the gust.\nExpressions: Calm, focused, and subtly playful expression on the giant figure, with eyes directed downward toward the tiny figure. The miniature figure displays a startled, wide-eyed reaction with an open mouth and tense body language conveying surprise and instability.\nLighting: Soft diffused studio lighting with delicate dewy highlights on the nose tip, cheekbones, eyelids, and glossy lips. Smooth realistic shading enhances facial depth, sweater texture, and hand anatomy. Subtle volumetric illumination interacts naturally with the wind effect.\nBackground: Minimal clean pastel teal-gray backdrop with a soft matte finish, creating strong visual separation while maintaining a calm editorial aesthetic.\nCamera Angle & Composition: Medium close-up composition with an intimate eye-level perspective focused on the larger figure. Macro-style depth and scale contrast emphasize the surreal interaction between the giant and miniature figures. Balanced composition with the hand and tiny figure positioned prominently in the foreground.\nTechnical Details: Ultra-detailed 8K digital artwork, masterpiece quality, semi-realistic anatomy, highly refined knit fabric detailing, individually rendered hair strands, soft cinematic color grading, clean linework, subtle atmospheric depth, volumetric wind effects, smooth painterly shading, premium stylized illustration aesthetic.\nAspect ratio 4:5",
-      "description": "Surreal Digital Art Prompt: Copy & Paste this prompt to create a stylized illustration of a giant woman blowing a gust of wind at a tiny girl on her palm.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 289,
-      "copy_count": 377,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "local_path": "images/concept-art/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/2351fae5-aa67-4da2-a4bc-3e509cf8c344.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Surreal Giant Woman and Miniature Figure Art AI Photo Editing Prompt. AI generated surreal digital illustration portrait of a giant woman in a turtleneck blowing a swirling gust of air onto a tiny, distressed woman standing in her open palm."
         }
       ]
     },
@@ -532,65 +445,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704a1",
-      "title": "Family Silhouette",
-      "slug": "family-silhouette-art-with-quote",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "Use the uploaded image ONLY for face and identity reference of all subjects. Do not alter facial structure, skin tone, age, or likeness. Maintain accurate identity for each person.\nCreate a 4:5 aspect ratio, high-contrast black-and-white cinematic silhouette portrait of a family (mother, father, and child) in an intimate, emotional composition.\n\nComposition & Pose:\nThree subjects in close proximity forming a triangular composition\nChild positioned in the center, facing slightly upward to the mother\nMother on one side and father on the other, both gently leaning toward the child\nParents’ faces angled downward toward the child, creating a soft, loving connection\nCapture only side profiles / semi-profiles (no full frontal face)\n\nLighting (CRITICAL):\nStrong backlight source (bright circular/oval light) directly behind subjects\nSubjects appear as dark silhouettes with soft glowing edge highlights (rim light)\nNo front lighting — faces remain mostly in shadow\nClean separation between subjects and background using light halo\n\nStyle & Mood:\nMinimal, emotional, timeless family moment\nDeep blacks, bright whites, no mid-tone clutter\nSoft gradients around light source, rest pure black\nStudio-like controlled environment\nDetails:\nSubtle visible outlines of hair, nose, lips, and clothing edges\nNatural posture, not stiff or posed\nKeep clothing simple and non-distracting\n\nText (optional, centered bottom):\n“FAMILY” in bold uppercase with wide character spacing\nSubtext: “Where life begins & love never ends”\n\nQuality:\nUltra-realistic, sharp edges, cinematic photography, high contrast, 8K feel\n\nNegative Prompt:\ncolor, flat lighting, front-lit faces, smiling directly at camera, cartoon, illustration, blur, distortion, extra people, shoulder crops, bad anatomy",
-      "description": "Artistic Silhouette Photography Prompt: Use this prompt to generate a minimalist, high-contrast image of a family silhouette against a glowing circular backdrop to capture an intimate moment of eternal love.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 78,
-      "view_count": 2776,
-      "copy_count": 5612,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "local_path": "images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Silhouette Family Portrait AI Photo Editing Prompt. AI generated artistic silhouette portrait of a father, mother, and baby looking at each other against a glowing circular light."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "local_path": "images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Family Silhouette with Quote AI Photo Editing Prompt. AI generated minimalist studio portrait of a mother, father, and child in silhouette looking at each other against a soft circular backlight."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "local_path": "images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated digital silhouette portrait of a father, mother, and young child facing each other against a bright circular glow with a sentimental quote."
-        },
-        {
-          "filename": "family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "local_path": "images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/family-silhouette-with-quote-digital-art-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267049d",
       "title": "Edge of Shadow",
       "slug": "man-glasses-grey-hoodie-profile",
@@ -727,65 +581,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267043a",
-      "title": "Framed in Love",
-      "slug": "happy-family-heart-frame-3d-illustration",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "Create a high-quality 3D stylized cartoon illustration based on submitted references of family members, all peeking out from behind a matte heart-shaped opening. Only their heads, hands (where applicable), and upper torsos should be visible, looking playful and hiding.\nSubjects must be arranged in descending age order.\nThe composition should feature a soft, textured beige. The entire outer background is a beige gradient; the heart-shaped opening borders are the same colour but slightly darker; the inner background is a dark violet gradient, creating a contrast that highlights the brightness of the characters. The style must have a soft Pixar/Disney animation look, with large expressive eyes, smooth skin, and slightly enlarged head proportions for cinematic charm, while retaining the recognizable facial features, hairstyles, and age from the reference photos.\nEveryone is gently holding the edges with small hands/paws and leaning slightly forward with curious, playful expressions. The lighting should be soft studio light with warm, gentle highlights and no harsh shadows.\nThe image must be a 1:1 aspect ratio portrait with centralized framing and shallow depth of field. The final render should be ultra-sharp 4K, in an Octane/Unreal/Disney rendering style.",
-      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to generate a heartwarming 3D animated portrait of a happy family smiling through a heart-shaped cutout.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 1310,
-      "copy_count": 2843,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "local_path": "images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-3.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Family Heart Frame AI Photo Editing Prompt. AI generated 3D Digital Illustration of a smiling family and their Golden Retriever peering through a heart-shaped frame aperture."
-        },
-        {
-          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "local_path": "images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-1.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling family with three children and a golden retriever puppy peeking through a heart-shaped cutout."
-        },
-        {
-          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "local_path": "images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-2.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Happy Family in Heart Frame AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling East Asian family of five peeking through a large heart-shaped cutout against a dark background."
-        },
-        {
-          "filename": "happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "local_path": "images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/happy-family-in-heart-frame-3d-illustration-by-promptplum-4.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Multi-Generational Family Peeking through Heart-Shaped Frame AI Photo Editing Prompt. AI generated stylized 3D digital illustration in a Pixar-esque art style. A diverse and smiling group of six people—mother, father, grandmother, and three children—peers out joyfully from a large heart-shaped opening in a wall, set against a deep purple background."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670427",
       "title": "Pixel-Perfect Portrait",
       "slug": "3d-animated-pixar-style-woman",
@@ -894,85 +689,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670418",
-      "title": "Editorial Avatars",
-      "slug": "editorial-avatars",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "Create an exaggerated, stylized 3D caricature portrait of the two people in the attached reference photo, Full-body (head-to-toe) shot. Preserve both subjects' identities, facial likenesses, skin tones, and defining features, but reinterpret them into bold, caricatured 3D forms with full-body proportions.\nApply strong, intentional deformation to each character, including elongated necks, oversized head-to-neck ratios, droopy eyelids, heavy lips, and subtle facial asymmetry. Extend the exaggeration into their full-body proportions so the stylization feels cohesive from head to toe. Slight proportional variations between the two characters should enhance individuality and personality contrast while keeping them visually harmonious. They must remain human-like but clearly stylized, expressive, and artistically exaggerated.\nPosition them in a dynamic, character-driven full-body composition that reflects chemistry and connection — standing close, subtly interacting, or posed in a high-fashion editorial stance. Their body language should feel intentional and cohesive rather than romanticized or cute.\nThe camera angle must be eye-level, aligned naturally with the characters’ faces to maintain presence and balance. Use a straight-on perspective with no dramatic tilt, distortion, or extreme wide-angle effects. The framing should capture both characters fully from head to toe while maintaining proportional clarity and compositional symmetry.\nDress both characters in coordinated luxury fashion with bold, high-end accessories. Their styling should complement each other while maintaining individuality, creating a weird, fashion-forward, collectible aesthetic that feels elevated and character-driven rather than realistic or cartoonish.\nUse a clean, controlled surface finish with smooth, studio-quality skin for both subjects. Avoid random textures, blemishes, freckles, dirt, grain, speckling, or noise. Materials should appear polished, premium, and carefully designed, with subtle subsurface scattering and realistic skin shading.\nIlluminate the scene with neutral studio lighting, soft diffused shadows, and even illumination with no harsh contrast. Use a plain neutral gray or off-white background.\nRender in ultra-high definition 4K quality with extreme detail, sharp focus, and cinematic clarity. Include micro-surface detail, high-resolution textures, physically based rendering (PBR), global illumination, soft reflections, and refined material definition. The image should appear crisp, clean, noise-free, and professionally studio-rendered.\nNo text, logos, or watermarks.\nAspect ratio: 4:5.\nNegative prompt: Cropped frame, low quality, head crop, toe crop",
-      "description": "Google Gemini AI Illustration Editing Prompt: Use this prompt to generate stylish 3D character portraits of high-fashion duos. These images feature diverse couples in designer-inspired editorial outfits with a modern, stylized aesthetic.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 36,
-      "view_count": 748,
-      "copy_count": 1288,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "local_path": "images/concept-art/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "local_path": "images/concept-art/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "local_path": "images/concept-art/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "local_path": "images/concept-art/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-5.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "local_path": "images/concept-art/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "local_path": "images/concept-art/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/high-fashion-duo-digital-art-by-promptplum-6.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703ea",
       "title": "Floating World Dioramas",
       "slug": "3d-country-map-landmarks-illustration",
@@ -1048,35 +764,6 @@
           "width": 1856,
           "height": 2304,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703e6",
-      "title": "Golden Hour Serenade",
-      "slug": "romantic-couple-lake-picnic-animation",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "Ultra-HD 16K Pixar/Disney-style 3D cinematic portrait of a young romantic couple sitting together on a pastel picnic blanket beside a calm lakeside during golden hour. Vertical composition, mid-full-body framing, eye-level perspective, ultra-high-detail rendering with soft, cinematic depth-of-field.\nFace Match & Identity Accuracy:\n\nPreserve the exact facial identity, proportions, and structure of both characters with no alterations. Female has a soft round face, delicate cheeks, small natural nose, closed gentle smile, smooth skin, and large expressive eyes (closed in a peaceful emotional moment). Male has a soft masculine face, gentle jawline, relaxed lips, natural skin texture, and closed peaceful eyes. Maintain accurate face proportions, symmetry, skin softness, and Pixar-level facial realism while preserving their exact identity and emotional expression.\nHair Details:\n\nFemale has mid-length soft wavy brown hair with natural volume, subtle shine, and small colorful floral accessories placed delicately on the side. Individual strands visible, smooth Pixar hair rendering.\n\nMale has softly styled brown hair with natural flow, subtle texture, and gentle volume, clean and neatly groomed.\nPose & Emotional Interaction (Highly Important):\n\nBoth subjects are sitting closely facing each other on a picnic blanket. Their bodies lean gently inward, foreheads touching softly in an intimate emotional connection. Their hands are gently holding each other at the center, fingers naturally intertwined. Both have closed eyes with calm, peaceful expressions, conveying deep romantic warmth, trust, and emotional intimacy. Posture relaxed, natural, and organic — not posed or stiff.\nClothing Details:\n\nFemale wears a soft pastel floral vintage dress with delicate patterns, light fabric folds, and natural cloth physics. Barefoot, feet resting naturally on the blanket.\n\nMale wears a beige knitted sweater with visible soft fabric texture, subtle folds, and brown trousers paired with brown leather boots. Materials rendered with realistic Pixar-style softness.\nEnvironment & Nature Details:\n\nScene takes place beside a peaceful reflective lake surrounded by soft green grass and distant trees. The lake surface shows gentle ripples reflecting warm sunlight. Background includes soft rolling hills and stylized rounded trees typical of Pixar environments. Small floating dust particles and glowing atmospheric pollen gently visible in the air, enhancing magical realism.\nProp Details:\n\nA vintage gramophone sits beside them on the blanket, rendered in polished wood and brass materials. Soft musical notes subtly floating near it, indicating gentle romantic music playing.\nLighting & Tone:\n\nWarm golden-hour sunset lighting from behind and slightly above, creating soft rim lighting around hair and silhouettes. Gentle warm highlights on skin and clothing. Soft shadows, dreamy glow, volumetric light rays, and warm romantic color grading. Overall tone peaceful, emotional, nostalgic, and intimate.\nRendering Quality & Style:\n\nPixar / Disney-quality 3D rendering with ultra-smooth surfaces, soft global illumination, subsurface skin scattering, realistic cloth simulation, and highly detailed stylized realism. Clean render, ultra-sharp focus on subjects, creamy background blur, cinematic color balance, pastel color harmony, gentle filmic softness.\nFinal Quality Tags:\n\n16K resolution, 4:5 aspect ratio, Ultra HD, Pixar animation quality, cinematic rendering, soft romantic tone, emotional storytelling frame, high polygon detail, physically based rendering, volumetric lighting, subsurface scattering, global illumination, perfect facial fidelity, masterpiece quality.",
-      "description": "Google Gemini AI 3D Illustration Prompt: Use this prompt to create a heartwarming 3D animated scene of a romantic couple on a lakeside picnic, featuring soft sunset lighting and a vintage gramophone.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 31,
-      "view_count": 1155,
-      "copy_count": 2034,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "romantic-couple-3d-illustration-by-promptplum.webp",
-          "local_path": "images/concept-art/romantic-couple-3d-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-3d-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/romantic-couple-3d-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/romantic-couple-3d-illustration-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple Picnic AI Photo Editing Prompt. AI generated 3D digital illustration of a young couple sitting on a floral blanket by a lake at sunset, holding hands and touching foreheads while a vintage gramophone plays music."
         }
       ]
     },
@@ -1203,95 +890,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Impasto oil painting of a muscular man in a white tank top. Thick brushstrokes and paint drips on a textured grey background create a rugged, cinematic intensity."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267038b",
-      "title": "Vintage Beachside Vacation",
-      "slug": "vintage-beachside-vacation",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "Reference Usage (Safe & Compliant)\n\nUse the uploaded reference images only as visual guidance for facial features and overall appearance of both people.\n\nPreserve strong resemblance, facial proportions, hairstyle, and natural expression.\n\nNo age change, no beautification, no face morphing.\nScene & Style\nCreate a vibrant, high-end 3D caricature (bobblehead) couple portrait with oversized heads and expressive faces, while keeping realistic skin, fabric, metal, and water textures.\nStyle:\n\nPremium Pixar / Gemini-like realism\nClean, polished, ultra-detailed\nCommercial-quality 3D render\nSubjects & Pose\nA man and a woman sit side-by-side on the front hood edge of a vintage 1950s-style pickup truck parked on a sunny beach.\nMan (left):\n\nNatural hair, well-groomed beard (if present)\nBig friendly grin, wide open eyes\nOutfit matches the reference image\nWoman (right):\n\nNatural hair tied back\nLaughing joyfully (natural smile, slightly squinted eyes)\nOutfit matches the reference image\nFootwear rule (important):\n\nBoth subjects are barefoot.\n\nNo shoes, slippers, or sandals.\n\nNatural toes, relaxed feet posture.\n\nTheir legs hang naturally over the hood edge, giving a relaxed vacation vibe.\nBackground & Environment\nBright tropical beach with clear turquoise water.\nWater interaction (important):\n\nGentle ocean water reaches the truck tires\nVisible soft splashes and ripples around the tires\nWhite foam, wet sand reflections\nShallow, calm water — no dramatic waves\nDistance:\n\nTropical shoreline with lush green trees\nSubtle beach curve\nRight side:\n\nTall palm trees leaning toward the ocean\nIndividual leaves visible\nSky:\n\nMid-day summer daylight\nBright sun overhead\nWarm, natural tones\nScattered soft clouds\nNo sunset, no golden hour, no evening mood\nVehicle\nVintage pickup truck with:\n\nPolished silver/blue metallic paint\nChrome grille, bumper, and headlight rings\nHighly reflective surfaces showing sky, sand, and water\nClean, showroom condition\nLighting & Camera\nMid-day natural sunlight\nBright, neutral light\nSoft natural shadows\nNo dramatic contrast\nEye-level camera\nMedium shot\nCentered composition\nShallow depth of field (background slightly soft)\nUltra-sharp faces, fabric texture, and water detail\nBrand Signature (Subtle)\nAdd a small handwritten-style signature text:\nPromptPlum.com ❤️\nPlacement: bottom-right or bottom-left corner\n\nStyle: elegant, handwritten, premium\n\nColor: soft white or charcoal\n\nNo glow, no shadow, no emboss\n\nMust not overlap faces or main subjects\n\nMust feel naturally composited\nOutput Quality\nUltra-detailed 3D render\nRealistic materials\nHigh resolution\nCrisp edges\nNo noise\nPremium commercial finish\nAspect ratio: 4:5 (portrait)\nNegative Prompt\nWatermark, sparkles, icons, shoes, slippers, sandals, low resolution, blurry faces, wrong likeness, extra fingers, deformed hands, incorrect body shape, plastic skin, harsh shadows, neon colors, cartoon outlines, cluttered background.",
-      "description": "Get the ultimate AI image prompt for creating a 3D romantic caricature couple on a beach vacation. Generate stunning, Pixar-style illustrations featuring a happy couple sitting on a vintage truck with tropical palm trees, ocean waves, and cinematic lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 80,
-      "view_count": 1516,
-      "copy_count": 3071,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "local_path": "images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A joyful 3D caricature of a smiling couple sitting on the hood of a vintage blue truck at a tropical beach, surrounded by palm trees and turquoise water."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "local_path": "images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "local_path": "images/concept-art/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple on a vintage blue truck at a tropical beach. The woman wears a floral saree, the man a green t-shirt. Sunny ocean backdrop with palm trees."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "local_path": "images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "local_path": "images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple sitting on a vintage truck at a sunny tropical beach with palm trees and ocean waves. A romantic vacation illustration."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "local_path": "images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "local_path": "images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple on a silver truck's hood at a tropical beach. Sunny sky, palm trees, and ocean waves create a vibrant, romantic vacation vibe with a cinematic finish."
         }
       ]
     },
@@ -1670,35 +1268,6 @@
           "width": 1299,
           "height": 1590,
           "alt": "Gemini AI Generated: a striking, stylized digital illustration of a man pointing his right index finger directly at the viewer with an intense and commanding expression. He has short, wavy, salt-and-pepper hair, a well-groomed beard, and piercing blue eyes, and is dressed in a simple, fitted black T-shirt. The artwork uses a clean, comic-book-inspired style with bold outlines and distinct shading to highlight his facial features and musculature. The background contrasts a deep black void with a dynamic explosion of gold paint splatters and thin geometric gold frames behind him, creating a high-energy, dramatic composition."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670328",
-      "title": "Brushstrokes of Serenity",
-      "slug": "brushstrokes-of-serenity",
-      "category": "Concept Art",
-      "category_slug": "concept-art",
-      "prompt": "A striking digital expressionist portrait artwork created with strong likeness to the attached reference image. The subject is a young woman shown in a subtle three-quarter, near-frontal view. She has softly defined feminine facial features, expressive warm brown eyes, naturally arched eyebrows, and smooth, well-balanced facial proportions. Her expression is calm and confident with a gentle, relaxed smile, conveying warmth, elegance, and approachability.\nHer hair is thick and voluminous, styled in loose natural waves or soft curls that frame the face organically, adding movement and texture to the composition. Skin tones are warm and natural, rendered with painterly realism — visible brush texture, soft tonal layering, and no plastic smoothness.\nThe artwork blends stylized realism with expressive, textured brushwork. Facial structure is clearly defined using confident directional strokes and smooth color transitions, maintaining realistic anatomy while embracing an illustrated, fine-art finish.\nLighting is cinematic and painterly, featuring a balanced dual-tone color scheme: warm highlights softly illuminate one side of the face, enhancing cheekbones and facial contours, while cool blue undertones shape the opposite side, creating depth and visual contrast without harsh division. The lighting feels artistic rather than photographic.\nThe subject wears a simple, dark, minimal outfit with soft folds, painted in deep neutral tones to keep visual focus on the face and expression.\nThe background remains abstract and minimal, composed of loose sketch lines, expressive brush strokes, and fragmented paint textures in white, light grey, and muted blue shades. The background feels intentionally unfinished, adding energy and modern artistic character without distracting from the subject.\nOverall mood is modern, expressive, and refined — a contemporary digital painting with editorial illustration quality, rich surface texture, confident color blocking, and gallery-style sophistication.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 58,
-      "view_count": 1267,
-      "copy_count": 2145,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "local_path": "images/concept-art/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/concept-art/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/concept-art/Gemini_Generated_Image_b15vfsb15vfsb15v.jpg",
-          "width": 1321,
-          "height": 1568,
-          "alt": "Gemini AI Generated Image: a striking digital portrait of a young woman rendered in an expressive, painterly style. She has voluminous, wavy dark brown hair that is dramatically lit by a warm, golden light source from the left, creating glowing amber highlights that contrast with the cooler, blue-tinged shadows on the right side of her face and neck. Her expression is gentle and engaging, featuring warm brown eyes and a subtle, closed-lip smile. She is wearing a simple dark charcoal or black top, which helps keep the focus on her face. The background is abstract and textured, composed of loose, sketchy brushstrokes in shades of white, light gray, and muted blue, giving the piece an artistic, energetic quality that frames the more detailed rendering of the subject."
         }
       ]
     },

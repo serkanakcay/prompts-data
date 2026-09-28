@@ -1,7 +1,7 @@
 {
   "category": "Humor & Comedy",
   "slug": "humor-comedy",
-  "total_prompts": 5,
+  "total_prompts": 4,
   "updated_at": "2026-09-24T12:57:20Z",
   "prompts": [
     {
@@ -199,55 +199,6 @@
           "width": 3300,
           "height": 4096,
           "alt": "Gemini AI Prompt for Stylized geometric digital illustration of a man with dark hair and a trimmed beard looking up, set against a vibrant red background."
-        }
-      ]
-    },
-    {
-      "id": "6a590ef2a3af6f1220c3032a",
-      "title": "A Miniature with Chocolate",
-      "slug": "miniature-man-chocolate",
-      "category": "Humor & Comedy",
-      "category_slug": "humor-comedy",
-      "prompt": "Create a hyper-realistic macro portrait of the uploaded handsome person transformed into a tiny, cute chibi-style miniature. Maintain the recognizable facial identity and glasses if present. Give the miniature an oversized semi-realistic head, a very small body, chibi body proportions, and extremely short hands and legs, while keeping the face cute and adorable.\nShow the miniature standing on an off-white round tabletop and tightly hugging an extra-oversized red KitKat bar that is significantly taller and wider than his entire body. Both tiny arms should wrap firmly around the chocolate bar as if he refuses to let it go. The KitKat must look like a real wrapped chocolate bar with natural crumpled folds, a torn-open top, and partially eaten chocolate fingers clearly showing crisp wafer layers.\nAdd realistic chocolate smudges around his mouth, across his fingertips, and on both hands, suggesting he was just eating it. A huge realistic human hand enters from the upper-right corner, gently pinching the back collar of his jacket without covering his face or the KitKat.\nDress him in a dark navy hoodie, white T-shirt, dark slim-fit jeans, and clean matching sneakers. Give him a playful, lovable smile while looking directly at the camera.\nUse a tight vertical 4:5 macro composition where the oversized head, miniature, and enormous KitKat dominate the frame. Add a few chocolate crumbs and small melted chocolate drops on the tabletop. Use a soft light-grey bokeh background, soft bright studio lighting, shallow depth of field, outfit texture, and chocolate textures, natural wrapper reflections, and a whimsical premium advertising-photography aesthetic. Avoid adult body proportions, simple background and realistic head.",
-      "description": "3D Caricature Illustration Prompt: Use this prompt to create a miniature smiling man holding a giant KitKat Chocolate while a large hand reaches down for him.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 2595,
-      "copy_count": 1883,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "local_path": "images/humor-comedy/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/humor-comedy/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/humor-comedy/449e377d-6cd3-41e5-8b61-adf77f6029eb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Miniature Kit Kat Scene AI Photo Editing Prompt.\nAI generated Whimsical Conceptual Product Art of a smiling, miniature man with glasses and messy chocolate on his face, holding a giant Kit Kat bar while being lifted by a large human hand."
-        },
-        {
-          "filename": "bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "local_path": "images/humor-comedy/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/humor-comedy/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/humor-comedy/bf889f63-8013-47c6-bc26-fdae40915092.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated surreal photo manipulation of a smiling miniature man with an oversized head holding a large, partially eaten KitKat bar and being pinched by a giant human hand."
-        },
-        {
-          "filename": "70f20281-da79-4527-a927-2863a197663b.webp",
-          "local_path": "images/humor-comedy/70f20281-da79-4527-a927-2863a197663b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/70f20281-da79-4527-a927-2863a197663b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/humor-comedy/70f20281-da79-4527-a927-2863a197663b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/humor-comedy/70f20281-da79-4527-a927-2863a197663b.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "miniature-man-holding-giant-kitkat-ai-art-prompt-by-promptplum-3"
         }
       ]
     },

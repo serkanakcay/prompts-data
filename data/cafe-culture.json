@@ -1,7 +1,7 @@
 {
   "category": "Cafe culture",
   "slug": "cafe-culture",
-  "total_prompts": 16,
+  "total_prompts": 15,
   "updated_at": "2026-09-24T12:52:08Z",
   "prompts": [
     {
@@ -361,45 +361,6 @@
           "width": 928,
           "height": 1152,
           "alt": "Pensive Man with Coffee in City Cafe Window AI Photo Editing Prompt. AI generated photographic portrait of a pensive young man in a tan unbuttoned shirt and white tee, sitting at a cafe table with crossed legs, holding a black coffee cup by a large city window."
-        }
-      ]
-    },
-    {
-      "id": "6a3d65f8e1ceda640e518dfa",
-      "title": "Coordinated in Cocoa: A Matching Cafe Date",
-      "slug": "couple-cafe-date-portrait",
-      "category": "Cafe culture",
-      "category_slug": "cafe-culture",
-      "prompt": "Maintain accurate identity and precise face matching to the provided reference image for both subjects.\nCreate a photorealistic, ultra-high-definition 8k image of an attractive couple sitting at a round wooden table in a cozy, upscale cafe. Symmetrical composition, medium-full shot, eye-level angle. The beautiful woman on the left has neatly styled  hair, a radiant smile, and smooth skin. She is wearing a chocolate brown button-up shirt layered over a matching brown turtleneck, paired with elegant wide-leg cream trousers and subtle gold jewelry. The handsome man on the right has neatly styled hair. He wears a matching chocolate brown long-sleeve button-up shirt (slightly unbuttoned at the collar), tailored wide-leg cream trousers, a classic wristwatch, and white sneakers. They are posing affectionately; the woman leans her head gently toward the man, and their both hands rest together intimately on the table. Both maintain direct eye contact with the camera, exhibiting warm, confident expressions. On the table sits a small clear vase with delicate pink flowers, flanked by two white coffee cups on saucers and a glowing textured glass candle holder. The background features a beautifully blurred coffee shop interior with warm wood paneling, an espresso machine, large windows revealing lush outdoor greenery, and glowing ambient pendant lights creating soft, golden bokeh. Cinematic lighting, soft directional light on the subjects, 8k resolution, shot on an 85mm lens, f1.6, shallow depth of field, sharp focus on the couple.\nNo extra people in the background.\nAspect ratio 4:5",
-      "description": "Romantic Lifestyle Photography Prompt: Copy & Paste this prompt to create a high-quality portrait of a smiling couple in matching brown outfits at a cozy cafe.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 62,
-      "view_count": 2817,
-      "copy_count": 5239,
-      "is_premium": false,
-      "published_at": "2026-09-21T22:07:23.022Z",
-      "images": [
-        {
-          "filename": "72761bad-eb43-400d-9845-974b0f0c1323.jpeg",
-          "local_path": "images/cafe-culture/72761bad-eb43-400d-9845-974b0f0c1323.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/72761bad-eb43-400d-9845-974b0f0c1323.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cafe-culture/72761bad-eb43-400d-9845-974b0f0c1323.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cafe-culture/72761bad-eb43-400d-9845-974b0f0c1323.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Matching Couple Cafe Portrait AI Photo Editing Prompt."
-        },
-        {
-          "filename": "69e925db-2472-48b8-b2b8-b8b193318cd4.jpeg",
-          "local_path": "images/cafe-culture/69e925db-2472-48b8-b2b8-b8b193318cd4.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/69e925db-2472-48b8-b2b8-b8b193318cd4.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cafe-culture/69e925db-2472-48b8-b2b8-b8b193318cd4.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cafe-culture/69e925db-2472-48b8-b2b8-b8b193318cd4.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Matching Couple Cafe Portrait AI Photo Editing Prompt."
         }
       ]
     },

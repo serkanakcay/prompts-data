@@ -1,7 +1,7 @@
 {
   "category": "Selfie",
   "slug": "selfie",
-  "total_prompts": 23,
+  "total_prompts": 19,
   "updated_at": "2026-09-24T13:12:21Z",
   "prompts": [
     {
@@ -166,85 +166,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Aesthetic lifestyle mirror selfie portrait of a woman in a floral sweater AI Photo Editing Prompt. AI generated lifestyle photography of a young stylish woman taking a phone selfie in a glowing wavy mirror inside a minimalist room."
-        }
-      ]
-    },
-    {
-      "id": "6a7a742b4bbdbe2cf57b4b76",
-      "title": "Couple Photo Editing ChatGPT Prompt",
-      "slug": "viral-instagram-couple-photo",
-      "category": "Selfie",
-      "category_slug": "selfie",
-      "prompt": "Use the uploaded male and female images as identity references only. Preserve both faces, hairstyles, skin tone, and facial features accurately. Create an ultra-realistic vertical close-up indoor portrait where the male stands in the foreground on the left, wearing a light white/pink textured linen shirt. Only part of his face is visible in a cinematic crop. The female stands closely behind him, playfully peeking over his shoulder with only one expressive eye and part of her forehead visible. Bright minimal room, large window, soft natural daylight, creamy skin tones, shallow depth of field, 85mm lens, f/1.8, DSLR-quality, realistic fabric texture, cinematic color grading, Instagram aesthetic, HDR, 8K, photorealistic, clean background. Negative: blurry, distorted anatomy, duplicate people, watermark, text, logo, CGI, cartoon.",
-      "description": "Simply open ChatGPT, upload your photo with your partner's, and paste this viral Instagram prompt to create a candid couple photo peeking behind the shoulder.",
-      "ai_tools": [
-        "ChatGPT"
-      ],
-      "like_count": 112,
-      "view_count": 10987,
-      "copy_count": 12426,
-      "is_premium": false,
-      "published_at": "2026-08-11T01:00:27.827Z",
-      "images": [
-        {
-          "filename": "ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
-          "local_path": "images/selfie/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/ec26d484-e9ec-4703-9ba3-a7549d1d44c5.webp",
-          "width": 1023,
-          "height": 1537,
-          "alt": "viral-instagram-couple-editing-ai-prompt-1"
-        },
-        {
-          "filename": "8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
-          "local_path": "images/selfie/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/8de77fba-fc67-44f4-be8c-888fe8a2b48a.webp",
-          "width": 1023,
-          "height": 1537,
-          "alt": "viral-instagram-couple-editing-ai-prompt-6"
-        },
-        {
-          "filename": "ae941492-494a-4b99-b7c6-030b9607442a.webp",
-          "local_path": "images/selfie/ae941492-494a-4b99-b7c6-030b9607442a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ae941492-494a-4b99-b7c6-030b9607442a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/ae941492-494a-4b99-b7c6-030b9607442a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/ae941492-494a-4b99-b7c6-030b9607442a.webp",
-          "width": 1024,
-          "height": 1536,
-          "alt": "viral-instagram-couple-editing-ai-prompt-4"
-        },
-        {
-          "filename": "cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
-          "local_path": "images/selfie/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/cc7ef386-e0de-4573-81fe-18f30e8c4dd7.webp",
-          "width": 1023,
-          "height": 1537,
-          "alt": "viral-instagram-couple-editing-ai-prompt-3"
-        },
-        {
-          "filename": "e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
-          "local_path": "images/selfie/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/e0989010-3ad1-4edf-a714-f8b22b80630d.webp",
-          "width": 1024,
-          "height": 1536,
-          "alt": "Candid couple photography AI photo editing prompt. AI generated portrait of a boyfriend in a white shirt with his girlfriend playfully peeking behind his collar."
-        },
-        {
-          "filename": "e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
-          "local_path": "images/selfie/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/e4969484-0c8f-41d4-9ef8-6cf230b02c2e.webp",
-          "width": 1049,
-          "height": 1500,
-          "alt": "Candid couple photography AI photo editing prompt. AI generated close-up selfie of a boyfriend in a pink shirt with his girlfriend peeking behind his shoulder.\""
         }
       ]
     },
@@ -600,35 +521,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670304",
-      "title": "A Fairytale Selfie",
-      "slug": "a-fairytale-selfie",
-      "category": "Selfie",
-      "category_slug": "selfie",
-      "prompt": "Create a hyper-realistic cinematic portrait capturing a candid “selfie moment” in a magical fairytale-inspired theme park street. A grand illuminated castle stands centered in the background, glowing under a soft sunset sky.\nCamera & Perspective\nThis is NOT actual selfie POV\nUse a third-person cinematic camera positioned slightly in front of the subjects\nFrame it as if the camera is capturing the moment while the subject is taking a selfie\nCamera at eye-level to slightly raised angle, facing both subjects\nComposition & Framing\nVertical 4:5 aspect ratio\nMedium shot (mid-thigh)\nSubject slightly left, mascot on right\nSmartphone clearly visible in subject’s hand, extended outward\nBoth subjects angled slightly toward the phone\nCastle perfectly aligned in center background\nStrong depth: foreground (subjects), midground (street), background (castle)\nCharacter Addition (Original Mascot Design)\nAdd a friendly, animated-style mascot character (original, not recognizable):\nSoft animal-inspired design (fox/squirrel-like)\nLarge expressive eyes, warm friendly face\nWearing a clean red blazer or playful outfit\nOne arm gently around the subject’s shoulder\nOther hand giving a thumbs-up\nFully integrated with realistic lighting and shadows\nPose & Expression\nSubject holding phone outward in natural selfie-taking gesture\nRelaxed posture, slightly leaning toward companion\nExpression: joyful, candid smile\nMascot: cheerful, energetic expression\nBoth looking toward the phone screen (NOT directly at main camera)\nLighting & Atmosphere\nWarm golden-hour sunset lighting\nSoft front illumination on faces\nSubtle rim light from behind (sun glow)\nPastel sky gradient: pink, peach, lavender tones\nCinematic depth of field with soft background blur\nEnvironment Details\nCobblestone street with subtle reflections\nSymmetrical fantasy-style buildings\nWarm glowing street lamps\nFloating translucent bubbles in air\nEach bubble contains tiny abstract fairytale silhouettes\nClean, dreamy, uncluttered atmosphere\nTechnical Details\nUltra-realistic, 8K resolution\nSharp focus on subjects\nNatural textures (skin, fabric, fur)\nCinematic color grading (warm highlights, soft shadows)\nLens: 85mm.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 757,
-      "copy_count": 738,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "local_path": "images/selfie/Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "width": 800,
-          "height": 1280,
-          "alt": "Gemini AI Generated Image: A young woman with long blonde hair and a light blue dress taking a selfie with a large, friendly fox character in a red blazer. They are standing on a cobblestone street in a magical theme park, with a tall fairytale castle in the background. The air is filled with floating bubbles containing silhouettes of a carriage and various characters, all under a soft, sunset sky."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526702fe",
       "title": "Deep Blue Fearless",
       "slug": "deep-blue-fearless",
@@ -654,64 +546,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Gemini AI Generated Image: An underwater selfie of a smiling shirtless man wearing sunglasses, surrounded by several sharks swimming in clear, sun-dappled turquoise water over a coral reef."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702df",
-      "title": "Paradise found with you.",
-      "slug": "paradise-found-with-you",
-      "category": "Selfie",
-      "category_slug": "selfie",
-      "prompt": "Use the uploaded image strictly as a visual and facial reference. Preserve realistic facial structure, proportions, skin tone, and expressions. Do not stylize or alter faces.\nCreate an ultra-realistic travel selfie photograph of a couple standing on a narrow dirt hiking trail with wooden safety railings on both sides, located at Kelingking Beach, Nusa Penida, Bali.\n\nSubjects, Clothing & Accessories (Locked)\nA couple standing close together, smiling naturally.\nOne person holds the camera in an arm-extended wide-angle selfie.\nMan: wearing a loose white linen shirt, white shorts, beige sandals, and dark sunglasses.\nWoman: wearing a white tunic-style top, white pants, pearl-style sandals, and sunglasses.\nClothing is light, breathable, casual, and suitable for hiking.\nNatural posture, relaxed tourist vibe.\nScene & Background (Match Reference)\nThe iconic T-Rex–shaped limestone cliff formation is clearly visible behind them.\nA curved sandy beach appears below between the cliffs.\nThe ocean is deep blue to turquoise, with white waves crashing against the rocks.\nThe trail is surrounded by dense, lush tropical greenery, with rich green foliage covering the cliffside.\nNatural rock textures and vegetation are clearly defined.\nClear open sky and distant ocean horizon.\nLighting & Image Color Tone (Late Morning)\nShot in late-morning daylight.\nBright, clean natural light with the sun higher in the sky.\nSoft, short shadows.\nFresh, vibrant green tones in vegetation.\nCool, crisp ocean blues without golden color cast.\nNatural skin tones, evenly lit, no harsh contrast.\nCamera & Quality\nWide-angle selfie lens\nSlight edge distortion for realism\nDeep depth of field (subjects and background both sharp)\nTravel photography style\nDSLR-quality clarity\nUltra-realistic textures (skin, fabric, wood, rock, water)\nNo filters. No cinematic grading. No artificial glow.\nAspect ratio:\n\n– 4:5 vertical (Instagram)",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 146,
-      "view_count": 7106,
-      "copy_count": 16506,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "local_path": "images/selfie/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A high-angle selfie of a smiling couple wearing matching white linen outfits and sunglasses, standing on a cliffside path with wooden railings. Behind them is the iconic Kelingking Beach in Nusa Penida, featuring a massive, green, T-Rex-shaped rock formation jutting out into vibrant turquoise ocean waters."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702c5",
-      "title": "Korean Style Selfie",
-      "slug": "korean-style-selfie",
-      "category": "Selfie",
-      "category_slug": "selfie",
-      "prompt": "Subject: Young woman, close-up digital selfie. Hair: Long chocolate brown hair, mermaid waves, full bangs, loose strands slightly blown across the face by the wind. Outfit & Accessories: Oversized bright black V-neck knitted sweater, large white bow at the center of the chest, simple small silver circle earrings, silver rings on fingers. Makeup & Skin: 100% realistic flawless skin, Korean-style makeup, neat natural eyebrows, hazy eyeliner, thin false eyelashes, light nude blush on cheeks and nose, nude-red lips. Hands: Long almond-shaped nude nails with white tips, one hand resting on chin. Expression: Smiling seductively, alluring gaze. Lighting & Atmosphere: Dimly lit room, powerful camera flash effect (direct flash), sharp contrast between bright face and dark background, cool tones. Style: Photorealistic, unedited raw photo, modern simplicity, casual selfie aesthetic. Aspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 18,
-      "view_count": 1251,
-      "copy_count": 1703,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "local_path": "images/selfie/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/selfie/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/selfie/Gemini_Generated_Image_itzntlitzntlitzn-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini Ai Generated Image: a close-up portrait of a smiling young woman with long, wavy brown hair and bangs. She is wearing a black V-neck sweater accented with a prominent white bow at the center. Her hand is gently raised near her chin, displaying silver rings and a French manicure, while small hoop earrings complete the look. The lighting highlights her rosy cheeks and face against a dark background, creating a soft and stylish aesthetic."
         }
       ]
     },

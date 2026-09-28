@@ -1,96 +1,9 @@
 {
   "category": "Landscape",
   "slug": "landscape",
-  "total_prompts": 7,
+  "total_prompts": 4,
   "updated_at": "2026-09-24T12:57:49Z",
   "prompts": [
-    {
-      "id": "6a824a404bbdbe2cf53d46ef",
-      "title": "Romantic Couple Walking on Beach",
-      "slug": "romantic-couple-beach-walk-photo",
-      "category": "Landscape",
-      "category_slug": "landscape",
-      "prompt": "A romantic couple photoshoot on an overcast, moody beach. A young couple walks barefoot hand-in-hand along the wet shoreline toward the camera. The woman, on the left, wears a flowing white maxi dress with thin spaghetti straps, holding the skirt lightly with her free hand as it billows in the wind; her naturally wavy hair blows across her shoulder as she smiles softly, looking down. The man, on the right, wears a relaxed white linen shirt with sleeves rolled to the forearms, top buttons open, and loose white linen trousers; he gazes tenderly at her, natural hair tousled by the breeze, wearing a wristwatch.\nBackground: misty grey ocean with gentle white waves, fog-shrouded green mountains fading into haze, dark wet rocks along the right side of the shore. Soft diffused overcast lighting, muted grey and white color palette, wet reflective sand mirroring the couple's figures. Cinematic, editorial fashion photography style, shallow depth of field, high contrast, full-body shot, natural candid movement, serene and intimate mood. Shot on 85mm lens, 8k, high resolution.\nAspect ratio: 4:5",
-      "description": "Use this cinematic photography AI prompt to create a hyper-realistic portrait of a romantic couple walking barefoot on a misty beach in white outfits.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 33,
-      "view_count": 1641,
-      "copy_count": 2759,
-      "is_premium": false,
-      "published_at": "2026-08-16T23:39:44.989Z",
-      "images": [
-        {
-          "filename": "0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "local_path": "images/landscape/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/landscape/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/landscape/0cd0e80a-16d9-41bf-a49a-4932ab149ebb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple on Beach Cinematic Photography AI Photo Editing Prompt. AI generated portrait photography of a couple holding hands and walking barefoot on a misty beach in white outfits."
-        }
-      ]
-    },
-    {
-      "id": "6a76bac94bbdbe2cf5250f3d",
-      "title": "Cliffside Couple Sculpture AI Prompt",
-      "slug": "mountain-face-carving-couple-art",
-      "category": "Landscape",
-      "category_slug": "landscape",
-      "prompt": "A professional dual portrait of a man and a veiled woman side-by-side from the head and shoulders up, their features perfectly identical to the reference images. Both of their profiles are beautifully carved into a massive coastal mountain overlooking the sea. The man features a neatly trimmed mossy beard and rocky hair, while the woman wears a hijab formed from elegant, flowing layers of grey granite rock. Patches of green alpine vegetation and moss accent their stone features. The background is a vast ocean landscape with deep teal water and towering sea cliffs under clear daylight, keeping a unified cool color palette. Calm expression. 3:4 aspect ratio.",
-      "description": "Use this Epic Fantasy Landscape Prompt to generate cinematic photos of colossal stone couple faces carved into towering sea cliffs, overlooking a dramatic fjord.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 440,
-      "copy_count": 419,
-      "is_premium": false,
-      "published_at": "2026-08-08T05:12:41.060Z",
-      "images": [
-        {
-          "filename": "c0519664-a873-457d-a777-3317e89831a6.webp",
-          "local_path": "images/landscape/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/landscape/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/landscape/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Epic Sea Cliff Carvings AI Photo Editing Prompt. An AI-generated digital illustration of a giant stone couple faces carved into a coastal cliff."
-        }
-      ]
-    },
-    {
-      "id": "6a6bf4964bbdbe2cf5164226",
-      "title": "Couple Walking on Tropical Beach",
-      "slug": "romantic-couple-beach-walk-portrait",
-      "category": "Landscape",
-      "category_slug": "landscape",
-      "prompt": "Create a premium, ultra-realistic tropical vacation portrait of the uploaded couple, preserving each person’s individual facial identity, skin tone, age, hairstyle and recognizable features without blending their features. Dress the woman in an airy beige linen V-neck midi dress with natural flowing movement, simple jewellery and a woven straw shoulder bag, leaving her barefoot. Dress the man in a lightweight white linen button-down shirt with rolled sleeves, tailored beige shorts and clean white low-top sneakers. Place them walking naturally side by side toward the camera along the shoreline, following a slightly diagonal path across the sand. They share relaxed body language, a gentle arm-around interaction and warm, cheerful expressions while looking at each other. Surround them with soft sand, turquoise water and towering green limestone cliffs, with a light ocean breeze moving their hair and clothing. Position the camera several metres ahead of them at eye level, capturing a natural frontal three-quarter full-body view. Use soft golden-hour sunlight, accurate skin exposure, realistic fabric and skin texture, an 85mm perspective and f/3.2 depth of field. Premium tropical travel lifestyle photography, 4:5 aspect ratio.",
-      "description": "Photorealistic Couple Photography Prompt: Use this to generate a realistic image of a romantic couple walking on a tropical beach near limestone cliffs.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 37,
-      "view_count": 2333,
-      "copy_count": 2520,
-      "is_premium": false,
-      "published_at": "2026-07-31T01:04:22.792Z",
-      "images": [
-        {
-          "filename": "2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "local_path": "images/landscape/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/landscape/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/landscape/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Beach Couple Photography AI Photo Editing Prompt. AI generated photorealistic portrait of a smiling young couple strolling barefoot on a sandy tropical beach near turquoise water and limestone cliffs."
-        }
-      ]
-    },
     {
       "id": "6a15472c564f4ca1526704ed",
       "title": "Skyline Smile",

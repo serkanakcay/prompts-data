@@ -1,7 +1,7 @@
 {
   "category": "Pen & Ink Illustrations",
   "slug": "pen-ink-illustrations",
-  "total_prompts": 8,
+  "total_prompts": 7,
   "updated_at": "2026-09-24T13:10:45Z",
   "prompts": [
     {
@@ -266,46 +266,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Thinking Woman in Cafe Sketch AI Photo Editing Prompt. AI generated detailed ink sketch illustration portrait of a pensive woman with a bun at a cafe desk, looking out a window with a notebook and coffee."
-        }
-      ]
-    },
-    {
-      "id": "6a2bab7161276f872a44fdb9",
-      "title": "The Scribble Sketch Portrait",
-      "slug": "scribble-sketch-portrait",
-      "category": "Pen & Ink Illustrations",
-      "category_slug": "pen-ink-illustrations",
-      "prompt": "Create a 8K highly detailed head-and-neck portrait illustration of a person. Use the attached image as the ONLY face-matching reference.\nComposition:\nThe composition includes the subject's head and shoulders, perfectly composed and perfectly centered. Maintain balanced negative space around the head and hair. The subject is looking directly into the camera with a strict eye-level, front-facing angle (no tilt). Expression should be calm, composed, and with lips gently closed. The subject is wearing a simple black round neck T-shirt, visible only at the shoulders and neckline.\nArt Style:\nRender the artwork as a raw, chaotic ink-style poster, constructed primarily from dense, curved black scribble strokes. The reference image is used strictly for accurate structure and likeness—do not stylize beyond recognition.\nLine Work & Form:\nBuild hair, facial shadows, and depth using layered, overlapping, uneven lines\nIncorporate rough cross-hatching techniques\nLines should feel organic, tangled, expressive, and slightly imperfect\nEmbrace a sense of controlled chaos and hand-drawn energy\nColor Palette (Strictly Minimal):\nSkin: flat beige tone only (no gradients, no realism)\nStructure & shading: deep black ink strokes only\nNo smooth blending or polished rendering\nStylistic Details:\nIntroduce slight asymmetry in line flow for a natural, raw feel\nSurround the subject with an irregular, abstract tangled aura made of loose scribbles\nEnhance the chaotic energy while maintaining structural clarity\nBackground:\nA solid, flat, vibrant yellow background, clean and uniform, creating strong contrast with the black ink work\nLighting:\nLighting should be implied only through line density—do not use realistic lighting or shading techniques\nOverall Look:\nHigh-contrast, graphic, poster-like aesthetic with a raw, expressive ink illustration style\nStrictly Avoid:\n3D effects\nRealistic rendering\nGradients\nSoft shading\nAny polished or clean digital finish\nStyle Direction:\nExpressive ink illustration / raw sketch poster / abstract line-art portrait\nOutput Quality:\n8K resolution\nAspect Ratio: 4:5",
-      "description": "Line Art Sketch Prompt: Copy & paste this prompt to create an intense black ink portrait of the person featuring scribbled lines against a bright yellow background.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 23,
-      "view_count": 851,
-      "copy_count": 1483,
-      "is_premium": false,
-      "published_at": "2026-08-10T16:24:32.589Z",
-      "images": [
-        {
-          "filename": "827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "local_path": "images/pen-ink-illustrations/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pen-ink-illustrations/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pen-ink-illustrations/827e5a31-c0aa-4b36-baa1-5c6f8ab349a6.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man Scribble Sketch AI Photo Editing Prompt. AI generated digital illustration of a detailed sketch of a young man set against a solid yellow background with chaotic scribbles."
-        },
-        {
-          "filename": "53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "local_path": "images/pen-ink-illustrations/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "original_url": "https://img.promptplum.com/promptImages/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pen-ink-illustrations/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pen-ink-illustrations/53119f80-9fd0-48aa-9652-6a89383908cc.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Scribble Sketch Portrait AI Photo Editing Prompt. AI generated digital illustration of a young woman with a messy updo drawn in detailed dark line art on a bright yellow background."
         }
       ]
     },

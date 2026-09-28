@@ -1,7 +1,7 @@
 {
   "category": "Night Photography",
   "slug": "night-photography",
-  "total_prompts": 26,
+  "total_prompts": 24,
   "updated_at": "2026-09-24T13:10:24Z",
   "prompts": [
     {
@@ -229,65 +229,6 @@
       ]
     },
     {
-      "id": "6a82a08a4bbdbe2cf542f913",
-      "title": "Young Couple Sitting Under String Lights at Dusk",
-      "slug": "couple-bokeh-lights-photography",
-      "category": "Night Photography",
-      "category_slug": "night-photography",
-      "prompt": "A romantic outdoor couple photoshoot at night in a resort park. A young uploaded couple sits together on a brick-paved pathway, both smiling warmly at the camera. The man sits behind and slightly to the right, with one arm draped affectionately over the woman's shoulder. He has naturally styled hair and a well-groomed appearance, wearing an open white button-down shirt with sleeves rolled to the elbows over a black t-shirt, black slim-fit jeans, white sneakers, and a black wristwatch. The woman leans back against him with naturally wavy hair, soft glam makeup, wearing an oversized white sweatshirt, black skinny jeans, and white sneakers, hands resting on her knee.\nBackground: a tree-lined pathway with warm golden fairy lights wrapped around tree trunks, glowing street lamps, and soft bokeh from distant lights. Shallow depth of field, subjects in sharp focus, dreamy blurred background. Warm cinematic color grading, professional portrait photography, shot at eye level, 4:5 vertical, full-body composition, 85mm lens look, high resolution, accurate facial details, photorealistic.",
-      "description": "Use this AI prompt to create a realistic romantic photography portrait of a happy young couple in white casuals sitting on a brick pathway under warm bokeh lights.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 39,
-      "view_count": 2741,
-      "copy_count": 4648,
-      "is_premium": false,
-      "published_at": "2026-08-17T05:47:54.542Z",
-      "images": [
-        {
-          "filename": "0e2f18d6-ad7e-4c9a-8957-4ead4243fb9b.webp",
-          "local_path": "images/night-photography/0e2f18d6-ad7e-4c9a-8957-4ead4243fb9b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/0e2f18d6-ad7e-4c9a-8957-4ead4243fb9b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/night-photography/0e2f18d6-ad7e-4c9a-8957-4ead4243fb9b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/night-photography/0e2f18d6-ad7e-4c9a-8957-4ead4243fb9b.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic couple night portrait AI Photo Editing Prompt. AI generated realistic portrait of a smiling young couple in white shirts sitting on a brick walkway illuminated by warm bokeh lights."
-        },
-        {
-          "filename": "6c14f2dc-8107-49cc-a19d-4016efb97750.webp",
-          "local_path": "images/night-photography/6c14f2dc-8107-49cc-a19d-4016efb97750.webp",
-          "original_url": "https://img.promptplum.com/promptImages/6c14f2dc-8107-49cc-a19d-4016efb97750.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/night-photography/6c14f2dc-8107-49cc-a19d-4016efb97750.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/night-photography/6c14f2dc-8107-49cc-a19d-4016efb97750.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple Portrait AI Photo Editing Prompt. AI generated lifestyle portrait of a young couple sitting together on a brick pathway under warm string lights at dusk."
-        },
-        {
-          "filename": "184d5c05-3e11-47d6-a579-b4aee6e1d3bb.webp",
-          "local_path": "images/night-photography/184d5c05-3e11-47d6-a579-b4aee6e1d3bb.webp",
-          "original_url": "https://img.promptplum.com/promptImages/184d5c05-3e11-47d6-a579-b4aee6e1d3bb.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/night-photography/184d5c05-3e11-47d6-a579-b4aee6e1d3bb.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/night-photography/184d5c05-3e11-47d6-a579-b4aee6e1d3bb.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "couple-sitting-string-lights-portrait-ai-prompt-by-promptplum-6"
-        },
-        {
-          "filename": "ea2e7db8-aeee-40ed-bc88-44a753597897.webp",
-          "local_path": "images/night-photography/ea2e7db8-aeee-40ed-bc88-44a753597897.webp",
-          "original_url": "https://img.promptplum.com/promptImages/ea2e7db8-aeee-40ed-bc88-44a753597897.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/night-photography/ea2e7db8-aeee-40ed-bc88-44a753597897.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/night-photography/ea2e7db8-aeee-40ed-bc88-44a753597897.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "couple-sitting-string-lights-portrait-ai-prompt-by-promptplum-3"
-        }
-      ]
-    },
-    {
       "id": "6a78bde54bbdbe2cf5574c71",
       "title": "Aesthetic Guy Sunglasses Night Photo",
       "slug": "cinematic-night-street-portrait",
@@ -500,45 +441,6 @@
           "width": 1792,
           "height": 2560,
           "alt": "cinematic-night-glow-portrait-by-promptplum-3"
-        }
-      ]
-    },
-    {
-      "id": "6a3ac528bf79ee5252c368bf",
-      "title": "Candlelit Evening on a Floral Woven Heart Swing",
-      "slug": "romantic-swing-photo-portrait",
-      "category": "Night Photography",
-      "category_slug": "night-photography",
-      "prompt": "Create a Photorealistic, ultra-high-resolution portrait of an elegant woman seated gracefully on a rustic wooden swing, perfectly centered within a giant illuminated heart-shaped wreath crafted from intertwined branches and wrapped in warm golden fairy lights. She wears a flowing ivory-white one-shoulder evening gown with delicate floral appliqué detailing on the shoulder, complemented by sparkling diamond earrings, necklace, bracelets, and rings. Her long, softly curled hair cascades over her shoulders as she gazes directly at the camera with a gentle, confident smile. Her pose is poised and graceful, sitting upright with relaxed shoulders, hands gently resting on her lap, and one leg elegantly crossed forward. The composition is perfectly centered and balanced, emphasizing symmetry between the illuminated heart wreath and the subject. The scene is set in a luxurious outdoor garden at night, surrounded by lush greenery and glowing decorative lights, with glowing candles placed along the ground. The background is rendered with a creamy shallow depth of field and rich golden bokeh, creating a romantic and dreamy atmosphere. Eye-level composition, full-body shot, cinematic warm lighting, sharp focus on the subject, natural skin tones, professional portrait photography, highly detailed fabric textures, realistic lighting and shadows, premium wedding editorial style, 8K resolution, 85mm portrait lens, f/1.8, photorealistic quality.\nAspect ratio: 4:5.",
-      "description": "Romantic Portrait Photography Prompt: Copy and paste this prompt to generate a stunning, high-quality image of an elegant woman in a white gown posing on a romantic, fairy-light-decorated heart swing in a candlelit garden.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1532,
-      "copy_count": 2672,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "local_path": "images/night-photography/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/night-photography/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/night-photography/f8969bec-fdaf-4fdc-83c6-888d3eac93bf.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Romantic Heart Swing Portrait AI Photo Editing Prompt. AI generated realistic portrait of an elegant woman in a white gown sitting on a wooden swing under a large, glowing heart-shaped arch decorated with fairy lights and foliage in a candlelit garden."
-        },
-        {
-          "filename": "b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "local_path": "images/night-photography/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/night-photography/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/night-photography/b80613de-2a0c-4162-ac84-b298ed4bf4f7.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Romantic Heart Swing Portrait AI Photo Editing Prompt. AI generated realistic portrait of an elegant woman in a white gown sitting on a wooden swing under a large, glowing heart-shaped arch decorated with fairy lights and foliage in a candlelit garden."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "Boy",
   "slug": "boy-prompt",
-  "total_prompts": 88,
+  "total_prompts": 80,
   "updated_at": "2026-09-24T12:51:55Z",
   "prompts": [
     {
@@ -487,55 +487,6 @@
       ]
     },
     {
-      "id": "6a8fd74546d4207dc24d9c73",
-      "title": "Boy Stylish portrait with SUV and panda",
-      "slug": "stylish-man-white-suv-panda-portrait",
-      "category": "Boy",
-      "category_slug": "boy-prompt",
-      "prompt": "Cinematic full-body portrait of a [young man] with [naturally styled hair, and aviator sunglasses], wearing a white leather biker jacket over a black t-shirt, thin silver chain necklace, white slim-fit trousers, and brown leather loafers with no socks. He leans casually against the front driver-side fender of a white luxury SUV (Range Rover style), one leg crossed over the other, one hand in his pocket, gazing off to the side with a confident, relaxed expression.\n\nThe SUV faces the camera at a slight three-quarter angle. Headlights blazing a saturated golden-yellow with visible bloom and lens flare. Metallic gold multi-spoke alloy wheels, black accent trim on the doors and hood vents, dark tinted panoramic roof, custom license plate \"[MF 007]\". Underglow lighting is physically integrated into the vehicle: a hidden LED strip is mounted flush beneath the rocker panels and front splitter, tucked directly against the underside of the car body so the light source itself is not visible — only its glow is. This creates a tight, sharp pool of saturated yellow-gold light emanating from directly under the chassis, hugging the contours of the front splitter and side skirts, with the light visibly touching and wrapping the lower edge of the car body (no gap or floating line between the car and the light). The glow bleeds outward onto the damp asphalt in a soft gradient, brightest right at the point of contact with the tires and rocker panels, fading within a short radius — concentrated and vivid, not a separate glowing bar.\n\nBeside the man, a small fluffy giant panda stands upright on the asphalt, playfully raising one paw toward him, its fur catching a warm rim of yellow light from the underglow.\n\nSetting: a smooth, slightly damp asphalt road curving through hills, deep blue hour just after sunset. Flowering trees arch fully over the road forming a dense canopy across the top of the frame, thick with vivid magenta-pink bougainvillea and bright golden-yellow blossoms intermixed on the same branches, petals scattered on the road. Hazy blue mountain ridges in the far background. The sky is deep saturated twilight blue, not grey or foggy.\n\nLighting and color grade: strong teal-and-orange / blue-and-gold split. Ambient light is cool, deep cobalt blue filling all shadows and the road surface. All warm light comes only from the car — headlights, underglow, and its reflections — creating high contrast between cool environment and warm accents. Rich, punchy saturation on the flowers, wheels, and lights. Slightly lifted blacks with a blue tint, high clarity, crisp micro-contrast. Dramatic rim lighting on the subject and panda. No fog, no haze in the foreground, no muted or washed-out tones. Skin tones natural with a subtle cool cast, realistic skin pores and subsurface scattering.\n\nStyle: hyper-realistic high-end automotive editorial photography, full-frame camera, 35mm lens at f/2.8, subject and car tack-sharp with softly blurred background, 8K, ultra-detailed, cinematic color grading, moody atmosphere, luxury lifestyle photography, editorial fashion shoot, GQ magazine style, high-end commercial advertisement look, subtle film-grain texture, rich contrast, professional color science, shot on ARRI Alexa / Sony A7R V aesthetic, hyperdetailed textures on fabric and fur, true-to-life reflections, atmospheric depth of field, polished automotive commercial finish, masterpiece, best quality, award-winning photography.\n\nSquare 1:1 aspect-ratio.\n\nNegative prompt: foggy, overcast, hazy, grey sky, desaturated, washed out, flat lighting, dim headlights, diffuse underglow, floating light strip, detached glow, light bar separate from vehicle, neon line not touching car, daytime, blurry, simple suv design, distorted hands, extra limbs, deformed face, text artifacts, watermark, cartoonish, low quality, low resolution, overexposed, underexposed, plastic skin, artificial looking.",
-      "description": "Stylish Range Rover portrait prompt with a glowing underglow SUV, a friendly panda, and blooming flowers — create this eye-catching cinematic look free!",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 11,
-      "view_count": 1855,
-      "copy_count": 1896,
-      "is_premium": false,
-      "published_at": "2026-08-27T06:20:53.732Z",
-      "images": [
-        {
-          "filename": "4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "local_path": "images/boy-prompt/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "original_url": "https://img.promptplum.com/promptImages/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/4fb0f90a-fdf4-46b4-b2e4-8975fb00c7b7.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "AI generated cinematic portrait of a young man in a white leather jacket leaning on a white Range Rover Sport with glowing yellow underglow, posing beside a panda under blooming bougainvillea flowers at dusk."
-        },
-        {
-          "filename": "eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "local_path": "images/boy-prompt/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/eb4fbf2f-4111-490b-b290-d6f8bf93155d.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Gemini_Generated_Image_sa47m0sa47m0sa47"
-        },
-        {
-          "filename": "15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "local_path": "images/boy-prompt/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "original_url": "https://img.promptplum.com/promptImages/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/15a30e1d-b882-4334-a9cf-08cb00ce7e82.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Gemini_Generated_Image_7qz1ei7qz1ei7qz1"
-        }
-      ]
-    },
-    {
       "id": "6a8f10ff46d4207dc23f401d",
       "title": "Grey Suit Birthday Celebration Portrait",
       "slug": "stylish-man-birthday-portrait-prompt",
@@ -699,55 +650,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Smiling young man in round Ray-Ban style mirrored sunglasses and a \"Break The Rules\" sweatshirt, arms crossed, standing before a glowing white neon ring light on a black background — AI generated portrait photo editing prompt by Promptplum."
-        }
-      ]
-    },
-    {
-      "id": "6a8b09034bbdbe2cf50810c9",
-      "title": "Male Model with Chain Necklace Photo",
-      "slug": "dark-cinematic-male-portrait",
-      "category": "Boy",
-      "category_slug": "boy-prompt",
-      "prompt": "Ultra-realistic cinematic fashion portrait of a young man with a strong, magnetic presence and effortless masculine confidence. Medium close-up, facing the camera, with a naturally commanding posture. His body language should feel relaxed but dominant — one shoulder slightly forward, neck relaxed, head subtly tilted, chin slightly lowered, and eyes looking directly into the lens with a calm, sharp, self-assured intensity. His expression should carry quiet dominance, subtle arrogance, and effortless attitude — not smiling, not soft, not overly dramatic, just a controlled, confident, slightly provocative look. A faint hint of a smirk or tension at the lips is acceptable, but the overall expression must feel cool, composed, and powerful.\n\nHe wears a silk black open-collar shirt with the top buttons undone, creating a refined yet rebellious luxury-fashion vibe. A thin silver chain rests naturally at the corner of his slightly parted lips, with only a tiny section subtly secured by the teeth just behind the lips, making the hold physically believable while keeping the teeth almost completely hidden. The chain hangs loosely and naturally downward, creating an effortless, candid fashion-editorial gesture rather than an obvious biting pose.\n\nPreserve realistic facial proportions, natural masculine character, authentic skin texture, subtle imperfections, visible pores, fine facial details, realistic lips, natural eyebrows, detailed eyes with lifelike catchlights, and individually defined hair strands. The face should look mature, confident, and stylish, with a strong jawline and naturally attractive structure. Avoid an overly polished, artificial, or generic model-like appearance.\n\nDark seamless black studio background with soft shadow falloff and subtle atmospheric depth. Warm golden sunlight enters dramatically from the left side of the frame, sculpting the cheekbone, jawline, nose, and hair while the opposite side falls into rich cinematic shadow. Classic Rembrandt-inspired lighting with a soft golden highlight across the face, deep blacks, controlled highlights, and premium cinematic contrast.\n\nLuxury men's fashion editorial aesthetic — sophisticated, mysterious, confident, slightly rebellious, intimate, expensive, and cinematic. The portrait should feel like a high-end fragrance campaign or premium men's fashion magazine cover. The subject must look like he knows the camera is on him and is completely in control of the frame, with natural swagger and presence rather than a passive portrait pose.\n\nShot at eye level on a Sony A7R V with an 85mm f/1.4 lens, shallow depth of field, creamy background separation, tack-sharp focus on both eyes, natural perspective compression, soft falloff toward the shoulders, realistic optical depth, and professional studio photography characteristics.\n\nPhotorealistic natural color grading with warm golden skin highlights, neutral realistic skin tones, deep rich blacks, subtle tonal separation, soft highlights in the hair, realistic shadow detail, HDR dynamic range, ultra-detailed 8K appearance, premium editorial retouching while retaining authentic human skin texture.\n\nComposition: vertical 4:5 aspect-ratio, medium close-up showing the full head, neck, shoulders, and upper chest with comfortable headroom. Subject centered with a powerful magazine-cover composition. No awkward cropping. The pose should feel natural, stylish, and slightly seductive, with a clear sense of attitude and personality.\n\nOverall vibe: magnetic, confident, masculine, mysterious, dominant, effortlessly stylish, slightly dangerous, premium, cinematic, and emotionally present.\n\nNegative Prompt:\nblurry, low quality, low resolution, cartoon, painting, illustration, CGI look, artificial face, generic AI model face, emotionless expression, soft innocent expression, friendly smile, happy expression, timid vibe, nervous pose, awkward pose, stiff shoulders, passive body language, weak eye contact, blank stare, exaggerated seductive expression, forced pose, visible biting, exposed teeth gripping chain, clenched teeth, chain stretched tightly, chain floating unnaturally on lips, awkward chain placement, chain covering face, distorted chain, distorted face, bad anatomy, asymmetrical eyes, crossed eyes, deformed eyes, unnatural jawline, waxy skin, plastic skin, airbrushed skin, excessive skin smoothing, oversaturated skin, unrealistic facial proportions, duplicate face, extra fingers, visible hands unless naturally framed, overexposed highlights, crushed facial details, flat lighting, unrealistic lighting, harsh artificial rim light, excessive orange tones, background clutter, text, logo, watermark, noise, excessive grain, motion blur, poor focus, cropped forehead, cropped chin.",
-      "description": "Use this cinematic studio photography prompt to create a dark, moody portrait of a handsome man in a black silk shirt biting a silver chain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 19,
-      "view_count": 1477,
-      "copy_count": 1518,
-      "is_premium": false,
-      "published_at": "2026-09-01T22:27:58.831Z",
-      "images": [
-        {
-          "filename": "37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "local_path": "images/boy-prompt/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "original_url": "https://img.promptplum.com/promptImages/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/37b31184-416e-4593-bde8-fe8d0fd76485.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Moody Editorial Portrait AI Photo Editing Prompt. AI generated studio portrait of a curly-haired man in an open black shirt biting a silver chain necklace against a dark background."
-        },
-        {
-          "filename": "bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "local_path": "images/boy-prompt/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/bcbcf219-3be7-43cd-8d34-11166d546af3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Dark cinematic male portrait with a silver chain AI Photo Editing Prompt. AI generated studio portrait of a handsome man in a black silk shirt biting a chain."
-        },
-        {
-          "filename": "daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "local_path": "images/boy-prompt/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/daff56d4-ebe6-4537-8104-93005e5d1be4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated studio portrait of a curly-haired man in a black shirt holding a thin silver chain in his mouth against a dark background."
         }
       ]
     },
@@ -1628,45 +1530,6 @@
       ]
     },
     {
-      "id": "6a6def5c4bbdbe2cf54d038f",
-      "title": "Boy Sitting in Denim Jacket on Dark Studio",
-      "slug": "man-denim-jacket-studio-fashion-portrait",
-      "category": "Boy",
-      "category_slug": "boy-prompt",
-      "prompt": "Create a premium, ultra-realistic full-body studio streetwear editorial portrait of the uploaded man, preserving his natural facial identity, skin tone, age, hairstyle and existing facial hair. Dress him in a slightly oversized light-wash distressed denim jacket with shortened three-quarter sleeves ending at the lower forearms, several inches above the wrists. Add only small, sparse patch details: a compact black patch on the upper chest, a small blue patch on one forearm and a small red oval patch near the opposite shortened cuff—no large multicolored panels. Layer the jacket over a white hoodie with the hood resting naturally behind his neck and white drawstrings hanging over the chest. Only a short section of the full-length white hoodie sleeves should extend below the denim sleeves to the wrists, finished with fitted ribbed cuffs. Add a plain white T-shirt underneath, slim black jeans and clean white high-top sneakers with black side accents.\nSeat him near the front edge of a small, narrow matte-black cube that is just wide enough to sit on and remains mostly concealed behind his legs. Turn his torso approximately 15 degrees toward camera right in a subtle three-quarter body angle, with the camera-left shoulder slightly closer, while turning his face naturally back toward the lens. Keep his shoulders relaxed with a gentle forward slouch.\nArrange his legs in a compact asymmetrical pose. Keep the camera-left lower leg nearly vertical with its foot planted flat beneath the knee. Open the camera-right knee slightly and extend that lower leg gently sideways toward camera right, keeping the foot flat on the floor rather than projecting toward the lens. Both shoes must remain naturally proportioned and approximately the same distance from the camera. Let his forearms drop naturally between his thighs, with relaxed hands positioned close together and fingertips nearly touching.\nGive his head only a very slight tilt of approximately five degrees toward camera left. Maintain direct eye contact with a calm, cool and subtly aloof fashion-editorial expression, relaxed facial muscles and lips naturally resting slightly apart—confident but not intense.\nPhotograph him from farther back, showing his complete body from head to shoes while the subject occupies approximately 75% of the frame height. Preserve generous black headroom, balanced side space and visible floor beneath his shoes. Use an almost pure matte-black seamless studio backdrop with only barely perceptible neutral-charcoal tonal separation behind the upper body, fading into near-black corners. Avoid any obvious circular glow, blue-grey background wash or visible horizon line. Let the matte-black floor merge smoothly into the backdrop, with only faint grounding shadows beneath the cube and shoes.\nUse soft, muted low-key illumination from a diffused off-camera source positioned above and slightly toward camera left, with minimal neutral frontal fill. Keep the overall exposure dark and controlled while retaining natural facial detail, denim texture and soft shadow depth. No visible studio equipment or strong rim lighting. Eye-level 85mm perspective photographed from a comfortable distance, natural compressed proportions, no wide-angle distortion or enlarged foreground shoes, premium moody streetwear editorial photography, 3:4 aspect ratio.",
-      "description": "Streetwear Fashion AI Prompt: Use this prompt to create a dark studio portrait of a stylish man in a patched denim jacket sitting on a black box.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 30,
-      "view_count": 2139,
-      "copy_count": 2278,
-      "is_premium": false,
-      "published_at": "2026-08-01T14:10:00.006Z",
-      "images": [
-        {
-          "filename": "3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "local_path": "images/boy-prompt/3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/3fb74e79-2559-4e10-9f3e-caa385c50bc4.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Streetwear Fashion AI Photo Editing Prompt. AI-generated dark studio portrait of a stylish man sitting on a black box, wearing a patched denim jacket, white hoodie, black jeans, and white sneakers."
-        },
-        {
-          "filename": "21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "local_path": "images/boy-prompt/21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "original_url": "https://img.promptplum.com/promptImages/21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/21353884-3f7f-4985-8325-edd890a7a1d7.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "AI generated studio portrait of a man sitting on a black block against a black background, wearing a white hoodie, distressed denim jacket with patches, black jeans, and white Nike sneakers."
-        }
-      ]
-    },
-    {
       "id": "6a6ce48d4bbdbe2cf5333673",
       "title": "Large 3D Name Sign Portrait",
       "slug": "boy-3d-glowing-name-letters-photo",
@@ -1911,84 +1774,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Cinematic Autumn Forest Boy Portrait AI Photo Editing Prompt. AI generated realistic portrait of a young man peacefully asleep on a leaning tree trunk in sunlit woods, wearing a red plaid shirt."
-        }
-      ]
-    },
-    {
-      "id": "6a5d307fa3af6f12203c0829",
-      "title": "Man with a Rose in a Luxury Car",
-      "slug": "man-rose-luxury-car",
-      "category": "Boy",
-      "category_slug": "boy-prompt",
-      "prompt": "Ultra realistic 16k full-body night shot of a stylish young man sitting in a luxury black car door open front view, holding a red rose, modern fashion, black vest and bright white open linen shirt, slim black pants, glossy dress shoes, sunglasses, silver wristwatch, trendy styled hair, confident pose, cinematic lighting, modern background, luxury lifestyle vibe, high detail, photorealistic, 85mm lens, golden bokeh, warm tones --ar 4:5 --v 6 --style raw",
-      "description": "Luxury Lifestyle Portrait Prompt: Use this prompt to create a photorealistic night portrait of a stylish suited man holding a red rose in a black car.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 33,
-      "view_count": 2721,
-      "copy_count": 3670,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "local_path": "images/boy-prompt/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/d0fa1016-0a01-439d-9948-c8830d9831be.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Man with Rose Photo AI Photo Editing Prompt. AI generated portrait of a handsome suited guy in a luxury car holding a red rose at night."
-        }
-      ]
-    },
-    {
-      "id": "6a593062a3af6f1220c7e351",
-      "title": "Stylish Boy Prompt for Instagram",
-      "slug": "romantic-boy-love-bokeh-photo",
-      "category": "Boy",
-      "category_slug": "boy-prompt",
-      "prompt": "Create an ultra-realistic cinematic portrait of a stylish young man sitting cross-legged in a grassy field. He is wearing a black-and-grey plaid button-up shirt with rolled sleeves, faded grey jeans, a black smartwatch, a trendy bracelet, and trendy black sunglasses. Give him messy, naturally styled hair, and a confident smile. One hand gently touches the side of his neck as he looks slightly away from the camera.\nUse dramatic orange-and-black colour grading with a selective-colour effect: keep the man outfit, grass, and most of the surroundings in soft monochrome, while the orange flowers, foliage, glowing hearts, skin tone and decorative elements remain vibrant. Add floating transparent soap bubbles, warm orange heart-shaped bokeh, and a romantic sunset atmosphere.\nPlace a small, cute, hand-drawn cartoon couple kissing on the left side, with elegant handwritten “Love” typography and glowing hearts. Keep the background creamy and softly blurred, with sharp focus on the subject, realistic skin texture, soft sunset lighting, premium DSLR fashion photography, an 85mm portrait-lens look, shallow depth of field, and a vertical 4:5 composition.",
-      "description": "Romantic Portrait Photography Prompt: Use this prompt to create a realistic photograph of a stylish boy sitting in a sunset meadow with floating love bubbles.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 90,
-      "view_count": 9750,
-      "copy_count": 7692,
-      "is_premium": false,
-      "published_at": "2026-08-04T13:42:34.213Z",
-      "images": [
-        {
-          "filename": "8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
-          "local_path": "images/boy-prompt/8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/8fc59a8e-c920-44dc-8ea6-0e788b045cd0.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Stylish Man Love Edit Portrait AI Photo Editing Prompt. AI generated digital composite portrait of a smiling man with sunglasses in a field, surrounded by heart bokeh, bubbles, and \"Love\" text."
-        },
-        {
-          "filename": "20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
-          "local_path": "images/boy-prompt/20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
-          "original_url": "https://img.promptplum.com/promptImages/20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/20d95145-5b04-4362-ab18-d8b03d6c9557.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "smiling-man-with-heart-bokeh-and-bubbles-portrait-prompt-by-promptplum-2"
-        },
-        {
-          "filename": "8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
-          "local_path": "images/boy-prompt/8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/8a25f7ea-5a6c-4319-944a-a5d525dea1b0.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "smiling-man-with-heart-bokeh-and-bubbles-portrait-prompt-by-promptplum-3"
         }
       ]
     },
@@ -2690,45 +2475,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670396",
-      "title": "The Proposal",
-      "slug": "man-puppy-rose-street-night",
-      "category": "Boy",
-      "category_slug": "boy-prompt",
-      "prompt": "Create an ultra-realistic, hyper-detailed 8K cinematic portrait of a young, stylish man with a soft, romantic undertone.\n\nUse the uploaded reference image to match his identity, facial features, skin texture, and hairstyle as closely as possible, while preserving his natural identity and realism.\nOutfit & Style\n\nHe wears a dark gray open-collar shirt with rolled sleeves, paired with sleek black pants, black polished shoes, and black socks. The styling feels modern, relaxed, and quietly elegant—confident yet effortlessly charming.\nPose & Composition\n\nThe camera is straight-on at eye level with a very subtle low-angle feel.\n\nThe man is seated casually on a textured road surface, facing the camera. His posture is relaxed yet self-assured.\n\nIn his right hand, he gently holds a pair of black sunglasses, adding a refined, cinematic accent.\n\nHis expression is calm, confident, and quietly magnetic.\nBeside him sits a small, light-colored puppy, close to his side, sitting attentively.\n\nThe puppy holds a single red rose in its mouth—introducing a romantic, tender storytelling moment that contrasts beautifully with the moody scene.\nLighting & Atmosphere\n\nThe scene takes place outdoors at night.\n\nSoft, cinematic lighting highlights both the man and the puppy.\n\nThe background features blurred dark blue and teal bokeh lights, creating a dreamy, emotional nighttime ambiance with strong depth and subject separation.\nVisual Style & Quality\n\nUltra-realistic textures, natural skin tones, sharp focus on both subjects, highly detailed fabric realism, cinematic color grading, shallow depth of field, high dynamic range (HDR), and a professional photography aesthetic.\nAspect Ratio: 4:5",
-      "description": "Create a heartwarming AI image of a handsome boy sitting on a night road with a cute Golden Retriever puppy holding a red rose. Get the full cinematic prompt featuring bokeh city lights, realistic textures, and a romantic mood for your next viral creation.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 2281,
-      "copy_count": 4464,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "local_path": "images/boy-prompt/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "original_url": "https://img.promptplum.com/promptImages/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "width": 1024,
-          "height": 1024,
-          "alt": "A handsome young man sits on a road at night next to a golden retriever puppy holding a red rose in its mouth."
-        },
-        {
-          "filename": "man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "local_path": "images/boy-prompt/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267036a",
       "title": "Love on Two Wheels",
       "slug": "love-on-two-wheels",
@@ -2793,45 +2539,6 @@
           "width": 1187,
           "height": 1769,
           "alt": "Gemini AI Generated Image of a stylish man in an olive paisley shirt and chinos leans against a glass wall, wearing sunglasses and sneakers."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267035a",
-      "title": "Man Waiting with Bouquet in Garage",
-      "slug": "man-black-suit-rose-bouquet",
-      "category": "Boy",
-      "category_slug": "boy-prompt",
-      "prompt": "Primary Instruction (Face Match / Identity Lock)\nUse the uploaded image strictly as a face and identity reference only. Preserve the exact facial structure, proportions, hairstyle, and grooming details. No beautification, no stylization, no identity drift.\n\nScene & Framing\nUltra-realistic cinematic medium-to-three-quarter shot (mid-thigh to head), not a close-up, in a 3:4 vertical aspect ratio. Camera placed at natural eye level. Subject fills about 55-65% of the frame, with strong background separation.\n\nPose & Action\nThe man leans casually against the front corner of a black luxury car.\nBody slightly angled, shoulders relaxed.\nHead naturally tilted downward toward the phone.\nLeft hand holding a smartphone at waist/chest level\nRight hand holding a bouquet lowered near the waist\n\nMood: calm, confident, romantic — clearly waiting for a date.\n\nLighting & Shadow Depth (Critical)\nLighting matches an underground parking garage:\nCool overhead fluorescent lighting creates soft top-down illumination\nClear shadow falloff under the jawline, collarbone, arms, and suit folds\nSubtle shadow separation between the subject and the car\nSubject’s physique and clothing structure are clearly defined by directional light + soft contrast\nNo flat lighting, no harsh highlights — realistic shadow depth and dimensionality.\n\nColor Tone & Look\nOverall cool blue / teal color grading, dominant in the environment and shadows.\nDeep clean blacks in the suit.\nSkin tones remain natural and realistic.\nThe red roses provide the only warm color contrast.\n\nOutfit & Details\nAll-black outfit: fitted black suit jacket, black open-collar shirt (no tie), black trousers, black belt with silver buckle.\nDark square sunglasses.\nLarge silver metal chronograph watch on the left wrist.\nNaturally styled hair, well-groomed appearance.\n\nBouquet\nWrapped in black paper with red roses, white lilies, small blue/purple flowers, and green foliage.\n\nCar Visibility\nOnly the front section of the car is visible — vertical chrome grille, partial headlight, glossy hood reflections. License area cropped.\n\nBackground & Depth of Field\nUnderground parking garage with low ceiling, fluorescent strip lights, orange pillars with white numbering.\nVery strong depth of field blur — background dissolves into soft cinematic bokeh, keeping the subject sharply isolated.\n\nStyle & Quality\nUltra-photorealistic cinematic fashion photography, realistic light physics, accurate shadows, shallow depth of field, high detail in fabric, skin, metal, flowers, and reflections.\n\nNo text, no watermark, no logos.\n\nNegative Prompt (Avoid):\nclose-up portraits, tight face crop, selfie angle, flat lighting, overexposed highlights, blown whites, washed-out blacks, grey or faded black suits, warm yellow lighting, orange color cast, oversaturated skin tones, HDR look, artificial glow, soft beauty lighting, beauty retouching, face smoothing, plastic skin, altered facial features, identity drift, inaccurate face match, exaggerated jawline, incorrect beard density, distorted sunglasses, incorrect watch design, incorrect hand positions, missing bouquet, incorrect flower colors, wrong bouquet wrapping, overly bright roses, cartoonish flowers, incorrect car type, sports car styling, missing chrome grille, incorrect grille pattern, excessive car visibility, full car body in frame, cluttered composition, busy background, sharp background, low depth of field failure, background in focus, noisy shadows, crushed blacks, loss of shadow detail, lens flare, motion blur, tilt-shift effect, stylized color grading, cinematic LUTs that remove realism, text overlays, watermarks, logos, signatures, brand names, artifacts, AI distortions, extra fingers, deformed hands, unnatural posture, incorrect pose.",
-      "description": "Romantic Lifestyle AI Prompt: Get this prompt to create a high-quality portrait of a handsome man in an all-black suit waiting with roses near a car.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 118,
-      "view_count": 5776,
-      "copy_count": 10655,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "local_path": "images/boy-prompt/Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/Gemini_Generated_Image_xtw3qxxtw3qxxtw3.jpg",
-          "width": 1187,
-          "height": 1769,
-          "alt": "Gemini AI Generated Image of A stylish man in a black suit and sunglasses leans on a dark car in a parking garage, holding a bouquet of flowers and looking at his phone."
-        },
-        {
-          "filename": "fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "local_path": "images/boy-prompt/fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "original_url": "https://img.promptplum.com/promptImages/fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/fe50b2b6-7226-4fb8-8391-b938cf5880a8.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "stylish-man-holding-bouquet-by-car-image-prompt-by-promptplum"
         }
       ]
     },
@@ -3549,35 +3256,6 @@
           "width": 1888,
           "height": 2242,
           "alt": "Gemini Ai Generated Image: A man wearing a black denim jacket and black pants is sitting on a matte grey motorcycle (a Jawa bike) outdoors in a tree-lined area. He is wearing sunglasses and white shoes."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670263",
-      "title": "Imaginary Walk",
-      "slug": "imaginary-walk",
-      "category": "Boy",
-      "category_slug": "boy-prompt",
-      "prompt": "Realistic style, me and neon girl walking on diamy street road, me holding neon girl hand, wearing white hoodie and black jeans, white sneakers. appears a Golden glowing, neon-style illustration of a girl. The neon girl emits a soft golden light, contrasting against the dark, blurry background of city lights in the distance. The atmosphere feels calm, melancholic, and slightly surreal, blending reality and imagination. 100% accurate my face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 3204,
-      "copy_count": 4917,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251204_161936.jpg",
-          "local_path": "images/boy-prompt/IMG_20251204_161936.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_161936.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/boy-prompt/IMG_20251204_161936.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/boy-prompt/IMG_20251204_161936.jpg",
-          "width": 1760,
-          "height": 2399,
-          "alt": "Ai Generated Image: The image shows a young man walking down a wet, dark city street at night, holding hands with a glowing, neon-yellow outline of a girl. It has a surreal, romantic, or fantasy feel."
         }
       ]
     },

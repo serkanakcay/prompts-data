@@ -1,7 +1,7 @@
 {
   "category": "Travel & Vacation",
   "slug": "travel-vacation",
-  "total_prompts": 50,
+  "total_prompts": 43,
   "updated_at": "2026-09-24T13:13:05Z",
   "prompts": [
     {
@@ -288,56 +288,6 @@
       ]
     },
     {
-      "id": "6a721ca14bbdbe2cf5b7dc0a",
-      "title": "Good Days and Doodle Skies",
-      "slug": "happy-couple-doodle-art",
-      "category": "Travel & Vacation",
-      "category_slug": "travel-vacation",
-      "prompt": "Create an 8K ultra-high-resolution, hyper-realistic lifestyle portrait of a couple sitting side by side on the white roof of a vintage teal camper van, set against a clear, vivid deep-blue sky. Maintain accurate identity and precise facial likeness to the provided reference image(s) for both subjects.\nSubjects & Pose: The man sits on the left, wearing a relaxed white linen button-down shirt with rolled sleeves, loose beige trousers, and grey canvas sneakers. He is turned slightly toward the woman, looking at her with a soft, affectionate smile. The woman sits on the right, wearing a light, airy white spaghetti-strap sundress paired with white sneakers. She is laughing naturally, looking forward with a joyful expression. She holds a small yellow daisy delicately in one hand and a cluster of pastel balloons (soft blue, pale yellow, and white) in the other. Both subjects sit casually with their legs dangling over the edges of the van's windows, conveying a relaxed, carefree mood.\nEnvironment & Background: The background is a clean, open sky in a vivid deep-blue tone with no clutter. The lower foreground features slightly blurred wildflowers (white daisies and green stems) to add depth and a natural springtime feel. The teal camper van has a vintage aesthetic, with visible window framing and subtle reflections.\nGraphic Overlay Style: Overlay the scene with playful, hand-drawn doodles in a soft pastel palette (white, yellow, pink, and light blue), including simple flowers, smiling faces, stars, hearts, clouds, sparkles, and motion lines around the couple and balloons. Add handwritten-style white text floating in the sky reading: \"good days,\" \"stay close,\" and \"happy place.\" The typography should feel casual, light, and whimsical — like chalk or marker doodles.\nLighting & Mood: Bright, soft natural daylight (midday to early afternoon), evenly lit with minimal harsh shadows. The overall mood is warm, romantic, cheerful, and carefree, evoking a dreamy spring/summer vibe, while the color grading stays cool/neutral rather than warm-toned. \nComposition & Camera: Vertical framing (3:4 aspect ratio), eye-level perspective aligned with the van roof. Subjects are placed slightly below center, leaving ample negative space above for the text and doodles. Balanced composition with the couple as the focal point.\nTechnical Details: Shot on a professional DSLR, 85mm lens, f/2.8 aperture for shallow depth of field, ultra-detailed textures, crisp focus on the subjects, soft background blur, 8K resolution, neutral/cool color tone (not warm).",
-      "description": "Mixed Media Art Prompt: Copy & paste this prompt to create a joyful aesthetic image of a happy couple sitting on a vintage teal van with pastel balloons and playful sky doodles.",
-      "ai_tools": [
-        "ChatGPT",
-        "Gemini"
-      ],
-      "like_count": 66,
-      "view_count": 1271,
-      "copy_count": 1545,
-      "is_premium": false,
-      "published_at": "2026-08-04T17:08:49.083Z",
-      "images": [
-        {
-          "filename": "fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "local_path": "images/travel-vacation/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/fd50de1a-a3e7-4dda-a31c-376e102640d6.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT Image Aug 15, 2026, 10_56_49 PM"
-        },
-        {
-          "filename": "56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "local_path": "images/travel-vacation/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "original_url": "https://img.promptplum.com/promptImages/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/56d58b38-3118-4506-9845-9cc92aca245b.webp",
-          "width": 1086,
-          "height": 1448,
-          "alt": "ChatGPT Image Aug 15, 2026, 11_13_58 PM"
-        },
-        {
-          "filename": "f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "local_path": "images/travel-vacation/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/f65464cf-330d-4558-ab8f-ce62bf9e24d0.jpg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Happy Couple on a Vintage Teal Van with Playful Doodles AI Photo Editing Prompt. AI generated digital mixed-media illustration of a couple on a teal van roof with pastel balloons, daisies, and a sky full of hand-drawn hearts, stars, and playful text doodles."
-        }
-      ]
-    },
-    {
       "id": "6a7218314bbdbe2cf5b7474e",
       "title": "A Mediterranean Morning",
       "slug": "european-summer-vacation-aesthetic",
@@ -393,35 +343,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Milan Piazza Fashion Photo AI Photo Editing Prompt. AI generated street portrait of a smiling man in a black knit polo and loose blue jeans standing on wet pavement in front of Milan Cathedral with a rainbow visible."
-        }
-      ]
-    },
-    {
-      "id": "6a6bf4964bbdbe2cf5164226",
-      "title": "Couple Walking on Tropical Beach",
-      "slug": "romantic-couple-beach-walk-portrait",
-      "category": "Travel & Vacation",
-      "category_slug": "travel-vacation",
-      "prompt": "Create a premium, ultra-realistic tropical vacation portrait of the uploaded couple, preserving each person’s individual facial identity, skin tone, age, hairstyle and recognizable features without blending their features. Dress the woman in an airy beige linen V-neck midi dress with natural flowing movement, simple jewellery and a woven straw shoulder bag, leaving her barefoot. Dress the man in a lightweight white linen button-down shirt with rolled sleeves, tailored beige shorts and clean white low-top sneakers. Place them walking naturally side by side toward the camera along the shoreline, following a slightly diagonal path across the sand. They share relaxed body language, a gentle arm-around interaction and warm, cheerful expressions while looking at each other. Surround them with soft sand, turquoise water and towering green limestone cliffs, with a light ocean breeze moving their hair and clothing. Position the camera several metres ahead of them at eye level, capturing a natural frontal three-quarter full-body view. Use soft golden-hour sunlight, accurate skin exposure, realistic fabric and skin texture, an 85mm perspective and f/3.2 depth of field. Premium tropical travel lifestyle photography, 4:5 aspect ratio.",
-      "description": "Photorealistic Couple Photography Prompt: Use this to generate a realistic image of a romantic couple walking on a tropical beach near limestone cliffs.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 37,
-      "view_count": 2333,
-      "copy_count": 2520,
-      "is_premium": false,
-      "published_at": "2026-07-31T01:04:22.792Z",
-      "images": [
-        {
-          "filename": "2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "local_path": "images/travel-vacation/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "original_url": "https://img.promptplum.com/promptImages/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/2e9ee7f5-50db-4e89-be13-0ae0d736c839.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Beach Couple Photography AI Photo Editing Prompt. AI generated photorealistic portrait of a smiling young couple strolling barefoot on a sandy tropical beach near turquoise water and limestone cliffs."
         }
       ]
     },
@@ -835,55 +756,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670478",
-      "title": "Tropical Wave Riders",
-      "slug": "animated-couple-surfing-wave-barrel",
-      "category": "Travel & Vacation",
-      "category_slug": "travel-vacation",
-      "prompt": "Create a full-body high-quality 3D Pixar-style portrait image of a joyful couple surfing together inside the barrel of a massive, curling ocean wave.\nCharacter Identity (VERY IMPORTANT):\nMUST maintain accurate identity and face matching to the provided reference image for all subjects — preserve exact facial structure, proportions, skin-tone, hairlines. Adapt the features into a 3D Pixar-style aesthetic while strictly retaining recognizable likeness and unique facial characteristics.\nCharacters & Poses: Female: Natural, flowing hair catching the light, large expressive eyes, and a radiant, wide smile. She is balanced perfectly on an orange surfboard, leaning forward slightly.\nMale: Natural, textured hair, and a look of pure excitement. He is riding parallel to her on his own orange board, arms out for stability.\nOutfits: Matching professional-grade wetsuits. The woman’s suit features a vibrant geometric pattern of orange, yellow, and navy blue. The man’s suit is primarily navy with matching orange and yellow accents on the chest and sides.\nEnvironment & Background: The couple is \"getting tubed\" inside a stunning, translucent turquoise wave. The wave is curling perfectly overhead, with intricate water spray and white sea foam captured in mid-air. In the blurred background, a sun-drenched tropical beach with soft white sand and silhouettes of palm trees is visible.\nComposition & Camera Angle: A dynamic low-angle shot looking up at the couple from the water's surface. This perspective emphasizes the scale and power of the wave while keeping the characters as the central focus.\nLighting: Cinematic mid-afternoon lighting. The sun is slightly low on the horizon, creating a slightly warm, golden glow that illuminates the translucent water, adds rim lighting to the characters' hair, and creates sparkling highlights on every water droplet.\nTechnical Details: 8k resolution, Octane render, ray-tracing for realistic water reflections, hyper-detailed textures (fabric of the wetsuits, hair strands, water bubbles), vibrant and saturated color palette, shallow depth of field.\nAspect Ratio: 4:5",
-      "description": "3D Animated Illustration Prompt: Use this prompt to generate a vibrant, Pixar-style image of a happy couple surfing inside a massive turquoise ocean wave at a tropical beach.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 21,
-      "view_count": 386,
-      "copy_count": 406,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "local_path": "images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Gemini said Couple Surfing on a Wave AI Photo Editing Prompt. AI generated 3D digital illustration of a happy man and woman in colorful wetsuits surfing together inside the barrel of a turquoise ocean wave."
-        },
-        {
-          "filename": "couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "local_path": "images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "local_path": "images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/couple-surfing-inside-wave-3d-illustration-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670444",
       "title": "The Gold Standard",
       "slug": "man-luxury-fashion-black-g-wagon-night",
@@ -942,35 +814,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670412",
-      "title": "The Sweetest Journey",
-      "slug": "romantic-couple-walking-nature-park",
-      "category": "Travel & Vacation",
-      "category_slug": "travel-vacation",
-      "prompt": "Create a hyper-realistic, ultra-detailed 8K full-body portrait photograph of a romantic couple walking naturally toward the camera on a rustic wooden boardwalk during golden hour.\nUse the provided reference image to replicate both subjects’ identities and facial structures accurately. Maintain precise facial proportions, bone structure, hairstyle accuracy, and consistent natural skin tone.\n\nComposition & Framing\nVertical 4:5 aspect ratio\nFull-body framing (head to toe visible)\nNatural mid-step walking pose\nSymmetrical boardwalk perspective with strong leading lines\nSubjects-centred while allowing environmental depth\nEnvironment & Setting\nThe couple walks along a serene wooden boardwalk surrounded by lush greenery.\n\nThe boardwalk extends symmetrically into the distance.\nDense green plants and tall grass frame both sides naturally.\nArching trees create a soft canopy overhead.\nSunlight filters gently through leaves.\nGolden hour lighting produces warm, diffused backlight with soft atmospheric haze.\nThe background has a shallow depth of field with smooth bokeh.\nFoliage texture remains subtly visible (not overly blurred).\nOverall mood: peaceful, cinematic, romantic, naturally illuminated with warm, earthy tones.\nMale Subject\nWell-groomed man with neatly styled hair (exactly matching reference image).\nCrisp white button-down shirt (top buttons open).\nSleeves rolled to forearms.\nSlim-fit light khaki trousers.\nClean white full sneakers.\nA gold wristwatch on the left wrist.\nPose & Expression:\n\nLeft hand casually inside the trouser pocket.\nRight arm slightly bent.\nSoft, relaxed smile.\nFace turned 10–30 degrees toward the woman (not directly at the camera).\nSoft eye contact with a female.\nNatural candid intimacy.\nFemale Subject\nGraceful woman with natural hair styled in a neat bun (match reference precisely).\nSoft white/ivory midi dress.\nShort sleeves, square neckline.\nDress flowing naturally around the legs mid-walk.\nMinimal sandals.\nDelicate necklace.\nWristwatch.\nPose & Expression:\n\nHead gently resting against his shoulder.\nHolding his arm with both hands affectionately.\nGentle smile.\nEyes lowered / slightly closed.\nWarm, intimate body language.\nMood & Emotion\nRomantic, serene, intimate, natural connection.\n\nBody language expresses comfort, affection, and emotional closeness.\nLighting & Photography Specifications\nGolden hour natural backlighting\nSoft diffused frontal fill light for facial clarity\nSubtle soft key illumination on faces\nSlightly glossy, healthy skin finish\nNatural highlights on cheekbones and forehead\nWarm cinematic colour grading\nBalanced earthy browns and natural greens\nHigh dynamic range\nSharp focus on subjects\nShallow depth of field\nSoft background bokeh\nProfessional DSLR quality\n85mm lens look\nf/2.8 aperture\nRealistic fabric folds\nNatural walking motion captured mid-step\nSubtle wind movement in the dress\nUltra-detailed 8K skin texture\nNegative Prompt\nLow quality, blur, motion blur on faces, overexposed highlights, underexposed shadows, harsh lighting, flat lighting, direct eye contact with the camera, excessive golden-hour saturation, overly warm colour cast, unnatural skin tones, distortion, grain, noise, washed-out colours, plastic skin texture, stiff posing.",
-      "description": "Use this prompt to generate a high-quality lifestyle photograph of a romantic couple walking on a wooden boardwalk. It captures a man and woman in elegant casual attire, sharing a serene moment amidst lush greenery and warm golden hour lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 111,
-      "view_count": 4510,
-      "copy_count": 14838,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "couple-walking-nature-portrait-by-promptplum.webp",
-          "local_path": "images/travel-vacation/couple-walking-nature-portrait-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-walking-nature-portrait-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/couple-walking-nature-portrait-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/couple-walking-nature-portrait-by-promptplum.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Couple on Boardwalk AI Photo Editing Prompt. AI generated lifestyle portrait of a man in a white shirt and a woman in a cream dress walking together on a wooden path surrounded by sunlit greenery."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703f5",
       "title": "The Silk Silhouette",
       "slug": "parisian-cafe-street-style-woman",
@@ -996,95 +839,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Elegant Woman at Parisian Cafe AI Photo Editing Prompt. AI generated lifestyle portrait of a sophisticated woman in a white silk blouse and olive green satin skirt sitting at an outdoor bistro table."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267038b",
-      "title": "Vintage Beachside Vacation",
-      "slug": "vintage-beachside-vacation",
-      "category": "Travel & Vacation",
-      "category_slug": "travel-vacation",
-      "prompt": "Reference Usage (Safe & Compliant)\n\nUse the uploaded reference images only as visual guidance for facial features and overall appearance of both people.\n\nPreserve strong resemblance, facial proportions, hairstyle, and natural expression.\n\nNo age change, no beautification, no face morphing.\nScene & Style\nCreate a vibrant, high-end 3D caricature (bobblehead) couple portrait with oversized heads and expressive faces, while keeping realistic skin, fabric, metal, and water textures.\nStyle:\n\nPremium Pixar / Gemini-like realism\nClean, polished, ultra-detailed\nCommercial-quality 3D render\nSubjects & Pose\nA man and a woman sit side-by-side on the front hood edge of a vintage 1950s-style pickup truck parked on a sunny beach.\nMan (left):\n\nNatural hair, well-groomed beard (if present)\nBig friendly grin, wide open eyes\nOutfit matches the reference image\nWoman (right):\n\nNatural hair tied back\nLaughing joyfully (natural smile, slightly squinted eyes)\nOutfit matches the reference image\nFootwear rule (important):\n\nBoth subjects are barefoot.\n\nNo shoes, slippers, or sandals.\n\nNatural toes, relaxed feet posture.\n\nTheir legs hang naturally over the hood edge, giving a relaxed vacation vibe.\nBackground & Environment\nBright tropical beach with clear turquoise water.\nWater interaction (important):\n\nGentle ocean water reaches the truck tires\nVisible soft splashes and ripples around the tires\nWhite foam, wet sand reflections\nShallow, calm water — no dramatic waves\nDistance:\n\nTropical shoreline with lush green trees\nSubtle beach curve\nRight side:\n\nTall palm trees leaning toward the ocean\nIndividual leaves visible\nSky:\n\nMid-day summer daylight\nBright sun overhead\nWarm, natural tones\nScattered soft clouds\nNo sunset, no golden hour, no evening mood\nVehicle\nVintage pickup truck with:\n\nPolished silver/blue metallic paint\nChrome grille, bumper, and headlight rings\nHighly reflective surfaces showing sky, sand, and water\nClean, showroom condition\nLighting & Camera\nMid-day natural sunlight\nBright, neutral light\nSoft natural shadows\nNo dramatic contrast\nEye-level camera\nMedium shot\nCentered composition\nShallow depth of field (background slightly soft)\nUltra-sharp faces, fabric texture, and water detail\nBrand Signature (Subtle)\nAdd a small handwritten-style signature text:\nPromptPlum.com ❤️\nPlacement: bottom-right or bottom-left corner\n\nStyle: elegant, handwritten, premium\n\nColor: soft white or charcoal\n\nNo glow, no shadow, no emboss\n\nMust not overlap faces or main subjects\n\nMust feel naturally composited\nOutput Quality\nUltra-detailed 3D render\nRealistic materials\nHigh resolution\nCrisp edges\nNo noise\nPremium commercial finish\nAspect ratio: 4:5 (portrait)\nNegative Prompt\nWatermark, sparkles, icons, shoes, slippers, sandals, low resolution, blurry faces, wrong likeness, extra fingers, deformed hands, incorrect body shape, plastic skin, harsh shadows, neon colors, cartoon outlines, cluttered background.",
-      "description": "Get the ultimate AI image prompt for creating a 3D romantic caricature couple on a beach vacation. Generate stunning, Pixar-style illustrations featuring a happy couple sitting on a vintage truck with tropical palm trees, ocean waves, and cinematic lighting.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 80,
-      "view_count": 1516,
-      "copy_count": 3071,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "local_path": "images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-6.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A joyful 3D caricature of a smiling couple sitting on the hood of a vintage blue truck at a tropical beach, surrounded by palm trees and turquoise water."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "local_path": "images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "local_path": "images/travel-vacation/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/Gemini_Generated_Image_zd81xxzd81xxzd81.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple on a vintage blue truck at a tropical beach. The woman wears a floral saree, the man a green t-shirt. Sunny ocean backdrop with palm trees."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "local_path": "images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-2.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "local_path": "images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-4.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple sitting on a vintage truck at a sunny tropical beach with palm trees and ocean waves. A romantic vacation illustration."
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "local_path": "images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-3.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        },
-        {
-          "filename": "romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "local_path": "images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/romantic-caricature-couple-beach-vacation-illustration-ai-image-prompt-5.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: 3D caricature of a smiling couple on a silver truck's hood at a tropical beach. Sunny sky, palm trees, and ocean waves create a vibrant, romantic vacation vibe with a cinematic finish."
         }
       ]
     },
@@ -1124,35 +878,6 @@
           "width": 736,
           "height": 1104,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670371",
-      "title": "Beach Bums & Bonnet Sits",
-      "slug": "beach-bums-bonnet-sits",
-      "category": "Travel & Vacation",
-      "category_slug": "travel-vacation",
-      "prompt": "Create a 3D hyper-realistic caricature of a happy couple sitting on the chrome front bumper of a classic vintage American pickup truck, with a scenic tropical beach sunset in the Philippines as the background, featuring palm trees and turquoise water. The couple has exaggerated heads. The man (use uploaded photo 1) is wearing a blue shirt with the print ‘he,’ short pants, and slippers, with a goofy wide grin. The woman (use uploaded photo 2) is wearing a cozy, textured knit light-purple sweater with the print ‘she’ and leggings, laughing. Include expressive facial features, highly detailed skin pores, and fabric textures. 8K resolution, aspect ratio 3:4.",
-      "description": "Master the art of 3D caricature with this high-detail AI prompt! Generate a stylized couple sitting on a vintage car against a tropical beach sunset. Features cinematic lighting, vibrant colors, and customizable graphic tees for a playful, modern aesthetic.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 54,
-      "view_count": 1946,
-      "copy_count": 4587,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "local_path": "images/travel-vacation/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/Gemini_Generated_Image_55t79c55t79c55t7.jpg",
-          "width": 1254,
-          "height": 1680,
-          "alt": "Gemini AI Generated Image of A 3D caricature of a smiling couple with big heads sitting on a car hood at a beach sunset."
         }
       ]
     },
@@ -1453,35 +1178,6 @@
           "width": 1299,
           "height": 1612,
           "alt": "Gemini AI Generated Image: A realistic medium shot of a young man standing in the middle of a busy city street surrounded by tall glass skyscrapers. He has short brown hair and a beard, and is wearing a dark grey oversized t-shirt with white text reading \"PROMPT P\", camouflage cargo shorts, and a large olive green backpack. He has black headphones resting around his neck and holds a silver water bottle in his right hand. The background features blurred pedestrians, a crosswalk, and yellow taxi cabs, suggesting a setting like New York City."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526702df",
-      "title": "Paradise found with you.",
-      "slug": "paradise-found-with-you",
-      "category": "Travel & Vacation",
-      "category_slug": "travel-vacation",
-      "prompt": "Use the uploaded image strictly as a visual and facial reference. Preserve realistic facial structure, proportions, skin tone, and expressions. Do not stylize or alter faces.\nCreate an ultra-realistic travel selfie photograph of a couple standing on a narrow dirt hiking trail with wooden safety railings on both sides, located at Kelingking Beach, Nusa Penida, Bali.\n\nSubjects, Clothing & Accessories (Locked)\nA couple standing close together, smiling naturally.\nOne person holds the camera in an arm-extended wide-angle selfie.\nMan: wearing a loose white linen shirt, white shorts, beige sandals, and dark sunglasses.\nWoman: wearing a white tunic-style top, white pants, pearl-style sandals, and sunglasses.\nClothing is light, breathable, casual, and suitable for hiking.\nNatural posture, relaxed tourist vibe.\nScene & Background (Match Reference)\nThe iconic T-Rex–shaped limestone cliff formation is clearly visible behind them.\nA curved sandy beach appears below between the cliffs.\nThe ocean is deep blue to turquoise, with white waves crashing against the rocks.\nThe trail is surrounded by dense, lush tropical greenery, with rich green foliage covering the cliffside.\nNatural rock textures and vegetation are clearly defined.\nClear open sky and distant ocean horizon.\nLighting & Image Color Tone (Late Morning)\nShot in late-morning daylight.\nBright, clean natural light with the sun higher in the sky.\nSoft, short shadows.\nFresh, vibrant green tones in vegetation.\nCool, crisp ocean blues without golden color cast.\nNatural skin tones, evenly lit, no harsh contrast.\nCamera & Quality\nWide-angle selfie lens\nSlight edge distortion for realism\nDeep depth of field (subjects and background both sharp)\nTravel photography style\nDSLR-quality clarity\nUltra-realistic textures (skin, fabric, wood, rock, water)\nNo filters. No cinematic grading. No artificial glow.\nAspect ratio:\n\n– 4:5 vertical (Instagram)",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 146,
-      "view_count": 7106,
-      "copy_count": 16506,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "local_path": "images/travel-vacation/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/travel-vacation/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/travel-vacation/Gemini_Generated_Image_7osm5c7osm5c7osm-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Gemini AI Generated Image: A high-angle selfie of a smiling couple wearing matching white linen outfits and sunglasses, standing on a cliffside path with wooden railings. Behind them is the iconic Kelingking Beach in Nusa Penida, featuring a massive, green, T-Rex-shaped rock formation jutting out into vibrant turquoise ocean waters."
         }
       ]
     },

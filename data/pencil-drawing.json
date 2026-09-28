@@ -1,7 +1,7 @@
 {
   "category": "Pencil Drawing",
   "slug": "pencil-drawing",
-  "total_prompts": 8,
+  "total_prompts": 7,
   "updated_at": "2026-09-24T13:10:46Z",
   "prompts": [
     {
@@ -98,35 +98,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Man in Red Leather Jacket and Pink Sunglasses AI Photo Editing Prompt. AI generated pencil sketch illustration of a mustached man wearing a red leather biker jacket and pink round sunglasses, standing in a European cobblestone alley."
-        }
-      ]
-    },
-    {
-      "id": "6a89cab44bbdbe2cf5ed2240",
-      "title": "Matching Hoodie Couple Pencil Illustration",
-      "slug": "crown-queen-couple-art-prompt",
-      "category": "Pencil Drawing",
-      "category_slug": "pencil-drawing",
-      "prompt": "Create an ultra-detailed black-and-white graphite pencil sketch of a couple standing side by side in a playful, romantic pose. The woman stands on the left with long, voluminous hair, wearing an oversized light sweatshirt, dark loose cargo-style pants with multiple pockets, dark sneakers. She has her arms crossed, one leg slightly bent and crossed over the other, with a cute annoyed expression while looking sideways toward the man. A simple hand-drawn crown doodle appears above her head.\nThe man stands on the right, with neatly styled detailed  hair, wearing an light oversized hooded sweatshirt, dark loose cargo pants with multiple pockets, and dark sneakers. His hands are casually tucked into the hoodie pocket, one leg slightly crossed, and he looks down at the woman with a soft, amused, affectionate smile. Add small hand-drawn heart doodles near him, including a speech bubble containing a heart.\nFull-body vertical composition, both subjects centered and clearly visible from head to sneakers, natural overlapping pose, clean white background, subtle pencil shading and soft graphite smudging around the figures. Highly detailed facial features, realistic hair strands, fabric folds, denim texture, sneaker details, expressive body language, delicate linework, hand-drawn doodle accents, realistic graphite texture, soft tonal gradients, elegant white negative space.\nStyle: photorealistic hyper-detailed pencil drawing, professional graphite portrait illustration, 8k ultra-detailed, super fine textured, monochrome, clean sketch aesthetic, realistic proportions, no color, no text, no distortion, no extra fingers or limbs, no anatomy errors. Vertical 4:5 composition, high resolution.\nPreserve the exact facial identity of both reference subjects. Match their facial features, face shape, eyes, eyebrows, nose, lips, jawline, hairline, and natural proportions as closely as possible to the uploaded reference image.",
-      "description": "Pencil Sketch Couple Prompt: Copy & paste this prompt to create a black-and-white illustration of a crowned girl crossing her arms beside her heart-struck boyfriend in matching oversized streetwear.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 42,
-      "view_count": 1095,
-      "copy_count": 1628,
-      "is_premium": false,
-      "published_at": "2026-08-22T16:13:40.616Z",
-      "images": [
-        {
-          "filename": "f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "local_path": "images/pencil-drawing/f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/pencil-drawing/f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/pencil-drawing/f5a17ec6-c315-4116-8970-d94601e5627c.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Crown Girl and Heart-Struck Boyfriend Sketch AI Photo Editing Prompt. AI generated pencil illustration of a couple in oversized hoodies, the girl crossing her arms under a doodled crown while the boy smiles with a heart speech bubble beside him."
         }
       ]
     },

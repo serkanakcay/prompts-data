@@ -1,68 +1,9 @@
 {
   "category": "Anime & Manga",
   "slug": "anime-manga",
-  "total_prompts": 13,
+  "total_prompts": 10,
   "updated_at": "2026-09-24T12:50:24Z",
   "prompts": [
-    {
-      "id": "6ab11c1442ae1b78ac7d27c2",
-      "title": "3D Cartoon Couple in Matching Green Outfits",
-      "slug": "cute-3d-couple-character-portrait",
-      "category": "Anime & Manga",
-      "category_slug": "anime-manga",
-      "prompt": "Create a high-end stylized 3D fashion render of a cute couple standing together against a deep black studio background. The characters have cute, polished 3D animated-film aesthetics with slightly oversized heads, expressive large eyes, smooth facial features, realistic-looking 3D hair strands, soft skin shading, and refined proportions.\nFemale character: petite woman wearing a lime-green sleeveless embellished traditional-inspired long dress with delicate reflective sequins and sparkling bead details throughout the fabric. The dress has thin shoulder straps, a fitted upper body, and a flowing long silhouette with a decorative trailing side panel. She wears loose black wide-leg pants underneath and clean white platform sneakers. Her long dark hair is styled in a voluminous elegant updo with soft curls and loose strands, decorated with small white daisy flowers. She wears small black oval sunglasses and gently holds the frame with right hand while looking toward the male character with a sweet, playful expression.\nMale character: hansome man standing beside her, wearing a light lime-green button-up shirt with sleeves casually rolled to the forearms, paired with relaxed black wide-leg trousers and clean white platform sneakers. He has naturally styled, dark hair with detailed individual strands, black oval sunglasses. One hand is casually placed inside his trouser pocket while the other arm naturally rests beside the woman. His body is slightly angled toward her with a subtle warm smile.\nPose & interaction: the couple stands close together in a natural affectionate pose. The woman gently holds the man's arm with her left hand while he stands relaxed beside her. Both are facing slightly toward each other, creating a charming coordinated-couple fashion portrait.\nLighting: dramatic premium studio lighting with a soft key light illuminating their faces and clothing, subtle rim lighting around the hair and shoulders, gentle highlights on the sequins and sunglasses, soft realistic shadows beneath the characters, and a subtle reflected light on the glossy black floor.\nStyle: premium 3D character art, stylized 3D fashion illustration, high-end animated movie character design, polished CGI, smooth PBR materials, realistic fabric textures, detailed hair grooming, soft skin subsurface scattering, cinematic studio render, glossy yet natural finish, sophisticated color harmony, ultra-detailed 3D modeling, clean edges, realistic depth and shadows.\nComposition: Aspect ratio 4:5, full-body portrait, both characters completely visible from head to shoes, centered composition, vertical framing, slightly low eye-level camera perspective, clean black negative space surrounding the couple, subtle floor reflection, professional fashion editorial presentation.\nTechnical: ultra-detailed 3D render, 8K quality, sharp focus, realistic global illumination, ambient occlusion, ray-traced reflections, cinematic depth of field, high-quality textures, no identity change, no photorealistic human appearance, no flat 2D illustration, no sketch, no watermark, no text.",
-      "description": "3D Character Illustration Prompt: Copy & paste this prompt to create a beautiful 3D cartoon style illustration of a stylish couple wearing matching light green and black outfits with sunglasses against a dark background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 4,
-      "view_count": 349,
-      "copy_count": 258,
-      "is_premium": false,
-      "published_at": "2026-09-21T11:59:16.953Z",
-      "images": [
-        {
-          "filename": "8203ff1b-bac5-4cfe-9dbd-412bdf35cfbe.jpeg",
-          "local_path": "images/anime-manga/8203ff1b-bac5-4cfe-9dbd-412bdf35cfbe.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/8203ff1b-bac5-4cfe-9dbd-412bdf35cfbe.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/8203ff1b-bac5-4cfe-9dbd-412bdf35cfbe.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/8203ff1b-bac5-4cfe-9dbd-412bdf35cfbe.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "3D Cartoon Couple in Matching Green Outfits 3D Illustration AI Photo Editing Prompt. AI generated 3D illustration of a stylish animated man and woman wearing matching light green and black outfits with sunglasses standing together.   "
-        },
-        {
-          "filename": "3d7d1afa-c2ec-4254-a11b-6306da4bea2f.jpeg",
-          "local_path": "images/anime-manga/3d7d1afa-c2ec-4254-a11b-6306da4bea2f.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/3d7d1afa-c2ec-4254-a11b-6306da4bea2f.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/3d7d1afa-c2ec-4254-a11b-6306da4bea2f.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/3d7d1afa-c2ec-4254-a11b-6306da4bea2f.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "3D Cartoon Couple in Matching Green Outfits 3D Illustration AI Photo Editing Prompt. AI generated 3D illustration of a stylish animated man and woman wearing matching light green and black outfits with sunglasses standing together.   "
-        },
-        {
-          "filename": "f58e3fbd-7b68-428c-8846-384a75bc104f.jpeg",
-          "local_path": "images/anime-manga/f58e3fbd-7b68-428c-8846-384a75bc104f.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/f58e3fbd-7b68-428c-8846-384a75bc104f.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/f58e3fbd-7b68-428c-8846-384a75bc104f.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/f58e3fbd-7b68-428c-8846-384a75bc104f.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "3D Cartoon Couple in Matching Green Outfits 3D Illustration AI Photo Editing Prompt. AI generated 3D illustration of a stylish animated man and woman wearing matching light green and black outfits with sunglasses standing together.   "
-        },
-        {
-          "filename": "13c36279-cad0-452f-a8ae-79e65912120b.jpeg",
-          "local_path": "images/anime-manga/13c36279-cad0-452f-a8ae-79e65912120b.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/13c36279-cad0-452f-a8ae-79e65912120b.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/13c36279-cad0-452f-a8ae-79e65912120b.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/13c36279-cad0-452f-a8ae-79e65912120b.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "3D Cartoon Couple in Matching Green Outfits 3D Illustration AI Photo Editing Prompt. AI generated 3D illustration of a stylish animated man and woman wearing matching light green and black outfits with sunglasses standing together.   "
-        }
-      ]
-    },
     {
       "id": "6aa983f646d4207dc2c0e521",
       "title": "Cinematic Anime Girl Peeking Wall",
@@ -499,94 +440,6 @@
           "width": 1856,
           "height": 2304,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670462",
-      "title": "Life in Panels",
-      "slug": "man-manga-style-life-story-illustration",
-      "category": "Anime & Manga",
-      "category_slug": "anime-manga",
-      "prompt": "Create a striking mixed-media composition featuring a high-resolution photographic portrait of a reference man standing in front of a large, wall-sized black-and-white manga collage. The image should visually represent the “multifaceted” or “multiverse” nature of the subject’s personality.\n\nFraming & Scale: Subject occupies approximately 60–80% of the frame height, positioned perfectly centered in a vertical 2:3 composition\n\nExpression: Natural smile or calm confidence\n\nPose: Standing in the center foreground with a relaxed posture, hands casually in pockets, legs slightly crossed at the ankles\n\nAttire (Adaptive): Modern casual outfit (e.g., denim jacket or minimalist jacket over a plain white t-shirt, paired with fitted jeans or trousers, clean footwear). Keep styling contemporary, clean, and realistic\n\nLighting: Bright, professional studio lighting with soft shadows, ensuring strong subject-background separation and a crisp, high-end photographic look\n\nBackground (Manga Collage World)\n\nStyle: Classic Japanese manga aesthetic — bold black ink lines, screentone textures (halftone dots), high contrast, and dynamic speed lines\n\nColor: Strictly black-and-white manga style (no color in background)\n\nNarrative Panels (Same Subject as Manga Character)\n\nThe background collage features multiple manga panels depicting alternate versions of the same man in different life scenarios:\n\nRiding a motorcycle with dynamic speed lines and “VROOM” text\n\nFocused and working at a desk or computer setup\n\nWalking through a busy urban street scene\n\nUsing a smartphone or camera (vlogging/selfie perspective)\n\nLaughing or interacting with friends, expressive and social\n\nEnjoying time with family (He with his partner and two children)\n\nInclude a mix of Japanese onomatopoeia (e.g., ドキドキ, バン) and English sound effects integrated naturally into panels.\n\nComposition & Contrast\n\nStrong visual contrast between:\n\nForeground: ultra-realistic, high-detail photographic subject\n\nBackground: flat, stylized, monochrome manga world\n\nSeamless depth separation — subject should “pop” clearly from the background\n\nEnvironment & Final Details\n\nClean white floor with subtle shadow grounding the subject\n\nBalanced composition with cinematic depth\n\nMood: modern, empowered, dynamic, and aspirational — representing ambition, creativity, and social energy\n\nStrictly maintain high-fidelity facial structure and exact likeness from the reference image. Integrate the face naturally with the scene's lighting. Ensure realistic skin texture with visible pores and minor imperfections; absolutely avoid overly smooth AI skin or a pasted face-swap look.",
-      "description": "Creative Manga-Style Art Prompt: Use this prompt to generate a realistic portrait of a man integrated with a black-and-white manga storyboard illustrating his life journey and daily activities.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1012,
-      "copy_count": 1900,
-      "is_premium": false,
-      "published_at": "2026-09-20T23:48:50.622Z",
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
-          "local_path": "images/anime-manga/Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/Gemini_Generated_Image_sgq6rnsgq6rnsgq6.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Man and Manga Panels AI Photo Editing Prompt. AI generated digital illustration of a young man in a denim jacket standing against a background of black and white manga panels depicting various scenes of his life."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670454",
-      "title": "Manga Muse",
-      "slug": "woman-manga-style-lifestyle-collage",
-      "category": "Anime & Manga",
-      "category_slug": "anime-manga",
-      "prompt": "Core Concept\nA striking mixed-media composition featuring a high-resolution photograph of a woman standing in front of a large, wall-sized black-and-white manga collage. The image explores the \"multiverse\" or \"multifaceted\" nature of the subject’s personality.\n\nCentral Figure (Photographic)\nSubject: woman with a modern hairstyle, round glasses, and a face identical to the reference image. She occupies approximately 60–70% of the frame height, perfectly centered\nExpression: She has a genuine and confident smile.\nAttire: A classic blue denim jacket over a simple black t-shirt, tucked into high-waisted blue jeans. She is wearing elegant black pointed-toe high heels.\nPose: She stands in the center foreground, hands casually in her pockets, with her legs crossed at the ankles.\nLighting: Bright, professional studio lighting that makes her pop against the background.\nBackground (Manga Style)\nArt Style: Classic Japanese manga aesthetics—bold ink lines, screentone textures (dots), and dramatic speed lines.\nNarrative Panels: The background consists of various panels featuring the same woman as a manga character in different scenarios:\nTop Left: Riding a motorcycle with speed lines and the text \"VROOM.\"\nTop Right: Looking focused and intense while working at a computer desk.\nMiddle: Walking through a bustling city street.\nBottom Left: Using a smartphone on a gimbal, as if vlogging or taking a selfie.\nBottom Right: Laughing and embracing two friends, with a \"KYA!\" speech bubble nearby.\nText Elements: Integrated Japanese onomatopoeia (e.g., \"ドキドキ\" for a racing heart) and English sound effects scattered throughout the panels.\nComposition & Mood\nContrast: A sharp contrast between the vibrant, 3D realism of the woman in the foreground and the flat, 2D, monochromatic world of the white comic book background.\nVibe: Empowered, joyful, and modern. It suggests a life full of adventure, hard work, and meaningful social connections.\nFloor color white.\nAspect ratio 2:3",
-      "description": "Digital Illustration Manga Art Prompt: Use this prompt to create a creative portrait of a smiling woman in denim against a dynamic black-and-white manga collage background depicting various lifestyle scenes.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1209,
-      "copy_count": 1715,
-      "is_premium": false,
-      "published_at": "2026-09-20T23:47:58.971Z",
-      "images": [
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "local_path": "images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-3.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Collage AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a denim outfit standing against a black and white manga storyboard background."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "local_path": "images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-1.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Background Portrait Prompt. AI generated digital illustration of a smiling woman in a denim jacket posing against a black-and-white manga comic collage featuring her daily life adventures."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "local_path": "images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-4.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman with Manga Collage AI Photo Editing Prompt. AI generated digital illustration of a woman in denim standing before a black-and-white manga background depicting various lifestyle scenes."
-        },
-        {
-          "filename": "woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "local_path": "images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/anime-manga/woman-in-denim-jacket-with-manga-collage-background-digital-illustration-by-promptplum-2.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Woman in Denim with Manga Background AI Photo Editing Prompt. AI generated digital illustration of a smiling woman in a denim jacket and jeans standing against a black-and-white manga collage background featuring various scenes of her life."
         }
       ]
     },

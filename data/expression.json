@@ -1,7 +1,7 @@
 {
   "category": "Expression",
   "slug": "expression",
-  "total_prompts": 7,
+  "total_prompts": 5,
   "updated_at": "2026-09-24T12:55:11Z",
   "prompts": [
     {
@@ -168,134 +168,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "3D Stylized Male Avatar Stickers AI Prompt. AI generated 3D digital illustration of a grid showing a young man with glasses in various expressions and poses through torn paper holes."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267044e",
-      "title": "Frayed Reality",
-      "slug": "torn-photo-effect-emotional-contrast-photography",
-      "category": "Expression",
-      "category_slug": "expression",
-      "prompt": "Use the uploaded photo as a strict identity reference.\n\nThe subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain exactly identical.\n\nThis is one single continuous face (not two people, no duplication).\n⚠️ Absolute constraint:\n\nThe face must NOT change across sections. Only rendering style and emotion change.\nMain Concept\nCreate a 4:5 ultra-realistic cinematic studio portrait with DSLR realism, 8K detail, natural skin texture, and shallow depth of field.\n\nConcept: public persona vs hidden emotion revealed through a torn paper strip.\nComposition (STRICT GEOMETRY)\nVertical 4:5 portrait\nSubject perfectly centered\nFace straight, no tilt, direct eye contact\nSymmetrical alignment across the vertical axis\nSubject Framing (IMPORTANT)\nHead-and-shoulders portrait (tight crop)\nTop crop: slightly above head (minimal headroom)\nBottom crop: mid-chest level (turtleneck fully visible)\nSubject occupies ~70–80% of frame height\nVery little empty space on sides (clean editorial framing)\nBackground\nDark cinematic seamless studio background\nSmooth gradient:\nSlight neutral gray behind the head (center)\nFades to deep black toward edges and corners\nSubtle vignette effect\nNo texture, no color cast, no patterns\nTorn Paper Layout (CRITICAL)\nCreate ONE horizontal torn-paper strip across the eyes:\n\nPosition: exactly across the eye region (mid-face only)\nThickness: ~20–25% of face height\nEdges: rough, fibrous, uneven\nRight side: slightly rolled/curling paper edge (visible depth)\nRealistic paper thickness + soft shadow\n⚠️ Must look like the top layer is torn and the inner layer revealed\n\n⚠️ No duplication of face\nBase Layer (Full Image — Public Persona)\nFull color\nWarm, natural skin tones\nVisible red lipstick (clean, defined)\nSubtle, confident, closed-mouth smile\nHair:\n\nFront-falling wavy hair\nNatural flow toward the shoulders\nSoft volume, defined strands, slight shine\nOutfit:\n\nBlack turtleneck\nSoft visible fabric texture (subtle knit detail)\nLighting:\n\nSoft cinematic studio lighting\nGentle highlights + soft shadows\nSkin texture preserved (no smoothing)\nInside Torn Paper (ONLY inside strip — Hidden Emotion)\nPure black-and-white (strict monochrome)\nSame face, perfectly aligned\nExpression:\n\nEmotionally vulnerable, slightly tense\nTear (MANDATORY — DO NOT MISS)\nTwo clearly visible tear streams (one under each eye)\nSharp, reflective, well-defined\nCatching light (specular highlights)\nNot faint, not blurred\nLighting:\n\nSlightly higher contrast\nMore shadow depth around the eyes\nRealism Enforcement\nPhotorealistic DSLR output\nVisible pores and natural skin texture\nHair strands are individually defined\nTear reflections crisp and sharp\nPaper edges detailed with depth and shadow\nHard Constraints\nOne face only\nPerfect alignment across layers\nNo facial distortion\nTear must be clearly visible\nHair is consistent across layers\nNo stylization\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo vertical split\n\nNo misaligned layers\n\nNo weak or missing tears\n\nNo flat lighting\n\nNo plastic skin\n\nNo illustration/cartoon / 3D\n\nNo blur on eyes or tears\n\nNo lipstick missing\n\nNo wrong crop or loose framing",
-      "description": "Google Gemini AI Conceptual Portrait Prompt: Use this prompt to generate a striking image of a smiling woman with a torn paper effect revealing crying black-and-white eyes, symbolizing hidden emotional pain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 490,
-      "copy_count": 479,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "local_path": "images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Torn Paper Crying Eyes AI Photo Editing Prompt. AI generated conceptual portrait of a blonde woman with a torn paper strip revealing crying eyes over a smiling face."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "local_path": "images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Hidden Crying Eyes Photography Prompt. AI generated conceptual portrait of a woman smiling with red lips while a torn paper effect reveals her eyes crying in black and white."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "local_path": "images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Crying Eyes Torn Paper Photo Prompt. AI generated conceptual portrait of a smiling woman featuring a torn paper effect that reveals crying eyes in black and white."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "local_path": "images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman with Torn Paper Eyes Portrait Prompt. AI generated conceptual portrait of a smiling woman with red lipstick, featuring a horizontal paper tear effect that reveals crying eyes in grayscale."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670435",
-      "title": "Stacked Smiles",
-      "slug": "animated-family-peeking-around-wall",
-      "category": "Expression",
-      "category_slug": "expression",
-      "prompt": "Create a high-quality 3D stylized cartoon illustration based on submitted references of family members, all peeking out from behind a matte vertical wall on the left side of the frame. Only their heads, hands (where applicable), and upper torsos should be visible, positioned vertically one below the other in an aligned row, looking playful and hiding.\nSubjects must be arranged in descending age order.\nThe composition should feature a soft, textured beige pastel wall in the foreground on the left, and a soft studio gradient in a matching beige tone on the right. The style must have a soft Pixar/Disney animation look, with large expressive eyes, smooth skin, and slightly enlarged head proportions for cinematic charm, while retaining the recognizable facial features, hairstyles, and age from the reference photos.\nEveryone is gently holding the wall with small hands/paws and leaning slightly forward with curious, playful expressions. The lighting should be soft studio light with warm, gentle highlights and no harsh shadows.\nMaterials include a matte, velvety wall texture and soft fabrics. The image must be a vertical portrait with centralized framing and shallow depth of field. The final render should be ultra-sharp 4K, in an Octane/Unreal/Disney rendering style.",
-      "description": "Google Gemini AI 3D Illustration Editing Prompt: Use this prompt to create a heartwarming Pixar-style animation of a happy family, playfully peeking from behind a wall with cheerful, expressive faces.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 170,
-      "view_count": 3474,
-      "copy_count": 6705,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
-          "local_path": "images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-1-scaled.webp",
-          "width": 1429,
-          "height": 2560,
-          "alt": "Family Peeking Behind Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a cheerful family of four peeking from behind a beige wall in a playful vertical stack."
-        },
-        {
-          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
-          "local_path": "images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-4.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Family and Golden Retriever Peeking AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling cartoon family and their puppy peeking from behind a beige wall."
-        },
-        {
-          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
-          "local_path": "images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-3-scaled.webp",
-          "width": 1429,
-          "height": 2560,
-          "alt": "Happy Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a happy multi-generational family and their golden retriever peeking around a wall."
-        },
-        {
-          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
-          "local_path": "images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-5-scaled.webp",
-          "width": 1429,
-          "height": 2560,
-          "alt": "Happy Cartoon Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling three-generation family peeking vertically from behind a beige wall."
-        },
-        {
-          "filename": "happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
-          "local_path": "images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
-          "original_url": "https://img.promptplum.com/promptImages/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/expression/happy-cartoon-family-peeking-from-wall-3d-illustration-by-promptplum-2-scaled.webp",
-          "width": 1429,
-          "height": 2560,
-          "alt": "Happy Indian Family Peeking from Wall AI Photo Editing Prompt. AI generated 3D digital illustration of a multi-generational Indian family in vibrant traditional attire peeking playfully from behind a vertical wall with joyful expressions."
         }
       ]
     },

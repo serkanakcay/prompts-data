@@ -1,7 +1,7 @@
 {
   "category": "Female Portrait",
   "slug": "female-portrait",
-  "total_prompts": 15,
+  "total_prompts": 13,
   "updated_at": "2026-09-24T12:56:06Z",
   "prompts": [
     {
@@ -358,35 +358,6 @@
       ]
     },
     {
-      "id": "6a99a52b46d4207dc2280e14",
-      "title": "Beautiful Radha Portrait with Floral Jewelry and Flute",
-      "slug": "radha-krishna-theme-girl-mythological-portrait",
-      "category": "Female Portrait",
-      "category_slug": "female-portrait",
-      "prompt": "Use the uploaded image strictly ONLY for face and identity reference.\nCreate a photorealistic cinematic portrait of a beautiful woman dressed as a graceful divine-inspired Indian flute musician, centered in a vertical composition. She has smooth, glowing skin, subtle makeup, and a slight natural blush on her cheeks, voluminous smooth hair flowing naturally over her shoulders, adorned with delicate floral hair jewelry and a single elegant peacock feather. The subject is dressed in a traditional pastel blue lehenga set adorned with intricate gold embroidery—the blouse richly detailed with fine gold patterns, paired with a flowing matching skirt and a sheer dupatta draped elegantly over the arms. Delicate white-and-pink floral jewelry decorates her neck, wrists, upper arm, and ears. Elegant white traditional face art is painted across her forehead and around her eyes. She gently holds a polished wooden bansuri flute diagonally across her chest with both hands, standing with her body slightly angled while looking directly into the camera with a soft, and graceful smile.\nBackground: dreamy studio backdrop with a smooth cyan-blue glow on the left transitioning into warm peach-pink on the right, subtle atmospheric haze and soft bokeh.\nLighting: Cinematic soft beauty lighting, a slightly warm rim light from the right, gentle highlights on the hair and skin, and natural skin tones.\nComposition: medium-to-three-quarter portrait, subject centered, flute clearly visible, flowing hair creating elegant framing, shallow depth of field.\nCamera: 85mm portrait lens, f/1.8, soft background separation, high dynamic range, cinematic color grading, ultra-detailed skin and fabric textures, photorealistic, 8K resolution, 4:5 vertical aspect ratio.\nNegative prompt: distorted hands, extra fingers, extra limbs, bad anatomy, deformed face, unnatural eyes, plastic skin, duplicate objects, blurry subject, identity change.",
-      "description": "Cinematic Cultural Portrait Prompt: Copy and paste this prompt to generate a stunning, high-quality studio portrait of a beautiful Indian woman dressed as Radha, elegantly holding a wooden flute while adorned with pink floral jewelry and a peacock feather.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 2445,
-      "copy_count": 1496,
-      "is_premium": false,
-      "published_at": "2026-09-03T16:49:47.907Z",
-      "images": [
-        {
-          "filename": "3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "local_path": "images/female-portrait/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/female-portrait/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/female-portrait/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Cinematic cultural portrait of an Indian woman holding a flute AI Photo Editing Prompt. AI generated studio portrait of a beautiful smiling girl dressed in a light blue embroidered lehenga, adorned with pink floral jewelry, a peacock feather in her hair, and traditional face art, holding a wooden bansuri against a colorful glowing background."
-        }
-      ]
-    },
-    {
       "id": "6a970dde46d4207dc2efca2d",
       "title": "Casual Fashion Portrait with Printed White Tee",
       "slug": "woman-in-graphic-tshirt-portrait",
@@ -539,35 +510,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "AI-generated moody portrait of a young woman with windswept brown hair in an oversized black t-shirt, backlit by a glowing orange sunset."
-        }
-      ]
-    },
-    {
-      "id": "6a89ce894bbdbe2cf5edaf26",
-      "title": "Wooden Doorway South Indian Bridal Portrait",
-      "slug": "traditional-indian-bridal-photography-prompt",
-      "category": "Female Portrait",
-      "category_slug": "female-portrait",
-      "prompt": "Create a photorealistic, cinematic portrait of a beautiful woman standing gracefully in a traditional setting. She wears an elegant ivory-gold silk saree with a rich golden border and intricate traditional detailing, paired with a matching short-sleeved blouse featuring elaborate gold embroidery and green accents.\nHer face should have natural, refined features, glowing skin. Her hair is neatly parted and styled into a traditional low bun adorned heavily with fresh white jasmine flowers. She wears an elaborate traditional South Indian bridal jewelry set, including a detailed gold maang tikka, large jhumka earrings, layered gold necklaces, an ornate temple-style waist belt, stacked gold bangles, rings, and traditional bridal accessories. Intricate mehndi designs are visible on both hands and forearms.\nPose: Subject standing centrally, subtle natural three-quarter orientation. Her left hand rests gracefully near her waist while her right arm hangs naturally by her side. Relaxed, elegant posture with a calm, confident, affectionate expression, gazing naturally to right off-camera.\nEnvironment: A luxurious traditional South Indian interior with a large dark polished wooden doorway and warm brown wooden panels in the background. Large lush tropical green leaves and ornamental plants frame the subject naturally from both sides, creating an elegant atmosphere. Warm earthy tones complement the ivory-gold saree.\nLighting: Soft, warm diffused cinematic lighting with gentle highlights on the bride's face, jewelry, saree, and flowers. Subtle natural shadows, warm ambient glow, rich contrast, and realistic skin texture. The background is softened with a shallow depth of field while keeping the bride and her outfit sharply detailed.\nComposition: Vertical medium fashion portrait, eye-level camera, centered subject, balanced symmetrical framing, ample space around the subject. Premium Indian bridal editorial photography aesthetic.\nCamera: 85mm portrait lens, f/1.8 aperture, realistic depth of field, highly detailed fabric and jewelry textures, natural skin texture, cinematic color grading, photorealistic, ultra-realistic, 8K quality, 4:5 aspect ratio.\nNegative prompt: cartoon, illustration, artificial skin, excessive beautification, facial distortion, altered facial proportions, blurry face, malformed hands, duplicate jewelry, distorted saree, awkward anatomy, low resolution, text, watermark, logo.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a South Indian bridal portrait in a gold Kanjivaram saree with temple jewelry, jasmine flowers, and henna-adorned hands near a wooden doorway.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 34,
-      "view_count": 1336,
-      "copy_count": 1890,
-      "is_premium": false,
-      "published_at": "2026-08-22T16:30:01.310Z",
-      "images": [
-        {
-          "filename": "aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "local_path": "images/female-portrait/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/female-portrait/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/female-portrait/aee9f6eb-be79-4388-9ce4-32d65f006c0e.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "South Indian Bride in Gold Kanjivaram Saree Traditional Portrait AI Photo Editing Prompt. AI generated bridal photograph of a woman in a gold silk saree with temple jewelry, jasmine flowers in her hair, and mehndi on her hands standing near a wooden doorway."
         }
       ]
     },

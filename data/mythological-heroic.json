@@ -1,7 +1,7 @@
 {
   "category": "Mythological & Heroic",
   "slug": "mythological-heroic",
-  "total_prompts": 4,
+  "total_prompts": 3,
   "updated_at": "2026-09-24T13:10:16Z",
   "prompts": [
     {
@@ -60,35 +60,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "AI Prompt for Detailed close-up of a rugged Viking featuring Celtic brooches, fur armor, and melting snow on his beard and face."
-        }
-      ]
-    },
-    {
-      "id": "6a99a52b46d4207dc2280e14",
-      "title": "Beautiful Radha Portrait with Floral Jewelry and Flute",
-      "slug": "radha-krishna-theme-girl-mythological-portrait",
-      "category": "Mythological & Heroic",
-      "category_slug": "mythological-heroic",
-      "prompt": "Use the uploaded image strictly ONLY for face and identity reference.\nCreate a photorealistic cinematic portrait of a beautiful woman dressed as a graceful divine-inspired Indian flute musician, centered in a vertical composition. She has smooth, glowing skin, subtle makeup, and a slight natural blush on her cheeks, voluminous smooth hair flowing naturally over her shoulders, adorned with delicate floral hair jewelry and a single elegant peacock feather. The subject is dressed in a traditional pastel blue lehenga set adorned with intricate gold embroidery—the blouse richly detailed with fine gold patterns, paired with a flowing matching skirt and a sheer dupatta draped elegantly over the arms. Delicate white-and-pink floral jewelry decorates her neck, wrists, upper arm, and ears. Elegant white traditional face art is painted across her forehead and around her eyes. She gently holds a polished wooden bansuri flute diagonally across her chest with both hands, standing with her body slightly angled while looking directly into the camera with a soft, and graceful smile.\nBackground: dreamy studio backdrop with a smooth cyan-blue glow on the left transitioning into warm peach-pink on the right, subtle atmospheric haze and soft bokeh.\nLighting: Cinematic soft beauty lighting, a slightly warm rim light from the right, gentle highlights on the hair and skin, and natural skin tones.\nComposition: medium-to-three-quarter portrait, subject centered, flute clearly visible, flowing hair creating elegant framing, shallow depth of field.\nCamera: 85mm portrait lens, f/1.8, soft background separation, high dynamic range, cinematic color grading, ultra-detailed skin and fabric textures, photorealistic, 8K resolution, 4:5 vertical aspect ratio.\nNegative prompt: distorted hands, extra fingers, extra limbs, bad anatomy, deformed face, unnatural eyes, plastic skin, duplicate objects, blurry subject, identity change.",
-      "description": "Cinematic Cultural Portrait Prompt: Copy and paste this prompt to generate a stunning, high-quality studio portrait of a beautiful Indian woman dressed as Radha, elegantly holding a wooden flute while adorned with pink floral jewelry and a peacock feather.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 2445,
-      "copy_count": 1496,
-      "is_premium": false,
-      "published_at": "2026-09-03T16:49:47.907Z",
-      "images": [
-        {
-          "filename": "3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "local_path": "images/mythological-heroic/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/mythological-heroic/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/mythological-heroic/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Cinematic cultural portrait of an Indian woman holding a flute AI Photo Editing Prompt. AI generated studio portrait of a beautiful smiling girl dressed in a light blue embroidered lehenga, adorned with pink floral jewelry, a peacock feather in her hair, and traditional face art, holding a wooden bansuri against a colorful glowing background."
         }
       ]
     },

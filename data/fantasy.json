@@ -1,7 +1,7 @@
 {
   "category": "Fantasy",
   "slug": "fantasy",
-  "total_prompts": 48,
+  "total_prompts": 42,
   "updated_at": "2026-09-24T12:55:54Z",
   "prompts": [
     {
@@ -113,35 +113,6 @@
       ]
     },
     {
-      "id": "6a76bac94bbdbe2cf5250f3d",
-      "title": "Cliffside Couple Sculpture AI Prompt",
-      "slug": "mountain-face-carving-couple-art",
-      "category": "Fantasy",
-      "category_slug": "fantasy",
-      "prompt": "A professional dual portrait of a man and a veiled woman side-by-side from the head and shoulders up, their features perfectly identical to the reference images. Both of their profiles are beautifully carved into a massive coastal mountain overlooking the sea. The man features a neatly trimmed mossy beard and rocky hair, while the woman wears a hijab formed from elegant, flowing layers of grey granite rock. Patches of green alpine vegetation and moss accent their stone features. The background is a vast ocean landscape with deep teal water and towering sea cliffs under clear daylight, keeping a unified cool color palette. Calm expression. 3:4 aspect ratio.",
-      "description": "Use this Epic Fantasy Landscape Prompt to generate cinematic photos of colossal stone couple faces carved into towering sea cliffs, overlooking a dramatic fjord.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 440,
-      "copy_count": 419,
-      "is_premium": false,
-      "published_at": "2026-08-08T05:12:41.060Z",
-      "images": [
-        {
-          "filename": "c0519664-a873-457d-a777-3317e89831a6.webp",
-          "local_path": "images/fantasy/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Epic Sea Cliff Carvings AI Photo Editing Prompt. An AI-generated digital illustration of a giant stone couple faces carved into a coastal cliff."
-        }
-      ]
-    },
-    {
       "id": "6a67cf374bbdbe2cf5ad316a",
       "title": "The Glowing Butterfly",
       "slug": "magical-butterfly-girl-portrait",
@@ -236,55 +207,6 @@
           "width": 848,
           "height": 1264,
           "alt": "Woman with Butterflies Watercolor Art AI Photo Editing Prompt. AI generated digital illustration of a serene woman featuring monarch butterflies and wildflowers with artistic watercolor splashes."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704dc",
-      "title": "Enchanted First Dance",
-      "slug": "romantic-3d-cartoon-couple-wedding-celebration",
-      "category": "Fantasy",
-      "category_slug": "fantasy",
-      "prompt": "A breathtaking 3D Disney-Pixar style caricature of a joyful couple celebrating their wedding. The style features exaggerated but expressive features, smooth skin textures, and a high-fidelity cinematic render typical of modern 3D animation.\nCharacter Details & Outfits\nThe Woman: She has natural hair and a warm smile. She is looking at the man. She is wearing an intricate white lace long-sleeved wedding gown with a full, billowing skirt that catches the air as she twirls. Accessories include elegant white high heels and dangling diamond earrings.\nThe Man: He features a naturally stylishly hair. He is looking at the woman with a warm, adoring smile. He wears a sharp white tuxedo jacket with a black bow tie, black dress trousers, and polished black leather shoes.\nPose & Expression\nThe couple is captured in a dynamic dancing pose. The man has one hand placed gently on the woman's waist while holding her hand with the other as they twirl. Their expressions are filled with pure happiness and love, characterized by bright eyes and wide, genuine smiles.\nBackground & Setting\nThe scene is set in a lush, magical garden during sunset.\nFloral Arch: A massive, semi-circular arch made of vibrant pink roses and white lilies frames the couple.\nAtmosphere: Dozens of glowing golden lanterns hang from invisible trees in the background, creating a fairy-tale ambiance.\nElements: Multiple pink heart-shaped balloons float on either side, and the ground is covered in scattered pink flower petals.\nLighting & Atmosphere\nGolden Hour: The primary light source is a soft, warm sunset in the background, creating a beautiful rim-light effect on the characters' hair and clothes.\nAmbient Glow: Soft, warm light emanates from the hanging lanterns, casting gentle highlights and shadows.\nMood: The overall atmosphere is romantic, magical, and celebratory.\nComposition & Camera Angle\nAngle: Eye-level shot, capturing the full bodies of the couple to show the movement of the dress and their dancing stance.\nFraming: Centered composition with the floral arch acting as a natural frame.\nDepth of Field: Shallow depth of field, with the couple in sharp focus and the background lanterns and trees softly blurred (bokeh effect).\nTechnical Details\nResolution: 8k, Ultra-HD.\nRender Engine: Octane Render, Unreal Engine 5 style.\nDetails: Ray tracing, global illumination, subsurface scattering on skin, high-resolution fabric textures (lace and silk).\nAspect Ratio: 4:5.",
-      "description": "3D Pixar-Style Animation Couple Prompt: Use this prompt to generate a romantic wedding scene of a couple dancing under a floral arch with lanterns and heart balloons.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 63,
-      "view_count": 1083,
-      "copy_count": 2578,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "local_path": "images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Animated Wedding Couple Dancing AI Photo Editing Prompt. AI generated 3D digital illustration of a bride in a flowing lace gown and a groom in a white tuxedo dancing happily under a pink floral arch."
-        },
-        {
-          "filename": "disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "local_path": "images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-1.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Couple Wedding Dance AI Photo Editing Prompt. AI generated 3D illustration of a couple dancing under a rose arch with heart balloons."
-        },
-        {
-          "filename": "disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "local_path": "images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/disney-style-wedding-dance-flowers-illustration-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Bride and Groom Dancing under Floral Arch AI Photo Editing Prompt. AI generated digital illustration of a smiling newlywed couple in wedding attire dancing joyfully on a rose petal path beneath a magnificent floral arch at sunset."
         }
       ]
     },
@@ -909,35 +831,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670304",
-      "title": "A Fairytale Selfie",
-      "slug": "a-fairytale-selfie",
-      "category": "Fantasy",
-      "category_slug": "fantasy",
-      "prompt": "Create a hyper-realistic cinematic portrait capturing a candid “selfie moment” in a magical fairytale-inspired theme park street. A grand illuminated castle stands centered in the background, glowing under a soft sunset sky.\nCamera & Perspective\nThis is NOT actual selfie POV\nUse a third-person cinematic camera positioned slightly in front of the subjects\nFrame it as if the camera is capturing the moment while the subject is taking a selfie\nCamera at eye-level to slightly raised angle, facing both subjects\nComposition & Framing\nVertical 4:5 aspect ratio\nMedium shot (mid-thigh)\nSubject slightly left, mascot on right\nSmartphone clearly visible in subject’s hand, extended outward\nBoth subjects angled slightly toward the phone\nCastle perfectly aligned in center background\nStrong depth: foreground (subjects), midground (street), background (castle)\nCharacter Addition (Original Mascot Design)\nAdd a friendly, animated-style mascot character (original, not recognizable):\nSoft animal-inspired design (fox/squirrel-like)\nLarge expressive eyes, warm friendly face\nWearing a clean red blazer or playful outfit\nOne arm gently around the subject’s shoulder\nOther hand giving a thumbs-up\nFully integrated with realistic lighting and shadows\nPose & Expression\nSubject holding phone outward in natural selfie-taking gesture\nRelaxed posture, slightly leaning toward companion\nExpression: joyful, candid smile\nMascot: cheerful, energetic expression\nBoth looking toward the phone screen (NOT directly at main camera)\nLighting & Atmosphere\nWarm golden-hour sunset lighting\nSoft front illumination on faces\nSubtle rim light from behind (sun glow)\nPastel sky gradient: pink, peach, lavender tones\nCinematic depth of field with soft background blur\nEnvironment Details\nCobblestone street with subtle reflections\nSymmetrical fantasy-style buildings\nWarm glowing street lamps\nFloating translucent bubbles in air\nEach bubble contains tiny abstract fairytale silhouettes\nClean, dreamy, uncluttered atmosphere\nTechnical Details\nUltra-realistic, 8K resolution\nSharp focus on subjects\nNatural textures (skin, fabric, fur)\nCinematic color grading (warm highlights, soft shadows)\nLens: 85mm.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 757,
-      "copy_count": 738,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "local_path": "images/fantasy/Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/Gemini_Generated_Image_mrpdvxmrpdvxmrpd-1.png",
-          "width": 800,
-          "height": 1280,
-          "alt": "Gemini AI Generated Image: A young woman with long blonde hair and a light blue dress taking a selfie with a large, friendly fox character in a red blazer. They are standing on a cobblestone street in a magical theme park, with a tall fairytale castle in the background. The air is filled with floating bubbles containing silhouettes of a carriage and various characters, all under a soft, sunset sky."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670300",
       "title": "Frostbite & Fashion",
       "slug": "frostbite-fashion",
@@ -1151,45 +1044,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670288",
-      "title": "The Winter King and His Guardian",
-      "slug": "the-winter-king-and-his-guardian",
-      "category": "Fantasy",
-      "category_slug": "fantasy",
-      "prompt": "Create an ultra-realistic cinematic winter full body portrait set in a serene snowy forest. A stylish individual is gently embracing a majestic white lion with striking blue eyes. The subject stands close, cheek softly resting against the lion’s head, one hand placed calmly on its mane, conveying trust, calmness, and quiet connection.\nThe subject wears a luxurious long white fur coat layered over a dark outfit, paired with sleek black sunglasses. Light snowflakes rest naturally on the hair and shoulders, enhancing the cold winter atmosphere.\nThe environment features tall pine trees heavily covered in fresh snow, with a soft, blurred background for depth. The ground is thick with untouched snow, and subtle snowfall is visible in the air. Warm natural sunlight filters through the trees from behind, creating a soft golden rim light and gentle highlights on the subject and lion, producing a cinematic glow.\nComposition is clean and visually balanced with a full body framing, maintaining clear visibility of both the subject and the lion. Use shallow depth of field to isolate the subjects while keeping the snowy forest recognizable.\nLighting is soft, natural, and diffused with a slight backlight halo effect. Focus on ultra-realistic textures: detailed fur, natural skin tones, visible snow particles, and crisp winter atmosphere. Avoid any CGI or artificial look.\nStyle: high-end editorial photography, cinematic, ultra-detailed, 8K resolution, sharp focus, realistic color grading, no text, no watermark.\nAspect ratio 4:5.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 794,
-      "copy_count": 1302,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "local_path": "images/fantasy/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/Gemini_Generated_Image_kpdj4ykpdj4ykpdj-1.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Gemini Generated Image: A person in a white fur coat is standing in a snowy forest and gently hugging a large white lion."
-        },
-        {
-          "filename": "IMG_20251208_001332.jpg",
-          "local_path": "images/fantasy/IMG_20251208_001332.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251208_001332.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/IMG_20251208_001332.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/IMG_20251208_001332.jpg",
-          "width": 515,
-          "height": 675,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670284",
       "title": "The Night’s Watchman",
       "slug": "the-nights-watchman",
@@ -1283,35 +1137,6 @@
           "width": 1792,
           "height": 2382,
           "alt": "Gemini AI Generated Image: A man in a dark coat stands surrounded by black crows and feathers in a stormy, atmospheric setting. He is looking up, and one crow seems to be emerging from or turning into smoke near his gloved hand."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670263",
-      "title": "Imaginary Walk",
-      "slug": "imaginary-walk",
-      "category": "Fantasy",
-      "category_slug": "fantasy",
-      "prompt": "Realistic style, me and neon girl walking on diamy street road, me holding neon girl hand, wearing white hoodie and black jeans, white sneakers. appears a Golden glowing, neon-style illustration of a girl. The neon girl emits a soft golden light, contrasting against the dark, blurry background of city lights in the distance. The atmosphere feels calm, melancholic, and slightly surreal, blending reality and imagination. 100% accurate my face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 81,
-      "view_count": 3204,
-      "copy_count": 4917,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251204_161936.jpg",
-          "local_path": "images/fantasy/IMG_20251204_161936.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251204_161936.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/IMG_20251204_161936.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/IMG_20251204_161936.jpg",
-          "width": 1760,
-          "height": 2399,
-          "alt": "Ai Generated Image: The image shows a young man walking down a wet, dark city street at night, holding hands with a glowing, neon-yellow outline of a girl. It has a surreal, romantic, or fantasy feel."
         }
       ]
     },
@@ -1428,35 +1253,6 @@
           "width": 1888,
           "height": 2264,
           "alt": "Gemini Generated: A man with intense eyes and dark hair is depicted in a dramatic, digitally rendered image, framed by red and blue lightning effects and surrounded by thorny vines and a small silhouette of a Demogorgon-like creature in the foreground, suggesting a theme of dark fantasy or science fiction, possibly inspired by Stranger Things"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670239",
-      "title": "The Minstrel and the Doves",
-      "slug": "the-minstrel-and-the-doves",
-      "category": "Fantasy",
-      "category_slug": "fantasy",
-      "prompt": "Use the uploaded reference image strictly as the ONLY face reference.\nCreate a high-resolution, ultra-realistic cinematic photograph of an individual seated directly on a weathered, light-gray stone railing (not behind it), positioned slightly to the left side of the frame. The setting is an ancient ruin environment with textured stone architecture and lush, deep-green overgrown ivy climbing the surfaces, softly fading into the background.\nSubject & Appearance:\nLong, layered chestnut-brown hair with natural volume and soft flow. Wearing a warm cinnamon-brown (terracotta/russet tone) chiffon dress with delicate layered ruffles and sheer, airy sleeves that gently move with a light breeze.\nPose & Action:\nSeated naturally on top of the stone railing, body angled slightly toward the camera. One leg relaxed along the ledge. Holding a polished natural-wood acoustic guitar across the lap, one hand forming a chord on the fretboard while the other rests near the strings, suggesting a soft playing moment.\nExpression & Gaze:\nSerene, calm, and softly engaged expression. Eyes gently directed toward the camera with a peaceful, introspective presence.\nEnvironment Details:\nOn the right side of the frame, two pure white doves are perched closely together on the same stone railing, positioned in a way that their heads and bodies subtly form a heart shape. They remain secondary in focus, slightly forward on the right edge, adding balance and storytelling.\nLighting & Mood:\nGolden hour sunlight entering from the top-right corner, creating a strong yet soft directional glow. Warm rim lighting highlights the hair and edges of the dress, while the face remains evenly illuminated with natural soft fill. Cinematic warm tones with gentle shadow falloff.\nComposition:\nSubject placed slightly left-of-center, seated directly on the railing. Right side reserved for the doves, creating visual balance. Full-body framing, with clean negative space and soft background blur.\nTechnical Details:\nUltra-realistic, 8K detail, sharp focus on subject, natural skin texture (no plastic or over-smoothing), high dynamic range, cinematic color grading, 85mm lens look, f/2.0–f/2.8 shallow depth of field.\nAspect Ratio: 4:5 vertical portrait.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 36,
-      "view_count": 1341,
-      "copy_count": 2633,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764518053431.png",
-          "local_path": "images/fantasy/1764518053431.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764518053431.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/fantasy/1764518053431.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/fantasy/1764518053431.png",
-          "width": 928,
-          "height": 1120,
-          "alt": "Gemini generated image: A young woman wearing a flowing, ruffled, brown dress sits on a mossy stone wall, playing an acoustic guitar, illuminated by warm sunlight, with two white doves perched beside her."
         }
       ]
     },

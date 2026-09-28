@@ -1,7 +1,7 @@
 {
   "category": "Cinematic",
   "slug": "cinematic",
-  "total_prompts": 131,
+  "total_prompts": 119,
   "updated_at": "2026-09-24T12:52:35Z",
   "prompts": [
     {
@@ -430,35 +430,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704d6",
-      "title": "Soulmate Horizon",
-      "slug": "romantic-couple-beach-name-art",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Create a hyper-realistic cinematic couple photography poster, 2:3 portrait format.\nDual-zone composite layout: [TOP ZONE — Blue Cinematic Close-Up] Extreme macro close-up of a young couple, foreheads pressed together in an intimate near-kiss pose, eyes gently shut, soft genuine smiles, slightly faded color tones. Shot with Sony Alpha 1 Mirrorless, 85mm f/1.2 prime lens, creamy bokeh, cool blue-steel color grade (#1a3a5c tonal palette).\nFaces razor-sharp, background melting into buttery bokeh haze. Cinematic soft haze overlay blending into the middle of the frame.\n[BOTTOM ZONE — Warm Full-Body Romance Shot] Same couple, warm natural daylight, slight Dutch/market tilt on frame. Man: white breathable linen half-sleeve shirt, bracelet on wrist, dark trousers. Woman: deep red satin spaghetti-strap fitted dress, naturally styled hair flowing freely. Both leaning foreheads together, gazing down at a dark-paper-wrapped red rose bouquet they hold between them. Overcast ocean/horizon soft blurred background, \"soft blurred background\", \"creamy bokeh effect\", \"shallow depth of field look\", \"cinematic haze\". Clear faces, clean skin, photorealistic detail.\n[BOTTOM TEXT OVERLAY] White handwritten signature-style cursive script: → \"Soulmate\" (large, central) — two tiny flying dove silhouettes above the descender of 'l' → Below in clean white uppercase sans-serif with wide letter-spacing: \"JACK-ROSE\" → Below that: \"05 FEBRUARY 2022\" Style: Editorial pre-wedding photography, Vogue India aesthetic, Sony Alpha 1 mirrorless, f/1.2 aperture, ISO 200, daylight balanced. Ultra-realistic, no illustration, photographic grain.",
-      "description": "Romantic Double Exposure Photography Prompt: Copy and paste this prompt to create a sentimental beach portrait of a couple holding red roses with elegant personalized typography.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 433,
-      "view_count": 16859,
-      "copy_count": 60623,
-      "is_premium": false,
-      "published_at": "2026-08-06T13:14:09.529Z",
-      "images": [
-        {
-          "filename": "romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "local_path": "images/cinematic/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Romantic Couple Beach Poster AI Photo Editing Prompt. AI generated digital illustration of a couple touching foreheads on a beach with a bouquet of red roses."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526704d1",
       "title": "Among the Wings",
       "slug": "man-pigeons-urban-photography",
@@ -543,55 +514,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Soccer Player Cinematic Photography Prompt. AI generated cinematic portrait of a young athlete in a white football kit standing on a stadium pitch at night with a ball under his foot."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670492",
-      "title": "Dapper Duo",
-      "slug": "stylish-father-son-matching-outfit-fashion",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Use the uploaded image strictly ONLY for face and identity reference for both father and baby. Preserve exact facial structure, proportions, skin tone, and natural imperfections — no alteration.\nCreate an ultra-realistic high-fashion editorial portrait with old money aesthetic and subtle 90s luxury magazine vibe.\n\nComposition & Framing (LOCKED)\nVertical 4:5 aspect ratio (strict)\nSubjects occupy ~70-80% of frame height\nMedium portrait (mid-thigh up)\nCentered but slightly organic framing (not perfectly symmetrical)\n\nPose & Body Language (CRITICAL FIX)\nFather is NOT standing straight —\nBody slightly relaxed with a subtle natural lean (micro-tilt in shoulders and torso)\nWeight shifted more onto one leg (effortless stance, not posed)\nHead subtly tilted (optional)\nRight hand inside trouser pocket\nLeft arm supporting baby across torso\nBaby positioned naturally across arm, legs angled outward, body slightly diagonal (not stiff or upright)\n\nExpression & Attitude\nDirect gaze at camera\nAttitude, serious, slightly intimidating\nQuiet luxury presence — effortless dominance, not posed fashion energy\nStyling & Clothing \n\nFather:\nCrisp white dress shirt, perfectly tailored (Oversized, loose, visible wrinkles)\nClean structure along arms, chest, and waist\nTop 2–3 buttons open, sharp collar\nHigh-waisted pleated black trousers with defined structure\nBaby:\nMini version outfit of father\nSlight natural looseness (baby fit), but still structured\n\nAccessories (LOCKED)\nBoth wearing thin gold metal-frame sunglasses (90s minimal luxury style)\n\nBackground (LOCKED)\nDark vertical wooden slats\nFine texture clearly visible\nSubtle lower panel seam + small hardware detail\nNo blur-heavy background\n\nLighting (90s EDITORIAL FIX)\nSoft diffused frontal light\nSlightly flatter lighting style (less modern HDR contrast)\nGentle shadows, controlled highlights\nSubtle film-like softness (not ultra-digital sharpness)\n\nCamera & Quality (MAJOR FIX)\n85mm lens\nf/2.8\nEye-level shot\nSlight film grain / analog softness\nReduced digital sharpness\nEditorial magazine quality — not ultra-HD modern AI look\n\nColor & Grade (IMPORTANT)\nNeutral tones\nSlightly muted blacks (not crushed)\nSoft whites (not overly crisp)\nVery subtle warm tone\nHint of 90s film color grading\n\nStyle Keywords\nold money aesthetic, 90s editorial fashion, analog film look, quiet luxury, masculine elegance, minimalist luxury portrait",
-      "description": "Father and Son High-End Lifestyle Portrait Prompt: Use this prompt to generate professional studio images of a stylish man and baby wearing matching formal attire and sunglasses against a dark minimalist background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 60,
-      "view_count": 2222,
-      "copy_count": 5048,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
-          "local_path": "images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-2.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Father and Son Fashion Photography Prompt. AI generated studio portrait of a man holding a baby, both dressed in white shirts and black trousers with matching sunglasses against a dark ribbed wall."
-        },
-        {
-          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
-          "local_path": "images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-1.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Man and Baby in Matching Sunglasses AI Photo Editing Prompt. AI generated fashion portrait of a bearded man holding a baby, both wearing white shirts and gold-rimmed sunglasses against a dark wood-paneled background."
-        },
-        {
-          "filename": "man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
-          "local_path": "images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/man-holding-baby-wearing-sunglasses-portrait-by-promptplum-3.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Man and Baby in Sunglasses AI Photo Editing Prompt. AI generated studio portrait of a stylish man holding a baby, both wearing white shirts and matching shades against a dark wood-slatted background."
         }
       ]
     },
@@ -918,55 +840,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526703dc",
-      "title": "Timeless Gaze",
-      "slug": "old-man-neon-halo-portrait",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "[USE THE UPLOADED IMAGE AS STRICT REFERENCE FOR SUBJECT & POSE]\nTask: Create a high-contrast, cinematic portrait of the specific male subject from the uploaded photo in a futuristic, cyberpunk/synthwave style.Composition: Vertical composition, 4:5 aspect ratio, framed from middle chest upward.Outfit: Wearing a black crew-neck t-shirt.\nSubject Identity & Pose (Strict Match):\nStrictly analyze the provided reference image to preserve the subject’s exact facial identity, bald head shape, and natural white beard structure. Recreate the exact pose: head turned slightly to the left, with a calm, intense, contemplative gaze directed off-camera to the left.\nGlasses / Eyewear:\nThe specific thick-framed black glasses with warm amber-tinted lenses seen in the reference. Neon lighting creates subtle reflections along the frame edges and lens surface without hiding the eyes.\nLighting & Color Behavior:\n\nLighting Style: Cinematic Triple-Light Setup. A vibrant neon circular halo behind the head (Primary), and a subtle, cool-toned overhead key light (Third Light) to define the crown of the head and forehead.\nColor Palette: High-contrast complementary scheme; intense Cyan-Teal from the left and fiery Amber-Orange from the right.\nLight Interaction: The cyan light creates a sharp 'edge-light' on the left silhouette. The amber light on the right is softer, kissing the edges of the shoulder and beard. The overhead light provides soft highlights on the bridge of the glasses, forehead, and cheekbones, revealing skin pores and micro-textures within the shadows.\nAtmosphere & Shadows:\nDeep Chiaroscuro effect; the center of the face remains in dramatic shadow with subtle subsurface scattering. Volumetric glow around the neon ring to add atmospheric haze and depth.\nTechnical Details:\nShallow depth of field. Eyes, glasses, and beard in sharp focus. Solid matte black background, clean and distraction-free. 8k resolution, photorealistic, highly detailed.",
-      "description": "Google Gemini AI Photo Editing Prompt: Create a cinematic digital portrait of an elderly man with a white beard and glasses, featuring a vibrant teal and orange neon halo against a dark, high-contrast background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 35,
-      "view_count": 884,
-      "copy_count": 1338,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "local_path": "images/cinematic/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/neon-halo-old-man-portrait-by-promptplum-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Neon Halo Old Man Portrait AI Photo Editing Prompt. AI generated digital portrait of an elderly man with a white beard and glasses featuring a glowing cyan and orange neon halo."
-        },
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "local_path": "images/cinematic/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/neon-halo-old-man-portrait-by-promptplum-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        },
-        {
-          "filename": "neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "local_path": "images/cinematic/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/neon-halo-old-man-portrait-by-promptplum-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": ""
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703ca",
       "title": "A Winter’s Tale",
       "slug": "elegant-woman-clear-umbrella-snowy-night",
@@ -992,55 +865,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Elegant woman in a black beret and tan scarf holds a clear umbrella on a snowy night. Warm golden bokeh lights and falling snow create a dreamy winter scene."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703c8",
-      "title": "Valentine’s Pulse",
-      "slug": "romantic-couple-golden-circle-valentines-day",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Create a high-contrast, cinematic Valentine’s Day romantic portrait featuring a couple in an intimate moment, photographed in a premium cinematic photography style. Use the provided reference images for strict face matching for both subjects, preserving facial structure, proportions, skin tone, age characteristics, and natural expressions without stylization or identity alteration.\nSubjects & Composition\n\nA man and woman stand closely facing each other in profile, positioned centrally within the frame. Their bodies are naturally aligned and leaning slightly inward, with their foreheads and noses nearly touching, capturing a quiet, emotionally intimate moment just before a kiss. The pose feels natural, relaxed, and romantic rather than posed or exaggerated.\nThe man wears a dark charcoal or black tailored suit with a dark shirt, creating a refined evening look. The woman wears a soft, light-colored elegant dress with a smooth, minimal silhouette. Her long hair falls in natural soft waves, gently illuminated by warm backlighting. Both subjects are clearly visible with clean facial definition and natural skin texture.\nFraming & Visual Structure\n\nThe couple is perfectly centered and framed by a large glowing circular light behind them, forming a strong “frame within a frame” composition. The circular light acts as a halo-like ring surrounding their heads and upper torsos symmetrically, slightly wider than their shoulder span and positioned so the center aligns naturally with their faces for balanced spacing and strong visual focus.\nGraphic Elements & Typography\n\nA warm white-to-golden neon-style circular ring glows smoothly behind the couple, with soft bloom and gentle light falloff resembling a premium neon or LED installation. Soft glowing heart shapes appear within the upper portion of the circle, subtly floating and fading into the background to reinforce the romantic theme without visual clutter.\nAt the top of the frame, the text “Happy Valentine’s Day” appears in elegant handwritten cursive neon script, glowing in a warm golden tone matching the circular light. The typography emits a soft halo effect and appears as an illuminated sign rather than flat text, centered and balanced above the ring.\nLighting\n\nCinematic backlighting and rim lighting from the glowing circle define the subjects’ hair, facial profiles, and shoulders, creating strong separation from the background. A soft frontal fill light gently illuminates facial features to maintain clear visibility while preserving depth and natural shadow contrast. Lighting remains warm, diffused, and flattering, with no harsh highlights.\nDepth of Field & Background\n\nShallow depth of field keeps the couple and circular light sharply in focus while the background fades into soft urban night bokeh, creating a dreamy atmospheric setting without distracting details.\nColor & Mood\n\nWarm golden highlights contrasted against deep blacks and muted night tones. The overall mood is romantic, elegant, intimate, and cinematic, with a soft glow that enhances emotional warmth while maintaining clarity and realism.\nQuality & Style\n\nPhotorealistic, high resolution, professional cinematic photography, subtle filmic grain, premium Valentine’s Day aesthetic, balanced exposure, natural skin tones, clean composition, and polished commercial-quality finish, 4:5 aspect ratio.",
-      "description": "Create stunning Valentine's Day AI images with this cinematic prompt. Featuring a romantic couple inside a golden glowing circle with neon text and floating hearts. Use these highly detailed, 8k photorealistic prompt words to generate professional-quality romantic visuals.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 57,
-      "view_count": 1642,
-      "copy_count": 2809,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "local_path": "images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Cinematic shot of a romantic couple framed by a glowing golden circle and hearts. \"Happy Valentine's Day\" glows in neon above them against a blurry city night."
-        },
-        {
-          "filename": "romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "local_path": "images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic couple in a glowing golden circle with floating hearts. Neon 'Happy Valentine's Day' text at the top, set against a warm cinematic night city."
-        },
-        {
-          "filename": "romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "local_path": "images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/romantic-couple-in-golden-glowing-circle-valentines-day-ai-prompt-2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A romantic couple gazes at each other inside a glowing neon circle, surrounded by floating hearts and the text \"Happy Valentine's Day.\""
         }
       ]
     },
@@ -1371,84 +1195,6 @@
           "width": 864,
           "height": 1184,
           "alt": "Cinematic profile of a woman framed by a glowing orange neon square, featuring dramatic warm rim lighting against a dark background."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267039a",
-      "title": "Behind the Smile",
-      "slug": "split-face-happy-sad-woman-portrait",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Use the uploaded photo as a strict identity reference. The subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain identical.\nThis is one single subject (not two people, not two faces).\n\nOnly the style and emotion changes across the split.\nNo beautification. No reshaping. No stylization. No identity drift.\nMain Concept\nCreate a 4:5 aspect ratio, ultra-realistic cinematic studio portrait with DSLR realism, 8K sharp detail, natural skin texture, soft focus, and shallow depth of field.\nA conceptual duality portrait: public persona vs hidden emotion.\nComposition & Framing\nVertical, centered portrait\nSubject perfectly centered, facing forward, direct eye contact\nOne continuous face across the split\nA jagged white torn-paper seam runs vertically down the exact center\nHead-and-shoulders framing, subject fills most of the frame\nMatte black studio background\nSubject\nA slender adult woman wearing a black turtleneck sweater.\n\nNatural wavy hair with realistic texture and shine.\nLeft Side (Color) — Public Persona\nFull color (ONLY left side)\nWarm, glowing complexion\nVibrant red lipstick\nConfident closed-mouth smile\nLighting: warm and flattering, highlights hair shine and skin glow\nRight Side (Black & White) — Private Reality\nPure monochrome / black-and-white (ONLY right side)\nSame exact face and hair (no duplication)\nSomber, melancholic expression\nLips neutral, slightly parted\nA single visible tear running down near the center seam\nLighting: soft but moody, more shadow depth under the eyes\nRealism & Texture\nPhotorealistic DSLR look, visible pores, natural skin texture, no smoothing, no artificial glow.\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo face morphing\n\nNo painting/illustration/anime/cartoon / 3D\n\nNo plastic skin\n\nNo over-softening",
-      "description": "Create powerful visual storytelling with this split-face portrait AI prompt. Generate realistic happy vs. sad images featuring a torn paper effect, vibrant colors, and cinematic black and white crying details.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 52,
-      "view_count": 1374,
-      "copy_count": 2563,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "local_path": "images/cinematic/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-1.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": "Split portrait: one side is vibrant and smiling, the other is grayscale and tearful. A torn paper edge dramatically separates these two moods against a deep black backdrop."
-        },
-        {
-          "filename": "split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "local_path": "images/cinematic/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/split-face-portrait-happy-vs-sad-woman-ai-photo-editing-prompt-2.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670396",
-      "title": "The Proposal",
-      "slug": "man-puppy-rose-street-night",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Create an ultra-realistic, hyper-detailed 8K cinematic portrait of a young, stylish man with a soft, romantic undertone.\n\nUse the uploaded reference image to match his identity, facial features, skin texture, and hairstyle as closely as possible, while preserving his natural identity and realism.\nOutfit & Style\n\nHe wears a dark gray open-collar shirt with rolled sleeves, paired with sleek black pants, black polished shoes, and black socks. The styling feels modern, relaxed, and quietly elegant—confident yet effortlessly charming.\nPose & Composition\n\nThe camera is straight-on at eye level with a very subtle low-angle feel.\n\nThe man is seated casually on a textured road surface, facing the camera. His posture is relaxed yet self-assured.\n\nIn his right hand, he gently holds a pair of black sunglasses, adding a refined, cinematic accent.\n\nHis expression is calm, confident, and quietly magnetic.\nBeside him sits a small, light-colored puppy, close to his side, sitting attentively.\n\nThe puppy holds a single red rose in its mouth—introducing a romantic, tender storytelling moment that contrasts beautifully with the moody scene.\nLighting & Atmosphere\n\nThe scene takes place outdoors at night.\n\nSoft, cinematic lighting highlights both the man and the puppy.\n\nThe background features blurred dark blue and teal bokeh lights, creating a dreamy, emotional nighttime ambiance with strong depth and subject separation.\nVisual Style & Quality\n\nUltra-realistic textures, natural skin tones, sharp focus on both subjects, highly detailed fabric realism, cinematic color grading, shallow depth of field, high dynamic range (HDR), and a professional photography aesthetic.\nAspect Ratio: 4:5",
-      "description": "Create a heartwarming AI image of a handsome boy sitting on a night road with a cute Golden Retriever puppy holding a red rose. Get the full cinematic prompt featuring bokeh city lights, realistic textures, and a romantic mood for your next viral creation.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 2281,
-      "copy_count": 4464,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "local_path": "images/cinematic/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "original_url": "https://img.promptplum.com/promptImages/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/man-sitting-with-golden-retriever-puppy-holding-red-rose-ai-prompt.png",
-          "width": 1024,
-          "height": 1024,
-          "alt": "A handsome young man sits on a road at night next to a golden retriever puppy holding a red rose in its mouth."
-        },
-        {
-          "filename": "man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "local_path": "images/cinematic/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/man-in-grey-shirt-sitting-on-road-with-cute-dog-and-rose-ai-prompt.jpg",
-          "width": 1299,
-          "height": 1612,
-          "alt": ""
         }
       ]
     },
@@ -2477,35 +2223,6 @@
           "width": 1875,
           "height": 2271,
           "alt": "Gemini Ai Generated Image: a well-dressed man leaning on a stone banister indoors. He is wearing a grey polo shirt and light beige trousers, with a chunky cream-colored sweater draped over his shoulders. The background shows a grand staircase."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267026c",
-      "title": "The Royal Bride",
-      "slug": "the-royal-bride",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Without changing facial feature and face \"A close-up portrait of an Indian bride, with her eyes gently closed in a moment of calm reflection. A delicate, sheer red dupatta is draped over her head, subtly catching the light and creating a graceful, flowing effect. She is wearing a richly embroidered deep red or maroon lehenga blouse and skirt, adorned with intricate gold thread work. Her jewelry is elaborate and traditional: a heavy gold choker necklace, a long layered rani haar necklace with a distinctive black pendant, large gold jhumka earrings, a traditional nath (nose ring), and a maang tikka. Her hair is styled neatly, possibly with a side part. The background is softly blurred with warm, neutral tones, suggesting an elegant indoor setting. The lighting is soft, warm, and atmospheric, highlighting her features and the textures of her attire and jewelry. High-resolution, cinematic portrait photography, rich in detail and emotion.'Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1192,
-      "copy_count": 2121,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_002557.jpg",
-          "local_path": "images/cinematic/IMG_20251205_002557.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_002557.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/IMG_20251205_002557.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/IMG_20251205_002557.jpg",
-          "width": 1888,
-          "height": 2258,
-          "alt": "Gemini Generated Image: a beautiful Indian bride in a traditional red and gold wedding outfit (lehenga/saree and dupatta). She is wearing heavy, elaborate gold jewelry, including a choker, long necklaces, large earrings, and a maang tikka (forehead ornament), with her eyes closed. The background is softly lit and looks like a rich indoor setting."
         }
       ]
     },
@@ -3784,35 +3501,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670210",
-      "title": "Stylish man holds horse",
-      "slug": "stylish-man-holds-horse",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Use the uploaded reference photo for the exact face and hairstyle. Create an ultra-realistic cinematic portrait of an elegant man standing next to a majestic black horse in a snowy forest. The man wears a completely black outfit: a tailored coat, a high-neck sweater, gloves, and sunglasses, which gives him a mysterious and powerful aura. Snowflakes gently fall around her, resting on her coat and hair. while soft, fuzzy light creates a cool, melancholic winter atmosphere. The horse looks strong and elegant, with the snow-covered mane, and both subjects radiate sophistication and quiet mastery. Capture tone and composition with high detail, depth, and cinematic contrast for a luxurious, dramatic visual effect.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 170,
-      "view_count": 5065,
-      "copy_count": 14680,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "1764150488209.png",
-          "local_path": "images/cinematic/1764150488209.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764150488209.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/1764150488209.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/1764150488209.png",
-          "width": 832,
-          "height": 1248,
-          "alt": "Ai generated image of a man standing next to a black horse in winter bakground"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca15267020f",
       "title": "Woman stands by news",
       "slug": "woman-stands-by-news",
@@ -4018,35 +3706,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670201",
-      "title": "Satin saree beauty",
-      "slug": "satin-saree-beauty",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Create a high-end, ultra-realistic portrait using the uploaded image strictly as the only face and identity reference — preserve exact facial structure, proportions, skin tone. The subject is positioned slightly left of center, body subtly angled toward the right side of the frame, with the gaze directed toward the right and a soft, serene smile. Hair is styled in smooth, natural waves with a single red rose tucked elegantly behind the ear.\nThe subject wears a rich, deep teal satin sari with a luxurious sheen, draped gracefully over the shoulder and across the torso, paired with a fitted black blouse. Accessories include refined diamond drop earrings and a matching diamond necklace, adding a subtle, elegant sparkle without overpowering the look. Hands are relaxed and gently held near the waist, maintaining a poised and graceful posture.\nThe background is a clean, seamless neutral beige studio backdrop with no texture or distractions, creating a minimalist and timeless aesthetic. Lighting is soft, diffused studio lighting with a gentle frontal key light and subtle fill, producing smooth skin tones, delicate highlights on the satin fabric, and soft shadows that enhance depth without harsh contrast.\nComposition is vertical 4:5, medium portrait framing (waist-up), with balanced negative space and no cropping at head or arms. Focus is sharp on the face with a slight depth-of-field falloff in the background. The overall mood is elegant, polished, and editorial — resembling a luxury studio fashion portrait.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 88,
-      "view_count": 4913,
-      "copy_count": 8903,
-      "is_premium": false,
-      "published_at": "2026-09-20T01:13:39.174Z",
-      "images": [
-        {
-          "filename": "1764057105480.png",
-          "local_path": "images/cinematic/1764057105480.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764057105480.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/1764057105480.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/1764057105480.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Ai generated image of female in saree"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526701ff",
       "title": "Cinematic traditional lord krishna",
       "slug": "cinematic-traditional-lord-krishna",
@@ -4070,35 +3729,6 @@
           "width": 1856,
           "height": 2304,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701fe",
-      "title": "Smiling Woman in Red Gown",
-      "slug": "smiling-woman-in-red-gown",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Create an ultra-realistic, studio-quality portrait of a person seated gracefully on a stool, wearing an elegant, sleeveless, deep red gown with soft, flowing fabric and subtle lace detailing around the bodice. The subject is captured in a gentle three-quarter side profile, head slightly tilted downward with a serene, content expression, softly smiling while holding a fresh bouquet of vibrant red roses close to the face as if appreciating their fragrance. Hair is long and naturally styled in smooth, natural waves cascading over the shoulders with a soft, glossy finish. Skin tone is warm and evenly lit with natural texture, minimal makeup, and a soft glow.\nThe composition is a mid-to-full seated portrait in a vertical 4:5 aspect ratio, with the subject positioned slightly off-center, maintaining balanced negative space. Background is a seamless deep red gradient studio backdrop that smoothly blends into darker tones toward the edges, creating a rich monochromatic aesthetic with no visible edges or distractions.\nLighting is soft, professional studio lighting with a diffused key light from the front-left, creating gentle highlights on the face, hair, and dress, complemented by subtle fill light to maintain detail without harsh shadows. A faint rim light separates the subject from the background, enhancing depth. The overall mood is romantic, warm, and elegant with a refined editorial fashion look.\nCamera settings: eye-level angle, 85mm portrait lens, shallow depth of field for soft background blur, ultra-sharp focus on facial features and roses, 8K resolution, high dynamic range, natural color grading, no overexposure, no harsh contrast.",
-      "description": "Use this cinematic studio photography prompt to generate a highly realistic, romantic portrait of a beautiful woman in a red lace gown holding red roses.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 67,
-      "view_count": 2878,
-      "copy_count": 5194,
-      "is_premium": false,
-      "published_at": "2026-09-15T13:29:16.549Z",
-      "images": [
-        {
-          "filename": "IMG_20251124_234732.jpg",
-          "local_path": "images/cinematic/IMG_20251124_234732.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251124_234732.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/IMG_20251124_234732.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/IMG_20251124_234732.jpg",
-          "width": 1974,
-          "height": 2144,
-          "alt": "Ai generated image \"Women in red gown holding red flowers\""
         }
       ]
     },
@@ -4128,35 +3758,6 @@
           "width": 1856,
           "height": 2289,
           "alt": "AI generated image of girl and flowers"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701fb",
-      "title": "Indian Couple Red Saree AI Prompt",
-      "slug": "indian-couple-red-saree",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Create an ultra-realistic romantic portrait of a couple (use uploaded image strictly for 100% face and identity match).\nSubject & Outfit:\nA couple standing close together, holding hands gently and gazing into each other’s eyes with a soft, intimate expression.\nThe man is wearing a plain deep red button-up shirt (sleeves rolled to forearms) paired with black trousers.\nThe woman is wearing a rich red silk saree with intricate golden borders and subtle woven motifs, styled elegantly. She has a red rose tucked behind her ear and is wearing traditional gold earrings.\nPose & Expression:\nThey stand facing each other at a slight angle, bodies close, hands softly clasped at center. Both maintain a warm, affectionate gaze with calm, natural expressions.\nComposition & Framing:\nVertical 4:5 portrait, mid-to-full body framing (no crop at head or hands). Subject centered with slight natural asymmetry, maintaining balanced negative space.\nEnvironment & Background:\nRustic outdoor wall with natural texture. Soft foliage casting organic shadows across the wall, creating depth and visual interest.\nLighting:\nWarm golden-hour sunlight filtering from the top-left, creating soft dappled light patterns on the wall and subjects. Natural highlights on hair and face, smooth shadow falloff, no harsh exposure.\nCamera & Technical Details:\nEye-level angle, 85mm lens, shallow depth of field, soft background blur, ultra-sharp facial detail, natural skin texture (no smoothing), cinematic color grading, 8K resolution.\nFinal Requirement:\nMaintain exact facial structure, proportions, skin tone, and identity from the reference image — no stylization, no deviation.\nAspect Ratio: 4:5",
-      "description": "Romantic Couple Photography Prompt: Copy this prompt to generate a realistic outdoor portrait of an Indian couple holding hands in a red shirt and silk saree.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 574,
-      "view_count": 41792,
-      "copy_count": 82321,
-      "is_premium": false,
-      "published_at": "2026-09-20T01:31:02.064Z",
-      "images": [
-        {
-          "filename": "IMG_20251124_230907.jpg",
-          "local_path": "images/cinematic/IMG_20251124_230907.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251124_230907.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/IMG_20251124_230907.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/IMG_20251124_230907.jpg",
-          "width": 1856,
-          "height": 2299,
-          "alt": "Indian Couple Red Saree AI Photo Editing Prompt. AI generated realistic outdoor portrait of a romantic Indian couple, man in red shirt and woman in red silk saree holding hands."
         }
       ]
     },
@@ -4235,35 +3836,6 @@
           "width": 960,
           "height": 1088,
           "alt": "Ai generated image of \"Men with camera\""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701f6",
-      "title": "Yellow Saree with sunflowers",
-      "slug": "yellow-saree-with-sunflowers",
-      "category": "Cinematic",
-      "category_slug": "cinematic",
-      "prompt": "Use the uploaded image as the ONLY face & identity reference.\nCreate a soft, sunlit portrait of the subject wearing a flowing sheer yellow saree with delicate white floral embroidery. The mood is serene, poetic, and romantic with a warm golden glow.\nPose & Expression:\nShe is seated gracefully against a plain wall, body slightly angled, holding a bouquet of sunflowers close to her chest with both hands. Expression is calm, gentle, and softly confident, with a subtle, natural smile. Eyes are relaxed and looking directly into the camera.\nOutfit & Styling:\nElegant yellow saree with sheer drape and fine embroidery details. Loose, softly styled hair with a small white flower tucked behind the ear. Minimal traditional jewelry (earrings).\nComposition & Framing:\nWaist-up to mid-thigh portrait (seated framing), vertical 4:5 ratio. Subject slightly right of center with balanced negative space.\nLighting:\nWarm natural sunlight coming from the side, creating a strong triangular patch of light on the wall. Soft highlights on face and saree, with gentle shadow falloff adding depth and mood.\nBackground:\nMinimal plain wall with artistic sunlight-shadow pattern. Clean, distraction-free environment.\nMood & Style:\nDreamy, golden-hour aesthetic with soft contrast, natural skin texture, and cinematic warmth.\nTechnical Details:\nUltra-realistic, high detail, soft shadows, natural color grading, 85mm lens look, shallow depth of field.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 136,
-      "view_count": 7562,
-      "copy_count": 16444,
-      "is_premium": false,
-      "published_at": "2026-09-05T10:10:26.085Z",
-      "images": [
-        {
-          "filename": "1763939369961.png",
-          "local_path": "images/cinematic/1763939369961.png",
-          "original_url": "https://img.promptplum.com/promptImages/1763939369961.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/cinematic/1763939369961.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/cinematic/1763939369961.png",
-          "width": 928,
-          "height": 1120,
-          "alt": "AI Generated image of \"Beautiful young women in yellow saree, holding flowers\""
         }
       ]
     },

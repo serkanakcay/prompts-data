@@ -1,7 +1,7 @@
 {
   "category": "Traditional",
   "slug": "traditional",
-  "total_prompts": 33,
+  "total_prompts": 22,
   "updated_at": "2026-09-24T13:13:04Z",
   "prompts": [
     {
@@ -150,171 +150,6 @@
       ]
     },
     {
-      "id": "6a99a52b46d4207dc2280e14",
-      "title": "Beautiful Radha Portrait with Floral Jewelry and Flute",
-      "slug": "radha-krishna-theme-girl-mythological-portrait",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Use the uploaded image strictly ONLY for face and identity reference.\nCreate a photorealistic cinematic portrait of a beautiful woman dressed as a graceful divine-inspired Indian flute musician, centered in a vertical composition. She has smooth, glowing skin, subtle makeup, and a slight natural blush on her cheeks, voluminous smooth hair flowing naturally over her shoulders, adorned with delicate floral hair jewelry and a single elegant peacock feather. The subject is dressed in a traditional pastel blue lehenga set adorned with intricate gold embroidery—the blouse richly detailed with fine gold patterns, paired with a flowing matching skirt and a sheer dupatta draped elegantly over the arms. Delicate white-and-pink floral jewelry decorates her neck, wrists, upper arm, and ears. Elegant white traditional face art is painted across her forehead and around her eyes. She gently holds a polished wooden bansuri flute diagonally across her chest with both hands, standing with her body slightly angled while looking directly into the camera with a soft, and graceful smile.\nBackground: dreamy studio backdrop with a smooth cyan-blue glow on the left transitioning into warm peach-pink on the right, subtle atmospheric haze and soft bokeh.\nLighting: Cinematic soft beauty lighting, a slightly warm rim light from the right, gentle highlights on the hair and skin, and natural skin tones.\nComposition: medium-to-three-quarter portrait, subject centered, flute clearly visible, flowing hair creating elegant framing, shallow depth of field.\nCamera: 85mm portrait lens, f/1.8, soft background separation, high dynamic range, cinematic color grading, ultra-detailed skin and fabric textures, photorealistic, 8K resolution, 4:5 vertical aspect ratio.\nNegative prompt: distorted hands, extra fingers, extra limbs, bad anatomy, deformed face, unnatural eyes, plastic skin, duplicate objects, blurry subject, identity change.",
-      "description": "Cinematic Cultural Portrait Prompt: Copy and paste this prompt to generate a stunning, high-quality studio portrait of a beautiful Indian woman dressed as Radha, elegantly holding a wooden flute while adorned with pink floral jewelry and a peacock feather.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 20,
-      "view_count": 2445,
-      "copy_count": 1496,
-      "is_premium": false,
-      "published_at": "2026-09-03T16:49:47.907Z",
-      "images": [
-        {
-          "filename": "3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "local_path": "images/traditional/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/3da1947c-0cf7-4f8f-815e-668be0337524.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Cinematic cultural portrait of an Indian woman holding a flute AI Photo Editing Prompt. AI generated studio portrait of a beautiful smiling girl dressed in a light blue embroidered lehenga, adorned with pink floral jewelry, a peacock feather in her hair, and traditional face art, holding a wooden bansuri against a colorful glowing background."
-        }
-      ]
-    },
-    {
-      "id": "6a887bd04bbdbe2cf5cd633f",
-      "title": "South Indian Bridal Portrait with Mehndi Hands",
-      "slug": "smiling-indian-bride-traditional-portrait",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Create a ultra-detailed photorealistic cinematic portrait of a beautiful woman wearing an elegant deep chocolate-brown silk saree with an intricate antique-gold floral brocade border and matching heavily embroidered blouse with three-quarter sleeves. She wears traditional gold jewelry including a layered temple-style necklace with a detailed pendant, ornate jhumka earrings, and delicate gold accessories. Her hair is neatly parted and styled into a low bun adorned with slightly fresh white jasmine gajra. A small black bindi rests between her eyebrows. Both hands and wrists are decorated with traditional henna (mehndi) patterns on the skin, and adorned with stacked gold bangles on the wrists.\nShe faces the camera directly with a graceful, confident expression, relaxed posture, and hands gently folded near her waist level. Medium close-up composition, centered subject, elegant traditional Indian bridal aesthetic.\nWarm-golden cinematic side lighting coming from the upper right creates soft highlights on her face, jewelry, and silk fabric, with subtle rim light outlining her hair. Dark smooth neutral gray studio background, clean and uncluttered, shallow depth of field, luxurious editorial mood.\n85mm portrait lens, f/1.6, ISO 100, natural skin texture, realistic facial details, accurate anatomy, detailed silk and embroidery textures, cinematic color grading, soft bokeh, HDR, ultra-photorealistic, 8K resolution, vertical composition, aspect ratio 4:5 . No text, no watermark, no identity change, no extra people, no distorted anatomy.",
-      "description": "Traditional Bridal Photography Prompt: Copy & paste this prompt to create a studio portrait of a smiling Indian bride in a maroon Banarasi silk saree, layered gold temple jewelry, and hennaed hands.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 23,
-      "view_count": 925,
-      "copy_count": 879,
-      "is_premium": false,
-      "published_at": "2026-08-21T16:24:48.694Z",
-      "images": [
-        {
-          "filename": "782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "local_path": "images/traditional/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/782d509b-8f13-4fe1-ad21-09cb8c35bbbd.jpeg",
-          "width": 1236,
-          "height": 1600,
-          "alt": "Indian Bride in Banarasi Silk Saree with Gold Temple Jewelry Portrait AI Photo Editing Prompt. AI generated studio portrait of a smiling Indian woman in a maroon Banarasi silk saree, layered gold temple necklaces, jhumka earrings, and intricately hennaed hands."
-        }
-      ]
-    },
-    {
-      "id": "6a8484fc4bbdbe2cf5705684",
-      "title": "Crimson Saree and Cream Kurta Studio Portrait",
-      "slug": "5-newlywed-indian-couple-portrait-prompt",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Create a photorealistic waist-up couple portrait, vertically framed. Preserve the exact facial identity and distinctive features of the reference faces. The man stands slightly behind/left, while the woman stands close beside him with her arm gently resting around his waist. Both face the camera with relaxed, natural expressions. Balanced intimate composition with the subjects centered and filling most of the frame.\nMan: Handsome man with naturally styled hair, smooth skin, wearing a clean ivory-white traditional kurta with a high collar.\nWoman: Elegant woman with long wavy hair, soft glam makeup, small red bindi, gold earrings, and white flowers tucked behind her hair. Wearing a luxurious bright red silk saree with a rich golden border.\nPose & Expression: Couple standing close together, natural affectionate body language. Both with a gentle smile and direct eye contact with the camera.\nBackground: Minimal warm gray smooth studio wall with subtle vintage character, softly illuminated circular glow behind the couple, cinematic shadows and gentle vignette.\nLighting: Warm directional studio light from the front-right, soft diffused highlights on faces and clothing, natural falloff, subtle film-like contrast, realistic skin tones, elegant shadow definition.\nCamera & Technical: Eye-level camera angle, medium portrait framing, 85mm lens, f/1.8, shallow depth of field, cinematic color grading, ultra-detailed skin and fabric texture, photorealistic, ultra-detailed, 8K resolution, vertical composition, 4:5 aspect ratio.\nNegative Prompt: distorted anatomy, unnatural hands, deformed faces, plastic skin, identity change, oversharpening, excessive makeup, blurry subjects, text, watermark, logo.",
-      "description": "Traditional Studio Photography Prompt: Copy and paste this prompt to generate a realistic portrait of a smiling Indian couple in a cream kurta and red saree.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 55,
-      "view_count": 2340,
-      "copy_count": 4187,
-      "is_premium": false,
-      "published_at": "2026-08-18T16:14:52.708Z",
-      "images": [
-        {
-          "filename": "dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "local_path": "images/traditional/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/dcdd8924-be5c-4341-94c8-1d976f611c6c.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Traditional Wear AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a cream kurta standing with a woman in a red saree and jasmine hair garland."
-        },
-        {
-          "filename": "86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "local_path": "images/traditional/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/86458583-4d4f-4332-b155-9693b41a1a1e.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Traditional Wear AI Photo Editing Prompt. AI generated studio portrait of a smiling man in a cream kurta standing with a woman in a red saree and jasmine hair garland."
-        }
-      ]
-    },
-    {
-      "id": "6a60f0224e919e1ec242ab7a",
-      "title": "A Royal Indian Couple",
-      "slug": "royal-indian-wedding-couple-look",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Create a luxurious Indian wedding portrait of a newlywed couple standing together on an opulent floral wedding stage. The bride wears a stunning deep fuchsia pink lehenga richly embellished with intricate gold embroidery, zari work, sequins, and ornate borders. She is adorned with traditional bridal jewelry including a layered gold necklace, choker, maang tikka, earrings, bangles, and a matching pink dupatta draped gracefully over her head and shoulders. Delicate bridal mehndi decorates her hands. The groom wears an elegant matching deep pink embroidered sherwani with intricate gold floral patterns, layered pearl necklaces, a decorative stole, cream churidar trousers, embroidered mojari shoes, and a regal pink turban featuring a jeweled brooch.\nThe couple stands close together, smiling warmly at the camera while gently holding hands. Behind them is an extravagant wedding mandap-style backdrop overflowing with lush pink, blush, and ivory roses, cascading floral arrangements, golden arches, crystal chandeliers, and warm fairy lights creating a dreamy bokeh effect. A luxurious cream-colored wedding sofa is subtly visible in the background. The floor is covered with scattered rose petals and an ornate Persian-style carpet.\nFull-length vertical composition, centered symmetrical framing, eye-level camera angle, professional wedding photography, ultra-detailed fabrics and embroidery, ultra-detailed skin textures, cinematic depth of field, warm golden ambient lighting, soft romantic glow, high-end Indian wedding aesthetic, elegant color harmony, luxury event décor, shallow depth of field, photorealistic, HDR, 8K resolution, magazine-quality wedding portrait, sharp focus on the couple, creamy background bokeh, vibrant yet natural colors. Aspect ratio 4:5.",
-      "description": "Traditional Wedding Photography Prompt: Copy & Paste this Prompt to create a stunning portrait of an Indian bride and groom in matching magenta wedding attire.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 37,
-      "view_count": 1708,
-      "copy_count": 1862,
-      "is_premium": false,
-      "published_at": "2026-07-22T16:30:26.042Z",
-      "images": [
-        {
-          "filename": "cf9c4958-29e7-48c9-8017-26c0ceb8f2db.jpeg",
-          "local_path": "images/traditional/cf9c4958-29e7-48c9-8017-26c0ceb8f2db.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/cf9c4958-29e7-48c9-8017-26c0ceb8f2db.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/cf9c4958-29e7-48c9-8017-26c0ceb8f2db.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/cf9c4958-29e7-48c9-8017-26c0ceb8f2db.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Royal Couple in Magenta and Gold Wedding Garments AI Photo Editing Prompt. AI generated staged portrait of an Indian bride and groom standing together in an opulent, floral-decorated wedding hall in matching magenta outfits."
-        },
-        {
-          "filename": "abf2e5b8-308e-4392-9383-3fc286141220.jpeg",
-          "local_path": "images/traditional/abf2e5b8-308e-4392-9383-3fc286141220.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/abf2e5b8-308e-4392-9383-3fc286141220.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/abf2e5b8-308e-4392-9383-3fc286141220.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/abf2e5b8-308e-4392-9383-3fc286141220.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Indian Couple in Magenta and Gold Wedding Garments AI Photo Editing Prompt. AI generated staged portrait of an Indian bride and groom standing together in an opulent, floral-decorated wedding hall in matching magenta outfits."
-        }
-      ]
-    },
-    {
-      "id": "6a60ee784e919e1ec2425aa6",
-      "title": "Portrait of a Celebration",
-      "slug": "magenta-silk-saree-festive-look",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Create a photorealistic, high-end traditional Indian portrait of a beautiful woman seated gracefully indoors during a festive celebration, wearing a rich magenta silk saree with intricate gold floral embroidery along the border and matching embroidered blouse. She is adorned with elegant traditional gold jewelry including jhumka earrings, layered bangles, and a delicate gold necklace. Fresh white jasmine flowers are tucked into her hair cascading over one shoulder. She smiles warmly while looking directly at the camera, creating a friendly and inviting expression.\nThe composition is a medium portrait framed from the knees up, with the subject positioned slightly off-center. One hand gently rests on her lap while the other is raised near her chin in a relaxed pose. The setting features warm festive décor with glowing fairy lights, marigold garlands, and soft golden bokeh lights in the background. Vibrant pink bougainvillea flowers appear on one side of the frame, adding color and depth.\nSoft warm ambient lighting illuminates her face with natural skin tones, subtle highlights, and smooth shadows. Shallow depth of field creates creamy background blur, emphasizing the subject while maintaining a luxurious festive atmosphere. Ultra-realistic photography, high-end portrait, cinematic lighting, vibrant colors, detailed fabric texture, intricate embroidery details, realistic jewelry reflections, professional DSLR quality, 85mm lens, f/1.8, sharp focus on eyes, natural beauty, elegant Indian festival portrait, 8K resolution.\nAspect ratio 4:5.",
-      "description": "Festive Indian Portrait Photography Prompt: Copy & Paste this Prompt to create an image of an elegant woman in a traditional magenta silk saree with gajra and festive lights.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 22,
-      "view_count": 1257,
-      "copy_count": 1423,
-      "is_premium": false,
-      "published_at": "2026-07-22T16:23:20.469Z",
-      "images": [
-        {
-          "filename": "6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "local_path": "images/traditional/6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/6956ccbb-c195-41f3-835b-456c038b2a87.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Festive Indian Saree Portrait AI Photo Editing Prompt. AI generated festive portrait of a smiling woman wearing a magenta silk saree, gajra flowers, and jewelry, seated amidst decorative lights and bougainvillea."
-        }
-      ]
-    },
-    {
       "id": "6a57be56a3af6f1220a776d4",
       "title": "Joyous Saree Birthday Portrait",
       "slug": "birthday-photoshoot-in-saree-portrait",
@@ -340,35 +175,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Elegant Saree Birthday Celebration Portrait AI Photo Editing Prompt. AI generated portrait of a woman in an embroidered white saree, smiling beside a white and gold cake and ornate decor."
-        }
-      ]
-    },
-    {
-      "id": "6a4fbc337877e7a4d76e95d0",
-      "title": "Traditional Kerala Couple",
-      "slug": "traditional-kerala-couple-wedding-look",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Generate a cinematic high-resolution romantic portrait of a South Asian couple standing together on a lush green Kerala garden pathway, softly turned toward each other and sharing a warm intimate gaze. Use the attached reference photo for facial identity and preserve the same facial structure and proportions. The groom stands on the left with a calm elegant expression, wearing an ivory silk shirt paired with a traditional cream Kerala mundu featuring a rich gold zari border, a gold kada bracelet, a gold ring, and brown textured traditional footwear. The bride stands beside him with a gentle radiant smile, wearing a rich bridal red Kanjivaram silk saree with heavy gold zari border and a matching fitted blouse. Her hair is styled in a neat low bun adorned with jasmine gajra, with a gold nethichutti at the center parting. She is adorned with layered gold temple necklaces, gold jhumka earrings, and stacked gold bangles. Warm golden morning light filters softly through the tropical greenery, with lush foliage, coconut palms, and a soft natural haze in the background. Ultra-detailed photography with premium bridal editorial aesthetics, realistic skin tones, detailed silk texture, micro face details, shallow depth of field, shot on a full-frame DSLR with an 85mm portrait lens. Aspect ratio 4:5.",
-      "description": "Traditional Kerala Couple Photography Prompt: Use this prompt to create a cinematic portrait of a South Indian couple wearing a red silk saree and white mundu in a lush green garden.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 48,
-      "view_count": 6140,
-      "copy_count": 5829,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "5f2de6c4-d10f-4e18-9f4e-b179578ff325.webp",
-          "local_path": "images/traditional/5f2de6c4-d10f-4e18-9f4e-b179578ff325.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5f2de6c4-d10f-4e18-9f4e-b179578ff325.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/5f2de6c4-d10f-4e18-9f4e-b179578ff325.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/5f2de6c4-d10f-4e18-9f4e-b179578ff325.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Romantic Kerala Wedding Portrait AI Photo Editing Prompt. AI generated portrait of a loving couple in traditional South Indian attire on a sunlit garden path."
         }
       ]
     },
@@ -791,64 +597,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca15267026c",
-      "title": "The Royal Bride",
-      "slug": "the-royal-bride",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Without changing facial feature and face \"A close-up portrait of an Indian bride, with her eyes gently closed in a moment of calm reflection. A delicate, sheer red dupatta is draped over her head, subtly catching the light and creating a graceful, flowing effect. She is wearing a richly embroidered deep red or maroon lehenga blouse and skirt, adorned with intricate gold thread work. Her jewelry is elaborate and traditional: a heavy gold choker necklace, a long layered rani haar necklace with a distinctive black pendant, large gold jhumka earrings, a traditional nath (nose ring), and a maang tikka. Her hair is styled neatly, possibly with a side part. The background is softly blurred with warm, neutral tones, suggesting an elegant indoor setting. The lighting is soft, warm, and atmospheric, highlighting her features and the textures of her attire and jewelry. High-resolution, cinematic portrait photography, rich in detail and emotion.'Use the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 1192,
-      "copy_count": 2121,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_002557.jpg",
-          "local_path": "images/traditional/IMG_20251205_002557.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_002557.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/IMG_20251205_002557.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/IMG_20251205_002557.jpg",
-          "width": 1888,
-          "height": 2258,
-          "alt": "Gemini Generated Image: a beautiful Indian bride in a traditional red and gold wedding outfit (lehenga/saree and dupatta). She is wearing heavy, elaborate gold jewelry, including a choker, long necklaces, large earrings, and a maang tikka (forehead ornament), with her eyes closed. The background is softly lit and looks like a rich indoor setting."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670265",
-      "title": "Traditional Bridal Regalia",
-      "slug": "traditional-bridal-regalia",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Without changing facial feature and face A captivating close-up portrait of an Indian bride, with half of her face subtly veiled by a sheer, off-white or cream dupatta adorned with a heavy, intricate gold and pearl border. Her visible eye is open, intensely gazing directly at the viewer, with dramatic eyeliner and makeup. She is wearing an elegant off-white or cream lehenga blouse with subtle embroidery. Her hand, adorned with intricate mehndi and delicate gold haath phool (hand jewelry), gently holds the veil. She is bedecked in exquisite gold and pearl jewelry with ruby/maroon accents, including a prominent choker necklace, large dangling earrings, a traditional nath (nose ring) with a floral design, and a matha patti (headpiece) with pearl drops. A small red bindi is on her forehead. The lighting is soft, warm, and focused, highlighting her features and the sparkle of her jewelry against a blurred, neutral background. Artistic, high-fashion bridal photography, high-resolution, richUse the face from the uploaded reference image and preserve the same facial features - do not alter the face.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 49,
-      "view_count": 1342,
-      "copy_count": 2887,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251205_000908.jpg",
-          "local_path": "images/traditional/IMG_20251205_000908.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251205_000908.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/IMG_20251205_000908.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/IMG_20251205_000908.jpg",
-          "width": 1792,
-          "height": 2349,
-          "alt": "Gemini AI Generated Image: a beautiful Indian bride wearing a traditional off-white/cream lehenga and heavy gold and ruby jewelry. She is partially covering her face with a net dupatta (veil) that has ornate borders."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca152670256",
       "title": "Mountain Man Style",
       "slug": "mountain-man-style",
@@ -907,35 +655,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca152670201",
-      "title": "Satin saree beauty",
-      "slug": "satin-saree-beauty",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Create a high-end, ultra-realistic portrait using the uploaded image strictly as the only face and identity reference — preserve exact facial structure, proportions, skin tone. The subject is positioned slightly left of center, body subtly angled toward the right side of the frame, with the gaze directed toward the right and a soft, serene smile. Hair is styled in smooth, natural waves with a single red rose tucked elegantly behind the ear.\nThe subject wears a rich, deep teal satin sari with a luxurious sheen, draped gracefully over the shoulder and across the torso, paired with a fitted black blouse. Accessories include refined diamond drop earrings and a matching diamond necklace, adding a subtle, elegant sparkle without overpowering the look. Hands are relaxed and gently held near the waist, maintaining a poised and graceful posture.\nThe background is a clean, seamless neutral beige studio backdrop with no texture or distractions, creating a minimalist and timeless aesthetic. Lighting is soft, diffused studio lighting with a gentle frontal key light and subtle fill, producing smooth skin tones, delicate highlights on the satin fabric, and soft shadows that enhance depth without harsh contrast.\nComposition is vertical 4:5, medium portrait framing (waist-up), with balanced negative space and no cropping at head or arms. Focus is sharp on the face with a slight depth-of-field falloff in the background. The overall mood is elegant, polished, and editorial — resembling a luxury studio fashion portrait.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 88,
-      "view_count": 4913,
-      "copy_count": 8905,
-      "is_premium": false,
-      "published_at": "2026-09-20T01:13:39.174Z",
-      "images": [
-        {
-          "filename": "1764057105480.png",
-          "local_path": "images/traditional/1764057105480.png",
-          "original_url": "https://img.promptplum.com/promptImages/1764057105480.png",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/1764057105480.png",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/1764057105480.png",
-          "width": 896,
-          "height": 1152,
-          "alt": "Ai generated image of female in saree"
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526701ff",
       "title": "Cinematic traditional lord krishna",
       "slug": "cinematic-traditional-lord-krishna",
@@ -959,35 +678,6 @@
           "width": 1856,
           "height": 2304,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701fb",
-      "title": "Indian Couple Red Saree AI Prompt",
-      "slug": "indian-couple-red-saree",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Create an ultra-realistic romantic portrait of a couple (use uploaded image strictly for 100% face and identity match).\nSubject & Outfit:\nA couple standing close together, holding hands gently and gazing into each other’s eyes with a soft, intimate expression.\nThe man is wearing a plain deep red button-up shirt (sleeves rolled to forearms) paired with black trousers.\nThe woman is wearing a rich red silk saree with intricate golden borders and subtle woven motifs, styled elegantly. She has a red rose tucked behind her ear and is wearing traditional gold earrings.\nPose & Expression:\nThey stand facing each other at a slight angle, bodies close, hands softly clasped at center. Both maintain a warm, affectionate gaze with calm, natural expressions.\nComposition & Framing:\nVertical 4:5 portrait, mid-to-full body framing (no crop at head or hands). Subject centered with slight natural asymmetry, maintaining balanced negative space.\nEnvironment & Background:\nRustic outdoor wall with natural texture. Soft foliage casting organic shadows across the wall, creating depth and visual interest.\nLighting:\nWarm golden-hour sunlight filtering from the top-left, creating soft dappled light patterns on the wall and subjects. Natural highlights on hair and face, smooth shadow falloff, no harsh exposure.\nCamera & Technical Details:\nEye-level angle, 85mm lens, shallow depth of field, soft background blur, ultra-sharp facial detail, natural skin texture (no smoothing), cinematic color grading, 8K resolution.\nFinal Requirement:\nMaintain exact facial structure, proportions, skin tone, and identity from the reference image — no stylization, no deviation.\nAspect Ratio: 4:5",
-      "description": "Romantic Couple Photography Prompt: Copy this prompt to generate a realistic outdoor portrait of an Indian couple holding hands in a red shirt and silk saree.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 574,
-      "view_count": 41808,
-      "copy_count": 82336,
-      "is_premium": false,
-      "published_at": "2026-09-20T01:31:02.064Z",
-      "images": [
-        {
-          "filename": "IMG_20251124_230907.jpg",
-          "local_path": "images/traditional/IMG_20251124_230907.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251124_230907.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/IMG_20251124_230907.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/IMG_20251124_230907.jpg",
-          "width": 1856,
-          "height": 2299,
-          "alt": "Indian Couple Red Saree AI Photo Editing Prompt. AI generated realistic outdoor portrait of a romantic Indian couple, man in red shirt and woman in red silk saree holding hands."
         }
       ]
     },
@@ -1047,45 +737,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Gemini_Generated_Image_stwt7sstwt7sstwt"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526701f2",
-      "title": "Indian Couple 90s Bollywood",
-      "slug": "bollywood-couple",
-      "category": "Traditional",
-      "category_slug": "traditional",
-      "prompt": "Use the uploaded image strictly as the ONLY face and identity reference.\nCreate a cinematic 8K portrait of a couple standing side-by-side against a textured rustic terracotta wall, illuminated by warm golden hour sunlight that casts soft shadows and enhances skin tones.\nComposition & Framing:\nMedium full shot (knee to slightly above head), vertical 4:5 aspect ratio. Subjects centered with balanced negative space. Clean background with subtle wall texture, no distractions.\nPose & Interaction:\nThe couple stands close together, gently holding hands. Both bodies slightly angled toward each other. They share a soft, affectionate gaze, creating an intimate and nostalgic mood.\nExpression:\nNatural, calm, and warm expressions with slight smiles. Eyes focused on each other, conveying romantic connection.\nOutfit Details:\nWoman: Navy-blue velvet blouse with intricate gold embroidery, paired with a black lehenga featuring rich gold floral patterns. A visible layered white underskirt adds depth. She wears a flowing red dupatta with gold border detailing draped elegantly. Accessories include large traditional gold earrings and a red rose tucked into her hair.\nMan: Black embroidered Chikan kurta with detailed white threadwork on the neckline, paired with tailored black trousers.\nHair & Styling:\nNatural, well-groomed hair. Soft, realistic texture with subtle movement. No artificial shine.\nLighting:\nWarm golden hour sunlight from the side, creating soft highlights on faces and gentle shadows on the wall. Natural light falloff for cinematic depth.\nBackground:\nMinimal rustic terracotta wall with slight imperfections and texture. No people or distractions in the background.\nStyle & Mood:\nCinematic, nostalgic 90s Bollywood print-photo aesthetic. Slight film grain, soft contrast, warm color grading, and subtle vignette for vintage realism.\nTechnical Details:\nUltra-realistic, 8K resolution, shallow depth of field (light background softness), sharp focus on subjects, natural skin texture (visible pores), no plastic or CGI look.",
-      "description": "Traditional Couple Portrait Prompt: Use this prompt to create a romantic photograph of an Indian couple in a black kurta and red lehenga against a rustic wall.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 173,
-      "view_count": 9701,
-      "copy_count": 24545,
-      "is_premium": false,
-      "published_at": "2026-09-20T00:58:05.956Z",
-      "images": [
-        {
-          "filename": "a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "local_path": "images/traditional/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "original_url": "https://img.promptplum.com/promptImages/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/a0972a75-e8d8-43ce-a2e8-19a5ac26cc3d.webp",
-          "width": 1888,
-          "height": 2254,
-          "alt": "Indian Couple Traditional Portrait Photography AI Photo Editing Prompt. AI generated photograph of a couple in elegant wedding attire, holding hands and sharing a warm gaze against a textured terracotta wall."
-        },
-        {
-          "filename": "cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "local_path": "images/traditional/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "original_url": "https://img.promptplum.com/promptImages/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/traditional/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/traditional/cd5c5dc2-c833-4e24-95d4-38c9868aa3fd.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Indian Couple Ethnic Portrait AI Photo Editing Prompt. AI generated photographic portrait of a young Indian couple in elaborate ethnic wear holding hands and looking at each other against a terracotta wall."
         }
       ]
     }

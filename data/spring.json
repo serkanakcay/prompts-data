@@ -1,7 +1,7 @@
 {
   "category": "Spring",
   "slug": "spring",
-  "total_prompts": 5,
+  "total_prompts": 4,
   "updated_at": "2026-09-24T13:12:24Z",
   "prompts": [
     {
@@ -89,35 +89,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Cinematic Lifestyle Photography AI Photo Editing Prompt. AI generated outdoor portrait with soft lighting of a woman on a vintage blue bicycle with a flower basket."
-        }
-      ]
-    },
-    {
-      "id": "6a53c0637877e7a4d7a53365",
-      "title": "Man with Roses in a Sakura Garden",
-      "slug": "man-holding-flower-bouquet-aesthetic",
-      "category": "Spring",
-      "category_slug": "spring",
-      "prompt": "Create a photorealistic, high-fashion portrait of a stylish man (face match). He has a well-groomed appearance. He is wearing vintage round sunglasses with thin gold frames and dark tinted lenses. His outfit features a short-sleeved, light blue button-down shirt adorned with a large, realistic floral pattern of pink roses and white peonies, tucked into tailored, light blue pleated trousers secured with a braided beige belt. His left hand is casually tucked into his trouser pocket, while his right hand holding at chest level, a small, elegant bouquet of pink, blue and white roses. His expression is confident, relaxed, and subtly charismatic. The background is a lush, vibrant spring garden filled with heavily blooming cherry blossom trees, featuring a subtle natural vignette. The lighting is soft, diffused natural daylight, creating an even, flattering glow on the subject. Shot straight-on at eye level, medium-full body crop. Photographed on an 85mm portrait lens, f/1.8 aperture for a shallow depth of field, resulting in beautiful, creamy floral bokeh in the background. Ultra-detailed, 8k resolution, cinematic color grading with a pastel spring aesthetic.\nAspect ratio 4:5.",
-      "description": "Spring Portrait Photography Prompt: Copy & paste this prompt to create a realistic photo of a stylish man in a blue floral shirt holding roses among cherry blossoms.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 19,
-      "view_count": 456,
-      "copy_count": 698,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
-          "local_path": "images/spring/831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/spring/831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/spring/831de102-e780-45c4-bcd2-8ddb7fac3972.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Man in Floral Shirt and Sunglasses Portrait AI Photo Editing Prompt. AI generated portrait of a man in a blue floral shirt and sunglasses holding a rose bouquet in a cherry blossom garden."
         }
       ]
     },

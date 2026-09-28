@@ -1,7 +1,7 @@
 {
   "category": "Monochrome Portrait",
   "slug": "monochrome-portrait",
-  "total_prompts": 52,
+  "total_prompts": 51,
   "updated_at": "2026-09-24T13:10:00Z",
   "prompts": [
     {
@@ -1710,35 +1710,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Man in Green Suit on Chair AI Photo Editing Prompt. AI generated studio portrait of a stylish man wearing a forest green suit and white sneakers while sitting in a matching velvet armchair."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267040d",
-      "title": "Graphite Souls",
-      "slug": "pencil-sketch-man-woman-sketchbook",
-      "category": "Monochrome Portrait",
-      "category_slug": "monochrome-portrait",
-      "prompt": "Create a high-resolution, ultra-detailed flat lay photograph of a creative workspace, centered around a spiral-bound sketchbook containing a hyper-realistic charcoal/graphite portrait.\n🔴 Face Match Requirement (CRITICAL)\nBoth drawn subjects must match the uploaded reference image with maximum identity accuracy.\nPreserve exact facial structure, bone anatomy, jawline definition, cheekbone placement, forehead proportions, eyebrow thickness and shape, eye size and spacing, nose bridge and tip structure, lip shape and volume, chin contour, grooming details, and natural asymmetry.\n\nDo not beautify, stylize, or alter proportions.\n\nMaintain authentic skin texture translated into graphite realism.\n\nBoth subjects must remain clearly recognizable.\n📖 Central Subject: The Drawing\nThe centerpiece is a spiral-bound sketchbook placed slightly tilted on a warm wooden desk.\nInside the sketchbook is a highly realistic hand-drawn portrait of two young people positioned back-to-back:\n\nLeft Subject (Female):\n\nShe faces slightly toward the camera with a soft, contemplative, emotionally neutral expression.\n\nLong, natural wavy hair cascading over her shoulders.\n\nCalm gaze directed outward, subtle vulnerability in the eyes.\n\nSoft but detailed shading defining cheekbones and lips.\nRight Subject (Male):\n\nShown in profile facing right.\n\nStrong, defined jawline, including grooming details if present, and make it well-groomed.\n\nMessy, textured hair with natural volume.\n\nFocused, distant expression.\n\nStructured nose profile and clean facial contour.\n✏ Artistic Style & Execution\nMedium: Charcoal / Graphite\nTechniques: Fine-line hatching, cross-hatching, smooth tonal blending\nHigh contrast between deep charcoal clothing and delicate skin shading\nUltra-realistic pencil textures visible\nPaper shows subtle off-white cream tone with visible tooth grain\nThe lower portion of the portrait dissolves into expressive diagonal pencil strokes, creating an unfinished “art study” aesthetic\nPencil strokes remain organic and dynamic, not digitally smooth\n🖼 Surrounding Environment (Flat Lay Composition)\nThe sketchbook rests on a warm-toned wooden desk with visible horizontal grain texture.\n\nTop Left:\nSmall green succulent in a clean white ceramic pot\nTop Right:\nBlack-rimmed eyeglasses\nA single gold paperclip nearby\nRight Side (Parallel Alignment):\nOne matte black pencil\nOne natural wood graphite pencil\nOne thick black marker or charcoal stick\nBottom Left:\nWhite ceramic mug filled with dark coffee\nVisible crema and small surface bubbles\nBottom Area:\nBlack binder clips\nScattered gold paperclips\nStack of pastel sticky notes (yellow, blue, orange)\nRectangular grey eraser resting on top\n💡 Lighting\nSoft, diffused top-down lighting\nGentle directional shadows cast slightly toward the right\nNatural depth and dimensionality on physical objects\nSubtle highlight reflections on glasses and coffee surface\n🎨 Color Palette\nWarm earthy browns (wood surface)\nCream paper tones\nGrayscale charcoal drawing\nVibrant green succulent accent\nSoft pastel sticky notes\nNeutral blacks and metallic gold accents\n📷 Technical & Camera Details\nUltra high resolution\n1:1 aspect ratio\nDeep depth of field (everything sharply in focus)\nEvery element crisp — from succulent leaf texture to graphite strokes\nNatural editorial photography realism\nNo blur, no vignette, no artificial filters\n📐 Composition\nSketchbook slightly angled for organic dynamism\nObjects arranged to frame and visually guide attention toward the portrait\nBalanced yet naturally scattered layout\nClean, premium creative workspace aesthetic",
-      "description": "Google Gemini AI Sketch Editing Prompt: Use this prompt to generate a realistic pencil drawing of a man and woman in a notebook, set on an aesthetic wooden workspace with coffee and stationery.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 78,
-      "view_count": 2083,
-      "copy_count": 5608,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "local_path": "images/monochrome-portrait/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/monochrome-portrait/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/monochrome-portrait/pencil-sketch-portrait-illustration-by-promptplum.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Couple Pencil Sketch AI Prompt. AI generated realistic pencil illustration of a young man and woman back-to-back on a spiral notebook page."
         }
       ]
     },

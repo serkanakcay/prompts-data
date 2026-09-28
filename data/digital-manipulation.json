@@ -1,7 +1,7 @@
 {
   "category": "Digital Manipulation",
   "slug": "digital-manipulation",
-  "total_prompts": 6,
+  "total_prompts": 4,
   "updated_at": "2026-09-24T12:54:57Z",
   "prompts": [
     {
@@ -89,124 +89,6 @@
           "width": 1600,
           "height": 2668,
           "alt": "AI-generated digital illustration of a young woman in a pink shirt and white trousers, layered over a dramatic close-up double-exposure portrait of her face in sunglasses with golden backlighting."
-        }
-      ]
-    },
-    {
-      "id": "6a7a5efc4bbdbe2cf57a9d36",
-      "title": "Girl Walking with Glowing Boy",
-      "slug": "neon-boyfriend-ai-photo",
-      "category": "Digital Manipulation",
-      "category_slug": "digital-manipulation",
-      "prompt": "A cinematic night-scene portrait of a woman walking alone on an empty, dimly lit city road, illuminated by distant streetlights. His hair flows naturally, and her face is clearly visible with soft, glowing skin and a soft, elegant expression as she glances to the side. She wears an oversized black t-shirt, loose black jogger pants, and clean white sneakers, with a bracelet on her wrist. Beside her, holding her hand, walks a glowing neon-style imaginary figure of a man — made entirely of continuous golden-amber light outlines, with no visible skin or texture, just a soft glowing silhouette. He holds a large, realistic bouquet of vibrant red roses in his outlined hand. The neon figure emits a warm golden-white glow that contrasts dramatically against the cool, dark, foggy city background filled with soft bokeh streetlights and wet, reflective asphalt. The mood is romantic, calm, melancholic, and dreamlike, blending photorealism with imagination. Shallow depth of field, soft fog, moody cinematic lighting, realistic shadows, ultra-detailed, high realism, dreamy neon aesthetic, cinematic composition, 4K quality, vertical 4:5 portrait orientation. No text, no watermark, no logo, no captions anywhere in the image.",
-      "description": "Use this neon aesthetic photography prompt to create a surreal portrait of a girl holding hands with a glowing neon outline of a boyfriend carrying red roses.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 25,
-      "view_count": 946,
-      "copy_count": 1063,
-      "is_premium": false,
-      "published_at": "2026-08-10T23:30:04.141Z",
-      "images": [
-        {
-          "filename": "04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "local_path": "images/digital-manipulation/04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "original_url": "https://img.promptplum.com/promptImages/04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-manipulation/04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-manipulation/04f90e53-bbd2-426f-b882-21de5008dcea.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "AI generated image of a girl in black streetwear walking beside a glowing neon outline of a boyfriend holding red roses on a foggy night street."
-        },
-        {
-          "filename": "23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "local_path": "images/digital-manipulation/23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-manipulation/23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-manipulation/23d63a06-2fce-40b2-a000-6f43c9fe3d9a.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Neon Aesthetic Street Photography AI Photo Editing Prompt. AI generated photo of a girl in black streetwear walking beside a glowing neon outline of a boyfriend holding red roses."
-        },
-        {
-          "filename": "d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "local_path": "images/digital-manipulation/d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-manipulation/d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-manipulation/d12bbae1-2e46-46e3-8ccd-11605c69e6f3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "girl-walking-neon-boyfriend-holding-roses-photo-ai-prompt-by-promptplum-4"
-        },
-        {
-          "filename": "8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "local_path": "images/digital-manipulation/8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "original_url": "https://img.promptplum.com/promptImages/8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-manipulation/8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-manipulation/8b4080ea-cbc4-4ee7-9961-4503f6c0f8b9.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "girl-walking-neon-boyfriend-holding-roses-photo-ai-prompt-by-promptplum-1"
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca15267044e",
-      "title": "Frayed Reality",
-      "slug": "torn-photo-effect-emotional-contrast-photography",
-      "category": "Digital Manipulation",
-      "category_slug": "digital-manipulation",
-      "prompt": "Use the uploaded photo as a strict identity reference.\n\nThe subject’s facial structure, proportions, skin tone, eye shape, nose, jawline, lips, hairline, and hairstyle must remain exactly identical.\n\nThis is one single continuous face (not two people, no duplication).\n⚠️ Absolute constraint:\n\nThe face must NOT change across sections. Only rendering style and emotion change.\nMain Concept\nCreate a 4:5 ultra-realistic cinematic studio portrait with DSLR realism, 8K detail, natural skin texture, and shallow depth of field.\n\nConcept: public persona vs hidden emotion revealed through a torn paper strip.\nComposition (STRICT GEOMETRY)\nVertical 4:5 portrait\nSubject perfectly centered\nFace straight, no tilt, direct eye contact\nSymmetrical alignment across the vertical axis\nSubject Framing (IMPORTANT)\nHead-and-shoulders portrait (tight crop)\nTop crop: slightly above head (minimal headroom)\nBottom crop: mid-chest level (turtleneck fully visible)\nSubject occupies ~70–80% of frame height\nVery little empty space on sides (clean editorial framing)\nBackground\nDark cinematic seamless studio background\nSmooth gradient:\nSlight neutral gray behind the head (center)\nFades to deep black toward edges and corners\nSubtle vignette effect\nNo texture, no color cast, no patterns\nTorn Paper Layout (CRITICAL)\nCreate ONE horizontal torn-paper strip across the eyes:\n\nPosition: exactly across the eye region (mid-face only)\nThickness: ~20–25% of face height\nEdges: rough, fibrous, uneven\nRight side: slightly rolled/curling paper edge (visible depth)\nRealistic paper thickness + soft shadow\n⚠️ Must look like the top layer is torn and the inner layer revealed\n\n⚠️ No duplication of face\nBase Layer (Full Image — Public Persona)\nFull color\nWarm, natural skin tones\nVisible red lipstick (clean, defined)\nSubtle, confident, closed-mouth smile\nHair:\n\nFront-falling wavy hair\nNatural flow toward the shoulders\nSoft volume, defined strands, slight shine\nOutfit:\n\nBlack turtleneck\nSoft visible fabric texture (subtle knit detail)\nLighting:\n\nSoft cinematic studio lighting\nGentle highlights + soft shadows\nSkin texture preserved (no smoothing)\nInside Torn Paper (ONLY inside strip — Hidden Emotion)\nPure black-and-white (strict monochrome)\nSame face, perfectly aligned\nExpression:\n\nEmotionally vulnerable, slightly tense\nTear (MANDATORY — DO NOT MISS)\nTwo clearly visible tear streams (one under each eye)\nSharp, reflective, well-defined\nCatching light (specular highlights)\nNot faint, not blurred\nLighting:\n\nSlightly higher contrast\nMore shadow depth around the eyes\nRealism Enforcement\nPhotorealistic DSLR output\nVisible pores and natural skin texture\nHair strands are individually defined\nTear reflections crisp and sharp\nPaper edges detailed with depth and shadow\nHard Constraints\nOne face only\nPerfect alignment across layers\nNo facial distortion\nTear must be clearly visible\nHair is consistent across layers\nNo stylization\nNegative Prompt\nNo second subject\n\nNo duplicated face\n\nNo vertical split\n\nNo misaligned layers\n\nNo weak or missing tears\n\nNo flat lighting\n\nNo plastic skin\n\nNo illustration/cartoon / 3D\n\nNo blur on eyes or tears\n\nNo lipstick missing\n\nNo wrong crop or loose framing",
-      "description": "Google Gemini AI Conceptual Portrait Prompt: Use this prompt to generate a striking image of a smiling woman with a torn paper effect revealing crying black-and-white eyes, symbolizing hidden emotional pain.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 490,
-      "copy_count": 479,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "local_path": "images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum4.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Torn Paper Crying Eyes AI Photo Editing Prompt. AI generated conceptual portrait of a blonde woman with a torn paper strip revealing crying eyes over a smiling face."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "local_path": "images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Hidden Crying Eyes Photography Prompt. AI generated conceptual portrait of a woman smiling with red lips while a torn paper effect reveals her eyes crying in black and white."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "local_path": "images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum1.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Smiling Woman with Crying Eyes Torn Paper Photo Prompt. AI generated conceptual portrait of a smiling woman featuring a torn paper effect that reveals crying eyes in black and white."
-        },
-        {
-          "filename": "woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "local_path": "images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/digital-manipulation/woman-smiling-torn-paper-revealing-crying-eyes-portrait-by-promptplum3.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Woman with Torn Paper Eyes Portrait Prompt. AI generated conceptual portrait of a smiling woman with red lipstick, featuring a horizontal paper tear effect that reveals crying eyes in grayscale."
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "category": "AI Art",
   "slug": "ai-art",
-  "total_prompts": 67,
+  "total_prompts": 53,
   "updated_at": "2026-09-24T12:50:00Z",
   "prompts": [
     {
@@ -137,35 +137,6 @@
           "width": 1288,
           "height": 1600,
           "alt": "Beautiful Indian woman in saree pencil sketch AI Photo Editing Prompt. AI generated pencil sketch illustration of a traditional Indian woman wearing a saree, ethnic jewelry, and a bindi, with a gajra in her hair."
-        }
-      ]
-    },
-    {
-      "id": "6aa0305246d4207dc2b46bba",
-      "title": "Cute 3D Couple Taking a Selfie",
-      "slug": "3d-cartoon-couple-selfie",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create a high-quality stylized 3D digital illustration of a couple taking a selfie, shown from approximately the upper thighs against a clean, seamless white studio background.\nFace Matching: Accurately preserve and match both subjects’ facial identities to their respective reference images, maintaining their exact face shape, proportions, and distinctive facial features. Keep both faces highly recognizable and faithful to the references while naturally adapting them into the premium stylized 3D animated aesthetic.\nThe woman stands in the foreground on the left, holding a modern light blue/silver smartphone vertically in her raised left hand, taking the selfie. She has long, voluminous wavy hair, expressive eyes, defined eyebrows, soft glowing skin, and a warm, cheerful smile. She wears a fitted light pastel-blue short-sleeve T-shirt tucked into high-waisted black jeans. Her right arm hangs naturally by her side.\nThe man stands closely behind and slightly to her right, leaning naturally toward her. He has natural, neatly styled hair, expressive eyes, and a warm, friendly smile. He wears a crisp white button-down shirt with the sleeves rolled up, paired with black trousers. His left arm wraps naturally around the woman's waist, while his right hand rests casually inside his trouser pocket.\nBoth subjects pose closely and naturally as a happy couple, looking toward the smartphone camera with warm, affectionate, joyful expressions. Their body proportions and anatomy are natural and balanced.\nUse a polished cinematic 3D character-rendering style, with smooth realistic skin, detailed individual hair strands, realistic fabric textures, subtle facial details, soft shadows, gentle highlights, and refined glossy rendering. Use soft diffused studio lighting from the front and slightly above, creating an evenly illuminated, bright, clean appearance with subtle contact shadows.\nComposition: vertical portrait, centered framing, upper-thigh composition, both subjects clearly visible, smartphone clearly visible, balanced spacing, clean white background, premium commercial-quality 3D render, highly detailed, sharp focus, 8K, 4:5 aspect ratio.",
-      "description": "3D Character Illustration AI Prompt. Copy & Paste this prompt to create a cute, Pixar-style 3D digital illustration of a smiling young couple taking a selfie together with a smartphone.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 834,
-      "copy_count": 556,
-      "is_premium": false,
-      "published_at": "2026-09-08T15:57:06.068Z",
-      "images": [
-        {
-          "filename": "90d8fbce-7495-426d-a914-18375bdd88e2.jpeg",
-          "local_path": "images/ai-art/90d8fbce-7495-426d-a914-18375bdd88e2.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/90d8fbce-7495-426d-a914-18375bdd88e2.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/90d8fbce-7495-426d-a914-18375bdd88e2.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/90d8fbce-7495-426d-a914-18375bdd88e2.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "3D cartoon couple taking selfie illustration AI Photo Editing Prompt. AI generated 3D digital illustration of a smiling young woman in a blue t-shirt and a handsome man with a beard taking a selfie with a smartphone."
         }
       ]
     },
@@ -347,35 +318,6 @@
       ]
     },
     {
-      "id": "6a9315b646d4207dc296c9f3",
-      "title": "3D Animated Couple on Gradient Background",
-      "slug": "3d-animated-couple-portrait-on-gradient-background",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create an ultra-high-detail, full-body 3D animated portrait of a couple standing side-by-side in a premium Disney/Pixar-inspired style. The characters should feel highly expressive, charming, and visually polished with stylized realism.\nCharacters & Styling:\nMale (Left):\nA man with thick, dark hair and softly defined facial features. He wears a black-colored chunky cable-knit sweater with detailed knit texture. Paired with baggy-fit gray cargo pants featuring multiple pockets and black leather Chelsea boots.\nPose: Standing confidently with arms crossed over his chest.\nExpression: Calm, confident, and self-assured expression with a relaxed, natural gaze.\nFemale (Right):\nA woman with natural dark hair, softly stylized with shine. She wears a cream-colored chunky cable-knit sweater with detailed knit texture, tucked into high-waisted, wide-leg black corduroy trousers. Finished with burgundy leather Chelsea boots.\nPose: Relaxed stance with left hand resting on her hip.\nExpression: Calm, confident, and self-assured expression with a relaxed, natural gaze.\nComposition & Camera:\nFull-body framing, perfectly centered composition\nStraight-on, eye-level perspective\nShot with a 50mm lens for natural proportions\nAspect ratio: 4:5\nEnvironment & Background:\nA clean vivid pink-to-magenta-to-purple gradient background creates a bold, vibrant atmosphere, transitioning from bright pink and magenta at the top to rich purple in the middle, gradually fading into deep navy blue toward the bottom. No additional elements or distractions\nLighting:\nSoft, high-key studio lighting with diffused shadows\nSubtle rim light for clean subject separation\nEven illumination enhancing facial features and textures\nRendering & Quality:\nRendered in Unreal Engine 5 at 8K resolution\nUltra-realistic material detailing (leather grain, knit fibers, corduroy ridges)\nSmooth skin shading with subsurface scattering\nSharp focus, clean edges, no noise\nVibrant, cheerful cinematic color grading.\nFace Matching: Accurately preserve and match both subjects’ facial identities to their respective reference images, maintaining their exact face shape, proportions, and distinctive facial features. Keep both faces highly recognizable and faithful to the references while naturally adapting them into the premium stylized 3D animated aesthetic.",
-      "description": "3D Character Illustration Prompt: Copy & Paste this prompt to create a high-quality stylized 3D render of a young man and beautiful woman wearing cozy cable-knit sweaters against a smooth pink and purple gradient background.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 14,
-      "view_count": 599,
-      "copy_count": 357,
-      "is_premium": false,
-      "published_at": "2026-08-29T17:24:06.787Z",
-      "images": [
-        {
-          "filename": "0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "local_path": "images/ai-art/0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/0aaab063-9a53-4f98-9fb6-6721bbd65079.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "3D animated couple in winter sweaters character illustration AI Photo Editing Prompt. AI generated 3D illustration of a young man in a black sweater and a young woman in a cream sweater standing together against a pink and purple gradient background."
-        }
-      ]
-    },
-    {
       "id": "6a8f10ff46d4207dc23f401d",
       "title": "Grey Suit Birthday Celebration Portrait",
       "slug": "stylish-man-birthday-portrait-prompt",
@@ -522,45 +464,6 @@
       ]
     },
     {
-      "id": "6a7f3bd64bbdbe2cf5f217ad",
-      "title": "Couple on a Vintage Scrapbook Journal Page",
-      "slug": "scrapbook-style-couple-portrait",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Use the uploaded image strictly as a reference for the couple’s facial identity and overall appearance. Create a vertical 4:5 editorial scrapbook journal scene, viewed from directly overhead, showing an open vintage cream-colored journal spread on a rustic wooden surface. The pages are aged, slightly textured, imperfect, and filled with a nostalgic handmade summer scrapbook collage.\nAt the center, couple are casually lying across the open journal pages. The girl has beautifully styled hair, a lavender cable-knit sweater, white pleated mini skirt, white socks and chunky white sneakers, with a lavender ribbon in her hair. She lies peacefully on her back with one arm holding a small paper star. The boy wears a beige varsity-style jacket over a black T-shirt with relaxed blue jeans, clean white sneakers. He lies beside her, leaning toward her, as they look at each other with soft, affectionate, and relaxed expressions. Natural anatomy, realistic proportions, subtle candid interaction.\nSurround the couple with a dreamy handmade scrapbook collage: pressed lavender flowers, baby's-breath flowers, purple and yellow pansies, dried botanicals, torn pastel papers, lavender gingham fabric, handwritten notes, postage stamps, envelopes, tiny stars, hearts, clouds, fish illustrations, decorative doodles, masking tape, paper scraps, vintage photographs and small polaroid-style prints.\nAdd handwritten journal-style typography and collage labels such as “August 22 — lazy afternoon,” “we lay here for hours talking about everything & nothing,” “summer,” “so peaceful,” “good day,” “summer / slow day / rest / quiet,” “iced coffee iced & calm,” “sky at 4pm,” and “note: remember this day — perfect.” Make the handwriting look naturally handwritten and integrated into the paper collage.\nUse a soft pastel palette of lavender, dusty blue, cream, beige, muted peach and pale yellow, with warm vintage paper tones. Soft diffused daylight, gentle shadows, tactile paper texture, realistic pressed flowers, delicate imperfections, cozy nostalgic atmosphere, dreamy Japanese/Korean-inspired scrapbook aesthetic, highly detailed mixed-media collage, photorealistic people integrated naturally into the flat-lay composition.\nCamera: directly overhead flat-lay view, 85mm lens, full-body balanced symmetrical composition, sharp central subjects with detailed surrounding collage, soft natural lighting, cinematic color grading, ultra-detailed, photorealistic, 8K resolution, vertical 4:5 composition. No modern objects, no extra hands, no anatomy error, no blurry details, no duplicate people, no identity change.",
-      "description": "Mixed Media Scrapbook Art Prompt: Copy & Paste this prompt to create a beautiful digital illustration of a young couple lying on an aesthetic vintage journal page filled with pressed flowers, torn paper, and handwritten notes.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 32,
-      "view_count": 768,
-      "copy_count": 982,
-      "is_premium": false,
-      "published_at": "2026-08-14T16:01:26.621Z",
-      "images": [
-        {
-          "filename": "298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "local_path": "images/ai-art/298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/298dd901-f7c2-4de1-9eb5-7f459485f317.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Couple relaxing on a vintage floral scrapbook page mixed media illustration AI Photo Editing Prompt. AI generated digital illustration of a young boy and girl with purple hair lying on an aesthetic journal page surrounded by pressed flowers, vintage stamps, torn paper, and handwritten notes."
-        },
-        {
-          "filename": "5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "local_path": "images/ai-art/5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/5f174797-cdf9-415d-a533-b766fa45280a.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Gemini_Generated_Image_vaxm7nvaxm7nvaxm"
-        }
-      ]
-    },
-    {
       "id": "6a7db16e4bbdbe2cf5c9fcda",
       "title": "Impasto Oil Portrait of a Handsome Man",
       "slug": "expressive-brushstroke-male-portrait",
@@ -620,94 +523,6 @@
       ]
     },
     {
-      "id": "6a76bac94bbdbe2cf5250f3d",
-      "title": "Cliffside Couple Sculpture AI Prompt",
-      "slug": "mountain-face-carving-couple-art",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "A professional dual portrait of a man and a veiled woman side-by-side from the head and shoulders up, their features perfectly identical to the reference images. Both of their profiles are beautifully carved into a massive coastal mountain overlooking the sea. The man features a neatly trimmed mossy beard and rocky hair, while the woman wears a hijab formed from elegant, flowing layers of grey granite rock. Patches of green alpine vegetation and moss accent their stone features. The background is a vast ocean landscape with deep teal water and towering sea cliffs under clear daylight, keeping a unified cool color palette. Calm expression. 3:4 aspect ratio.",
-      "description": "Use this Epic Fantasy Landscape Prompt to generate cinematic photos of colossal stone couple faces carved into towering sea cliffs, overlooking a dramatic fjord.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 15,
-      "view_count": 440,
-      "copy_count": 419,
-      "is_premium": false,
-      "published_at": "2026-08-08T05:12:41.060Z",
-      "images": [
-        {
-          "filename": "c0519664-a873-457d-a777-3317e89831a6.webp",
-          "local_path": "images/ai-art/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/c0519664-a873-457d-a777-3317e89831a6.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Epic Sea Cliff Carvings AI Photo Editing Prompt. An AI-generated digital illustration of a giant stone couple faces carved into a coastal cliff."
-        }
-      ]
-    },
-    {
-      "id": "6a74b93e4bbdbe2cf5f7378d",
-      "title": "Watercolor Portrait of a Happy Couple",
-      "slug": "romantic-couple-illustration",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create a beautiful artistic hand-painted watercolor medium-portrait illustration of a cheerful couple standing together in a romantic pose. The woman is gently leaning her head on the man's shoulder while affectionately holding his arm with both hands, smiling warmly at the viewer. She has naturally styled hair adorned with a delicate purple flower tucked behind one ear, soft natural makeup, and a joyful expression. She wears an elegant sleeveless pleated magenta-purple knee-length dress with flowing fabric and subtle watercolor shading.\nThe man stands beside her with a relaxed posture, one hand casually tucked into his trouser pocket, smiling confidently. He has neatly styled hair and a friendly smile. He is dressed in a crisp white button-down shirt with sleeves rolled to the forearms, the top buttons left open for a casual look, paired with light beige trousers , black belt and a luxury wristwatch.\nThe background is a soft cream-colored textured watercolor paper with subtle beige watercolor washes creating a dreamy artistic effect. Elegant lavender and purple watercolor floral arrangements decorate the top-right and bottom-left corners, accompanied by delicate leaves, paint splashes, and ink droplets that naturally blend into the paper texture. The composition is clean and minimal, with generous negative space surrounding the couple, creating a premium greeting-card or wedding invitation aesthetic.\n\nStyle\nTraditional fine-art watercolor illustration with a premium hand-painted appearance, featuring realistic transparent watercolor layering, soft wet-on-wet pigment diffusion, controlled wet-on-dry detailing, natural pigment granulation, smooth color bleeding, feathered brush edges, and subtle glazing techniques. Rich paper texture remains visible through the translucent paint layers, enhanced by delicate hand-drawn ink outlines and expressive brushwork. Highly detailed facial features with soft natural skin tones, realistic hair rendered using fine watercolor strokes, elegant fabric folds with fluid watercolor shading, refined botanical painting techniques for the floral elements. The artwork should resemble a museum-quality handmade watercolor painting rather than a digital illustration, with graceful pastel harmonies, refined craftsmanship, sophisticated artistic composition, and a luxurious editorial greeting-card aesthetic.\nSoft diffused lighting, harmonious pastel color palette, smooth watercolor gradients, detailed hand-painted brush strokes, delicate ink outlines, realistic facial proportions, highly detailed clothing folds, subtle shadows, fine paper texture, premium watercolor illustration, elegant floral frame, romantic atmosphere, ultra-detailed, high-quality digital watercolor artwork, centered composition, 8K resolution. Aspect ratio 4:5.\nMaintain accurate identity and precise face matching to the provided reference image for both subjects.",
-      "description": "Copy and paste this prompt to create a charming watercolor-style illustration of a smiling, affectionate couple, featuring the woman in a purple dress leaning on the man in a white rolled-sleeve shirt and khaki trousers.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 82,
-      "view_count": 3248,
-      "copy_count": 2623,
-      "is_premium": false,
-      "published_at": "2026-08-06T16:41:34.417Z",
-      "images": [
-        {
-          "filename": "3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "local_path": "images/ai-art/3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/3287c0ef-b278-4504-9ccc-950b8b7e311c.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Watercolor Couple Illustration AI Photo Editing Prompt. AI generated watercolor painting and digital illustration of a smiling couple, with the woman in a purple halter dress leaning on the man in a white rolled-sleeve shirt and khaki trousers."
-        },
-        {
-          "filename": "7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "local_path": "images/ai-art/7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "original_url": "https://img.promptplum.com/promptImages/7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/7805cc63-5bbb-48bc-8930-be1e1258e702.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "romantic-couple-with-purple-flowers-watercolor-illustration-ai-prompt-by-promptplum-3"
-        },
-        {
-          "filename": "5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "local_path": "images/ai-art/5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/5301747a-147c-499c-8cc0-cd5cd68708f2.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "romantic-couple-with-purple-flowers-watercolor-illustration-ai-prompt-by-promptplum-1"
-        },
-        {
-          "filename": "c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "local_path": "images/ai-art/c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "original_url": "https://img.promptplum.com/promptImages/c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/c1f8273c-3634-4fa8-9742-909346f3bb4c.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "romantic-couple-with-purple-flowers-watercolor-illustration-ai-prompt-by-promptplum-2"
-        }
-      ]
-    },
-    {
       "id": "6a73c3f04bbdbe2cf5df8c95",
       "title": "Watercolor Portrait of Man with Orange Aviators",
       "slug": "watercolor-portrait-man-orange-glasses",
@@ -763,35 +578,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Watercolor Portrait of Man with Orange Glasses AI Photo Prompt. AI generated watercolor illustration of a stylish bearded man in an orange jacket and blue shirt with watercolor background splashes."
-        }
-      ]
-    },
-    {
-      "id": "6a6cd5874bbdbe2cf530e5a4",
-      "title": "Watercolor Romance",
-      "slug": "romantic-couple-watercolor-painting-love-status",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Maintain accurate identity and precise face matching to the provided reference image for both subjects.\nCreate a romantic, painterly watercolor-style portrait of a couple standing face-to-face with their foreheads gently resting together, eyes closed, sharing a peaceful and intimate moment. Both wear matching deep crimson-red button-up shirts with subtle fabric texture. The woman has long, naturally hair cascading over her shoulders and a soft, content smile. The man has thick, slightly tousled hair, and a calm, affectionate expression.\nThe composition is centered in a medium portrait with an eye-level camera angle. The couple occupies the central frame while maintaining balanced negative space around them. Behind them is a dramatic abstract watercolor splash bursting outward in vibrant shades of crimson, scarlet, magenta, purple, indigo, cobalt blue, and warm orange. Dynamic paint splatters, ink droplets, expressive brush strokes, and flowing watercolor textures radiate from behind the couple, naturally forming a heart-inspired composition. Several small hand-painted red hearts float subtly throughout the background, enhancing the romantic atmosphere.\nThe background is a warm beige textured watercolor paper with visible paper grain, creating the appearance of a traditional handmade watercolor painting. The artwork combines soft blended washes with bold expressive paint splashes, preserving organic watercolor edges, natural pigment bleeding, and artistic imperfections.\nStyle: Ultra-detailed watercolor illustration, hand-painted fine art, expressive brushwork, vibrant color harmony, soft romantic mood, detailed facial anatomy, exceptionally detailed skin rendering with natural skin texture, finely painted individual hair strands with realistic hair flow and volume, high-detail clothing textures, elegant composition, premium editorial artwork, painterly realism, museum-quality illustration, 8k high resolution, 4:5 aspect ratio.",
-      "description": "Romantic Watercolor Art Prompt: Copy & paste this prompt to create a beautiful portrait of a loving couple in matching red shirts against a colorful heart splash.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 50,
-      "view_count": 1859,
-      "copy_count": 2370,
-      "is_premium": false,
-      "published_at": "2026-07-31T17:04:07.527Z",
-      "images": [
-        {
-          "filename": "87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "local_path": "images/ai-art/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "original_url": "https://img.promptplum.com/promptImages/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/87b20c1a-f211-4200-991e-1f1a7362af69.jpeg",
-          "width": 1288,
-          "height": 1600,
-          "alt": "Watercolor Couple Portrait Art AI Photo Editing Prompt. AI generated watercolor art illustration of a man and a woman in matching red shirts with heads touching, set against a vibrant, heart-shaped paint splash."
         }
       ]
     },
@@ -1166,55 +952,6 @@
       ]
     },
     {
-      "id": "6a29056d61276f872a153717",
-      "title": "Creator and Creation",
-      "slug": "3d-boy-pencil-sketch",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create a highly polished, ultra-detailed 3D animated scene in a premium Pixar/Disney-inspired style, blending stylized character animation with traditional fine-art illustration. The composition features a charming man standing beside and leaning against a gigantic floor-to-ceiling sheet of textured, deckle-edged drawing paper mounted against a minimalist wall.\n\nThe man has expressive oversized eyes, voluminous dark hair, warm skin tones, and large red-rimmed eyeglasses. He stands in a relaxed, confident pose with his arms folded across his chest and his right leg casually crossed over his left ankle. He wears an olive-green round-neck T-shirt, fitted blue jeans with rolled cuffs, a simple dark wristwatch, and mustard-yellow high-top canvas sneakers. His expression is warm, proud, and slightly amused as he gazes upward toward the artwork beside him.\n\nThe massive paper displays an exquisitely detailed graphite-and-charcoal portrait of the exact exact same man (without eyeglasses), rendered in a realistic fine-art sketch style. The artwork is a chest-up portrait with the head held upright and no tilt. In the drawing, the man is captured with a warm smile, making direct eye contact with the viewer. The illustration features intricate pencil strokes, cross-hatching, realistic shading, visible paper grain, delicate line work, and masterful charcoal texture, creating the appearance of a hand-drawn museum-quality portrait.\n\nThe contrast between the dimensional 3D character and the flat traditional sketch is a central visual element. Warm cinematic golden-hour sunlight enters from the upper right, illuminating both subjects and creating soft highlights, realistic ambient occlusion, and long, natural shadows. The 3D boy casts a distinct shadow across the giant drawing, reinforcing the interaction between the real and illustrated worlds.\n\nThe environment consists of a minimalist textured taupe-grey wall and a smooth floor, with subtle surface imperfections and natural light falloff. The oversized artwork dominates the frame while the character occupies the lower-right portion, creating strong visual balance and storytelling depth.\n\nUltra-realistic lighting, global illumination, ray-traced shadows, cinematic color grading, shallow depth of field, high dynamic range, premium animated-film rendering, 8K resolution, DSLR-level clarity, hyper-detailed textures, crisp focus, masterpiece quality, seamless blend of 3D character design and traditional graphite illustration.\nUse the uploaded image strictly ONLY for 100% accurate face matching and identity reference.\nAspect ratio 4:5.",
-      "description": "3D Cartoon & Sketch Art Prompt: Copy and paste this prompt to create an animated 3D boy standing proudly beside a large realistic pencil portrait.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 43,
-      "view_count": 1256,
-      "copy_count": 2444,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "local_path": "images/ai-art/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "original_url": "https://img.promptplum.com/promptImages/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/73efb34a-2bf3-43e3-b669-e46cab2c22be.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 1"
-        },
-        {
-          "filename": "e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "local_path": "images/ai-art/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "original_url": "https://img.promptplum.com/promptImages/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/e9200706-662d-41ae-9545-b83cc0843295.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 2"
-        },
-        {
-          "filename": "092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "local_path": "images/ai-art/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "original_url": "https://img.promptplum.com/promptImages/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/092c44c9-b421-4ea5-8c8e-1e0ee0240786.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "Result Image 3"
-        }
-      ]
-    },
-    {
       "id": "6a1807316205d846d5b7abff",
       "title": "The Executive",
       "slug": "agent-suit-illustration",
@@ -1431,75 +1168,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704e7",
-      "title": "Heartfelt Connection",
-      "slug": "romantic-couple-hugging-digital-art-illustration",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "MUST maintain accurate identity and face matching to the provided reference image for all subjects — preserve exact facial structure, proportions, skin tone, and hairlines. Adapt the features into a high-end semi-realistic digital illustration with painterly detail, while strictly retaining recognizable likeness and unique facial characteristics.\nComposition & Framing:\nA centered, intimate medium close-up portrait capturing two subjects from mid-torso to slightly above the head. The composition is tightly framed with both faces clearly visible and overlapping slightly, creating a strong emotional connection. Subjects occupy approximately 70–75% of the frame, with minimal but clean negative space around them. Vertical 4:5 aspect ratio.\nCamera Angle:\nEye-level camera angle for a natural, relatable perspective. Slight forward framing to enhance closeness and emotional warmth.\nPose & Interaction:\nThe woman stands slightly in front, while the man is positioned behind her, leaning forward and gently wrapping both arms around her shoulders in an affectionate embrace. His hands are softly clasped together near her chest. Both subjects have relaxed posture with subtle head tilt toward each other, conveying warmth, comfort, and connection.\nFacial Expression:\nNatural, soft smiles with bright, expressive eyes. Emotion feels genuine, joyful, and intimate.\nOutfit & Styling:\nBoth subjects are wearing modern, coordinated cream-colored outfits. The woman wears a clean, minimal cream crew-neck T-shirt, while the man wears a lightweight, relaxed-fit cream jacket layered over a grey inner T-shirt. Fabrics appear soft and premium with subtle natural folds and texture, maintaining a contemporary, stylish, and understated aesthetic while keeping focus on expressions and connection.\nHair & Details:\nHair is naturally styled with soft volume and texture. Fine strands and subtle movement visible for realism. Skin retains natural texture with realistic pores—no over-smoothing.\nBackground & Environment:\nClean, light neutral background (off-white) with subtle artistic sketch textures and soft brush-style accents. Small illustrated heart doodles and minimal graphic elements are lightly scattered around, enhancing a romantic, playful tone without overpowering the subjects.\nLighting Setup:\nSoft, diffused studio lighting from the front with slight directional bias to create gentle highlights on facial features. Even exposure with smooth shadow transitions. No harsh contrast—lighting is warm, flattering, and balanced.\nStyle & Rendering:\nHigh-end semi-realistic digital illustration with painterly detail. Smooth blending with visible brush textures, soft shading, and enhanced facial detailing. Clean linework combined with realistic rendering.\nAdd a soft painterly bottom fade effect, where the lower part of the portrait dissolves into loose brush strokes with sketchy, unfinished artistic edges.\nTechnical Details:\n8K ultra-high resolution, sharp focus on faces, shallow depth of field, high dynamic range, cinematic color grading, soft warm tones, professional illustration finish.",
-      "description": "Artistic Watercolor Illustration Prompt: Copy and paste this prompt to generate a charming digital sketch of a romantic couple in a warm embrace with minimalist heart doodles.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 195,
-      "view_count": 5720,
-      "copy_count": 17510,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "smiling-couple-hugging-illustration-by-promptplum-5.webp",
-          "local_path": "images/ai-art/smiling-couple-hugging-illustration-by-promptplum-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/smiling-couple-hugging-illustration-by-promptplum-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-5.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Romantic Couple Hug AI Photo Editing Prompt. AI generated digital illustration of a smiling man embracing a woman from behind with delicate heart accents."
-        },
-        {
-          "filename": "smiling-couple-hugging-illustration-by-promptplum-2.webp",
-          "local_path": "images/ai-art/smiling-couple-hugging-illustration-by-promptplum-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/smiling-couple-hugging-illustration-by-promptplum-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-2.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Senior Couple Embrace AI Photo Editing Prompt. AI generated digital illustration of a smiling older man warmly embracing a senior woman from behind, accented with small drawn hearts."
-        },
-        {
-          "filename": "smiling-couple-hugging-illustration-by-promptplum-4.webp",
-          "local_path": "images/ai-art/smiling-couple-hugging-illustration-by-promptplum-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/smiling-couple-hugging-illustration-by-promptplum-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-4.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Smiling Couple Sketch Art Prompt. AI generated illustrated portrait of a smiling man hugging a smiling woman from behind against a light, sketch-style background."
-        },
-        {
-          "filename": "smiling-couple-hugging-illustration-by-promptplum-1.webp",
-          "local_path": "images/ai-art/smiling-couple-hugging-illustration-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/smiling-couple-hugging-illustration-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-1.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "Digital illustration of a smiling young man affectionately hugging a smiling young woman from behind, with small drawn hearts floating around them."
-        },
-        {
-          "filename": "smiling-couple-hugging-illustration-by-promptplum-3.webp",
-          "local_path": "images/ai-art/smiling-couple-hugging-illustration-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/smiling-couple-hugging-illustration-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/smiling-couple-hugging-illustration-by-promptplum-3.webp",
-          "width": 928,
-          "height": 1152,
-          "alt": "A digital illustration of a smiling young couple embracing, with small hand-drawn hearts floating around them."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526704e3",
       "title": "Unspoken Words",
       "slug": "aesthetic-men-portrait-poses-sunset",
@@ -1539,35 +1207,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526704d6",
-      "title": "Soulmate Horizon",
-      "slug": "romantic-couple-beach-name-art",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create a hyper-realistic cinematic couple photography poster, 2:3 portrait format.\nDual-zone composite layout: [TOP ZONE — Blue Cinematic Close-Up] Extreme macro close-up of a young couple, foreheads pressed together in an intimate near-kiss pose, eyes gently shut, soft genuine smiles, slightly faded color tones. Shot with Sony Alpha 1 Mirrorless, 85mm f/1.2 prime lens, creamy bokeh, cool blue-steel color grade (#1a3a5c tonal palette).\nFaces razor-sharp, background melting into buttery bokeh haze. Cinematic soft haze overlay blending into the middle of the frame.\n[BOTTOM ZONE — Warm Full-Body Romance Shot] Same couple, warm natural daylight, slight Dutch/market tilt on frame. Man: white breathable linen half-sleeve shirt, bracelet on wrist, dark trousers. Woman: deep red satin spaghetti-strap fitted dress, naturally styled hair flowing freely. Both leaning foreheads together, gazing down at a dark-paper-wrapped red rose bouquet they hold between them. Overcast ocean/horizon soft blurred background, \"soft blurred background\", \"creamy bokeh effect\", \"shallow depth of field look\", \"cinematic haze\". Clear faces, clean skin, photorealistic detail.\n[BOTTOM TEXT OVERLAY] White handwritten signature-style cursive script: → \"Soulmate\" (large, central) — two tiny flying dove silhouettes above the descender of 'l' → Below in clean white uppercase sans-serif with wide letter-spacing: \"JACK-ROSE\" → Below that: \"05 FEBRUARY 2022\" Style: Editorial pre-wedding photography, Vogue India aesthetic, Sony Alpha 1 mirrorless, f/1.2 aperture, ISO 200, daylight balanced. Ultra-realistic, no illustration, photographic grain.",
-      "description": "Romantic Double Exposure Photography Prompt: Copy and paste this prompt to create a sentimental beach portrait of a couple holding red roses with elegant personalized typography.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 433,
-      "view_count": 16859,
-      "copy_count": 60623,
-      "is_premium": false,
-      "published_at": "2026-08-06T13:14:09.529Z",
-      "images": [
-        {
-          "filename": "romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "local_path": "images/ai-art/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "original_url": "https://img.promptplum.com/promptImages/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/romantic-couple-on-beach-portrait-image-by-promptplum.webp",
-          "width": 1696,
-          "height": 2528,
-          "alt": "Romantic Couple Beach Poster AI Photo Editing Prompt. AI generated digital illustration of a couple touching foreheads on a beach with a bouquet of red roses."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526704ca",
       "title": "Soul of the Violin",
       "slug": "woman-playing-violin-pencil-sketch-art",
@@ -1593,46 +1232,6 @@
           "width": 1856,
           "height": 2304,
           "alt": "Woman Playing Violin Sketch AI Photo Editing Prompt. AI generated pencil sketch illustration of a woman with long wavy hair and closed eyes playing a violin."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526704c2",
-      "title": "Skyward Couple",
-      "slug": "couple-heart-hand-gesture-wallpaper",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create an ultra-realistic cinematic low-angle couple portrait with a smartphone lockscreen UI overlay. Capture in 8K DSLR quality with extremely sharp focus, zero blur, no artificial smoothing, no CGI or cartoon look. Maintain hyper-realistic skin texture, detailed fabric, and crisp environment clarity.\n\nASPECT RATIO\n3:4 vertical\n\nSCENE\nOpen outdoor environment with a clean, minimal sky background.\nSoft light blue sky with subtle natural clouds filling the entire frame.\nNo buildings, no objects, no distractions.\n\nSUBJECT\nA couple leaning toward the camera from above, captured in a low-angle perspective, creating a modern selfie-style composition.\nFraming must clearly show both faces and hands.\n\nFACE & IDENTITY RULES (IMPORTANT)\nFaces must remain fully natural and identity-preserved.\nDo NOT beautify, reshape, or over-smooth skin.\nMaintain natural imperfections (pores, texture, subtle asymmetry).\nWorks for any couple.\n\nPOSE (STRICT)\nBoth subjects leaning slightly forward toward the camera\nHeads tilted slightly inward, close to each other\nEach subject one hand extended downward toward camera\nFingers forming a clear heart shape in the centre frame (thumbs + fingers touching)\nDirect eye contact with camera\n\nEXPRESSION\nSoft natural happy smiles (IMPORTANT)\nNatural, warm, romantic, friendly vibe\nNo exaggerated expressions\n\nOUTFIT (IMPORTANT)\nFemale: simple, minimal black t-shirt (soft fabric, natural drape)\nMale: white inner t-shirt with black casual shirt (natural folds), optional smartwatch\nClothing must look real with visible texture and folds\n\nLIGHTING\nNatural daylight from front-top direction\nSoft, even illumination on both faces\nNo harsh shadows\nNatural highlights on skin (cheeks, forehead)\nBalanced exposure with realistic tones\n\nBACKGROUND\nFull sky visible (light blue + soft clouds)\nClean minimal composition\nNo distractions\n\nCAMERA & COMPOSITION (STRICT)\nLow-angle shot (camera placed below, pointing upward)\nClose-up framing (faces + hands clearly visible)\n50mm realistic lens perspective\nHeart shape perfectly centered\nUltra-sharp focus on faces, hands, and sky\nNO blur anywhere\n\nSTYLE\nHyper-realistic outdoor couple photography\nModern, clean, social media aesthetic\nNatural color grading (no overprocessing)\n\nLOCKSCREEN UI OVERLAY\nTop center: “Sunday, 19 April” (minimal iOS-style font)\nBelow: large bold time “19:04”\nTop left: signal icon + “Verizon”\nTop right: battery icon (47%)\nClean, subtle smartphone lockscreen overlay\n\nNEGATIVE PROMPT\nblur, motion blur, depth of field, soft focus, background blur, CGI look, cartoon style, plastic skin, distorted hands, extra fingers, extra hands, wrong heart shape pose, bad anatomy, identity change, watermark, low resolution",
-      "description": "Romantic Couple Photography Prompt: Copy & Paste this prompt to generate high-quality images of a happy young couple making a hand-heart gesture against a clear blue sky background.",
-      "ai_tools": [
-        "Gemini",
-        "ChatGPT"
-      ],
-      "like_count": 354,
-      "view_count": 18648,
-      "copy_count": 40144,
-      "is_premium": false,
-      "published_at": "2026-08-10T16:40:07.585Z",
-      "images": [
-        {
-          "filename": "couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "local_path": "images/ai-art/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-1.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Young Couple Making Heart Sign AI Photo Editing Prompt. AI generated cinematic portrait of a man and woman looking down at the camera while forming a heart gesture against a clear blue sky."
-        },
-        {
-          "filename": "couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "local_path": "images/ai-art/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/couple-making-heart-gesture-lockscreen-portrait-by-promptplum-3.webp",
-          "width": 1792,
-          "height": 2400,
-          "alt": "Couple heart hand gesture lock screen AI Photo Editing Prompt. AI generated digital photograph of a smiling couple forming a heart with their hands from a low angle, overlaid by a lock screen"
         }
       ]
     },
@@ -2332,35 +1931,6 @@
       ]
     },
     {
-      "id": "6a15472c564f4ca1526703cc",
-      "title": "Valentine’s Garden Embrace",
-      "slug": "happy-valentines-day-couple-rose-garden",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create a highly polished, romantic Valentine’s Day portrait in a premium commercial photography style. The image should feel warm, bright, and emotionally uplifting, combining photorealistic subjects with a softly stylized romantic atmosphere while maintaining natural realism.\nFace Match\nUse the provided reference images (image_0.png and image_1.png) for strict face matching for both subjects. Preserve identical facial structure, proportions, eye shape, nose, lips, skin tone, hairstyle, and age characteristics. Maintain a realistic identity with natural skin texture and authentic expressions.\nComposition & Framing (Strict Pose Instructions)\nA couple stands centered in a vertical full-body composition, framed from head to feet. The subjects occupy approximately 2/3 of the frame height.\nThe woman stands slightly in front and to the left of the man. The man stands close behind her right side, angling his torso toward her.\nCrucial Pose Details:\n\nThe man's right arm wraps affectionately around the woman's waist. His left hand is placed distinctly inside the front pocket of his beige chinos.\nThe woman leans softly into the man’s chest and shoulder. Her right hand rests gently but noticeably flat against the center of the man's chest, over his heart. Her left arm rests naturally downward along her side.\nBoth subjects face the camera directly with heads close together. Expressions are warm, genuine, and happy with soft, natural smiles appropriate for Valentine’s Day.\nDepth of field is shallow, keeping the couple sharply in focus while the background garden remains softly blurred.\nSubjects & Styling\nSubjects appear realistic with natural facial detail and commercial-grade skin texture.\nThe man wears a light blue chambray-style button-down shirt with sleeves rolled and beige chinos.\nThe woman wears a soft pink floral knee-length dress with short sleeves and lightweight fabric.\nEnvironment & Background\nThe setting is a romantic garden in the early morning. The background includes softly blurred greenery and pink flowering bushes. The sky displays warm pastel tones of peach, soft pink, and orange at sunrise. Subtle, out-of-focus floating heart-shaped elements appear in the background atmosphere.\nForeground Elements\nIn the lower right foreground, placed on a small wooden table, are secondary Valentine-themed elements in soft focus: a white gift box with a red ribbon, a small flip-style calendar displaying “14 February”, and an elegant glass decanter.\nTypography Placement\nThe text “Happy Valentine’s Day” appears in the upper right quadrant in elegant red cursive script. Below it, the date “14 February” appears in a smaller refined serif font.\nLighting & Mood\nSoft, diffused morning golden-hour lighting. Warm frontal light illuminates faces, with subtle backlight from the sunrise. The mood is romantic, celebratory, and emotionally warm with pastel color grading.\nTechnical Style\nPhotorealistic commercial portrait photography, high resolution, 4:5 aspect ratio, smooth bokeh, and a clean premium finish.",
-      "description": "Create stunning Valentine's Day AI portraits with this rose garden prompt. Generate photorealistic couples with cinematic lighting and elegant \"14 February\" text.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 56,
-      "view_count": 1629,
-      "copy_count": 3715,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "local_path": "images/ai-art/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "original_url": "https://img.promptplum.com/promptImages/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/Gemini_Generated_Image_qrun0pqrun0pqrun.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A smiling couple poses in a sunrise rose garden for Valentine's Day. The scene includes a gift, a \"14 February\" calendar, and festive red script text against a sunrise sky."
-        }
-      ]
-    },
-    {
       "id": "6a15472c564f4ca1526703c9",
       "title": "Mood Board 2.0",
       "slug": "3d-character-emotions-pack",
@@ -2393,75 +1963,6 @@
           "original_url": "https://img.promptplum.com/promptImages/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-2.webp",
           "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-2.webp",
           "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/stylized-3d-character-avatar-with-6-different-emotions-ai-art-prompt-2.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703c1",
-      "title": "Sculpted Souls",
-      "slug": "custom-3d-wood-carving-couple-portrait",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create a hyper-realistic 8K photograph of a highly detailed, intricately carved oak wood sculpture made from a single continuous slice of polished light-brown oak. The sculpture is formed from a circular tree trunk cross-section, with natural bark preserved around the outer edge and clearly visible organic growth rings radiating from the center. The inner wood surface appears lighter and smoother than the outer bark, showing natural cream-to-light brown oak tones with a refined polished finish. The wood grain must remain natural, continuous, and clearly visible, with precise carving depth that emphasizes craftsmanship, realism, and handmade quality.\nInside the circular wood frame are two hyper-realistic wooden busts carved directly from the same oak material, emerging organically from the inner surface as if revealed from within the tree itself rather than attached separately. The carving integrates seamlessly with the surrounding wood, maintaining natural flow between background and subjects.\nLeft Subject (Man):\n\nA man whose face closely matches the provided reference image (face match enabled, identity preserved). Facial structure, proportions, age characteristics, and expression remain realistic and natural without stylization or beautification. He has naturally styled hair and a well-groomed beard (if present in the reference), both subtly darker than the surrounding wood tone to enhance depth while remaining fully wooden in appearance. The clothing must match the outfit style and design from the uploaded reference image. Do not change the outfit type. Only apply subtle enhancement in fit and premium refinement while keeping the original style accurate, with fabric details expressed through natural wooden carving. His posture is relaxed and slightly oriented toward the woman, conveying warmth and calm confidence.\nRight Subject (Woman):\n\nA woman whose face closely matches the provided reference image (face match enabled, identity preserved). Facial proportions and expression remain soft, calm, and natural. Her natural hair flows smoothly with elegant carved strand direction, integrated naturally into the wood surface. The clothing must match the outfit style and design from the uploaded reference image. Do not change the outfit type. Only apply subtle enhancement in fit and premium refinement while keeping the original style accurate, with fabric details expressed through natural wooden carving. One hand rests naturally on the man’s chest, carved with delicate realism and smooth transitions. Facial planes and hands appear slightly brighter to enhance visibility of fine carving detail while maintaining natural oak realism.\nSculpture Base & Name Plate Detail:\n\nThe circular oak sculpture is mounted upright on a minimal wooden display stand made from matching oak material. At the front of the base, a horizontal wooden strip forms an integrated name plate carved from the same piece of wood. The names “Romeo” and “Juliet” are elegantly carved into the wood in a refined handwritten-style carving, with a small carved heart symbol placed between the names. The lettering has natural depth and soft shadowing, appearing sculpted rather than engraved, printed, or painted, maintaining a premium handcrafted aesthetic.\nEnvironment & Background:\n\nThe sculpture sits centered on a smooth wooden table within a softly blurred warm indoor environment. The background consists of neutral beige and warm brown tones, suggesting a calm domestic interior while remaining minimal and non-distracting, reinforcing a premium handcrafted lifestyle presentation.\nLighting:\n\nSoft diffused natural daylight enters from the left side, creating gentle highlights across the wood grain and carved facial features. Lighting remains warm, even, and cinematic, enhancing depth, curvature, and natural wood texture without harsh shadows. Subtle ambient fill light preserves detail within deeper carved areas.\nCamera & Rendering:\n\nEye-level composition, centered framing, shallow depth of field, ultra-photorealistic rendering, sharp focus on sculpture details with smooth background bokeh. Premium product photography quality.\nAspect Ratio: 1:1 square composition.",
-      "description": "Discover the ultimate AI art prompt for creating stunning 3D wood carving couple portraits. Use these specific prompt words to generate hyper-realistic, rustic wooden art inside a natural log, complete with personalized name plaques and intricate grain details.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 75,
-      "view_count": 1354,
-      "copy_count": 2538,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "local_path": "images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-5.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Realistic 3D wood carving of Romeo and Juliet inside a hollowed tree trunk. Features intricate grain textures, a nameplate base, and a warm, hand-crafted aesthetic."
-        },
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "local_path": "images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-6.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "A 3D wood carving of a couple, Jakey and Ameliye, inside a circular log frame. The piece features intricate wood grain textures and a personalized nameplate, creating a warm, rustic portrait."
-        },
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "local_path": "images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-4.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": ""
-        },
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "local_path": "images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-2.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "A detailed wooden carving of a couple inside a log slice, with \"Rosebud ❤️ Sassy\" on the base plaque."
-        },
-        {
-          "filename": "custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "local_path": "images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/custom-3d-wood-carving-couple-portrait-ai-art-prompt-3.webp",
           "width": 2048,
           "height": 2048,
           "alt": ""
@@ -2651,94 +2152,6 @@
           "width": 1792,
           "height": 2368,
           "alt": ""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703b4",
-      "title": "Oak & Infinity",
-      "slug": "wooden-couple-heart-infinity-sculpture",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create a hyper-realistic 8K photograph of a highly detailed, intricately carved light brown oak sculpture made from a single continuous piece of polished oak wood. The sculpture forms a large elegant heart shape at the top that seamlessly flows into an infinity symbol at the base, symbolizing eternal connection. The wood grain must be natural and clearly visible, with smooth polished edges and fine carving detail that emphasizes craftsmanship and realism.\nInside the heart-shaped frame are two hyper-realistic wooden busts carved from the same light cream-to-light brown oak material:\n• On the left: a woman whose face closely matches the uploaded reference image (face match enabled, identity preserved). The facial structure, proportions, age characteristics, and identity must remain accurate to the reference without stylization or alteration. Her hairstyle must also match the reference image correctly — if the reference shows short hair, the sculpture must retain short hair; if the reference shows long hair, it should appear as naturally flowing long hair consistent with the elegant carved style described in this prompt. Hair flow should feel naturally sculpted with realistic strand direction and depth, integrated seamlessly into the wood carving. She wears a carved cream beret and a ribbed turtleneck sweater. Her hands rest naturally together at mid-torso level without holding any object. Her facial expression is calm, soft, and natural, with delicate carving detail and realistic proportions. The facial planes, cheeks, and hands are slightly brighter and more evenly illuminated to enhance visibility of fine carving detail while maintaining natural wood realism. Her hair tone is slightly darker than the surrounding wood for gentle contrast and depth, and the lips carry a very subtle natural warm tint within the wood tone to improve realism without appearing painted or artificial.\n• On the right: a man whose face closely matches the uploaded reference image (face match enabled, identity preserved). Facial proportions, expression, and identity must remain faithful to the reference image, maintaining realism and natural carving symmetry. He has naturally styled medium-length hair and wears a carved leather-style jacket layered over a high-neck knit sweater and a textured chunky scarf. His posture is relaxed and slightly oriented toward the woman, with refined facial carving and balanced symmetry. Secondary facial areas and clothing folds are softly brightened to preserve detail while maintaining realistic shadow depth. His hair tone is slightly darker than the base wood tone to enhance dimensional separation and realism, while lips retain a subtle natural tonal variation consistent with carved oak material.\nSculpture Base Design (Important):\nThe infinity-loop base is thick, smoothly rounded, and structurally integrated into the heart above. The sculpture rests on an oval wooden platform made from the same oak material. The names “Emily” and “Jack” are beautifully carved directly into the front-facing surfaces of the infinity loops, positioned symmetrically and naturally following the curve of the wood. The lettering appears as part of the wood design itself — elegantly carved, refined, and polished, with subtle depth and soft shadowing so the names feel handcrafted and integrated rather than added or embossed.\nEnvironment & Background:\nThe sculpture sits centered on a smooth wooden table. A small potted succulent in a minimal ceramic pot sits to the side. The background is a softly blurred warm domestic interior with neutral beige tones, suggesting a sofa and window light, maintaining a clean lifestyle aesthetic.\nLighting (Matched to Reference Image):\nSoft diffused natural daylight entering from the left side, creating gentle highlights along the curved heart frame and subtle shadows within the infinity loops. Lighting is warm, even, and cinematic, emphasizing wood texture and depth without harsh contrast. Soft ambient fill light maintains detail in facial carvings while preserving natural shadow gradients. No dramatic studio lighting — calm, realistic indoor daylight mood.\nCamera & Rendering:\nEye-level composition, centered framing, shallow depth of field, ultra-photorealistic rendering, sharp focus on sculpture details with smooth background bokeh, premium product photography quality.\nAspect Ratio: 1:1 square composition.",
-      "description": "Generate stunning 3D wooden couple sculptures with this highly detailed AI prompt. Create photorealistic wood-carved art featuring a heart-shaped frame, an infinity symbol base with personalized names, and cinematic lighting. Perfect for designers looking to create unique, high-quality 3D digital sculptures and custom gift inspirations.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 106,
-      "view_count": 1556,
-      "copy_count": 3124,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-4-1.webp",
-          "local_path": "images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-4-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-4-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-4-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-4-1.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Wooden sculpture of a couple within a heart-shaped frame that merges into an infinity symbol base. Features names \"Emily\" and \"Jack\" with realistic wood textures."
-        },
-        {
-          "filename": "wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-3.webp",
-          "local_path": "images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-3.webp",
-          "original_url": "https://img.promptplum.com/promptImages/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-3.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-3.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-3.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "A detailed wooden sculpture of an elderly couple inside a heart, set on an infinity base with the names \"Mrs. Grace\" and \"Mr. Henry.\" Features realistic textures and warm lighting."
-        },
-        {
-          "filename": "wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-1.webp",
-          "local_path": "images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-1.webp",
-          "original_url": "https://img.promptplum.com/promptImages/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-1.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-1.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-1.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": ""
-        },
-        {
-          "filename": "wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-2.webp",
-          "local_path": "images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-2.webp",
-          "original_url": "https://img.promptplum.com/promptImages/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-2.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-2.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/wooden-couple-sculpture-with-heart-and-infinity-base-ai-prompt-2.webp",
-          "width": 2048,
-          "height": 2048,
-          "alt": "Wooden sculpture of a couple framed by a heart, resting on an infinity base engraved with \"Ava\" and \"Daniel.\""
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca1526703b1",
-      "title": "The Golden Wish",
-      "slug": "woman-gold-dress-birthday-cake-spotlight",
-      "category": "AI Art",
-      "category_slug": "ai-art",
-      "prompt": "Create a cinematic, high-fashion editorial portrait with a warm, monochromatic color palette that conveys a luxurious, celebratory, and regal atmosphere. The image should feel elegant, intimate, and professionally photographed, similar to a premium fashion magazine birthday editorial.\n\nSubject & Identity (Strict)\nUse the reference image as a strict identity guide. The subject’s face must match the reference exactly. Preserve facial structure, proportions, skin tone, hairstyle, hair color, and natural facial features without beautification, reshaping, or stylization. Maintain realistic skin texture and natural expression.\nThe subject is a young woman with long, flowing natural hair styled in soft, loose waves. She is captured in profile, gently leaning forward as she prepares to blow out birthday candles. Her expression is calm, serene, and focused, creating a soft, intimate moment.\n\nWardrobe & Styling\nThe subject wears a princess type dramatic, floor-length champagne-gold ball gown. The dress features long sleeves and is transparently covered with fine sequins and glitter that reflect light subtly, producing a shimmering, luxurious texture. The silhouette is full and voluminous, enhancing a regal presence.\nShe wears a delicate silver-toned tiara or crown encrusted with small crystals, reinforcing a refined “birthday queen” aesthetic. Styling remains elegant and timeless rather than extravagant.\n\nThe Centerpiece (Cake)\nThe subject holds a two-tier vintage Lambeth-style birthday cake positioned at chest height. The cake is decorated with intricate white and gold buttercream piping, ornamental swags, and small edible gold pearl accents.\nOn top sits a metallic gold “Happy Birthday” script topper. Several thin candles are lit, with small warm flames visible as the subject gently blows toward them, capturing a moment of anticipation.\n\nLighting & Background\nThe lighting is the primary visual element.\n\nA strong circular spotlight is projected onto a warm beige background, creating a halo effect centered behind the subject.\nLighting style follows a dramatic chiaroscuro approach, with a hard-edged spotlight and soft falloff toward the edges.\nA sharp, well-defined shadow of the subject and the cake topper appears on the wall within the spotlight, adding depth and visual storytelling.\nThe background remains minimal, smooth, and free of distractions.\nColor & Mood\nThe entire image follows a warm tonal palette consisting of gold, champagne, cream, and warm brown hues. The color temperature is very warm (approximately 3000K–3500K), enhancing metallic reflections and creating a nostalgic, cinematic atmosphere.\n\nTechnical Photography Details\nEditorial fashion photography style\nDSLR quality, ultra-realistic rendering\nMedium depth of field; subject and cake in sharp focus, background softly diffused\nCentral composition with a slight forward lean creating gentle movement\nSoft filmic contrast with rich highlights and controlled shadows\nHigh resolution (4K–8K quality)\nAspect ratio: 4:5\nOverall Vibe\nLuxury, celebratory, elegant, and cinematic — a refined birthday portrait that feels timeless, regal, and editorial rather than casual.",
-      "description": "Generate a stunning golden spotlight portrait with this professional AI prompt. Create high-quality images of a woman in a shimmering sequined gown and tiara, holding an elegant two-tier birthday cake.",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 76,
-      "view_count": 4213,
-      "copy_count": 6432,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "local_path": "images/ai-art/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "original_url": "https://img.promptplum.com/promptImages/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/ai-art/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/ai-art/golden-spotlight-portrait-of-woman-with-birthday-cake-ai-prompt.webp",
-          "width": 1856,
-          "height": 2304,
-          "alt": "A woman in a gold sequined gown and tiara holds a birthday cake in a circular spotlight. She's blowing out a candle, casting a dramatic shadow against a tan, cinematic backdrop."
         }
       ]
     },

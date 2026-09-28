@@ -1,7 +1,7 @@
 {
   "category": "Casual",
   "slug": "casual",
-  "total_prompts": 26,
+  "total_prompts": 25,
   "updated_at": "2026-09-24T12:52:10Z",
   "prompts": [
     {
@@ -516,35 +516,6 @@
           "width": 1856,
           "height": 2287,
           "alt": "Gemini Ai Generated Image: A man in a bright, colorful Hawaiian-style shirt and light blue jeans stands indoors, holding an iced drink. He is in a modern, minimalist space that looks like a cafe or lobby, with a large green plant nearby."
-        }
-      ]
-    },
-    {
-      "id": "6a15472c564f4ca152670251",
-      "title": "Relaxing in the Garden",
-      "slug": "relaxing-in-the-garden",
-      "category": "Casual",
-      "category_slug": "casual",
-      "prompt": "Use the uploaded photo for face reference and create a portrait of a Bathed in warm sunlight, a young man with wavy hair sits relaxed on a small rustic wooden bench against a pastel blue wall, softened by lush green plants and small trees. His cream oversized sweatshirt tinged with light blue harmonizes with the backdrop, paired with loose light denim jeans and pristine white sneakers. Gentle shadows play across his calm, confident face and natural skin tone, illuminated by natural light that glistens subtly on his hair. The concrete floor, scattered with a few fallen leaves, adds warm earth tones to the scene. In the foreground and softly blurred background, hints of green leaves create depth through creamy bokeh captured with a 50mm f/1.4 lens. A minimal silver bracelet reflects the understated 90s vibe. The composition vertically frames his upper body with precise focus, showcasing realistic textures on fabric, skin, and hair, conveying a serene blue-green harmony in ultra-realistic cinematic lighting.",
-      "description": "",
-      "ai_tools": [
-        "Gemini"
-      ],
-      "like_count": 47,
-      "view_count": 1817,
-      "copy_count": 4147,
-      "is_premium": false,
-      "published_at": null,
-      "images": [
-        {
-          "filename": "IMG_20251203_140632.jpg",
-          "local_path": "images/casual/IMG_20251203_140632.jpg",
-          "original_url": "https://img.promptplum.com/promptImages/IMG_20251203_140632.jpg",
-          "cdn_url": "https://cdn.jsdelivr.net/gh/serkanakcay/prompts-data@main/images/casual/IMG_20251203_140632.jpg",
-          "raw_github_url": "https://raw.githubusercontent.com/serkanakcay/prompts-data/main/images/casual/IMG_20251203_140632.jpg",
-          "width": 1696,
-          "height": 2469,
-          "alt": "Gemini Generated Image: A young man is sitting on a wooden bench outdoors, surrounded by potted plants. He is wearing a light-colored, tie-dye sweatshirt, light-wash jeans, and white sneakers."
         }
       ]
     },
